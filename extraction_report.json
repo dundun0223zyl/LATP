@@ -1,0 +1,25 @@
+{
+  "stats": {
+    "success": 110,
+    "failed": 2,
+    "by_filetype": {
+      "txt": 53,
+      "pdf": 52,
+      "docx": 5
+    }
+  },
+  "successful_files_count": 110,
+  "failed_files_count": 2,
+  "failed_files": [
+    {
+      "filename": "city-of-london-early-years-strategy-2015-18.pdf",
+      "error": "No text extracted (possibly scanned PDF)",
+      "file_type": "pdf"
+    },
+    {
+      "filename": "children-and-young-peoples-plan-2018-21.pdf",
+      "error": "No text extracted (possibly scanned PDF)",
+      "file_type": "pdf"
+    }
+  ]
+}
