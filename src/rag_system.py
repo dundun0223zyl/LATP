@@ -15,7 +15,8 @@ from langchain.callbacks.tracers import LangChainTracer
 
 from tenacity import retry, wait_random_exponential, stop_after_attempt
 
-from enhanced_tracing import TracingManager
+from tracing import TracingManager  # Use the simple tracing manager
+
 # Configure logger
 logger = logging.getLogger("social_care_rag")
 
@@ -293,8 +294,8 @@ class RAGSystem:
         
         return scored_docs
 
-    @traceable(run_type="chain", name="Enhanced RAG Query Processing")
-    def process_query(self, query, top_k=10, prompt_variation_name=None, local_authority=None, query_id=None, use_enhanced_retrieval=True, retrieval_strategy='hybrid'):
+    @traceable(run_type="chain", name="RAG Query Processing")
+    def process_query(self, query, top_k=10, prompt_variation_name=None, local_authority=None, query_id=None, use_enhanced_retrieval=True):
         """Process a query through the RAG system with enhanced retrieval."""
         
         start_time = time.time()
@@ -323,7 +324,6 @@ class RAGSystem:
                     "query_id": query_id or "Unknown",
                     "top_k": top_k,
                     "use_enhanced_retrieval": use_enhanced_retrieval,
-                    "retrieval_strategy": retrieval_strategy if use_enhanced_retrieval else "semantic",
                     "timestamp": datetime.now().isoformat()
                 }
             
@@ -335,7 +335,7 @@ class RAGSystem:
                     f"local_authority:{local_authority or 'Unknown'}",
                     f"query_id:{query_id or 'Unknown'}",
                     f"retrieval:{'enhanced' if use_enhanced_retrieval else 'standard'}",
-                    "type:enhanced_query_processing"
+                    "type:query_processing"
                 ]
                 current_run.tags.extend(tags)
                 
@@ -349,7 +349,7 @@ class RAGSystem:
                 logger.info("Using standard semantic retrieval")
                 # Original retrieval method
                 query_embedding = self.embedding_model.encode(query).tolist()
-                retrieved_docs = self._enhanced_similarity_search(query, top_k, strategy=retrieval_strategy)
+                retrieved_docs = self.vector_db.similarity_search(query_embedding, top_k)
             
             logger.info(f"Retrieved {len(retrieved_docs)} documents for query")
 
@@ -389,8 +389,7 @@ class RAGSystem:
                 "retrieved_docs_count": len(retrieved_docs),
                 "query_length": len(query),
                 "answer_length": len(answer),
-                "retrieval_method": "enhanced" if use_enhanced_retrieval else "standard",
-                "retrieval_strategy": retrieval_strategy if use_enhanced_retrieval else "semantic"
+                "retrieval_method": "enhanced" if use_enhanced_retrieval else "standard"
             }
 
             # Add RAG-specific metrics
@@ -530,6 +529,8 @@ class RAGSystem:
             if current_run:
                 current_run.metadata["prompt_type"] = "chat"
                 current_run.metadata["prompt_template_name"] = prompt_variation_name or "default"
+                # Add context to the run for evaluation
+                current_run.metadata["context"] = context[:1000] + "..." if len(context) > 1000 else context
             
             # Call the LLM
             response = llm.invoke(formatted_messages)
@@ -594,132 +595,3 @@ class RAGSystem:
             logger.error(f"Error calculating RAG metrics: {str(e)}")
 
         return metrics
-
-    def _evaluate_relevance(self, query, response, retrieved_docs):
-        """Evaluate if the response is relevant to the query."""
-        # Simple relevance check - Are query terms in the response?
-        query_terms = set(query.lower().split())
-        response_lower = response.lower()
-
-        # Remove common words
-        common_words = {'the', 'a', 'an', 'and', 'or', 'but', 'in', 'on', 'at', 'to', 'for', 'is', 'are'}
-        query_terms = query_terms - common_words
-
-        # Count matching terms
-        matching_terms = sum(1 for term in query_terms if term in response_lower)
-        relevance_score = matching_terms / len(query_terms) if query_terms else 0
-
-        # Check if response references context
-        context_relevance = 0
-        if retrieved_docs:
-            key_phrases = []
-            for doc in retrieved_docs[:3]:  # Check top 3 docs
-                # Extract key phrases from each doc
-                doc_content = doc.get('content', '').lower()
-                doc_phrases = [s.strip() for s in doc_content.split('.') if len(s.strip()) > 20]
-                key_phrases.extend(doc_phrases[:2])  # Add top 2 phrases from each doc
-
-            # Check if response contains key phrases or fragments
-            phrase_matches = 0
-            for phrase in key_phrases:
-                words = phrase.split()
-                if len(words) >= 4:  # Only meaningful phrases
-                    # Check for 4-word segments in the phrase
-                    for i in range(len(words) - 3):
-                        segment = ' '.join(words[i:i+4])
-                        if segment in response_lower:
-                            phrase_matches += 1
-                            break
-
-            context_relevance = min(1.0, phrase_matches / max(1, len(key_phrases)))
-
-        # Combined score (70% query relevance, 30% context relevance)
-        final_score = (0.7 * relevance_score) + (0.3 * context_relevance)
-
-        if final_score >= 0.8:
-            comment = "Response is highly relevant to the query and uses context effectively."
-        elif final_score >= 0.5:
-            comment = "Response is somewhat relevant but could better address the query or use context."
-        else:
-            comment = "Response lacks relevance to the query or doesn't effectively use the provided context."
-
-        return final_score, comment
-
-    def _evaluate_completeness(self, query, response):
-        """Evaluate if the response completely answers the query."""
-        # Simple completeness check based on response length and structure
-        min_expected_length = 100  # Minimum characters for a complete response
-
-        # Longer responses tend to be more complete (up to a point)
-        length_score = min(1.0, len(response) / min_expected_length)
-
-        # Check for structural elements that suggest completeness
-        has_explanation = any(marker in response.lower() for marker in 
-                             ["because", "since", "as a result", "due to", "therefore"])
-        has_examples = any(marker in response.lower() for marker in 
-                          ["for example", "such as", "for instance", "e.g."])
-        has_conclusion = any(marker in response.lower() for marker in 
-                            ["in conclusion", "to summarize", "overall", "in summary"])
-
-        # Calculate structure score
-        structure_points = sum([has_explanation, has_examples, has_conclusion])
-        structure_score = structure_points / 3.0
-
-        # Combined score (60% length, 40% structure)
-        final_score = (0.6 * length_score) + (0.4 * structure_score)
-
-        if final_score >= 0.8:
-            comment = "Response is comprehensive and well-structured."
-        elif final_score >= 0.5:
-            comment = "Response addresses the query but could be more detailed or better structured."
-        else:
-            comment = "Response is incomplete or lacks sufficient detail."
-
-        return final_score, comment
-
-    def _evaluate_accuracy(self, response, retrieved_docs):
-        """Evaluate if the response accurately reflects the retrieved documents."""
-        # Extract named entities from response (simplified)
-        response_lower = response.lower()
-
-        # Extract possible entities (naive approach)
-        response_capitalized_words = [word for word in response.split() 
-                                     if word[0].isupper() and len(word) > 1]
-
-        # Create a combined context from retrieved docs
-        combined_context = ""
-        for doc in retrieved_docs:
-            combined_context += doc.get('content', '') + " "
-
-        context_lower = combined_context.lower()
-
-        # Check if capitalized words from response appear in context
-        entity_matches = 0
-        for entity in response_capitalized_words:
-            if entity.lower() in context_lower:
-                entity_matches += 1
-
-        entity_score = entity_matches / max(1, len(response_capitalized_words))
-
-        # Check for factual statements and qualifying language
-        has_qualifiers = any(term in response_lower for term in 
-                           ["might", "may", "could be", "possibly", "suggests"])
-
-        has_citations = any(term in response_lower for term in 
-                          ["according to", "as stated in", "the document mentions", 
-                           "as shown in", "as per"])
-
-        accuracy_points = sum([not has_qualifiers, has_citations])
-        accuracy_modifier = accuracy_points / 2.0
-
-        # Final score (70% entity matching, 30% statement quality)
-        final_score = (0.7 * entity_score) + (0.3 * accuracy_modifier)
-
-        if final_score >= 0.8:
-            comment = "Response appears to accurately reflect the information in the retrieved documents."
-        elif final_score >= 0.5:
-            comment = "Response is generally accurate but may contain some unsupported information."
-        else:
-            comment = "Response may contain significant information not supported by the retrieved documents."
-
-        return final_score, comment

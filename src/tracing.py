@@ -145,38 +145,25 @@ class TracingManager:
             # Create dataset
             dataset = self.client.create_dataset(dataset_name=dataset_name)
 
-            # Use default PROMPT_VARIATIONS if none provided
-            if prompt_variations_param is None:
-                # Import at the function level to avoid circular imports
-                from prompt_test import PROMPT_VARIATIONS
-                prompt_variations = list(PROMPT_VARIATIONS.keys())
-            else:
-                prompt_variations = prompt_variations_param
-            
-           # Add examples - one for each LA + query + prompt variation combination
+            # Simple dataset creation - just one example per LA + query combination
             examples = []
             for la in local_authorities:
                 for query in queries:
                     formatted_query = query["text"].format(LA=la)
-                    for prompt_name in prompt_variations:
-                    # Create a placeholder answer for reference output
-                        placeholder_answer = f"This is a placeholder answer for {la} regarding {query['id']}."
-                        examples.append({
-                            "inputs": {
-                                "query": formatted_query,
-                                "question": formatted_query,  # Add both formats for compatibility
-                                "metadata": {
-                                    "local_authority": la,
-                                    "query_id": query["id"],
-                                    "prompt_variation": prompt_name,  # Removed undefined variable
-                                    "query_type": query["id"].split("_")[0]
-                                }
-                            },
-                            # Add empty outputs to ensure dataset structure is valid
-                            "outputs": {
-                                "answer": placeholder_answer
-                            }
-                        })
+                    examples.append({
+                        "inputs": {
+                            "question": formatted_query,
+                            "query": formatted_query,  # Add both formats for compatibility
+                        },
+                        "outputs": {
+                            "answer": f"Expected answer for {la} regarding {query['id']}",
+                        },
+                        "metadata": {
+                            "local_authority": la,
+                            "query_id": query["id"],
+                            "query_type": query["id"].split("_")[0]
+                        }
+                    })
             
             # Add examples to dataset
             if examples:
@@ -226,6 +213,10 @@ class TracingManager:
                 score: float = Field(description="Score from 0.0 to 1.0")
                 explanation: str = Field(description="Explanation for the score")
 
+            class RAGFaithfulnessResponse(BaseModel):
+                score: float = Field(description="Score from 0.0 to 1.0")
+                explanation: str = Field(description="Explanation for the score")
+
             # Define the relevance evaluator
             def relevance_evaluator(inputs: dict, outputs: dict, reference_outputs: dict = None) -> dict:
                 """Evaluate the relevance of the response to the query."""
@@ -262,9 +253,9 @@ class TracingManager:
                 parsed_response = response.choices[0].message.parsed
 
                 return {
-                    "key": "relevance",  # The metric name
-                    "score": parsed_response.score,  # The score value
-                    "reasoning": parsed_response.explanation  # Explanation field should be named "reasoning"
+                    "key": "relevance",
+                    "score": parsed_response.score,
+                    "reasoning": parsed_response.explanation
                 }
 
             # Define the completeness evaluator
@@ -303,9 +294,9 @@ class TracingManager:
                 parsed_response = response.choices[0].message.parsed
 
                 return {
-                    "key": "completeness",  # The metric name
-                    "score": parsed_response.score,  # The score value
-                    "reasoning": parsed_response.explanation  # Explanation field should be named "reasoning"
+                    "key": "completeness",
+                    "score": parsed_response.score,
+                    "reasoning": parsed_response.explanation
                 }
 
             # Define the accuracy evaluator
@@ -344,9 +335,52 @@ class TracingManager:
                 parsed_response = response.choices[0].message.parsed
 
                 return {
-                    "key": "accuracy",  # The metric name
-                    "score": parsed_response.score,  # The score value
-                    "reasoning": parsed_response.explanation  # Explanation field should be named "reasoning"
+                    "key": "accuracy",
+                    "score": parsed_response.score,
+                    "reasoning": parsed_response.explanation
+                }
+
+            # Define the RAG faithfulness evaluator (hallucination detection)
+            def rag_faithfulness_evaluator(inputs: dict, outputs: dict, reference_outputs: dict = None) -> dict:
+                """Evaluate if the response is faithful to the context."""
+                instructions = """
+                You are evaluating whether a response about UK social care services is faithful to the provided context.
+                
+                Evaluate if all information in the response is supported by the context.
+                Check for any hallucinations or information that is not present in the context.
+                
+                Score from 0.0 to 1.0, where:
+                - 0.0: Response contains significant hallucinations or unsupported claims
+                - 0.3: Response contains some hallucinations or unsupported information
+                - 0.5: Response is mostly faithful but includes minor unsupported details
+                - 0.7: Response is faithful with very minor additions not found in context
+                - 1.0: Response is completely faithful to the context with no hallucinations
+                """
+
+                question = inputs.get("question", inputs.get("query", ""))
+                # Try to get context from different possible sources
+                context = inputs.get("context", "") or outputs.get("context", "")
+                answer = outputs.get("answer", "")
+
+                msg = f"Query: {question}\n\nContext:\n{context}\n\nResponse: {answer}"
+
+                response = wrapped_openai.beta.chat.completions.parse(
+                    model="gpt-4o-mini",
+                    messages=[
+                        {"role": "system", "content": instructions},
+                        {"role": "user", "content": msg}
+                    ],
+                    response_format=RAGFaithfulnessResponse,
+                    temperature=0.1
+                )
+
+                # Extract structured response
+                parsed_response = response.choices[0].message.parsed
+
+                return {
+                    "key": "faithfulness",
+                    "score": parsed_response.score,
+                    "reasoning": parsed_response.explanation
                 }
 
             # Define simple citation evaluator (rule-based, not LLM-based)
@@ -375,21 +409,20 @@ class TracingManager:
                     explanation = "Response lacks citations"
 
                 return {
-                    "key": "citation_score",  # The metric name
-                    "score": score,  # The score value
-                    "reasoning": explanation,  # Explanation field should be named "reasoning"
-                    # You can include additional fields, but they may be ignored by LangSmith
+                    "key": "citation_score",
+                    "score": score,
+                    "reasoning": explanation,
                     "metadata": {
                         "citation_count": citation_count
                     }
                 }
-
 
             # Create evaluators dictionary
             evaluators = {
                 "relevance": relevance_evaluator,
                 "completeness": completeness_evaluator,
                 "accuracy": accuracy_evaluator,
+                "faithfulness": rag_faithfulness_evaluator,
                 "citations": citation_evaluator
             }
 
@@ -411,8 +444,10 @@ class TracingManager:
         try:
             # Use pre-built evaluators if none specified
             if not evaluators:
-                logger.info("No evaluators specified. Using default evaluators.")
-                return None
+                evaluators = self.setup_evaluators()
+                if not evaluators:
+                    logger.error("No evaluators available for evaluation")
+                    return None
 
             # Get dataset by name or ID
             if isinstance(dataset_name, str):

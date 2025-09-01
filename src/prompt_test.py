@@ -11,7 +11,7 @@ import pandas as pd
 from rich.console import Console
 from rich.progress import Progress, BarColumn, TextColumn, TimeElapsedColumn
 
-from social_care_rag_simplified.src.enhanced_tracing import TracingManager
+from tracing import TracingManager
 
 # At the top of your prompt_test.py file
 from pathlib import Path
