@@ -1,0 +1,303 @@
+{
+  "query": "What is the process for requesting a social care assessment in kent?",
+  "retrieved_documents": [
+    {
+      "content": "[Page 1]\n  \n \n \n \n \n \n \n  \n \n Kent County Council Social Care, Health and Wellbeing \nHaving a carer\u2019s assessment \nUnder the Care Act 2014, a carer is an individual who provides or intends to provide care for \nanother adult. If you are a carer and you appear to have any level of needs for support, you are entitled to a carer\u2019s assessment. \nHaving a carer\u2019s assessment is not linked in any way to carer\u2019s allowance.  You can choose to have a: \u2022 Combined assessment where you will be assessed at the same time as the person you care \nfor by a social care practitioner working for the local authority. \n\u2022 A carer\u2019s assessment on your own, carried out by a commissioned carers organisation where you  can share with someone what impact caring has on you and your life. \nWhen you have a face to face assessment, the assessor will explore with you: \n\u2022 all the difculties you are facing (including your own health) \n\u2022 the ways you currently manage these challenges ( i.e. : is the person you are caring for",
+      "metadata": {
+        "chunk_id": 0,
+        "download_url": "https://www.kent.gov.uk/__data/assets/pdf_file/0013/30145/carers-assessment.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "carers-assessment.pdf",
+        "level": "level_2",
+        "page_count": 2,
+        "pages_with_content": "[1, 2]",
+        "source": "https://www.kent.gov.uk/social-care-and-health/adult-social-care/care-and-support/caring-for-other-people/request-a-carers-assessment",
+        "source_url": "https://www.kent.gov.uk/social-care-and-health/adult-social-care/care-and-support/caring-for-other-people/request-a-carers-assessment",
+        "total_chunks": 6,
+        "type": "pdf"
+      },
+      "id": "2b209cce-2529-4e84-ace9-87207a043813",
+      "distance": 0.4643847644329071,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.21068457067012786,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". These procedures should be used as required by practitioners across all adult social care teams and services in Kent. The information included will: Guide and inform practice; Provide information about local policy and procedures for social workers, occupational therapists and other social care practitioners in Kent; and Keep practitioners up to date with local and national developments in adult social care. Kent ASC & Health Documents and Templates The guidance on this site is based on national legal requirements and best practice. Some sections have been localised but to ensure that your practice meets and reflects our internal processes and local requirements, you should always check the Kent ASC & Health Documents and Templates area. This is where you will find internal processes, documents and internet/intranet links to support effective implementation of the procedures. You can access these directly from the navigation bar above or the big button below",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.kent.gov.uk_social-care-and-health_information-for-social-care-professionals_adults-procedures-m.txt",
+        "level": "level_2",
+        "source": "https://www.kent.gov.uk/social-care-and-health/information-for-social-care-professionals/adults-procedures-manual",
+        "source_url": "https://www.kent.gov.uk/social-care-and-health/information-for-social-care-professionals/adults-procedures-manual",
+        "total_chunks": 5,
+        "type": "web_page"
+      },
+      "id": "e739cd98-4158-4d98-bc74-876e4a139279",
+      "distance": 0.5277025699615479,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.19168922901153562,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 10 - FINANCIAL/BUDGET INFORMATION]\n We would be grateful if you could promote the platform in your service. If you would like to \nrequest copies of printed posters or flyers or gain further information, please email: \nconnecttosupport@kent.gov.uk  and visit the site at: kent.connecttosupport.org  \n  \nThe website has been developed in collaboration with people that access care and support \nand we are constantly seeking feedback, so please do use the online form to send through \nyour own comments and ideas to be considered for further development. Find out how you \ncan get involved in shaping adult social care and share your views, by joining the Your \nVoice Network. Visit kent.connecttosupport.org/get -involved  to register for updates.  \n \n   \n  \n BetterCare Support online self -assessment   \n \n \n \n \n \n \n \n \n \n   \nAdult Social Care and Health (Kent County Council) have \nlaunched BetterCare Support , an online self -assessment  tool, \nto enable people to live independently and safely within their",
+      "metadata": {
+        "chunk_id": 19,
+        "contains_financial_info": true,
+        "download_url": "https://www.kent.gov.uk/__data/assets/pdf_file/0007/163897/ASC-provider-bulletin-22-March-2024.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "ASC-provider-bulletin-22-March-2024.pdf",
+        "financial_pages": "[4, 5, 7, 8, 9, 10, 11]",
+        "level": "level_2",
+        "page_count": 11,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]",
+        "source": "https://www.kent.gov.uk/social-care-and-health/information-for-social-care-professionals/adult-social-care-provider-bulletins",
+        "source_url": "https://www.kent.gov.uk/social-care-and-health/information-for-social-care-professionals/adult-social-care-provider-bulletins",
+        "total_chunks": 22,
+        "type": "pdf"
+      },
+      "id": "2aec2ec7-701e-4331-8e5c-46d641f2802f",
+      "distance": 0.533484697341919,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.18995459079742433,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 27 - FINANCIAL/BUDGET INFORMATION]\n \n27 \n How to get in touch  \nAdults  Commissioning contact details  \nadultscommissioning@kent.gov.uk  \n\u2022 Care and support in communities  \n\u2022 Intermediate care, discharge and care support \nprevention  \n\u2022 Learning disability, physical disability and mental health \naccommodation  \n\u2022 Care in the home and independence  \n\u2022 Older persons accommodation  \n\u2022 Supported accommodation  \n \nIntegrated Commissioning contact details  \nintegratedteam@kent.gov.uk  \n \n\u2022 Prevention and public health services  \n\u2022 Domestic Abuse  \n\u2022 Wellbeing services  \n \nChildren\u2019s Commissioning contact details  \nccbusinesssupport@kent.gov.uk  \n\u2022  \nAccommodation and Support  \n\u2022 Community Resilience  \n\u2022 Strengthening Independence Service  \n\u2022 Inclusion and SEND  \n\u2022 Post-16 Transition  \n\u2022 Joint Commissioning/Joint Funding  \n Social care e mail and website  \nsocial.services@kent.gov.uk or see our website at: \nwww.kent.gov.uk/careandsupport  \nKent Connect to Support",
+      "metadata": {
+        "chunk_id": 61,
+        "contains_financial_info": true,
+        "download_url": "https://www.kent.gov.uk/__data/assets/pdf_file/0018/194004/ASC-Commissioning-Intentions-2025-to-2027.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "ASC-Commissioning-Intentions-2025-to-2027.pdf",
+        "financial_pages": "[4, 6, 7, 8, 9, 10, 11, 14, 15, 16, 17, 18, 22, 23, 24, 27]",
+        "level": "level_2",
+        "page_count": 27,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27]",
+        "source": "https://www.kent.gov.uk/about-the-council/strategies-and-policies/service-specific-policies/adult-social-care-policies/commissioning-intentions-2025-to-2027",
+        "source_url": "https://www.kent.gov.uk/about-the-council/strategies-and-policies/service-specific-policies/adult-social-care-policies/commissioning-intentions-2025-to-2027",
+        "total_chunks": 63,
+        "type": "pdf"
+      },
+      "id": "13b7c10c-4cd3-44f2-9cbd-7f0613018f76",
+      "distance": 0.5343937277793884,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1896818816661835,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". When you contact us The quickest way to get an assessment is to fill out the online referral form , but if you need to speak to us: call 03000 41 61 61 (Monday to Friday, 9am - 5pm) call 03000 41 91 91 (outside of office hours - for emergencies only) text relay 18001 03000 41 61 61 email social.services@kent.gov.uk . When you first contact us we will: take full details of the issues you are contacting us about decide with you whether an assessment is appropriate point you in the right direction if another service is better placed to meet your needs. Whenever you contact us we will: always listen to what you say be polite, honest and understanding give you our name and details let you know what will happen as a result of the contact with us if agreed, follow up the contact in writing",
+      "metadata": {
+        "chunk_id": 3,
+        "filename": "www.kent.gov.uk_social-care-and-health_adult-social-care_what-to-expect-from-kent-adult-social-care.txt",
+        "level": "level_1",
+        "source": "https://www.kent.gov.uk/social-care-and-health/adult-social-care/what-to-expect-from-kent-adult-social-care",
+        "source_url": "https://www.kent.gov.uk/social-care-and-health/adult-social-care/what-to-expect-from-kent-adult-social-care",
+        "total_chunks": 5,
+        "type": "web_page"
+      },
+      "id": "a0967c33-6b5a-4465-aaa1-061d8dda3105",
+      "distance": 0.5350572466850281,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.18948282599449157,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "request copies of printed posters or flyers or gain further information, please email: \nconnecttosupport@kent.gov.uk  and visit the site at: kent.connecttosupport.org  \nThe website has been developed in collaboration with people that access care and support \nand we are constantly seeking feedback, so please do use the online form to send through \nyour own comments and ideas to be considered for further development. Find out how you \ncan get involved in shaping adult social care and share your views, by joining the Your \nVoice Network. Visit kent.connecttosupport.org/get -i nvolved  t o register for updates. \nBetterCare Support online Self Assessment\nAdult Social Care and Health (Kent County Council) have \nlaunched BetterCare Support , an online self -a ssessment  tool, \nto enable people to live independently and safely within their \ncommunities and home.  \nBy answering questions about their social care needs, the tool provides people with",
+      "metadata": {
+        "chunk_id": 11,
+        "contains_financial_info": true,
+        "download_url": "https://www.kent.gov.uk/__data/assets/pdf_file/0005/163895/ASC-provider-bulletin-7-March-2024.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "ASC-provider-bulletin-7-March-2024.pdf",
+        "financial_pages": "[1, 2, 4, 5, 6, 7, 8]",
+        "level": "level_2",
+        "page_count": 8,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8]",
+        "source": "https://www.kent.gov.uk/social-care-and-health/information-for-social-care-professionals/adult-social-care-provider-bulletins",
+        "source_url": "https://www.kent.gov.uk/social-care-and-health/information-for-social-care-professionals/adult-social-care-provider-bulletins",
+        "total_chunks": 14,
+        "type": "pdf"
+      },
+      "id": "13d997fd-6e00-43ea-b5bb-b43aa0be3183",
+      "distance": 0.5372130870819092,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.18883607387542722,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Complete our professional referral form If you work for us and need to make a referral, you must contact the receiving team directly. Contact us The quickest way to get a care needs assessment is to complete a self assessment, but if you need to speak to us: call 03000 41 61 61 (Monday to Friday, 9am - 5pm) call 03000 41 91 91 (outside of office hours - for emergencies only ) text relay 18001 03000 41 61 61 email social.services@kent.gov.uk. To find out how we use the personal information you give us read our privacy notices .",
+      "metadata": {
+        "chunk_id": 5,
+        "filename": "www.kent.gov.uk_social-care-and-health_information-for-social-care-professionals_care-needs-assessme.txt",
+        "level": "level_2",
+        "source": "https://www.kent.gov.uk/social-care-and-health/information-for-social-care-professionals/care-needs-assessment-professional-referral",
+        "source_url": "https://www.kent.gov.uk/social-care-and-health/information-for-social-care-professionals/care-needs-assessment-professional-referral",
+        "total_chunks": 6,
+        "type": "web_page"
+      },
+      "id": "85458a55-ecd8-47a8-98b7-dc8def14e221",
+      "distance": 0.5396756529808044,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.18809730410575864,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Complete our professional referral form If you work for us and need to make a referral, you must contact the receiving team directly. Contact us The quickest way to get a care needs assessment is to complete a self assessment, but if you need to speak to us: call 03000 41 61 61 (Monday to Friday, 9am - 5pm) call 03000 41 91 91 (outside of office hours - for emergencies only ) text relay 18001 03000 41 61 61 email social.services@kent.gov.uk. To find out how we use the personal information you give us read our privacy notices .",
+      "metadata": {
+        "chunk_id": 5,
+        "filename": "www.kent.gov.uk_social-care-and-health_adult-social-care_care-and-support_how-to-get-adult-social-ca.txt",
+        "level": "level_2",
+        "source": "https://www.kent.gov.uk/social-care-and-health/adult-social-care/care-and-support/how-to-get-adult-social-care-support/care-needs-assessments",
+        "source_url": "https://www.kent.gov.uk/social-care-and-health/adult-social-care/care-and-support/how-to-get-adult-social-care-support/care-needs-assessments",
+        "total_chunks": 6,
+        "type": "web_page"
+      },
+      "id": "ec04877c-9c1a-422b-a1bd-9c6c2cc3e65f",
+      "distance": 0.5396756529808044,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.18809730410575864,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Carer's assessment factsheet  (PDF, 118.3 KB) Self care assessment Visit the BetterCare Carers Self-Assessment Tool. It\u2019s easy to use, confidential, and accessible. Plus, it gives you personalised advice and support including: information and advice about resources and support to help you live your life independently helping you explore your support needs helping you consider areas where you want to make a change and the support you may need to do this helping you use your strengths and capabilities in making the changes you want guiding you with useful animated videos. Complete the carers self assessment Request an assessment The quickest and easiest way to get help is online. We'll review all referrals within 2 working days and get in touch with the person needing support within 6 weeks. Make an online referral for an assessment Or call us on 03000 41 61 61 . If the person you care for does not live in Kent County Council's area you should contact the council covering the area where they live",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.kent.gov.uk_social-care-and-health_adult-social-care_care-and-support_caring-for-other-people_re.txt",
+        "level": "level_2",
+        "source": "https://www.kent.gov.uk/social-care-and-health/adult-social-care/care-and-support/caring-for-other-people/request-a-carers-assessment",
+        "source_url": "https://www.kent.gov.uk/social-care-and-health/adult-social-care/care-and-support/caring-for-other-people/request-a-carers-assessment",
+        "total_chunks": 5,
+        "type": "web_page"
+      },
+      "id": "3eec5f78-f702-461f-a688-cfcbd3656d80",
+      "distance": 0.5656149387359619,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.18031551837921145,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 26]\n \n26 \n Bibliography  \n \nTime to act , A roadmap for reforming care and support in \nEngland , ADASS, Association of  Directors Adult Social \nServices.  Anna Dixon and Kate Jopling  2023  \nwww.adass.org.uk  \nMaking a difference every day : our strategy for adult social \ncare, 2022 \u2013 2027  \u2013 Kent County Council, Adult Social Care \nand Health  www.kent.gov.uk  \nFraming Kent\u2019s Future  \u2013 Kent County  Council  \nwww.kent.gov.uk  \nThe Kent Joint Strategic Needs Assessment , Kent Public \nHealth Observatory  www.kpho.org.uk  \nAdult Social Care Commissioning Market Position \nStatements  2021 -26 www.kent.gov.uk  \nPeople at the Heart of Care : adult social care reform white \npaper , Department of Health and Social Care , 1 December \n2021  www.gov.uk  \nEnglish Devolution White Paper , Housing, Communities and \nLocal Government, 16 December 2024  www.gov.uk  \nKent and Medway Integrated Care Strategy , Kent & Medway \nICS www.kmhealthandcare.uk/about -us/vision -and-priorities",
+      "metadata": {
+        "chunk_id": 59,
+        "contains_financial_info": true,
+        "download_url": "https://www.kent.gov.uk/__data/assets/pdf_file/0018/194004/ASC-Commissioning-Intentions-2025-to-2027.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "ASC-Commissioning-Intentions-2025-to-2027.pdf",
+        "financial_pages": "[4, 6, 7, 8, 9, 10, 11, 14, 15, 16, 17, 18, 22, 23, 24, 27]",
+        "level": "level_2",
+        "page_count": 27,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27]",
+        "source": "https://www.kent.gov.uk/about-the-council/strategies-and-policies/service-specific-policies/adult-social-care-policies/commissioning-intentions-2025-to-2027",
+        "source_url": "https://www.kent.gov.uk/about-the-council/strategies-and-policies/service-specific-policies/adult-social-care-policies/commissioning-intentions-2025-to-2027",
+        "total_chunks": 63,
+        "type": "pdf"
+      },
+      "id": "e0749743-5d90-476c-9ccb-c0c8d4df0f17",
+      "distance": 0.5706098079681396,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.17881705760955813,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    }
+  ],
+  "context": "[Document 1] From https://www (pdf) - URL: https://www.kent.gov.uk/social-care-and-health/adult-social-care/care-and-support/caring-for-other-people/request-a-carers-assessment - 2 pages [Retrieved via: semantic_original]:\n[Page 1]\n  \n \n \n \n \n \n \n  \n \n Kent County Council Social Care, Health and Wellbeing \nHaving a carer\u2019s assessment \nUnder the Care Act 2014, a carer is an individual who provides or intends to provide care for \nanother adult. If you are a carer and you appear to have any level of needs for support, you are entitled to a carer\u2019s assessment. \nHaving a carer\u2019s assessment is not linked in any way to carer\u2019s allowance.  You can choose to have a: \u2022 Combined assessment where you will be assessed at the same time as the person you care \nfor by a social care practitioner working for the local authority. \n\u2022 A carer\u2019s assessment on your own, carried out by a commissioned carers organisation where you  can share with someone what impact caring has on you and your life. \nWhen you have a face to face assessment, the assessor will explore with you: \n\u2022 all the difculties you are facing (including your own health) \n\u2022 the ways you currently manage these challenges ( i.e. : is the person you are caring for\n\n[Document 2] From https://www (web_page) - URL: https://www.kent.gov.uk/social-care-and-health/information-for-social-care-professionals/adults-procedures-manual [Retrieved via: semantic_original]:\n. These procedures should be used as required by practitioners across all adult social care teams and services in Kent. The information included will: Guide and inform practice; Provide information about local policy and procedures for social workers, occupational therapists and other social care practitioners in Kent; and Keep practitioners up to date with local and national developments in adult social care. Kent ASC & Health Documents and Templates The guidance on this site is based on national legal requirements and best practice. Some sections have been localised but to ensure that your practice meets and reflects our internal processes and local requirements, you should always check the Kent ASC & Health Documents and Templates area. This is where you will find internal processes, documents and internet/intranet links to support effective implementation of the procedures. You can access these directly from the navigation bar above or the big button below\n\n[Document 3] From https://www (pdf) - URL: https://www.kent.gov.uk/social-care-and-health/information-for-social-care-professionals/adult-social-care-provider-bulletins - 11 pages [Retrieved via: semantic_original]:\n[Page 10 - FINANCIAL/BUDGET INFORMATION]\n We would be grateful if you could promote the platform in your service. If you would like to \nrequest copies of printed posters or flyers or gain further information, please email: \nconnecttosupport@kent.gov.uk  and visit the site at: kent.connecttosupport.org  \n  \nThe website has been developed in collaboration with people that access care and support \nand we are constantly seeking feedback, so please do use the online form to send through \nyour own comments and ideas to be considered for further development. Find out how you \ncan get involved in shaping adult social care and share your views, by joining the Your \nVoice Network. Visit kent.connecttosupport.org/get -involved  to register for updates.  \n \n   \n  \n BetterCare Support online self -assessment   \n \n \n \n \n \n \n \n \n \n   \nAdult Social Care and Health (Kent County Council) have \nlaunched BetterCare Support , an online self -assessment  tool, \nto enable people to live independently and safely within their\n\n[Document 4] From https://www (pdf) - URL: https://www.kent.gov.uk/about-the-council/strategies-and-policies/service-specific-policies/adult-social-care-policies/commissioning-intentions-2025-to-2027 - 27 pages [Retrieved via: semantic_original]:\n[Page 27 - FINANCIAL/BUDGET INFORMATION]\n \n27 \n How to get in touch  \nAdults  Commissioning contact details  \nadultscommissioning@kent.gov.uk  \n\u2022 Care and support in communities  \n\u2022 Intermediate care, discharge and care support \nprevention  \n\u2022 Learning disability, physical disability and mental health \naccommodation  \n\u2022 Care in the home and independence  \n\u2022 Older persons accommodation  \n\u2022 Supported accommodation  \n \nIntegrated Commissioning contact details  \nintegratedteam@kent.gov.uk  \n \n\u2022 Prevention and public health services  \n\u2022 Domestic Abuse  \n\u2022 Wellbeing services  \n \nChildren\u2019s Commissioning contact details  \nccbusinesssupport@kent.gov.uk  \n\u2022  \nAccommodation and Support  \n\u2022 Community Resilience  \n\u2022 Strengthening Independence Service  \n\u2022 Inclusion and SEND  \n\u2022 Post-16 Transition  \n\u2022 Joint Commissioning/Joint Funding  \n Social care e mail and website  \nsocial.services@kent.gov.uk or see our website at: \nwww.kent.gov.uk/careandsupport  \nKent Connect to Support\n\n[Document 5] From https://www (web_page) - URL: https://www.kent.gov.uk/social-care-and-health/adult-social-care/what-to-expect-from-kent-adult-social-care [Retrieved via: semantic_original]:\n. When you contact us The quickest way to get an assessment is to fill out the online referral form , but if you need to speak to us: call 03000 41 61 61 (Monday to Friday, 9am - 5pm) call 03000 41 91 91 (outside of office hours - for emergencies only) text relay 18001 03000 41 61 61 email social.services@kent.gov.uk . When you first contact us we will: take full details of the issues you are contacting us about decide with you whether an assessment is appropriate point you in the right direction if another service is better placed to meet your needs. Whenever you contact us we will: always listen to what you say be polite, honest and understanding give you our name and details let you know what will happen as a result of the contact with us if agreed, follow up the contact in writing\n\n[Document 6] From https://www (pdf) - URL: https://www.kent.gov.uk/social-care-and-health/information-for-social-care-professionals/adult-social-care-provider-bulletins - 8 pages [Retrieved via: semantic_original]:\nrequest copies of printed posters or flyers or gain further information, please email: \nconnecttosupport@kent.gov.uk  and visit the site at: kent.connecttosupport.org  \nThe website has been developed in collaboration with people that access care and support \nand we are constantly seeking feedback, so please do use the online form to send through \nyour own comments and ideas to be considered for further development. Find out how you \ncan get involved in shaping adult social care and share your views, by joining the Your \nVoice Network. Visit kent.connecttosupport.org/get -i nvolved  t o register for updates. \nBetterCare Support online Self Assessment\nAdult Social Care and Health (Kent County Council) have \nlaunched BetterCare Support , an online self -a ssessment  tool, \nto enable people to live independently and safely within their \ncommunities and home.  \nBy answering questions about their social care needs, the tool provides people with\n\n[Document 7] From https://www (web_page) - URL: https://www.kent.gov.uk/social-care-and-health/information-for-social-care-professionals/care-needs-assessment-professional-referral [Retrieved via: semantic_original]:\n. Complete our professional referral form If you work for us and need to make a referral, you must contact the receiving team directly. Contact us The quickest way to get a care needs assessment is to complete a self assessment, but if you need to speak to us: call 03000 41 61 61 (Monday to Friday, 9am - 5pm) call 03000 41 91 91 (outside of office hours - for emergencies only ) text relay 18001 03000 41 61 61 email social.services@kent.gov.uk. To find out how we use the personal information you give us read our privacy notices .\n\n[Document 8] From https://www (web_page) - URL: https://www.kent.gov.uk/social-care-and-health/adult-social-care/care-and-support/how-to-get-adult-social-care-support/care-needs-assessments [Retrieved via: semantic_original]:\n. Complete our professional referral form If you work for us and need to make a referral, you must contact the receiving team directly. Contact us The quickest way to get a care needs assessment is to complete a self assessment, but if you need to speak to us: call 03000 41 61 61 (Monday to Friday, 9am - 5pm) call 03000 41 91 91 (outside of office hours - for emergencies only ) text relay 18001 03000 41 61 61 email social.services@kent.gov.uk. To find out how we use the personal information you give us read our privacy notices .\n\n[Document 9] From https://www (web_page) - URL: https://www.kent.gov.uk/social-care-and-health/adult-social-care/care-and-support/caring-for-other-people/request-a-carers-assessment [Retrieved via: semantic_original]:\n. Carer's assessment factsheet  (PDF, 118.3 KB) Self care assessment Visit the BetterCare Carers Self-Assessment Tool. It\u2019s easy to use, confidential, and accessible. Plus, it gives you personalised advice and support including: information and advice about resources and support to help you live your life independently helping you explore your support needs helping you consider areas where you want to make a change and the support you may need to do this helping you use your strengths and capabilities in making the changes you want guiding you with useful animated videos. Complete the carers self assessment Request an assessment The quickest and easiest way to get help is online. We'll review all referrals within 2 working days and get in touch with the person needing support within 6 weeks. Make an online referral for an assessment Or call us on 03000 41 61 61 . If the person you care for does not live in Kent County Council's area you should contact the council covering the area where they live\n\n[Document 10] From https://www (pdf) - URL: https://www.kent.gov.uk/about-the-council/strategies-and-policies/service-specific-policies/adult-social-care-policies/commissioning-intentions-2025-to-2027 - 27 pages [Retrieved via: semantic_original]:\n[Page 26]\n \n26 \n Bibliography  \n \nTime to act , A roadmap for reforming care and support in \nEngland , ADASS, Association of  Directors Adult Social \nServices.  Anna Dixon and Kate Jopling  2023  \nwww.adass.org.uk  \nMaking a difference every day : our strategy for adult social \ncare, 2022 \u2013 2027  \u2013 Kent County Council, Adult Social Care \nand Health  www.kent.gov.uk  \nFraming Kent\u2019s Future  \u2013 Kent County  Council  \nwww.kent.gov.uk  \nThe Kent Joint Strategic Needs Assessment , Kent Public \nHealth Observatory  www.kpho.org.uk  \nAdult Social Care Commissioning Market Position \nStatements  2021 -26 www.kent.gov.uk  \nPeople at the Heart of Care : adult social care reform white \npaper , Department of Health and Social Care , 1 December \n2021  www.gov.uk  \nEnglish Devolution White Paper , Housing, Communities and \nLocal Government, 16 December 2024  www.gov.uk  \nKent and Medway Integrated Care Strategy , Kent & Medway \nICS www.kmhealthandcare.uk/about -us/vision -and-priorities\n",
+  "answer": "To request a social care assessment in Kent, you can complete an online referral form or contact Kent County Council directly.\n\n- **Online Referral**: The quickest way to request an assessment is by completing the online referral form available on the Kent County Council website. This method ensures that your request is reviewed within 2 working days, and they aim to contact the person needing support within 6 weeks.\n\n- **Contact by Phone**: If you prefer to speak to someone, you can call 03000 41 61 61 during office hours (Monday to Friday, 9 am - 5 pm) or 03000 41 91 91 for emergencies outside of these hours. Text relay services are available at 18001 03000 41 61 61.\n\n- **Email**: You can also email social.services@kent.gov.uk for assistance.\n\n- **Self-Assessment Tool**: Kent County Council offers the BetterCare Support online self-assessment tool, which can help individuals assess their social care needs independently.\n\nFor more detailed information or to begin the process, visit the Kent County Council's website at www.kent.gov.uk/careandsupport.",
+  "metrics": {
+    "duration_seconds": 15.212581872940063,
+    "retrieved_docs_count": 10,
+    "query_length": 68,
+    "answer_length": 1066,
+    "retrieval_method": "enhanced",
+    "context_utilization": 0.16046511627906976,
+    "citations_count": 0,
+    "has_citations": false,
+    "query_relevance": 0.7142857142857143,
+    "unique_retrieval_methods": 1,
+    "budget_documents_retrieved": 4,
+    "retrieval_methods_used": [
+      "semantic_original"
+    ],
+    "retrieval_method_distribution": {
+      "semantic_original": 10
+    }
+  },
+  "local_authority": "kent",
+  "query_id": "std_2",
+  "retrieval_method": "enhanced",
+  "run_id": "6f6a4d31-724a-48d7-8604-ccfb67e98df9",
+  "trace": {
+    "run_id": "6f6a4d31-724a-48d7-8604-ccfb67e98df9",
+    "project": "social_care_rag",
+    "url": "https://eu.smith.langchain.com/o/me/runs/6f6a4d31-724a-48d7-8604-ccfb67e98df9"
+  },
+  "test_metadata": {
+    "local_authority": "kent",
+    "query_id": "std_2",
+    "query_category": "service_standard",
+    "prompt_variation": "optimized",
+    "prompt_template": "\nPlease answer the following question about social care services in UK local authorities based only on the information in the provided documents.\n\nQuestion: {query}\n\nContext from relevant documents:\n{context}\n\nInstructions:\n1. Provide a clear, direct answer that would help someone needing this information. If information isn't available, state: \"The available documents don't provide specific information about [aspect].\"\n\n2. Synthesize information from ALL relevant documents to provide the most complete answer rather than analyzing documents individually.\n\n3. Structure your response with:\n   - A concise 1-2 sentence summary first\n   - Relevant details organized in short, clear paragraphs\n   - Bullet points for lists or step-by-step information\n   - Bold text for key information the user should notice\n\n4. For financial information:\n   - Include exact figures, time periods, and what the funding covers\n   - Present financial data clearly: \"The adult social care budget is **\u00a3X million** for [time period]\"\n\n5. Always include practical next steps or resources:\n   - Provide contact information, URLs, or application methods mentioned in the documents\n   - Suggest where the person could find more information\n\n6. When citing sources, use a simple format: \"According to [document name/description]\" or include URLs where available.\n\nAnswer:\n",
+    "processing_time": 15.216012001037598,
+    "timestamp": "2025-08-19T13:45:36.301733",
+    "top_k": 10
+  }
+}

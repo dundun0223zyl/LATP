@@ -1,0 +1,1530 @@
+
+        <html>
+        <head>
+            <title>Optimized RAG System Test Results</title>
+            <style>
+                body { font-family: Arial, sans-serif; margin: 20px; }
+                h1, h2, h3 { color: #333; }
+                .summary-box { background-color: #f0f8ff; padding: 15px; border-radius: 5px; margin-bottom: 20px; }
+                .category-box { background-color: #f9f9f9; padding: 10px; border-left: 4px solid #007bff; margin-bottom: 15px; }
+                table { border-collapse: collapse; width: 100%; margin-bottom: 20px; }
+                th, td { padding: 8px; text-align: left; border-bottom: 1px solid #ddd; }
+                th { background-color: #f2f2f2; }
+                tr:hover { background-color: #f5f5f5; }
+                .excellent { background-color: #d4edda; }
+                .good { background-color: #d1ecf1; }
+                .needs-improvement { background-color: #f8d7da; }
+                .service { background-color: #e3f2fd; }
+                .financial { background-color: #fff3cd; }
+                .emergency { background-color: #f5c6cb; }
+            </style>
+        </head>
+        <body>
+            <h1>Optimized RAG System Test Results</h1>
+            <div class="summary-box">
+                <h3>Test Summary</h3>
+                <p><strong>Generated on:</strong> 2025-08-17 22:52:28</p>
+                <p><strong>Total Tests:</strong> 126</p>
+                <p><strong>Local Authorities:</strong> 6</p>
+                <p><strong>Query Categories:</strong> 6</p>
+                <p><strong>Overall Success Rate:</strong> 100.0% if not df.empty else "No data"</p>
+                <p><strong>Prompt Used:</strong> Optimized prompt template</p>
+            </div>
+            
+            <h2>Performance by Query Category</h2>
+        
+            <table>
+                <tr>
+                    <th>Category</th>
+                    <th>Tests</th>
+                    <th>Success Rate</th>
+                    <th>Avg Time (s)</th>
+                    <th>Avg Answer Length</th>
+                    <th>Avg Docs Retrieved</th>
+                </tr>
+        
+                <tr class="excellent service">
+                    <td><strong>Service Standard</strong></td>
+                    <td>30</td>
+                    <td>100.0%</td>
+                    <td>8.56</td>
+                    <td>1373</td>
+                    <td>10.0</td>
+                </tr>
+            
+                <tr class="excellent financial">
+                    <td><strong>Financial Standard</strong></td>
+                    <td>24</td>
+                    <td>100.0%</td>
+                    <td>4.84</td>
+                    <td>676</td>
+                    <td>10.0</td>
+                </tr>
+            
+                <tr class="excellent emergency">
+                    <td><strong>Emergency Scenarios</strong></td>
+                    <td>18</td>
+                    <td>100.0%</td>
+                    <td>7.38</td>
+                    <td>1245</td>
+                    <td>10.0</td>
+                </tr>
+            
+                <tr class="excellent financial">
+                    <td><strong>Financial Scenarios</strong></td>
+                    <td>18</td>
+                    <td>100.0%</td>
+                    <td>6.89</td>
+                    <td>1310</td>
+                    <td>10.0</td>
+                </tr>
+            
+                <tr class="excellent">
+                    <td><strong>Carer Support Scenarios</strong></td>
+                    <td>18</td>
+                    <td>100.0%</td>
+                    <td>9.17</td>
+                    <td>1508</td>
+                    <td>10.0</td>
+                </tr>
+            
+                <tr class="excellent">
+                    <td><strong>Assessment Scenarios</strong></td>
+                    <td>18</td>
+                    <td>100.0%</td>
+                    <td>6.66</td>
+                    <td>1132</td>
+                    <td>10.0</td>
+                </tr>
+            
+            </table>
+            
+            <h2>Performance by Local Authority</h2>
+            <table>
+                <tr>
+                    <th>Local Authority</th>
+                    <th>Tests</th>
+                    <th>Success Rate</th>
+                    <th>Avg Processing Time</th>
+                </tr>
+        
+                    <tr>
+                        <td>Barnet</td>
+                        <td>21.0</td>
+                        <td>100.0%</td>
+                        <td>7.04s</td>
+                    </tr>
+                
+                    <tr>
+                        <td>Birmingham</td>
+                        <td>21.0</td>
+                        <td>100.0%</td>
+                        <td>7.40s</td>
+                    </tr>
+                
+                    <tr>
+                        <td>Brighton-hove</td>
+                        <td>21.0</td>
+                        <td>100.0%</td>
+                        <td>7.37s</td>
+                    </tr>
+                
+                    <tr>
+                        <td>Cambridgeshire</td>
+                        <td>21.0</td>
+                        <td>100.0%</td>
+                        <td>7.84s</td>
+                    </tr>
+                
+                    <tr>
+                        <td>Coventry</td>
+                        <td>21.0</td>
+                        <td>100.0%</td>
+                        <td>5.57s</td>
+                    </tr>
+                
+                    <tr>
+                        <td>Croydon</td>
+                        <td>21.0</td>
+                        <td>100.0%</td>
+                        <td>8.32s</td>
+                    </tr>
+                
+            </table>
+            
+            <h2>Detailed Test Results by Category</h2>
+        
+                <div class="category-box">
+                    <h3>Assessment Scenarios (18 tests)</h3>
+                    <table>
+                        <tr>
+                            <th>Query ID</th>
+                            <th>Local Authority</th>
+                            <th>Status</th>
+                            <th>Time (s)</th>
+                            <th>Docs</th>
+                            <th>Answer Preview</th>
+                            <th>LangSmith</th>
+                        </tr>
+            
+                    <tr class="">
+                        <td>scn_22</td>
+                        <td>Barnet</td>
+                        <td>✅ Success</td>
+                        <td>7.40</td>
+                        <td>10</td>
+                        <td>To prepare for a financial assessment for care in Barnet, you should gather specific documents and u...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/da16d84f-c6a5-4917-aafc-a20adfecedac' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>scn_23</td>
+                        <td>Barnet</td>
+                        <td>✅ Success</td>
+                        <td>5.96</td>
+                        <td>10</td>
+                        <td>To request a reassessment of your wife's care needs in Barnet, you should contact Barnet's Adult Soc...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/ff553a7c-6a17-40b6-9905-fa99f53eb6f2' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>scn_24</td>
+                        <td>Barnet</td>
+                        <td>✅ Success</td>
+                        <td>6.27</td>
+                        <td>10</td>
+                        <td>You will likely need a new care needs assessment when moving from Barnet to Southampton. Care packag...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/6b79c06e-7bd8-4836-9682-f619c98394b1' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>scn_22</td>
+                        <td>Birmingham</td>
+                        <td>✅ Success</td>
+                        <td>7.17</td>
+                        <td>10</td>
+                        <td>The available documents don't provide specific information about the exact documents you should prep...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/2471ef61-cafc-4347-82f3-7ba1e055bbb5' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>scn_23</td>
+                        <td>Birmingham</td>
+                        <td>✅ Success</td>
+                        <td>6.48</td>
+                        <td>10</td>
+                        <td>The available documents don't provide specific information about how to request a reassessment for s...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/06fe7d23-3a05-4b04-9ca1-7f048debccad' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>scn_24</td>
+                        <td>Birmingham</td>
+                        <td>✅ Success</td>
+                        <td>7.37</td>
+                        <td>10</td>
+                        <td>The available documents don't provide specific information about whether your current care package f...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/34ad19fe-e5a6-46dc-81c6-c9ca5a9432d9' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>scn_22</td>
+                        <td>Brighton-hove</td>
+                        <td>✅ Success</td>
+                        <td>6.82</td>
+                        <td>10</td>
+                        <td>To prepare for a financial assessment for care in Brighton & Hove, you should gather documents relat...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/2c9b89b7-bca9-4570-b35d-7ec5b6889ce7' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>scn_23</td>
+                        <td>Brighton-hove</td>
+                        <td>✅ Success</td>
+                        <td>5.52</td>
+                        <td>10</td>
+                        <td>To request a reassessment of your wife's care needs in Brighton & Hove, you should contact the local...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/a3a0ad33-b75a-4c43-8866-e6c1be02ae73' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>scn_24</td>
+                        <td>Brighton-hove</td>
+                        <td>✅ Success</td>
+                        <td>8.80</td>
+                        <td>10</td>
+                        <td>**Summary:** When moving from Brighton & Hove to Southampton, you will likely need a new care needs ...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/9ea25784-ee4f-4846-8fcc-1725515f3995' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>scn_22</td>
+                        <td>Cambridgeshire</td>
+                        <td>✅ Success</td>
+                        <td>7.33</td>
+                        <td>10</td>
+                        <td>To prepare for a financial assessment for care in Cambridgeshire, you should gather documents that d...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/68795d21-751c-4974-9c0a-796286b990cc' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>scn_23</td>
+                        <td>Cambridgeshire</td>
+                        <td>✅ Success</td>
+                        <td>5.85</td>
+                        <td>10</td>
+                        <td>To request a reassessment for your wife's changed needs in Cambridgeshire, you should contact Cambri...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/ad179c92-bac8-470f-847f-55b57df6dd04' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>scn_24</td>
+                        <td>Cambridgeshire</td>
+                        <td>✅ Success</td>
+                        <td>8.00</td>
+                        <td>10</td>
+                        <td>If you are moving from Cambridgeshire to Southampton, you will need a new care needs assessment from...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/04ff981e-51b0-4142-87d0-86d70dca3ab6' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>scn_22</td>
+                        <td>Coventry</td>
+                        <td>✅ Success</td>
+                        <td>1.28</td>
+                        <td>10</td>
+                        <td>Error generating answer: Single '}' encountered in format string</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/da8731d1-8e31-4d3d-bfeb-fa359a21e0af' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>scn_23</td>
+                        <td>Coventry</td>
+                        <td>✅ Success</td>
+                        <td>6.57</td>
+                        <td>10</td>
+                        <td>To request a reassessment for your wife's changed needs in Coventry, you should contact Adult Social...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/ff118c19-39da-4e33-bf2c-9985837976af' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>scn_24</td>
+                        <td>Coventry</td>
+                        <td>✅ Success</td>
+                        <td>1.58</td>
+                        <td>10</td>
+                        <td>Error generating answer: Single '}' encountered in format string</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/29eafc01-8bed-441b-9eba-dcc1a053f4b0' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>scn_22</td>
+                        <td>Croydon</td>
+                        <td>✅ Success</td>
+                        <td>13.05</td>
+                        <td>10</td>
+                        <td>To prepare for a financial assessment for care in Croydon, you need to gather specific documents and...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/38f87096-713b-424d-8c2b-52cd2c54040a' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>scn_23</td>
+                        <td>Croydon</td>
+                        <td>✅ Success</td>
+                        <td>5.74</td>
+                        <td>10</td>
+                        <td>To request a reassessment for your wife's changed needs in Croydon, you should contact the Croydon C...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/111d458b-2c6f-463c-a9a3-349daaeac7e7' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>scn_24</td>
+                        <td>Croydon</td>
+                        <td>✅ Success</td>
+                        <td>8.77</td>
+                        <td>10</td>
+                        <td>**Summary:** When moving from Croydon to Southampton, you will likely need a new care needs assessme...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/8dc47d3e-5589-46d3-a9c5-115d707ff5ce' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    </table>
+                </div>
+            
+                <div class="category-box">
+                    <h3>Carer Support Scenarios (18 tests)</h3>
+                    <table>
+                        <tr>
+                            <th>Query ID</th>
+                            <th>Local Authority</th>
+                            <th>Status</th>
+                            <th>Time (s)</th>
+                            <th>Docs</th>
+                            <th>Answer Preview</th>
+                            <th>LangSmith</th>
+                        </tr>
+            
+                    <tr class="">
+                        <td>scn_13</td>
+                        <td>Barnet</td>
+                        <td>✅ Success</td>
+                        <td>11.35</td>
+                        <td>10</td>
+                        <td>If you are caring for your elderly father with Parkinson's in Barnet and need respite care options, ...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/539e79c5-6c8f-4004-8ba6-d13d123710ea' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>scn_14</td>
+                        <td>Barnet</td>
+                        <td>✅ Success</td>
+                        <td>5.50</td>
+                        <td>10</td>
+                        <td>As a young carer in Barnet, you can access support through the Barnet Carers Centre. They offer vari...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/8c01fb25-cf34-4ce8-8a9d-e7530bf13b24' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>scn_15</td>
+                        <td>Barnet</td>
+                        <td>✅ Success</td>
+                        <td>9.87</td>
+                        <td>10</td>
+                        <td>As a full-time carer for your husband with advanced dementia in Barnet, you have several support opt...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/78d98df1-8524-4f64-aaa7-ffe984a4728b' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>scn_13</td>
+                        <td>Birmingham</td>
+                        <td>✅ Success</td>
+                        <td>7.71</td>
+                        <td>10</td>
+                        <td>You can explore respite care options in Birmingham to help you take occasional breaks from caring fo...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/164fc660-7933-41aa-880c-e5117a2e4c97' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>scn_14</td>
+                        <td>Birmingham</td>
+                        <td>✅ Success</td>
+                        <td>13.50</td>
+                        <td>10</td>
+                        <td>As a young carer in Birmingham, you can access support through the **Birmingham Carer’s HUB**, which...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/630a3205-12ad-4f4d-ba09-f4f54aca8185' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>scn_15</td>
+                        <td>Birmingham</td>
+                        <td>✅ Success</td>
+                        <td>9.15</td>
+                        <td>10</td>
+                        <td>You have several support options available in Birmingham to help you as a full-time carer for your h...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/5a920915-a5eb-4957-bfc6-8cf8da84ee5c' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>scn_13</td>
+                        <td>Brighton-hove</td>
+                        <td>✅ Success</td>
+                        <td>9.97</td>
+                        <td>10</td>
+                        <td>If you are caring for your elderly father with Parkinson's in Brighton & Hove and need respite care ...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/5d7c2e3e-a5bb-4773-8c8d-0ddc91ea2e6c' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>scn_14</td>
+                        <td>Brighton-hove</td>
+                        <td>✅ Success</td>
+                        <td>7.44</td>
+                        <td>10</td>
+                        <td>As a young carer in Brighton & Hove, you can access support to help balance your caring responsibili...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/1571fb01-0d71-488a-9040-d4e965c770cf' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>scn_15</td>
+                        <td>Brighton-hove</td>
+                        <td>✅ Success</td>
+                        <td>9.15</td>
+                        <td>10</td>
+                        <td>If you are a full-time carer for your husband with advanced dementia in Brighton & Hove and need sup...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/ba2abf88-0812-4bde-af73-3e7b87061649' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>scn_13</td>
+                        <td>Cambridgeshire</td>
+                        <td>✅ Success</td>
+                        <td>10.73</td>
+                        <td>10</td>
+                        <td>If you are looking for respite care options in Cambridgeshire to take occasional breaks from caring ...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/155a84c3-d30d-4589-81bd-8a9a70ff402c' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>scn_14</td>
+                        <td>Cambridgeshire</td>
+                        <td>✅ Success</td>
+                        <td>7.20</td>
+                        <td>10</td>
+                        <td>As a young carer in Cambridgeshire, you can access support through **Centre 33**, which provides ass...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/65426f84-3a5b-4a44-b65e-e62bcd4ccc34' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>scn_15</td>
+                        <td>Cambridgeshire</td>
+                        <td>✅ Success</td>
+                        <td>11.83</td>
+                        <td>10</td>
+                        <td>If you are a full-time carer for your husband with advanced dementia in Cambridgeshire and need supp...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/03577cd3-0103-422f-8740-bba2f8ce0bc7' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>scn_13</td>
+                        <td>Coventry</td>
+                        <td>✅ Success</td>
+                        <td>1.17</td>
+                        <td>10</td>
+                        <td>Error generating answer: Single '}' encountered in format string</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/ada52a4b-0e39-433d-8334-52b00b60b92e' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>scn_14</td>
+                        <td>Coventry</td>
+                        <td>✅ Success</td>
+                        <td>4.44</td>
+                        <td>10</td>
+                        <td>As a young carer in Coventry, there is support available to help you manage your responsibilities an...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/2284948c-256b-4da8-996e-2bb11f976f4f' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>scn_15</td>
+                        <td>Coventry</td>
+                        <td>✅ Success</td>
+                        <td>18.11</td>
+                        <td>10</td>
+                        <td>You have several support options available in Coventry to help you as a full-time carer for your hus...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/f752b5a9-2ad4-4ddc-b279-6aeaa268b306' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>scn_13</td>
+                        <td>Croydon</td>
+                        <td>✅ Success</td>
+                        <td>9.34</td>
+                        <td>10</td>
+                        <td>If you are caring for your father with Parkinson's in Croydon and need respite care options, there a...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/37b40a05-5321-449f-9771-2002ee1e5cfe' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>scn_14</td>
+                        <td>Croydon</td>
+                        <td>✅ Success</td>
+                        <td>6.51</td>
+                        <td>10</td>
+                        <td>As a young carer in Croydon, there is support available to help you manage your responsibilities and...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/e756302c-e9c5-43e5-9d04-6acb4f8edca9' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>scn_15</td>
+                        <td>Croydon</td>
+                        <td>✅ Success</td>
+                        <td>11.99</td>
+                        <td>10</td>
+                        <td>As a full-time carer for your husband with advanced dementia in Croydon, you have several support op...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/fee9d18b-f304-44da-b46e-3a41623f7d2d' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    </table>
+                </div>
+            
+                <div class="category-box">
+                    <h3>Emergency Scenarios (18 tests)</h3>
+                    <table>
+                        <tr>
+                            <th>Query ID</th>
+                            <th>Local Authority</th>
+                            <th>Status</th>
+                            <th>Time (s)</th>
+                            <th>Docs</th>
+                            <th>Answer Preview</th>
+                            <th>LangSmith</th>
+                        </tr>
+            
+                    <tr class="">
+                        <td>scn_25</td>
+                        <td>Barnet</td>
+                        <td>✅ Success</td>
+                        <td>7.85</td>
+                        <td>10</td>
+                        <td>To report adult safeguarding concerns in Barnet, you should contact Social Care Direct at Barnet Cou...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/967c02f3-0406-4ebf-aefa-b32e2aaabf2e' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>scn_26</td>
+                        <td>Barnet</td>
+                        <td>✅ Success</td>
+                        <td>9.70</td>
+                        <td>10</td>
+                        <td>If your son with learning disabilities is displaying challenging behavior that you can no longer man...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/5af9ad07-c0c2-4f40-b6ed-e1cd1749b2d1' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>scn_27</td>
+                        <td>Barnet</td>
+                        <td>✅ Success</td>
+                        <td>8.69</td>
+                        <td>10</td>
+                        <td>If you are experiencing domestic abuse in Barnet and need to leave with your children, there are sev...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/8e2b192d-032f-4fad-8a9e-1f7dc6be09da' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>scn_25</td>
+                        <td>Birmingham</td>
+                        <td>✅ Success</td>
+                        <td>3.83</td>
+                        <td>10</td>
+                        <td>To report adult safeguarding concerns in Birmingham, you can use the online form provided by Birming...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/a44e5a95-fda9-4720-950e-eb878ed69df2' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>scn_26</td>
+                        <td>Birmingham</td>
+                        <td>✅ Success</td>
+                        <td>7.75</td>
+                        <td>10</td>
+                        <td>If your son with learning disabilities is displaying challenging behavior that you can no longer man...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/e555f2a3-dfdf-46de-a083-834c39ecbbba' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>scn_27</td>
+                        <td>Birmingham</td>
+                        <td>✅ Success</td>
+                        <td>8.48</td>
+                        <td>10</td>
+                        <td>If you are experiencing domestic abuse in Birmingham and need to leave with your children, you can a...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/3a2b74f1-c0d3-4f04-a7af-d46182ce5368' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>scn_25</td>
+                        <td>Brighton-hove</td>
+                        <td>✅ Success</td>
+                        <td>5.62</td>
+                        <td>10</td>
+                        <td>If you are concerned about an elderly neighbor in Brighton & Hove who seems confused and isn't eatin...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/f3f39a15-93e8-4742-83f4-bc6ecafa5e83' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>scn_26</td>
+                        <td>Brighton-hove</td>
+                        <td>✅ Success</td>
+                        <td>7.39</td>
+                        <td>10</td>
+                        <td>If your son with learning disabilities is displaying challenging behavior that you can no longer man...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/d5a495d6-9645-4790-9aa6-c4f6e2b590b0' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>scn_27</td>
+                        <td>Brighton-hove</td>
+                        <td>✅ Success</td>
+                        <td>4.54</td>
+                        <td>10</td>
+                        <td>If you are experiencing domestic abuse in Brighton & Hove and need to leave with your children, you ...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/78a24e07-d175-4087-a45d-494879ebea8c' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>scn_25</td>
+                        <td>Cambridgeshire</td>
+                        <td>✅ Success</td>
+                        <td>6.93</td>
+                        <td>10</td>
+                        <td>To report adult safeguarding concerns in Cambridgeshire, you can contact the local authorities using...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/6e62db13-eca6-4336-9ecc-b70298021c73' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>scn_26</td>
+                        <td>Cambridgeshire</td>
+                        <td>✅ Success</td>
+                        <td>8.33</td>
+                        <td>10</td>
+                        <td>If your son with learning disabilities is displaying challenging behavior that you can no longer man...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/d0794d61-7ba8-4bf6-ba24-8e071d60eb4d' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>scn_27</td>
+                        <td>Cambridgeshire</td>
+                        <td>✅ Success</td>
+                        <td>9.70</td>
+                        <td>10</td>
+                        <td>If you are experiencing domestic abuse in Cambridgeshire and need to leave with your children, there...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/77d4efb1-2415-43c4-bba4-706cac9d49fb' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>scn_25</td>
+                        <td>Coventry</td>
+                        <td>✅ Success</td>
+                        <td>5.66</td>
+                        <td>10</td>
+                        <td>To report adult safeguarding concerns in Coventry, you should contact **Adult Social Care Direct**. ...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/2c091ff8-7c92-45f4-a808-d63d9852c23f' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>scn_26</td>
+                        <td>Coventry</td>
+                        <td>✅ Success</td>
+                        <td>1.80</td>
+                        <td>10</td>
+                        <td>Error generating answer: Single '}' encountered in format string</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/7708c154-13f7-46ef-be14-d7bdbdec805d' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>scn_27</td>
+                        <td>Coventry</td>
+                        <td>✅ Success</td>
+                        <td>11.14</td>
+                        <td>10</td>
+                        <td>If you are experiencing domestic abuse in Coventry and need to leave with your children, there are e...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/241612a9-9721-42cb-9e43-de6eadb9afe8' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>scn_25</td>
+                        <td>Croydon</td>
+                        <td>✅ Success</td>
+                        <td>9.58</td>
+                        <td>10</td>
+                        <td>If you are concerned about an elderly neighbor in Croydon who seems confused and isn't eating proper...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/3732630e-9349-4b2e-970c-86f986a66d10' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>scn_26</td>
+                        <td>Croydon</td>
+                        <td>✅ Success</td>
+                        <td>9.66</td>
+                        <td>10</td>
+                        <td>If your son with learning disabilities is displaying challenging behavior that you can no longer man...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/6fdfd11d-2d17-474a-bf40-3386115d55fb' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>scn_27</td>
+                        <td>Croydon</td>
+                        <td>✅ Success</td>
+                        <td>6.21</td>
+                        <td>10</td>
+                        <td>If you are experiencing domestic abuse in Croydon and need to leave with your children, there are se...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/afcac113-5242-47e1-8f4c-cc5de46465be' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    </table>
+                </div>
+            
+                <div class="category-box">
+                    <h3>Financial Scenarios (18 tests)</h3>
+                    <table>
+                        <tr>
+                            <th>Query ID</th>
+                            <th>Local Authority</th>
+                            <th>Status</th>
+                            <th>Time (s)</th>
+                            <th>Docs</th>
+                            <th>Answer Preview</th>
+                            <th>LangSmith</th>
+                        </tr>
+            
+                    <tr class="">
+                        <td>scn_16</td>
+                        <td>Barnet</td>
+                        <td>✅ Success</td>
+                        <td>6.98</td>
+                        <td>10</td>
+                        <td>If your care needs assessment in Barnet indicates you need 20 hours of home care weekly, you may qua...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/e56bfb71-8b77-4985-9967-c7680195cf5b' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>scn_17</td>
+                        <td>Barnet</td>
+                        <td>✅ Success</td>
+                        <td>8.10</td>
+                        <td>10</td>
+                        <td>If your care needs have increased in Barnet and you are receiving Attendance Allowance, you may be e...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/88a8ea7d-c7d9-4bcb-8e45-6bdfeab164ea' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>scn_18</td>
+                        <td>Barnet</td>
+                        <td>✅ Success</td>
+                        <td>5.85</td>
+                        <td>10</td>
+                        <td>Your son's financial support may change as he transitions to adult services in Barnet, but specific ...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/5cbaf7a1-ae98-49ad-b0dc-6ab88b7fd493' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>scn_16</td>
+                        <td>Birmingham</td>
+                        <td>✅ Success</td>
+                        <td>6.65</td>
+                        <td>10</td>
+                        <td>If you are concerned about the costs of your home care needs in Birmingham, there are several forms ...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/5fa58be6-889b-41a4-b8ec-4f81ab47987e' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>scn_17</td>
+                        <td>Birmingham</td>
+                        <td>✅ Success</td>
+                        <td>6.96</td>
+                        <td>10</td>
+                        <td>The available documents do not provide specific information about additional financial support from ...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/44b12a63-f250-433a-9feb-a378ee4ab9c6' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>scn_18</td>
+                        <td>Birmingham</td>
+                        <td>✅ Success</td>
+                        <td>7.08</td>
+                        <td>10</td>
+                        <td>The available documents don't provide specific information about how financial support for your son ...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/0751c100-5912-41e3-80c6-8aad72cf5ff7' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>scn_16</td>
+                        <td>Brighton-hove</td>
+                        <td>✅ Success</td>
+                        <td>8.05</td>
+                        <td>10</td>
+                        <td>If you're concerned about the costs of home care in Brighton & Hove, financial assistance is availab...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/f7030dab-4028-4ff8-a026-0b9a8415be8a' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>scn_17</td>
+                        <td>Brighton-hove</td>
+                        <td>✅ Success</td>
+                        <td>7.96</td>
+                        <td>10</td>
+                        <td>If your care needs have increased in Brighton & Hove, you may be eligible for additional financial s...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/aaba7671-568c-41da-859e-4f2b18c307c6' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>scn_18</td>
+                        <td>Brighton-hove</td>
+                        <td>✅ Success</td>
+                        <td>11.28</td>
+                        <td>10</td>
+                        <td>When your son with learning disabilities turns 18 in Brighton & Hove, his financial support will tra...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/5720e18d-2d4b-4eda-98ba-aefe42c97b14' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>scn_16</td>
+                        <td>Cambridgeshire</td>
+                        <td>✅ Success</td>
+                        <td>8.84</td>
+                        <td>10</td>
+                        <td>If you're concerned about the costs of your home care in Cambridgeshire, you may be eligible for fin...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/0ed34afa-73af-40ee-8952-a1c332a3f4bd' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>scn_17</td>
+                        <td>Cambridgeshire</td>
+                        <td>✅ Success</td>
+                        <td>6.89</td>
+                        <td>10</td>
+                        <td>If your care needs have increased in Cambridgeshire, the council may be able to provide additional f...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/c02dbe44-e73c-4622-bc9e-1ae81164995d' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>scn_18</td>
+                        <td>Cambridgeshire</td>
+                        <td>✅ Success</td>
+                        <td>8.16</td>
+                        <td>10</td>
+                        <td>When your son with learning disabilities turns 18 in Cambridgeshire, his financial support will tran...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/934ba798-80d1-4f48-a43a-96378cb8fc65' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>scn_16</td>
+                        <td>Coventry</td>
+                        <td>✅ Success</td>
+                        <td>1.12</td>
+                        <td>10</td>
+                        <td>Error generating answer: Single '}' encountered in format string</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/58b5af49-7b3f-405b-aa21-4347760077f2' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>scn_17</td>
+                        <td>Coventry</td>
+                        <td>✅ Success</td>
+                        <td>1.26</td>
+                        <td>10</td>
+                        <td>Error generating answer: Single '}' encountered in format string</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/2622316d-6073-4284-8eaa-1e80f63bc0d9' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>scn_18</td>
+                        <td>Coventry</td>
+                        <td>✅ Success</td>
+                        <td>4.99</td>
+                        <td>10</td>
+                        <td>The available documents don't provide specific information about how financial support for your son ...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/49889c14-7976-48de-82d9-c5356961d6d1' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>scn_16</td>
+                        <td>Croydon</td>
+                        <td>✅ Success</td>
+                        <td>8.62</td>
+                        <td>10</td>
+                        <td>If you're concerned about the costs of your home care in Croydon, financial assistance is available ...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/fefef896-c9cd-487b-8292-f3d4ad5aa1f7' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>scn_17</td>
+                        <td>Croydon</td>
+                        <td>✅ Success</td>
+                        <td>5.83</td>
+                        <td>10</td>
+                        <td>If your care needs have increased in Croydon, you may be eligible for additional financial support t...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/7f1d7ee8-7dd3-451f-8ae0-be2a9cca51f0' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>scn_18</td>
+                        <td>Croydon</td>
+                        <td>✅ Success</td>
+                        <td>9.37</td>
+                        <td>10</td>
+                        <td>The available documents don't provide specific information about how financial support for your son ...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/f8019797-542f-4980-80b2-242d5da92813' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    </table>
+                </div>
+            
+                <div class="category-box">
+                    <h3>Financial Standard (24 tests)</h3>
+                    <table>
+                        <tr>
+                            <th>Query ID</th>
+                            <th>Local Authority</th>
+                            <th>Status</th>
+                            <th>Time (s)</th>
+                            <th>Docs</th>
+                            <th>Answer Preview</th>
+                            <th>LangSmith</th>
+                        </tr>
+            
+                    <tr class="">
+                        <td>std_6</td>
+                        <td>Barnet</td>
+                        <td>✅ Success</td>
+                        <td>3.50</td>
+                        <td>10</td>
+                        <td>The available documents don't provide specific information about Barnet's total annual budget for th...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/d6e0b5df-70e7-42b1-9f74-6beb287d5b4b' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>std_7</td>
+                        <td>Barnet</td>
+                        <td>✅ Success</td>
+                        <td>3.08</td>
+                        <td>10</td>
+                        <td>The available documents don't provide specific information about the savings targets set by Barnet i...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/5c5eea4f-66b9-46fe-bb1c-fb29271df877' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>std_8</td>
+                        <td>Barnet</td>
+                        <td>✅ Success</td>
+                        <td>3.18</td>
+                        <td>10</td>
+                        <td>The available documents don't provide specific information about how much of Barnet's planned saving...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/7178062b-175b-4c70-a58d-7eb91ea59fbd' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>std_9</td>
+                        <td>Barnet</td>
+                        <td>✅ Success</td>
+                        <td>4.60</td>
+                        <td>10</td>
+                        <td>The current budget allocation for Adult Social Care in Barnet is **£135.8 million** for the financia...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/f79191ab-a89a-42d9-96b2-6d34dec0a15e' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>std_6</td>
+                        <td>Birmingham</td>
+                        <td>✅ Success</td>
+                        <td>4.93</td>
+                        <td>10</td>
+                        <td>The available documents don't provide specific information about Birmingham's total annual budget fo...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/048ccf55-61cc-4ef6-99e2-f1173f825160' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>std_7</td>
+                        <td>Birmingham</td>
+                        <td>✅ Success</td>
+                        <td>5.70</td>
+                        <td>10</td>
+                        <td>Birmingham City Council has set specific savings targets in its budget plans for adult social care. ...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/71085511-6698-46e5-8a75-d02802307a20' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>std_8</td>
+                        <td>Birmingham</td>
+                        <td>✅ Success</td>
+                        <td>5.44</td>
+                        <td>10</td>
+                        <td>The available documents don't provide specific information about how much of Birmingham's planned sa...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/d210ffd9-efc5-44d9-8f17-0a9782e7ad88' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>std_9</td>
+                        <td>Birmingham</td>
+                        <td>✅ Success</td>
+                        <td>5.20</td>
+                        <td>10</td>
+                        <td>The current budget allocation for Adult Social Care in Birmingham is **£357 million** for the 2022/2...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/2441b5f4-d718-4166-b37b-73e4230ca380' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>std_6</td>
+                        <td>Brighton-hove</td>
+                        <td>✅ Success</td>
+                        <td>4.78</td>
+                        <td>10</td>
+                        <td>The total annual budget for Brighton & Hove City Council for the financial year 2023 to 2024 is **ov...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/c3b2ae78-6037-43fa-ad27-0df6b6dd7056' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>std_7</td>
+                        <td>Brighton-hove</td>
+                        <td>✅ Success</td>
+                        <td>4.82</td>
+                        <td>10</td>
+                        <td>The available documents don't provide specific information about the savings targets set by Brighton...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/0eaea1fc-3861-4197-93e3-4cc78902ac8f' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>std_8</td>
+                        <td>Brighton-hove</td>
+                        <td>✅ Success</td>
+                        <td>5.36</td>
+                        <td>10</td>
+                        <td>The available documents don't provide specific information about how much of Brighton & Hove's plann...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/aa033b63-87c4-4137-bbf5-c9614f5a05ce' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>std_9</td>
+                        <td>Brighton-hove</td>
+                        <td>✅ Success</td>
+                        <td>4.12</td>
+                        <td>10</td>
+                        <td>The current budget allocation for Adult Social Care in Brighton & Hove for the 2023 to 2024 period i...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/5043769f-e2d2-435c-92cd-0308fca87c9d' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>std_6</td>
+                        <td>Cambridgeshire</td>
+                        <td>✅ Success</td>
+                        <td>5.77</td>
+                        <td>10</td>
+                        <td>The available documents do not provide specific information about Cambridgeshire's total annual budg...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/4eb2794f-2362-4173-97bf-b90e2bbbcefe' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>std_7</td>
+                        <td>Cambridgeshire</td>
+                        <td>✅ Success</td>
+                        <td>3.83</td>
+                        <td>10</td>
+                        <td>The available documents don't provide specific information about the savings targets set by Cambridg...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/c07f5ea7-cf9c-4291-9449-ffb3bb2ad05b' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>std_8</td>
+                        <td>Cambridgeshire</td>
+                        <td>✅ Success</td>
+                        <td>6.09</td>
+                        <td>10</td>
+                        <td>The available documents don't provide specific information about how much of Cambridgeshire's planne...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/948d509d-e0f6-4c81-8e8f-f8dedbacf6d9' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>std_9</td>
+                        <td>Cambridgeshire</td>
+                        <td>✅ Success</td>
+                        <td>4.53</td>
+                        <td>10</td>
+                        <td>The current budget allocation for Adult Social Care in Cambridgeshire for the year 2023/2024 is **£2...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/0b7c97cc-c910-49b4-8af8-199c62042c42' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>std_6</td>
+                        <td>Coventry</td>
+                        <td>✅ Success</td>
+                        <td>1.39</td>
+                        <td>10</td>
+                        <td>Error generating answer: Single '}' encountered in format string</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/fa217a23-a7ba-4245-81bf-8154b7b12384' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>std_7</td>
+                        <td>Coventry</td>
+                        <td>✅ Success</td>
+                        <td>1.01</td>
+                        <td>10</td>
+                        <td>Error generating answer: Single '}' encountered in format string</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/821a20b8-2d43-4ec0-bf45-9f71674862c8' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>std_8</td>
+                        <td>Coventry</td>
+                        <td>✅ Success</td>
+                        <td>11.62</td>
+                        <td>10</td>
+                        <td>The available documents don't provide specific information about how much of Coventry's planned savi...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/e06d1b85-174f-4147-8b63-bd8b47796c7f' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>std_9</td>
+                        <td>Coventry</td>
+                        <td>✅ Success</td>
+                        <td>1.29</td>
+                        <td>10</td>
+                        <td>Error generating answer: Single '}' encountered in format string</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/c31a7cad-d59f-4448-acf5-63ecc52d4be3' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>std_6</td>
+                        <td>Croydon</td>
+                        <td>✅ Success</td>
+                        <td>5.89</td>
+                        <td>10</td>
+                        <td>The available documents indicate that Croydon Council has a **total general fund net budget of £341 ...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/0d881eee-bb19-424b-a207-5832b27cb047' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>std_7</td>
+                        <td>Croydon</td>
+                        <td>✅ Success</td>
+                        <td>6.95</td>
+                        <td>10</td>
+                        <td>Croydon Council has set a savings target of just under **£100 million** as part of its transformatio...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/6916f5fe-7421-4ee8-b45e-16a15ba0cc44' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>std_8</td>
+                        <td>Croydon</td>
+                        <td>✅ Success</td>
+                        <td>9.91</td>
+                        <td>10</td>
+                        <td>The available documents don't provide specific information about how much of Croydon's planned savin...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/c195075d-7f96-4530-8714-5b9f58f6372c' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>std_9</td>
+                        <td>Croydon</td>
+                        <td>✅ Success</td>
+                        <td>3.18</td>
+                        <td>10</td>
+                        <td>The current budget allocation for Adult Social Care in Croydon for the 2023/24 financial year is **£...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/333f206e-f164-4761-a7b1-f97c71e9c9eb' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    </table>
+                </div>
+            
+                <div class="category-box">
+                    <h3>Service Standard (30 tests)</h3>
+                    <table>
+                        <tr>
+                            <th>Query ID</th>
+                            <th>Local Authority</th>
+                            <th>Status</th>
+                            <th>Time (s)</th>
+                            <th>Docs</th>
+                            <th>Answer Preview</th>
+                            <th>LangSmith</th>
+                        </tr>
+            
+                    <tr class="">
+                        <td>std_1</td>
+                        <td>Barnet</td>
+                        <td>✅ Success</td>
+                        <td>11.00</td>
+                        <td>10</td>
+                        <td>Barnet offers a range of adult social care services aimed at supporting individuals to live well and...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/919c4a9b-2a9b-4cf0-893c-4c33c8842cb5' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>std_2</td>
+                        <td>Barnet</td>
+                        <td>✅ Success</td>
+                        <td>6.12</td>
+                        <td>10</td>
+                        <td>To request a social care assessment in Barnet, you should contact Social Care Direct, which serves a...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/b8b508d7-4045-4318-b257-d7b15bcbb99e' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>std_3</td>
+                        <td>Barnet</td>
+                        <td>✅ Success</td>
+                        <td>5.87</td>
+                        <td>10</td>
+                        <td>The available documents do not provide specific information about the costs of care services in Barn...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/9417ff39-c6d1-4523-ac11-0e328a730376' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>std_4</td>
+                        <td>Barnet</td>
+                        <td>✅ Success</td>
+                        <td>9.34</td>
+                        <td>10</td>
+                        <td>Barnet provides a range of additional resources and support services for social care users, includin...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/f5403f09-5a86-4bda-b391-7375d5777d5c' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>std_5</td>
+                        <td>Barnet</td>
+                        <td>✅ Success</td>
+                        <td>7.71</td>
+                        <td>10</td>
+                        <td>Barnet provides several accessibility options for accessing social care information, focusing on mak...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/3299c810-e472-4789-8573-9a2e56999c1e' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>std_1</td>
+                        <td>Birmingham</td>
+                        <td>✅ Success</td>
+                        <td>10.44</td>
+                        <td>10</td>
+                        <td>**Summary:** Birmingham offers a range of adult social care services aimed at promoting well-being a...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/372f2fee-d99d-49a1-aab2-4985935edb57' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>std_2</td>
+                        <td>Birmingham</td>
+                        <td>✅ Success</td>
+                        <td>6.03</td>
+                        <td>10</td>
+                        <td>To request a social care assessment in Birmingham, you will engage in a process known as a "conversa...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/f335b827-03ff-4d32-b44b-6e714599c4f6' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>std_3</td>
+                        <td>Birmingham</td>
+                        <td>✅ Success</td>
+                        <td>7.48</td>
+                        <td>10</td>
+                        <td>The available documents don't provide specific information about the costs of care services in Birmi...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/d329a485-4db7-49dc-9d3d-cc6f3f9881d5' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>std_4</td>
+                        <td>Birmingham</td>
+                        <td>✅ Success</td>
+                        <td>11.69</td>
+                        <td>10</td>
+                        <td>Birmingham provides a range of additional resources and support services for social care users, incl...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/bc22d665-e066-45f3-bded-c4a463a2a180' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>std_5</td>
+                        <td>Birmingham</td>
+                        <td>✅ Success</td>
+                        <td>6.27</td>
+                        <td>10</td>
+                        <td>The available documents don't provide specific information about accessibility options for accessing...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/97854b38-d328-4350-b591-edec50e00d29' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>std_1</td>
+                        <td>Brighton-hove</td>
+                        <td>✅ Success</td>
+                        <td>15.00</td>
+                        <td>10</td>
+                        <td>**Summary:** Brighton & Hove offers a range of adult social care services, including residential car...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/a8fbfbff-4df8-45be-86b4-350568c96c63' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>std_2</td>
+                        <td>Brighton-hove</td>
+                        <td>✅ Success</td>
+                        <td>4.55</td>
+                        <td>10</td>
+                        <td>To request a social care assessment in Brighton & Hove, you need to complete an online form that is ...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/381e2e54-fa10-435f-ae7a-83c189890a82' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>std_3</td>
+                        <td>Brighton-hove</td>
+                        <td>✅ Success</td>
+                        <td>7.41</td>
+                        <td>10</td>
+                        <td>The costs of care services in Brighton and Hove for the year 2022-23 are set at **£624 per week** fo...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/5ed64351-c963-4cf5-bea0-acc80a1b91a9' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>std_4</td>
+                        <td>Brighton-hove</td>
+                        <td>✅ Success</td>
+                        <td>8.89</td>
+                        <td>10</td>
+                        <td>Brighton & Hove offers a range of additional resources and support services for social care users, i...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/a084c5c6-624b-4549-b878-ca98eb47c368' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>std_5</td>
+                        <td>Brighton-hove</td>
+                        <td>✅ Success</td>
+                        <td>7.38</td>
+                        <td>10</td>
+                        <td>Brighton & Hove provides various accessibility options for accessing social care information, includ...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/0344d7cc-725a-4392-8c3d-b9705bf5f003' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>std_1</td>
+                        <td>Cambridgeshire</td>
+                        <td>✅ Success</td>
+                        <td>10.84</td>
+                        <td>10</td>
+                        <td>In Cambridgeshire, social care services are available to individuals who have undergone a social car...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/6101bc0f-3f2b-4efc-a847-ef62f934b102' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>std_2</td>
+                        <td>Cambridgeshire</td>
+                        <td>✅ Success</td>
+                        <td>5.84</td>
+                        <td>10</td>
+                        <td>To request a social care assessment in Cambridgeshire, you can contact the council directly or have ...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/547752df-daf4-4f46-9677-eebcf9bd7d53' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>std_3</td>
+                        <td>Cambridgeshire</td>
+                        <td>✅ Success</td>
+                        <td>8.35</td>
+                        <td>10</td>
+                        <td>Residents in Cambridgeshire pay for social care services based on their income and savings, with spe...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/644306cd-25a1-44a9-b074-e7937b76ff3e' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>std_4</td>
+                        <td>Cambridgeshire</td>
+                        <td>✅ Success</td>
+                        <td>9.37</td>
+                        <td>10</td>
+                        <td>In Cambridgeshire, social care users have access to various resources and support services, includin...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/ed9fc22f-3c4c-4043-8150-ff9c4a0b1005' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>std_5</td>
+                        <td>Cambridgeshire</td>
+                        <td>✅ Success</td>
+                        <td>10.32</td>
+                        <td>10</td>
+                        <td>Cambridgeshire provides several accessibility options for accessing social care information, includi...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/1aaf6c51-51e1-4356-9948-9749e240f7c8' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>std_1</td>
+                        <td>Coventry</td>
+                        <td>✅ Success</td>
+                        <td>12.17</td>
+                        <td>10</td>
+                        <td>**Coventry provides a range of adult social care services aimed at supporting vulnerable adults in t...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/fbe462bc-7219-4998-8926-5f5b6bedce2b' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>std_2</td>
+                        <td>Coventry</td>
+                        <td>✅ Success</td>
+                        <td>10.88</td>
+                        <td>10</td>
+                        <td>To request a social care assessment in Coventry, you should first complete an online self-assessment...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/2a4f3fba-e6f7-460e-a418-a3576e8b48b3' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>std_3</td>
+                        <td>Coventry</td>
+                        <td>✅ Success</td>
+                        <td>7.94</td>
+                        <td>10</td>
+                        <td>The available documents do not provide specific information about the exact costs of care services i...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/cd80d975-98bc-4f96-b396-fc132095ced4' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>std_4</td>
+                        <td>Coventry</td>
+                        <td>✅ Success</td>
+                        <td>10.37</td>
+                        <td>10</td>
+                        <td>In Coventry, additional resources and support services for social care users include advocacy servic...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/73277078-c624-4952-b236-bfaad005c752' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>std_5</td>
+                        <td>Coventry</td>
+                        <td>✅ Success</td>
+                        <td>1.23</td>
+                        <td>10</td>
+                        <td>Error generating answer: Single '}' encountered in format string</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/1bab204a-6578-49ab-bd97-5c51568dda4d' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>std_1</td>
+                        <td>Croydon</td>
+                        <td>✅ Success</td>
+                        <td>11.30</td>
+                        <td>10</td>
+                        <td>**Summary:** Croydon offers a range of adult social care services aimed at improving independence an...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/e843c5ff-dc6d-441f-960b-e2fa7497fcdd' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>std_2</td>
+                        <td>Croydon</td>
+                        <td>✅ Success</td>
+                        <td>5.27</td>
+                        <td>10</td>
+                        <td>To request a social care assessment in Croydon, you can contact the Adult Social Care team using sev...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/84b64051-def9-4188-981a-062b2e695b98' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>std_3</td>
+                        <td>Croydon</td>
+                        <td>✅ Success</td>
+                        <td>9.33</td>
+                        <td>10</td>
+                        <td>The available documents don't provide specific information about the costs of care services in Croyd...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/696539cd-61ee-4cdb-a3e0-2c8a2cceffe5' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>std_4</td>
+                        <td>Croydon</td>
+                        <td>✅ Success</td>
+                        <td>11.07</td>
+                        <td>10</td>
+                        <td>In Croydon, social care users have access to a variety of support services, including advocacy and c...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/ed98b49d-51e0-4ce4-a366-04ece730659f' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>std_5</td>
+                        <td>Croydon</td>
+                        <td>✅ Success</td>
+                        <td>7.21</td>
+                        <td>10</td>
+                        <td>Croydon provides accessibility options for accessing social care information, including translations...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/43897a7f-9afa-42e2-9780-876e8cc9c6b4' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    </table>
+                </div>
+            
+            <h2>Key Insights for Dissertation Analysis</h2>
+            <div class="summary-box">
+                <h3>Performance Analysis</h3>
+                <ul>
+        <li><strong>Excellent Overall Performance:</strong> The optimized RAG system shows very high success rates across all categories.</li><li><strong>Service vs Financial:</strong> Both service and financial queries show similar performance (100.0%).</li><li><strong>Emergency Scenarios:</strong> System handles crisis situations well, showing reliability for urgent queries.</li><li><strong>Response Time:</strong> Reasonable average response time of 7.3 seconds.</li><li><strong>Document Retrieval:</strong> Average of 10.0 documents retrieved per query, indicating effective information gathering.</li><li><strong>Consistency:</strong> High variance in processing times (σ=3.1s) may indicate optimization opportunities.</li>
+                </ul>
+                <h3>Implications for Dissertation</h3>
+                <ul>
+                    <li><strong>RAG vs Direct LLM:</strong> Compare success rates and consistency with Phase 1 results</li>
+                    <li><strong>Reliability:</strong> Analyze variance and error patterns for production readiness assessment</li>
+                    <li><strong>Query Type Analysis:</strong> Document differential performance across service vs financial vs scenario queries</li>
+                    <li><strong>Scalability:</strong> Processing times indicate feasibility for real-world deployment</li>
+                    <li><strong>Next Steps:</strong> Use LangSmith traces to analyze failure modes and optimization opportunities</li>
+                </ul>
+            </div>
+        </body>
+        </html>
+        

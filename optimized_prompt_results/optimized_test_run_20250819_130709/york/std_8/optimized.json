@@ -1,0 +1,349 @@
+{
+  "query": "How much of york's planned savings are targeted to come from social care services?",
+  "retrieved_documents": [
+    {
+      "content": "[Page 15 - FINANCIAL/BUDGET INFORMATION]\nChallenges\nWe know that when early support is available and \ninterventions are planned as far in advance as possible, people live well and independently. However, in recent years, a significant strain has been placed on resources due to COVID, national financial allocations, an increase in life expectancy, and an increase in the number of people living with multiple and complex conditions. It has also meant that health and social care services will often only become involved after a crisis is reached and there is often an over-reliance on informal care.  \n\u2022 Financial pr essures on the system\n\u2022 Pa y and conditions\n\u2022 Gr owth in complexity of need\n\u2022 W ellbeing\n\u2022 Repr esentation of social care\n\u2022 National funding mo dels for social care  \nPriorities \nCommunication",
+      "metadata": {
+        "chunk_id": 36,
+        "contains_financial_info": true,
+        "download_url": "",
+        "extraction_method": "PyPDF2",
+        "filename": "adult-social-care-strategy.pdf",
+        "financial_pages": "[3, 7, 8, 9, 12, 13, 14, 15, 17, 20]",
+        "level": "level_1",
+        "page_count": 24,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24]",
+        "source": "adult-social-care-strategy.pdf",
+        "source_url": "",
+        "total_chunks": 55,
+        "type": "pdf"
+      },
+      "id": "5e5e0351-c3ab-4d2d-907e-bc0974d38677",
+      "distance": 0.725283682346344,
+      "retrieval_method": "semantic_expanded_2",
+      "expanded_query": "social care budget",
+      "combined_score": 0.5957016085828101,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 4,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_expanded_2"
+      }
+    },
+    {
+      "content": "[Page 6 - FINANCIAL/BUDGET INFORMATION]\n6\nPaying for care\nWe use a \u2018financial assessment\u2019 to work out:\n\u2022  how much, if any, of your care costs we can help with \n\u2022 how much of your care costs you need to pay \nWe\u2019ll follow Government guidelines to work out your contribution; \ndepending on your income, savings and any assets you have, you may \nhave to pay for some or all of your care. \nWe will also check whether you are getting the right amount of \nwelfare benefits and help you to claim what\u2019s due to you, to make sure \nyou don\u2019t miss out. \nCalculating your contribution\nThere is a limit to the amount of \u2018capital\u2019 you can have and get help \npaying for your care. Your capital includes savings, investments and \nproperty. \nIf you are in a care home you may be eligible for a \u2018deferred \npayment\u2019, to cover some or all of your care costs; we can help to \nexplain this further if needed.\nThe Government says you must keep at least \u00a324.90 of your income \nper week to cover any expenses such as toiletries, newspapers or",
+      "metadata": {
+        "chunk_id": 9,
+        "contains_financial_info": true,
+        "download_url": "",
+        "extraction_method": "PyPDF2",
+        "filename": "a-quick-guide-to-adult-social-care.pdf",
+        "financial_pages": "[4, 5, 6, 7, 8]",
+        "level": "level_2",
+        "page_count": 12,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]",
+        "source": "a-quick-guide-to-adult-social-care.pdf",
+        "source_url": "",
+        "total_chunks": 17,
+        "type": "pdf"
+      },
+      "id": "ef850bf3-f855-4d30-b210-809595c5ef73",
+      "distance": 0.7884408235549927,
+      "retrieval_method": "semantic_expanded_2",
+      "expanded_query": "social care budget",
+      "combined_score": 0.5403908298565792,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 4,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_expanded_2"
+      }
+    },
+    {
+      "content": "[Page 6 - FINANCIAL/BUDGET INFORMATION]\n6\nPaying for care\nWe use a \u2018financial assessment\u2019 to work out:\n\u2022  how much, if any, of your care costs we can help with \n\u2022 how much of your care costs you need to pay \nWe\u2019ll follow Government guidelines to work out your contribution; \ndepending on your income, savings and any assets you have, you may \nhave to pay for some or all of your care. \nWe will also check whether you are getting the right amount of \nwelfare benefits and help you to claim what\u2019s due to you, to make sure \nyou don\u2019t miss out. \nCalculating your contribution\nThere is a limit to the amount of \u2018capital\u2019 you can have and get help \npaying for your care. Your capital includes savings, investments and \nproperty. \nIf you are in a care home you may be eligible for a \u2018deferred \npayment\u2019, to cover some or all of your care costs; we can help to \nexplain this further if needed.\nThe Government says you must keep at least \u00a324.90 of your income \nper week to cover any expenses such as toiletries, newspapers or",
+      "metadata": {
+        "chunk_id": 9,
+        "contains_financial_info": true,
+        "download_url": "",
+        "extraction_method": "PyPDF2",
+        "filename": "a-quick-guide-to-adult-social-care.pdf",
+        "financial_pages": "[4, 5, 6, 7, 8]",
+        "level": "level_1",
+        "page_count": 12,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]",
+        "source": "a-quick-guide-to-adult-social-care.pdf",
+        "source_url": "",
+        "total_chunks": 17,
+        "type": "pdf"
+      },
+      "id": "27b6647b-2a1e-4add-b7d3-bd449d28cae5",
+      "distance": 0.7884408235549927,
+      "retrieval_method": "semantic_expanded_2",
+      "expanded_query": "social care budget",
+      "combined_score": 0.5403908298565792,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 4,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_expanded_2"
+      }
+    },
+    {
+      "content": "[Page 1]\n1\nWhat you need to know...\nA quick guide to \nAdult Social Care",
+      "metadata": {
+        "chunk_id": 0,
+        "contains_financial_info": true,
+        "download_url": "",
+        "extraction_method": "PyPDF2",
+        "filename": "a-quick-guide-to-adult-social-care.pdf",
+        "financial_pages": "[4, 5, 6, 7, 8]",
+        "level": "level_2",
+        "page_count": 12,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]",
+        "source": "a-quick-guide-to-adult-social-care.pdf",
+        "source_url": "",
+        "total_chunks": 17,
+        "type": "pdf"
+      },
+      "id": "10676f7b-914c-49a2-828c-c9575fc7ab6f",
+      "distance": 0.529410183429718,
+      "retrieval_method": "semantic_expanded_1",
+      "expanded_query": "adult social care",
+      "combined_score": 0.5346405813347209,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_expanded_1"
+      }
+    },
+    {
+      "content": "[Page 1]\n1\nWhat you need to know...\nA quick guide to \nAdult Social Care",
+      "metadata": {
+        "chunk_id": 0,
+        "contains_financial_info": true,
+        "download_url": "",
+        "extraction_method": "PyPDF2",
+        "filename": "a-quick-guide-to-adult-social-care.pdf",
+        "financial_pages": "[4, 5, 6, 7, 8]",
+        "level": "level_1",
+        "page_count": 12,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]",
+        "source": "a-quick-guide-to-adult-social-care.pdf",
+        "source_url": "",
+        "total_chunks": 17,
+        "type": "pdf"
+      },
+      "id": "3615c9c8-9088-46a1-a740-dfbea799ffd4",
+      "distance": 0.529410183429718,
+      "retrieval_method": "semantic_expanded_1",
+      "expanded_query": "adult social care",
+      "combined_score": 0.5346405813347209,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_expanded_1"
+      }
+    },
+    {
+      "content": "an emphasis on outcomes and person-centred practice. And for the first \ntime participation in work has been identified as an outcome for adults \nwith care and support needs. This development should ensure that the \nfocus on young people having employment as they move into adulthood \nis maintained by adult social care. Social care professionals are expected \nto work in partnership with health and education to find creative ways of \nensuring that individuals are able to express their views and are supported \nto engage in decision making, including arranging independent advocacy if \nrequired.\nDeveloping person-centred, measurable outcomes across different areas \nof the lives of young people is a challenge that is common to both Acts.",
+      "metadata": {
+        "chunk_id": 13,
+        "contains_financial_info": true,
+        "download_url": "",
+        "extraction_method": "PyPDF2",
+        "filename": "comparing-the-children-and-families-act-2014-and-the-care-act-2014.pdf",
+        "financial_pages": "[2, 3, 6, 7, 8, 9, 10, 12, 13, 14, 15, 16, 18]",
+        "level": "level_2",
+        "page_count": 19,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]",
+        "source": "comparing-the-children-and-families-act-2014-and-the-care-act-2014.pdf",
+        "source_url": "",
+        "total_chunks": 46,
+        "type": "pdf"
+      },
+      "id": "0603356b-3a1b-4f4b-a5f6-0d6a72066e51",
+      "distance": 0.7536042928695679,
+      "retrieval_method": "semantic_expanded_1",
+      "expanded_query": "adult social care",
+      "combined_score": 0.510282348502766,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_expanded_1"
+      }
+    },
+    {
+      "content": "[Page 2 - FINANCIAL/BUDGET INFORMATION]\n  \n4.   Write down your decisions, choices and ideas . \n \n  \n5.   Put all of this information into your Support Plan.  \n \n \nWhat if I don\u2019t agree with the amount of mone y in my \nPersonal Budget?  \n \n \n \n Your Care Manager will look at your Support Plan. They \nwill check that you are being given the correct amount \nof money to meet your care needs. Your Care Manager \nwill make sure that your Personal Budget is fair.  \n \n \nFor furthe r information please look at the other Fact \nsheets in this series and our website: \nwww.york.gov.uk",
+      "metadata": {
+        "chunk_id": 1,
+        "contains_financial_info": true,
+        "download_url": "",
+        "extraction_method": "PyPDF2",
+        "filename": "how-to-get-a-personal-budget.pdf",
+        "financial_pages": "[1, 2]",
+        "level": "level_2",
+        "page_count": 2,
+        "pages_with_content": "[1, 2]",
+        "source": "how-to-get-a-personal-budget.pdf",
+        "source_url": "",
+        "total_chunks": 2,
+        "type": "pdf"
+      },
+      "id": "70c0f436-138c-418e-b138-251c475f3f4f",
+      "distance": 0.8110126256942749,
+      "retrieval_method": "semantic_expanded_2",
+      "expanded_query": "social care budget",
+      "combined_score": 0.495157750753256,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_expanded_2"
+      }
+    },
+    {
+      "content": "[Page 2 - FINANCIAL/BUDGET INFORMATION]\n  \n4.   Write down your decisions, choices and ideas . \n \n  \n5.   Put all of this information into your Support Plan.  \n \n \nWhat if I don\u2019t agree with the amount of mone y in my \nPersonal Budget?  \n \n \n \n Your Care Manager will look at your Support Plan. They \nwill check that you are being given the correct amount \nof money to meet your care needs. Your Care Manager \nwill make sure that your Personal Budget is fair.  \n \n \nFor furthe r information please look at the other Fact \nsheets in this series and our website: \nwww.york.gov.uk",
+      "metadata": {
+        "chunk_id": 1,
+        "contains_financial_info": true,
+        "download_url": "",
+        "extraction_method": "PyPDF2",
+        "filename": "how-to-get-a-personal-budget.pdf",
+        "financial_pages": "[1, 2]",
+        "level": "level_1",
+        "page_count": 2,
+        "pages_with_content": "[1, 2]",
+        "source": "how-to-get-a-personal-budget.pdf",
+        "source_url": "",
+        "total_chunks": 2,
+        "type": "pdf"
+      },
+      "id": "680f865f-8ba6-417e-8adf-26ba01238308",
+      "distance": 0.8110126256942749,
+      "retrieval_method": "semantic_expanded_2",
+      "expanded_query": "social care budget",
+      "combined_score": 0.495157750753256,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_expanded_2"
+      }
+    },
+    {
+      "content": "community services into groups of practices and developing \nmore methodical approaches to working together, individual \nneeds-based continuity or rapid access to care can be \nachieved.  A cultural shift is required to move away from \nthe view of public services as delivery agents to passive \npopulations, to a greater focus on localities in which everyone \ncontributes to maintain and improve services. Digital \ntechnology provides a great opportunity for public services \nto engage more closely with the public and patients, using \nsocial media and interactive technology to support self-care \nand management.  \nMain outcomes delivered by Commissioned Services will include:\n\u2022 Efficient and effective care at the right time and in the right \nplace that delivers the right outcome for an individual. \n\u2022 Reduces duplication of effort across a range of functions \nand professional boundaries\n\u2022 Reduce inefficiencies and ensure that we are spending our \nfunding in the most productive way.",
+      "metadata": {
+        "chunk_id": 71,
+        "contains_financial_info": true,
+        "download_url": "",
+        "extraction_method": "PyPDF2",
+        "filename": "all-age-commissioning-strategy.pdf",
+        "financial_pages": "[3, 4, 6, 7, 8, 10, 11, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26]",
+        "level": "level_2",
+        "page_count": 28,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28]",
+        "source": "all-age-commissioning-strategy.pdf",
+        "source_url": "",
+        "total_chunks": 74,
+        "type": "pdf"
+      },
+      "id": "558a5059-2354-4364-9171-2baf36c4246e",
+      "distance": 0.8489806056022644,
+      "retrieval_method": "semantic_expanded_3",
+      "expanded_query": "care services",
+      "combined_score": 0.4837673567808591,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_expanded_3"
+      }
+    },
+    {
+      "content": "\u2022 Increase or maintain independence, and to help to prevent \nfuture reliance on services.\nPriority 11 \u2013 Model of Delivery \nPlan  - All aspects of Health and Social Care must \ncollaborate to make the most of the community\u2019s collective \nabilities and resources in order to provide seamless services.  This approach sees locally based services organised around \nthe needs of the individual, their family and informal support \nnetworks. It is planned that our community-based models of \nhealth and social care will seamlessly combine, including the \nuse of assistive technologies, to give people the same high-\nquality support they would get in a hospital or residential \ncare facility in their own community and home.  Hospitals \nare often the first choice for many patients. However, \nby organising social services, mental health services, and \ncommunity services into groups of practices and developing \nmore methodical approaches to working together, individual \nneeds-based continuity or rapid access to care can be",
+      "metadata": {
+        "chunk_id": 70,
+        "contains_financial_info": true,
+        "download_url": "",
+        "extraction_method": "PyPDF2",
+        "filename": "all-age-commissioning-strategy.pdf",
+        "financial_pages": "[3, 4, 6, 7, 8, 10, 11, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26]",
+        "level": "level_2",
+        "page_count": 28,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28]",
+        "source": "all-age-commissioning-strategy.pdf",
+        "source_url": "",
+        "total_chunks": 74,
+        "type": "pdf"
+      },
+      "id": "2338c51e-cc93-4aa5-b0c8-25104dc57cbc",
+      "distance": 0.8552100658416748,
+      "retrieval_method": "semantic_expanded_3",
+      "expanded_query": "care services",
+      "combined_score": 0.4798006166111339,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_expanded_3"
+      }
+    }
+  ],
+  "context": "[Document 1] From adult social care strategy (pdf) - 24 pages [Retrieved via: semantic_expanded_2]:\n[Page 15 - FINANCIAL/BUDGET INFORMATION]\nChallenges\nWe know that when early support is available and \ninterventions are planned as far in advance as possible, people live well and independently. However, in recent years, a significant strain has been placed on resources due to COVID, national financial allocations, an increase in life expectancy, and an increase in the number of people living with multiple and complex conditions. It has also meant that health and social care services will often only become involved after a crisis is reached and there is often an over-reliance on informal care.  \n\u2022 Financial pr essures on the system\n\u2022 Pa y and conditions\n\u2022 Gr owth in complexity of need\n\u2022 W ellbeing\n\u2022 Repr esentation of social care\n\u2022 National funding mo dels for social care  \nPriorities \nCommunication\n\n[Document 2] From a quick guide to adult social care (pdf) - 12 pages [Retrieved via: semantic_expanded_2]:\n[Page 6 - FINANCIAL/BUDGET INFORMATION]\n6\nPaying for care\nWe use a \u2018financial assessment\u2019 to work out:\n\u2022  how much, if any, of your care costs we can help with \n\u2022 how much of your care costs you need to pay \nWe\u2019ll follow Government guidelines to work out your contribution; \ndepending on your income, savings and any assets you have, you may \nhave to pay for some or all of your care. \nWe will also check whether you are getting the right amount of \nwelfare benefits and help you to claim what\u2019s due to you, to make sure \nyou don\u2019t miss out. \nCalculating your contribution\nThere is a limit to the amount of \u2018capital\u2019 you can have and get help \npaying for your care. Your capital includes savings, investments and \nproperty. \nIf you are in a care home you may be eligible for a \u2018deferred \npayment\u2019, to cover some or all of your care costs; we can help to \nexplain this further if needed.\nThe Government says you must keep at least \u00a324.90 of your income \nper week to cover any expenses such as toiletries, newspapers or\n\n[Document 3] From a quick guide to adult social care (pdf) - 12 pages [Retrieved via: semantic_expanded_2]:\n[Page 6 - FINANCIAL/BUDGET INFORMATION]\n6\nPaying for care\nWe use a \u2018financial assessment\u2019 to work out:\n\u2022  how much, if any, of your care costs we can help with \n\u2022 how much of your care costs you need to pay \nWe\u2019ll follow Government guidelines to work out your contribution; \ndepending on your income, savings and any assets you have, you may \nhave to pay for some or all of your care. \nWe will also check whether you are getting the right amount of \nwelfare benefits and help you to claim what\u2019s due to you, to make sure \nyou don\u2019t miss out. \nCalculating your contribution\nThere is a limit to the amount of \u2018capital\u2019 you can have and get help \npaying for your care. Your capital includes savings, investments and \nproperty. \nIf you are in a care home you may be eligible for a \u2018deferred \npayment\u2019, to cover some or all of your care costs; we can help to \nexplain this further if needed.\nThe Government says you must keep at least \u00a324.90 of your income \nper week to cover any expenses such as toiletries, newspapers or\n\n[Document 4] From a quick guide to adult social care (pdf) - 12 pages [Retrieved via: semantic_expanded_1]:\n[Page 1]\n1\nWhat you need to know...\nA quick guide to \nAdult Social Care\n\n[Document 5] From a quick guide to adult social care (pdf) - 12 pages [Retrieved via: semantic_expanded_1]:\n[Page 1]\n1\nWhat you need to know...\nA quick guide to \nAdult Social Care\n\n[Document 6] From comparing the children and families act 2014 and the care act 2014 (pdf) - 19 pages [Retrieved via: semantic_expanded_1]:\nan emphasis on outcomes and person-centred practice. And for the first \ntime participation in work has been identified as an outcome for adults \nwith care and support needs. This development should ensure that the \nfocus on young people having employment as they move into adulthood \nis maintained by adult social care. Social care professionals are expected \nto work in partnership with health and education to find creative ways of \nensuring that individuals are able to express their views and are supported \nto engage in decision making, including arranging independent advocacy if \nrequired.\nDeveloping person-centred, measurable outcomes across different areas \nof the lives of young people is a challenge that is common to both Acts.\n\n[Document 7] From how to get a personal budget (pdf) - 2 pages [Retrieved via: semantic_expanded_2]:\n[Page 2 - FINANCIAL/BUDGET INFORMATION]\n  \n4.   Write down your decisions, choices and ideas . \n \n  \n5.   Put all of this information into your Support Plan.  \n \n \nWhat if I don\u2019t agree with the amount of mone y in my \nPersonal Budget?  \n \n \n \n Your Care Manager will look at your Support Plan. They \nwill check that you are being given the correct amount \nof money to meet your care needs. Your Care Manager \nwill make sure that your Personal Budget is fair.  \n \n \nFor furthe r information please look at the other Fact \nsheets in this series and our website: \nwww.york.gov.uk\n\n[Document 8] From how to get a personal budget (pdf) - 2 pages [Retrieved via: semantic_expanded_2]:\n[Page 2 - FINANCIAL/BUDGET INFORMATION]\n  \n4.   Write down your decisions, choices and ideas . \n \n  \n5.   Put all of this information into your Support Plan.  \n \n \nWhat if I don\u2019t agree with the amount of mone y in my \nPersonal Budget?  \n \n \n \n Your Care Manager will look at your Support Plan. They \nwill check that you are being given the correct amount \nof money to meet your care needs. Your Care Manager \nwill make sure that your Personal Budget is fair.  \n \n \nFor furthe r information please look at the other Fact \nsheets in this series and our website: \nwww.york.gov.uk\n\n[Document 9] From all age commissioning strategy (pdf) - 28 pages [Retrieved via: semantic_expanded_3]:\ncommunity services into groups of practices and developing \nmore methodical approaches to working together, individual \nneeds-based continuity or rapid access to care can be \nachieved.  A cultural shift is required to move away from \nthe view of public services as delivery agents to passive \npopulations, to a greater focus on localities in which everyone \ncontributes to maintain and improve services. Digital \ntechnology provides a great opportunity for public services \nto engage more closely with the public and patients, using \nsocial media and interactive technology to support self-care \nand management.  \nMain outcomes delivered by Commissioned Services will include:\n\u2022 Efficient and effective care at the right time and in the right \nplace that delivers the right outcome for an individual. \n\u2022 Reduces duplication of effort across a range of functions \nand professional boundaries\n\u2022 Reduce inefficiencies and ensure that we are spending our \nfunding in the most productive way.\n\n[Document 10] From all age commissioning strategy (pdf) - 28 pages [Retrieved via: semantic_expanded_3]:\n\u2022 Increase or maintain independence, and to help to prevent \nfuture reliance on services.\nPriority 11 \u2013 Model of Delivery \nPlan  - All aspects of Health and Social Care must \ncollaborate to make the most of the community\u2019s collective \nabilities and resources in order to provide seamless services.  This approach sees locally based services organised around \nthe needs of the individual, their family and informal support \nnetworks. It is planned that our community-based models of \nhealth and social care will seamlessly combine, including the \nuse of assistive technologies, to give people the same high-\nquality support they would get in a hospital or residential \ncare facility in their own community and home.  Hospitals \nare often the first choice for many patients. However, \nby organising social services, mental health services, and \ncommunity services into groups of practices and developing \nmore methodical approaches to working together, individual \nneeds-based continuity or rapid access to care can be\n",
+  "answer": "The available documents don't provide specific information about how much of York's planned savings are targeted to come from social care services. \n\nFor more detailed financial information regarding social care services in York, you might consider visiting the City of York Council's website at www.york.gov.uk or contacting their social care department directly for the most up-to-date and specific budgetary details.",
+  "metrics": {
+    "duration_seconds": 5.123841047286987,
+    "retrieved_docs_count": 10,
+    "query_length": 82,
+    "answer_length": 419,
+    "retrieval_method": "enhanced",
+    "context_utilization": 0.06578947368421052,
+    "citations_count": 0,
+    "has_citations": false,
+    "query_relevance": 1.0,
+    "unique_retrieval_methods": 3,
+    "budget_documents_retrieved": 10,
+    "retrieval_methods_used": [
+      "semantic_expanded_2",
+      "semantic_expanded_1",
+      "semantic_expanded_3"
+    ],
+    "retrieval_method_distribution": {
+      "semantic_expanded_2": 5,
+      "semantic_expanded_1": 3,
+      "semantic_expanded_3": 2
+    }
+  },
+  "local_authority": "york",
+  "query_id": "std_8",
+  "retrieval_method": "enhanced",
+  "run_id": "2d0587d9-c408-44d0-9516-e9128bcad4d5",
+  "trace": {
+    "run_id": "2d0587d9-c408-44d0-9516-e9128bcad4d5",
+    "project": "social_care_rag",
+    "url": "https://eu.smith.langchain.com/o/me/runs/2d0587d9-c408-44d0-9516-e9128bcad4d5"
+  },
+  "test_metadata": {
+    "local_authority": "york",
+    "query_id": "std_8",
+    "query_category": "financial_standard",
+    "prompt_variation": "optimized",
+    "prompt_template": "\nPlease answer the following question about social care services in UK local authorities based only on the information in the provided documents.\n\nQuestion: {query}\n\nContext from relevant documents:\n{context}\n\nInstructions:\n1. Provide a clear, direct answer that would help someone needing this information. If information isn't available, state: \"The available documents don't provide specific information about [aspect].\"\n\n2. Synthesize information from ALL relevant documents to provide the most complete answer rather than analyzing documents individually.\n\n3. Structure your response with:\n   - A concise 1-2 sentence summary first\n   - Relevant details organized in short, clear paragraphs\n   - Bullet points for lists or step-by-step information\n   - Bold text for key information the user should notice\n\n4. For financial information:\n   - Include exact figures, time periods, and what the funding covers\n   - Present financial data clearly: \"The adult social care budget is **\u00a3X million** for [time period]\"\n\n5. Always include practical next steps or resources:\n   - Provide contact information, URLs, or application methods mentioned in the documents\n   - Suggest where the person could find more information\n\n6. When citing sources, use a simple format: \"According to [document name/description]\" or include URLs where available.\n\nAnswer:\n",
+    "processing_time": 5.125999927520752,
+    "timestamp": "2025-08-19T14:22:19.202733",
+    "top_k": 10
+  }
+}

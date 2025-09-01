@@ -1,0 +1,305 @@
+{
+  "query": "I work full-time but also care for my elderly father with Parkinson's in croydon. What respite care options exist so I can have occasional breaks?",
+  "retrieved_documents": [
+    {
+      "content": "Respite care Respite care lets you take a break while the person you look after is cared for by someone else. Having a break from your caring role is important for your wellbeing and quality of life. It can help you recharge your batteries and continue in your caring role for as long as you wish to. If you need a break, you can arrange respite (replacement care for the person you care for) privately, through friends and family or via the council. Eligibility Anyone looking after a friend, family member or neighbour who needs their help due to illness, disability or old age may be eligible for respite. Croydon Neighbourhood Care Croydon Neighbourhood Care (020 8662 1000) are\u00a0local neighbourhood care groups\u00a0that provide\u00a0support for older and disabled people in Croydon. Some local groups offer a sitting service - contact Croydon Neighbourhood Care to see if this is available locally. View a list of groups on the Croydon Neighbourhood Care Association website",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.croydon.gov.uk_adult-health-and-social-care_carers-family-and-friends_respite-care.txt",
+        "level": "level_2",
+        "source": "https://www.croydon.gov.uk/adult-health-and-social-care/carers-family-and-friends/respite-care",
+        "source_url": "https://www.croydon.gov.uk/adult-health-and-social-care/carers-family-and-friends/respite-care",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "8f92d602-b00f-4586-9e13-de199566965a",
+      "distance": 0.5700345039367676,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.17898964881896973,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 8 - FINANCIAL/BUDGET INFORMATION]\n8   |   CROYDON CARERS\u2019 STRATEGY 2024-2029\nCarer wellbeing\nCarers told us that they often don\u2019t have \ntime to look after their own health for many \nreasons including a lack of time around caring \nresponsibilities or being unable to leave the cared \nfor person alone. Some carers reported suffering \nfrom back and shoulder injuries caused by either \nhaving to physically move another person or \nperforming household tasks. \nFor those carers that were working, the balance \nbetween work, caring and looking after themselves \nwas challenging.  Carers\u2019 work had been affected \nby tiredness and stress and they raised that it was \nmore difficult to get support if they were working  \nall day.   \nCarers highlighted being able to take a break, \nrespite, as being particularly important to them.  \nThe ability to have anything from a few hours to a \nproper holiday really helped both their mental and \nphysical wellbeing.Our plan is to:\n\u2022 provide a range of timely funded respite",
+      "metadata": {
+        "chunk_id": 19,
+        "contains_financial_info": true,
+        "download_url": "https://www.croydon.gov.uk/sites/default/files/2024-10/croydon-carers-strategy-2023-29-%28B%29-.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "croydon-carers-strategy-2023-29-%28B%29-.pdf",
+        "financial_pages": "[4, 5, 8, 10, 13, 14, 15, 16, 17, 18, 19]",
+        "level": "level_4",
+        "page_count": 20,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]",
+        "source": "https://www.croydon.gov.uk/council-and-elections/policies-plans-and-strategies/health-and-social-care-policies-plans-and-strategies/croydon-carers-strategy-2024-2029",
+        "source_url": "https://www.croydon.gov.uk/council-and-elections/policies-plans-and-strategies/health-and-social-care-policies-plans-and-strategies/croydon-carers-strategy-2024-2029",
+        "total_chunks": 58,
+        "type": "pdf"
+      },
+      "id": "79a021d8-7ef6-4216-8d9c-4af06b79fe39",
+      "distance": 0.699743390083313,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1400769829750061,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Types of care you can offer You can apply to offer: short term care long term care respite care Benefits of becoming a carer There are many benefits\u00a0of becoming a carer: it's positive\u00a0and rewarding work makes a difference to a vulnerable person's life in Croydon it's flexible work to suit the person you're caring for and your commitments you'll be self-employed as a care professional, with flexible working and a regular income you'll also receive training and support from us This is an established scheme with an Outstanding rating from the Care Quality Commission . Get\u00a0support from our social care team Our social care team can help people decide if they should move into a\u00a0Shared Lives home. If you're having trouble living independently, get in touch with us for advice and support",
+      "metadata": {
+        "chunk_id": 3,
+        "filename": "www.croydon.gov.uk_adult-health-and-social-care_care-homes-and-housing_shared-lives_shared-lives-sch.txt",
+        "level": "level_4",
+        "source": "https://www.croydon.gov.uk/adult-health-and-social-care/care-homes-and-housing/shared-lives/shared-lives-schemes",
+        "source_url": "https://www.croydon.gov.uk/adult-health-and-social-care/care-homes-and-housing/shared-lives/shared-lives-schemes",
+        "total_chunks": 5,
+        "type": "web_page"
+      },
+      "id": "a43d5bfa-d6e1-4601-b401-1468621f182e",
+      "distance": 0.7435340881347656,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1269397735595703,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Some local groups offer a sitting service - contact Croydon Neighbourhood Care to see if this is available locally. View a list of groups on the Croydon Neighbourhood Care Association website . Horizon Care offers a home care respite service with a particular focus on carers of people from a black or ethnic minority background (BME). Contact\u00a0020 8665 0921. Respite via Croydon Council Council-funded respite can be provided in the home, at a day centres for older people or at an adult day care resource centre. For information on respite for carers of a child with special educational needs or disabilities, contact the 0 to 25 SEND Team (020 8726 6400). Paying for respite We have a charging policy for home care and residential care services. The person you care for will be financially assessed for their ability to pay for respite services. How much they will pay will depend on their benefits, savings and/or income. You can request respite via a needs assessment under the Care Act 2014 of the person you care for",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.croydon.gov.uk_adult-health-and-social-care_carers-family-and-friends_respite-care.txt",
+        "level": "level_2",
+        "source": "https://www.croydon.gov.uk/adult-health-and-social-care/carers-family-and-friends/respite-care",
+        "source_url": "https://www.croydon.gov.uk/adult-health-and-social-care/carers-family-and-friends/respite-care",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "30abd14d-9cb0-4815-a78f-d925fd6ea79b",
+      "distance": 0.7627479434013367,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.121175616979599,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "classses, guided walks, study groups.PROLONGING A HEALTHY LATER LIFEINCREASING RESILIENCE AND INDEPENDENCE\nREDUCING SOCIAL ISOLATION AND LONELINESSSUPPORTING CARERS\n\u2022  Older adults without a carer are more likely to be admitted to nursing or residential care. Helping older carers maintain their \nown health and well-being benefits both \nthe carer and the person they care for.\n\u2022  Support for carers is a priority in Croydon\u2019s \njoint health and well-being strategy.\n\u2022  Croydon Carer Support Service is in \ncontact with around 5,000 carers in \nCroydon and provides much-valued \nservices including respite care, carer need assessments and sitting services.\u2022  Although people are generally living \nlonger, more are doing so with long-term \nconditions or disabilities that limit their daily activities.\n\u2022  Most long-term conditions are preventable \nand people can work towards prolonging the number of years they can expect to remain healthy by adopting healthier lifestyles.\n\u2022  Croydon Council commissions and provides",
+      "metadata": {
+        "chunk_id": 69,
+        "contains_financial_info": true,
+        "download_url": "https://www.croydon.gov.uk/sites/default/files/articles/downloads/Annual%20Public%20Health%20Report%20for%202015.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Annual%20Public%20Health%20Report%20for%202015.pdf",
+        "financial_pages": "[5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 26, 27, 28, 29, 30, 31, 32, 34]",
+        "level": "level_4",
+        "page_count": 35,
+        "pages_with_content": "[1, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35]",
+        "source": "https://www.croydon.gov.uk/health-and-wellbeing/about-public-health-croydon",
+        "source_url": "https://www.croydon.gov.uk/health-and-wellbeing/about-public-health-croydon",
+        "total_chunks": 108,
+        "type": "pdf"
+      },
+      "id": "20932c83-3dc8-4c25-98d0-293ebc35bc1f",
+      "distance": 0.7714853286743164,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.11855440139770508,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "\u2022 improve pathways to timely Carer\u2019s \nAssessments  which are offered in a variety \nof formats including options for working \ncarers;\n\u2022 provide support for carers to retain their  \nemployment or get back to work  around \ntheir caring / after caring ends; \n\u2022 work with Croydon organisations to support \nthe implementation of the Carer\u2019s Leave \nAct (Unpaid carer\u2019s leave - GOV.UK (www.\ngov.uk));  and\n\u2022 review our assessment and recording \nprocess to capture a robust carer support \nplan that provides advice and guidance \nincluding financial, end of life planning, and \nlinks to other services.\u201cSERVICES SHOULD BE FAMIL Y FOCUSSED AND NOT FINANCE FOCUSSED, \nWE ALSO DON\u2019T ASK FOR MUCH, JUST SOME HELP SOMETIMES.\u201d",
+      "metadata": {
+        "chunk_id": 24,
+        "contains_financial_info": true,
+        "download_url": "https://www.croydon.gov.uk/sites/default/files/2024-10/croydon-carers-strategy-2023-29-%28B%29-.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "croydon-carers-strategy-2023-29-%28B%29-.pdf",
+        "financial_pages": "[4, 5, 8, 10, 13, 14, 15, 16, 17, 18, 19]",
+        "level": "level_4",
+        "page_count": 20,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]",
+        "source": "https://www.croydon.gov.uk/council-and-elections/policies-plans-and-strategies/health-and-social-care-policies-plans-and-strategies/croydon-carers-strategy-2024-2029",
+        "source_url": "https://www.croydon.gov.uk/council-and-elections/policies-plans-and-strategies/health-and-social-care-policies-plans-and-strategies/croydon-carers-strategy-2024-2029",
+        "total_chunks": 58,
+        "type": "pdf"
+      },
+      "id": "ead70db6-0f57-4edc-ba36-bbd1923a92d0",
+      "distance": 0.8148401975631714,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.10554794073104859,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Moving into a care home There are many types of care homes that provide for different needs. Some care homes offer short-term places, for people recovering from a hospital stay or to give someone a break from their caring role (called respite care). Types of care home residential homes \u2013\u00a0 these offer care and support nursing homes \u2013 these normally offer the same care as residential homes but also have 24-hour medical care from a qualified nurse Find\u00a0a care home There are over 140 care homes in Croydon run by a variety of organisations, including private companies, voluntary organisations and others under contract from Croydon council. All homes have to be registered and regulated by the Care Quality Commission (CQC), which inspects and rates them. Search for a care home on the Care Quality Commission website",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.croydon.gov.uk_adult-health-and-social-care_care-homes-and-housing_moving-care-home.txt",
+        "level": "level_3",
+        "source": "https://www.croydon.gov.uk/adult-health-and-social-care/care-homes-and-housing/moving-care-home",
+        "source_url": "https://www.croydon.gov.uk/adult-health-and-social-care/care-homes-and-housing/moving-care-home",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "b5c49bf1-a4d4-4496-af12-fac9ffd28dff",
+      "distance": 0.8173302412033081,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.10480092763900757,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Get help with the rising cost of living Guide Navigation Skip Guide Navigation Contents About cost of living support Benefits you might be entitled to Financial support Financial advice Saving energy Help with employment and training Help for households Support for businesses Mental health and wellbeing Help with employment and training Search our money, employment and training directory to find organisations that can help with: looking for employment, education and training your money and debt your benefits Getting online If you need support getting online, you can find more information using our Getting online and Digital Croydon service . Croydon Works Croydon Works is available to all Croydon residents to help them find jobs or get training to help get them into work",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.croydon.gov.uk_get-help-rising-cost-living_help-employment-and-training.txt",
+        "level": "level_4",
+        "source": "https://www.croydon.gov.uk/get-help-rising-cost-living/help-employment-and-training",
+        "source_url": "https://www.croydon.gov.uk/get-help-rising-cost-living/help-employment-and-training",
+        "total_chunks": 3,
+        "type": "web_page"
+      },
+      "id": "4255a097-27e8-450a-9ad8-c95162299609",
+      "distance": 0.8229097723960876,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.10312706828117371,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "in Croydon\nAdult Social Care and Health at Croydon is there to assist \nthose with care and support needs who are aged 18 and over.  We work with our residents focusing on early intervention and prevention, providing short term support when needed to get people back to living independently in their home, and playing an active role in the community with no need for ongoing care and support.\nPeople contact us for many reasons, for example they \nmay be living with a disability, poor mental health or dementia.  Sometimes it\u2019s because they are becoming older and need additional support, they may need information and advice or perhaps equipment to help them live independently.\nWe support people who are in transition from children\u2019s to \nadult\u2019s disability services and when our residents are not safe, we will act to protect our most vulnerable residents and keep them safe from harm.\nThe person with care and support needs and their carers",
+      "metadata": {
+        "chunk_id": 12,
+        "contains_financial_info": true,
+        "download_url": "https://www.croydon.gov.uk/sites/default/files/2024-11/local-account-social-care-and-health-2023-2024.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "local-account-social-care-and-health-2023-2024.pdf",
+        "financial_pages": "[2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]",
+        "level": "level_2",
+        "page_count": 13,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]",
+        "source": "https://www.croydon.gov.uk/adult-health-and-social-care/policies-and-complaints/local-account-adult-social-care-and-health-2023-2024",
+        "source_url": "https://www.croydon.gov.uk/adult-health-and-social-care/policies-and-complaints/local-account-adult-social-care-and-health-2023-2024",
+        "total_chunks": 38,
+        "type": "pdf"
+      },
+      "id": "fe5f2eff-20c2-4963-a32b-6b212dd7cc5e",
+      "distance": 0.8306587934494019,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.10080236196517944,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "HOUSING\nOlder adults, particularly those living alone and/or in larger family homes, those with disabilities and those with existing long\u2011term conditions (physical or mental) are amongst those considered to be most vulnerable to fuel poverty and the iimpacts of cold, damp homes.\nCroydon has the highest number of care \nhomes in London. A large number of places are occupied by self\u2011funders or out of borough placements. This can result in high demand for a few places for local authority funded eligible older adults who need nursing or residential care.LONG \u2011TERM CONDITIONS\nLong\u2011term conditions are more common in older people and age increases the chances of having more than one condition. In addition, most individual long\u2011term conditions are more common in poorer sections of society, and are more severe in nature even when less common. It is estimated there will be rising demand for prevention and management of multi\u2011morbidity rather than of single disease.\nOLDER CARERS",
+      "metadata": {
+        "chunk_id": 73,
+        "contains_financial_info": true,
+        "download_url": "https://www.croydon.gov.uk/sites/default/files/articles/downloads/Annual_Public_Health_Report_2017.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Annual_Public_Health_Report_2017.pdf",
+        "financial_pages": "[4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 16, 19, 21, 22, 23, 25, 26, 27, 28, 29, 30, 31, 33, 34, 35]",
+        "level": "level_4",
+        "page_count": 40,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40]",
+        "source": "https://www.croydon.gov.uk/health-and-wellbeing/about-public-health-croydon",
+        "source_url": "https://www.croydon.gov.uk/health-and-wellbeing/about-public-health-croydon",
+        "total_chunks": 95,
+        "type": "pdf"
+      },
+      "id": "8a0bea3e-9cd7-4e57-a4cf-483bcbda6e0b",
+      "distance": 0.833119809627533,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.10006405711174012,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    }
+  ],
+  "context": "[Document 1] From https://www (web_page) - URL: https://www.croydon.gov.uk/adult-health-and-social-care/carers-family-and-friends/respite-care [Retrieved via: semantic_original]:\nRespite care Respite care lets you take a break while the person you look after is cared for by someone else. Having a break from your caring role is important for your wellbeing and quality of life. It can help you recharge your batteries and continue in your caring role for as long as you wish to. If you need a break, you can arrange respite (replacement care for the person you care for) privately, through friends and family or via the council. Eligibility Anyone looking after a friend, family member or neighbour who needs their help due to illness, disability or old age may be eligible for respite. Croydon Neighbourhood Care Croydon Neighbourhood Care (020 8662 1000) are\u00a0local neighbourhood care groups\u00a0that provide\u00a0support for older and disabled people in Croydon. Some local groups offer a sitting service - contact Croydon Neighbourhood Care to see if this is available locally. View a list of groups on the Croydon Neighbourhood Care Association website\n\n[Document 2] From https://www (pdf) - URL: https://www.croydon.gov.uk/council-and-elections/policies-plans-and-strategies/health-and-social-care-policies-plans-and-strategies/croydon-carers-strategy-2024-2029 - 20 pages [Retrieved via: semantic_original]:\n[Page 8 - FINANCIAL/BUDGET INFORMATION]\n8   |   CROYDON CARERS\u2019 STRATEGY 2024-2029\nCarer wellbeing\nCarers told us that they often don\u2019t have \ntime to look after their own health for many \nreasons including a lack of time around caring \nresponsibilities or being unable to leave the cared \nfor person alone. Some carers reported suffering \nfrom back and shoulder injuries caused by either \nhaving to physically move another person or \nperforming household tasks. \nFor those carers that were working, the balance \nbetween work, caring and looking after themselves \nwas challenging.  Carers\u2019 work had been affected \nby tiredness and stress and they raised that it was \nmore difficult to get support if they were working  \nall day.   \nCarers highlighted being able to take a break, \nrespite, as being particularly important to them.  \nThe ability to have anything from a few hours to a \nproper holiday really helped both their mental and \nphysical wellbeing.Our plan is to:\n\u2022 provide a range of timely funded respite\n\n[Document 3] From https://www (web_page) - URL: https://www.croydon.gov.uk/adult-health-and-social-care/care-homes-and-housing/shared-lives/shared-lives-schemes [Retrieved via: semantic_original]:\n. Types of care you can offer You can apply to offer: short term care long term care respite care Benefits of becoming a carer There are many benefits\u00a0of becoming a carer: it's positive\u00a0and rewarding work makes a difference to a vulnerable person's life in Croydon it's flexible work to suit the person you're caring for and your commitments you'll be self-employed as a care professional, with flexible working and a regular income you'll also receive training and support from us This is an established scheme with an Outstanding rating from the Care Quality Commission . Get\u00a0support from our social care team Our social care team can help people decide if they should move into a\u00a0Shared Lives home. If you're having trouble living independently, get in touch with us for advice and support\n\n[Document 4] From https://www (web_page) - URL: https://www.croydon.gov.uk/adult-health-and-social-care/carers-family-and-friends/respite-care [Retrieved via: semantic_original]:\n. Some local groups offer a sitting service - contact Croydon Neighbourhood Care to see if this is available locally. View a list of groups on the Croydon Neighbourhood Care Association website . Horizon Care offers a home care respite service with a particular focus on carers of people from a black or ethnic minority background (BME). Contact\u00a0020 8665 0921. Respite via Croydon Council Council-funded respite can be provided in the home, at a day centres for older people or at an adult day care resource centre. For information on respite for carers of a child with special educational needs or disabilities, contact the 0 to 25 SEND Team (020 8726 6400). Paying for respite We have a charging policy for home care and residential care services. The person you care for will be financially assessed for their ability to pay for respite services. How much they will pay will depend on their benefits, savings and/or income. You can request respite via a needs assessment under the Care Act 2014 of the person you care for\n\n[Document 5] From https://www (pdf) - URL: https://www.croydon.gov.uk/health-and-wellbeing/about-public-health-croydon - 35 pages [Retrieved via: semantic_original]:\nclassses, guided walks, study groups.PROLONGING A HEALTHY LATER LIFEINCREASING RESILIENCE AND INDEPENDENCE\nREDUCING SOCIAL ISOLATION AND LONELINESSSUPPORTING CARERS\n\u2022  Older adults without a carer are more likely to be admitted to nursing or residential care. Helping older carers maintain their \nown health and well-being benefits both \nthe carer and the person they care for.\n\u2022  Support for carers is a priority in Croydon\u2019s \njoint health and well-being strategy.\n\u2022  Croydon Carer Support Service is in \ncontact with around 5,000 carers in \nCroydon and provides much-valued \nservices including respite care, carer need assessments and sitting services.\u2022  Although people are generally living \nlonger, more are doing so with long-term \nconditions or disabilities that limit their daily activities.\n\u2022  Most long-term conditions are preventable \nand people can work towards prolonging the number of years they can expect to remain healthy by adopting healthier lifestyles.\n\u2022  Croydon Council commissions and provides\n\n[Document 6] From https://www (pdf) - URL: https://www.croydon.gov.uk/council-and-elections/policies-plans-and-strategies/health-and-social-care-policies-plans-and-strategies/croydon-carers-strategy-2024-2029 - 20 pages [Retrieved via: semantic_original]:\n\u2022 improve pathways to timely Carer\u2019s \nAssessments  which are offered in a variety \nof formats including options for working \ncarers;\n\u2022 provide support for carers to retain their  \nemployment or get back to work  around \ntheir caring / after caring ends; \n\u2022 work with Croydon organisations to support \nthe implementation of the Carer\u2019s Leave \nAct (Unpaid carer\u2019s leave - GOV.UK (www.\ngov.uk));  and\n\u2022 review our assessment and recording \nprocess to capture a robust carer support \nplan that provides advice and guidance \nincluding financial, end of life planning, and \nlinks to other services.\u201cSERVICES SHOULD BE FAMIL Y FOCUSSED AND NOT FINANCE FOCUSSED, \nWE ALSO DON\u2019T ASK FOR MUCH, JUST SOME HELP SOMETIMES.\u201d\n\n[Document 7] From https://www (web_page) - URL: https://www.croydon.gov.uk/adult-health-and-social-care/care-homes-and-housing/moving-care-home [Retrieved via: semantic_original]:\nMoving into a care home There are many types of care homes that provide for different needs. Some care homes offer short-term places, for people recovering from a hospital stay or to give someone a break from their caring role (called respite care). Types of care home residential homes \u2013\u00a0 these offer care and support nursing homes \u2013 these normally offer the same care as residential homes but also have 24-hour medical care from a qualified nurse Find\u00a0a care home There are over 140 care homes in Croydon run by a variety of organisations, including private companies, voluntary organisations and others under contract from Croydon council. All homes have to be registered and regulated by the Care Quality Commission (CQC), which inspects and rates them. Search for a care home on the Care Quality Commission website\n\n[Document 8] From https://www (web_page) - URL: https://www.croydon.gov.uk/get-help-rising-cost-living/help-employment-and-training [Retrieved via: semantic_original]:\nGet help with the rising cost of living Guide Navigation Skip Guide Navigation Contents About cost of living support Benefits you might be entitled to Financial support Financial advice Saving energy Help with employment and training Help for households Support for businesses Mental health and wellbeing Help with employment and training Search our money, employment and training directory to find organisations that can help with: looking for employment, education and training your money and debt your benefits Getting online If you need support getting online, you can find more information using our Getting online and Digital Croydon service . Croydon Works Croydon Works is available to all Croydon residents to help them find jobs or get training to help get them into work\n\n[Document 9] From https://www (pdf) - URL: https://www.croydon.gov.uk/adult-health-and-social-care/policies-and-complaints/local-account-adult-social-care-and-health-2023-2024 - 13 pages [Retrieved via: semantic_original]:\nin Croydon\nAdult Social Care and Health at Croydon is there to assist \nthose with care and support needs who are aged 18 and over.  We work with our residents focusing on early intervention and prevention, providing short term support when needed to get people back to living independently in their home, and playing an active role in the community with no need for ongoing care and support.\nPeople contact us for many reasons, for example they \nmay be living with a disability, poor mental health or dementia.  Sometimes it\u2019s because they are becoming older and need additional support, they may need information and advice or perhaps equipment to help them live independently.\nWe support people who are in transition from children\u2019s to \nadult\u2019s disability services and when our residents are not safe, we will act to protect our most vulnerable residents and keep them safe from harm.\nThe person with care and support needs and their carers\n\n[Document 10] From https://www (pdf) - URL: https://www.croydon.gov.uk/health-and-wellbeing/about-public-health-croydon - 40 pages [Retrieved via: semantic_original]:\nHOUSING\nOlder adults, particularly those living alone and/or in larger family homes, those with disabilities and those with existing long\u2011term conditions (physical or mental) are amongst those considered to be most vulnerable to fuel poverty and the iimpacts of cold, damp homes.\nCroydon has the highest number of care \nhomes in London. A large number of places are occupied by self\u2011funders or out of borough placements. This can result in high demand for a few places for local authority funded eligible older adults who need nursing or residential care.LONG \u2011TERM CONDITIONS\nLong\u2011term conditions are more common in older people and age increases the chances of having more than one condition. In addition, most individual long\u2011term conditions are more common in poorer sections of society, and are more severe in nature even when less common. It is estimated there will be rising demand for prevention and management of multi\u2011morbidity rather than of single disease.\nOLDER CARERS\n",
+  "answer": "If you're caring for your elderly father with Parkinson's in Croydon and need respite care options, there are several resources available to help you take occasional breaks.\n\n**Respite Care Options:**\n- **Croydon Council** offers council-funded respite care which can be provided in the home, at day centres for older people, or at adult day care resource centres. You can request respite care through a needs assessment under the Care Act 2014 for the person you care for. This assessment will determine eligibility and financial contributions based on benefits, savings, and income.\n- **Croydon Neighbourhood Care** provides support for older and disabled people in Croydon. Some local groups offer a sitting service, which may be available in your area. You can contact them at 020 8662 1000 or visit the Croydon Neighbourhood Care Association website for more information.\n- **Horizon Care** offers a home care respite service, particularly focusing on carers of people from black or ethnic minority backgrounds. They can be contacted at 020 8665 0921.\n\n**Practical Steps:**\n- **Contact Croydon Neighbourhood Care** to inquire about local sitting services.\n- **Reach out to Horizon Care** if their services align with your needs.\n- **Request a needs assessment** through Croydon Council to explore council-funded respite options. This can be initiated by contacting the council directly.\n\nFor more detailed information, you can visit the Croydon Council's respite care page at [Croydon Respite Care](https://www.croydon.gov.uk/adult-health-and-social-care/carers-family-and-friends/respite-care).",
+  "metrics": {
+    "duration_seconds": 17.27745795249939,
+    "retrieved_docs_count": 10,
+    "query_length": 146,
+    "answer_length": 1600,
+    "retrieval_method": "enhanced",
+    "context_utilization": 0.18236472945891782,
+    "citations_count": 0,
+    "has_citations": false,
+    "query_relevance": 0.6363636363636364,
+    "unique_retrieval_methods": 1,
+    "budget_documents_retrieved": 5,
+    "retrieval_methods_used": [
+      "semantic_original"
+    ],
+    "retrieval_method_distribution": {
+      "semantic_original": 10
+    }
+  },
+  "local_authority": "croydon",
+  "query_id": "scn_13",
+  "retrieval_method": "enhanced",
+  "run_id": "d7c39693-3b2b-40de-a0e4-92d9efe08db5",
+  "trace": {
+    "run_id": "d7c39693-3b2b-40de-a0e4-92d9efe08db5",
+    "project": "social_care_rag",
+    "url": "https://eu.smith.langchain.com/o/me/runs/d7c39693-3b2b-40de-a0e4-92d9efe08db5"
+  },
+  "test_metadata": {
+    "local_authority": "croydon",
+    "query_id": "scn_13",
+    "query_category": "carer_support_scenarios",
+    "prompt_variation": "optimized",
+    "prompt_template": "\nPlease answer the following question about social care services in UK local authorities based only on the information in the provided documents.\n\nQuestion: {query}\n\nContext from relevant documents:\n{context}\n\nInstructions:\n1. Provide a clear, direct answer that would help someone needing this information. If information isn't available, state: \"The available documents don't provide specific information about [aspect].\"\n\n2. Synthesize information from ALL relevant documents to provide the most complete answer rather than analyzing documents individually.\n\n3. Structure your response with:\n   - A concise 1-2 sentence summary first\n   - Relevant details organized in short, clear paragraphs\n   - Bullet points for lists or step-by-step information\n   - Bold text for key information the user should notice\n\n4. For financial information:\n   - Include exact figures, time periods, and what the funding covers\n   - Present financial data clearly: \"The adult social care budget is **\u00a3X million** for [time period]\"\n\n5. Always include practical next steps or resources:\n   - Provide contact information, URLs, or application methods mentioned in the documents\n   - Suggest where the person could find more information\n\n6. When citing sources, use a simple format: \"According to [document name/description]\" or include URLs where available.\n\nAnswer:\n",
+    "processing_time": 17.284165859222412,
+    "timestamp": "2025-08-19T13:34:06.449902",
+    "top_k": 10
+  }
+}

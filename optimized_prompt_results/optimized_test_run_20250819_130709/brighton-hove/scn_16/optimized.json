@@ -1,0 +1,305 @@
+{
+  "query": "My care needs assessment in brighton-hove says I need 20 hours of home care weekly, but I'm worried about costs. What financial help is available?",
+  "retrieved_documents": [
+    {
+      "content": ". How much you pay for these services is dependent on the outcome of your financial assessment. Council managed: home care is charged at \u00a333 per hour for each carer day care is charged at \u00a350 per day Brighton & Hove City Council powers If payments are not made, we may use our powers under the Care Act to recover debt. We reserve the right to check any information given by making further enquiries, for example with the Department for Works and Pensions (DWP) We have a duty to protect public funds and may use any information provided for the prevention and detection of fraud.",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.brighton-hove.gov.uk_adult-social-care-hub_pay-your-care-and-support_charges-community-care-serv.txt",
+        "level": "level_3",
+        "source": "https://www.brighton-hove.gov.uk/adult-social-care-hub/pay-your-care-and-support/charges-community-care-services-including-homecare/paying-community-services-including-home-care",
+        "source_url": "https://www.brighton-hove.gov.uk/adult-social-care-hub/pay-your-care-and-support/charges-community-care-services-including-homecare/paying-community-services-including-home-care",
+        "total_chunks": 3,
+        "type": "web_page"
+      },
+      "id": "04ac948a-4e77-4c97-aa47-45d2bc03cb8e",
+      "distance": 0.4910808205604553,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.20267575383186343,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 7 - FINANCIAL/BUDGET INFORMATION]\nBrighton & Hove Market Sustainability Plan  \nWe will be reviewing our published set rates alongside our commissioning of residential provision \nover the next few years and consideration to the Cost of Care exercise outputs will be part of this \nprocess.   This will be one of many areas of consideration when reviewing fee rates going forward and \nother factors such as current rates being paid , and affordability will also need to be considered.  \nb) Assessment of current sustainability of the 18+ domiciliary care market  \n \nHome Care Market in Brighton & Hove  \nThere are a total of 37 providers of domiciliary  care across  Brighton & Hove who employ 1600 staff \nsupporting 2000 people within the city . 22 of these providers hold contracts with the local authority . \n \nCurrent challenges around this market are similar to the residential care market with workforce \nissues being a significant concern alongside the rates currently affordable  by the local au thority.  This",
+      "metadata": {
+        "chunk_id": 17,
+        "contains_financial_info": true,
+        "download_url": "https://www.brighton-hove.gov.uk/sites/default/files/2023-03/BHCC%20Market%20Sustainability%20Plan_0.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "BHCC%20Market%20Sustainability%20Plan_0.pdf",
+        "financial_pages": "[1, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 16]",
+        "level": "level_2",
+        "page_count": 16,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]",
+        "source": "https://www.brighton-hove.gov.uk/adult-social-care/about-adult-social-care/annex-c-final-market-sustainability-plan",
+        "source_url": "https://www.brighton-hove.gov.uk/adult-social-care/about-adult-social-care/annex-c-final-market-sustainability-plan",
+        "total_chunks": 49,
+        "type": "pdf"
+      },
+      "id": "4c318a26-8ae4-495f-af7e-e2ab38ea4ee5",
+      "distance": 0.5413960218429565,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.18758119344711305,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Therefore, based on the information known so far, we are modelling the investment required for Brighton and Hove City Council to deliver on these reforms and the implications on the market. Current demand and projected increases based upon the Charging Reform estimates indicate the most significant impacts upon Care Home placements and Community Support Communication and engagement with providers \u2013 reflections from Fair Cost of Care exercise The communication and engagement to providers is well established in Brighton & Hove, it was a supportive factor in response to COVID-19 challenges and we have maintained that relationship. Care Homes providers attend a regular forum with Local Authority Commissioning managers, key items such as Fair Cost of Care are presented with an opportunity for input and questions from Providers. Home Care providers are all invited to a fortnightly meeting, which brings together Local Authority Officers and providers for key issues and ongoing communication",
+      "metadata": {
+        "chunk_id": 30,
+        "filename": "www.brighton-hove.gov.uk_adult-social-care_about-adult-social-care_annex-c-final-market-sustainabili.txt",
+        "level": "level_2",
+        "source": "https://www.brighton-hove.gov.uk/adult-social-care/about-adult-social-care/annex-c-final-market-sustainability-plan",
+        "source_url": "https://www.brighton-hove.gov.uk/adult-social-care/about-adult-social-care/annex-c-final-market-sustainability-plan",
+        "total_chunks": 44,
+        "type": "web_page"
+      },
+      "id": "b7a85fad-5d5c-4cb3-9c9e-f42bb48496de",
+      "distance": 0.5678129196166992,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1796561241149902,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "issues being a significant concern alongside the rates currently affordable  by the local au thority.  This \nhas already been covered in detail ab ove.  \n \nQuality of provision remains generally good and while during the past few years we have seen some \ndifficulties with capacity we have not seen any significant provider failures.  \n \nAlongside the challenges detailed above w e also recognise that the current homecare contract that \nwas commissioned six yea rs ago is not supporting a sustainable model of d elivery and so that is why  \nBrighton & Hove City Council is reaching the conclusion of commissioning a new model of Home Care \nfor both community -based support and Extra Care establishments. The new contract will commence \nJuly 2023 and will operate for 5 years with the option to extend for a further 3 years.  \n \nAreas that are being addresse d are as follows.  \n \nEnding minute by minute payments   \nThe current model of paying for care by the minute does not support the much -needed recruitment",
+      "metadata": {
+        "chunk_id": 18,
+        "contains_financial_info": true,
+        "download_url": "https://www.brighton-hove.gov.uk/sites/default/files/2023-03/BHCC%20Market%20Sustainability%20Plan_0.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "BHCC%20Market%20Sustainability%20Plan_0.pdf",
+        "financial_pages": "[1, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 16]",
+        "level": "level_2",
+        "page_count": 16,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]",
+        "source": "https://www.brighton-hove.gov.uk/adult-social-care/about-adult-social-care/annex-c-final-market-sustainability-plan",
+        "source_url": "https://www.brighton-hove.gov.uk/adult-social-care/about-adult-social-care/annex-c-final-market-sustainability-plan",
+        "total_chunks": 49,
+        "type": "pdf"
+      },
+      "id": "e5ea59b1-d9d9-493f-ac96-20d55b15022c",
+      "distance": 0.5905661582946777,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.17283015251159667,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 8 - FINANCIAL/BUDGET INFORMATION]\nBrighton & Hove Market Sustainability Plan  \ncommunity assessment worker\u2019s restructured localities; East, West, Central and North. There will be \ntwo contracts for each area; a lead and a back -up contract. This is with the  aim of supporting and \nenabling place -based  partnerships and the collaborative arrangements formed by the organisations \nresponsible for coordinating and delivering health and care services in each \nneighbourhood/community. This will support the NHS\u2019 Place B ased Approach and complement the \nwork being undertaken by social care colleagues regarding capacity building within the community \nand voluntary sector.  \n \nHomecare Rates  \nHome Care  \nHome care main area/back up provider core fee  \u00a320.07  \n \nHome care main area/back up provider \u2013 enhanced \nfee  \u00a322.31  \n \nRising fuel costs have hit the Care sector significantly. In Home Care carers outside the central city",
+      "metadata": {
+        "chunk_id": 22,
+        "contains_financial_info": true,
+        "download_url": "https://www.brighton-hove.gov.uk/sites/default/files/2023-03/BHCC%20Market%20Sustainability%20Plan_0.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "BHCC%20Market%20Sustainability%20Plan_0.pdf",
+        "financial_pages": "[1, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 16]",
+        "level": "level_2",
+        "page_count": 16,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]",
+        "source": "https://www.brighton-hove.gov.uk/adult-social-care/about-adult-social-care/annex-c-final-market-sustainability-plan",
+        "source_url": "https://www.brighton-hove.gov.uk/adult-social-care/about-adult-social-care/annex-c-final-market-sustainability-plan",
+        "total_chunks": 49,
+        "type": "pdf"
+      },
+      "id": "38410f31-8511-4e91-9e31-7fa4f4663477",
+      "distance": 0.5914872288703918,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.17255383133888244,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 4,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "process, which starts in Autumn and is finalised in February  each year .  \nWhen setting  annual fees, the Council considers inflationary pressures, the living wage and other \ncost pressures affecting Adult Social Care providers , but this must  be balanced with managing the \noverall budget of Adult Social Care services  and the wider Council .   \nFor residential settings we have published set rates which cover both residential and nursing homes \nand for our homecare provision we have a set hourly rate.  The table below set out these rates as at \n22/23. Additional Funding provided through the cost of ca re exercise has been applied to these rates \nfor 22/23.  \n \nFee Rates Table 2022 -23 (updated 65+ Care Homes and Home Care)  \nService  Current Fee  \n2022 -23 \nCare Homes and Care Homes with Nursing \u2013 set rates only  \nIn city 65+ care homes \u2013 set fees per week  \u00a3624  \nIn city 65+ care homes with nursing \u2013 set fees per \nweek  \u00a3833.19  inc of FNC \u00a3209.19",
+      "metadata": {
+        "chunk_id": 15,
+        "contains_financial_info": true,
+        "download_url": "https://www.brighton-hove.gov.uk/sites/default/files/2023-03/BHCC%20Market%20Sustainability%20Plan_0.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "BHCC%20Market%20Sustainability%20Plan_0.pdf",
+        "financial_pages": "[1, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 16]",
+        "level": "level_2",
+        "page_count": 16,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]",
+        "source": "https://www.brighton-hove.gov.uk/adult-social-care/about-adult-social-care/annex-c-final-market-sustainability-plan",
+        "source_url": "https://www.brighton-hove.gov.uk/adult-social-care/about-adult-social-care/annex-c-final-market-sustainability-plan",
+        "total_chunks": 49,
+        "type": "pdf"
+      },
+      "id": "63f7502b-a51e-4a72-a919-07ec8a20d279",
+      "distance": 0.5980696082115173,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1705791175365448,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 4,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". If we can\u00a0help you, we\u2019ll discuss your options\u00a0with you. If you want to arrange your own support, you can: find a care home on\u00a0the Care Choices website contact Age UK Brighton & Hove Information & Advice Monday to\u00a0Friday\u00a010am to\u00a04pm, on 01273 720 603 check\u00a0care home quality reports on the Care Quality Commission website If you need help to express your views and wishes, find out how an advocate could help . Paying for your care The cost of a care home depends on its facilities and the type\u00a0of care you need. If you\u2019re arranging your own care and support, find out how to pay for your care and support . More information Get free information and advice about care home from Independent Age .",
+      "metadata": {
+        "chunk_id": 3,
+        "filename": "www.brighton-hove.gov.uk_node_2426.txt",
+        "level": "level_3",
+        "source": "https://www.brighton-hove.gov.uk/node/2426",
+        "source_url": "https://www.brighton-hove.gov.uk/node/2426",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "86cb2d01-0f77-4ac3-b626-9c2bb3d76029",
+      "distance": 0.6000243425369263,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.16999269723892213,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". If we can\u00a0help you, we\u2019ll discuss your options\u00a0with you. If you want to arrange your own support, you can: find a care home on\u00a0the Care Choices website contact Age UK Brighton & Hove Information & Advice Monday to\u00a0Friday\u00a010am to\u00a04pm, on 01273 720 603 check\u00a0care home quality reports on the Care Quality Commission website If you need help to express your views and wishes, find out how an advocate could help . Paying for your care The cost of a care home depends on its facilities and the type\u00a0of care you need. If you\u2019re arranging your own care and support, find out how to pay for your care and support . More information Get free information and advice about care home from Independent Age .",
+      "metadata": {
+        "chunk_id": 3,
+        "filename": "www.brighton-hove.gov.uk_adult-social-care-hub_supported-housing-and-care-homes_choose-right-support.txt",
+        "level": "level_2",
+        "source": "https://www.brighton-hove.gov.uk/adult-social-care-hub/supported-housing-and-care-homes/choose-right-support-or-care-home",
+        "source_url": "https://www.brighton-hove.gov.uk/adult-social-care-hub/supported-housing-and-care-homes/choose-right-support-or-care-home",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "761935e4-4016-4dd6-be10-6d32941e07dc",
+      "distance": 0.6000243425369263,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.16999269723892213,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Check you're getting\u00a0the correct benefits . How much you will\u00a0have to pay towards the cost of your care home Each year the council sets the fee rates it will pay to care homes. Many\u00a0care homes agree to the council\u2019s set rates for some or all of their rooms, but others charge more. If you choose to go into a care home that costs more than the council\u2019s set rates, you\u2019ll need to pay the difference in cost. This is called a third-party top up charge. This\u00a0must be paid as well as\u00a0the amount you have been assessed to pay towards your care. If you\u2019ve already been paying for a care home which costs more that the set rates, and your savings are about to fall below \u00a323,250, you should look into different options to pay for your care",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.brighton-hove.gov.uk_adult-social-care_pay-your-care-and-support_pay-residential-or-nursing-home.txt",
+        "level": "level_3",
+        "source": "https://www.brighton-hove.gov.uk/adult-social-care/pay-your-care-and-support/pay-residential-or-nursing-home-care",
+        "source_url": "https://www.brighton-hove.gov.uk/adult-social-care/pay-your-care-and-support/pay-residential-or-nursing-home-care",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "0ab7e02f-f5c7-4227-ab99-e058ffff6965",
+      "distance": 0.6253772974014282,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.16238681077957154,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 11 - FINANCIAL/BUDGET INFORMATION]\nBrighton & Hove Market Sustainability Plan  \nunit costs for both residential and nursing care confir ms that our current pricing framework, which \nwas already significantly strained, remains challenged.  \n \nFollowing the impact of Covid -19 and potentially of EU Exit, care providers have been dealing with \ndifficulties in workforce recruitment. This has impacted all care sectors across the country but has \nbeen particularly acute for home care providers.  Our direction of travel is still to enable people to \nreceive care in their own homes rather than for them move to residential care, though this has been \nchallenging over the past year due to there being currently higher demand for home care than \navailability.  \n \nAdult Social Care Charging Reform is planned to be introduced from October 2025, having been \ndelayed from the planned date of October 2023. The refo rms include a more generous means -test, a",
+      "metadata": {
+        "chunk_id": 31,
+        "contains_financial_info": true,
+        "download_url": "https://www.brighton-hove.gov.uk/sites/default/files/2023-03/BHCC%20Market%20Sustainability%20Plan_0.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "BHCC%20Market%20Sustainability%20Plan_0.pdf",
+        "financial_pages": "[1, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 16]",
+        "level": "level_2",
+        "page_count": 16,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]",
+        "source": "https://www.brighton-hove.gov.uk/adult-social-care/about-adult-social-care/annex-c-final-market-sustainability-plan",
+        "source_url": "https://www.brighton-hove.gov.uk/adult-social-care/about-adult-social-care/annex-c-final-market-sustainability-plan",
+        "total_chunks": 49,
+        "type": "pdf"
+      },
+      "id": "202836b6-f7cd-4a85-9ad7-85a731067ae3",
+      "distance": 0.6298313736915588,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.16105058789253235,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    }
+  ],
+  "context": "[Document 1] From https://www (web_page) - URL: https://www.brighton-hove.gov.uk/adult-social-care-hub/pay-your-care-and-support/charges-community-care-services-including-homecare/paying-community-services-including-home-care [Retrieved via: semantic_original]:\n. How much you pay for these services is dependent on the outcome of your financial assessment. Council managed: home care is charged at \u00a333 per hour for each carer day care is charged at \u00a350 per day Brighton & Hove City Council powers If payments are not made, we may use our powers under the Care Act to recover debt. We reserve the right to check any information given by making further enquiries, for example with the Department for Works and Pensions (DWP) We have a duty to protect public funds and may use any information provided for the prevention and detection of fraud.\n\n[Document 2] From https://www (pdf) - URL: https://www.brighton-hove.gov.uk/adult-social-care/about-adult-social-care/annex-c-final-market-sustainability-plan - 16 pages [Retrieved via: semantic_original]:\n[Page 7 - FINANCIAL/BUDGET INFORMATION]\nBrighton & Hove Market Sustainability Plan  \nWe will be reviewing our published set rates alongside our commissioning of residential provision \nover the next few years and consideration to the Cost of Care exercise outputs will be part of this \nprocess.   This will be one of many areas of consideration when reviewing fee rates going forward and \nother factors such as current rates being paid , and affordability will also need to be considered.  \nb) Assessment of current sustainability of the 18+ domiciliary care market  \n \nHome Care Market in Brighton & Hove  \nThere are a total of 37 providers of domiciliary  care across  Brighton & Hove who employ 1600 staff \nsupporting 2000 people within the city . 22 of these providers hold contracts with the local authority . \n \nCurrent challenges around this market are similar to the residential care market with workforce \nissues being a significant concern alongside the rates currently affordable  by the local au thority.  This\n\n[Document 3] From https://www (web_page) - URL: https://www.brighton-hove.gov.uk/adult-social-care/about-adult-social-care/annex-c-final-market-sustainability-plan [Retrieved via: semantic_original]:\n. Therefore, based on the information known so far, we are modelling the investment required for Brighton and Hove City Council to deliver on these reforms and the implications on the market. Current demand and projected increases based upon the Charging Reform estimates indicate the most significant impacts upon Care Home placements and Community Support Communication and engagement with providers \u2013 reflections from Fair Cost of Care exercise The communication and engagement to providers is well established in Brighton & Hove, it was a supportive factor in response to COVID-19 challenges and we have maintained that relationship. Care Homes providers attend a regular forum with Local Authority Commissioning managers, key items such as Fair Cost of Care are presented with an opportunity for input and questions from Providers. Home Care providers are all invited to a fortnightly meeting, which brings together Local Authority Officers and providers for key issues and ongoing communication\n\n[Document 4] From https://www (pdf) - URL: https://www.brighton-hove.gov.uk/adult-social-care/about-adult-social-care/annex-c-final-market-sustainability-plan - 16 pages [Retrieved via: semantic_original]:\nissues being a significant concern alongside the rates currently affordable  by the local au thority.  This \nhas already been covered in detail ab ove.  \n \nQuality of provision remains generally good and while during the past few years we have seen some \ndifficulties with capacity we have not seen any significant provider failures.  \n \nAlongside the challenges detailed above w e also recognise that the current homecare contract that \nwas commissioned six yea rs ago is not supporting a sustainable model of d elivery and so that is why  \nBrighton & Hove City Council is reaching the conclusion of commissioning a new model of Home Care \nfor both community -based support and Extra Care establishments. The new contract will commence \nJuly 2023 and will operate for 5 years with the option to extend for a further 3 years.  \n \nAreas that are being addresse d are as follows.  \n \nEnding minute by minute payments   \nThe current model of paying for care by the minute does not support the much -needed recruitment\n\n[Document 5] From https://www (pdf) - URL: https://www.brighton-hove.gov.uk/adult-social-care/about-adult-social-care/annex-c-final-market-sustainability-plan - 16 pages [Retrieved via: semantic_original]:\n[Page 8 - FINANCIAL/BUDGET INFORMATION]\nBrighton & Hove Market Sustainability Plan  \ncommunity assessment worker\u2019s restructured localities; East, West, Central and North. There will be \ntwo contracts for each area; a lead and a back -up contract. This is with the  aim of supporting and \nenabling place -based  partnerships and the collaborative arrangements formed by the organisations \nresponsible for coordinating and delivering health and care services in each \nneighbourhood/community. This will support the NHS\u2019 Place B ased Approach and complement the \nwork being undertaken by social care colleagues regarding capacity building within the community \nand voluntary sector.  \n \nHomecare Rates  \nHome Care  \nHome care main area/back up provider core fee  \u00a320.07  \n \nHome care main area/back up provider \u2013 enhanced \nfee  \u00a322.31  \n \nRising fuel costs have hit the Care sector significantly. In Home Care carers outside the central city\n\n[Document 6] From https://www (pdf) - URL: https://www.brighton-hove.gov.uk/adult-social-care/about-adult-social-care/annex-c-final-market-sustainability-plan - 16 pages [Retrieved via: semantic_original]:\nprocess, which starts in Autumn and is finalised in February  each year .  \nWhen setting  annual fees, the Council considers inflationary pressures, the living wage and other \ncost pressures affecting Adult Social Care providers , but this must  be balanced with managing the \noverall budget of Adult Social Care services  and the wider Council .   \nFor residential settings we have published set rates which cover both residential and nursing homes \nand for our homecare provision we have a set hourly rate.  The table below set out these rates as at \n22/23. Additional Funding provided through the cost of ca re exercise has been applied to these rates \nfor 22/23.  \n \nFee Rates Table 2022 -23 (updated 65+ Care Homes and Home Care)  \nService  Current Fee  \n2022 -23 \nCare Homes and Care Homes with Nursing \u2013 set rates only  \nIn city 65+ care homes \u2013 set fees per week  \u00a3624  \nIn city 65+ care homes with nursing \u2013 set fees per \nweek  \u00a3833.19  inc of FNC \u00a3209.19\n\n[Document 7] From https://www (web_page) - URL: https://www.brighton-hove.gov.uk/node/2426 [Retrieved via: semantic_original]:\n. If we can\u00a0help you, we\u2019ll discuss your options\u00a0with you. If you want to arrange your own support, you can: find a care home on\u00a0the Care Choices website contact Age UK Brighton & Hove Information & Advice Monday to\u00a0Friday\u00a010am to\u00a04pm, on 01273 720 603 check\u00a0care home quality reports on the Care Quality Commission website If you need help to express your views and wishes, find out how an advocate could help . Paying for your care The cost of a care home depends on its facilities and the type\u00a0of care you need. If you\u2019re arranging your own care and support, find out how to pay for your care and support . More information Get free information and advice about care home from Independent Age .\n\n[Document 8] From https://www (web_page) - URL: https://www.brighton-hove.gov.uk/adult-social-care-hub/supported-housing-and-care-homes/choose-right-support-or-care-home [Retrieved via: semantic_original]:\n. If we can\u00a0help you, we\u2019ll discuss your options\u00a0with you. If you want to arrange your own support, you can: find a care home on\u00a0the Care Choices website contact Age UK Brighton & Hove Information & Advice Monday to\u00a0Friday\u00a010am to\u00a04pm, on 01273 720 603 check\u00a0care home quality reports on the Care Quality Commission website If you need help to express your views and wishes, find out how an advocate could help . Paying for your care The cost of a care home depends on its facilities and the type\u00a0of care you need. If you\u2019re arranging your own care and support, find out how to pay for your care and support . More information Get free information and advice about care home from Independent Age .\n\n[Document 9] From https://www (web_page) - URL: https://www.brighton-hove.gov.uk/adult-social-care/pay-your-care-and-support/pay-residential-or-nursing-home-care [Retrieved via: semantic_original]:\n. Check you're getting\u00a0the correct benefits . How much you will\u00a0have to pay towards the cost of your care home Each year the council sets the fee rates it will pay to care homes. Many\u00a0care homes agree to the council\u2019s set rates for some or all of their rooms, but others charge more. If you choose to go into a care home that costs more than the council\u2019s set rates, you\u2019ll need to pay the difference in cost. This is called a third-party top up charge. This\u00a0must be paid as well as\u00a0the amount you have been assessed to pay towards your care. If you\u2019ve already been paying for a care home which costs more that the set rates, and your savings are about to fall below \u00a323,250, you should look into different options to pay for your care\n\n[Document 10] From https://www (pdf) - URL: https://www.brighton-hove.gov.uk/adult-social-care/about-adult-social-care/annex-c-final-market-sustainability-plan - 16 pages [Retrieved via: semantic_original]:\n[Page 11 - FINANCIAL/BUDGET INFORMATION]\nBrighton & Hove Market Sustainability Plan  \nunit costs for both residential and nursing care confir ms that our current pricing framework, which \nwas already significantly strained, remains challenged.  \n \nFollowing the impact of Covid -19 and potentially of EU Exit, care providers have been dealing with \ndifficulties in workforce recruitment. This has impacted all care sectors across the country but has \nbeen particularly acute for home care providers.  Our direction of travel is still to enable people to \nreceive care in their own homes rather than for them move to residential care, though this has been \nchallenging over the past year due to there being currently higher demand for home care than \navailability.  \n \nAdult Social Care Charging Reform is planned to be introduced from October 2025, having been \ndelayed from the planned date of October 2023. The refo rms include a more generous means -test, a\n",
+  "answer": "If you are concerned about the costs of your home care in Brighton & Hove, you may be eligible for financial assistance based on a financial assessment conducted by the council. The cost of home care is typically **\u00a333 per hour** for each carer, but how much you pay depends on this assessment.\n\n**Key Details:**\n- **Financial Assessment:** The amount you pay for home care services is determined by a financial assessment conducted by Brighton & Hove City Council. This assessment will consider your income, savings, and other financial resources to determine your contribution towards the cost of care.\n- **Council Rates:** Home care is charged at \u00a333 per hour, but the actual amount you pay will depend on the outcome of your financial assessment.\n- **Support and Advice:** You can contact Age UK Brighton & Hove for information and advice on financial support options. They are available Monday to Friday from 10 am to 4 pm at 01273 720 603.\n\n**Next Steps:**\n1. **Undergo a Financial Assessment:** Contact Brighton & Hove City Council to arrange a financial assessment if you haven't done so already.\n2. **Explore Benefits:** Ensure you are receiving all the benefits you are entitled to, which can help with care costs.\n3. **Contact Age UK Brighton & Hove:** For further advice and support, reach out to Age UK Brighton & Hove.\n\nFor more detailed information, you can visit the Brighton & Hove City Council's website on paying for community services, including home care: [Brighton & Hove Adult Social Care Hub](https://www.brighton-hove.gov.uk/adult-social-care-hub/pay-your-care-and-support/charges-community-care-services-including-homecare/paying-community-services-including-home-care).",
+  "metrics": {
+    "duration_seconds": 16.345330238342285,
+    "retrieved_docs_count": 10,
+    "query_length": 146,
+    "answer_length": 1696,
+    "retrieval_method": "enhanced",
+    "context_utilization": 0.168,
+    "citations_count": 0,
+    "has_citations": false,
+    "query_relevance": 0.6363636363636364,
+    "unique_retrieval_methods": 1,
+    "budget_documents_retrieved": 5,
+    "retrieval_methods_used": [
+      "semantic_original"
+    ],
+    "retrieval_method_distribution": {
+      "semantic_original": 10
+    }
+  },
+  "local_authority": "brighton-hove",
+  "query_id": "scn_16",
+  "retrieval_method": "enhanced",
+  "run_id": "5f9f14b8-9f1a-4871-8465-66f6647dd3a8",
+  "trace": {
+    "run_id": "5f9f14b8-9f1a-4871-8465-66f6647dd3a8",
+    "project": "social_care_rag",
+    "url": "https://eu.smith.langchain.com/o/me/runs/5f9f14b8-9f1a-4871-8465-66f6647dd3a8"
+  },
+  "test_metadata": {
+    "local_authority": "brighton-hove",
+    "query_id": "scn_16",
+    "query_category": "financial_scenarios",
+    "prompt_variation": "optimized",
+    "prompt_template": "\nPlease answer the following question about social care services in UK local authorities based only on the information in the provided documents.\n\nQuestion: {query}\n\nContext from relevant documents:\n{context}\n\nInstructions:\n1. Provide a clear, direct answer that would help someone needing this information. If information isn't available, state: \"The available documents don't provide specific information about [aspect].\"\n\n2. Synthesize information from ALL relevant documents to provide the most complete answer rather than analyzing documents individually.\n\n3. Structure your response with:\n   - A concise 1-2 sentence summary first\n   - Relevant details organized in short, clear paragraphs\n   - Bullet points for lists or step-by-step information\n   - Bold text for key information the user should notice\n\n4. For financial information:\n   - Include exact figures, time periods, and what the funding covers\n   - Present financial data clearly: \"The adult social care budget is **\u00a3X million** for [time period]\"\n\n5. Always include practical next steps or resources:\n   - Provide contact information, URLs, or application methods mentioned in the documents\n   - Suggest where the person could find more information\n\n6. When citing sources, use a simple format: \"According to [document name/description]\" or include URLs where available.\n\nAnswer:\n",
+    "processing_time": 16.34734797477722,
+    "timestamp": "2025-08-19T13:18:57.279970",
+    "top_k": 10
+  }
+}

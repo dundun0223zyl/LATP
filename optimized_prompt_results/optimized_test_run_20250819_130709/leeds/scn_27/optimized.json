@@ -1,0 +1,275 @@
+{
+  "query": "I'm experiencing domestic abuse in leeds and need to leave with my children. What emergency social care and housing support can I access?",
+  "retrieved_documents": [
+    {
+      "content": ". You can also find out more about becoming a Shared Lives carer. Help from other local organisations If you need immediate help, you can also find local organisations on Leeds Directory . Help to pay for a short break You can get a one off payment of up to \u00a3250 to help towards the cost of taking a break or holiday from looking after someone. This is know as the Time for Carers scheme. The scheme is funded by us and administered by Carers Leeds . To apply for the scheme, call 0113\u00a0246\u00a08338. Installing help alarms in the home To help give you peace of mind when you're away from the person you care for, an alarm system can be fitted into their home to detect any problems. Find out more about help alarms and safety in the home . Help with money If you need urgent help with money you should call our local welfare support team on 0113 868 9808. If your caring duties are affecting your finances, you may be able to increase your income or reduce your outgoings",
+      "metadata": {
+        "chunk_id": 8,
+        "filename": "www.leeds.gov.uk_adult-social-care_looking-after-someone_looking-after-a-family-member-or-friend.txt",
+        "level": "level_2",
+        "source": "https://www.leeds.gov.uk/adult-social-care/looking-after-someone/looking-after-a-family-member-or-friend",
+        "source_url": "https://www.leeds.gov.uk/adult-social-care/looking-after-someone/looking-after-a-family-member-or-friend",
+        "total_chunks": 14,
+        "type": "web_page"
+      },
+      "id": "55a70ded-7ca5-44ae-b698-db7cd308a30d",
+      "distance": 0.5880954265594482,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.17357137203216552,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Changes to your care Find out what to do if your social care needs change, you cannot afford care anymore, or you're moving to another address. Change of address If you move, you need to let us know . Then we can make sure there is no gap in your care and support. Leaving Leeds If you move to an area which falls under another council, we will work with your new council to make sure there's no break in your care. Before you move, your new council will assess your needs and agree a new support plan with you. If this is not possible the new council will arrange the care and support we outlined in your previous plan. Changes in your needs or finances If your needs or finances change, get in touch with your social worker and let them know. If you do not have a social worker or you do not know their contact details, you can contact us instead. We'll arrange for your social worker or another member of their team to call you back",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.leeds.gov.uk_adult-social-care_changes-to-your-care.txt",
+        "level": "level_1",
+        "source": "https://www.leeds.gov.uk/adult-social-care/changes-to-your-care",
+        "source_url": "https://www.leeds.gov.uk/adult-social-care/changes-to-your-care",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "f42b2c5b-39c3-4cf1-9d95-99a34e364509",
+      "distance": 0.6273672580718994,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.16178982257843016,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". How to get support You will need a social worker to make a direct referral to us. Or you can contact us for a conversation about your needs. Contact us For a referral to the service, please call the Leeds City Council contact centre. Phone 0113 222 4401 Our three schemes: Cardinal Court Cardinal Walk, Beeston, LS11 8HP 0113 535 2506 cardinal.courtenquiries@leeds.gov.uk Rossefield Manor Rossefield Lawn, Bramley, LS13 3TG 0113 535 2129 Woodview Eastwood Drive, LS14 5HU 0113 535 2122 Find more information on other Leeds City Council extra care housing developments . Give feedback and let us know if this page was helpful",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.leeds.gov.uk_adult-social-care_care-delivery-service_extra-care-service.txt",
+        "level": "level_2",
+        "source": "https://www.leeds.gov.uk/adult-social-care/care-delivery-service/extra-care-service",
+        "source_url": "https://www.leeds.gov.uk/adult-social-care/care-delivery-service/extra-care-service",
+        "total_chunks": 3,
+        "type": "web_page"
+      },
+      "id": "50203c26-9f3c-495c-8b8f-5cf39854b5b7",
+      "distance": 0.6381711959838867,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.15854864120483397,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "about getting a personal assistant to support you to live independently A helper to live with you If you have a spare room, Leeds Homeshare can find someone to share your home and help with household tasks like shopping and cleaning Help to pay for care and support services Get help paying for support at home, read about financial assessments, personal budgets and direct payments The community wellbeing hub Support for the over 50s in Black, Asian, minority ethnic  communities in Leeds Care Delivery Service Our Care Delivery Service is a group of Leeds City Council services providing care and support for adults Give feedback and let us know if this page was helpful",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.leeds.gov.uk_adult-social-care_help-at-home.txt",
+        "level": "level_1",
+        "source": "https://www.leeds.gov.uk/adult-social-care/help-at-home",
+        "source_url": "https://www.leeds.gov.uk/adult-social-care/help-at-home",
+        "total_chunks": 3,
+        "type": "web_page"
+      },
+      "id": "3caca197-7f35-4bb5-9ed6-e09b9326a921",
+      "distance": 0.6388728618621826,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.15833814144134523,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". This poster is also available in A4: P752. Subject areas: Support services, Housing, Poverty. Services in Leeds that could help and support your service users (P752) ID: P752 Corporate author: Leeds City Council Publication information: Leeds: Leeds City Council, 2023 Physical description: 1 poster, 30x21cm. Summary: This A3 poster provides information and contact details for 12 support services in Leeds, including Citizens Advice, MindWell, Money Information Centre, Adult Social Care, Home Plus, Leeds Directory, Leeds Housing Options, Enhance Programme, Leeds Food Aid Network, and Linking Leeds. This poster is also available in A3: P751. Subject areas: Support services, Housing, Poverty",
+      "metadata": {
+        "chunk_id": 187,
+        "filename": "www.leeds.gov.uk_phrc_resources_leaflets-and-posters.txt",
+        "level": "level_3",
+        "source": "https://www.leeds.gov.uk/phrc/resources/leaflets-and-posters",
+        "source_url": "https://www.leeds.gov.uk/phrc/resources/leaflets-and-posters",
+        "total_chunks": 257,
+        "type": "web_page"
+      },
+      "id": "3b9198c4-f7b3-42fa-939b-83f1c8e353f5",
+      "distance": 0.6718388199806213,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1484483540058136,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Summary: This double-sided postcard,-sized leaflet promotes the Leeds Directory service, which can support you to live well by connecting you to checked and vetted local services and tradespeople as well as local activities and events. Subject areas: Healthy lifestyle, Community based services. Services in Leeds that could help and support your service users (P751) ID: P751 Corporate author: Leeds City Council Publication information: Leeds: Leeds City Council, 2023 Physical description: 1 poster, 42x30cm. Summary: This A3 poster provides information and contact details for 12 support services in Leeds, including Citizens Advice, MindWell, Money Information Centre, Adult Social Care, Home Plus, Leeds Directory, Leeds Housing Options, Enhance Programme, Leeds Food Aid Network, and Linking Leeds. This poster is also available in A4: P752. Subject areas: Support services, Housing, Poverty",
+      "metadata": {
+        "chunk_id": 186,
+        "filename": "www.leeds.gov.uk_phrc_resources_leaflets-and-posters.txt",
+        "level": "level_3",
+        "source": "https://www.leeds.gov.uk/phrc/resources/leaflets-and-posters",
+        "source_url": "https://www.leeds.gov.uk/phrc/resources/leaflets-and-posters",
+        "total_chunks": 257,
+        "type": "web_page"
+      },
+      "id": "a4ef1d4a-3681-4e72-937c-fc6044ebb8c8",
+      "distance": 0.6759935617446899,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.14720193147659302,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". We signpost to relevant services and support available take part in hobbies and activities feel part of the local community and reduce feelings of social isolation and loneliness One-to-one support is also available but may be chargeable. We don\u2019t provide: support in the person's own home support with personal care intensive, long term one-to-one support How to get support To request a referral form and for more information, email dayopportunites@leeds.gov.uk . We aim to process referrals within 14 working days. You will be contacted by one of our assessors to arrange an initial meeting to discuss the service and assess your suitability. Contact us To find out more or ask any questions, please email\u00a0the team",
+      "metadata": {
+        "chunk_id": 4,
+        "filename": "www.leeds.gov.uk_adult-social-care_care-delivery-service_mental-health-support_mental-health-day-opp.txt",
+        "level": "level_2",
+        "source": "https://www.leeds.gov.uk/adult-social-care/care-delivery-service/mental-health-support/mental-health-day-opportunities",
+        "source_url": "https://www.leeds.gov.uk/adult-social-care/care-delivery-service/mental-health-support/mental-health-day-opportunities",
+        "total_chunks": 6,
+        "type": "web_page"
+      },
+      "id": "de7b9b5e-dd60-46a4-97e8-a08063cb283c",
+      "distance": 0.6899740695953369,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.14300777912139892,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Types of support from adult social care Find out the different types of support\u00a0we might suggest for you\u00a0and what social care looks like in Leeds. How we'll help When you contact\u00a0us\u00a0we may arrange for you to have an assessment with a member of our team. They'll work with you to make a plan to help you live well. What is in a care and support\u00a0plan Your plan could be for long term support, or it could be for a short time until you're feeling better after an illness or change. The plan could include support from lots of different places, including volunteer helpers, community groups and charities. And, if your assessment shows you need it, we could include things like equipment or professional care and support services. Living well Your plan could include ways to help you stay independent and do the things you enjoy. This could be adapted equipment to make daily tasks easier, help getting out and about, and finding ways to reconnect you with friends and family",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.leeds.gov.uk_adult-social-care_how-to-get-adult-social-care-and-support_types-of-support-from-ad.txt",
+        "level": "level_2",
+        "source": "https://www.leeds.gov.uk/adult-social-care/how-to-get-adult-social-care-and-support/types-of-support-from-adult-social-care",
+        "source_url": "https://www.leeds.gov.uk/adult-social-care/how-to-get-adult-social-care-and-support/types-of-support-from-adult-social-care",
+        "total_chunks": 5,
+        "type": "web_page"
+      },
+      "id": "88098389-a2be-4764-adb2-c2f5e20a4b24",
+      "distance": 0.6961689591407776,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.14114931225776672,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Find out more about arranging your care with direct payments . Direct payment support We can support, advise and provide information about employing a PA, however you fund your\u00a0support. Leeds Direct Payment and PA Support Hub\u00a0offer the following services: help with PA recruitment (including our PA register) support planning service support for employers access to training for PA's and Employers To use our service, you can complete the online referral form , or contact us by: Email: LeedsDPandPAsupporthub@leeds.gov.uk Phone: 0113 378 3936 Social workers or professionals involved in your support can also make a referral for you. You will need to sign a service agreement and agree to the terms and conditions of the service before the service starts. These documents will be sent to you once a referral has been accepted. If you are supported by Leeds Social Care (Adults or Children's) or the NHS, then our services are paid for by them. If you fund your own care, you can also use the service as a self-funder",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.leeds.gov.uk_adult-social-care_help-at-home_get-a-personal-assistant.txt",
+        "level": "level_2",
+        "source": "https://www.leeds.gov.uk/adult-social-care/help-at-home/get-a-personal-assistant",
+        "source_url": "https://www.leeds.gov.uk/adult-social-care/help-at-home/get-a-personal-assistant",
+        "total_chunks": 13,
+        "type": "web_page"
+      },
+      "id": "0c689a48-d6bf-4236-9e52-f3effdd2bdb8",
+      "distance": 0.7005981802940369,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.13982054591178894,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Help through the council We offer different types of support, depending on your needs. This can include: Community based short breaks - care workers visiting the person you care for once or twice a week, for up to 8 hours per week. Leeds Shared Lives scheme - getting day support or respite in someone else's home for the person you care for. Find out more about Shared Lives respite care and day support Complex needs day services - supporting people who live with dementia or have complex needs Physical impairment and older people's service - helping older people and adults living with a physical impairment who need support Peer support service - helping people living with dementia and people in their support network Find the current costs of services from adult social care . To find out more about short breaks, call the adult social care team on 0113 222 4401 (weekdays 9am to 5pm, except Wednesday from 10am). You can also find out more about becoming a Shared Lives carer",
+      "metadata": {
+        "chunk_id": 7,
+        "filename": "www.leeds.gov.uk_adult-social-care_looking-after-someone_looking-after-a-family-member-or-friend.txt",
+        "level": "level_2",
+        "source": "https://www.leeds.gov.uk/adult-social-care/looking-after-someone/looking-after-a-family-member-or-friend",
+        "source_url": "https://www.leeds.gov.uk/adult-social-care/looking-after-someone/looking-after-a-family-member-or-friend",
+        "total_chunks": 14,
+        "type": "web_page"
+      },
+      "id": "a937aa4e-25e1-41d0-8c6c-b3f249ed8719",
+      "distance": 0.7052798867225647,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1384160339832306,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    }
+  ],
+  "context": "[Document 1] From https://www (web_page) - URL: https://www.leeds.gov.uk/adult-social-care/looking-after-someone/looking-after-a-family-member-or-friend [Retrieved via: semantic_original]:\n. You can also find out more about becoming a Shared Lives carer. Help from other local organisations If you need immediate help, you can also find local organisations on Leeds Directory . Help to pay for a short break You can get a one off payment of up to \u00a3250 to help towards the cost of taking a break or holiday from looking after someone. This is know as the Time for Carers scheme. The scheme is funded by us and administered by Carers Leeds . To apply for the scheme, call 0113\u00a0246\u00a08338. Installing help alarms in the home To help give you peace of mind when you're away from the person you care for, an alarm system can be fitted into their home to detect any problems. Find out more about help alarms and safety in the home . Help with money If you need urgent help with money you should call our local welfare support team on 0113 868 9808. If your caring duties are affecting your finances, you may be able to increase your income or reduce your outgoings\n\n[Document 2] From https://www (web_page) - URL: https://www.leeds.gov.uk/adult-social-care/changes-to-your-care [Retrieved via: semantic_original]:\nChanges to your care Find out what to do if your social care needs change, you cannot afford care anymore, or you're moving to another address. Change of address If you move, you need to let us know . Then we can make sure there is no gap in your care and support. Leaving Leeds If you move to an area which falls under another council, we will work with your new council to make sure there's no break in your care. Before you move, your new council will assess your needs and agree a new support plan with you. If this is not possible the new council will arrange the care and support we outlined in your previous plan. Changes in your needs or finances If your needs or finances change, get in touch with your social worker and let them know. If you do not have a social worker or you do not know their contact details, you can contact us instead. We'll arrange for your social worker or another member of their team to call you back\n\n[Document 3] From https://www (web_page) - URL: https://www.leeds.gov.uk/adult-social-care/care-delivery-service/extra-care-service [Retrieved via: semantic_original]:\n. How to get support You will need a social worker to make a direct referral to us. Or you can contact us for a conversation about your needs. Contact us For a referral to the service, please call the Leeds City Council contact centre. Phone 0113 222 4401 Our three schemes: Cardinal Court Cardinal Walk, Beeston, LS11 8HP 0113 535 2506 cardinal.courtenquiries@leeds.gov.uk Rossefield Manor Rossefield Lawn, Bramley, LS13 3TG 0113 535 2129 Woodview Eastwood Drive, LS14 5HU 0113 535 2122 Find more information on other Leeds City Council extra care housing developments . Give feedback and let us know if this page was helpful\n\n[Document 4] From https://www (web_page) - URL: https://www.leeds.gov.uk/adult-social-care/help-at-home [Retrieved via: semantic_original]:\nabout getting a personal assistant to support you to live independently A helper to live with you If you have a spare room, Leeds Homeshare can find someone to share your home and help with household tasks like shopping and cleaning Help to pay for care and support services Get help paying for support at home, read about financial assessments, personal budgets and direct payments The community wellbeing hub Support for the over 50s in Black, Asian, minority ethnic  communities in Leeds Care Delivery Service Our Care Delivery Service is a group of Leeds City Council services providing care and support for adults Give feedback and let us know if this page was helpful\n\n[Document 5] From https://www (web_page) - URL: https://www.leeds.gov.uk/phrc/resources/leaflets-and-posters [Retrieved via: semantic_original]:\n. This poster is also available in A4: P752. Subject areas: Support services, Housing, Poverty. Services in Leeds that could help and support your service users (P752) ID: P752 Corporate author: Leeds City Council Publication information: Leeds: Leeds City Council, 2023 Physical description: 1 poster, 30x21cm. Summary: This A3 poster provides information and contact details for 12 support services in Leeds, including Citizens Advice, MindWell, Money Information Centre, Adult Social Care, Home Plus, Leeds Directory, Leeds Housing Options, Enhance Programme, Leeds Food Aid Network, and Linking Leeds. This poster is also available in A3: P751. Subject areas: Support services, Housing, Poverty\n\n[Document 6] From https://www (web_page) - URL: https://www.leeds.gov.uk/phrc/resources/leaflets-and-posters [Retrieved via: semantic_original]:\n. Summary: This double-sided postcard,-sized leaflet promotes the Leeds Directory service, which can support you to live well by connecting you to checked and vetted local services and tradespeople as well as local activities and events. Subject areas: Healthy lifestyle, Community based services. Services in Leeds that could help and support your service users (P751) ID: P751 Corporate author: Leeds City Council Publication information: Leeds: Leeds City Council, 2023 Physical description: 1 poster, 42x30cm. Summary: This A3 poster provides information and contact details for 12 support services in Leeds, including Citizens Advice, MindWell, Money Information Centre, Adult Social Care, Home Plus, Leeds Directory, Leeds Housing Options, Enhance Programme, Leeds Food Aid Network, and Linking Leeds. This poster is also available in A4: P752. Subject areas: Support services, Housing, Poverty\n\n[Document 7] From https://www (web_page) - URL: https://www.leeds.gov.uk/adult-social-care/care-delivery-service/mental-health-support/mental-health-day-opportunities [Retrieved via: semantic_original]:\n. We signpost to relevant services and support available take part in hobbies and activities feel part of the local community and reduce feelings of social isolation and loneliness One-to-one support is also available but may be chargeable. We don\u2019t provide: support in the person's own home support with personal care intensive, long term one-to-one support How to get support To request a referral form and for more information, email dayopportunites@leeds.gov.uk . We aim to process referrals within 14 working days. You will be contacted by one of our assessors to arrange an initial meeting to discuss the service and assess your suitability. Contact us To find out more or ask any questions, please email\u00a0the team\n\n[Document 8] From https://www (web_page) - URL: https://www.leeds.gov.uk/adult-social-care/how-to-get-adult-social-care-and-support/types-of-support-from-adult-social-care [Retrieved via: semantic_original]:\nTypes of support from adult social care Find out the different types of support\u00a0we might suggest for you\u00a0and what social care looks like in Leeds. How we'll help When you contact\u00a0us\u00a0we may arrange for you to have an assessment with a member of our team. They'll work with you to make a plan to help you live well. What is in a care and support\u00a0plan Your plan could be for long term support, or it could be for a short time until you're feeling better after an illness or change. The plan could include support from lots of different places, including volunteer helpers, community groups and charities. And, if your assessment shows you need it, we could include things like equipment or professional care and support services. Living well Your plan could include ways to help you stay independent and do the things you enjoy. This could be adapted equipment to make daily tasks easier, help getting out and about, and finding ways to reconnect you with friends and family\n\n[Document 9] From https://www (web_page) - URL: https://www.leeds.gov.uk/adult-social-care/help-at-home/get-a-personal-assistant [Retrieved via: semantic_original]:\n. Find out more about arranging your care with direct payments . Direct payment support We can support, advise and provide information about employing a PA, however you fund your\u00a0support. Leeds Direct Payment and PA Support Hub\u00a0offer the following services: help with PA recruitment (including our PA register) support planning service support for employers access to training for PA's and Employers To use our service, you can complete the online referral form , or contact us by: Email: LeedsDPandPAsupporthub@leeds.gov.uk Phone: 0113 378 3936 Social workers or professionals involved in your support can also make a referral for you. You will need to sign a service agreement and agree to the terms and conditions of the service before the service starts. These documents will be sent to you once a referral has been accepted. If you are supported by Leeds Social Care (Adults or Children's) or the NHS, then our services are paid for by them. If you fund your own care, you can also use the service as a self-funder\n\n[Document 10] From https://www (web_page) - URL: https://www.leeds.gov.uk/adult-social-care/looking-after-someone/looking-after-a-family-member-or-friend [Retrieved via: semantic_original]:\n. Help through the council We offer different types of support, depending on your needs. This can include: Community based short breaks - care workers visiting the person you care for once or twice a week, for up to 8 hours per week. Leeds Shared Lives scheme - getting day support or respite in someone else's home for the person you care for. Find out more about Shared Lives respite care and day support Complex needs day services - supporting people who live with dementia or have complex needs Physical impairment and older people's service - helping older people and adults living with a physical impairment who need support Peer support service - helping people living with dementia and people in their support network Find the current costs of services from adult social care . To find out more about short breaks, call the adult social care team on 0113 222 4401 (weekdays 9am to 5pm, except Wednesday from 10am). You can also find out more about becoming a Shared Lives carer\n",
+  "answer": "If you are experiencing domestic abuse in Leeds and need to leave with your children, there are several support services you can access for emergency social care and housing support.\n\n**Immediate Steps:**\n- **Contact Leeds City Council for Support:** You can reach out to the Leeds City Council contact centre for assistance. Call **0113 222 4401** to discuss your needs and get a referral to the appropriate services.\n- **Leeds Housing Options:** This service can provide advice and support for housing needs. You can find more information by visiting the Leeds City Council website or contacting them directly.\n\n**Additional Resources:**\n- **Leeds Directory:** This service connects you to local organizations that can provide support. Visit the Leeds Directory online for more details.\n- **Local Welfare Support:** If you need urgent help with money, contact the local welfare support team at **0113 868 9808**.\n\n**Practical Next Steps:**\n- **Assessment and Support Plan:** Contact the council to arrange for an assessment of your needs. This will help create a support plan tailored to your situation, which may include housing and financial assistance.\n- **Community and Charity Support:** Your support plan might include help from community groups and charities, providing additional resources and support.\n\nFor more detailed information and to explore all available services, visit the Leeds City Council website at [leeds.gov.uk](https://www.leeds.gov.uk).",
+  "metrics": {
+    "duration_seconds": 12.646256923675537,
+    "retrieved_docs_count": 10,
+    "query_length": 137,
+    "answer_length": 1464,
+    "retrieval_method": "enhanced",
+    "context_utilization": 0.16404494382022472,
+    "citations_count": 0,
+    "has_citations": false,
+    "query_relevance": 0.8947368421052632,
+    "unique_retrieval_methods": 1,
+    "budget_documents_retrieved": 0,
+    "retrieval_methods_used": [
+      "semantic_original"
+    ],
+    "retrieval_method_distribution": {
+      "semantic_original": 10
+    }
+  },
+  "local_authority": "leeds",
+  "query_id": "scn_27",
+  "retrieval_method": "enhanced",
+  "run_id": "4ebb0de4-b364-4b94-bcbe-a4474ab81c6f",
+  "trace": {
+    "run_id": "4ebb0de4-b364-4b94-bcbe-a4474ab81c6f",
+    "project": "social_care_rag",
+    "url": "https://eu.smith.langchain.com/o/me/runs/4ebb0de4-b364-4b94-bcbe-a4474ab81c6f"
+  },
+  "test_metadata": {
+    "local_authority": "leeds",
+    "query_id": "scn_27",
+    "query_category": "emergency_scenarios",
+    "prompt_variation": "optimized",
+    "prompt_template": "\nPlease answer the following question about social care services in UK local authorities based only on the information in the provided documents.\n\nQuestion: {query}\n\nContext from relevant documents:\n{context}\n\nInstructions:\n1. Provide a clear, direct answer that would help someone needing this information. If information isn't available, state: \"The available documents don't provide specific information about [aspect].\"\n\n2. Synthesize information from ALL relevant documents to provide the most complete answer rather than analyzing documents individually.\n\n3. Structure your response with:\n   - A concise 1-2 sentence summary first\n   - Relevant details organized in short, clear paragraphs\n   - Bullet points for lists or step-by-step information\n   - Bold text for key information the user should notice\n\n4. For financial information:\n   - Include exact figures, time periods, and what the funding covers\n   - Present financial data clearly: \"The adult social care budget is **\u00a3X million** for [time period]\"\n\n5. Always include practical next steps or resources:\n   - Provide contact information, URLs, or application methods mentioned in the documents\n   - Suggest where the person could find more information\n\n6. When citing sources, use a simple format: \"According to [document name/description]\" or include URLs where available.\n\nAnswer:\n",
+    "processing_time": 12.64834189414978,
+    "timestamp": "2025-08-19T13:51:56.610438",
+    "top_k": 10
+  }
+}

@@ -1,0 +1,325 @@
+{
+  "query": "My husband has advanced dementia and I'm his full-time carer in gloucestershire. I'm exhausted and need support. What are my options?",
+  "retrieved_documents": [
+    {
+      "content": "Gloucestershire Community Help Hub, Community Police and service s such as Telecare and \nAdult Social C are. Dementia services such as Managing Memory Together provided by \nGloucestershire Health and Care NHS Foundation Trust can also offer help and support to do \nthis. This can be done in the person\u2019s best interests if the person does not have capacity to \nmake de cisions relating to shielding /isolating . If you have concerns that your family \nmember/friend is still going out and about it would be advisable to contact Managing Memory \nTogether 0800 69 8800 managingmemory @ghc.nhs.uk  to develop a plan in the person\u2019s best \ninterests to support them to stay at home and self -isolate.",
+      "metadata": {
+        "chunk_id": 9,
+        "contains_financial_info": true,
+        "download_url": "https://www.gloucestershire.gov.uk/media/u0yfmh10/dementia-coronavirus-family-and-friends-version-3-pdf-9313-kb.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "dementia-coronavirus-family-and-friends-version-3-pdf-9313-kb.pdf",
+        "financial_pages": "[2, 4]",
+        "level": "level_3",
+        "page_count": 8,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8]",
+        "source": "https://www.gloucestershire.gov.uk/health-and-social-care/training-for-health-and-social-care-professionals/multi-agency-training/dementia-training-and-education-strategy-for-gloucestershire/",
+        "source_url": "https://www.gloucestershire.gov.uk/health-and-social-care/training-for-health-and-social-care-professionals/multi-agency-training/dementia-training-and-education-strategy-for-gloucestershire/",
+        "total_chunks": 24,
+        "type": "pdf"
+      },
+      "id": "e95b3a40-51fe-44e2-9daa-86efbf55dd85",
+      "distance": 0.6564866304397583,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.15305401086807252,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 3]\n \n3 \n 3. Managing Social Isolation \u2013 when you support someone who lives alone  \n \nWith restrictions on travel and not being able to visit supporting someone you care about who has \ndementia from a di stance has additional challenges.  \nEssentials:  You may already have a system in place for the delivery of essentials such as food and \nmedication. If for some reason these are unable to continue , or this kind of support is not in place , \nhelp can be organised via Gloucestershire Community Help Hub (see useful contacts for details)  \n \nStaying connected: Being at home all the time and not being able to have visitors can \nbecome quite boring and isolating.  Try to ; \n \n\uf0b7 Stay in touch by  telephone /video calling \u2013 whatever  your usual method is of keeping in \ntouch.  \n\uf0b7 Encourage the person to keep to their usual routines at home  \n\uf0b7 Encourage them to keep  as active  as possible  \n\uf0b7 Arrange for an agency such as Alzheimer\u2019s Society or Age UK to make staying in touch  \ncalls.",
+      "metadata": {
+        "chunk_id": 7,
+        "contains_financial_info": true,
+        "download_url": "https://www.gloucestershire.gov.uk/media/u0yfmh10/dementia-coronavirus-family-and-friends-version-3-pdf-9313-kb.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "dementia-coronavirus-family-and-friends-version-3-pdf-9313-kb.pdf",
+        "financial_pages": "[2, 4]",
+        "level": "level_3",
+        "page_count": 8,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8]",
+        "source": "https://www.gloucestershire.gov.uk/health-and-social-care/training-for-health-and-social-care-professionals/multi-agency-training/dementia-training-and-education-strategy-for-gloucestershire/",
+        "source_url": "https://www.gloucestershire.gov.uk/health-and-social-care/training-for-health-and-social-care-professionals/multi-agency-training/dementia-training-and-education-strategy-for-gloucestershire/",
+        "total_chunks": 24,
+        "type": "pdf"
+      },
+      "id": "4556869f-b5c7-4b03-8d03-af81166f1e98",
+      "distance": 0.6587072610855103,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.15238782167434692,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "undertaking reviews of deaths and putting learning into action.  Further information from ICB \nLeDeR webpages.  \n \nWe jointly contribute to an annual celebration \u201cBig Health Day\u201d of the support available \nacross Gloucestershire to support people with disabilities and this has been nationally \nrecognised by NHS England . \nSystem wide support for older people  \nWe have developed a  joint 5-year ICS Dementia Strategy which is aligned to the NHSE \nDementia Well Pathway  (not currently  published). Our Dementia Advisor Service  provided by \nthe Alzheimer\u2019s Society is jointly funded by GCC and ICB and is a key countywide service \nproviding support, information, advice and guidance to people living with dementia and their \ncarers.  In addition, we have the Dementia Training and Education Strategy36, the Dementia \nAction Alliance37 resources for people with dementia at the end of their life38 and the \nGloucestershire Bereavement Forum .",
+      "metadata": {
+        "chunk_id": 70,
+        "contains_financial_info": true,
+        "download_url": "https://www.gloucestershire.gov.uk/media/1fknazpw/gcc-asc-self-assessment-for-cqc-assessment-v61-april-2024-approved-links-updated-260724.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "gcc-asc-self-assessment-for-cqc-assessment-v61-april-2024-approved-links-updated-260724.pdf",
+        "financial_pages": "[6, 7, 9, 10, 11, 12, 14, 15, 16, 19, 20, 21, 22, 23, 24, 25, 26, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41]",
+        "level": "level_3",
+        "page_count": 42,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42]",
+        "source": "https://www.gloucestershire.gov.uk/health-and-social-care/cqc-assessment-of-gloucestershire-adult-social-care/",
+        "source_url": "https://www.gloucestershire.gov.uk/health-and-social-care/cqc-assessment-of-gloucestershire-adult-social-care/",
+        "total_chunks": 179,
+        "type": "pdf"
+      },
+      "id": "14828616-2c83-44f2-bf04-5888c3a6b72c",
+      "distance": 0.6683680415153503,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1494895875453949,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 8]\n \n8 \n  \nAlzheimer\u2019s Society  \n \nLocally Dementia  Advisers  are making additional welfare calls and offering companion calls. They  \nare identifying the most vulnerable service users and working closely with other service providers \nand district councils to connect people with local support.  Contact 01452 525222 or email \nglouceste rshire@alzheimers.org.uk  \n \nNationally If you or someone you care for is  worried about coronavirus and need support and advice \nyou can contact  Dementia Connect support Line on  0333 150 3456  www.alzheimers.org.uk     \n \nThere are also some guides on the Alzheimer\u2019s society site:  \nhttps://www.alzheimers.org.uk/get -support/coronavirus -support -person -dementia -living -\nalone#content -start \n \nAge UK  \nThe following services are currently being provided by Age UK in Gloucestershire. Check their \nwebsite for further updates  www.ageuk.org.uk/gloucestershire  and go to \u2018our services\u2019.  \n \nV3 April 20 KH",
+      "metadata": {
+        "chunk_id": 22,
+        "contains_financial_info": true,
+        "download_url": "https://www.gloucestershire.gov.uk/media/u0yfmh10/dementia-coronavirus-family-and-friends-version-3-pdf-9313-kb.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "dementia-coronavirus-family-and-friends-version-3-pdf-9313-kb.pdf",
+        "financial_pages": "[2, 4]",
+        "level": "level_3",
+        "page_count": 8,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8]",
+        "source": "https://www.gloucestershire.gov.uk/health-and-social-care/training-for-health-and-social-care-professionals/multi-agency-training/dementia-training-and-education-strategy-for-gloucestershire/",
+        "source_url": "https://www.gloucestershire.gov.uk/health-and-social-care/training-for-health-and-social-care-professionals/multi-agency-training/dementia-training-and-education-strategy-for-gloucestershire/",
+        "total_chunks": 24,
+        "type": "pdf"
+      },
+      "id": "8fd0e33a-7f78-4e59-98a5-22975bbd12aa",
+      "distance": 0.6732136011123657,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1480359196662903,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Thanks for reading, \nVicki Anderson\nVicki.Anderson@ghc.nhs.ukGloucestershire Dementia Education Team\nKeep  up to date with\nus on our Facebook\nPage - Gloucestershire\nDementia Education\nTeam\n \nYour Space Your SpaceKeep us up to date with all the fantastic work you are doing! We;\nus in DET and your fellow DL/DLW\u2019s/TtT\u2019s and CDL\u2019s, love\nhearing about all the wonderful things that you are doing for\nthose living with dementia in Gloucestershire. By sharing your\nwork, and how the wellbeing of those you support has been\nimproved, others can employ your ideas and enhance even more\nlives. Meanwhile your hard work and dedication doesn\u2019t go\nunnoticed!Dementia Action\nWeek 2024\n13th - 19th May \u201824\nThis week, 6th-12th May, is Dying\nMatters next week. Here is the link to\nthe website for more information:\nhttps://www.hospiceuk.org/our-\ncam paigns/dying-m atters/dying-\nm atters-awareness-week\nHow to support a person with\ncontinence issues:\nhttps://www.dem con.org.uk/\nGloucestershire\u2019s Dementia Strategy\n2023 - 2028",
+      "metadata": {
+        "chunk_id": 2,
+        "download_url": "https://www.gloucestershire.gov.uk/media/zmuppra5/may-24-newsletter-1.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "may-24-newsletter-1.pdf",
+        "level": "level_3",
+        "page_count": 2,
+        "pages_with_content": "[1, 2]",
+        "source": "https://www.gloucestershire.gov.uk/health-and-social-care/training-for-health-and-social-care-professionals/multi-agency-training/dementia-training-and-education-strategy-for-gloucestershire/",
+        "source_url": "https://www.gloucestershire.gov.uk/health-and-social-care/training-for-health-and-social-care-professionals/multi-agency-training/dementia-training-and-education-strategy-for-gloucestershire/",
+        "total_chunks": 5,
+        "type": "pdf"
+      },
+      "id": "6b4fb52a-a8f1-4c2a-a622-ae31df780d0b",
+      "distance": 0.6820627450942993,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1453811764717102,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "their carers\nTel: 0800 694 8800 \nEmail: managingmemory@ghc.nhs.uk   \nWeb: www.ghc.nhs.uk/our-teams-and-services/managing-memory-\ntogether/\nGloucestershire Alzheimer\u2019s Society \nInformation and support services for people with dementia and their carers:\nTel: 01452 525222 \nWeb: www.alzheimers.org.uk\nGloucestershire Carers Hub \nInformation, advice and advocacy services for carers\nTel: 0300 111 9000  \nWeb: www.gloucestershirecarershub.co.uk\nDementia UK\nAdmiral Nurse Dementia Helpline \nTel: 0800 888 6678   \nEmail: helpline@dementiauk.org\nWant to find out more?\nTalk to your GP who can, if necessary, refer you to Gloucestershire\u2019s \nMemory Assessment Services. If you, or someone you care about, \nreceive a diagnosis of a dementia- related disease, you can discuss \nthe treatments, plan for a future you all want and get help and support \nfrom your community. See the back page for more information.",
+      "metadata": {
+        "chunk_id": 11,
+        "download_url": "https://www.gloucestershire.gov.uk/media/5yyl1oir/understanding-dementia-a5-booklet-web.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "understanding-dementia-a5-booklet-web.pdf",
+        "level": "level_3",
+        "page_count": 7,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7]",
+        "source": "https://www.gloucestershire.gov.uk/health-and-social-care/training-for-health-and-social-care-professionals/multi-agency-training/dementia-training-and-education-strategy-for-gloucestershire/",
+        "source_url": "https://www.gloucestershire.gov.uk/health-and-social-care/training-for-health-and-social-care-professionals/multi-agency-training/dementia-training-and-education-strategy-for-gloucestershire/",
+        "total_chunks": 13,
+        "type": "pdf"
+      },
+      "id": "284b66b8-a2ab-4946-b7b1-63e7ac9cbee0",
+      "distance": 0.6995453238487244,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1401364028453827,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "swing organisation mode for\nDementia Action W eek (DAW ). DAW\nis happening on 13th \u2013 19th May our\ntheme for Gloucestershire is\n\u2018Reducing your risk of Dementia\u2019\nand sub themes include \u2018Increasing\nyour activity\u2019 (physical, cognitive &\nemotional development) and\n\u2018Maintaining social connections\u2019,\nfurther details will be published\nnearer the time. If you want to get\ninvolved, please email Steve\nShelley-King or Amanda Rawlins on:\nsteve.shelley-king@ghc.nhs.uk or\namanda.rawlins@ghc.nhs.uk\n \nThanks for reading, \nVicki Anderson\nVicki.Anderson@ghc.nhs.ukGloucestershire Dementia Education Team\nKeep  up to date with\nus on our Facebook\nPage - Gloucestershire\nDementia Education\nTeam\n \nYour Space Your SpaceKeep us up to date with all the fantastic work you are doing! W e;\nus in DET and your fellow DL/DLW \u2019s/TtT\u2019s and CDL\u2019s, love\nhearing about all the wonderful things that you are doing for\nthose living with dementia in Gloucestershire. By sharing your\nwork, and how the wellbeing of those you support has been",
+      "metadata": {
+        "chunk_id": 1,
+        "contains_financial_info": true,
+        "download_url": "https://www.gloucestershire.gov.uk/media/n34jwook/march-24-newsletter-1.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "march-24-newsletter-1.pdf",
+        "financial_pages": "[1]",
+        "level": "level_3",
+        "page_count": 2,
+        "pages_with_content": "[1, 2]",
+        "source": "https://www.gloucestershire.gov.uk/health-and-social-care/training-for-health-and-social-care-professionals/multi-agency-training/dementia-training-and-education-strategy-for-gloucestershire/",
+        "source_url": "https://www.gloucestershire.gov.uk/health-and-social-care/training-for-health-and-social-care-professionals/multi-agency-training/dementia-training-and-education-strategy-for-gloucestershire/",
+        "total_chunks": 6,
+        "type": "pdf"
+      },
+      "id": "60a4d8d7-05ef-4337-81c2-72a4e372c340",
+      "distance": 0.7337182760238647,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.12988451719284058,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 1 - FINANCIAL/BUDGET INFORMATION]\n \nGuide  for Dementia Training i n Care Homes in Gloucestershire  \n \nThis guide is for homes in Gloucestershire where there is considered a need for dementia knowledge \nand training.  It outlines what is available in terms  of face to face training and other dementia \ntraining opportunities.  \nMost training is available free of charge, apart from the Dementia Leadership Award for which there \nis a \u00a3200.00 charge.  \nThe Gloucestershire dementia and training pathway provides information for homes to undertake \ntrainin g. For further information please  go to : \n www.gloucestershire.gov.uk/extra/dementiatraining  \nwhere there are 2 documents;  \n\uf0b7 The Dementia Training Pathway  \n\uf0b7 Description boxes for progressio n routes  \nDirections for booking staff onto Dementia Day One and Day Two training is available here , and \ninformation about the other dementia training opportunities in Gloucestershire.  \nWe would advise considering the following:",
+      "metadata": {
+        "chunk_id": 0,
+        "contains_financial_info": true,
+        "download_url": "https://www.gloucestershire.gov.uk/media/jywgdrlm/guidance-document-for-care-homes-in-gloucestershire-re-access-to-dementia-training-pdf-486-kb.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "guidance-document-for-care-homes-in-gloucestershire-re-access-to-dementia-training-pdf-486-kb.pdf",
+        "financial_pages": "[1, 2]",
+        "level": "level_3",
+        "page_count": 2,
+        "pages_with_content": "[1, 2]",
+        "source": "https://www.gloucestershire.gov.uk/health-and-social-care/training-for-health-and-social-care-professionals/multi-agency-training/dementia-training-and-education-strategy-for-gloucestershire/",
+        "source_url": "https://www.gloucestershire.gov.uk/health-and-social-care/training-for-health-and-social-care-professionals/multi-agency-training/dementia-training-and-education-strategy-for-gloucestershire/",
+        "total_chunks": 6,
+        "type": "pdf"
+      },
+      "id": "de7ca795-7e35-4ba8-8e72-6322c1540489",
+      "distance": 0.7438170313835144,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.12685489058494567,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 1 - FINANCIAL/BUDGET INFORMATION]\nVol 22 No 3   May/June 2014   The Journal of Dementia Care   21 The needs of people who live with dementia \nstretch far beyond what can be met by the NHS \nor local authority social services departments.\nHere we describe work being done by the Gloucester- \nshire Dementia Training Partnership, to take a \nleading role in local partnership working to develop \ndementia-friendly communities. We will report on \ntwo key areas of work: developing a growing \nnetwork of local people who will nurture dementia- \nfriendly communities within their work and \nneighbourhoods, and the hosting of a pop-up \ndementia shop on high streets across Gloucestershire.\nThe Gloucestershire Dementia Training \nPartnership is a multi-agency partnership, including \nrepresentatives from the NHS, the local authority,\nvoluntary organisations (including the Alzheimer\u2019s \nSociety) and members who are Experts by \nExperience. The partnership oversees the work of",
+      "metadata": {
+        "chunk_id": 0,
+        "contains_financial_info": true,
+        "download_url": "https://www.gloucestershire.gov.uk/media/enfpw4i3/community-links-dementia-on-the-high-street-mary-keating-becky-hayward-lucy-hennessey-and-angela-willis-pdf-1999-kb.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "community-links-dementia-on-the-high-street-mary-keating-becky-hayward-lucy-hennessey-and-angela-wil.pdf",
+        "financial_pages": "[1, 2]",
+        "level": "level_3",
+        "page_count": 3,
+        "pages_with_content": "[1, 2, 3]",
+        "source": "https://www.gloucestershire.gov.uk/health-and-social-care/training-for-health-and-social-care-professionals/multi-agency-training/dementia-training-and-education-strategy-for-gloucestershire/",
+        "source_url": "https://www.gloucestershire.gov.uk/health-and-social-care/training-for-health-and-social-care-professionals/multi-agency-training/dementia-training-and-education-strategy-for-gloucestershire/",
+        "total_chunks": 21,
+        "type": "pdf"
+      },
+      "id": "446d6718-bf92-4ef1-8a91-b55f26a82f39",
+      "distance": 0.7676936984062195,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.11969189047813415,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Introduction In this section 1 Introduction 2 What will my assessment consider? 3 Eligibility for support 4 What happens after the assessment? 5 What will I have to pay? How to have an assessment of your care and support needs There are lots of things that you can do for yourself, or to help a person that you care for, to be healthy, active and independent for as long as possible. You can choose to arrange this care and support privately, without help from the council.\u00a0See our web page about staying independent for longer for more information. If you would like us to arrange or pay towards any care, you will need to have an adult social care assessment first to see if you are eligible for support. You can do this by contacting Gloucestershire County Council\u2019s Adult Social Care Helpdesk . We will discuss your needs, provide information about support available, and arrange for an assessment, if required",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.gloucestershire.gov.uk_health-and-social-care_adult-social-care_how-to-have-an-assessment-of-you.txt",
+        "level": "level_1",
+        "source": "https://www.gloucestershire.gov.uk/health-and-social-care/adult-social-care/how-to-have-an-assessment-of-your-care-and-support-needs/",
+        "source_url": "https://www.gloucestershire.gov.uk/health-and-social-care/adult-social-care/how-to-have-an-assessment-of-your-care-and-support-needs/",
+        "total_chunks": 3,
+        "type": "web_page"
+      },
+      "id": "c6aacc99-2f76-45ae-9de9-949a93408ad9",
+      "distance": 0.7719288805989182,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.11842133582032455,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    }
+  ],
+  "context": "[Document 1] From https://www (pdf) - URL: https://www.gloucestershire.gov.uk/health-and-social-care/training-for-health-and-social-care-professionals/multi-agency-training/dementia-training-and-education-strategy-for-gloucestershire/ - 8 pages [Retrieved via: semantic_original]:\nGloucestershire Community Help Hub, Community Police and service s such as Telecare and \nAdult Social C are. Dementia services such as Managing Memory Together provided by \nGloucestershire Health and Care NHS Foundation Trust can also offer help and support to do \nthis. This can be done in the person\u2019s best interests if the person does not have capacity to \nmake de cisions relating to shielding /isolating . If you have concerns that your family \nmember/friend is still going out and about it would be advisable to contact Managing Memory \nTogether 0800 69 8800 managingmemory @ghc.nhs.uk  to develop a plan in the person\u2019s best \ninterests to support them to stay at home and self -isolate.\n\n[Document 2] From https://www (pdf) - URL: https://www.gloucestershire.gov.uk/health-and-social-care/training-for-health-and-social-care-professionals/multi-agency-training/dementia-training-and-education-strategy-for-gloucestershire/ - 8 pages [Retrieved via: semantic_original]:\n[Page 3]\n \n3 \n 3. Managing Social Isolation \u2013 when you support someone who lives alone  \n \nWith restrictions on travel and not being able to visit supporting someone you care about who has \ndementia from a di stance has additional challenges.  \nEssentials:  You may already have a system in place for the delivery of essentials such as food and \nmedication. If for some reason these are unable to continue , or this kind of support is not in place , \nhelp can be organised via Gloucestershire Community Help Hub (see useful contacts for details)  \n \nStaying connected: Being at home all the time and not being able to have visitors can \nbecome quite boring and isolating.  Try to ; \n \n\uf0b7 Stay in touch by  telephone /video calling \u2013 whatever  your usual method is of keeping in \ntouch.  \n\uf0b7 Encourage the person to keep to their usual routines at home  \n\uf0b7 Encourage them to keep  as active  as possible  \n\uf0b7 Arrange for an agency such as Alzheimer\u2019s Society or Age UK to make staying in touch  \ncalls.\n\n[Document 3] From https://www (pdf) - URL: https://www.gloucestershire.gov.uk/health-and-social-care/cqc-assessment-of-gloucestershire-adult-social-care/ - 42 pages [Retrieved via: semantic_original]:\nundertaking reviews of deaths and putting learning into action.  Further information from ICB \nLeDeR webpages.  \n \nWe jointly contribute to an annual celebration \u201cBig Health Day\u201d of the support available \nacross Gloucestershire to support people with disabilities and this has been nationally \nrecognised by NHS England . \nSystem wide support for older people  \nWe have developed a  joint 5-year ICS Dementia Strategy which is aligned to the NHSE \nDementia Well Pathway  (not currently  published). Our Dementia Advisor Service  provided by \nthe Alzheimer\u2019s Society is jointly funded by GCC and ICB and is a key countywide service \nproviding support, information, advice and guidance to people living with dementia and their \ncarers.  In addition, we have the Dementia Training and Education Strategy36, the Dementia \nAction Alliance37 resources for people with dementia at the end of their life38 and the \nGloucestershire Bereavement Forum .\n\n[Document 4] From https://www (pdf) - URL: https://www.gloucestershire.gov.uk/health-and-social-care/training-for-health-and-social-care-professionals/multi-agency-training/dementia-training-and-education-strategy-for-gloucestershire/ - 8 pages [Retrieved via: semantic_original]:\n[Page 8]\n \n8 \n  \nAlzheimer\u2019s Society  \n \nLocally Dementia  Advisers  are making additional welfare calls and offering companion calls. They  \nare identifying the most vulnerable service users and working closely with other service providers \nand district councils to connect people with local support.  Contact 01452 525222 or email \nglouceste rshire@alzheimers.org.uk  \n \nNationally If you or someone you care for is  worried about coronavirus and need support and advice \nyou can contact  Dementia Connect support Line on  0333 150 3456  www.alzheimers.org.uk     \n \nThere are also some guides on the Alzheimer\u2019s society site:  \nhttps://www.alzheimers.org.uk/get -support/coronavirus -support -person -dementia -living -\nalone#content -start \n \nAge UK  \nThe following services are currently being provided by Age UK in Gloucestershire. Check their \nwebsite for further updates  www.ageuk.org.uk/gloucestershire  and go to \u2018our services\u2019.  \n \nV3 April 20 KH\n\n[Document 5] From https://www (pdf) - URL: https://www.gloucestershire.gov.uk/health-and-social-care/training-for-health-and-social-care-professionals/multi-agency-training/dementia-training-and-education-strategy-for-gloucestershire/ - 2 pages [Retrieved via: semantic_original]:\nThanks for reading, \nVicki Anderson\nVicki.Anderson@ghc.nhs.ukGloucestershire Dementia Education Team\nKeep  up to date with\nus on our Facebook\nPage - Gloucestershire\nDementia Education\nTeam\n \nYour Space Your SpaceKeep us up to date with all the fantastic work you are doing! We;\nus in DET and your fellow DL/DLW\u2019s/TtT\u2019s and CDL\u2019s, love\nhearing about all the wonderful things that you are doing for\nthose living with dementia in Gloucestershire. By sharing your\nwork, and how the wellbeing of those you support has been\nimproved, others can employ your ideas and enhance even more\nlives. Meanwhile your hard work and dedication doesn\u2019t go\nunnoticed!Dementia Action\nWeek 2024\n13th - 19th May \u201824\nThis week, 6th-12th May, is Dying\nMatters next week. Here is the link to\nthe website for more information:\nhttps://www.hospiceuk.org/our-\ncam paigns/dying-m atters/dying-\nm atters-awareness-week\nHow to support a person with\ncontinence issues:\nhttps://www.dem con.org.uk/\nGloucestershire\u2019s Dementia Strategy\n2023 - 2028\n\n[Document 6] From https://www (pdf) - URL: https://www.gloucestershire.gov.uk/health-and-social-care/training-for-health-and-social-care-professionals/multi-agency-training/dementia-training-and-education-strategy-for-gloucestershire/ - 7 pages [Retrieved via: semantic_original]:\ntheir carers\nTel: 0800 694 8800 \nEmail: managingmemory@ghc.nhs.uk   \nWeb: www.ghc.nhs.uk/our-teams-and-services/managing-memory-\ntogether/\nGloucestershire Alzheimer\u2019s Society \nInformation and support services for people with dementia and their carers:\nTel: 01452 525222 \nWeb: www.alzheimers.org.uk\nGloucestershire Carers Hub \nInformation, advice and advocacy services for carers\nTel: 0300 111 9000  \nWeb: www.gloucestershirecarershub.co.uk\nDementia UK\nAdmiral Nurse Dementia Helpline \nTel: 0800 888 6678   \nEmail: helpline@dementiauk.org\nWant to find out more?\nTalk to your GP who can, if necessary, refer you to Gloucestershire\u2019s \nMemory Assessment Services. If you, or someone you care about, \nreceive a diagnosis of a dementia- related disease, you can discuss \nthe treatments, plan for a future you all want and get help and support \nfrom your community. See the back page for more information.\n\n[Document 7] From https://www (pdf) - URL: https://www.gloucestershire.gov.uk/health-and-social-care/training-for-health-and-social-care-professionals/multi-agency-training/dementia-training-and-education-strategy-for-gloucestershire/ - 2 pages [Retrieved via: semantic_original]:\nswing organisation mode for\nDementia Action W eek (DAW ). DAW\nis happening on 13th \u2013 19th May our\ntheme for Gloucestershire is\n\u2018Reducing your risk of Dementia\u2019\nand sub themes include \u2018Increasing\nyour activity\u2019 (physical, cognitive &\nemotional development) and\n\u2018Maintaining social connections\u2019,\nfurther details will be published\nnearer the time. If you want to get\ninvolved, please email Steve\nShelley-King or Amanda Rawlins on:\nsteve.shelley-king@ghc.nhs.uk or\namanda.rawlins@ghc.nhs.uk\n \nThanks for reading, \nVicki Anderson\nVicki.Anderson@ghc.nhs.ukGloucestershire Dementia Education Team\nKeep  up to date with\nus on our Facebook\nPage - Gloucestershire\nDementia Education\nTeam\n \nYour Space Your SpaceKeep us up to date with all the fantastic work you are doing! W e;\nus in DET and your fellow DL/DLW \u2019s/TtT\u2019s and CDL\u2019s, love\nhearing about all the wonderful things that you are doing for\nthose living with dementia in Gloucestershire. By sharing your\nwork, and how the wellbeing of those you support has been\n\n[Document 8] From https://www (pdf) - URL: https://www.gloucestershire.gov.uk/health-and-social-care/training-for-health-and-social-care-professionals/multi-agency-training/dementia-training-and-education-strategy-for-gloucestershire/ - 2 pages [Retrieved via: semantic_original]:\n[Page 1 - FINANCIAL/BUDGET INFORMATION]\n \nGuide  for Dementia Training i n Care Homes in Gloucestershire  \n \nThis guide is for homes in Gloucestershire where there is considered a need for dementia knowledge \nand training.  It outlines what is available in terms  of face to face training and other dementia \ntraining opportunities.  \nMost training is available free of charge, apart from the Dementia Leadership Award for which there \nis a \u00a3200.00 charge.  \nThe Gloucestershire dementia and training pathway provides information for homes to undertake \ntrainin g. For further information please  go to : \n www.gloucestershire.gov.uk/extra/dementiatraining  \nwhere there are 2 documents;  \n\uf0b7 The Dementia Training Pathway  \n\uf0b7 Description boxes for progressio n routes  \nDirections for booking staff onto Dementia Day One and Day Two training is available here , and \ninformation about the other dementia training opportunities in Gloucestershire.  \nWe would advise considering the following:\n\n[Document 9] From https://www (pdf) - URL: https://www.gloucestershire.gov.uk/health-and-social-care/training-for-health-and-social-care-professionals/multi-agency-training/dementia-training-and-education-strategy-for-gloucestershire/ - 3 pages [Retrieved via: semantic_original]:\n[Page 1 - FINANCIAL/BUDGET INFORMATION]\nVol 22 No 3   May/June 2014   The Journal of Dementia Care   21 The needs of people who live with dementia \nstretch far beyond what can be met by the NHS \nor local authority social services departments.\nHere we describe work being done by the Gloucester- \nshire Dementia Training Partnership, to take a \nleading role in local partnership working to develop \ndementia-friendly communities. We will report on \ntwo key areas of work: developing a growing \nnetwork of local people who will nurture dementia- \nfriendly communities within their work and \nneighbourhoods, and the hosting of a pop-up \ndementia shop on high streets across Gloucestershire.\nThe Gloucestershire Dementia Training \nPartnership is a multi-agency partnership, including \nrepresentatives from the NHS, the local authority,\nvoluntary organisations (including the Alzheimer\u2019s \nSociety) and members who are Experts by \nExperience. The partnership oversees the work of\n\n[Document 10] From https://www (web_page) - URL: https://www.gloucestershire.gov.uk/health-and-social-care/adult-social-care/how-to-have-an-assessment-of-your-care-and-support-needs/ [Retrieved via: semantic_original]:\nIntroduction In this section 1 Introduction 2 What will my assessment consider? 3 Eligibility for support 4 What happens after the assessment? 5 What will I have to pay? How to have an assessment of your care and support needs There are lots of things that you can do for yourself, or to help a person that you care for, to be healthy, active and independent for as long as possible. You can choose to arrange this care and support privately, without help from the council.\u00a0See our web page about staying independent for longer for more information. If you would like us to arrange or pay towards any care, you will need to have an adult social care assessment first to see if you are eligible for support. You can do this by contacting Gloucestershire County Council\u2019s Adult Social Care Helpdesk . We will discuss your needs, provide information about support available, and arrange for an assessment, if required\n",
+  "answer": "As a full-time carer for your husband with advanced dementia in Gloucestershire, you have several support options available to help alleviate your exhaustion.\n\n**Key Support Options:**\n- **Managing Memory Together**: This service, provided by Gloucestershire Health and Care NHS Foundation Trust, offers support and can help develop a care plan. Contact them at **0800 694 8800** or email **managingmemory@ghc.nhs.uk**.\n- **Gloucestershire Carers Hub**: Provides information, advice, and advocacy services for carers. You can reach them at **0300 111 9000** or visit their website at [gloucestershirecarershub.co.uk](http://www.gloucestershirecarershub.co.uk).\n- **Alzheimer\u2019s Society**: Offers welfare and companion calls to support carers and those with dementia. Contact them at **01452 525222** or email **gloucestershire@alzheimers.org.uk**.\n- **Adult Social Care Assessment**: You can request an assessment of your care needs through Gloucestershire County Council\u2019s Adult Social Care Helpdesk. This will determine eligibility for support. More information is available at [gloucestershire.gov.uk](https://www.gloucestershire.gov.uk/health-and-social-care/adult-social-care/how-to-have-an-assessment-of-your-care-and-support-needs/).\n\n**Practical Steps:**\n1. **Contact the services listed above** to discuss your situation and explore the support options they can provide.\n2. **Consider an Adult Social Care Assessment** to determine if you qualify for additional support from the council.\n3. **Stay connected** with local support networks and services such as the Alzheimer\u2019s Society and Age UK for ongoing assistance and advice.\n\nThese resources are designed to support both you and your husband, helping to manage the challenges of dementia care.",
+  "metrics": {
+    "duration_seconds": 28.12203288078308,
+    "retrieved_docs_count": 10,
+    "query_length": 133,
+    "answer_length": 1755,
+    "retrieval_method": "enhanced",
+    "context_utilization": 0.18234165067178504,
+    "citations_count": 1,
+    "has_citations": true,
+    "query_relevance": 0.7647058823529411,
+    "unique_retrieval_methods": 1,
+    "budget_documents_retrieved": 7,
+    "retrieval_methods_used": [
+      "semantic_original"
+    ],
+    "retrieval_method_distribution": {
+      "semantic_original": 10
+    }
+  },
+  "local_authority": "gloucestershire",
+  "query_id": "scn_15",
+  "retrieval_method": "enhanced",
+  "run_id": "c65c95c6-fb29-43a0-9fe7-436572ae25fc",
+  "trace": {
+    "run_id": "c65c95c6-fb29-43a0-9fe7-436572ae25fc",
+    "project": "social_care_rag",
+    "url": "https://eu.smith.langchain.com/o/me/runs/c65c95c6-fb29-43a0-9fe7-436572ae25fc"
+  },
+  "test_metadata": {
+    "local_authority": "gloucestershire",
+    "query_id": "scn_15",
+    "query_category": "carer_support_scenarios",
+    "prompt_variation": "optimized",
+    "prompt_template": "\nPlease answer the following question about social care services in UK local authorities based only on the information in the provided documents.\n\nQuestion: {query}\n\nContext from relevant documents:\n{context}\n\nInstructions:\n1. Provide a clear, direct answer that would help someone needing this information. If information isn't available, state: \"The available documents don't provide specific information about [aspect].\"\n\n2. Synthesize information from ALL relevant documents to provide the most complete answer rather than analyzing documents individually.\n\n3. Structure your response with:\n   - A concise 1-2 sentence summary first\n   - Relevant details organized in short, clear paragraphs\n   - Bullet points for lists or step-by-step information\n   - Bold text for key information the user should notice\n\n4. For financial information:\n   - Include exact figures, time periods, and what the funding covers\n   - Present financial data clearly: \"The adult social care budget is **\u00a3X million** for [time period]\"\n\n5. Always include practical next steps or resources:\n   - Provide contact information, URLs, or application methods mentioned in the documents\n   - Suggest where the person could find more information\n\n6. When citing sources, use a simple format: \"According to [document name/description]\" or include URLs where available.\n\nAnswer:\n",
+    "processing_time": 28.128555059432983,
+    "timestamp": "2025-08-19T13:44:30.476958",
+    "top_k": 10
+  }
+}

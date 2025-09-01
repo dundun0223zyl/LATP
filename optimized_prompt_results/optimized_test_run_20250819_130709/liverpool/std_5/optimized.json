@@ -1,0 +1,301 @@
+{
+  "query": "What accessibility options does liverpool provide for accessing social care information, including translations or easy-read formats?",
+  "retrieved_documents": [
+    {
+      "content": ". Equipment for your home Care technology Professional referrals and existing service users Referral processes for professionals, and information for people already receiving support services. Information for professionals making a referral Information for adults already receiving care Information for adults and carers we support Information on the statutory services we provide and how we assess care and support needs. Adult social care  - who we support Information for adults with eligible care and support needs and their carers. The Live Well Directory Search for local care and support services across the Liverpool City Region. The Live Well Directory The Live Well Directory brings together information about groups and organisations across the Liverpool City Region, offering services to people of all ages with various needs. Elsewhere on the web Wellbeing Liverpool A service designed to help you find activities, groups and organisations that can help you live the life you want to live",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.liverpool.gov.uk_adult-social-care_.txt",
+        "level": "level_0",
+        "source": "https://www.liverpool.gov.uk/adult-social-care/",
+        "source_url": "https://www.liverpool.gov.uk/adult-social-care/",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "50569cee-db84-44c0-9224-2a1f9c064de3",
+      "distance": 0.7146857193668612,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.13559428418994163,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 1]\n            \n            \n      \nApproved data sharing agencies /Liverpool Adult \nSocial Care 201 9 \n \n \n \n \n \n \n \n \n\n\n[Page 2]\nThe following is a list of authorised third party organisations that \nwe be required to share your information with, in order to provide \nyou with services [201 9] \n \nRoyal Liverpool Teaching Hospital  \nAintree University Hospital  \nBroadgreen Hospital  \nSpire Liverpool Hospital  \nLiverpool Womens\u2019 Hospital  \nMersey Care NHS Trust  \nBarna rdos  \nLocal Solutions  \nRiverside Housing  \nLiverpool Community Health  \nNHS.Data  \nMerseyside Fire and Rescue Service  \nMerseyside Police  \nNHS Liverpool Clinical Commissioning Group  \nWhiston Hospital  \nSefton Local Authority  \nKnowsley Local authority  \nWirral Local Authority  \nHalton Local Authority  \n\n[Page 3]\nLiverpool Mutual Homes  \nCare Providers  \nTrusted Assessors (Care Act 2014)  \nGPs \nMossley Hill Hospital  \nRathbone Hospital",
+      "metadata": {
+        "chunk_id": 0,
+        "download_url": "https://www.liverpool.gov.uk/media/bz1jrkeq/approved-data-sharing-agenciesv4.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "approved-data-sharing-agenciesv4.pdf",
+        "level": "level_2",
+        "page_count": 3,
+        "pages_with_content": "[1, 2, 3]",
+        "source": "https://www.liverpool.gov.uk/privacy-notice/service-area-privacy-notices/adult-services-and-health-privacy-notice/",
+        "source_url": "https://www.liverpool.gov.uk/privacy-notice/service-area-privacy-notices/adult-services-and-health-privacy-notice/",
+        "total_chunks": 1,
+        "type": "pdf"
+      },
+      "id": "2634e8dd-1332-46d2-9a11-54f2829dda27",
+      "distance": 0.7343867421150208,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.12968397736549378,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". An OT assessment will help them to live more independently at home. Adults in an unpaid caring role If an adult looks after someone with support needs, you can refer them for a carer's assessment. This will look at what support they need in their role as carer and how we can help. Find out more about carer's assessments and how to refer . Adults with eligible support needs If an adult is eligible for support from adult social care a support enquiry will help us decide what the next steps should be. You can submit a support enquiry online below. You can only refer adults within the Liverpool local authority area. If they live outside the Liverpool area, please refer to the appropriate local authority. Before you start a support enquiry If you don\u2019t already have an online social care portal account, you must register first before submitting a referral. As part of the registration process, we will send a security authentication code to your email address \u2013 we will do this each time you sign in",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.liverpool.gov.uk_adult-social-care_professional-referrals_request-support-for-an-adult_.txt",
+        "level": "level_2",
+        "source": "https://www.liverpool.gov.uk/adult-social-care/professional-referrals/request-support-for-an-adult/",
+        "source_url": "https://www.liverpool.gov.uk/adult-social-care/professional-referrals/request-support-for-an-adult/",
+        "total_chunks": 5,
+        "type": "web_page"
+      },
+      "id": "8850466d-e8db-44dd-9fc1-636e64ac9fa1",
+      "distance": 0.7456627488136292,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.12630117535591126,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "overseeing any works undertaken. Works undertaken in these \ncircumstances must be completed to the satisfaction of Liverpool City \nCouncil prior to the release of a ny grant funding.  \n3.5 Liverpool City Council will charge a 15% fee on all adaptations which is \ncommensurate with most other local authorities, and to use this money to \nbuild capacity within the team, to facilitate a greater volume of client \ncases.   In additi on (subject to available funding) Liverpool City Council \nmay also fund ancillary services, which address the housing, social care, \nand health needs of their clients, for example, Handyperson Service.  \n4 The Role of Adult Social Care   \n4.1 Requests for a DFG aris e as a result of an assessment by Adult Social \nServices. In these instances, following the assessment of the client, Adult \nSocial Services shall advise if adaptations are considered necessary and \nsend to Agency Services a written recommendation of their as sessment",
+      "metadata": {
+        "chunk_id": 11,
+        "contains_financial_info": true,
+        "download_url": "https://www.liverpool.gov.uk/media/k4tnix0w/disabled-facilities-grant-policy-2023.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "disabled-facilities-grant-policy-2023.pdf",
+        "financial_pages": "[3, 4, 5, 6, 7, 8, 9, 10, 11, 17, 18, 19, 20]",
+        "level": "level_2",
+        "page_count": 20,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]",
+        "source": "https://www.liverpool.gov.uk/adult-social-care/already-receiving-care-services/disabled-facilities-grant/",
+        "source_url": "https://www.liverpool.gov.uk/adult-social-care/already-receiving-care-services/disabled-facilities-grant/",
+        "total_chunks": 42,
+        "type": "pdf"
+      },
+      "id": "786600c4-873f-43fb-84c4-92750cfda338",
+      "distance": 0.7983935475349426,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.11048193573951721,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". If no other areas of need have been identified, you can make a bathing adaptation referral online below. Make a referral This application should only be completed by a Mersey Care professional. All major adaptations are now funded via a Disabled Facilities Grant, and will require a financial assessment in order for this application to proceed. You will need to provide the following information: Client's personal details including name, address and date of birth. Property details and whether it is owned, shared ownership, privately rented or housing association. Details and reasons for any additional alterations to the general specifications on the form. If you don\u2019t already have an online social care portal account, you must register first before submitting a referral. As part of the registration process, we will send a security authentication code to your email address \u2013 we will do this each time you sign in. Once registered, you can complete a referral, or save and come back to it",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.liverpool.gov.uk_adult-social-care_professional-referrals_merseycare-bathing-adaptations-referra.txt",
+        "level": "level_2",
+        "source": "https://www.liverpool.gov.uk/adult-social-care/professional-referrals/merseycare-bathing-adaptations-referral/",
+        "source_url": "https://www.liverpool.gov.uk/adult-social-care/professional-referrals/merseycare-bathing-adaptations-referral/",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "23ef8f05-9cac-4f79-a955-b25f5ffada8b",
+      "distance": 0.8080391883850098,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.10758824348449707,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "--\n\nSEND local offer Liverpool's\u00a0local offer provides information for children and young people up to the age of 25 with special educational needs and disabilities (SEND) their parents or carers - all in one place. Knowing what is out there gives you more choice and control over what support is right for you or your child. On the local offer website you can: Search for services from a range of local agencies including education, health and social care. Find out more about SEND reforms and keep up to date with the scope of the local offer as it develops and grows. View a range of SEND documents and reports. Visit Liverpool\u2019s local offer website In this section Request support SEND local offer Autistic Spectrum Disorder training Apply for SEND home to school transport Apply for a SEND duplicate travel pass Independent travel training Personal transport budget Support for a child with SEND in nursery Supported internships",
+      "metadata": {
+        "chunk_id": 0,
+        "filename": "www.liverpool.gov.uk_children-and-families_special-educational-needs-and-disabilities_send-local-off.txt",
+        "level": "level_3",
+        "source": "https://www.liverpool.gov.uk/children-and-families/special-educational-needs-and-disabilities/send-local-offer/",
+        "source_url": "https://www.liverpool.gov.uk/children-and-families/special-educational-needs-and-disabilities/send-local-offer/",
+        "total_chunks": 1,
+        "type": "web_page"
+      },
+      "id": "80b964f8-c140-42b8-9624-7d2add92ad5d",
+      "distance": 0.8170791268348694,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1048762619495392,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 3 - FINANCIAL/BUDGET INFORMATION]\nLiverpool City Council \u2013 Charging for non -residential care services  \nPage 2 of 41 1 Introduction and background  \n1.1 Purpose and scope  \nThis policy is provided to set out in clear and transparent terms Liverpool City \nCouncil\u2019s (LCC) approach to charging for all non -residential social care provision.  \nThis includes mental health (excluding S.117), physical disability, learning disability \nand older people services. The document aims to provide information in an \naccessible format for people, advisors and staff administering the charges. It is \nhoped that the information will support people in understanding the scheme and help \nthem make informed  choices about paying for care.  \nThe policy is based upon relevant legislation including:   \n\u2022 14, 17 and 69 -70 of the Care Act 2014  \n\u2022 The Care and Support (Charging and Assessment of Resources) Regulations \n2014  \nThe policy also is designed to be compliant with the Care and Support Statutory",
+      "metadata": {
+        "chunk_id": 5,
+        "contains_financial_info": true,
+        "download_url": "https://www.liverpool.gov.uk/media/xngn4upt/charging-for-non-residential-care-april2022.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "charging-for-non-residential-care-april2022.pdf",
+        "financial_pages": "[2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 29, 30, 31, 32, 33, 34, 35, 36, 40, 41]",
+        "level": "level_3",
+        "page_count": 41,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41]",
+        "source": "https://www.liverpool.gov.uk/adult-social-care/who-we-support/care-charges/paying-for-care-and-support-at-home/",
+        "source_url": "https://www.liverpool.gov.uk/adult-social-care/who-we-support/care-charges/paying-for-care-and-support-at-home/",
+        "total_chunks": 100,
+        "type": "pdf"
+      },
+      "id": "7266dce7-d0a0-4b18-9035-f6f73332ae37",
+      "distance": 0.8211302161216736,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.10366093516349792,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 69]\nLiverpool City Council  \nInter-agency safegua rding adults procedures January 2021  \npg. 68 \n  \n \nAppendix D Liverpool \u2019s Dignity in Care Charter  \n \nThis charter is a joint initiative between Liverpool City Counc il, Liverpool \nClinical Commissioning Group , Liverpool Health and Social Care Champions \nand representatives of the city\u2019s service user s and carers.  \n \nIt will be embedded in the creation of a care system where there is zero \ntolerance of a buse and disrespect of adults. We are committed to taking a \npartnership approach in Liverpool to achieve high quality services that respect \npeople\u2019s dignity, rights and choices.   \n \nThis charter underlines what any person can reasonably expect when they \naccess health and social care services in Liverpool.  \n \nWe will:  \n \nDignity  \n\u2022 respect a person\u2019s uniqueness  \n\u2022 provide person centred c are \n\u2022 have zero tolerance of all forms of abuse  \n\u2022 respect people\u2019s right to privacy . \n \nRespect",
+      "metadata": {
+        "chunk_id": 181,
+        "contains_financial_info": true,
+        "download_url": "https://www.liverpool.gov.uk/media/22zokusr/liverpool-inter-agency-safeguarding-adults-procedures-2021.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "liverpool-inter-agency-safeguarding-adults-procedures-2021.pdf",
+        "financial_pages": "[7, 15, 22, 24, 28, 31, 32, 34, 35, 36, 37, 38, 40, 41, 42, 45, 49, 50, 51, 56, 58, 65, 71]",
+        "level": "level_3",
+        "page_count": 73,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73]",
+        "source": "https://www.liverpool.gov.uk/adult-social-care/professional-referrals/safeguarding-adults/safeguarding-adults-procedure/",
+        "source_url": "https://www.liverpool.gov.uk/adult-social-care/professional-referrals/safeguarding-adults/safeguarding-adults-procedure/",
+        "total_chunks": 192,
+        "type": "pdf"
+      },
+      "id": "0ea0e46b-9218-485f-ae8b-5c8788abe5f3",
+      "distance": 0.8412804007530212,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.09761587977409364,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Accessibility Mencap Liverpool Mencap Liverpool provide workshops around healthy living and travel training, designed to support people with a learning disability to be able to travel independently. Merseylink Merseytravel operates a dial-a-ride service called Merseylink for people who find using public transport difficult. This might be because they are older or have a physical or sensory impairment. Train stations You can find accessibility information about individual train stations on the National Rail website . Retail and shopping AccessAble has access guides for retail and shopping venues throughout the Liverpool City Region. Mobility Liverpool Shopmobility supports people with mobility restrictions through the loan of mobility equipment. Driving and road safety Driving Mobility can advise and assess people with medical conditions which may affect their ability to drive, and those recovering from an accident or injury",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.liverpool.gov.uk_adult-social-care_getting-out-and-about_.txt",
+        "level": "level_1",
+        "source": "https://www.liverpool.gov.uk/adult-social-care/getting-out-and-about/",
+        "source_url": "https://www.liverpool.gov.uk/adult-social-care/getting-out-and-about/",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "8aab72f5-df8c-4649-9062-de40cbaad032",
+      "distance": 0.8435038901006264,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.09694883296981208,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 1]\n \n \nLiverpool \u2019s Dignity in Care Charter  \nThis charter is a joint initiative between Liverpool City Council, Liverpool Clinical \nCommissioning Group , Liverpool Health and Social Care Champions and \nrepresentatives of the City\u2019s service users and carers.  \nIt will be embedded  in the creation of a care system where there is zero tolerance of \nabuse and disrespect of adults.  We are committed to taking a partnership approach \nin Liverpool to achieve high quality services that respect people\u2019s dignity, rights and \nchoices.   \nThis C harter underlines what any person can reasonably expect when they access \nhealth and social care services in Liverpool.  \nWe will:  \nDignity  \n\u2022 Respect a person\u2019s uniqueness  \n\u2022 Provide Person Centred Care  \n\u2022 Have zero tolerance of all forms of abuse  \n\u2022 Respect people\u2019s right to privacy  \nRespect  \n\u2022 Provide effective communication (involving any specialist \nrequirements)/listening from day 1 to enable successful outcomes and \nwellbeing for the individual",
+      "metadata": {
+        "chunk_id": 0,
+        "download_url": "https://www.liverpool.gov.uk/media/vmgfsdya/dignity-in-care-charter.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "dignity-in-care-charter.pdf",
+        "level": "level_3",
+        "page_count": 2,
+        "pages_with_content": "[1, 2]",
+        "source": "https://www.liverpool.gov.uk/adult-social-care/who-we-support/assessing-care-and-support-needs/adult-social-care-service-standards/",
+        "source_url": "https://www.liverpool.gov.uk/adult-social-care/who-we-support/assessing-care-and-support-needs/adult-social-care-service-standards/",
+        "total_chunks": 2,
+        "type": "pdf"
+      },
+      "id": "809881c2-8b83-490f-88c1-165e8694bcdd",
+      "distance": 0.8460879325866699,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.09617362022399903,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    }
+  ],
+  "context": "[Document 1] From https://www (web_page) - URL: https://www.liverpool.gov.uk/adult-social-care/ [Retrieved via: semantic_original]:\n. Equipment for your home Care technology Professional referrals and existing service users Referral processes for professionals, and information for people already receiving support services. Information for professionals making a referral Information for adults already receiving care Information for adults and carers we support Information on the statutory services we provide and how we assess care and support needs. Adult social care  - who we support Information for adults with eligible care and support needs and their carers. The Live Well Directory Search for local care and support services across the Liverpool City Region. The Live Well Directory The Live Well Directory brings together information about groups and organisations across the Liverpool City Region, offering services to people of all ages with various needs. Elsewhere on the web Wellbeing Liverpool A service designed to help you find activities, groups and organisations that can help you live the life you want to live\n\n[Document 2] From https://www (pdf) - URL: https://www.liverpool.gov.uk/privacy-notice/service-area-privacy-notices/adult-services-and-health-privacy-notice/ - 3 pages [Retrieved via: semantic_original]:\n[Page 1]\n            \n            \n      \nApproved data sharing agencies /Liverpool Adult \nSocial Care 201 9 \n \n \n \n \n \n \n \n \n\n\n[Page 2]\nThe following is a list of authorised third party organisations that \nwe be required to share your information with, in order to provide \nyou with services [201 9] \n \nRoyal Liverpool Teaching Hospital  \nAintree University Hospital  \nBroadgreen Hospital  \nSpire Liverpool Hospital  \nLiverpool Womens\u2019 Hospital  \nMersey Care NHS Trust  \nBarna rdos  \nLocal Solutions  \nRiverside Housing  \nLiverpool Community Health  \nNHS.Data  \nMerseyside Fire and Rescue Service  \nMerseyside Police  \nNHS Liverpool Clinical Commissioning Group  \nWhiston Hospital  \nSefton Local Authority  \nKnowsley Local authority  \nWirral Local Authority  \nHalton Local Authority  \n\n[Page 3]\nLiverpool Mutual Homes  \nCare Providers  \nTrusted Assessors (Care Act 2014)  \nGPs \nMossley Hill Hospital  \nRathbone Hospital\n\n[Document 3] From https://www (web_page) - URL: https://www.liverpool.gov.uk/adult-social-care/professional-referrals/request-support-for-an-adult/ [Retrieved via: semantic_original]:\n. An OT assessment will help them to live more independently at home. Adults in an unpaid caring role If an adult looks after someone with support needs, you can refer them for a carer's assessment. This will look at what support they need in their role as carer and how we can help. Find out more about carer's assessments and how to refer . Adults with eligible support needs If an adult is eligible for support from adult social care a support enquiry will help us decide what the next steps should be. You can submit a support enquiry online below. You can only refer adults within the Liverpool local authority area. If they live outside the Liverpool area, please refer to the appropriate local authority. Before you start a support enquiry If you don\u2019t already have an online social care portal account, you must register first before submitting a referral. As part of the registration process, we will send a security authentication code to your email address \u2013 we will do this each time you sign in\n\n[Document 4] From https://www (pdf) - URL: https://www.liverpool.gov.uk/adult-social-care/already-receiving-care-services/disabled-facilities-grant/ - 20 pages [Retrieved via: semantic_original]:\noverseeing any works undertaken. Works undertaken in these \ncircumstances must be completed to the satisfaction of Liverpool City \nCouncil prior to the release of a ny grant funding.  \n3.5 Liverpool City Council will charge a 15% fee on all adaptations which is \ncommensurate with most other local authorities, and to use this money to \nbuild capacity within the team, to facilitate a greater volume of client \ncases.   In additi on (subject to available funding) Liverpool City Council \nmay also fund ancillary services, which address the housing, social care, \nand health needs of their clients, for example, Handyperson Service.  \n4 The Role of Adult Social Care   \n4.1 Requests for a DFG aris e as a result of an assessment by Adult Social \nServices. In these instances, following the assessment of the client, Adult \nSocial Services shall advise if adaptations are considered necessary and \nsend to Agency Services a written recommendation of their as sessment\n\n[Document 5] From https://www (web_page) - URL: https://www.liverpool.gov.uk/adult-social-care/professional-referrals/merseycare-bathing-adaptations-referral/ [Retrieved via: semantic_original]:\n. If no other areas of need have been identified, you can make a bathing adaptation referral online below. Make a referral This application should only be completed by a Mersey Care professional. All major adaptations are now funded via a Disabled Facilities Grant, and will require a financial assessment in order for this application to proceed. You will need to provide the following information: Client's personal details including name, address and date of birth. Property details and whether it is owned, shared ownership, privately rented or housing association. Details and reasons for any additional alterations to the general specifications on the form. If you don\u2019t already have an online social care portal account, you must register first before submitting a referral. As part of the registration process, we will send a security authentication code to your email address \u2013 we will do this each time you sign in. Once registered, you can complete a referral, or save and come back to it\n\n[Document 6] From https://www (web_page) - URL: https://www.liverpool.gov.uk/children-and-families/special-educational-needs-and-disabilities/send-local-offer/ [Retrieved via: semantic_original]:\n--\n\nSEND local offer Liverpool's\u00a0local offer provides information for children and young people up to the age of 25 with special educational needs and disabilities (SEND) their parents or carers - all in one place. Knowing what is out there gives you more choice and control over what support is right for you or your child. On the local offer website you can: Search for services from a range of local agencies including education, health and social care. Find out more about SEND reforms and keep up to date with the scope of the local offer as it develops and grows. View a range of SEND documents and reports. Visit Liverpool\u2019s local offer website In this section Request support SEND local offer Autistic Spectrum Disorder training Apply for SEND home to school transport Apply for a SEND duplicate travel pass Independent travel training Personal transport budget Support for a child with SEND in nursery Supported internships\n\n[Document 7] From https://www (pdf) - URL: https://www.liverpool.gov.uk/adult-social-care/who-we-support/care-charges/paying-for-care-and-support-at-home/ - 41 pages [Retrieved via: semantic_original]:\n[Page 3 - FINANCIAL/BUDGET INFORMATION]\nLiverpool City Council \u2013 Charging for non -residential care services  \nPage 2 of 41 1 Introduction and background  \n1.1 Purpose and scope  \nThis policy is provided to set out in clear and transparent terms Liverpool City \nCouncil\u2019s (LCC) approach to charging for all non -residential social care provision.  \nThis includes mental health (excluding S.117), physical disability, learning disability \nand older people services. The document aims to provide information in an \naccessible format for people, advisors and staff administering the charges. It is \nhoped that the information will support people in understanding the scheme and help \nthem make informed  choices about paying for care.  \nThe policy is based upon relevant legislation including:   \n\u2022 14, 17 and 69 -70 of the Care Act 2014  \n\u2022 The Care and Support (Charging and Assessment of Resources) Regulations \n2014  \nThe policy also is designed to be compliant with the Care and Support Statutory\n\n[Document 8] From https://www (pdf) - URL: https://www.liverpool.gov.uk/adult-social-care/professional-referrals/safeguarding-adults/safeguarding-adults-procedure/ - 73 pages [Retrieved via: semantic_original]:\n[Page 69]\nLiverpool City Council  \nInter-agency safegua rding adults procedures January 2021  \npg. 68 \n  \n \nAppendix D Liverpool \u2019s Dignity in Care Charter  \n \nThis charter is a joint initiative between Liverpool City Counc il, Liverpool \nClinical Commissioning Group , Liverpool Health and Social Care Champions \nand representatives of the city\u2019s service user s and carers.  \n \nIt will be embedded in the creation of a care system where there is zero \ntolerance of a buse and disrespect of adults. We are committed to taking a \npartnership approach in Liverpool to achieve high quality services that respect \npeople\u2019s dignity, rights and choices.   \n \nThis charter underlines what any person can reasonably expect when they \naccess health and social care services in Liverpool.  \n \nWe will:  \n \nDignity  \n\u2022 respect a person\u2019s uniqueness  \n\u2022 provide person centred c are \n\u2022 have zero tolerance of all forms of abuse  \n\u2022 respect people\u2019s right to privacy . \n \nRespect\n\n[Document 9] From https://www (web_page) - URL: https://www.liverpool.gov.uk/adult-social-care/getting-out-and-about/ [Retrieved via: semantic_original]:\n. Accessibility Mencap Liverpool Mencap Liverpool provide workshops around healthy living and travel training, designed to support people with a learning disability to be able to travel independently. Merseylink Merseytravel operates a dial-a-ride service called Merseylink for people who find using public transport difficult. This might be because they are older or have a physical or sensory impairment. Train stations You can find accessibility information about individual train stations on the National Rail website . Retail and shopping AccessAble has access guides for retail and shopping venues throughout the Liverpool City Region. Mobility Liverpool Shopmobility supports people with mobility restrictions through the loan of mobility equipment. Driving and road safety Driving Mobility can advise and assess people with medical conditions which may affect their ability to drive, and those recovering from an accident or injury\n\n[Document 10] From https://www (pdf) - URL: https://www.liverpool.gov.uk/adult-social-care/who-we-support/assessing-care-and-support-needs/adult-social-care-service-standards/ - 2 pages [Retrieved via: semantic_original]:\n[Page 1]\n \n \nLiverpool \u2019s Dignity in Care Charter  \nThis charter is a joint initiative between Liverpool City Council, Liverpool Clinical \nCommissioning Group , Liverpool Health and Social Care Champions and \nrepresentatives of the City\u2019s service users and carers.  \nIt will be embedded  in the creation of a care system where there is zero tolerance of \nabuse and disrespect of adults.  We are committed to taking a partnership approach \nin Liverpool to achieve high quality services that respect people\u2019s dignity, rights and \nchoices.   \nThis C harter underlines what any person can reasonably expect when they access \nhealth and social care services in Liverpool.  \nWe will:  \nDignity  \n\u2022 Respect a person\u2019s uniqueness  \n\u2022 Provide Person Centred Care  \n\u2022 Have zero tolerance of all forms of abuse  \n\u2022 Respect people\u2019s right to privacy  \nRespect  \n\u2022 Provide effective communication (involving any specialist \nrequirements)/listening from day 1 to enable successful outcomes and \nwellbeing for the individual\n",
+  "answer": "The available documents don't provide specific information about accessibility options such as translations or easy-read formats for accessing social care information in Liverpool. \n\n**Practical Next Steps:**\n- For more detailed information about accessibility options, you might consider visiting the Liverpool City Council's official website or contacting their adult social care services directly through the contact information provided on their site: [Liverpool Adult Social Care](https://www.liverpool.gov.uk/adult-social-care/).\n- You can also explore the Live Well Directory for a broader range of services and support options available in the Liverpool City Region.",
+  "metrics": {
+    "duration_seconds": 5.758522987365723,
+    "retrieved_docs_count": 10,
+    "query_length": 133,
+    "answer_length": 674,
+    "retrieval_method": "enhanced",
+    "context_utilization": 0.07400379506641366,
+    "citations_count": 0,
+    "has_citations": false,
+    "query_relevance": 0.8,
+    "unique_retrieval_methods": 1,
+    "budget_documents_retrieved": 3,
+    "retrieval_methods_used": [
+      "semantic_original"
+    ],
+    "retrieval_method_distribution": {
+      "semantic_original": 10
+    }
+  },
+  "local_authority": "liverpool",
+  "query_id": "std_5",
+  "retrieval_method": "enhanced",
+  "run_id": "7f73c45c-caf6-4813-bf0b-98462411ce4d",
+  "trace": {
+    "run_id": "7f73c45c-caf6-4813-bf0b-98462411ce4d",
+    "project": "social_care_rag",
+    "url": "https://eu.smith.langchain.com/o/me/runs/7f73c45c-caf6-4813-bf0b-98462411ce4d"
+  },
+  "test_metadata": {
+    "local_authority": "liverpool",
+    "query_id": "std_5",
+    "query_category": "service_standard",
+    "prompt_variation": "optimized",
+    "prompt_template": "\nPlease answer the following question about social care services in UK local authorities based only on the information in the provided documents.\n\nQuestion: {query}\n\nContext from relevant documents:\n{context}\n\nInstructions:\n1. Provide a clear, direct answer that would help someone needing this information. If information isn't available, state: \"The available documents don't provide specific information about [aspect].\"\n\n2. Synthesize information from ALL relevant documents to provide the most complete answer rather than analyzing documents individually.\n\n3. Structure your response with:\n   - A concise 1-2 sentence summary first\n   - Relevant details organized in short, clear paragraphs\n   - Bullet points for lists or step-by-step information\n   - Bold text for key information the user should notice\n\n4. For financial information:\n   - Include exact figures, time periods, and what the funding covers\n   - Present financial data clearly: \"The adult social care budget is **\u00a3X million** for [time period]\"\n\n5. Always include practical next steps or resources:\n   - Provide contact information, URLs, or application methods mentioned in the documents\n   - Suggest where the person could find more information\n\n6. When citing sources, use a simple format: \"According to [document name/description]\" or include URLs where available.\n\nAnswer:\n",
+    "processing_time": 5.761728048324585,
+    "timestamp": "2025-08-19T13:55:12.220639",
+    "top_k": 10
+  }
+}

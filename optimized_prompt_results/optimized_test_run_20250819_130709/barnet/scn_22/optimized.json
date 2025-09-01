@@ -1,0 +1,317 @@
+{
+  "query": "I've been told I need a financial assessment for care in barnet. What documents should I prepare and how is my contribution calculated?",
+  "retrieved_documents": [
+    {
+      "content": "Your social worker or care manager will give you a financial declaration form. If you \ndo not receive a form, please contact the Financial Assessment Team at Barnet \nCouncil on 020 8359 2238 who will send one to you. You can also contact this team \nif you would like to arrange a visit to help you complete the form. They will also help \nyou to claim any additional benefits that you may be entitled to.  \n \nYour charges will start from the first date of your placement, so it is important that \nyou complete the Financial Declaration form as soon as possible to prevent \nreceiving a large initial invoice. You will need to provide bank and building society \nstatemen ts to confirm your savings and income, and payslips to confirm any \noccupational or private pensions.  \n \nThe Financial Assessment Team will send you a letter confirming how much you will \nhave to pay towards the cost of your care and it will include a breakdown of the \ncharges you will have to pay.",
+      "metadata": {
+        "chunk_id": 32,
+        "contains_financial_info": true,
+        "download_url": "https://www.barnet.gov.uk/sites/default/files/2025-06/Residential%20and%20Nursing%20Care%20Services%20Financial%20Declaration%20Form.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Residential%20and%20Nursing%20Care%20Services%20Financial%20Declaration%20Form.pdf",
+        "financial_pages": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]",
+        "level": "level_3",
+        "page_count": 20,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]",
+        "source": "https://www.barnet.gov.uk/node/5116",
+        "source_url": "https://www.barnet.gov.uk/node/5116",
+        "total_chunks": 47,
+        "type": "pdf"
+      },
+      "id": "83b07c09-cb43-42c1-a896-27ab939fc250",
+      "distance": 0.39747267961502075,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.23075819611549375,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". The forms below are non-residential care only (For residential care, please click on the moving to a care home link above) Complete a Financial Assessment online The quickest and easiest way to complete a financial assessment is to use our online form. You can upload evidence from your computer, and save and resume the form later if you need to. Complete an online financial assessment Complete a Financial Assessment by post or email You can download and complete the community care financial declaration form below, to assess your contribution and return it to us: Download Community Care Contribution Financial Declaration Form (PDF, 390KB) Financial Assessment Team Adults and Health London Borough of Barnet 2 Bristol Avenue\u00a0Colindale London\u00a0NW9 4EW Telephone: 020 8359 2238 Email: financial.assessments@barnet.gov.uk External link After your financial assessment If you are assessed as having savings and capital of \u00a323,250 or more, you'll need to fund all of your care and support from your own savings and income",
+      "metadata": {
+        "chunk_id": 3,
+        "filename": "www.barnet.gov.uk_node_5124.txt",
+        "level": "level_2",
+        "source": "https://www.barnet.gov.uk/node/5124",
+        "source_url": "https://www.barnet.gov.uk/node/5124",
+        "total_chunks": 9,
+        "type": "web_page"
+      },
+      "id": "54767387-34d6-471c-8242-47271b3f2e4d",
+      "distance": 0.45464521646499634,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.2136064350605011,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "assessment. The Council will help coordinate this NHS assessment.  \n \n \nN.15. Getting help from the Council  \nBarnet Council aims to promote peoples independence and will only recommend a \nplacement in a care home where there are no other support options available to \nenable someone to stay within their own home. If this is the case for you or your \nfamily member and  your savings and capital are less than \u00a323,250, you should \nqualify for financial assistance from Barnet Council. You will need to complete a \nform to help us work out how much you must pay and how much the Council should \ncontribute. We call this a Financia l Assessment and we will ask you to provide \ndetails of your income and capital or savings.  \n \nIf you do not qualify for assistance from the council, you can contact My Care My \nHome on 0800 731 8470 or visit www.mycaremyhome.co.uk  for advice on options \nfor funding your care.  \n \nN.16. How is the Financial Assessment carried out?",
+      "metadata": {
+        "chunk_id": 31,
+        "contains_financial_info": true,
+        "download_url": "https://www.barnet.gov.uk/sites/default/files/2025-06/Residential%20and%20Nursing%20Care%20Services%20Financial%20Declaration%20Form.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Residential%20and%20Nursing%20Care%20Services%20Financial%20Declaration%20Form.pdf",
+        "financial_pages": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]",
+        "level": "level_3",
+        "page_count": 20,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]",
+        "source": "https://www.barnet.gov.uk/node/5116",
+        "source_url": "https://www.barnet.gov.uk/node/5116",
+        "total_chunks": 47,
+        "type": "pdf"
+      },
+      "id": "4373b786-16df-477e-a7f4-465ca39e7a3d",
+      "distance": 0.458992600440979,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.2123022198677063,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 2 - FINANCIAL/BUDGET INFORMATION]\n \n \n 2  \nThis form must be completed if you are  assessed to need  residential  or \nnursing care  services  which either is going to be  funded by Barnet \nCouncil\u2019s Communities, Adults and Health , or you  are currently paying \nfor your care privately,  but your capital has been depleted and you would \nlike to request assistance with funding from the Council . \n \nLocal authorities have a statutory obligation  to assess contributions for \nthe care services they provide under The Care  Act 2014  and these \ncontributions are assessed on a person\u2019s ability to pay.  \n \nWe will use this form to assess the amount which you will need to  pay \ntowards  the costs of your residential/nursing care.  \n \nThe assessment of your ability to pay for your care is carried out in \naccordance to  The Care Act 2014 . \n \nYou are required to complete the relevant sections as fully as possible. \nThere are notes at the end of the form to assist you.",
+      "metadata": {
+        "chunk_id": 2,
+        "contains_financial_info": true,
+        "download_url": "https://www.barnet.gov.uk/sites/default/files/2025-06/Residential%20and%20Nursing%20Care%20Services%20Financial%20Declaration%20Form.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Residential%20and%20Nursing%20Care%20Services%20Financial%20Declaration%20Form.pdf",
+        "financial_pages": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]",
+        "level": "level_3",
+        "page_count": 20,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]",
+        "source": "https://www.barnet.gov.uk/node/5116",
+        "source_url": "https://www.barnet.gov.uk/node/5116",
+        "total_chunks": 47,
+        "type": "pdf"
+      },
+      "id": "0c7c47d2-17a6-4220-a834-b77e1cad2c17",
+      "distance": 0.49220791459083557,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.20233762562274932,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 4,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 21 - FINANCIAL/BUDGET INFORMATION]\n21    \n  \n  \n  \n  \n  \n \n \n \n \n \n \n \n \n \n \n \n \n Please write your Address on this box:  \n \n \n \n \n \n \n \n \n \nThank you for returning Financial Declaration Form . \n \n\u2610 Your form is duly completed,  and I have received all required \ndocumentary evidence which enables me to calculate the amount you \nneed to contribute towards your cost of care. We will endeavor to \ncomplete your financial assessment within next 5 working days,  and \nwe will notify you in writing about the outcome.  \n \n\u2610 Your form is incomplete,  and I will need additional information (list \nattached) before I can calculate the amount you need to contribute \ntowards your cost of care.  \nThis form is also available in large print, Braille, or in an \nalternative language.  \n \nTo request your preferred format, please contact the \nCommunication Officer for Adults and Communities on  \n020 8359 7150  or email: adultsocialservices@barnet.gov.uk   \nIf you have any questions about this form, please contact",
+      "metadata": {
+        "chunk_id": 37,
+        "contains_financial_info": true,
+        "download_url": "https://www.barnet.gov.uk/sites/default/files/2025-06/Community%20Care%20Contribution%20Financial%20Declaration%20Form.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Community%20Care%20Contribution%20Financial%20Declaration%20Form.pdf",
+        "financial_pages": "[1, 2, 3, 4, 5, 6, 7, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21]",
+        "level": "level_2",
+        "page_count": 21,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21]",
+        "source": "https://www.barnet.gov.uk/node/5124",
+        "source_url": "https://www.barnet.gov.uk/node/5124",
+        "total_chunks": 39,
+        "type": "pdf"
+      },
+      "id": "c2457d90-91a9-4e4e-b535-11159d6a90b2",
+      "distance": 0.4938032627105713,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.20185902118682864,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "2014.  \n  \nRegulations: \nhttp://www.legislation.gov.uk/ukpga/2014/23/contents/enacted   \n  \nGuidance:  \nCare and support statutory guidance - GOV.UK  \n \n4.3.  Barnet Council\u2019s policy to charge for care and support services is consistent with \nthe Care Act 2014, the Care and Support (Charging and Assessment of Resources) \nRegulations and Care and Support Statutory Guidance (CASSG) as referred to \nabove.  \n4.4.  Section 17 of the Care Act 2014 also imposes a duty on local authorities to carry out \na financial assessment where they charge for care services.  \n4.5.  The detail regarding financial assessments and how to calculate contributions, in \nparticular the treatment of income and capital , is set out in the Care and Support \n(Charging and Assessment of Resources) Regulations 2014. Further guidance is \nprovided in CASSG.  \n4.4.  Adults receiving care and support will be financially assessed in accordance with \nthis policy and will be required to make a contribution towards the cost of their",
+      "metadata": {
+        "chunk_id": 12,
+        "contains_financial_info": true,
+        "download_url": "https://www.barnet.gov.uk/sites/default/files/2025-05/Community%20Care%20Contribution%20Policy%20April%202025.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Community%20Care%20Contribution%20Policy%20April%202025.pdf",
+        "financial_pages": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32]",
+        "level": "level_2",
+        "page_count": 33,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33]",
+        "source": "https://www.barnet.gov.uk/node/5124",
+        "source_url": "https://www.barnet.gov.uk/node/5124",
+        "total_chunks": 83,
+        "type": "pdf"
+      },
+      "id": "5080b11f-8aa2-4fad-bd98-7a1429b2e401",
+      "distance": 0.5144417881965637,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.19566746354103087,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". If you choose to receive your Personal Budget as a direct payment into your bank account to arrange your own care, we will deduct your assessed contribution directly from the payment that we send to you. If you're paying for some or all of your social care services, including\u00a0paying for long term care, it may be useful to get some independent financial advice . Contacts Financial Assessment Team Telephone:\u00a0020 8359 2238 Email: financial.assessments@barnet.gov.uk External link",
+      "metadata": {
+        "chunk_id": 8,
+        "filename": "www.barnet.gov.uk_node_5124.txt",
+        "level": "level_2",
+        "source": "https://www.barnet.gov.uk/node/5124",
+        "source_url": "https://www.barnet.gov.uk/node/5124",
+        "total_chunks": 9,
+        "type": "web_page"
+      },
+      "id": "52031c86-b5c0-44cc-9eb8-c5002292802d",
+      "distance": 0.5490297079086304,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.18349108762741087,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Content Close Barnet Council e-newsletter Sign up to Barnet First External link for weekly service updates and news into your inbox. 28 Jun 2025 5:33pm Adult social care: Financial support from us The charges for Adult Social Care can change each year, either due to nationally set thresholds and rates or due to Barnet-specific policies. Adult Social Care: rates and national thresholds / charges 2025/26 How much you contribute towards the cost of your support will depend on your income and the savings you have. We'll ask you to complete a financial assessment External link to work out your contribution. There are some services that you will always have to pay for. These services such as respite care do not form part of a personal budget and are not subject to a financial assessment",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.barnet.gov.uk_node_5124.txt",
+        "level": "level_2",
+        "source": "https://www.barnet.gov.uk/node/5124",
+        "source_url": "https://www.barnet.gov.uk/node/5124",
+        "total_chunks": 9,
+        "type": "web_page"
+      },
+      "id": "09fc7434-f3aa-460c-ba80-ef5977cfe709",
+      "distance": 0.5952487587928772,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.17142537236213684,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 18 - FINANCIAL/BUDGET INFORMATION]\n \n \n 18  \nIf the care home charges more than Barnet Council would usually expect to pay, \nBarnet will only contribute to the cost of your care at that particular home if there is \nno other available home which is suitable for your assessed needs, or if a third -party \nsponsor (such as a relative or voluntary organisation) reaches an agreement with \nthe Council to contribute towards the cost of the care home as well. We will ask for \nfinancial information from the person applying to enter into the agreement with the \nCouncil . Failure to keep up with top -up payments may result in you being asked to \nmove to a suitable alternative home available at a cost the Council would usually \nexpect to pay.  \n \nN.26. What happens next?  \n \nWe will endeavour to complete your financial assessment within 5 working days \nafter we have received your completed Financial Declaration Form and other \nsupporting documents. We will notify you the outcome in writing in due course.",
+      "metadata": {
+        "chunk_id": 42,
+        "contains_financial_info": true,
+        "download_url": "https://www.barnet.gov.uk/sites/default/files/2025-06/Residential%20and%20Nursing%20Care%20Services%20Financial%20Declaration%20Form.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Residential%20and%20Nursing%20Care%20Services%20Financial%20Declaration%20Form.pdf",
+        "financial_pages": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]",
+        "level": "level_3",
+        "page_count": 20,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]",
+        "source": "https://www.barnet.gov.uk/node/5116",
+        "source_url": "https://www.barnet.gov.uk/node/5116",
+        "total_chunks": 47,
+        "type": "pdf"
+      },
+      "id": "4f4f3616-9bf1-4ad1-8b99-1ffacb859abf",
+      "distance": 0.6002838611602783,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1699148416519165,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 11 - FINANCIAL/BUDGET INFORMATION]\n \n  11 \n  9.7.    Assessed contributions of less than \u00a32 per week will not be charged or collected.  \n  \n9.8.  If a person chooses to receive all or part of their Personal Budget through a \nDirect Payment (DP) they will have their contribution deducted from their \nDirec t Payment . The Direct Payment will be paid net of the assessed \ncontribution. The individual must pay the assessed contribution into the \nprepaid card  /managed  payroll account to make the gross weekly DP.  \n \n10. Financial Assessment Procedure   \n10.1.  Those receiving chargeable care services will be expected to complete a finance \ndeclaration form to assess contributions. Appropriate assistance to complete \nthe declaration form will be offered to those  who  need help to complete the \nform.  \n10.2.  In some cases, a home visit may be provided by a financial assessment officer \nor officer(s) nominated to act on behalf of Barnet Council to provide",
+      "metadata": {
+        "chunk_id": 27,
+        "contains_financial_info": true,
+        "download_url": "https://www.barnet.gov.uk/sites/default/files/2025-05/Community%20Care%20Contribution%20Policy%20April%202025.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Community%20Care%20Contribution%20Policy%20April%202025.pdf",
+        "financial_pages": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32]",
+        "level": "level_2",
+        "page_count": 33,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33]",
+        "source": "https://www.barnet.gov.uk/node/5124",
+        "source_url": "https://www.barnet.gov.uk/node/5124",
+        "total_chunks": 83,
+        "type": "pdf"
+      },
+      "id": "25cfb50b-f66b-4790-8e8c-99ac405dc9eb",
+      "distance": 0.6003607511520386,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.16989177465438843,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    }
+  ],
+  "context": "[Document 1] From https://www (pdf) - URL: https://www.barnet.gov.uk/node/5116 - 20 pages [Retrieved via: semantic_original]:\nYour social worker or care manager will give you a financial declaration form. If you \ndo not receive a form, please contact the Financial Assessment Team at Barnet \nCouncil on 020 8359 2238 who will send one to you. You can also contact this team \nif you would like to arrange a visit to help you complete the form. They will also help \nyou to claim any additional benefits that you may be entitled to.  \n \nYour charges will start from the first date of your placement, so it is important that \nyou complete the Financial Declaration form as soon as possible to prevent \nreceiving a large initial invoice. You will need to provide bank and building society \nstatemen ts to confirm your savings and income, and payslips to confirm any \noccupational or private pensions.  \n \nThe Financial Assessment Team will send you a letter confirming how much you will \nhave to pay towards the cost of your care and it will include a breakdown of the \ncharges you will have to pay.\n\n[Document 2] From https://www (web_page) - URL: https://www.barnet.gov.uk/node/5124 [Retrieved via: semantic_original]:\n. The forms below are non-residential care only (For residential care, please click on the moving to a care home link above) Complete a Financial Assessment online The quickest and easiest way to complete a financial assessment is to use our online form. You can upload evidence from your computer, and save and resume the form later if you need to. Complete an online financial assessment Complete a Financial Assessment by post or email You can download and complete the community care financial declaration form below, to assess your contribution and return it to us: Download Community Care Contribution Financial Declaration Form (PDF, 390KB) Financial Assessment Team Adults and Health London Borough of Barnet 2 Bristol Avenue\u00a0Colindale London\u00a0NW9 4EW Telephone: 020 8359 2238 Email: financial.assessments@barnet.gov.uk External link After your financial assessment If you are assessed as having savings and capital of \u00a323,250 or more, you'll need to fund all of your care and support from your own savings and income\n\n[Document 3] From https://www (pdf) - URL: https://www.barnet.gov.uk/node/5116 - 20 pages [Retrieved via: semantic_original]:\nassessment. The Council will help coordinate this NHS assessment.  \n \n \nN.15. Getting help from the Council  \nBarnet Council aims to promote peoples independence and will only recommend a \nplacement in a care home where there are no other support options available to \nenable someone to stay within their own home. If this is the case for you or your \nfamily member and  your savings and capital are less than \u00a323,250, you should \nqualify for financial assistance from Barnet Council. You will need to complete a \nform to help us work out how much you must pay and how much the Council should \ncontribute. We call this a Financia l Assessment and we will ask you to provide \ndetails of your income and capital or savings.  \n \nIf you do not qualify for assistance from the council, you can contact My Care My \nHome on 0800 731 8470 or visit www.mycaremyhome.co.uk  for advice on options \nfor funding your care.  \n \nN.16. How is the Financial Assessment carried out?\n\n[Document 4] From https://www (pdf) - URL: https://www.barnet.gov.uk/node/5116 - 20 pages [Retrieved via: semantic_original]:\n[Page 2 - FINANCIAL/BUDGET INFORMATION]\n \n \n 2  \nThis form must be completed if you are  assessed to need  residential  or \nnursing care  services  which either is going to be  funded by Barnet \nCouncil\u2019s Communities, Adults and Health , or you  are currently paying \nfor your care privately,  but your capital has been depleted and you would \nlike to request assistance with funding from the Council . \n \nLocal authorities have a statutory obligation  to assess contributions for \nthe care services they provide under The Care  Act 2014  and these \ncontributions are assessed on a person\u2019s ability to pay.  \n \nWe will use this form to assess the amount which you will need to  pay \ntowards  the costs of your residential/nursing care.  \n \nThe assessment of your ability to pay for your care is carried out in \naccordance to  The Care Act 2014 . \n \nYou are required to complete the relevant sections as fully as possible. \nThere are notes at the end of the form to assist you.\n\n[Document 5] From https://www (pdf) - URL: https://www.barnet.gov.uk/node/5124 - 21 pages [Retrieved via: semantic_original]:\n[Page 21 - FINANCIAL/BUDGET INFORMATION]\n21    \n  \n  \n  \n  \n  \n \n \n \n \n \n \n \n \n \n \n \n \n Please write your Address on this box:  \n \n \n \n \n \n \n \n \n \nThank you for returning Financial Declaration Form . \n \n\u2610 Your form is duly completed,  and I have received all required \ndocumentary evidence which enables me to calculate the amount you \nneed to contribute towards your cost of care. We will endeavor to \ncomplete your financial assessment within next 5 working days,  and \nwe will notify you in writing about the outcome.  \n \n\u2610 Your form is incomplete,  and I will need additional information (list \nattached) before I can calculate the amount you need to contribute \ntowards your cost of care.  \nThis form is also available in large print, Braille, or in an \nalternative language.  \n \nTo request your preferred format, please contact the \nCommunication Officer for Adults and Communities on  \n020 8359 7150  or email: adultsocialservices@barnet.gov.uk   \nIf you have any questions about this form, please contact\n\n[Document 6] From https://www (pdf) - URL: https://www.barnet.gov.uk/node/5124 - 33 pages [Retrieved via: semantic_original]:\n2014.  \n  \nRegulations: \nhttp://www.legislation.gov.uk/ukpga/2014/23/contents/enacted   \n  \nGuidance:  \nCare and support statutory guidance - GOV.UK  \n \n4.3.  Barnet Council\u2019s policy to charge for care and support services is consistent with \nthe Care Act 2014, the Care and Support (Charging and Assessment of Resources) \nRegulations and Care and Support Statutory Guidance (CASSG) as referred to \nabove.  \n4.4.  Section 17 of the Care Act 2014 also imposes a duty on local authorities to carry out \na financial assessment where they charge for care services.  \n4.5.  The detail regarding financial assessments and how to calculate contributions, in \nparticular the treatment of income and capital , is set out in the Care and Support \n(Charging and Assessment of Resources) Regulations 2014. Further guidance is \nprovided in CASSG.  \n4.4.  Adults receiving care and support will be financially assessed in accordance with \nthis policy and will be required to make a contribution towards the cost of their\n\n[Document 7] From https://www (web_page) - URL: https://www.barnet.gov.uk/node/5124 [Retrieved via: semantic_original]:\n. If you choose to receive your Personal Budget as a direct payment into your bank account to arrange your own care, we will deduct your assessed contribution directly from the payment that we send to you. If you're paying for some or all of your social care services, including\u00a0paying for long term care, it may be useful to get some independent financial advice . Contacts Financial Assessment Team Telephone:\u00a0020 8359 2238 Email: financial.assessments@barnet.gov.uk External link\n\n[Document 8] From https://www (web_page) - URL: https://www.barnet.gov.uk/node/5124 [Retrieved via: semantic_original]:\nContent Close Barnet Council e-newsletter Sign up to Barnet First External link for weekly service updates and news into your inbox. 28 Jun 2025 5:33pm Adult social care: Financial support from us The charges for Adult Social Care can change each year, either due to nationally set thresholds and rates or due to Barnet-specific policies. Adult Social Care: rates and national thresholds / charges 2025/26 How much you contribute towards the cost of your support will depend on your income and the savings you have. We'll ask you to complete a financial assessment External link to work out your contribution. There are some services that you will always have to pay for. These services such as respite care do not form part of a personal budget and are not subject to a financial assessment\n\n[Document 9] From https://www (pdf) - URL: https://www.barnet.gov.uk/node/5116 - 20 pages [Retrieved via: semantic_original]:\n[Page 18 - FINANCIAL/BUDGET INFORMATION]\n \n \n 18  \nIf the care home charges more than Barnet Council would usually expect to pay, \nBarnet will only contribute to the cost of your care at that particular home if there is \nno other available home which is suitable for your assessed needs, or if a third -party \nsponsor (such as a relative or voluntary organisation) reaches an agreement with \nthe Council to contribute towards the cost of the care home as well. We will ask for \nfinancial information from the person applying to enter into the agreement with the \nCouncil . Failure to keep up with top -up payments may result in you being asked to \nmove to a suitable alternative home available at a cost the Council would usually \nexpect to pay.  \n \nN.26. What happens next?  \n \nWe will endeavour to complete your financial assessment within 5 working days \nafter we have received your completed Financial Declaration Form and other \nsupporting documents. We will notify you the outcome in writing in due course.\n\n[Document 10] From https://www (pdf) - URL: https://www.barnet.gov.uk/node/5124 - 33 pages [Retrieved via: semantic_original]:\n[Page 11 - FINANCIAL/BUDGET INFORMATION]\n \n  11 \n  9.7.    Assessed contributions of less than \u00a32 per week will not be charged or collected.  \n  \n9.8.  If a person chooses to receive all or part of their Personal Budget through a \nDirect Payment (DP) they will have their contribution deducted from their \nDirec t Payment . The Direct Payment will be paid net of the assessed \ncontribution. The individual must pay the assessed contribution into the \nprepaid card  /managed  payroll account to make the gross weekly DP.  \n \n10. Financial Assessment Procedure   \n10.1.  Those receiving chargeable care services will be expected to complete a finance \ndeclaration form to assess contributions. Appropriate assistance to complete \nthe declaration form will be offered to those  who  need help to complete the \nform.  \n10.2.  In some cases, a home visit may be provided by a financial assessment officer \nor officer(s) nominated to act on behalf of Barnet Council to provide\n",
+  "answer": "To prepare for a financial assessment for care in Barnet, you should gather specific documents and understand how your contribution will be calculated.\n\n**Documents to Prepare:**\n- **Bank and Building Society Statements:** These are needed to confirm your savings and income.\n- **Payslips:** To verify any occupational or private pensions you receive.\n- **Financial Declaration Form:** Your social worker or care manager will provide this form, or you can request it from the Financial Assessment Team at Barnet Council.\n\n**Calculation of Contribution:**\n- Your contribution is based on your income and savings. If you have savings and capital of **\u00a323,250 or more**, you will need to fund all of your care from your own savings and income.\n- The assessment will determine how much you need to pay towards your care costs, and you will receive a letter with a breakdown of these charges.\n\n**Next Steps and Resources:**\n- Complete the financial assessment form as soon as possible to avoid a large initial invoice.\n- You can complete the assessment online or by downloading the form and submitting it by post or email.\n- For assistance, contact the Financial Assessment Team at **020 8359 2238** or email **financial.assessments@barnet.gov.uk**.\n- If you need help completing the form, you can arrange a visit from the Financial Assessment Team.\n\nFor more detailed guidance, visit the Barnet Council website or refer to their provided documents.",
+  "metrics": {
+    "duration_seconds": 10.572135925292969,
+    "retrieved_docs_count": 10,
+    "query_length": 135,
+    "answer_length": 1444,
+    "retrieval_method": "enhanced",
+    "context_utilization": 0.19630484988452657,
+    "citations_count": 1,
+    "has_citations": true,
+    "query_relevance": 0.7647058823529411,
+    "unique_retrieval_methods": 1,
+    "budget_documents_retrieved": 7,
+    "retrieval_methods_used": [
+      "semantic_original"
+    ],
+    "retrieval_method_distribution": {
+      "semantic_original": 10
+    }
+  },
+  "local_authority": "barnet",
+  "query_id": "scn_22",
+  "retrieval_method": "enhanced",
+  "run_id": "8958703a-8997-4152-a4e7-ab44e33add9f",
+  "trace": {
+    "run_id": "8958703a-8997-4152-a4e7-ab44e33add9f",
+    "project": "social_care_rag",
+    "url": "https://eu.smith.langchain.com/o/me/runs/8958703a-8997-4152-a4e7-ab44e33add9f"
+  },
+  "test_metadata": {
+    "local_authority": "barnet",
+    "query_id": "scn_22",
+    "query_category": "assessment_scenarios",
+    "prompt_variation": "optimized",
+    "prompt_template": "\nPlease answer the following question about social care services in UK local authorities based only on the information in the provided documents.\n\nQuestion: {query}\n\nContext from relevant documents:\n{context}\n\nInstructions:\n1. Provide a clear, direct answer that would help someone needing this information. If information isn't available, state: \"The available documents don't provide specific information about [aspect].\"\n\n2. Synthesize information from ALL relevant documents to provide the most complete answer rather than analyzing documents individually.\n\n3. Structure your response with:\n   - A concise 1-2 sentence summary first\n   - Relevant details organized in short, clear paragraphs\n   - Bullet points for lists or step-by-step information\n   - Bold text for key information the user should notice\n\n4. For financial information:\n   - Include exact figures, time periods, and what the funding covers\n   - Present financial data clearly: \"The adult social care budget is **\u00a3X million** for [time period]\"\n\n5. Always include practical next steps or resources:\n   - Provide contact information, URLs, or application methods mentioned in the documents\n   - Suggest where the person could find more information\n\n6. When citing sources, use a simple format: \"According to [document name/description]\" or include URLs where available.\n\nAnswer:\n",
+    "processing_time": 10.575268983840942,
+    "timestamp": "2025-08-19T13:11:31.858429",
+    "top_k": 10
+  }
+}

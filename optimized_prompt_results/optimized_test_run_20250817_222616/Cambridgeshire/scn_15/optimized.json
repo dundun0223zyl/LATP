@@ -1,0 +1,329 @@
+{
+  "query": "My husband has advanced dementia and I'm his full-time carer in Cambridgeshire. I'm exhausted and need support. What are my options?",
+  "retrieved_documents": [
+    {
+      "content": "who can help you. You can find information about them at www.care-\nnetwork.org.uk  \n \nAlzheimer\u2019s Society offer support to carers and people with dementia \ncoming out of hospital. You can find out more at www.alzheimers.org.uk \u202f \n \nSupport for carers  \nCaring Together provide support to carers in Cambridgeshire. You can \nfind out more on their website www.caringtogether.org/   \n  \nMaking Space offer carer support service for those caring for someone with a mental health condition who is between 18 - 65 years old in \nCambridgeshire. You can find out more on their website \nwww.makingspace.co.uk/cambridgeshire- carer -support\n  \n  \nCentre 33 provide support for young carers across Cambridgeshire. You can find out more on their website www.centre33.org.uk\n  \n  \nFind out more in our information sheets for Cambridgeshire at Care and \nsupport information sheets . \n \nEquipment and Technology Enabled Care  \nMany people use equipment to help them remain independent, safe, and \nwell in their homes.",
+      "metadata": {
+        "chunk_id": 5,
+        "contains_financial_info": true,
+        "download_url": "https://www.cambridgeshire.gov.uk/asset-library/Paying-for-your-own-care-and-support-when-you-leave-hospital.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Paying-for-your-own-care-and-support-when-you-leave-hospital.pdf",
+        "financial_pages": "[1, 2, 3, 6, 7]",
+        "level": "level_2",
+        "page_count": 7,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7]",
+        "source": "https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets",
+        "source_url": "https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets",
+        "total_chunks": 18,
+        "type": "pdf"
+      },
+      "id": "7bf71e67-4775-4e0e-af0f-689d9706d87c",
+      "distance": 0.5146068930625916,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.19561793208122252,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "who can help you. You can find information about them at www.care-\nnetwork.org.uk  \n \nAlzheimer\u2019s Society offer support to carers and people with dementia \ncoming out of hospital. You can find out more at www.alzheimers.org.uk \u202f \n \nSupport for carers  \nCaring Together provide support to carers in Cambridgeshire. You can \nfind out more on their website www.caringtogether.org/   \n  \nMaking Space offer carer support service for those caring for someone with a mental health condition who is between 18 - 65 years old in \nCambridgeshire. You can find out more on their website \nwww.makingspace.co.uk/cambridgeshire- carer -support\n  \n  \nCentre 33 provide support for young carers across Cambridgeshire. You can find out more on their website www.centre33.org.uk\n  \n  \nFind out more in our information sheets for Cambridgeshire at Care and \nsupport information sheets . \n \nEquipment and Technology Enabled Care  \nMany people use equipment to help them remain independent, safe, and \nwell in their homes.",
+      "metadata": {
+        "chunk_id": 5,
+        "contains_financial_info": true,
+        "download_url": "https://www.cambridgeshire.gov.uk/asset-library/Paying-for-your-own-care-and-support-when-you-leave-hospital.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Paying-for-your-own-care-and-support-when-you-leave-hospital.pdf",
+        "financial_pages": "[1, 2, 3, 6, 7]",
+        "level": "level_1",
+        "page_count": 7,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7]",
+        "source": "https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets",
+        "source_url": "https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets",
+        "total_chunks": 18,
+        "type": "pdf"
+      },
+      "id": "9561704c-5032-46fe-9859-c3f44e1fce6b",
+      "distance": 0.5146068930625916,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.19561793208122252,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Support for dementia What is dementia and how does it affect people? Dementia is caused when parts of the brain stop working properly due to disease or trauma. Symptoms include memory loss, confusion and problems with speech and understanding. There are 850,000 people with dementia in the UK, with numbers set to rise.\u00a0One in three people in the UK has a family member or close friend who is living with Dementia. Dementia is a profoundly life-changing condition, and is often people\u2019s biggest fear in later life. People with dementia and their carers have asked for more support to do things in the community. This includes more opportunities to participate\u00a0in activities and better access to services to maintain their independence. People living with dementia can still have a good quality of life at most stages of the condition, provided the right care and support is in place.\u00a0We want to work towards making Cambridgeshire a dementia supportive community",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.cambridgeshire.gov.uk_residents_adults_organising-care-and-support_mental-health-and-wellbeing-f.txt",
+        "level": "level_2",
+        "source": "https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/mental-health-and-wellbeing-for-adults-and-older-people/dementia",
+        "source_url": "https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/mental-health-and-wellbeing-for-adults-and-older-people/dementia",
+        "total_chunks": 5,
+        "type": "web_page"
+      },
+      "id": "7b86311d-fd7e-4284-9936-4f40d8bf4e09",
+      "distance": 0.541599452495575,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1875201642513275,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 5 - FINANCIAL/BUDGET INFORMATION]\n \n \n5 | Cambridgeshire County Council \u2013 Paying for your own care and support when you leave hospital  - Easy \nRead | July  2024 \n Pictures  Words  \n \n \n Care Network  offer a free Help at Home Service for \nup to six weeks.  \n \nIn Cambridge, South Cambs and East Cambs you can call 01223 714433 or email hah.south@care-\nnetwork.org.uk  \n In Huntingdonshire and Fenland, you can call 01354 694413 or email hah.north@care -network.org.uk  \n \n \n Care Network also have Community Navigators . \nCommunity Navigators  can help you to find the \ninformation you need about support and activities.  \n They can also suggest other organisations which can help you.  \nYou can find out more on www.care -network.org.uk  \n Alzheimer\u2019s Society offer support to people with dementia coming out of hospital and their carers.  \n You can find out more at www.alzheimers.org.uk",
+      "metadata": {
+        "chunk_id": 4,
+        "contains_financial_info": true,
+        "download_url": "https://www.cambridgeshire.gov.uk/asset-library/Paying-for-your-own-care-and-support-when-you-leave-hospital-Easy-Read.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Paying-for-your-own-care-and-support-when-you-leave-hospital-Easy-Read.pdf",
+        "financial_pages": "[3, 5]",
+        "level": "level_2",
+        "page_count": 13,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]",
+        "source": "https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets",
+        "source_url": "https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets",
+        "total_chunks": 13,
+        "type": "pdf"
+      },
+      "id": "c238156f-c868-4acd-af8d-6dfba6bd65eb",
+      "distance": 0.54837965965271,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.18548610210418703,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 5 - FINANCIAL/BUDGET INFORMATION]\n \n \n5 | Cambridgeshire County Council \u2013 Paying for your own care and support when you leave hospital  - Easy \nRead | July  2024 \n Pictures  Words  \n \n \n Care Network  offer a free Help at Home Service for \nup to six weeks.  \n \nIn Cambridge, South Cambs and East Cambs you can call 01223 714433 or email hah.south@care-\nnetwork.org.uk  \n In Huntingdonshire and Fenland, you can call 01354 694413 or email hah.north@care -network.org.uk  \n \n \n Care Network also have Community Navigators . \nCommunity Navigators  can help you to find the \ninformation you need about support and activities.  \n They can also suggest other organisations which can help you.  \nYou can find out more on www.care -network.org.uk  \n Alzheimer\u2019s Society offer support to people with dementia coming out of hospital and their carers.  \n You can find out more at www.alzheimers.org.uk",
+      "metadata": {
+        "chunk_id": 4,
+        "contains_financial_info": true,
+        "download_url": "https://www.cambridgeshire.gov.uk/asset-library/Paying-for-your-own-care-and-support-when-you-leave-hospital-Easy-Read.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Paying-for-your-own-care-and-support-when-you-leave-hospital-Easy-Read.pdf",
+        "financial_pages": "[3, 5]",
+        "level": "level_1",
+        "page_count": 13,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]",
+        "source": "https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets",
+        "source_url": "https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets",
+        "total_chunks": 13,
+        "type": "pdf"
+      },
+      "id": "c1aa9d07-2a07-41d5-8785-b6efa4834f05",
+      "distance": 0.5483797192573547,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.18548608422279356,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 3 - FINANCIAL/BUDGET INFORMATION]\n \n3 | Cambridgeshire County Council \u2013 P aying for your own care and support when you leave hospital  \n| August 2024 \n Also, there are a number of voluntary sector and community groups who \nprovide services specifically to help people with care and support needs.  \n \nCare Network offers a free Help at Home service, for up to six weeks of \npractical and emotional support for any adult who has come out of \nhospital. You can find out more:\u202f  \n  \n\u2022 In Cambridge, South Cambs and East Cambs by calling 01223 \n714433 or emailing hah.south@care -network.org.uk   \n \n\u2022 In Huntingdonshire and Fenland by calling 01354 694413 or \nemailing hah.north@care -network.org.uk \u202f  \n  \nCare Network has Community Navigators who can provide you with \ninformation and guidance, as well as directing you to other organisations \nwho can help you. You can find information about them at www.care-\nnetwork.org.uk  \n \nAlzheimer\u2019s Society offer support to carers and people with dementia",
+      "metadata": {
+        "chunk_id": 4,
+        "contains_financial_info": true,
+        "download_url": "https://www.cambridgeshire.gov.uk/asset-library/Paying-for-your-own-care-and-support-when-you-leave-hospital.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Paying-for-your-own-care-and-support-when-you-leave-hospital.pdf",
+        "financial_pages": "[1, 2, 3, 6, 7]",
+        "level": "level_2",
+        "page_count": 7,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7]",
+        "source": "https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets",
+        "source_url": "https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets",
+        "total_chunks": 18,
+        "type": "pdf"
+      },
+      "id": "3bea0607-9de7-473e-b453-78264062e408",
+      "distance": 0.6053243279457092,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.16840270161628723,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 3 - FINANCIAL/BUDGET INFORMATION]\n \n3 | Cambridgeshire County Council \u2013 P aying for your own care and support when you leave hospital  \n| August 2024 \n Also, there are a number of voluntary sector and community groups who \nprovide services specifically to help people with care and support needs.  \n \nCare Network offers a free Help at Home service, for up to six weeks of \npractical and emotional support for any adult who has come out of \nhospital. You can find out more:\u202f  \n  \n\u2022 In Cambridge, South Cambs and East Cambs by calling 01223 \n714433 or emailing hah.south@care -network.org.uk   \n \n\u2022 In Huntingdonshire and Fenland by calling 01354 694413 or \nemailing hah.north@care -network.org.uk \u202f  \n  \nCare Network has Community Navigators who can provide you with \ninformation and guidance, as well as directing you to other organisations \nwho can help you. You can find information about them at www.care-\nnetwork.org.uk  \n \nAlzheimer\u2019s Society offer support to carers and people with dementia",
+      "metadata": {
+        "chunk_id": 4,
+        "contains_financial_info": true,
+        "download_url": "https://www.cambridgeshire.gov.uk/asset-library/Paying-for-your-own-care-and-support-when-you-leave-hospital.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Paying-for-your-own-care-and-support-when-you-leave-hospital.pdf",
+        "financial_pages": "[1, 2, 3, 6, 7]",
+        "level": "level_1",
+        "page_count": 7,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7]",
+        "source": "https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets",
+        "source_url": "https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets",
+        "total_chunks": 18,
+        "type": "pdf"
+      },
+      "id": "aba31f0e-94f1-4cbc-83db-a26091402e31",
+      "distance": 0.6053243279457092,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.16840270161628723,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "hospital. You can find out more:   \n \n\u2022 In Cambridge, South Cambs and East Cambs by calling 01223 \n714433 or emailing hah.south@care -network.org.uk  \n \n\u2022 In Huntingdonshire and Fenland by calling 01354 694413 or \nemailing hah.north@care -network.org.uk  \n Care Network has Community Navigators who can provide you with \ninformation and guidance, as well as directing you to other organisations who can help you. You can find information about them at www.care-\nnetwork.org.uk  \n \nAlzheimer\u2019s Society offer support to carers and people with dementia \ncoming out of hospital.  You can find out more at www.alzheimers.org.uk  \n \nYou can find lots of information on the Cambridgeshire online directory \nat www.cambridgeshire.gov.uk/directory.  \n \nYou can also look in the Guide to Independent Living in Cambridgeshire.  \nYou can ask staff at the hospital or Adult Social Care for a copy . \n \nSupport for carers  \nCaring Together provide support to carers in Cambridgeshire. You can",
+      "metadata": {
+        "chunk_id": 2,
+        "contains_financial_info": true,
+        "download_url": "https://www.cambridgeshire.gov.uk/asset-library/What-happens-if-you-need-care-and-support-when-you-leave-hospital.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "What-happens-if-you-need-care-and-support-when-you-leave-hospital.pdf",
+        "financial_pages": "[1, 2, 5, 6]",
+        "level": "level_2",
+        "page_count": 6,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6]",
+        "source": "https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets",
+        "source_url": "https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets",
+        "total_chunks": 13,
+        "type": "pdf"
+      },
+      "id": "c9848aba-7d02-403e-9184-d4ab5f18ff74",
+      "distance": 0.6102689504623413,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1669193148612976,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "hospital. You can find out more:   \n \n\u2022 In Cambridge, South Cambs and East Cambs by calling 01223 \n714433 or emailing hah.south@care -network.org.uk  \n \n\u2022 In Huntingdonshire and Fenland by calling 01354 694413 or \nemailing hah.north@care -network.org.uk  \n Care Network has Community Navigators who can provide you with \ninformation and guidance, as well as directing you to other organisations who can help you. You can find information about them at www.care-\nnetwork.org.uk  \n \nAlzheimer\u2019s Society offer support to carers and people with dementia \ncoming out of hospital.  You can find out more at www.alzheimers.org.uk  \n \nYou can find lots of information on the Cambridgeshire online directory \nat www.cambridgeshire.gov.uk/directory.  \n \nYou can also look in the Guide to Independent Living in Cambridgeshire.  \nYou can ask staff at the hospital or Adult Social Care for a copy . \n \nSupport for carers  \nCaring Together provide support to carers in Cambridgeshire. You can",
+      "metadata": {
+        "chunk_id": 2,
+        "contains_financial_info": true,
+        "download_url": "https://www.cambridgeshire.gov.uk/asset-library/What-happens-if-you-need-care-and-support-when-you-leave-hospital.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "What-happens-if-you-need-care-and-support-when-you-leave-hospital.pdf",
+        "financial_pages": "[1, 2, 5, 6]",
+        "level": "level_1",
+        "page_count": 6,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6]",
+        "source": "https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets",
+        "source_url": "https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets",
+        "total_chunks": 13,
+        "type": "pdf"
+      },
+      "id": "e19e7620-02ad-485f-a8e2-3f0e2fc2e80f",
+      "distance": 0.6102689504623413,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1669193148612976,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 4]\n \n \n4 | Cambridgeshire County Council \u2013 If you need care and support when you leave hospital  - Easy Read | \nAugust 2024 \n Pictures  Words  \n Alzheimer\u2019s Society offer support to people with \ndementia coming out of hospital and their carers.  \n You can find out more at www.alzheimers.org.uk\n \n \n You can look on the Cambridgeshire O nline \nDirectory  for organisations that can help you.  \n \nYou can find it at  \nwww.cambridgeshire.gov.uk/directory  \n You can also look in the Guide to Independent \nLiving. \n You can ask staff at the hospital or Adult Social Care for a copy, or you can look at it online.",
+      "metadata": {
+        "chunk_id": 3,
+        "contains_financial_info": true,
+        "download_url": "https://www.cambridgeshire.gov.uk/asset-library/Care-and-support-when-you-leave-hospital-Easy-Read.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Care-and-support-when-you-leave-hospital-Easy-Read.pdf",
+        "financial_pages": "[3, 12]",
+        "level": "level_2",
+        "page_count": 13,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]",
+        "source": "https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets",
+        "source_url": "https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets",
+        "total_chunks": 13,
+        "type": "pdf"
+      },
+      "id": "88f94836-3bb7-406c-8fa8-324841a31db6",
+      "distance": 0.616469144821167,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1650592565536499,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    }
+  ],
+  "context": "[Document 1] From https://www (pdf) - URL: https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets - 7 pages [Retrieved via: semantic_original]:\nwho can help you. You can find information about them at www.care-\nnetwork.org.uk  \n \nAlzheimer\u2019s Society offer support to carers and people with dementia \ncoming out of hospital. You can find out more at www.alzheimers.org.uk \u202f \n \nSupport for carers  \nCaring Together provide support to carers in Cambridgeshire. You can \nfind out more on their website www.caringtogether.org/   \n  \nMaking Space offer carer support service for those caring for someone with a mental health condition who is between 18 - 65 years old in \nCambridgeshire. You can find out more on their website \nwww.makingspace.co.uk/cambridgeshire- carer -support\n  \n  \nCentre 33 provide support for young carers across Cambridgeshire. You can find out more on their website www.centre33.org.uk\n  \n  \nFind out more in our information sheets for Cambridgeshire at Care and \nsupport information sheets . \n \nEquipment and Technology Enabled Care  \nMany people use equipment to help them remain independent, safe, and \nwell in their homes.\n\n[Document 2] From https://www (pdf) - URL: https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets - 7 pages [Retrieved via: semantic_original]:\nwho can help you. You can find information about them at www.care-\nnetwork.org.uk  \n \nAlzheimer\u2019s Society offer support to carers and people with dementia \ncoming out of hospital. You can find out more at www.alzheimers.org.uk \u202f \n \nSupport for carers  \nCaring Together provide support to carers in Cambridgeshire. You can \nfind out more on their website www.caringtogether.org/   \n  \nMaking Space offer carer support service for those caring for someone with a mental health condition who is between 18 - 65 years old in \nCambridgeshire. You can find out more on their website \nwww.makingspace.co.uk/cambridgeshire- carer -support\n  \n  \nCentre 33 provide support for young carers across Cambridgeshire. You can find out more on their website www.centre33.org.uk\n  \n  \nFind out more in our information sheets for Cambridgeshire at Care and \nsupport information sheets . \n \nEquipment and Technology Enabled Care  \nMany people use equipment to help them remain independent, safe, and \nwell in their homes.\n\n[Document 3] From https://www (web_page) - URL: https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/mental-health-and-wellbeing-for-adults-and-older-people/dementia [Retrieved via: semantic_original]:\nSupport for dementia What is dementia and how does it affect people? Dementia is caused when parts of the brain stop working properly due to disease or trauma. Symptoms include memory loss, confusion and problems with speech and understanding. There are 850,000 people with dementia in the UK, with numbers set to rise.\u00a0One in three people in the UK has a family member or close friend who is living with Dementia. Dementia is a profoundly life-changing condition, and is often people\u2019s biggest fear in later life. People with dementia and their carers have asked for more support to do things in the community. This includes more opportunities to participate\u00a0in activities and better access to services to maintain their independence. People living with dementia can still have a good quality of life at most stages of the condition, provided the right care and support is in place.\u00a0We want to work towards making Cambridgeshire a dementia supportive community\n\n[Document 4] From https://www (pdf) - URL: https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets - 13 pages [Retrieved via: semantic_original]:\n[Page 5 - FINANCIAL/BUDGET INFORMATION]\n \n \n5 | Cambridgeshire County Council \u2013 Paying for your own care and support when you leave hospital  - Easy \nRead | July  2024 \n Pictures  Words  \n \n \n Care Network  offer a free Help at Home Service for \nup to six weeks.  \n \nIn Cambridge, South Cambs and East Cambs you can call 01223 714433 or email hah.south@care-\nnetwork.org.uk  \n In Huntingdonshire and Fenland, you can call 01354 694413 or email hah.north@care -network.org.uk  \n \n \n Care Network also have Community Navigators . \nCommunity Navigators  can help you to find the \ninformation you need about support and activities.  \n They can also suggest other organisations which can help you.  \nYou can find out more on www.care -network.org.uk  \n Alzheimer\u2019s Society offer support to people with dementia coming out of hospital and their carers.  \n You can find out more at www.alzheimers.org.uk\n\n[Document 5] From https://www (pdf) - URL: https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets - 13 pages [Retrieved via: semantic_original]:\n[Page 5 - FINANCIAL/BUDGET INFORMATION]\n \n \n5 | Cambridgeshire County Council \u2013 Paying for your own care and support when you leave hospital  - Easy \nRead | July  2024 \n Pictures  Words  \n \n \n Care Network  offer a free Help at Home Service for \nup to six weeks.  \n \nIn Cambridge, South Cambs and East Cambs you can call 01223 714433 or email hah.south@care-\nnetwork.org.uk  \n In Huntingdonshire and Fenland, you can call 01354 694413 or email hah.north@care -network.org.uk  \n \n \n Care Network also have Community Navigators . \nCommunity Navigators  can help you to find the \ninformation you need about support and activities.  \n They can also suggest other organisations which can help you.  \nYou can find out more on www.care -network.org.uk  \n Alzheimer\u2019s Society offer support to people with dementia coming out of hospital and their carers.  \n You can find out more at www.alzheimers.org.uk\n\n[Document 6] From https://www (pdf) - URL: https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets - 7 pages [Retrieved via: semantic_original]:\n[Page 3 - FINANCIAL/BUDGET INFORMATION]\n \n3 | Cambridgeshire County Council \u2013 P aying for your own care and support when you leave hospital  \n| August 2024 \n Also, there are a number of voluntary sector and community groups who \nprovide services specifically to help people with care and support needs.  \n \nCare Network offers a free Help at Home service, for up to six weeks of \npractical and emotional support for any adult who has come out of \nhospital. You can find out more:\u202f  \n  \n\u2022 In Cambridge, South Cambs and East Cambs by calling 01223 \n714433 or emailing hah.south@care -network.org.uk   \n \n\u2022 In Huntingdonshire and Fenland by calling 01354 694413 or \nemailing hah.north@care -network.org.uk \u202f  \n  \nCare Network has Community Navigators who can provide you with \ninformation and guidance, as well as directing you to other organisations \nwho can help you. You can find information about them at www.care-\nnetwork.org.uk  \n \nAlzheimer\u2019s Society offer support to carers and people with dementia\n\n[Document 7] From https://www (pdf) - URL: https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets - 7 pages [Retrieved via: semantic_original]:\n[Page 3 - FINANCIAL/BUDGET INFORMATION]\n \n3 | Cambridgeshire County Council \u2013 P aying for your own care and support when you leave hospital  \n| August 2024 \n Also, there are a number of voluntary sector and community groups who \nprovide services specifically to help people with care and support needs.  \n \nCare Network offers a free Help at Home service, for up to six weeks of \npractical and emotional support for any adult who has come out of \nhospital. You can find out more:\u202f  \n  \n\u2022 In Cambridge, South Cambs and East Cambs by calling 01223 \n714433 or emailing hah.south@care -network.org.uk   \n \n\u2022 In Huntingdonshire and Fenland by calling 01354 694413 or \nemailing hah.north@care -network.org.uk \u202f  \n  \nCare Network has Community Navigators who can provide you with \ninformation and guidance, as well as directing you to other organisations \nwho can help you. You can find information about them at www.care-\nnetwork.org.uk  \n \nAlzheimer\u2019s Society offer support to carers and people with dementia\n\n[Document 8] From https://www (pdf) - URL: https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets - 6 pages [Retrieved via: semantic_original]:\nhospital. You can find out more:   \n \n\u2022 In Cambridge, South Cambs and East Cambs by calling 01223 \n714433 or emailing hah.south@care -network.org.uk  \n \n\u2022 In Huntingdonshire and Fenland by calling 01354 694413 or \nemailing hah.north@care -network.org.uk  \n Care Network has Community Navigators who can provide you with \ninformation and guidance, as well as directing you to other organisations who can help you. You can find information about them at www.care-\nnetwork.org.uk  \n \nAlzheimer\u2019s Society offer support to carers and people with dementia \ncoming out of hospital.  You can find out more at www.alzheimers.org.uk  \n \nYou can find lots of information on the Cambridgeshire online directory \nat www.cambridgeshire.gov.uk/directory.  \n \nYou can also look in the Guide to Independent Living in Cambridgeshire.  \nYou can ask staff at the hospital or Adult Social Care for a copy . \n \nSupport for carers  \nCaring Together provide support to carers in Cambridgeshire. You can\n\n[Document 9] From https://www (pdf) - URL: https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets - 6 pages [Retrieved via: semantic_original]:\nhospital. You can find out more:   \n \n\u2022 In Cambridge, South Cambs and East Cambs by calling 01223 \n714433 or emailing hah.south@care -network.org.uk  \n \n\u2022 In Huntingdonshire and Fenland by calling 01354 694413 or \nemailing hah.north@care -network.org.uk  \n Care Network has Community Navigators who can provide you with \ninformation and guidance, as well as directing you to other organisations who can help you. You can find information about them at www.care-\nnetwork.org.uk  \n \nAlzheimer\u2019s Society offer support to carers and people with dementia \ncoming out of hospital.  You can find out more at www.alzheimers.org.uk  \n \nYou can find lots of information on the Cambridgeshire online directory \nat www.cambridgeshire.gov.uk/directory.  \n \nYou can also look in the Guide to Independent Living in Cambridgeshire.  \nYou can ask staff at the hospital or Adult Social Care for a copy . \n \nSupport for carers  \nCaring Together provide support to carers in Cambridgeshire. You can\n\n[Document 10] From https://www (pdf) - URL: https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets - 13 pages [Retrieved via: semantic_original]:\n[Page 4]\n \n \n4 | Cambridgeshire County Council \u2013 If you need care and support when you leave hospital  - Easy Read | \nAugust 2024 \n Pictures  Words  \n Alzheimer\u2019s Society offer support to people with \ndementia coming out of hospital and their carers.  \n You can find out more at www.alzheimers.org.uk\n \n \n You can look on the Cambridgeshire O nline \nDirectory  for organisations that can help you.  \n \nYou can find it at  \nwww.cambridgeshire.gov.uk/directory  \n You can also look in the Guide to Independent \nLiving. \n You can ask staff at the hospital or Adult Social Care for a copy, or you can look at it online.\n",
+  "answer": "If you are a full-time carer for your husband with advanced dementia in Cambridgeshire and need support, there are several resources available to assist you.\n\n**Support Options:**\n\n- **Caring Together** provides support specifically for carers in Cambridgeshire. You can learn more about their services by visiting their website at [www.caringtogether.org](http://www.caringtogether.org).\n\n- **Care Network** offers a free Help at Home service for up to six weeks, providing practical and emotional support. You can contact them:\n  - In Cambridge, South Cambs, and East Cambs at 01223 714433 or email hah.south@care-network.org.uk\n  - In Huntingdonshire and Fenland at 01354 694413 or email hah.north@care-network.org.uk\n\n- **Alzheimer\u2019s Society** offers support to carers and people with dementia. More information can be found at [www.alzheimers.org.uk](http://www.alzheimers.org.uk).\n\n- **Community Navigators** from Care Network can help you find additional support and activities. More details are available at [www.care-network.org.uk](http://www.care-network.org.uk).\n\n**Next Steps:**\n\n- **Contact Caring Together** to explore the support they can offer you as a carer.\n- **Reach out to Care Network** for their Help at Home service and to connect with a Community Navigator for guidance on further resources.\n- **Visit the Alzheimer\u2019s Society website** for additional support options tailored to dementia care.\n\nThese resources can provide you with much-needed support and help alleviate some of the burdens of caregiving.",
+  "metrics": {
+    "duration_seconds": 11.827665090560913,
+    "retrieved_docs_count": 10,
+    "query_length": 132,
+    "answer_length": 1530,
+    "retrieval_method": "enhanced",
+    "context_utilization": 0.2839506172839506,
+    "citations_count": 0,
+    "has_citations": false,
+    "query_relevance": 0.7058823529411765,
+    "unique_retrieval_methods": 1,
+    "budget_documents_retrieved": 9,
+    "retrieval_methods_used": [
+      "semantic_original"
+    ],
+    "retrieval_method_distribution": {
+      "semantic_original": 10
+    }
+  },
+  "local_authority": "Cambridgeshire",
+  "query_id": "scn_15",
+  "retrieval_method": "enhanced",
+  "run_id": "03577cd3-0103-422f-8740-bba2f8ce0bc7",
+  "trace": {
+    "run_id": "03577cd3-0103-422f-8740-bba2f8ce0bc7",
+    "project": "social_care_rag",
+    "url": "https://eu.smith.langchain.com/o/me/runs/03577cd3-0103-422f-8740-bba2f8ce0bc7"
+  },
+  "test_metadata": {
+    "local_authority": "Cambridgeshire",
+    "query_id": "scn_15",
+    "query_category": "carer_support_scenarios",
+    "prompt_variation": "optimized",
+    "prompt_template": "\nPlease answer the following question about social care services in UK local authorities based only on the information in the provided documents.\n\nQuestion: {query}\n\nContext from relevant documents:\n{context}\n\nInstructions:\n1. Provide a clear, direct answer that would help someone needing this information. If information isn't available, state: \"The available documents don't provide specific information about [aspect].\"\n\n2. Synthesize information from ALL relevant documents to provide the most complete answer rather than analyzing documents individually.\n\n3. Structure your response with:\n   - A concise 1-2 sentence summary first\n   - Relevant details organized in short, clear paragraphs\n   - Bullet points for lists or step-by-step information\n   - Bold text for key information the user should notice\n\n4. For financial information:\n   - Include exact figures, time periods, and what the funding covers\n   - Present financial data clearly: \"The adult social care budget is **\u00a3X million** for [time period]\"\n\n5. Always include practical next steps or resources:\n   - Provide contact information, URLs, or application methods mentioned in the documents\n   - Suggest where the person could find more information\n\n6. When citing sources, use a simple format: \"According to [document name/description]\" or include URLs where available.\n\nAnswer:\n",
+    "processing_time": 11.830321073532104,
+    "timestamp": "2025-08-17T22:38:27.291652",
+    "top_k": 10
+  }
+}

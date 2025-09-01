@@ -1,0 +1,281 @@
+{
+  "query": "I'm moving from oxfordshire to Southampton. Will I need a new care needs assessment or can my current care package transfer?",
+  "retrieved_documents": [
+    {
+      "content": ". They can be ordered from us and may help you to live how you choose. View daily living aids Buy equipment If you want to buy equipment without an assessment, you can use Live Well Oxfordshire to search for suppliers . Back to top A social care needs assessment If none of these local services can support you, you could request a needs assessment from us. We will visit your home to learn about your situation. Then we'll help you find what will work for you and your carers. Learn more and request a needs assessment . The assessment process will take time, so you might want to think about other options in the meantime. Carer's assessment Caring for someone can be a difficult role. A carer's assessment can help give you an idea of what support is available for people caring for others. Learn more about carer's assessment Back to top Eligibility for support We use the national eligibility criteria set out in the Care Act 2014 to find out whether you qualify for support from us",
+      "metadata": {
+        "chunk_id": 3,
+        "filename": "www.oxfordshire.gov.uk_node_9243.txt",
+        "level": "level_2",
+        "source": "https://www.oxfordshire.gov.uk/node/9243",
+        "source_url": "https://www.oxfordshire.gov.uk/node/9243",
+        "total_chunks": 8,
+        "type": "web_page"
+      },
+      "id": "4d666fdc-b61e-43ee-8d68-eee48bc21600",
+      "distance": 0.6578986048698425,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.15263041853904724,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Before you start the assessment Please note: To be eligible for support as an informal carer from Oxfordshire County Council, the person you support / care for, must be an ordinary resident in Oxfordshire. An ordinary resident is determined by which authority they pay their council tax to (e.g South Oxfordshire district Council, Cherwell District Council). Therefore, if they are not an ordinary resident in Oxfordshire, please contact their local authority to request a carers assessment or support. If you are unsure which authority you pay your council tax to, please check using this link: Council Tax It is advised that you prepare for your carers assessment beforehand and set aside time of up to one hour to complete it. Please use the 'Preparing for a care assessment' guidance (written by Carers Oxfordshire) below should you want more information about the carers assessment before starting your assessment",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "mycitizenportal.oxfordshire.gov.uk_web_portal_pages_carerinfo.txt",
+        "level": "level_3",
+        "source": "https://mycitizenportal.oxfordshire.gov.uk/web/portal/pages/carerinfo",
+        "source_url": "https://mycitizenportal.oxfordshire.gov.uk/web/portal/pages/carerinfo",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "c5ddcf03-860b-40ab-b3f1-7e19c5cdbdc4",
+      "distance": 0.7151802778244019,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.13544591665267944,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Getting support To get a care assessment, request an assessment of your needs or contact the Adult Social and Healthcare Team . If you already have a social worker, occupational therapist or another support worker, they should be able to advise you on your options. Next steps Once you have requested an assessment of your needs , you will be contacted to arrange the assessment. If the assessment confirms you have eligible care needs, you will be supported to apply for our commissioned extra care housing. Further information Further information about extra care housing is available via Age UK . Affordable rental, sale, and private extra care housing options are available through the HousingCare website . The Live Well Oxfordshire directory provides more information on the full care and support options. A paper version of the directory can be requested from the Care Choices website",
+      "metadata": {
+        "chunk_id": 13,
+        "filename": "www.oxfordshire.gov.uk_residents_social-and-health-care_adult-social-care_living-home_home-first-oxf.txt",
+        "level": "level_2",
+        "source": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/living-home/home-first-oxfordshire/extra-care-housing",
+        "source_url": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/living-home/home-first-oxfordshire/extra-care-housing",
+        "total_chunks": 15,
+        "type": "web_page"
+      },
+      "id": "3f69d7be-98b6-4689-9882-0a51a31c425f",
+      "distance": 0.7173299193382263,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1348010241985321,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". How to get an assessment Visit Carers Oxfordshire for the assessment. The website can also help you prepare for your assessment. You can complete the Carers Assessment form yourself online. Carers Oxfordshire will contact you afterwards to discuss any support you may need. Or you can book a phone call with Carers Oxfordshire, who will ask you the assessment questions and fill out the Carers Assessment with you and discuss any support you may need. If the person you care for does not live in Oxfordshire , you should contact the council covering the area where the person lives. Back to top Advice and guidance Carers Oxfordshire Carers Oxfordshire is a free service that offers information, advice and support to adult carers of someone living in Oxfordshire. Back to top Requesting a needs assessment for the person you care for If the person you care for is not receiving any care services, they may benefit from an assessment of their needs",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.oxfordshire.gov.uk_node_1369.txt",
+        "level": "level_2",
+        "source": "https://www.oxfordshire.gov.uk/node/1369",
+        "source_url": "https://www.oxfordshire.gov.uk/node/1369",
+        "total_chunks": 5,
+        "type": "web_page"
+      },
+      "id": "a14e79a8-d0bb-4eaf-97b0-2a0e4df594d1",
+      "distance": 0.7221983671188354,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.13334048986434938,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". How to get an assessment Visit Carers Oxfordshire for the assessment. The website can also help you prepare for your assessment. You can complete the Carers Assessment form yourself online. Carers Oxfordshire will contact you afterwards to discuss any support you may need. Or you can book a phone call with Carers Oxfordshire, who will ask you the assessment questions and fill out the Carers Assessment with you and discuss any support you may need. If the person you care for does not live in Oxfordshire , you should contact the council covering the area where the person lives. Back to top Advice and guidance Carers Oxfordshire Carers Oxfordshire is a free service that offers information, advice and support to adult carers of someone living in Oxfordshire. Back to top Requesting a needs assessment for the person you care for If the person you care for is not receiving any care services, they may benefit from an assessment of their needs",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.oxfordshire.gov.uk_residents_social-and-health-care_carers_carers-assessment.txt",
+        "level": "level_3",
+        "source": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/carers/carers-assessment",
+        "source_url": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/carers/carers-assessment",
+        "total_chunks": 5,
+        "type": "web_page"
+      },
+      "id": "2c1a19b6-d07c-47f9-b4cd-c03b6df575f2",
+      "distance": 0.7221984267234802,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.13334047198295593,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Care contracted through a direct payment will not be automatically uplifted. Please contact the Direct Payment holder if you require a review of your rates.  \n Services  Ceiling Threshold  \nResidential Care Homes (Weekly)  \u00a31,153.00 \nNursing Care Homes (Weekl y) \u00a31,434.00 (gross fee)  \nLiving Well at Ho me and Legacy home care packages  \u00a329.07 \nOutreach  Support (Hourly)  \u00a327.18 \nReablement (Episode)  \u00a31,174.00 \nLive-in Domicillary  care - with break  \u00a31,507.00 \nLive-in Domicillary  care - without break  \u00a31,100 .00 \nExtra Care Housing (On-Site Care - Weekly Charge)  \u00a368.32  \nExtra Care Housing (Hourly)  \u00a329.07 \nSupported Living (Hourly  - including  waking nights)  \u00a327.18  \nSupported Living (Weekly)  \u00a31,407.00  \nSleep -in (per night)  \u00a380.00  \nExternal day services  No ceil ing Oxfordshire County Council  \nCounty Hall  \nNew Road  \nOxford  \nOX1 1ND  \n \nKaren Fuller  \nDirector of Adults and Housing \nServices  \n \n11th March 2024",
+      "metadata": {
+        "chunk_id": 1,
+        "contains_financial_info": true,
+        "download_url": "https://www.oxfordshire.gov.uk/sites/default/files/file/adult-social-and-health-care/LetteraboutFeeUplifts2024-25.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "LetteraboutFeeUplifts2024-25.pdf",
+        "financial_pages": "[1, 2]",
+        "level": "level_2",
+        "page_count": 2,
+        "pages_with_content": "[1, 2]",
+        "source": "https://www.oxfordshire.gov.uk/business/information-providers/adult-social-care-providers/fees-and-reviews",
+        "source_url": "https://www.oxfordshire.gov.uk/business/information-providers/adult-social-care-providers/fees-and-reviews",
+        "total_chunks": 4,
+        "type": "pdf"
+      },
+      "id": "ec875be6-2ccd-4c8c-a24d-c95f4c054f7c",
+      "distance": 0.7393619418144226,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.12819141745567322,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Please contact the Direct Payment holder if you require a review of your rates. Review process If this automatic uplift does not cover your fees and you would like us to carry out a review of your individual circumstances, please: Submit a request to CareContractsPriceReview@oxfordshire.gov.uk together with the Carecubed form (docx format, 55KB) .\u00a0Your request must include the initials, date of birth and OCC reference of each person with a breakdown of current support hours. The panel will look at: The care needs of the individual people Unit costs The host authority offers You will be informed of the outcome from the panel.\u00a0 Any agreed changes will be notified in writing and any payment due will be in the next payment run following this notification. We ask that you submit your requests within 3 months of receiving this letter with all the required information. Fund Nursing Care (FNC) We are only increasing the Oxfordshire County Council-funded element of your payment for nursing homes",
+      "metadata": {
+        "chunk_id": 3,
+        "filename": "www.oxfordshire.gov.uk_business_information-providers_adult-social-care-providers_fees-and-reviews.txt",
+        "level": "level_2",
+        "source": "https://www.oxfordshire.gov.uk/business/information-providers/adult-social-care-providers/fees-and-reviews",
+        "source_url": "https://www.oxfordshire.gov.uk/business/information-providers/adult-social-care-providers/fees-and-reviews",
+        "total_chunks": 5,
+        "type": "web_page"
+      },
+      "id": "daa8b8ab-826f-42f6-b329-6b5c2b64dc82",
+      "distance": 0.7571899890899658,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.12284300327301026,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". How long does the service last? This depends on the assessment given by the team of professionals and the goals set to help you regain your agreed level of independence. Once completed, if you can manage on your own, you can find a range of information and support on Live Well Oxfordshire . If you cannot, we will work with a team of specialists to build a plan for your longer-term care or support. Who delivers the service? The service is delivered by a combination of: our adult health and social care team the Home First specialists a network of providers The providers Cherwell: Care Outlook Oxford: Eleanor Healthcare Group South Oxfordshire: AllCare Vale of White Horse: Agincare West Oxfordshire: Agincare How much does it cost? This service is free. After it has been completed, we'll complete an assessment of your ongoing care needs if you have them. A financial assessment will establish if you need to contribute towards the cost of your care",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.oxfordshire.gov.uk_residents_social-and-health-care_adult-social-care_living-home_home-first-oxf.txt",
+        "level": "level_3",
+        "source": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/living-home/home-first-oxfordshire/reablement",
+        "source_url": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/living-home/home-first-oxfordshire/reablement",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "987c7716-4aa5-455f-81fb-42b5b9d5cef1",
+      "distance": 0.7658067941665649,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.12025796175003052,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". However, if you don't, we'll assume that you are prepared to pay the full cost of your care you receive. If you would prefer to arrange your care privately, please contact Adult Social Care so our involvement can be closed. If you do provide your financial information, we can work out how much Oxfordshire County Council will pay towards your care and how much you will need to contribute towards your care costs. Do I need to complete the whole form? Unless you are choosing not to disclose your financial circumstances or you have capital over the upper capital limit of \u00a323,250.00, yes you will need to go through each section of the form. You can skip sections that are not relevant to you. If you are over the upper capital limit and do not want to supply any additional information other than that, you can just answer Yes to this question in the form and skip the remaining sections and then submit your form",
+      "metadata": {
+        "chunk_id": 23,
+        "filename": "www.oxfordshire.gov.uk_online-financial-assessment.txt",
+        "level": "level_3",
+        "source": "https://www.oxfordshire.gov.uk/online-financial-assessment",
+        "source_url": "https://www.oxfordshire.gov.uk/online-financial-assessment",
+        "total_chunks": 29,
+        "type": "web_page"
+      },
+      "id": "eb964f4c-e30d-4cef-9fc0-d0cc9a96abfd",
+      "distance": 0.7704322934150696,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.11887031197547912,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". However, if you don't, we'll assume that you are prepared to pay the full cost of your care you receive. If you would prefer to arrange your care privately, please contact Adult Social Care so our involvement can be closed. If you do provide your financial information, we can work out how much Oxfordshire County Council will pay towards your care and how much you will need to contribute towards your care costs. Do I need to complete the whole form? Unless you are choosing not to disclose your financial circumstances or you have capital over the upper capital limit of \u00a323,250.00, yes you will need to go through each section of the form. You can skip sections that are not relevant to you. If you are over the upper capital limit and do not want to supply any additional information other than that, you can just answer Yes to this question in the form and skip the remaining sections and then submit your form",
+      "metadata": {
+        "chunk_id": 23,
+        "filename": "www.oxfordshire.gov.uk_residents_social-and-health-care_adult-social-care_paying-social-care_online-.txt",
+        "level": "level_2",
+        "source": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/paying-social-care/online-financial-assessment",
+        "source_url": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/paying-social-care/online-financial-assessment",
+        "total_chunks": 29,
+        "type": "web_page"
+      },
+      "id": "69363f68-682b-4294-8e9b-16cbf15cf907",
+      "distance": 0.7704322934150696,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.11887031197547912,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    }
+  ],
+  "context": "[Document 1] From https://www (web_page) - URL: https://www.oxfordshire.gov.uk/node/9243 [Retrieved via: semantic_original]:\n. They can be ordered from us and may help you to live how you choose. View daily living aids Buy equipment If you want to buy equipment without an assessment, you can use Live Well Oxfordshire to search for suppliers . Back to top A social care needs assessment If none of these local services can support you, you could request a needs assessment from us. We will visit your home to learn about your situation. Then we'll help you find what will work for you and your carers. Learn more and request a needs assessment . The assessment process will take time, so you might want to think about other options in the meantime. Carer's assessment Caring for someone can be a difficult role. A carer's assessment can help give you an idea of what support is available for people caring for others. Learn more about carer's assessment Back to top Eligibility for support We use the national eligibility criteria set out in the Care Act 2014 to find out whether you qualify for support from us\n\n[Document 2] From https://mycitizenportal (web_page) - URL: https://mycitizenportal.oxfordshire.gov.uk/web/portal/pages/carerinfo [Retrieved via: semantic_original]:\nBefore you start the assessment Please note: To be eligible for support as an informal carer from Oxfordshire County Council, the person you support / care for, must be an ordinary resident in Oxfordshire. An ordinary resident is determined by which authority they pay their council tax to (e.g South Oxfordshire district Council, Cherwell District Council). Therefore, if they are not an ordinary resident in Oxfordshire, please contact their local authority to request a carers assessment or support. If you are unsure which authority you pay your council tax to, please check using this link: Council Tax It is advised that you prepare for your carers assessment beforehand and set aside time of up to one hour to complete it. Please use the 'Preparing for a care assessment' guidance (written by Carers Oxfordshire) below should you want more information about the carers assessment before starting your assessment\n\n[Document 3] From https://www (web_page) - URL: https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/living-home/home-first-oxfordshire/extra-care-housing [Retrieved via: semantic_original]:\n. Getting support To get a care assessment, request an assessment of your needs or contact the Adult Social and Healthcare Team . If you already have a social worker, occupational therapist or another support worker, they should be able to advise you on your options. Next steps Once you have requested an assessment of your needs , you will be contacted to arrange the assessment. If the assessment confirms you have eligible care needs, you will be supported to apply for our commissioned extra care housing. Further information Further information about extra care housing is available via Age UK . Affordable rental, sale, and private extra care housing options are available through the HousingCare website . The Live Well Oxfordshire directory provides more information on the full care and support options. A paper version of the directory can be requested from the Care Choices website\n\n[Document 4] From https://www (web_page) - URL: https://www.oxfordshire.gov.uk/node/1369 [Retrieved via: semantic_original]:\n. How to get an assessment Visit Carers Oxfordshire for the assessment. The website can also help you prepare for your assessment. You can complete the Carers Assessment form yourself online. Carers Oxfordshire will contact you afterwards to discuss any support you may need. Or you can book a phone call with Carers Oxfordshire, who will ask you the assessment questions and fill out the Carers Assessment with you and discuss any support you may need. If the person you care for does not live in Oxfordshire , you should contact the council covering the area where the person lives. Back to top Advice and guidance Carers Oxfordshire Carers Oxfordshire is a free service that offers information, advice and support to adult carers of someone living in Oxfordshire. Back to top Requesting a needs assessment for the person you care for If the person you care for is not receiving any care services, they may benefit from an assessment of their needs\n\n[Document 5] From https://www (web_page) - URL: https://www.oxfordshire.gov.uk/residents/social-and-health-care/carers/carers-assessment [Retrieved via: semantic_original]:\n. How to get an assessment Visit Carers Oxfordshire for the assessment. The website can also help you prepare for your assessment. You can complete the Carers Assessment form yourself online. Carers Oxfordshire will contact you afterwards to discuss any support you may need. Or you can book a phone call with Carers Oxfordshire, who will ask you the assessment questions and fill out the Carers Assessment with you and discuss any support you may need. If the person you care for does not live in Oxfordshire , you should contact the council covering the area where the person lives. Back to top Advice and guidance Carers Oxfordshire Carers Oxfordshire is a free service that offers information, advice and support to adult carers of someone living in Oxfordshire. Back to top Requesting a needs assessment for the person you care for If the person you care for is not receiving any care services, they may benefit from an assessment of their needs\n\n[Document 6] From https://www (pdf) - URL: https://www.oxfordshire.gov.uk/business/information-providers/adult-social-care-providers/fees-and-reviews - 2 pages [Retrieved via: semantic_original]:\nCare contracted through a direct payment will not be automatically uplifted. Please contact the Direct Payment holder if you require a review of your rates.  \n Services  Ceiling Threshold  \nResidential Care Homes (Weekly)  \u00a31,153.00 \nNursing Care Homes (Weekl y) \u00a31,434.00 (gross fee)  \nLiving Well at Ho me and Legacy home care packages  \u00a329.07 \nOutreach  Support (Hourly)  \u00a327.18 \nReablement (Episode)  \u00a31,174.00 \nLive-in Domicillary  care - with break  \u00a31,507.00 \nLive-in Domicillary  care - without break  \u00a31,100 .00 \nExtra Care Housing (On-Site Care - Weekly Charge)  \u00a368.32  \nExtra Care Housing (Hourly)  \u00a329.07 \nSupported Living (Hourly  - including  waking nights)  \u00a327.18  \nSupported Living (Weekly)  \u00a31,407.00  \nSleep -in (per night)  \u00a380.00  \nExternal day services  No ceil ing Oxfordshire County Council  \nCounty Hall  \nNew Road  \nOxford  \nOX1 1ND  \n \nKaren Fuller  \nDirector of Adults and Housing \nServices  \n \n11th March 2024\n\n[Document 7] From https://www (web_page) - URL: https://www.oxfordshire.gov.uk/business/information-providers/adult-social-care-providers/fees-and-reviews [Retrieved via: semantic_original]:\n. Please contact the Direct Payment holder if you require a review of your rates. Review process If this automatic uplift does not cover your fees and you would like us to carry out a review of your individual circumstances, please: Submit a request to CareContractsPriceReview@oxfordshire.gov.uk together with the Carecubed form (docx format, 55KB) .\u00a0Your request must include the initials, date of birth and OCC reference of each person with a breakdown of current support hours. The panel will look at: The care needs of the individual people Unit costs The host authority offers You will be informed of the outcome from the panel.\u00a0 Any agreed changes will be notified in writing and any payment due will be in the next payment run following this notification. We ask that you submit your requests within 3 months of receiving this letter with all the required information. Fund Nursing Care (FNC) We are only increasing the Oxfordshire County Council-funded element of your payment for nursing homes\n\n[Document 8] From https://www (web_page) - URL: https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/living-home/home-first-oxfordshire/reablement [Retrieved via: semantic_original]:\n. How long does the service last? This depends on the assessment given by the team of professionals and the goals set to help you regain your agreed level of independence. Once completed, if you can manage on your own, you can find a range of information and support on Live Well Oxfordshire . If you cannot, we will work with a team of specialists to build a plan for your longer-term care or support. Who delivers the service? The service is delivered by a combination of: our adult health and social care team the Home First specialists a network of providers The providers Cherwell: Care Outlook Oxford: Eleanor Healthcare Group South Oxfordshire: AllCare Vale of White Horse: Agincare West Oxfordshire: Agincare How much does it cost? This service is free. After it has been completed, we'll complete an assessment of your ongoing care needs if you have them. A financial assessment will establish if you need to contribute towards the cost of your care\n\n[Document 9] From https://www (web_page) - URL: https://www.oxfordshire.gov.uk/online-financial-assessment [Retrieved via: semantic_original]:\n. However, if you don't, we'll assume that you are prepared to pay the full cost of your care you receive. If you would prefer to arrange your care privately, please contact Adult Social Care so our involvement can be closed. If you do provide your financial information, we can work out how much Oxfordshire County Council will pay towards your care and how much you will need to contribute towards your care costs. Do I need to complete the whole form? Unless you are choosing not to disclose your financial circumstances or you have capital over the upper capital limit of \u00a323,250.00, yes you will need to go through each section of the form. You can skip sections that are not relevant to you. If you are over the upper capital limit and do not want to supply any additional information other than that, you can just answer Yes to this question in the form and skip the remaining sections and then submit your form\n\n[Document 10] From https://www (web_page) - URL: https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/paying-social-care/online-financial-assessment [Retrieved via: semantic_original]:\n. However, if you don't, we'll assume that you are prepared to pay the full cost of your care you receive. If you would prefer to arrange your care privately, please contact Adult Social Care so our involvement can be closed. If you do provide your financial information, we can work out how much Oxfordshire County Council will pay towards your care and how much you will need to contribute towards your care costs. Do I need to complete the whole form? Unless you are choosing not to disclose your financial circumstances or you have capital over the upper capital limit of \u00a323,250.00, yes you will need to go through each section of the form. You can skip sections that are not relevant to you. If you are over the upper capital limit and do not want to supply any additional information other than that, you can just answer Yes to this question in the form and skip the remaining sections and then submit your form\n",
+  "answer": "When moving from Oxfordshire to Southampton, you will likely need a new care needs assessment from the local authority in Southampton. Care packages are typically managed by the local authority where you are an ordinary resident, as defined by where you pay your council tax. Therefore, your current care package from Oxfordshire will not automatically transfer to Southampton.\n\n**Key Points:**\n- **New Assessment Required:** You will need to contact the local authority in Southampton to request a new care needs assessment. This is necessary because care services are provided based on the local authority's jurisdiction where you reside.\n- **Ordinary Residence:** Your eligibility for support is determined by your ordinary residence, which is linked to the local authority to which you pay council tax (Document 2).\n\n**Next Steps:**\n- **Contact Southampton's Social Care Services:** Reach out to the Adult Social Care team in Southampton to initiate the process of a new needs assessment.\n- **Prepare for Assessment:** Consider preparing for your assessment by gathering any relevant documents or information about your current care needs and services received in Oxfordshire.\n\nFor more information on how to proceed with a new assessment in Southampton, you may want to visit their local council website or contact their social care services directly.",
+  "metrics": {
+    "duration_seconds": 9.917253255844116,
+    "retrieved_docs_count": 10,
+    "query_length": 124,
+    "answer_length": 1356,
+    "retrieval_method": "enhanced",
+    "context_utilization": 0.1340909090909091,
+    "citations_count": 1,
+    "has_citations": true,
+    "query_relevance": 0.8823529411764706,
+    "unique_retrieval_methods": 1,
+    "budget_documents_retrieved": 1,
+    "retrieval_methods_used": [
+      "semantic_original"
+    ],
+    "retrieval_method_distribution": {
+      "semantic_original": 10
+    }
+  },
+  "local_authority": "oxfordshire",
+  "query_id": "scn_24",
+  "retrieval_method": "enhanced",
+  "run_id": "4572a589-e8bb-4ece-893b-fcbc97962231",
+  "trace": {
+    "run_id": "4572a589-e8bb-4ece-893b-fcbc97962231",
+    "project": "social_care_rag",
+    "url": "https://eu.smith.langchain.com/o/me/runs/4572a589-e8bb-4ece-893b-fcbc97962231"
+  },
+  "test_metadata": {
+    "local_authority": "oxfordshire",
+    "query_id": "scn_24",
+    "query_category": "assessment_scenarios",
+    "prompt_variation": "optimized",
+    "prompt_template": "\nPlease answer the following question about social care services in UK local authorities based only on the information in the provided documents.\n\nQuestion: {query}\n\nContext from relevant documents:\n{context}\n\nInstructions:\n1. Provide a clear, direct answer that would help someone needing this information. If information isn't available, state: \"The available documents don't provide specific information about [aspect].\"\n\n2. Synthesize information from ALL relevant documents to provide the most complete answer rather than analyzing documents individually.\n\n3. Structure your response with:\n   - A concise 1-2 sentence summary first\n   - Relevant details organized in short, clear paragraphs\n   - Bullet points for lists or step-by-step information\n   - Bold text for key information the user should notice\n\n4. For financial information:\n   - Include exact figures, time periods, and what the funding covers\n   - Present financial data clearly: \"The adult social care budget is **\u00a3X million** for [time period]\"\n\n5. Always include practical next steps or resources:\n   - Provide contact information, URLs, or application methods mentioned in the documents\n   - Suggest where the person could find more information\n\n6. When citing sources, use a simple format: \"According to [document name/description]\" or include URLs where available.\n\nAnswer:\n",
+    "processing_time": 9.931582927703857,
+    "timestamp": "2025-08-19T14:16:20.176645",
+    "top_k": 10
+  }
+}

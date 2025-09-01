@@ -1,0 +1,281 @@
+{
+  "query": "My son with learning disabilities is displaying challenging behavior that I can no longer manage at home in croydon. What emergency support is available?",
+  "retrieved_documents": [
+    {
+      "content": ". We hold a group that meets on the last Thursday of the month. A facilitator is at the venue from 6pm to 8pm. For more information contact: Mar\u00eda Esteban Telephone: 0208 255 5473 Email: maria.esteban@croydon.gov.uk Croydon Intensive Support Team (IST) Croydon IST prevents crisis for autistic adults. They help people at risk of losing their home or going to hospital. They support people with learning disabilities and behaviours of challenge like self-harm, aggression or running away. Find out more about the Croydon Intensive Support Team. Request support from the council You can get support with autism from the Croydon Autism Service (CAS). We can help with: living independently and building your confidence training for families, carers, professionals and communities one-to-one or small group support with specific issues The Croydon Autism Service is part of Active Lives. You will need a referral to Active Lives to use this service. You can request support from our specialist team",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.croydon.gov.uk_adult-health-and-social-care_get-support-disability_autism-support-services.txt",
+        "level": "level_2",
+        "source": "https://www.croydon.gov.uk/adult-health-and-social-care/get-support-disability/autism-support-services",
+        "source_url": "https://www.croydon.gov.uk/adult-health-and-social-care/get-support-disability/autism-support-services",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "2f9f5f59-f3b4-4195-8e6a-bdcda2c0a33e",
+      "distance": 0.6917531490325928,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.14247405529022217,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Adult Carer\u2019s Mental Health Support and Counselling Services run by Mind in Croydon: Carer\u2019s Mental Health Support Call 020 8688 1210 (option 3) Email carers.support@mindincroydon.org.uk Carer\u2019s Counselling Call: 020 8763 2064 Email: counselling@mindincroydon.org.uk Address: (Head Office) 26 Pampisford Road, Purley, CR8 2NE www.mindincroydon.org.uk Parent Carers (parent or carers of a child with a physical or learning disability) Croydon Children's Social Care, Single Point of Contact: Tel 0208 726 6464 Croydon Mencap: www.croydonmencap.org.uk/support/parent-carers Mental health carers: www.mindincroydon.org.uk/how-we-can-help/carers-services Alzheimer's and Dementia: www.alzheimers.org.uk Children with special educational needs or disabilities (SEND): www.croydonmencap.org.uk Families with disabled children: www.contact.org.uk Learning disabilities: www.croydonmencap.org.uk Older People Age UK Advice Services Croydon Simply Connect Croydon Directory of Activities: Simply Connect Croydon Discounts and cheap",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.croydon.gov.uk_adult-health-and-social-care_carers-family-and-friends_carers_contacts.txt",
+        "level": "level_3",
+        "source": "https://www.croydon.gov.uk/adult-health-and-social-care/carers-family-and-friends/carers/contacts",
+        "source_url": "https://www.croydon.gov.uk/adult-health-and-social-care/carers-family-and-friends/carers/contacts",
+        "total_chunks": 5,
+        "type": "web_page"
+      },
+      "id": "590b8791-92b5-4dd5-864a-52175f2324bb",
+      "distance": 0.7313250303268433,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.13060249090194703,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Support for learning disabilities Find out what support is available for learning disabilities, including families and carers. If you have a learning disability, or care for someone who does, you can get support to live independently. Learning disabilities are different from learning difficulties, like dyslexia. To find more information about learning disabilities visit: Mencap's learning disability explained NHS information on learning disabilities Get support in your community You can find out about the help you can get in your local area. This includes: social groups and activities healthy living and wellbeing advice, support and self help education, work, volunteering and training housing leisure activities and sport money and benefits travel and transport For more information visit: Simply Connect Croydon Local Offer Croydon NHS Community Learning Disability Team The team provides specialist health support for adults with learning disabilities and their carers",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.croydon.gov.uk_adult-health-and-social-care_get-support-disability_support-learning-disabilities.txt",
+        "level": "level_2",
+        "source": "https://www.croydon.gov.uk/adult-health-and-social-care/get-support-disability/support-learning-disabilities",
+        "source_url": "https://www.croydon.gov.uk/adult-health-and-social-care/get-support-disability/support-learning-disabilities",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "d2307544-15fc-424c-bd84-3173cfe58039",
+      "distance": 0.7381779551506042,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.12854661345481871,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Autism support services Information on services for people with autism, their families and carers. If you're an autistic person, or you care for an autistic person, you can get support to live independently. You can read more information about autism at: National Autistic Society NHS Autism Central Croydon Mencap Autism Acceptance Week, 31 March to 6 April 2025 A guide to events for Croydon residents during the week, and beyond (PDF, 1MB) Get support in the community You can find out about help available in your local area. This includes: education health and wellbeing housing leisure activities and sport money and benefits travel and transport work, volunteering and training For more information visit: Local Offer Croydon Croydon Voluntary Action's Autism Services Directory Croydon pub experience group This group is for people with autism who would like to explore Croydon\u2019s pubs and cafes together. We hold a group that meets on the last Thursday of the month. A facilitator is at the venue from 6pm to 8pm",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.croydon.gov.uk_adult-health-and-social-care_get-support-disability_autism-support-services.txt",
+        "level": "level_2",
+        "source": "https://www.croydon.gov.uk/adult-health-and-social-care/get-support-disability/autism-support-services",
+        "source_url": "https://www.croydon.gov.uk/adult-health-and-social-care/get-support-disability/autism-support-services",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "a0f8e7db-6b93-406a-b32a-0c26e68c865c",
+      "distance": 0.7660633325576782,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.12018100023269654,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Please Note: You need to be 18 or over to qualify for a Disabled Facilities Grant.\u00a0\u00a0These grants are to help you remain in your home. If you are a parent or guardian of a disabled child under 18 years of age, please contact\u00a0\u00a0the CRYSTAL Centre team (OT for children)\u00a0: Tel: 020 8274 6854\u00a0\u00a0or email Ch-tr.croydonchildrensOT@nhs.net Adult Social Care Address Address Bernard Weatherill House 8 Mint Walk Croydon CR0 1EA United Kingdom Contact us online URL Croydon's Adult Health and Social Care Portal Email Croydon.AdultSupport@croydon.gov.uk Phone 020 8726 6500 Previous page Next page NEW Help improve this site by giving feedback Show Hide Feedback Send feedback directly to the content team using our website feedback form You can also join our user research group to receive invites to activities and surveys to help shape future improvements to the site.",
+      "metadata": {
+        "chunk_id": 3,
+        "filename": "www.croydon.gov.uk_housing_housing-support_disabled-facilities-grant_can-i-get-council-grant.txt",
+        "level": "level_3",
+        "source": "https://www.croydon.gov.uk/housing/housing-support/disabled-facilities-grant/can-i-get-council-grant",
+        "source_url": "https://www.croydon.gov.uk/housing/housing-support/disabled-facilities-grant/can-i-get-council-grant",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "3efe8d40-c801-408b-a2f6-ee8a36b1db48",
+      "distance": 0.7718713283538818,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.11843860149383545,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "in Croydon\nAdult Social Care and Health at Croydon is there to assist \nthose with care and support needs who are aged 18 and over.  We work with our residents focusing on early intervention and prevention, providing short term support when needed to get people back to living independently in their home, and playing an active role in the community with no need for ongoing care and support.\nPeople contact us for many reasons, for example they \nmay be living with a disability, poor mental health or dementia.  Sometimes it\u2019s because they are becoming older and need additional support, they may need information and advice or perhaps equipment to help them live independently.\nWe support people who are in transition from children\u2019s to \nadult\u2019s disability services and when our residents are not safe, we will act to protect our most vulnerable residents and keep them safe from harm.\nThe person with care and support needs and their carers",
+      "metadata": {
+        "chunk_id": 12,
+        "contains_financial_info": true,
+        "download_url": "https://www.croydon.gov.uk/sites/default/files/2024-11/local-account-social-care-and-health-2023-2024.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "local-account-social-care-and-health-2023-2024.pdf",
+        "financial_pages": "[2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]",
+        "level": "level_2",
+        "page_count": 13,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]",
+        "source": "https://www.croydon.gov.uk/adult-health-and-social-care/policies-and-complaints/local-account-adult-social-care-and-health-2023-2024",
+        "source_url": "https://www.croydon.gov.uk/adult-health-and-social-care/policies-and-complaints/local-account-adult-social-care-and-health-2023-2024",
+        "total_chunks": 38,
+        "type": "pdf"
+      },
+      "id": "fe5f2eff-20c2-4963-a32b-6b212dd7cc5e",
+      "distance": 0.783758282661438,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1148725152015686,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Closed on Thursday. If you are a young carer looking after a Croydon resident who needs support due to illness, disability or old age You can receive a Young Carer\u2019s Assessment from the Off the Record Young Carer's Service. The assessment will let you know what kind of help is available to young carers and what activities are happening. It will also look at what further support would be helpful for you. To contact the service, call 020 8649 9339, option 2 or email youngcarers@talkofftherecord.org . If you care for a disabled child or young person and your child is assessed by Croydon Council as a \u2018child in need\u2019 Your child\u2019s assessment should also consider your needs as a family. If you are a parent carer and feel your needs have not been taken into consideration during your child's assessment, you can also request a parent carer needs assessment under the Children and Families Act 2014. This is separate to your child's assessment",
+      "metadata": {
+        "chunk_id": 3,
+        "filename": "www.croydon.gov.uk_adult-health-and-social-care_carers-family-and-friends_carers_carers-assessments.txt",
+        "level": "level_3",
+        "source": "https://www.croydon.gov.uk/adult-health-and-social-care/carers-family-and-friends/carers/carers-assessments",
+        "source_url": "https://www.croydon.gov.uk/adult-health-and-social-care/carers-family-and-friends/carers/carers-assessments",
+        "total_chunks": 5,
+        "type": "web_page"
+      },
+      "id": "a3701cbe-4631-46aa-baf2-2e15db9c1cbe",
+      "distance": 0.8303821682929993,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.10088534951210022,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". If you can't find your care plan, contact your community mental health team on 020 3228 6000 and ask for your care coordinator. Recovery Space This is an alternative safe space to the Accident and Emergency Centre at Croydon University Hospital\u00a0for people experiencing a Mental Health crisis that does not require a clinical intervention. Location: Mind in Croydon Fairfield House, East Croydon, CR0 5LA Opening days and time: 7 days a week at 6pm to 11pm Advocacy Advocacy for All and Mind Croydon are organisations that specialise in a variety of advocacy services. in Croydon. Both organisations are independent from the NHS and the council.\u00a0 They provide personalised advocacy for those with needs arising from mental health and learning disabilities. The service works with people \u00a0to ensure they understand their rights, have their voices heard, and enable people \u00a0to make an informed decision regarding their care and support needs",
+      "metadata": {
+        "chunk_id": 4,
+        "filename": "www.croydon.gov.uk_adult-health-and-social-care_specific-needs-and-disabilities_mental-health-suppor.txt",
+        "level": "level_2",
+        "source": "https://www.croydon.gov.uk/adult-health-and-social-care/specific-needs-and-disabilities/mental-health-support",
+        "source_url": "https://www.croydon.gov.uk/adult-health-and-social-care/specific-needs-and-disabilities/mental-health-support",
+        "total_chunks": 6,
+        "type": "web_page"
+      },
+      "id": "f92d624e-dc3d-4f45-8a56-991d4ccd46d9",
+      "distance": 0.8566238284111023,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.09301285147666932,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Get help with the rising cost of living Guide Navigation Skip Guide Navigation Contents About cost of living support Benefits you might be entitled to Financial support Financial advice Saving energy Help with employment and training Help for households Support for businesses Mental health and wellbeing Mental health and wellbeing Support for mental health You can find support for mental health, including help with a mental health crisis or emergency . Adult Support Services Adult Support Croydon is designed to help adults find out about local groups, activities and services within the community. There is also an information and advice section to help residents on a range of health and social care topics. Simply Connect Croydon Simply Connect Croydon is a website managed by the CVA and Volunteer Centre Croydon where residents can find out about services and activities in the local area",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.croydon.gov.uk_get-help-rising-cost-living_mental-health-and-wellbeing.txt",
+        "level": "level_4",
+        "source": "https://www.croydon.gov.uk/get-help-rising-cost-living/mental-health-and-wellbeing",
+        "source_url": "https://www.croydon.gov.uk/get-help-rising-cost-living/mental-health-and-wellbeing",
+        "total_chunks": 3,
+        "type": "web_page"
+      },
+      "id": "e1a49bae-cd85-4c74-9be9-ef45224846a1",
+      "distance": 0.8642345666885376,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.09072962999343873,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Important information Croydon Council has a duty to protect the public funds it administers, to do this we: will use any information and records which we request and you provide review what your direct payment is being spent on to ensure it is meeting your care and support needs as outlined in your care and support assessment request repayment of part or all of the money or take legal action including prosecution where the money is not spent in accordance with your support plan may use the information you have provided for the prevention and detection of fraud may share this information with law enforcement agencies and other bodies responsible for auditing or administering public funds for these purposes Eligibility Direct payments can be made to anyone who is entitled to community care services, including: disabled people aged 16 or over older people people with learning disabilities users of mental health services carers aged 16 or over who are eligible for carers' services disabled parents people with",
+      "metadata": {
+        "chunk_id": 4,
+        "filename": "www.croydon.gov.uk_adult-health-and-social-care_paying-adult-social-care_direct-payments-adults.txt",
+        "level": "level_2",
+        "source": "https://www.croydon.gov.uk/adult-health-and-social-care/paying-adult-social-care/direct-payments-adults",
+        "source_url": "https://www.croydon.gov.uk/adult-health-and-social-care/paying-adult-social-care/direct-payments-adults",
+        "total_chunks": 10,
+        "type": "web_page"
+      },
+      "id": "4297b2a8-ab03-4dd4-b9e9-9130d18422be",
+      "distance": 0.8702796101570129,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.08891611695289611,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    }
+  ],
+  "context": "[Document 1] From https://www (web_page) - URL: https://www.croydon.gov.uk/adult-health-and-social-care/get-support-disability/autism-support-services [Retrieved via: semantic_original]:\n. We hold a group that meets on the last Thursday of the month. A facilitator is at the venue from 6pm to 8pm. For more information contact: Mar\u00eda Esteban Telephone: 0208 255 5473 Email: maria.esteban@croydon.gov.uk Croydon Intensive Support Team (IST) Croydon IST prevents crisis for autistic adults. They help people at risk of losing their home or going to hospital. They support people with learning disabilities and behaviours of challenge like self-harm, aggression or running away. Find out more about the Croydon Intensive Support Team. Request support from the council You can get support with autism from the Croydon Autism Service (CAS). We can help with: living independently and building your confidence training for families, carers, professionals and communities one-to-one or small group support with specific issues The Croydon Autism Service is part of Active Lives. You will need a referral to Active Lives to use this service. You can request support from our specialist team\n\n[Document 2] From https://www (web_page) - URL: https://www.croydon.gov.uk/adult-health-and-social-care/carers-family-and-friends/carers/contacts [Retrieved via: semantic_original]:\n. Adult Carer\u2019s Mental Health Support and Counselling Services run by Mind in Croydon: Carer\u2019s Mental Health Support Call 020 8688 1210 (option 3) Email carers.support@mindincroydon.org.uk Carer\u2019s Counselling Call: 020 8763 2064 Email: counselling@mindincroydon.org.uk Address: (Head Office) 26 Pampisford Road, Purley, CR8 2NE www.mindincroydon.org.uk Parent Carers (parent or carers of a child with a physical or learning disability) Croydon Children's Social Care, Single Point of Contact: Tel 0208 726 6464 Croydon Mencap: www.croydonmencap.org.uk/support/parent-carers Mental health carers: www.mindincroydon.org.uk/how-we-can-help/carers-services Alzheimer's and Dementia: www.alzheimers.org.uk Children with special educational needs or disabilities (SEND): www.croydonmencap.org.uk Families with disabled children: www.contact.org.uk Learning disabilities: www.croydonmencap.org.uk Older People Age UK Advice Services Croydon Simply Connect Croydon Directory of Activities: Simply Connect Croydon Discounts and cheap\n\n[Document 3] From https://www (web_page) - URL: https://www.croydon.gov.uk/adult-health-and-social-care/get-support-disability/support-learning-disabilities [Retrieved via: semantic_original]:\nSupport for learning disabilities Find out what support is available for learning disabilities, including families and carers. If you have a learning disability, or care for someone who does, you can get support to live independently. Learning disabilities are different from learning difficulties, like dyslexia. To find more information about learning disabilities visit: Mencap's learning disability explained NHS information on learning disabilities Get support in your community You can find out about the help you can get in your local area. This includes: social groups and activities healthy living and wellbeing advice, support and self help education, work, volunteering and training housing leisure activities and sport money and benefits travel and transport For more information visit: Simply Connect Croydon Local Offer Croydon NHS Community Learning Disability Team The team provides specialist health support for adults with learning disabilities and their carers\n\n[Document 4] From https://www (web_page) - URL: https://www.croydon.gov.uk/adult-health-and-social-care/get-support-disability/autism-support-services [Retrieved via: semantic_original]:\nAutism support services Information on services for people with autism, their families and carers. If you're an autistic person, or you care for an autistic person, you can get support to live independently. You can read more information about autism at: National Autistic Society NHS Autism Central Croydon Mencap Autism Acceptance Week, 31 March to 6 April 2025 A guide to events for Croydon residents during the week, and beyond (PDF, 1MB) Get support in the community You can find out about help available in your local area. This includes: education health and wellbeing housing leisure activities and sport money and benefits travel and transport work, volunteering and training For more information visit: Local Offer Croydon Croydon Voluntary Action's Autism Services Directory Croydon pub experience group This group is for people with autism who would like to explore Croydon\u2019s pubs and cafes together. We hold a group that meets on the last Thursday of the month. A facilitator is at the venue from 6pm to 8pm\n\n[Document 5] From https://www (web_page) - URL: https://www.croydon.gov.uk/housing/housing-support/disabled-facilities-grant/can-i-get-council-grant [Retrieved via: semantic_original]:\n. Please Note: You need to be 18 or over to qualify for a Disabled Facilities Grant.\u00a0\u00a0These grants are to help you remain in your home. If you are a parent or guardian of a disabled child under 18 years of age, please contact\u00a0\u00a0the CRYSTAL Centre team (OT for children)\u00a0: Tel: 020 8274 6854\u00a0\u00a0or email Ch-tr.croydonchildrensOT@nhs.net Adult Social Care Address Address Bernard Weatherill House 8 Mint Walk Croydon CR0 1EA United Kingdom Contact us online URL Croydon's Adult Health and Social Care Portal Email Croydon.AdultSupport@croydon.gov.uk Phone 020 8726 6500 Previous page Next page NEW Help improve this site by giving feedback Show Hide Feedback Send feedback directly to the content team using our website feedback form You can also join our user research group to receive invites to activities and surveys to help shape future improvements to the site.\n\n[Document 6] From https://www (pdf) - URL: https://www.croydon.gov.uk/adult-health-and-social-care/policies-and-complaints/local-account-adult-social-care-and-health-2023-2024 - 13 pages [Retrieved via: semantic_original]:\nin Croydon\nAdult Social Care and Health at Croydon is there to assist \nthose with care and support needs who are aged 18 and over.  We work with our residents focusing on early intervention and prevention, providing short term support when needed to get people back to living independently in their home, and playing an active role in the community with no need for ongoing care and support.\nPeople contact us for many reasons, for example they \nmay be living with a disability, poor mental health or dementia.  Sometimes it\u2019s because they are becoming older and need additional support, they may need information and advice or perhaps equipment to help them live independently.\nWe support people who are in transition from children\u2019s to \nadult\u2019s disability services and when our residents are not safe, we will act to protect our most vulnerable residents and keep them safe from harm.\nThe person with care and support needs and their carers\n\n[Document 7] From https://www (web_page) - URL: https://www.croydon.gov.uk/adult-health-and-social-care/carers-family-and-friends/carers/carers-assessments [Retrieved via: semantic_original]:\n. Closed on Thursday. If you are a young carer looking after a Croydon resident who needs support due to illness, disability or old age You can receive a Young Carer\u2019s Assessment from the Off the Record Young Carer's Service. The assessment will let you know what kind of help is available to young carers and what activities are happening. It will also look at what further support would be helpful for you. To contact the service, call 020 8649 9339, option 2 or email youngcarers@talkofftherecord.org . If you care for a disabled child or young person and your child is assessed by Croydon Council as a \u2018child in need\u2019 Your child\u2019s assessment should also consider your needs as a family. If you are a parent carer and feel your needs have not been taken into consideration during your child's assessment, you can also request a parent carer needs assessment under the Children and Families Act 2014. This is separate to your child's assessment\n\n[Document 8] From https://www (web_page) - URL: https://www.croydon.gov.uk/adult-health-and-social-care/specific-needs-and-disabilities/mental-health-support [Retrieved via: semantic_original]:\n. If you can't find your care plan, contact your community mental health team on 020 3228 6000 and ask for your care coordinator. Recovery Space This is an alternative safe space to the Accident and Emergency Centre at Croydon University Hospital\u00a0for people experiencing a Mental Health crisis that does not require a clinical intervention. Location: Mind in Croydon Fairfield House, East Croydon, CR0 5LA Opening days and time: 7 days a week at 6pm to 11pm Advocacy Advocacy for All and Mind Croydon are organisations that specialise in a variety of advocacy services. in Croydon. Both organisations are independent from the NHS and the council.\u00a0 They provide personalised advocacy for those with needs arising from mental health and learning disabilities. The service works with people \u00a0to ensure they understand their rights, have their voices heard, and enable people \u00a0to make an informed decision regarding their care and support needs\n\n[Document 9] From https://www (web_page) - URL: https://www.croydon.gov.uk/get-help-rising-cost-living/mental-health-and-wellbeing [Retrieved via: semantic_original]:\nGet help with the rising cost of living Guide Navigation Skip Guide Navigation Contents About cost of living support Benefits you might be entitled to Financial support Financial advice Saving energy Help with employment and training Help for households Support for businesses Mental health and wellbeing Mental health and wellbeing Support for mental health You can find support for mental health, including help with a mental health crisis or emergency . Adult Support Services Adult Support Croydon is designed to help adults find out about local groups, activities and services within the community. There is also an information and advice section to help residents on a range of health and social care topics. Simply Connect Croydon Simply Connect Croydon is a website managed by the CVA and Volunteer Centre Croydon where residents can find out about services and activities in the local area\n\n[Document 10] From https://www (web_page) - URL: https://www.croydon.gov.uk/adult-health-and-social-care/paying-adult-social-care/direct-payments-adults [Retrieved via: semantic_original]:\n. Important information Croydon Council has a duty to protect the public funds it administers, to do this we: will use any information and records which we request and you provide review what your direct payment is being spent on to ensure it is meeting your care and support needs as outlined in your care and support assessment request repayment of part or all of the money or take legal action including prosecution where the money is not spent in accordance with your support plan may use the information you have provided for the prevention and detection of fraud may share this information with law enforcement agencies and other bodies responsible for auditing or administering public funds for these purposes Eligibility Direct payments can be made to anyone who is entitled to community care services, including: disabled people aged 16 or over older people people with learning disabilities users of mental health services carers aged 16 or over who are eligible for carers' services disabled parents people with\n",
+  "answer": "If your son with learning disabilities is displaying challenging behavior that you can no longer manage at home in Croydon, you can seek support from the **Croydon Intensive Support Team (IST)**. This team helps prevent crises for individuals with learning disabilities and challenging behaviors such as self-harm, aggression, or running away.\n\n**Key Support Options:**\n- **Croydon Intensive Support Team (IST):** They provide support to prevent crises and help individuals at risk of losing their home or requiring hospitalization. For more information, you can contact Mar\u00eda Esteban at 0208 255 5473 or email maria.esteban@croydon.gov.uk.\n- **Croydon Children's Social Care, Single Point of Contact:** For immediate support and guidance, you can reach out to them at 0208 726 6464.\n- **Croydon Mencap:** Offers additional resources and support for families with learning disabilities. Visit their website at www.croydonmencap.org.uk/support/parent-carers for more information.\n\n**Practical Next Steps:**\n1. **Contact the Croydon Intensive Support Team** to discuss your son's specific needs and explore the support they can offer.\n2. **Reach out to Croydon Children's Social Care** for immediate assistance and to understand what emergency support is available.\n3. **Visit Croydon Mencap's website** for additional resources and support networks that might be beneficial for your family.\n\nFor further details, you can visit the Croydon Council's website on autism support services at [Croydon Autism Support Services](https://www.croydon.gov.uk/adult-health-and-social-care/get-support-disability/autism-support-services).",
+  "metrics": {
+    "duration_seconds": 15.009578943252563,
+    "retrieved_docs_count": 10,
+    "query_length": 153,
+    "answer_length": 1624,
+    "retrieval_method": "enhanced",
+    "context_utilization": 0.17586912065439672,
+    "citations_count": 1,
+    "has_citations": true,
+    "query_relevance": 0.95,
+    "unique_retrieval_methods": 1,
+    "budget_documents_retrieved": 1,
+    "retrieval_methods_used": [
+      "semantic_original"
+    ],
+    "retrieval_method_distribution": {
+      "semantic_original": 10
+    }
+  },
+  "local_authority": "croydon",
+  "query_id": "scn_26",
+  "retrieval_method": "enhanced",
+  "run_id": "fba48937-f23c-4556-bfe9-81d9b9c9d52d",
+  "trace": {
+    "run_id": "fba48937-f23c-4556-bfe9-81d9b9c9d52d",
+    "project": "social_care_rag",
+    "url": "https://eu.smith.langchain.com/o/me/runs/fba48937-f23c-4556-bfe9-81d9b9c9d52d"
+  },
+  "test_metadata": {
+    "local_authority": "croydon",
+    "query_id": "scn_26",
+    "query_category": "emergency_scenarios",
+    "prompt_variation": "optimized",
+    "prompt_template": "\nPlease answer the following question about social care services in UK local authorities based only on the information in the provided documents.\n\nQuestion: {query}\n\nContext from relevant documents:\n{context}\n\nInstructions:\n1. Provide a clear, direct answer that would help someone needing this information. If information isn't available, state: \"The available documents don't provide specific information about [aspect].\"\n\n2. Synthesize information from ALL relevant documents to provide the most complete answer rather than analyzing documents individually.\n\n3. Structure your response with:\n   - A concise 1-2 sentence summary first\n   - Relevant details organized in short, clear paragraphs\n   - Bullet points for lists or step-by-step information\n   - Bold text for key information the user should notice\n\n4. For financial information:\n   - Include exact figures, time periods, and what the funding covers\n   - Present financial data clearly: \"The adult social care budget is **\u00a3X million** for [time period]\"\n\n5. Always include practical next steps or resources:\n   - Provide contact information, URLs, or application methods mentioned in the documents\n   - Suggest where the person could find more information\n\n6. When citing sources, use a simple format: \"According to [document name/description]\" or include URLs where available.\n\nAnswer:\n",
+    "processing_time": 15.012186765670776,
+    "timestamp": "2025-08-19T13:32:30.832832",
+    "top_k": 10
+  }
+}

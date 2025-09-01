@@ -1,0 +1,329 @@
+{
+  "query": "I receive Attendance Allowance but my care needs have increased in cambridgeshire. Can the council provide additional financial support?",
+  "retrieved_documents": [
+    {
+      "content": "[Page 2 - FINANCIAL/BUDGET INFORMATION]\n \n \n2 | Cambridgeshire County Council \u2013  Paying for care - Easy Read | April  2025  \n Pictures  Words  \n Eligible  for care and support  means that we have \nlooked at your needs and agree that you need \nsupport.  \n A Financial Assessment  is when the council looks \nat how much money you have.  \n \nThis is to see if you need to pay for your care and \nsupport.  \n The government says if you have more than \u00a323,250 \nin savings and assets , then you need to pay for the \nfull cost of your care and support . \n If you have less than \u00a323,250  in savings and assets, \nthen the council may pay some money towards the cost of your care and support.",
+      "metadata": {
+        "chunk_id": 1,
+        "contains_financial_info": true,
+        "download_url": "https://www.cambridgeshire.gov.uk/asset-library/Paying-for-Care-Easy-Read.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Paying-for-Care-Easy-Read.pdf",
+        "financial_pages": "[1, 2, 3, 4, 5, 6, 7]",
+        "level": "level_2",
+        "page_count": 7,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7]",
+        "source": "https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets",
+        "source_url": "https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets",
+        "total_chunks": 7,
+        "type": "pdf"
+      },
+      "id": "b17cb7c8-6cf6-4e75-a3e4-59b59f463301",
+      "distance": 0.4315706193447113,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.2205288141965866,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 4,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 2 - FINANCIAL/BUDGET INFORMATION]\n \n \n2 | Cambridgeshire County Council \u2013  Paying for care - Easy Read | April  2025  \n Pictures  Words  \n Eligible  for care and support  means that we have \nlooked at your needs and agree that you need \nsupport.  \n A Financial Assessment  is when the council looks \nat how much money you have.  \n \nThis is to see if you need to pay for your care and \nsupport.  \n The government says if you have more than \u00a323,250 \nin savings and assets , then you need to pay for the \nfull cost of your care and support . \n If you have less than \u00a323,250  in savings and assets, \nthen the council may pay some money towards the cost of your care and support.",
+      "metadata": {
+        "chunk_id": 1,
+        "contains_financial_info": true,
+        "download_url": "https://www.cambridgeshire.gov.uk/asset-library/Paying-for-Care-Easy-Read.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Paying-for-Care-Easy-Read.pdf",
+        "financial_pages": "[1, 2, 3, 4, 5, 6, 7]",
+        "level": "level_1",
+        "page_count": 7,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7]",
+        "source": "https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets",
+        "source_url": "https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets",
+        "total_chunks": 7,
+        "type": "pdf"
+      },
+      "id": "84d5510e-f4d9-4353-a51d-2983da8c1b61",
+      "distance": 0.4315706193447113,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.2205288141965866,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 4,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 6 - FINANCIAL/BUDGET INFORMATION]\n \n6 | Cambridgeshire County Council \u2013  What happens if you need care and support when you leave \nhospital ? | August  2024  \n Can I get any financial help from the NHS?  \nIn some circumstances, people with long- term complex health needs \nmay qualify for care funded by the NHS. This is called NHS Continuing \nHealthcare funding. You can find out more information by looking at \nwww.nhs.uk and searching \u2018NHS Continuing Healthcare\u2019 .  \n \nTo find out more:   \nCambridgeshire County Council  \n \nTelephone: 0345 045 5202  \n \nEmail: careinfo@cambridgeshire.gov.uk  \n \nWebsite: www.cambridgeshire.gov.uk/residents/adults",
+      "metadata": {
+        "chunk_id": 12,
+        "contains_financial_info": true,
+        "download_url": "https://www.cambridgeshire.gov.uk/asset-library/What-happens-if-you-need-care-and-support-when-you-leave-hospital.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "What-happens-if-you-need-care-and-support-when-you-leave-hospital.pdf",
+        "financial_pages": "[1, 2, 5, 6]",
+        "level": "level_2",
+        "page_count": 6,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6]",
+        "source": "https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets",
+        "source_url": "https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets",
+        "total_chunks": 13,
+        "type": "pdf"
+      },
+      "id": "87ced09e-3aee-4669-8065-f847732a8f46",
+      "distance": 0.43451371788978577,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.21964588463306428,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 6 - FINANCIAL/BUDGET INFORMATION]\n \n6 | Cambridgeshire County Council \u2013  What happens if you need care and support when you leave \nhospital ? | August  2024  \n Can I get any financial help from the NHS?  \nIn some circumstances, people with long- term complex health needs \nmay qualify for care funded by the NHS. This is called NHS Continuing \nHealthcare funding. You can find out more information by looking at \nwww.nhs.uk and searching \u2018NHS Continuing Healthcare\u2019 .  \n \nTo find out more:   \nCambridgeshire County Council  \n \nTelephone: 0345 045 5202  \n \nEmail: careinfo@cambridgeshire.gov.uk  \n \nWebsite: www.cambridgeshire.gov.uk/residents/adults",
+      "metadata": {
+        "chunk_id": 12,
+        "contains_financial_info": true,
+        "download_url": "https://www.cambridgeshire.gov.uk/asset-library/What-happens-if-you-need-care-and-support-when-you-leave-hospital.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "What-happens-if-you-need-care-and-support-when-you-leave-hospital.pdf",
+        "financial_pages": "[1, 2, 5, 6]",
+        "level": "level_1",
+        "page_count": 6,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6]",
+        "source": "https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets",
+        "source_url": "https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets",
+        "total_chunks": 13,
+        "type": "pdf"
+      },
+      "id": "53f8799c-dce1-4499-8abe-293ede1b0134",
+      "distance": 0.43451371788978577,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.21964588463306428,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". This is called a Direct Payment. Am I eligible? Direct Payments are available to people who qualify for support from us and who are either: aged 16 or over with a physical disability, learning disability, visual impairment, HIV Aids, mental health issues, or within the Autistic spectrum people over 65 parent/carers of disabled children (find out more about Direct Payments for children in Cambridgeshire ) We will carry out an assessment , then find out what you want to achieve. We will then look with you at the ways your needs could be best supported. This will be written down in a document called a support plan . We will allocate you a level of budget that is calculated be enough to meet your level of needs, this is referred to as a Personal Budget. Your Personal Budget will be made up of the amount we financially assess you as being able to cover yourself plus any contribution the Council might make",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.cambridgeshire.gov.uk_residents_adults_organising-care-and-support_paying-for-care_direct-paymen.txt",
+        "level": "level_3",
+        "source": "https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/paying-for-care/direct-payments-for-adults-and-older-people",
+        "source_url": "https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/paying-for-care/direct-payments-for-adults-and-older-people",
+        "total_chunks": 15,
+        "type": "web_page"
+      },
+      "id": "5ef155cb-9e00-49c6-9586-fd3d2ac81965",
+      "distance": 0.45503297448158264,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.21349010765552523,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 2 - FINANCIAL/BUDGET INFORMATION]\n   \n \n2 | Cambridgeshire County Council \u2013 Paying for care  | April  2025 \n If you are assessed as needing to pay for your care and support, you will \nneed to start putting money aside for when you receive invoices from the \ncouncil.   Some types of income, such as money from certain disability  \nbenefits and pensions, and certain types of capital, may not be counted in the Financial Assessment.  This will be explained further at your \nFinancial Assessment.  \nFull details of how we work out how much you will pay are in the \nAdult \nSocial Care Charging Policy (PDF 238KB) . \nAfter your assessment we will send you a letter to explain the result.  \nIf you are  eligible for financial assistance to pay for care and support, the \ncouncil can arrange services for you. Alternatively, you can choose to \nreceive Direct Payments  and arrange the services yourself.   You can \nfind out more about Direct Payments on page 6 . \nPaying for care in your own  home",
+      "metadata": {
+        "chunk_id": 1,
+        "contains_financial_info": true,
+        "download_url": "https://www.cambridgeshire.gov.uk/asset-library/Paying-for-care.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Paying-for-care.pdf",
+        "financial_pages": "[1, 2, 3, 4, 5, 6, 7, 8]",
+        "level": "level_2",
+        "page_count": 8,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8]",
+        "source": "https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets",
+        "source_url": "https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets",
+        "total_chunks": 19,
+        "type": "pdf"
+      },
+      "id": "f500645f-ac70-4785-a7b9-dd5ba3817364",
+      "distance": 0.45640406012535095,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.21307878196239471,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 2 - FINANCIAL/BUDGET INFORMATION]\n   \n \n2 | Cambridgeshire County Council \u2013 Paying for care  | April  2025 \n If you are assessed as needing to pay for your care and support, you will \nneed to start putting money aside for when you receive invoices from the \ncouncil.   Some types of income, such as money from certain disability  \nbenefits and pensions, and certain types of capital, may not be counted in the Financial Assessment.  This will be explained further at your \nFinancial Assessment.  \nFull details of how we work out how much you will pay are in the \nAdult \nSocial Care Charging Policy (PDF 238KB) . \nAfter your assessment we will send you a letter to explain the result.  \nIf you are  eligible for financial assistance to pay for care and support, the \ncouncil can arrange services for you. Alternatively, you can choose to \nreceive Direct Payments  and arrange the services yourself.   You can \nfind out more about Direct Payments on page 6 . \nPaying for care in your own  home",
+      "metadata": {
+        "chunk_id": 1,
+        "contains_financial_info": true,
+        "download_url": "https://www.cambridgeshire.gov.uk/asset-library/Paying-for-care.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Paying-for-care.pdf",
+        "financial_pages": "[1, 2, 3, 4, 5, 6, 7, 8]",
+        "level": "level_1",
+        "page_count": 8,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8]",
+        "source": "https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets",
+        "source_url": "https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets",
+        "total_chunks": 19,
+        "type": "pdf"
+      },
+      "id": "975e5277-ee7d-47e4-b1df-c777f05f08d6",
+      "distance": 0.45640406012535095,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.21307878196239471,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 12 - FINANCIAL/BUDGET INFORMATION]\n \n \n12 | Cambridgeshire County Council \u2013 If you need care and support when you leave hospital  - Easy Read | \nAugust 2024 \n Pictures  Words  \n Advance Statement  - Information about you, your \nlifestyle, and the care you would prefer to receive.  \nAdvance Decision  - Details of any treatments you \ndo not want to receive.  \n \n \n \n \n \n You can find out more for Cambridgeshire on \nwww.cambridgeshire.gov.uk  and searching for \n\u2018mental capacity\u2019.  \n \nFinancial support from the NHS  \nPictures  Words  \n You may be able to get NHS Continuing \nHealthcare . \n  This is money that comes from the NHS to pay for your care and support. You must meet certain requirements to get this money.  \n You can find out more on www.nhs.uk\n and search \nfor \u2018NHS Continuing Healthcare\u2019.",
+      "metadata": {
+        "chunk_id": 11,
+        "contains_financial_info": true,
+        "download_url": "https://www.cambridgeshire.gov.uk/asset-library/Care-and-support-when-you-leave-hospital-Easy-Read.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Care-and-support-when-you-leave-hospital-Easy-Read.pdf",
+        "financial_pages": "[3, 12]",
+        "level": "level_2",
+        "page_count": 13,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]",
+        "source": "https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets",
+        "source_url": "https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets",
+        "total_chunks": 13,
+        "type": "pdf"
+      },
+      "id": "560ddb28-fc53-491c-aeb5-20916534bcfd",
+      "distance": 0.5102351903915405,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.19692944288253783,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 12 - FINANCIAL/BUDGET INFORMATION]\n \n \n12 | Cambridgeshire County Council \u2013 If you need care and support when you leave hospital  - Easy Read | \nAugust 2024 \n Pictures  Words  \n Advance Statement  - Information about you, your \nlifestyle, and the care you would prefer to receive.  \nAdvance Decision  - Details of any treatments you \ndo not want to receive.  \n \n \n \n \n \n You can find out more for Cambridgeshire on \nwww.cambridgeshire.gov.uk  and searching for \n\u2018mental capacity\u2019.  \n \nFinancial support from the NHS  \nPictures  Words  \n You may be able to get NHS Continuing \nHealthcare . \n  This is money that comes from the NHS to pay for your care and support. You must meet certain requirements to get this money.  \n You can find out more on www.nhs.uk\n and search \nfor \u2018NHS Continuing Healthcare\u2019.",
+      "metadata": {
+        "chunk_id": 11,
+        "contains_financial_info": true,
+        "download_url": "https://www.cambridgeshire.gov.uk/asset-library/Care-and-support-when-you-leave-hospital-Easy-Read.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Care-and-support-when-you-leave-hospital-Easy-Read.pdf",
+        "financial_pages": "[3, 12]",
+        "level": "level_1",
+        "page_count": 13,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]",
+        "source": "https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets",
+        "source_url": "https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets",
+        "total_chunks": 13,
+        "type": "pdf"
+      },
+      "id": "9ed47410-faad-4801-a7c6-d5f643b42233",
+      "distance": 0.5102351903915405,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.19692944288253783,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 4 - FINANCIAL/BUDGET INFORMATION]\n \n \n4 | Cambridgeshire County Council \u2013 Find out if you can get help from ASC  - Easy Read | July  2024 \n Pictures  Words  \n \n \n To get help from the council you need to meet \nsomething called Eligibility Criteria. \nEligibility Criteria  are a set of rules that the council \nuses to check if you can have council support.  \n To be able to get help from the council the Care Act \n2014  says you must have a physical or mental \nimpairment or illness.  \nThe Care Act 2014 considers a learning disability as \na \u2018mental impairment\u2019.  \n If you want to arrange and pay for your care and \nsupport yourself, you do not need to talk to the council.  \nBut the council m ay still be able to help you get the \nbest price for your care and support.  \n If you have more than \u00a323,250, you will have to pay \nfor your care and support yourself.  \n This is called being a self-funder .",
+      "metadata": {
+        "chunk_id": 3,
+        "contains_financial_info": true,
+        "download_url": "https://www.cambridgeshire.gov.uk/asset-library/Can-you-get-help-from-Adult-Social-Care-Easy-Read.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Can-you-get-help-from-Adult-Social-Care-Easy-Read.pdf",
+        "financial_pages": "[4]",
+        "level": "level_2",
+        "page_count": 5,
+        "pages_with_content": "[1, 2, 3, 4, 5]",
+        "source": "https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets",
+        "source_url": "https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets",
+        "total_chunks": 5,
+        "type": "pdf"
+      },
+      "id": "108f9fa8-8f51-4372-9bee-82a5c11e9ed9",
+      "distance": 0.5144715905189514,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.19565852284431456,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    }
+  ],
+  "context": "[Document 1] From https://www (pdf) - URL: https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets - 7 pages [Retrieved via: semantic_original]:\n[Page 2 - FINANCIAL/BUDGET INFORMATION]\n \n \n2 | Cambridgeshire County Council \u2013  Paying for care - Easy Read | April  2025  \n Pictures  Words  \n Eligible  for care and support  means that we have \nlooked at your needs and agree that you need \nsupport.  \n A Financial Assessment  is when the council looks \nat how much money you have.  \n \nThis is to see if you need to pay for your care and \nsupport.  \n The government says if you have more than \u00a323,250 \nin savings and assets , then you need to pay for the \nfull cost of your care and support . \n If you have less than \u00a323,250  in savings and assets, \nthen the council may pay some money towards the cost of your care and support.\n\n[Document 2] From https://www (pdf) - URL: https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets - 7 pages [Retrieved via: semantic_original]:\n[Page 2 - FINANCIAL/BUDGET INFORMATION]\n \n \n2 | Cambridgeshire County Council \u2013  Paying for care - Easy Read | April  2025  \n Pictures  Words  \n Eligible  for care and support  means that we have \nlooked at your needs and agree that you need \nsupport.  \n A Financial Assessment  is when the council looks \nat how much money you have.  \n \nThis is to see if you need to pay for your care and \nsupport.  \n The government says if you have more than \u00a323,250 \nin savings and assets , then you need to pay for the \nfull cost of your care and support . \n If you have less than \u00a323,250  in savings and assets, \nthen the council may pay some money towards the cost of your care and support.\n\n[Document 3] From https://www (pdf) - URL: https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets - 6 pages [Retrieved via: semantic_original]:\n[Page 6 - FINANCIAL/BUDGET INFORMATION]\n \n6 | Cambridgeshire County Council \u2013  What happens if you need care and support when you leave \nhospital ? | August  2024  \n Can I get any financial help from the NHS?  \nIn some circumstances, people with long- term complex health needs \nmay qualify for care funded by the NHS. This is called NHS Continuing \nHealthcare funding. You can find out more information by looking at \nwww.nhs.uk and searching \u2018NHS Continuing Healthcare\u2019 .  \n \nTo find out more:   \nCambridgeshire County Council  \n \nTelephone: 0345 045 5202  \n \nEmail: careinfo@cambridgeshire.gov.uk  \n \nWebsite: www.cambridgeshire.gov.uk/residents/adults\n\n[Document 4] From https://www (pdf) - URL: https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets - 6 pages [Retrieved via: semantic_original]:\n[Page 6 - FINANCIAL/BUDGET INFORMATION]\n \n6 | Cambridgeshire County Council \u2013  What happens if you need care and support when you leave \nhospital ? | August  2024  \n Can I get any financial help from the NHS?  \nIn some circumstances, people with long- term complex health needs \nmay qualify for care funded by the NHS. This is called NHS Continuing \nHealthcare funding. You can find out more information by looking at \nwww.nhs.uk and searching \u2018NHS Continuing Healthcare\u2019 .  \n \nTo find out more:   \nCambridgeshire County Council  \n \nTelephone: 0345 045 5202  \n \nEmail: careinfo@cambridgeshire.gov.uk  \n \nWebsite: www.cambridgeshire.gov.uk/residents/adults\n\n[Document 5] From https://www (web_page) - URL: https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/paying-for-care/direct-payments-for-adults-and-older-people [Retrieved via: semantic_original]:\n. This is called a Direct Payment. Am I eligible? Direct Payments are available to people who qualify for support from us and who are either: aged 16 or over with a physical disability, learning disability, visual impairment, HIV Aids, mental health issues, or within the Autistic spectrum people over 65 parent/carers of disabled children (find out more about Direct Payments for children in Cambridgeshire ) We will carry out an assessment , then find out what you want to achieve. We will then look with you at the ways your needs could be best supported. This will be written down in a document called a support plan . We will allocate you a level of budget that is calculated be enough to meet your level of needs, this is referred to as a Personal Budget. Your Personal Budget will be made up of the amount we financially assess you as being able to cover yourself plus any contribution the Council might make\n\n[Document 6] From https://www (pdf) - URL: https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets - 8 pages [Retrieved via: semantic_original]:\n[Page 2 - FINANCIAL/BUDGET INFORMATION]\n   \n \n2 | Cambridgeshire County Council \u2013 Paying for care  | April  2025 \n If you are assessed as needing to pay for your care and support, you will \nneed to start putting money aside for when you receive invoices from the \ncouncil.   Some types of income, such as money from certain disability  \nbenefits and pensions, and certain types of capital, may not be counted in the Financial Assessment.  This will be explained further at your \nFinancial Assessment.  \nFull details of how we work out how much you will pay are in the \nAdult \nSocial Care Charging Policy (PDF 238KB) . \nAfter your assessment we will send you a letter to explain the result.  \nIf you are  eligible for financial assistance to pay for care and support, the \ncouncil can arrange services for you. Alternatively, you can choose to \nreceive Direct Payments  and arrange the services yourself.   You can \nfind out more about Direct Payments on page 6 . \nPaying for care in your own  home\n\n[Document 7] From https://www (pdf) - URL: https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets - 8 pages [Retrieved via: semantic_original]:\n[Page 2 - FINANCIAL/BUDGET INFORMATION]\n   \n \n2 | Cambridgeshire County Council \u2013 Paying for care  | April  2025 \n If you are assessed as needing to pay for your care and support, you will \nneed to start putting money aside for when you receive invoices from the \ncouncil.   Some types of income, such as money from certain disability  \nbenefits and pensions, and certain types of capital, may not be counted in the Financial Assessment.  This will be explained further at your \nFinancial Assessment.  \nFull details of how we work out how much you will pay are in the \nAdult \nSocial Care Charging Policy (PDF 238KB) . \nAfter your assessment we will send you a letter to explain the result.  \nIf you are  eligible for financial assistance to pay for care and support, the \ncouncil can arrange services for you. Alternatively, you can choose to \nreceive Direct Payments  and arrange the services yourself.   You can \nfind out more about Direct Payments on page 6 . \nPaying for care in your own  home\n\n[Document 8] From https://www (pdf) - URL: https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets - 13 pages [Retrieved via: semantic_original]:\n[Page 12 - FINANCIAL/BUDGET INFORMATION]\n \n \n12 | Cambridgeshire County Council \u2013 If you need care and support when you leave hospital  - Easy Read | \nAugust 2024 \n Pictures  Words  \n Advance Statement  - Information about you, your \nlifestyle, and the care you would prefer to receive.  \nAdvance Decision  - Details of any treatments you \ndo not want to receive.  \n \n \n \n \n \n You can find out more for Cambridgeshire on \nwww.cambridgeshire.gov.uk  and searching for \n\u2018mental capacity\u2019.  \n \nFinancial support from the NHS  \nPictures  Words  \n You may be able to get NHS Continuing \nHealthcare . \n  This is money that comes from the NHS to pay for your care and support. You must meet certain requirements to get this money.  \n You can find out more on www.nhs.uk\n and search \nfor \u2018NHS Continuing Healthcare\u2019.\n\n[Document 9] From https://www (pdf) - URL: https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets - 13 pages [Retrieved via: semantic_original]:\n[Page 12 - FINANCIAL/BUDGET INFORMATION]\n \n \n12 | Cambridgeshire County Council \u2013 If you need care and support when you leave hospital  - Easy Read | \nAugust 2024 \n Pictures  Words  \n Advance Statement  - Information about you, your \nlifestyle, and the care you would prefer to receive.  \nAdvance Decision  - Details of any treatments you \ndo not want to receive.  \n \n \n \n \n \n You can find out more for Cambridgeshire on \nwww.cambridgeshire.gov.uk  and searching for \n\u2018mental capacity\u2019.  \n \nFinancial support from the NHS  \nPictures  Words  \n You may be able to get NHS Continuing \nHealthcare . \n  This is money that comes from the NHS to pay for your care and support. You must meet certain requirements to get this money.  \n You can find out more on www.nhs.uk\n and search \nfor \u2018NHS Continuing Healthcare\u2019.\n\n[Document 10] From https://www (pdf) - URL: https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets - 5 pages [Retrieved via: semantic_original]:\n[Page 4 - FINANCIAL/BUDGET INFORMATION]\n \n \n4 | Cambridgeshire County Council \u2013 Find out if you can get help from ASC  - Easy Read | July  2024 \n Pictures  Words  \n \n \n To get help from the council you need to meet \nsomething called Eligibility Criteria. \nEligibility Criteria  are a set of rules that the council \nuses to check if you can have council support.  \n To be able to get help from the council the Care Act \n2014  says you must have a physical or mental \nimpairment or illness.  \nThe Care Act 2014 considers a learning disability as \na \u2018mental impairment\u2019.  \n If you want to arrange and pay for your care and \nsupport yourself, you do not need to talk to the council.  \nBut the council m ay still be able to help you get the \nbest price for your care and support.  \n If you have more than \u00a323,250, you will have to pay \nfor your care and support yourself.  \n This is called being a self-funder .\n",
+  "answer": "If your care needs have increased in Cambridgeshire, the council may be able to provide additional financial support, depending on your financial situation and eligibility.\n\n- **Eligibility for Council Support**: You must meet the eligibility criteria set by the council, which involves having a physical or mental impairment or illness as per the Care Act 2014. A financial assessment will also be conducted to determine your ability to pay for care. If you have less than \u00a323,250 in savings and assets, the council may contribute towards your care costs.\n\n- **Financial Assessment**: The council will assess your financial situation to determine if you need to pay for your care. Some types of income, such as certain disability benefits, may not be counted in this assessment. If eligible, the council can arrange services for you or provide Direct Payments for you to arrange services yourself.\n\n- **NHS Continuing Healthcare**: If you have long-term complex health needs, you might qualify for NHS Continuing Healthcare funding. This can cover the cost of care and support if you meet specific requirements.\n\n**Next Steps**:\n- Contact Cambridgeshire County Council for a financial assessment and to discuss your increased care needs. You can reach them at 0345 045 5202 or via email at careinfo@cambridgeshire.gov.uk.\n- Visit [Cambridgeshire County Council's website](https://www.cambridgeshire.gov.uk/residents/adults) for more information on care and support services.\n- For NHS Continuing Healthcare, visit [NHS website](https://www.nhs.uk) and search for 'NHS Continuing Healthcare' for more details. \n\nAccording to the documents, these steps will help you determine if you can receive additional financial support from the council.",
+  "metrics": {
+    "duration_seconds": 13.691932201385498,
+    "retrieved_docs_count": 10,
+    "query_length": 136,
+    "answer_length": 1741,
+    "retrieval_method": "enhanced",
+    "context_utilization": 0.3557312252964427,
+    "citations_count": 3,
+    "has_citations": true,
+    "query_relevance": 0.8125,
+    "unique_retrieval_methods": 1,
+    "budget_documents_retrieved": 9,
+    "retrieval_methods_used": [
+      "semantic_original"
+    ],
+    "retrieval_method_distribution": {
+      "semantic_original": 10
+    }
+  },
+  "local_authority": "cambridgeshire",
+  "query_id": "scn_17",
+  "retrieval_method": "enhanced",
+  "run_id": "c24e9542-4eff-4852-8f30-f160a73c7504",
+  "trace": {
+    "run_id": "c24e9542-4eff-4852-8f30-f160a73c7504",
+    "project": "social_care_rag",
+    "url": "https://eu.smith.langchain.com/o/me/runs/c24e9542-4eff-4852-8f30-f160a73c7504"
+  },
+  "test_metadata": {
+    "local_authority": "cambridgeshire",
+    "query_id": "scn_17",
+    "query_category": "financial_scenarios",
+    "prompt_variation": "optimized",
+    "prompt_template": "\nPlease answer the following question about social care services in UK local authorities based only on the information in the provided documents.\n\nQuestion: {query}\n\nContext from relevant documents:\n{context}\n\nInstructions:\n1. Provide a clear, direct answer that would help someone needing this information. If information isn't available, state: \"The available documents don't provide specific information about [aspect].\"\n\n2. Synthesize information from ALL relevant documents to provide the most complete answer rather than analyzing documents individually.\n\n3. Structure your response with:\n   - A concise 1-2 sentence summary first\n   - Relevant details organized in short, clear paragraphs\n   - Bullet points for lists or step-by-step information\n   - Bold text for key information the user should notice\n\n4. For financial information:\n   - Include exact figures, time periods, and what the funding covers\n   - Present financial data clearly: \"The adult social care budget is **\u00a3X million** for [time period]\"\n\n5. Always include practical next steps or resources:\n   - Provide contact information, URLs, or application methods mentioned in the documents\n   - Suggest where the person could find more information\n\n6. When citing sources, use a simple format: \"According to [document name/description]\" or include URLs where available.\n\nAnswer:\n",
+    "processing_time": 13.698024988174438,
+    "timestamp": "2025-08-19T13:24:15.260499",
+    "top_k": 10
+  }
+}

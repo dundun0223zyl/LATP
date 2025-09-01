@@ -1,0 +1,323 @@
+{
+  "query": "My husband has advanced dementia and I'm his full-time carer in kent. I'm exhausted and need support. What are my options?",
+  "retrieved_documents": [
+    {
+      "content": "(see \u2018Help for carers\u2019 section below)\n3) Connect with your community  \u2013 You can find links to community   \n organisations on our Kent Connect to Support website and directory:   \n kent.connecttosupport.org\n4) Tell your employer  about your caring responsibilities so that you can   \n look at options available to help\n5) Check what benefits you may be entitled to\n6) Make sure the person you look after is accessing any funding they   \n are eligible for\n7) Check that the person you care for has had a care needs assessment\n8) See if the person you care for could benefit from adaptations in their   \n home or any other useful technology  to keep them well and supported \n9) Ask for support  and prioritise your own health  \n and mental wellbeing\nMore information on all of the above is available  \non our website.",
+      "metadata": {
+        "chunk_id": 4,
+        "contains_financial_info": true,
+        "download_url": "https://www.kent.gov.uk/__data/assets/pdf_file/0010/213976/Someones-Listening-leaflet-for-carers.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Someones-Listening-leaflet-for-carers.pdf",
+        "financial_pages": "[1, 3]",
+        "level": "level_2",
+        "page_count": 4,
+        "pages_with_content": "[1, 2, 3, 4]",
+        "source": "https://www.kent.gov.uk/social-care-and-health/adult-social-care/care-and-support/caring-for-other-people/supporting-working-carers",
+        "source_url": "https://www.kent.gov.uk/social-care-and-health/adult-social-care/care-and-support/caring-for-other-people/supporting-working-carers",
+        "total_chunks": 7,
+        "type": "pdf"
+      },
+      "id": "a2bae97b-c0cd-4259-9dcc-d4625f3a20b4",
+      "distance": 0.6525164246559143,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1542450726032257,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 13 - FINANCIAL/BUDGET INFORMATION]\n   \n \nYour guide to Kent adult social care 202 4  13 \n Nursing homes and/or dementia care homes  \n \nThese are homes which offer a higher level of personal care and may \nhave a qualified nurse on duty at all times. They often have more staff \nthan residential homes. They are for people who are too frail or sick to \nlive alone, but not ill enough to need hosp ital care.  \nIf you have a disability, long -term illness or mental health condition, you \nmight choose to go into a care home that includes specially trained staff \nor adapted facilities. Examples of specialist care homes include those \nthat offer support with Parkinson\u2019s  disease care, Huntington\u2019s disease \ncare, palliative (end -of-life) or hospice care, dementia care, learning \ndisability care.  \nFor more information:  www.kent.gov.uk/careandsupport  \n \nServices for people with learning disabilities  \n \nKCC has a network of learning disability services across the county.",
+      "metadata": {
+        "chunk_id": 28,
+        "contains_financial_info": true,
+        "download_url": "https://www.kent.gov.uk/__data/assets/pdf_file/0003/17616/Your-guide-to-adult-social-care-in-Kent.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Your-guide-to-adult-social-care-in-Kent.pdf",
+        "financial_pages": "[5, 6, 8, 10, 13, 15, 17, 23, 24, 25, 29, 30, 31, 32, 33, 37]",
+        "level": "level_2",
+        "page_count": 39,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39]",
+        "source": "https://www.kent.gov.uk/social-care-and-health/adult-social-care",
+        "source_url": "https://www.kent.gov.uk/social-care-and-health/adult-social-care",
+        "total_chunks": 72,
+        "type": "pdf"
+      },
+      "id": "09e0db72-02a1-42b5-88df-161ac09ed628",
+      "distance": 0.6834282279014587,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1449715316295624,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 13 - FINANCIAL/BUDGET INFORMATION]\n   \n \nYour guide to Kent adult social care 202 4  13 \n Nursing homes and/or dementia care homes  \n \nThese are homes which offer a higher level of personal care and may \nhave a qualified nurse on duty at all times. They often have more staff \nthan residential homes. They are for people who are too frail or sick to \nlive alone, but not ill enough to need hosp ital care.  \nIf you have a disability, long -term illness or mental health condition, you \nmight choose to go into a care home that includes specially trained staff \nor adapted facilities. Examples of specialist care homes include those \nthat offer support with Parkinson\u2019s  disease care, Huntington\u2019s disease \ncare, palliative (end -of-life) or hospice care, dementia care, learning \ndisability care.  \nFor more information:  www.kent.gov.uk/careandsupport  \n \nServices for people with learning disabilities  \n \nKCC has a network of learning disability services across the county.",
+      "metadata": {
+        "chunk_id": 28,
+        "contains_financial_info": true,
+        "download_url": "https://www.kent.gov.uk/__data/assets/pdf_file/0003/17616/Your-guide-to-adult-social-care-in-Kent.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Your-guide-to-adult-social-care-in-Kent.pdf",
+        "financial_pages": "[5, 6, 8, 10, 13, 15, 17, 23, 24, 25, 29, 30, 31, 32, 33, 37]",
+        "level": "level_0",
+        "page_count": 39,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39]",
+        "source": "https://www.kent.gov.uk/social-care-and-health/adult-social-care",
+        "source_url": "https://www.kent.gov.uk/social-care-and-health/adult-social-care",
+        "total_chunks": 72,
+        "type": "pdf"
+      },
+      "id": "c6775bfb-47df-4b2b-afb8-367189448670",
+      "distance": 0.6834282279014587,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1449715316295624,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 2 - FINANCIAL/BUDGET INFORMATION]\nIntroduction \nAt Kent County Council, our priority is to work together with our partner s to drive the best possible \noutcomes for people in Kent now and in the future \u2013 keeping people at the heart of what we do and \nallowing us to make a difference every day. We have a responsibility to support adults with specific \nneeds to live independent and fulfilled lives based upon what is important to them and keeps them \nsafe. We do this by putting the person first, listening, and giving information, advice and guidance \nto help people at different life stages as well as providing and commissioning support and services. \nThis is wider than older person\u2019s care homes and the 18+ domiciliary care market, and covers \ncommunity -based preventative services, wellbeing services and accommodation-based services \nfor people with a physical disability, people with a learning disability, people with autism  and people \nwith mental health issues, as well as older people.",
+      "metadata": {
+        "chunk_id": 1,
+        "contains_financial_info": true,
+        "download_url": "https://www.kent.gov.uk/__data/assets/pdf_file/0003/148836/Market-Sustainability-Plan.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Market-Sustainability-Plan.pdf",
+        "financial_pages": "[2, 3, 4, 5, 6, 7, 8, 9, 10]",
+        "level": "level_1",
+        "page_count": 11,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]",
+        "source": "https://www.kent.gov.uk/social-care-and-health/adult-social-care/social-care-reform",
+        "source_url": "https://www.kent.gov.uk/social-care-and-health/adult-social-care/social-care-reform",
+        "total_chunks": 44,
+        "type": "pdf"
+      },
+      "id": "1e7e1511-cab1-4047-bf4a-822a943ec80f",
+      "distance": 0.6875452636112649,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.14373642091662053,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 29 - FINANCIAL/BUDGET INFORMATION]\n   \n \nYour guide to Kent adult social care 202 4  29 \n  \nDementia Support  \n \nAlzheimer\u2019s Society  \nwww.alzheimers.org.uk  \n0333 150 3456  \n \nDementia UK  \nwww.dementiauk.org  \n0800 888 6678  \n \ne \n \nEmployment  \n \nJob Centre Plus  \nHelp to find work and benefits advice.  \nwww.gov.uk/jobsearch  \n \nKent Supported Employment  \nSupport and advice for disabled people to find employment. Includes CV \nwriting skills, completing job applications, work experience, job coaching, \ninterview skills.  \nwww.kent.gov.uk/jobs  \n \nf \nFinance",
+      "metadata": {
+        "chunk_id": 57,
+        "contains_financial_info": true,
+        "download_url": "https://www.kent.gov.uk/__data/assets/pdf_file/0003/17616/Your-guide-to-adult-social-care-in-Kent.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Your-guide-to-adult-social-care-in-Kent.pdf",
+        "financial_pages": "[5, 6, 8, 10, 13, 15, 17, 23, 24, 25, 29, 30, 31, 32, 33, 37]",
+        "level": "level_2",
+        "page_count": 39,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39]",
+        "source": "https://www.kent.gov.uk/social-care-and-health/adult-social-care",
+        "source_url": "https://www.kent.gov.uk/social-care-and-health/adult-social-care",
+        "total_chunks": 72,
+        "type": "pdf"
+      },
+      "id": "e41736e0-98d5-48da-aa11-4a1719130b37",
+      "distance": 0.6990354657173157,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1402893602848053,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 29 - FINANCIAL/BUDGET INFORMATION]\n   \n \nYour guide to Kent adult social care 202 4  29 \n  \nDementia Support  \n \nAlzheimer\u2019s Society  \nwww.alzheimers.org.uk  \n0333 150 3456  \n \nDementia UK  \nwww.dementiauk.org  \n0800 888 6678  \n \ne \n \nEmployment  \n \nJob Centre Plus  \nHelp to find work and benefits advice.  \nwww.gov.uk/jobsearch  \n \nKent Supported Employment  \nSupport and advice for disabled people to find employment. Includes CV \nwriting skills, completing job applications, work experience, job coaching, \ninterview skills.  \nwww.kent.gov.uk/jobs  \n \nf \nFinance",
+      "metadata": {
+        "chunk_id": 57,
+        "contains_financial_info": true,
+        "download_url": "https://www.kent.gov.uk/__data/assets/pdf_file/0003/17616/Your-guide-to-adult-social-care-in-Kent.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Your-guide-to-adult-social-care-in-Kent.pdf",
+        "financial_pages": "[5, 6, 8, 10, 13, 15, 17, 23, 24, 25, 29, 30, 31, 32, 33, 37]",
+        "level": "level_0",
+        "page_count": 39,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39]",
+        "source": "https://www.kent.gov.uk/social-care-and-health/adult-social-care",
+        "source_url": "https://www.kent.gov.uk/social-care-and-health/adult-social-care",
+        "total_chunks": 72,
+        "type": "pdf"
+      },
+      "id": "83b153b2-450e-47de-a722-34909be7fc37",
+      "distance": 0.6990354657173157,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1402893602848053,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Care and support How to get adult social care support How to access the support some adults need to live as well as possible with any illness or disability they may have. Manage your own care and wellbeing Use our Connect to Support website to get information and advice about care and support you can access yourself in your community. Live safe and well at home Meals on wheels, help after leaving hospital, equipment, home care services and other support to live at home. Caring for other people Help and support for those who regularly care for another person in Kent. Disability Services for people in Kent with a disability. Transport for older and disabled people Many people make their own travel arrangements. For some people transport may be part of their care needs. Dementia Friendly Kent Awards Learn more about the Dementia Friendly Kent Awards. Befriending Befriending can reduce loneliness and isolation in older people, find support near you",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.kent.gov.uk_social-care-and-health_adult-social-care_care-and-support.txt",
+        "level": "level_1",
+        "source": "https://www.kent.gov.uk/social-care-and-health/adult-social-care/care-and-support",
+        "source_url": "https://www.kent.gov.uk/social-care-and-health/adult-social-care/care-and-support",
+        "total_chunks": 3,
+        "type": "web_page"
+      },
+      "id": "c3d41230-3cb6-4c70-96a5-95ef5d8709f1",
+      "distance": 0.7173454165458679,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.13479637503623962,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 2]\n   \n \nYour guide to Kent adult social care 202 4  2 \n About this booklet  \n \nThis booklet tells you about what support you and your carer can get \nfrom adult social services in Kent.  \nWe include information on needs assessments, carer\u2019s assessments \nand what care and support is available to enable you to live a life which \nis as full and independent as possible.  \nThere is also a section on useful contacts for other organisations. This \nwill help you explore other options that you may not thought of, but \nwould have a positive impact on your wellbeing.  \nThis booklet is available in alternative formats and can be explained in \nother languages. Please call:  \nTelephone: 03000 41 61 61  \nText relay: 18001 03000 41 61 61  \n \nKent Connect to Support  \nKent Connect to Support is the place to find information, advice and \nguidance on adult social care in Kent.  \nThere are sections on support in the home and community, caring for \nsomeone, health and wellbeing, housing, getting out and about, money",
+      "metadata": {
+        "chunk_id": 1,
+        "contains_financial_info": true,
+        "download_url": "https://www.kent.gov.uk/__data/assets/pdf_file/0003/17616/Your-guide-to-adult-social-care-in-Kent.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Your-guide-to-adult-social-care-in-Kent.pdf",
+        "financial_pages": "[5, 6, 8, 10, 13, 15, 17, 23, 24, 25, 29, 30, 31, 32, 33, 37]",
+        "level": "level_2",
+        "page_count": 39,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39]",
+        "source": "https://www.kent.gov.uk/social-care-and-health/adult-social-care",
+        "source_url": "https://www.kent.gov.uk/social-care-and-health/adult-social-care",
+        "total_chunks": 72,
+        "type": "pdf"
+      },
+      "id": "66ae8824-2576-4865-8f62-31146b762fef",
+      "distance": 0.7383650541305542,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.12849048376083375,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 2]\n   \n \nYour guide to Kent adult social care 202 4  2 \n About this booklet  \n \nThis booklet tells you about what support you and your carer can get \nfrom adult social services in Kent.  \nWe include information on needs assessments, carer\u2019s assessments \nand what care and support is available to enable you to live a life which \nis as full and independent as possible.  \nThere is also a section on useful contacts for other organisations. This \nwill help you explore other options that you may not thought of, but \nwould have a positive impact on your wellbeing.  \nThis booklet is available in alternative formats and can be explained in \nother languages. Please call:  \nTelephone: 03000 41 61 61  \nText relay: 18001 03000 41 61 61  \n \nKent Connect to Support  \nKent Connect to Support is the place to find information, advice and \nguidance on adult social care in Kent.  \nThere are sections on support in the home and community, caring for \nsomeone, health and wellbeing, housing, getting out and about, money",
+      "metadata": {
+        "chunk_id": 1,
+        "contains_financial_info": true,
+        "download_url": "https://www.kent.gov.uk/__data/assets/pdf_file/0003/17616/Your-guide-to-adult-social-care-in-Kent.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Your-guide-to-adult-social-care-in-Kent.pdf",
+        "financial_pages": "[5, 6, 8, 10, 13, 15, 17, 23, 24, 25, 29, 30, 31, 32, 33, 37]",
+        "level": "level_0",
+        "page_count": 39,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39]",
+        "source": "https://www.kent.gov.uk/social-care-and-health/adult-social-care",
+        "source_url": "https://www.kent.gov.uk/social-care-and-health/adult-social-care",
+        "total_chunks": 72,
+        "type": "pdf"
+      },
+      "id": "9419f686-b3a5-4c36-ac58-f59a1bc5c353",
+      "distance": 0.7383650541305542,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.12849048376083375,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". If you\u2019re responsible for taking care of a loved one, whether that\u2019s an adult family member or friend who cannot manage alone, you could be eligible for carer support, advice and guidance. If you think you may be a carer, you can opt for a carers assessment to find out what support you may be eligible for. The council commissions carer support organisations to provide carers assessments across the county. If you live in: west Kent, contact Involve east Kent, contact Carers Support East Kent north Kent, get in touch with Imago . Across Kent, support for young carers is provided by Imago and short breaks are provided by Crossroads . For more information on support for carers and carers assessments visit: Support for carers - Kent County Council Working carers - someone's listening Statistics show that people who juggle their unpaid caring role with paid employment struggle to maintain a balance unless they have a supportive employer and the right information about where to get help",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "news.kent.gov.uk_articles_valuing-kents-working-unpaid-carers.txt",
+        "level": "level_3",
+        "source": "https://news.kent.gov.uk/articles/valuing-kents-working-unpaid-carers",
+        "source_url": "https://news.kent.gov.uk/articles/valuing-kents-working-unpaid-carers",
+        "total_chunks": 11,
+        "type": "web_page"
+      },
+      "id": "ad72e787-f6cd-4972-9a2e-c9b2e74b1ba9",
+      "distance": 0.7583892345428467,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.122483229637146,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    }
+  ],
+  "context": "[Document 1] From https://www (pdf) - URL: https://www.kent.gov.uk/social-care-and-health/adult-social-care/care-and-support/caring-for-other-people/supporting-working-carers - 4 pages [Retrieved via: semantic_original]:\n(see \u2018Help for carers\u2019 section below)\n3) Connect with your community  \u2013 You can find links to community   \n organisations on our Kent Connect to Support website and directory:   \n kent.connecttosupport.org\n4) Tell your employer  about your caring responsibilities so that you can   \n look at options available to help\n5) Check what benefits you may be entitled to\n6) Make sure the person you look after is accessing any funding they   \n are eligible for\n7) Check that the person you care for has had a care needs assessment\n8) See if the person you care for could benefit from adaptations in their   \n home or any other useful technology  to keep them well and supported \n9) Ask for support  and prioritise your own health  \n and mental wellbeing\nMore information on all of the above is available  \non our website.\n\n[Document 2] From https://www (pdf) - URL: https://www.kent.gov.uk/social-care-and-health/adult-social-care - 39 pages [Retrieved via: semantic_original]:\n[Page 13 - FINANCIAL/BUDGET INFORMATION]\n   \n \nYour guide to Kent adult social care 202 4  13 \n Nursing homes and/or dementia care homes  \n \nThese are homes which offer a higher level of personal care and may \nhave a qualified nurse on duty at all times. They often have more staff \nthan residential homes. They are for people who are too frail or sick to \nlive alone, but not ill enough to need hosp ital care.  \nIf you have a disability, long -term illness or mental health condition, you \nmight choose to go into a care home that includes specially trained staff \nor adapted facilities. Examples of specialist care homes include those \nthat offer support with Parkinson\u2019s  disease care, Huntington\u2019s disease \ncare, palliative (end -of-life) or hospice care, dementia care, learning \ndisability care.  \nFor more information:  www.kent.gov.uk/careandsupport  \n \nServices for people with learning disabilities  \n \nKCC has a network of learning disability services across the county.\n\n[Document 3] From https://www (pdf) - URL: https://www.kent.gov.uk/social-care-and-health/adult-social-care - 39 pages [Retrieved via: semantic_original]:\n[Page 13 - FINANCIAL/BUDGET INFORMATION]\n   \n \nYour guide to Kent adult social care 202 4  13 \n Nursing homes and/or dementia care homes  \n \nThese are homes which offer a higher level of personal care and may \nhave a qualified nurse on duty at all times. They often have more staff \nthan residential homes. They are for people who are too frail or sick to \nlive alone, but not ill enough to need hosp ital care.  \nIf you have a disability, long -term illness or mental health condition, you \nmight choose to go into a care home that includes specially trained staff \nor adapted facilities. Examples of specialist care homes include those \nthat offer support with Parkinson\u2019s  disease care, Huntington\u2019s disease \ncare, palliative (end -of-life) or hospice care, dementia care, learning \ndisability care.  \nFor more information:  www.kent.gov.uk/careandsupport  \n \nServices for people with learning disabilities  \n \nKCC has a network of learning disability services across the county.\n\n[Document 4] From https://www (pdf) - URL: https://www.kent.gov.uk/social-care-and-health/adult-social-care/social-care-reform - 11 pages [Retrieved via: semantic_original]:\n[Page 2 - FINANCIAL/BUDGET INFORMATION]\nIntroduction \nAt Kent County Council, our priority is to work together with our partner s to drive the best possible \noutcomes for people in Kent now and in the future \u2013 keeping people at the heart of what we do and \nallowing us to make a difference every day. We have a responsibility to support adults with specific \nneeds to live independent and fulfilled lives based upon what is important to them and keeps them \nsafe. We do this by putting the person first, listening, and giving information, advice and guidance \nto help people at different life stages as well as providing and commissioning support and services. \nThis is wider than older person\u2019s care homes and the 18+ domiciliary care market, and covers \ncommunity -based preventative services, wellbeing services and accommodation-based services \nfor people with a physical disability, people with a learning disability, people with autism  and people \nwith mental health issues, as well as older people.\n\n[Document 5] From https://www (pdf) - URL: https://www.kent.gov.uk/social-care-and-health/adult-social-care - 39 pages [Retrieved via: semantic_original]:\n[Page 29 - FINANCIAL/BUDGET INFORMATION]\n   \n \nYour guide to Kent adult social care 202 4  29 \n  \nDementia Support  \n \nAlzheimer\u2019s Society  \nwww.alzheimers.org.uk  \n0333 150 3456  \n \nDementia UK  \nwww.dementiauk.org  \n0800 888 6678  \n \ne \n \nEmployment  \n \nJob Centre Plus  \nHelp to find work and benefits advice.  \nwww.gov.uk/jobsearch  \n \nKent Supported Employment  \nSupport and advice for disabled people to find employment. Includes CV \nwriting skills, completing job applications, work experience, job coaching, \ninterview skills.  \nwww.kent.gov.uk/jobs  \n \nf \nFinance\n\n[Document 6] From https://www (pdf) - URL: https://www.kent.gov.uk/social-care-and-health/adult-social-care - 39 pages [Retrieved via: semantic_original]:\n[Page 29 - FINANCIAL/BUDGET INFORMATION]\n   \n \nYour guide to Kent adult social care 202 4  29 \n  \nDementia Support  \n \nAlzheimer\u2019s Society  \nwww.alzheimers.org.uk  \n0333 150 3456  \n \nDementia UK  \nwww.dementiauk.org  \n0800 888 6678  \n \ne \n \nEmployment  \n \nJob Centre Plus  \nHelp to find work and benefits advice.  \nwww.gov.uk/jobsearch  \n \nKent Supported Employment  \nSupport and advice for disabled people to find employment. Includes CV \nwriting skills, completing job applications, work experience, job coaching, \ninterview skills.  \nwww.kent.gov.uk/jobs  \n \nf \nFinance\n\n[Document 7] From https://www (web_page) - URL: https://www.kent.gov.uk/social-care-and-health/adult-social-care/care-and-support [Retrieved via: semantic_original]:\nCare and support How to get adult social care support How to access the support some adults need to live as well as possible with any illness or disability they may have. Manage your own care and wellbeing Use our Connect to Support website to get information and advice about care and support you can access yourself in your community. Live safe and well at home Meals on wheels, help after leaving hospital, equipment, home care services and other support to live at home. Caring for other people Help and support for those who regularly care for another person in Kent. Disability Services for people in Kent with a disability. Transport for older and disabled people Many people make their own travel arrangements. For some people transport may be part of their care needs. Dementia Friendly Kent Awards Learn more about the Dementia Friendly Kent Awards. Befriending Befriending can reduce loneliness and isolation in older people, find support near you\n\n[Document 8] From https://www (pdf) - URL: https://www.kent.gov.uk/social-care-and-health/adult-social-care - 39 pages [Retrieved via: semantic_original]:\n[Page 2]\n   \n \nYour guide to Kent adult social care 202 4  2 \n About this booklet  \n \nThis booklet tells you about what support you and your carer can get \nfrom adult social services in Kent.  \nWe include information on needs assessments, carer\u2019s assessments \nand what care and support is available to enable you to live a life which \nis as full and independent as possible.  \nThere is also a section on useful contacts for other organisations. This \nwill help you explore other options that you may not thought of, but \nwould have a positive impact on your wellbeing.  \nThis booklet is available in alternative formats and can be explained in \nother languages. Please call:  \nTelephone: 03000 41 61 61  \nText relay: 18001 03000 41 61 61  \n \nKent Connect to Support  \nKent Connect to Support is the place to find information, advice and \nguidance on adult social care in Kent.  \nThere are sections on support in the home and community, caring for \nsomeone, health and wellbeing, housing, getting out and about, money\n\n[Document 9] From https://www (pdf) - URL: https://www.kent.gov.uk/social-care-and-health/adult-social-care - 39 pages [Retrieved via: semantic_original]:\n[Page 2]\n   \n \nYour guide to Kent adult social care 202 4  2 \n About this booklet  \n \nThis booklet tells you about what support you and your carer can get \nfrom adult social services in Kent.  \nWe include information on needs assessments, carer\u2019s assessments \nand what care and support is available to enable you to live a life which \nis as full and independent as possible.  \nThere is also a section on useful contacts for other organisations. This \nwill help you explore other options that you may not thought of, but \nwould have a positive impact on your wellbeing.  \nThis booklet is available in alternative formats and can be explained in \nother languages. Please call:  \nTelephone: 03000 41 61 61  \nText relay: 18001 03000 41 61 61  \n \nKent Connect to Support  \nKent Connect to Support is the place to find information, advice and \nguidance on adult social care in Kent.  \nThere are sections on support in the home and community, caring for \nsomeone, health and wellbeing, housing, getting out and about, money\n\n[Document 10] From https://news (web_page) - URL: https://news.kent.gov.uk/articles/valuing-kents-working-unpaid-carers [Retrieved via: semantic_original]:\n. If you\u2019re responsible for taking care of a loved one, whether that\u2019s an adult family member or friend who cannot manage alone, you could be eligible for carer support, advice and guidance. If you think you may be a carer, you can opt for a carers assessment to find out what support you may be eligible for. The council commissions carer support organisations to provide carers assessments across the county. If you live in: west Kent, contact Involve east Kent, contact Carers Support East Kent north Kent, get in touch with Imago . Across Kent, support for young carers is provided by Imago and short breaks are provided by Crossroads . For more information on support for carers and carers assessments visit: Support for carers - Kent County Council Working carers - someone's listening Statistics show that people who juggle their unpaid caring role with paid employment struggle to maintain a balance unless they have a supportive employer and the right information about where to get help\n",
+  "answer": "As a full-time carer for your husband with advanced dementia in Kent, you have several support options available to help alleviate your exhaustion and provide necessary assistance.\n\n**Key Steps and Resources:**\n\n- **Carer's Assessment:** You can request a carer's assessment to determine what support you may be eligible for. This assessment can help identify services and resources that can support you in your caregiving role. Contact Carers Support East Kent if you are in East Kent, or Imago for North Kent. More information can be found on the [Support for carers - Kent County Council](https://www.kent.gov.uk/social-care-and-health/adult-social-care/care-and-support/caring-for-other-people/supporting-working-carers).\n\n- **Community Support:** Utilize the Kent Connect to Support website ([kent.connecttosupport.org](https://kent.connecttosupport.org)) to find local community organizations that can offer support and resources tailored to your needs.\n\n- **Dementia Support Services:** Reach out to organizations like the Alzheimer's Society (0333 150 3456) and Dementia UK (0800 888 6678) for specialized support and advice regarding dementia care.\n\n- **Health and Wellbeing:** Prioritize your own health and mental wellbeing by seeking support. This could include respite care options to give you a break from caregiving duties.\n\n- **Financial and Home Adaptations:** Ensure your husband has had a care needs assessment to access any eligible funding or home adaptations that could make caregiving easier.\n\n**Practical Next Steps:**\n\n1. **Contact for Carer's Assessment:** Reach out to the appropriate organization based on your location in Kent for a carer's assessment.\n2. **Explore Community Resources:** Visit the Kent Connect to Support website to find local support services.\n3. **Reach Out to Dementia Organizations:** Contact the Alzheimer's Society or Dementia UK for additional support and resources.\n\nBy taking these steps, you can access the support you need to manage your caregiving responsibilities more effectively.",
+  "metrics": {
+    "duration_seconds": 16.752602100372314,
+    "retrieved_docs_count": 10,
+    "query_length": 122,
+    "answer_length": 2041,
+    "retrieval_method": "enhanced",
+    "context_utilization": 0.25340599455040874,
+    "citations_count": 0,
+    "has_citations": false,
+    "query_relevance": 0.8823529411764706,
+    "unique_retrieval_methods": 1,
+    "budget_documents_retrieved": 8,
+    "retrieval_methods_used": [
+      "semantic_original"
+    ],
+    "retrieval_method_distribution": {
+      "semantic_original": 10
+    }
+  },
+  "local_authority": "kent",
+  "query_id": "scn_15",
+  "retrieval_method": "enhanced",
+  "run_id": "8aecd505-ef80-4ebe-8a3f-36c561f282e6",
+  "trace": {
+    "run_id": "8aecd505-ef80-4ebe-8a3f-36c561f282e6",
+    "project": "social_care_rag",
+    "url": "https://eu.smith.langchain.com/o/me/runs/8aecd505-ef80-4ebe-8a3f-36c561f282e6"
+  },
+  "test_metadata": {
+    "local_authority": "kent",
+    "query_id": "scn_15",
+    "query_category": "carer_support_scenarios",
+    "prompt_variation": "optimized",
+    "prompt_template": "\nPlease answer the following question about social care services in UK local authorities based only on the information in the provided documents.\n\nQuestion: {query}\n\nContext from relevant documents:\n{context}\n\nInstructions:\n1. Provide a clear, direct answer that would help someone needing this information. If information isn't available, state: \"The available documents don't provide specific information about [aspect].\"\n\n2. Synthesize information from ALL relevant documents to provide the most complete answer rather than analyzing documents individually.\n\n3. Structure your response with:\n   - A concise 1-2 sentence summary first\n   - Relevant details organized in short, clear paragraphs\n   - Bullet points for lists or step-by-step information\n   - Bold text for key information the user should notice\n\n4. For financial information:\n   - Include exact figures, time periods, and what the funding covers\n   - Present financial data clearly: \"The adult social care budget is **\u00a3X million** for [time period]\"\n\n5. Always include practical next steps or resources:\n   - Provide contact information, URLs, or application methods mentioned in the documents\n   - Suggest where the person could find more information\n\n6. When citing sources, use a simple format: \"According to [document name/description]\" or include URLs where available.\n\nAnswer:\n",
+    "processing_time": 16.756242752075195,
+    "timestamp": "2025-08-19T13:49:18.609561",
+    "top_k": 10
+  }
+}

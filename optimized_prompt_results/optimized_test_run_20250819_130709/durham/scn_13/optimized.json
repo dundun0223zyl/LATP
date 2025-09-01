@@ -1,0 +1,275 @@
+{
+  "query": "I work full-time but also care for my elderly father with Parkinson's in durham. What respite care options exist so I can have occasional breaks?",
+  "retrieved_documents": [
+    {
+      "content": ". There are organisations throughout County Durham which provide day activities. Visit Locate - care and support in County Durham to view local services. Short term care (also known as respite care) If you are admitted to a care home for a short period of time, this is known as short term care or respite care. It is helpful in giving you or your carer a break. There are several different services available. Visit Locate - care and support in County Durham to view local services. Hospital Social Work Team Intermediate care provides support, recovery and rehabilitation and can help avoid admission to hospital, support discharge from hospital, avoid premature admission to residential care and help faster recovery from illness. You will need to be referred to this service by your doctor, a social worker or other professional and have an assessment to see if the service is suitable for you",
+      "metadata": {
+        "chunk_id": 13,
+        "filename": "www.durham.gov.uk_article_5654_Find-care-and-support-services.txt",
+        "level": "level_3",
+        "source": "https://www.durham.gov.uk/article/5654/Find-care-and-support-services",
+        "source_url": "https://www.durham.gov.uk/article/5654/Find-care-and-support-services",
+        "total_chunks": 23,
+        "type": "web_page"
+      },
+      "id": "3e6735e5-41bd-43b6-807c-5031da7f784c",
+      "distance": 0.5668269991874695,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.17995190024375918,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". There are organisations throughout County Durham which provide day activities. Visit Locate - care and support in County Durham to view local services. Short term care (also known as respite care) If you are admitted to a care home for a short period of time, this is known as short term care or respite care. It is helpful in giving you or your carer a break. There are several different services available. Visit Locate - care and support in County Durham to view local services. Hospital Social Work Team Intermediate care provides support, recovery and rehabilitation and can help avoid admission to hospital, support discharge from hospital, avoid premature admission to residential care and help faster recovery from illness. You will need to be referred to this service by your doctor, a social worker or other professional and have an assessment to see if the service is suitable for you",
+      "metadata": {
+        "chunk_id": 13,
+        "filename": "www.durham.gov.uk_locate.txt",
+        "level": "level_3",
+        "source": "https://www.durham.gov.uk/locate",
+        "source_url": "https://www.durham.gov.uk/locate",
+        "total_chunks": 23,
+        "type": "web_page"
+      },
+      "id": "025ea70a-d058-418d-81e4-5de9926a3229",
+      "distance": 0.5668269991874695,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.17995190024375918,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Visit our Locate - care and support in County Durham website to find support groups near you. Short term (or respite) care Open Short term care can be really helpful to give you, or the person who cares for you, a break. This could be a short stay or respite placement within a care home or other type of placement, or it could be short-term domiciliary care in your own home. Visit our Locate - care and support in County Durham website to find details of the different short term breaks\u00a0and domiciliary care services available. You can also find information about Carers breaks on the Durham Carers Infopoint website. Intermediate care - to help with recovery or rehabilitation Open Intermediate care is a short-term free service and could be from 1 day up to a maximum of 6 weeks. It is designed to help you recover and increase your independence in your own home. This could be provided at home, in a care home or in a community hospital - depending on your needs",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.durham.gov.uk_article_5674_Care-services-outside-your-home.txt",
+        "level": "level_3",
+        "source": "https://www.durham.gov.uk/article/5674/Care-services-outside-your-home",
+        "source_url": "https://www.durham.gov.uk/article/5674/Care-services-outside-your-home",
+        "total_chunks": 5,
+        "type": "web_page"
+      },
+      "id": "3b174b5b-61a3-444f-8514-0f944fdad29a",
+      "distance": 0.6040719151496887,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.16877842545509336,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Care can involve help in your own home as well as residential or nursing care homes. You may be considering long-term care because you: Are an older person considering getting help with care and support for yourself Have a need to fund care immediately Are a family member, a carer or have Power of Attorney of somebody needing to fund their care Have a child, over 18 or approaching adulthood with disabilities and want to ensure they have financial security after you die Have a disability and want to plan your financial future to make the best use of compensation payments, or if you think your ability to work and support yourself financially may lessen over time Finding care and support If you live in County Durham and think you need care and support, your first step should be to visit Locate - care and support in County Durham . Locate hosts a range of information and advice, including organisations to help you live as independently as you can",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.durham.gov.uk_article_28413_Advice-if-you-are-considering-long-term-care-in-County-Durham.txt",
+        "level": "level_3",
+        "source": "https://www.durham.gov.uk/article/28413/Advice-if-you-are-considering-long-term-care-in-County-Durham",
+        "source_url": "https://www.durham.gov.uk/article/28413/Advice-if-you-are-considering-long-term-care-in-County-Durham",
+        "total_chunks": 13,
+        "type": "web_page"
+      },
+      "id": "55416921-a1a7-4dd4-9439-6f7e885d88e5",
+      "distance": 0.6744866967201233,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.147653990983963,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Note: we will not pay for meals, or their delivery, even if you are eligible for care and support. Sitting and visiting Some organisations and charities provide sitting and visiting services for companionship, support and/or personal care for adults who need care at home.\u00a0These services can also give carers the opportunity to take a break from their caring role. Contact Social Care Direct Email scd@durham.gov.uk Telephone 03000 267 979 Related information Get your care needs assessed \ufeff Offsite links Durham Carers Infopoint Healthwatch County Durham: Home Care Services Report Our regulator: The Care Quality Commission \ufeff A to Z A B C D E F G H I J K L M N O P Q R S T U V W X Y Z",
+      "metadata": {
+        "chunk_id": 5,
+        "filename": "www.durham.gov.uk_article_5660_Equipment-and-services-in-your-home.txt",
+        "level": "level_3",
+        "source": "https://www.durham.gov.uk/article/5660/Equipment-and-services-in-your-home",
+        "source_url": "https://www.durham.gov.uk/article/5660/Equipment-and-services-in-your-home",
+        "total_chunks": 6,
+        "type": "web_page"
+      },
+      "id": "3d530906-f97e-4378-adcc-c6a5c76342c9",
+      "distance": 0.7586203217506409,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.12241390347480774,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Skip to content Care services outside your home Find out about the many local services which provide short periods of care or support away from the home. These services can help with recovery or rehabilitation, give adults regular activities and/or support sessions to attend, or provide families and carers a break from their caring role. Find details of these services on our Locate - care and support in County Durham website. Support groups Open If you feel cut off, or want to talk about everyday problems with people in similar situations to you, a local support group may be able to help.\u00a0\u200bGroups are often self-run with help and advice from voluntary organisations and our social care staff. You might be a carer, a lone parent, an older person or someone with health problems, there are many\u00a0different groups out there. Visit our Locate - care and support in County Durham website to find support groups near you",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.durham.gov.uk_article_5674_Care-services-outside-your-home.txt",
+        "level": "level_3",
+        "source": "https://www.durham.gov.uk/article/5674/Care-services-outside-your-home",
+        "source_url": "https://www.durham.gov.uk/article/5674/Care-services-outside-your-home",
+        "total_chunks": 5,
+        "type": "web_page"
+      },
+      "id": "f8eda51f-49df-4c15-9971-e00b099d2d1e",
+      "distance": 0.7592179775238037,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.12223460674285888,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Care and support can include help with things like getting out of bed, washing, dressing and meal preparation. It may also include emotional support at times of difficulty or stress. Decisions about care and support will usually be made by the individual concerned. This places them in control of the help they receive which enables people to remain well and independent for longer. This information is intended as a guide, to help you if you are looking for care and support services. The information will also assist you if you are considering future care and support needs, including how you will be able to pay for the services you may need in the future. Finding out about care and support If you live in County Durham and think you need care and support, your first step should be to visit our Locate - care and support in County Durham website Locate - care and support in County Durham hosts a range of information and advice, including organisations to help you live as independently as you can",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.durham.gov.uk_article_5654_Find-care-and-support-services.txt",
+        "level": "level_3",
+        "source": "https://www.durham.gov.uk/article/5654/Find-care-and-support-services",
+        "source_url": "https://www.durham.gov.uk/article/5654/Find-care-and-support-services",
+        "total_chunks": 23,
+        "type": "web_page"
+      },
+      "id": "5e20b4f0-50d4-4352-827b-f213e6558bdd",
+      "distance": 0.8017008304595947,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.10948975086212158,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Care and support can include help with things like getting out of bed, washing, dressing and meal preparation. It may also include emotional support at times of difficulty or stress. Decisions about care and support will usually be made by the individual concerned. This places them in control of the help they receive which enables people to remain well and independent for longer. This information is intended as a guide, to help you if you are looking for care and support services. The information will also assist you if you are considering future care and support needs, including how you will be able to pay for the services you may need in the future. Finding out about care and support If you live in County Durham and think you need care and support, your first step should be to visit our Locate - care and support in County Durham website Locate - care and support in County Durham hosts a range of information and advice, including organisations to help you live as independently as you can",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.durham.gov.uk_locate.txt",
+        "level": "level_3",
+        "source": "https://www.durham.gov.uk/locate",
+        "source_url": "https://www.durham.gov.uk/locate",
+        "total_chunks": 23,
+        "type": "web_page"
+      },
+      "id": "8d3fbfd2-5cd9-4741-a451-4ffe176902bc",
+      "distance": 0.8017008304595947,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.10948975086212158,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". If you are concerned about yourself or a family member who appears to be mentally unwell, please contact your GP. Contact Social Care Direct to find out whether integrated health and social care services can offer you any support. Local support groups Many people feel isolated at times. A support group can give you the opportunity to meet new people and give you a chance to talk about everyday issues with others who understand. A break from your usual routine can sometimes help, as can making new friends and taking part in leisure activities. Visit Locate - care and support in County Durham to find groups near you. Day activities Day activities offer a wide range of opportunities for older people and people with disabilities. You can also learn new skills and hobbies, meet other people and a meal may even be provided during your visit. There are organisations throughout County Durham which provide day activities. Visit Locate - care and support in County Durham to view local services",
+      "metadata": {
+        "chunk_id": 12,
+        "filename": "www.durham.gov.uk_article_5654_Find-care-and-support-services.txt",
+        "level": "level_3",
+        "source": "https://www.durham.gov.uk/article/5654/Find-care-and-support-services",
+        "source_url": "https://www.durham.gov.uk/article/5654/Find-care-and-support-services",
+        "total_chunks": 23,
+        "type": "web_page"
+      },
+      "id": "2fe20ae8-e8a8-40cf-ac78-9986bbae48cd",
+      "distance": 0.8048740029335022,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.10853779911994935,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". If you are concerned about yourself or a family member who appears to be mentally unwell, please contact your GP. Contact Social Care Direct to find out whether integrated health and social care services can offer you any support. Local support groups Many people feel isolated at times. A support group can give you the opportunity to meet new people and give you a chance to talk about everyday issues with others who understand. A break from your usual routine can sometimes help, as can making new friends and taking part in leisure activities. Visit Locate - care and support in County Durham to find groups near you. Day activities Day activities offer a wide range of opportunities for older people and people with disabilities. You can also learn new skills and hobbies, meet other people and a meal may even be provided during your visit. There are organisations throughout County Durham which provide day activities. Visit Locate - care and support in County Durham to view local services",
+      "metadata": {
+        "chunk_id": 12,
+        "filename": "www.durham.gov.uk_locate.txt",
+        "level": "level_3",
+        "source": "https://www.durham.gov.uk/locate",
+        "source_url": "https://www.durham.gov.uk/locate",
+        "total_chunks": 23,
+        "type": "web_page"
+      },
+      "id": "da5f9ef4-e21c-4f50-b9ec-6d646888e657",
+      "distance": 0.8048740029335022,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.10853779911994935,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    }
+  ],
+  "context": "[Document 1] From https://www (web_page) - URL: https://www.durham.gov.uk/article/5654/Find-care-and-support-services [Retrieved via: semantic_original]:\n. There are organisations throughout County Durham which provide day activities. Visit Locate - care and support in County Durham to view local services. Short term care (also known as respite care) If you are admitted to a care home for a short period of time, this is known as short term care or respite care. It is helpful in giving you or your carer a break. There are several different services available. Visit Locate - care and support in County Durham to view local services. Hospital Social Work Team Intermediate care provides support, recovery and rehabilitation and can help avoid admission to hospital, support discharge from hospital, avoid premature admission to residential care and help faster recovery from illness. You will need to be referred to this service by your doctor, a social worker or other professional and have an assessment to see if the service is suitable for you\n\n[Document 2] From https://www (web_page) - URL: https://www.durham.gov.uk/locate [Retrieved via: semantic_original]:\n. There are organisations throughout County Durham which provide day activities. Visit Locate - care and support in County Durham to view local services. Short term care (also known as respite care) If you are admitted to a care home for a short period of time, this is known as short term care or respite care. It is helpful in giving you or your carer a break. There are several different services available. Visit Locate - care and support in County Durham to view local services. Hospital Social Work Team Intermediate care provides support, recovery and rehabilitation and can help avoid admission to hospital, support discharge from hospital, avoid premature admission to residential care and help faster recovery from illness. You will need to be referred to this service by your doctor, a social worker or other professional and have an assessment to see if the service is suitable for you\n\n[Document 3] From https://www (web_page) - URL: https://www.durham.gov.uk/article/5674/Care-services-outside-your-home [Retrieved via: semantic_original]:\n. Visit our Locate - care and support in County Durham website to find support groups near you. Short term (or respite) care Open Short term care can be really helpful to give you, or the person who cares for you, a break. This could be a short stay or respite placement within a care home or other type of placement, or it could be short-term domiciliary care in your own home. Visit our Locate - care and support in County Durham website to find details of the different short term breaks\u00a0and domiciliary care services available. You can also find information about Carers breaks on the Durham Carers Infopoint website. Intermediate care - to help with recovery or rehabilitation Open Intermediate care is a short-term free service and could be from 1 day up to a maximum of 6 weeks. It is designed to help you recover and increase your independence in your own home. This could be provided at home, in a care home or in a community hospital - depending on your needs\n\n[Document 4] From https://www (web_page) - URL: https://www.durham.gov.uk/article/28413/Advice-if-you-are-considering-long-term-care-in-County-Durham [Retrieved via: semantic_original]:\n. Care can involve help in your own home as well as residential or nursing care homes. You may be considering long-term care because you: Are an older person considering getting help with care and support for yourself Have a need to fund care immediately Are a family member, a carer or have Power of Attorney of somebody needing to fund their care Have a child, over 18 or approaching adulthood with disabilities and want to ensure they have financial security after you die Have a disability and want to plan your financial future to make the best use of compensation payments, or if you think your ability to work and support yourself financially may lessen over time Finding care and support If you live in County Durham and think you need care and support, your first step should be to visit Locate - care and support in County Durham . Locate hosts a range of information and advice, including organisations to help you live as independently as you can\n\n[Document 5] From https://www (web_page) - URL: https://www.durham.gov.uk/article/5660/Equipment-and-services-in-your-home [Retrieved via: semantic_original]:\n. Note: we will not pay for meals, or their delivery, even if you are eligible for care and support. Sitting and visiting Some organisations and charities provide sitting and visiting services for companionship, support and/or personal care for adults who need care at home.\u00a0These services can also give carers the opportunity to take a break from their caring role. Contact Social Care Direct Email scd@durham.gov.uk Telephone 03000 267 979 Related information Get your care needs assessed \ufeff Offsite links Durham Carers Infopoint Healthwatch County Durham: Home Care Services Report Our regulator: The Care Quality Commission \ufeff A to Z A B C D E F G H I J K L M N O P Q R S T U V W X Y Z\n\n[Document 6] From https://www (web_page) - URL: https://www.durham.gov.uk/article/5674/Care-services-outside-your-home [Retrieved via: semantic_original]:\nSkip to content Care services outside your home Find out about the many local services which provide short periods of care or support away from the home. These services can help with recovery or rehabilitation, give adults regular activities and/or support sessions to attend, or provide families and carers a break from their caring role. Find details of these services on our Locate - care and support in County Durham website. Support groups Open If you feel cut off, or want to talk about everyday problems with people in similar situations to you, a local support group may be able to help.\u00a0\u200bGroups are often self-run with help and advice from voluntary organisations and our social care staff. You might be a carer, a lone parent, an older person or someone with health problems, there are many\u00a0different groups out there. Visit our Locate - care and support in County Durham website to find support groups near you\n\n[Document 7] From https://www (web_page) - URL: https://www.durham.gov.uk/article/5654/Find-care-and-support-services [Retrieved via: semantic_original]:\n. Care and support can include help with things like getting out of bed, washing, dressing and meal preparation. It may also include emotional support at times of difficulty or stress. Decisions about care and support will usually be made by the individual concerned. This places them in control of the help they receive which enables people to remain well and independent for longer. This information is intended as a guide, to help you if you are looking for care and support services. The information will also assist you if you are considering future care and support needs, including how you will be able to pay for the services you may need in the future. Finding out about care and support If you live in County Durham and think you need care and support, your first step should be to visit our Locate - care and support in County Durham website Locate - care and support in County Durham hosts a range of information and advice, including organisations to help you live as independently as you can\n\n[Document 8] From https://www (web_page) - URL: https://www.durham.gov.uk/locate [Retrieved via: semantic_original]:\n. Care and support can include help with things like getting out of bed, washing, dressing and meal preparation. It may also include emotional support at times of difficulty or stress. Decisions about care and support will usually be made by the individual concerned. This places them in control of the help they receive which enables people to remain well and independent for longer. This information is intended as a guide, to help you if you are looking for care and support services. The information will also assist you if you are considering future care and support needs, including how you will be able to pay for the services you may need in the future. Finding out about care and support If you live in County Durham and think you need care and support, your first step should be to visit our Locate - care and support in County Durham website Locate - care and support in County Durham hosts a range of information and advice, including organisations to help you live as independently as you can\n\n[Document 9] From https://www (web_page) - URL: https://www.durham.gov.uk/article/5654/Find-care-and-support-services [Retrieved via: semantic_original]:\n. If you are concerned about yourself or a family member who appears to be mentally unwell, please contact your GP. Contact Social Care Direct to find out whether integrated health and social care services can offer you any support. Local support groups Many people feel isolated at times. A support group can give you the opportunity to meet new people and give you a chance to talk about everyday issues with others who understand. A break from your usual routine can sometimes help, as can making new friends and taking part in leisure activities. Visit Locate - care and support in County Durham to find groups near you. Day activities Day activities offer a wide range of opportunities for older people and people with disabilities. You can also learn new skills and hobbies, meet other people and a meal may even be provided during your visit. There are organisations throughout County Durham which provide day activities. Visit Locate - care and support in County Durham to view local services\n\n[Document 10] From https://www (web_page) - URL: https://www.durham.gov.uk/locate [Retrieved via: semantic_original]:\n. If you are concerned about yourself or a family member who appears to be mentally unwell, please contact your GP. Contact Social Care Direct to find out whether integrated health and social care services can offer you any support. Local support groups Many people feel isolated at times. A support group can give you the opportunity to meet new people and give you a chance to talk about everyday issues with others who understand. A break from your usual routine can sometimes help, as can making new friends and taking part in leisure activities. Visit Locate - care and support in County Durham to find groups near you. Day activities Day activities offer a wide range of opportunities for older people and people with disabilities. You can also learn new skills and hobbies, meet other people and a meal may even be provided during your visit. There are organisations throughout County Durham which provide day activities. Visit Locate - care and support in County Durham to view local services\n",
+  "answer": "You have several respite care options available in County Durham to help you take occasional breaks from caring for your father with Parkinson's. **Short-term care, also known as respite care, can be provided through a short stay in a care home or through domiciliary care services in your own home.**\n\n- **Locate - Care and Support in County Durham**: This website is a key resource where you can find detailed information about local services offering short-term care and respite options. Visit [Locate - care and support in County Durham](https://www.durham.gov.uk/locate) to explore available services.\n\n- **Durham Carers Infopoint**: This platform provides information on carers' breaks and other support services. It can be a useful resource to find additional respite care options.\n\n- **Sitting and Visiting Services**: Some organizations and charities offer sitting and visiting services, providing companionship and support at home, which can give you a break from your caring role. For more details, you can contact Social Care Direct at **scd@durham.gov.uk** or call **03000 267 979**.\n\n- **Intermediate Care**: Although primarily for recovery and rehabilitation, intermediate care can sometimes offer short-term support. This service requires a referral from a doctor or social worker and an assessment to determine suitability.\n\nFor further assistance and to explore all available options, visiting the **Locate - care and support in County Durham** website is recommended.",
+  "metrics": {
+    "duration_seconds": 14.837342023849487,
+    "retrieved_docs_count": 10,
+    "query_length": 145,
+    "answer_length": 1486,
+    "retrieval_method": "enhanced",
+    "context_utilization": 0.21220930232558138,
+    "citations_count": 0,
+    "has_citations": false,
+    "query_relevance": 0.7727272727272727,
+    "unique_retrieval_methods": 1,
+    "budget_documents_retrieved": 0,
+    "retrieval_methods_used": [
+      "semantic_original"
+    ],
+    "retrieval_method_distribution": {
+      "semantic_original": 10
+    }
+  },
+  "local_authority": "durham",
+  "query_id": "scn_13",
+  "retrieval_method": "enhanced",
+  "run_id": "3bd4709e-b16a-4910-a6f8-09473aba6ee8",
+  "trace": {
+    "run_id": "3bd4709e-b16a-4910-a6f8-09473aba6ee8",
+    "project": "social_care_rag",
+    "url": "https://eu.smith.langchain.com/o/me/runs/3bd4709e-b16a-4910-a6f8-09473aba6ee8"
+  },
+  "test_metadata": {
+    "local_authority": "durham",
+    "query_id": "scn_13",
+    "query_category": "carer_support_scenarios",
+    "prompt_variation": "optimized",
+    "prompt_template": "\nPlease answer the following question about social care services in UK local authorities based only on the information in the provided documents.\n\nQuestion: {query}\n\nContext from relevant documents:\n{context}\n\nInstructions:\n1. Provide a clear, direct answer that would help someone needing this information. If information isn't available, state: \"The available documents don't provide specific information about [aspect].\"\n\n2. Synthesize information from ALL relevant documents to provide the most complete answer rather than analyzing documents individually.\n\n3. Structure your response with:\n   - A concise 1-2 sentence summary first\n   - Relevant details organized in short, clear paragraphs\n   - Bullet points for lists or step-by-step information\n   - Bold text for key information the user should notice\n\n4. For financial information:\n   - Include exact figures, time periods, and what the funding covers\n   - Present financial data clearly: \"The adult social care budget is **\u00a3X million** for [time period]\"\n\n5. Always include practical next steps or resources:\n   - Provide contact information, URLs, or application methods mentioned in the documents\n   - Suggest where the person could find more information\n\n6. When citing sources, use a simple format: \"According to [document name/description]\" or include URLs where available.\n\nAnswer:\n",
+    "processing_time": 14.839565753936768,
+    "timestamp": "2025-08-19T13:39:04.012352",
+    "top_k": 10
+  }
+}

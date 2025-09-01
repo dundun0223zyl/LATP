@@ -1,0 +1,323 @@
+{
+  "query": "I've been told I need a financial assessment for care in coventry. What documents should I prepare and how is my contribution calculated?",
+  "retrieved_documents": [
+    {
+      "content": "[Page 2 - FINANCIAL/BUDGET INFORMATION]\nA financial assessment is required to determine the contribution a client \nwill be required to make towards any care service that is arranged \nfollowing their Strengths and Needs assessment completed by the Social \nWork Team.\nThe financial assessment can be completed at:\nhttps://www.coventry.gov.uk/bettercare\nThe financial assessment needs to be completed as soon as possible. We \nrecommend that you create an account choosing the option to use an e-mail \naddress or mobile phone number so that you access this information later if the \ncare service arranged changes or a review of the client contribution is required.\nPlease complete as much as you are able and submit the form to the Financial \nAssessments Team. We will check the information supplied and verify it \nby accessing the Revenues and Benefits and/or Department for Work and \nPensions computer systems.\nPlease contact the Financial Assessments Team if you require further",
+      "metadata": {
+        "chunk_id": 1,
+        "contains_financial_info": true,
+        "download_url": "",
+        "extraction_method": "PyPDF2",
+        "filename": "online-financial-assessment-lealfet.pdf",
+        "financial_pages": "[1, 2]",
+        "level": "level_2",
+        "page_count": 3,
+        "pages_with_content": "[1, 2, 3]",
+        "source": "online-financial-assessment-lealfet.pdf",
+        "source_url": "",
+        "total_chunks": 5,
+        "type": "pdf"
+      },
+      "id": "38389a38-92d9-4bf3-9ee5-5072c0e30a83",
+      "distance": 0.35777175426483154,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.24266847372055056,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 8 - FINANCIAL/BUDGET INFORMATION]\nIf you need to pay for some of the support we provide for you we will ask you to \ncomplete a financial assessment https://coventry.bettercare.org.uk/#/home.  \nThat way we can work out how much you can pay. If you don\u2019t want to tell us about \nyour money, you will have to pay for all of your care. You can still get information \nand advice about services available from us.\n\uf0a3 Supporting Carers\nWe will offer you a carer\u2019s assessment if you are providing unpaid care. We will \ntalk to you about how you want your assessment to be undertaken. This might be \nalongside the person you are caring for, sometimes called a combined or joint \nassessment or you may wish to have your assessment undertaken separately. \nWe will explore what is important to you, how your caring role impacts you, what \nparts of your caring role you want to maintain, need support with or want to end.  \nWe will explore how regularly you are able to take breaks and the other areas of",
+      "metadata": {
+        "chunk_id": 23,
+        "contains_financial_info": true,
+        "download_url": "",
+        "extraction_method": "PyPDF2",
+        "filename": "adult-social-care-offer-full-version-with-translation-details-.pdf",
+        "financial_pages": "[1, 2, 3, 4, 5, 7, 8, 9, 11]",
+        "level": "level_2",
+        "page_count": 12,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]",
+        "source": "adult-social-care-offer-full-version-with-translation-details-.pdf",
+        "source_url": "",
+        "total_chunks": 36,
+        "type": "pdf"
+      },
+      "id": "4999b7b3-6ef7-40c5-9c78-bc932b10ba7e",
+      "distance": 0.4211626946926117,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.22365119159221647,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 2 - FINANCIAL/BUDGET INFORMATION]\n }How do I get funding for residential or nursing care?\nYou will be given a needs and well-being assessment and support plan by a social \nworker, and if residential or nursing care is appropriate, you will then have a financial \nassessment . If you have capital (excluding property) below the set limit you can \nreceive Council funding. You can find out the current limit by contacting the Financial \nAssessments Team  on 024 7697 5429\n }How much will I be asked to contribute towards my care? \nHow much will I be asked to contribute towards my care? You can complete an on-line \nprovisional financial assessment of the likely weekly charge for care at www.coventry.\ngov.uk/bettercare \n After you have submitted the on-line financial assessment a Financial Assessments \nOfficer will contact you to request any additional information or clarify the information \nsubmitted. The weekly charge will then be calculated anticipating the weekly income to \nbe received by totalling:",
+      "metadata": {
+        "chunk_id": 1,
+        "contains_financial_info": true,
+        "download_url": "",
+        "extraction_method": "PyPDF2",
+        "filename": "adult-social-care-guide-to-residential-and-nursing-care-funding-leaflet.pdf",
+        "financial_pages": "[1, 2, 3]",
+        "level": "level_2",
+        "page_count": 4,
+        "pages_with_content": "[1, 2, 3, 4]",
+        "source": "adult-social-care-guide-to-residential-and-nursing-care-funding-leaflet.pdf",
+        "source_url": "",
+        "total_chunks": 10,
+        "type": "pdf"
+      },
+      "id": "3fd30fc7-40dd-4d69-9beb-f185dacf164d",
+      "distance": 0.42410239577293396,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.2227692812681198,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 2 - FINANCIAL/BUDGET INFORMATION]\n }How do I get funding for residential or nursing care?\nYou will be given a needs and well-being assessment and support plan by a social \nworker, and if residential or nursing care is appropriate, you will then have a financial \nassessment . If you have capital (excluding property) below the set limit you can \nreceive Council funding. You can find out the current limit by contacting the Financial \nAssessments Team  on 024 7697 5429\n }How much will I be asked to contribute towards my care? \nHow much will I be asked to contribute towards my care? You can complete an on-line \nprovisional financial assessment of the likely weekly charge for care at www.coventry.\ngov.uk/bettercare \n After you have submitted the on-line financial assessment a Financial Assessments \nOfficer will contact you to request any additional information or clarify the information \nsubmitted. The weekly charge will then be calculated anticipating the weekly income to \nbe received by totalling:",
+      "metadata": {
+        "chunk_id": 1,
+        "contains_financial_info": true,
+        "download_url": "",
+        "extraction_method": "PyPDF2",
+        "filename": "adult_social_care_guide_to_residential_and_nursing_care_funding_leaflet.pdf",
+        "financial_pages": "[1, 2, 3]",
+        "level": "level_2",
+        "page_count": 4,
+        "pages_with_content": "[1, 2, 3, 4]",
+        "source": "adult_social_care_guide_to_residential_and_nursing_care_funding_leaflet.pdf",
+        "source_url": "",
+        "total_chunks": 10,
+        "type": "pdf"
+      },
+      "id": "4203a69b-9df5-486d-81a8-6828843c732d",
+      "distance": 0.4241026043891907,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.2227692186832428,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "based on the information supplied. The Financial Assessments Team will \nadvise you of the actual client contribution after they have completed their \nchecks and seen any requested evidence.\nIf the financial assessment is not submitted within twenty-eight days of the \nSocial Work Team advising you that the financial assessment is required, we \nwill automatically invoice the client for the full cost of the care service arranged.\nFinancial Assessments Team\nCoventry City Council, PO Box 15, Council House, \nCoventry, CV1 5RR\nEmail: financialassessments@coventry.gov.uk\nCall: 024 7697 5429\n2",
+      "metadata": {
+        "chunk_id": 3,
+        "contains_financial_info": true,
+        "download_url": "",
+        "extraction_method": "PyPDF2",
+        "filename": "online-financial-assessment-lealfet.pdf",
+        "financial_pages": "[1, 2]",
+        "level": "level_2",
+        "page_count": 3,
+        "pages_with_content": "[1, 2, 3]",
+        "source": "online-financial-assessment-lealfet.pdf",
+        "source_url": "",
+        "total_chunks": 5,
+        "type": "pdf"
+      },
+      "id": "21c524d5-f1bf-4a6b-8d42-9c885f0e2539",
+      "distance": 0.4253729283809662,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.22238812148571013,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". We will need to see details and documentary evidence of your current weekly income as well as any savings, investments or other forms of capital. View a print version Financial assessments team Address: Coventry City Council PO Box 7097 Coventry CV6 9SL Telephone: 024 7683 3575 Adult Social Care online financial assessment Access the online financial assessment Find out how to change the look, colours, font or language of this website. Search our directory Next page : About assessed charges",
+      "metadata": {
+        "chunk_id": 3,
+        "filename": "www.coventry.gov.uk_money-legal-matters_financial-assessment-%E2%80%93-non-residential-care-support.txt",
+        "level": "level_2",
+        "source": "https://www.coventry.gov.uk/money-legal-matters/financial-assessment-%E2%80%93-non-residential-care-support",
+        "source_url": "https://www.coventry.gov.uk/money-legal-matters/financial-assessment-%E2%80%93-non-residential-care-support",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "d91791b9-8789-495a-94eb-ef71624caee5",
+      "distance": 0.43236762285232544,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.21998971314430235,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 7 - FINANCIAL/BUDGET INFORMATION]\nIf you are admitted to hospital and need support on discharge, this can be arranged by \neither the team of professionals based at the hospital or Adult Social Care.\nIf you need ongoing care, we will look at whether you need further support and move \non to the next stage. This stage of the assessment includes making decisions about \nyour ongoing needs and whether you are eligible for continued support from the \nCouncil. It will also involve having a financial assessment  \nwww.coventry.gov.uk/money-legal-matters/financial-assessment-overview  to \nfind out if you need to pay towards the cost of your care.\n\uf0a3 Assessing your needs \nIf you appear to have ongoing care and support needs, then we will provide a \ncare and support assessment. To assist us all to determine what support you can \nreceive through the Council, we will use the guidance set out in the Care Act 2014 \nwww.legislation.gov.uk/ukpga/2014/23/contents/enacted  (please see further",
+      "metadata": {
+        "chunk_id": 19,
+        "contains_financial_info": true,
+        "download_url": "",
+        "extraction_method": "PyPDF2",
+        "filename": "adult-social-care-offer-full-version-with-translation-details-.pdf",
+        "financial_pages": "[1, 2, 3, 4, 5, 7, 8, 9, 11]",
+        "level": "level_2",
+        "page_count": 12,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]",
+        "source": "adult-social-care-offer-full-version-with-translation-details-.pdf",
+        "source_url": "",
+        "total_chunks": 36,
+        "type": "pdf"
+      },
+      "id": "21a7640f-59ca-4f5f-a186-d025565a373a",
+      "distance": 0.49097245931625366,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.2027082622051239,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". from Coventry Citizens Advice or Coventry Law Centre . your local authority \u2013 through an assessment of your care and support needs , as well as advice on which services are available locally . Further information about getting independent financial advice . View a print version Financial assessments team Address: Coventry City Council PO Box 7097 Coventry CV6 9SL Telephone: 024 7683 3575 Paying for care Find out what financial support might be available Find out how to change the look, colours, font or language of this website. Search our directory Next page : Support for self-funders",
+      "metadata": {
+        "chunk_id": 3,
+        "filename": "www.coventry.gov.uk_info_75_money_and_legal_matters_2451_paying_for_care_and_support_and_accessing_f.txt",
+        "level": "level_2",
+        "source": "https://www.coventry.gov.uk/info/75/money_and_legal_matters/2451/paying_for_care_and_support_and_accessing_financial_advice",
+        "source_url": "https://www.coventry.gov.uk/info/75/money_and_legal_matters/2451/paying_for_care_and_support_and_accessing_financial_advice",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "40ef8b87-a52c-47d4-b2cc-f49e3e04e56a",
+      "distance": 0.4993970990180969,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.20018087029457093,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Payments can be made by Direct Debit, over the phone by calling 024 7683 4884, \nor at www.coventry.gov.uk  \n\t}Four-weekly invoices  \nIf you pay a charge towards an Adult Social Care arranged care package, we will \nsend you an invoice every four weeks. This invoice will show any amendments to \nthe weekly charge. \n\t}When will the charges start? \nYour charge will start from the day the care service package begins. If the financial \nassessment visit takes place after the care service has started, we will backdate \nthe charge to the start date of the care service. \nIf you do not provide the information needed to complete the financial assessment, \nwe will assume you have enough funds to pay the maximum charge for your care \nand support package. \n4",
+      "metadata": {
+        "chunk_id": 8,
+        "contains_financial_info": true,
+        "download_url": "",
+        "extraction_method": "PyPDF2",
+        "filename": "adult_social_care_charging_for_non_residental_care_services_leaflet.pdf",
+        "financial_pages": "[2, 3, 4, 5, 6]",
+        "level": "level_2",
+        "page_count": 8,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8]",
+        "source": "adult_social_care_charging_for_non_residental_care_services_leaflet.pdf",
+        "source_url": "",
+        "total_chunks": 13,
+        "type": "pdf"
+      },
+      "id": "29b9cc23-2381-4035-8391-c4383f4f9468",
+      "distance": 0.5238742232322693,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1928377330303192,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 6 - FINANCIAL/BUDGET INFORMATION]\nIt is a good idea to now draw up a list of responsibilities of the group, which\ncould come under the general headings of:\nSteps to setting up the Direct Payment using a Trust\n\u2022 Assessment by the allocated worker, eg social worker, community care\nworker, occupational therapist, etc\n\u2022 Funding agreed\n\u2022 Decide who the Trustees will be\n\u2022 Decide the aims of the Trustees\n\u2022 Submit financial records and supporting documents to the Council\n\u2022 Make a Constitution\n\u2022 Draw up a trust deed\n\u2022 Check the documents with an independent solicitor if wished\n\u2022 Open a bank account/prepaid card for care and support only\n\u2022 Sign a Direct Payments agreement with Coventry City Council\n\u2022 Recruit personal assistants/arrange care or support as required\n\u2022 Meet regularly as Trustees to review care and financial arrangements\n\u2022 Meet at agreed intervals with your allocated worker to review care\narrangements\n} Membership\nHow many Trustees there will be, how one can resign, how new Trustees can be",
+      "metadata": {
+        "chunk_id": 11,
+        "contains_financial_info": true,
+        "download_url": "",
+        "extraction_method": "pdfplumber",
+        "filename": "direct-payments-setting-up-a-trust-fund.pdf",
+        "financial_pages": "[2, 3, 5, 6, 8]",
+        "level": "level_2",
+        "page_count": 10,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]",
+        "source": "direct-payments-setting-up-a-trust-fund.pdf",
+        "source_url": "",
+        "total_chunks": 19,
+        "type": "pdf"
+      },
+      "id": "61710a14-5021-48bd-bc77-aafce44c8c1c",
+      "distance": 0.5417960286140442,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.18746119141578677,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    }
+  ],
+  "context": "[Document 1] From online financial assessment lealfet (pdf) - 3 pages [Retrieved via: semantic_original]:\n[Page 2 - FINANCIAL/BUDGET INFORMATION]\nA financial assessment is required to determine the contribution a client \nwill be required to make towards any care service that is arranged \nfollowing their Strengths and Needs assessment completed by the Social \nWork Team.\nThe financial assessment can be completed at:\nhttps://www.coventry.gov.uk/bettercare\nThe financial assessment needs to be completed as soon as possible. We \nrecommend that you create an account choosing the option to use an e-mail \naddress or mobile phone number so that you access this information later if the \ncare service arranged changes or a review of the client contribution is required.\nPlease complete as much as you are able and submit the form to the Financial \nAssessments Team. We will check the information supplied and verify it \nby accessing the Revenues and Benefits and/or Department for Work and \nPensions computer systems.\nPlease contact the Financial Assessments Team if you require further\n\n[Document 2] From adult social care offer full version with translation details  (pdf) - 12 pages [Retrieved via: semantic_original]:\n[Page 8 - FINANCIAL/BUDGET INFORMATION]\nIf you need to pay for some of the support we provide for you we will ask you to \ncomplete a financial assessment https://coventry.bettercare.org.uk/#/home.  \nThat way we can work out how much you can pay. If you don\u2019t want to tell us about \nyour money, you will have to pay for all of your care. You can still get information \nand advice about services available from us.\n\uf0a3 Supporting Carers\nWe will offer you a carer\u2019s assessment if you are providing unpaid care. We will \ntalk to you about how you want your assessment to be undertaken. This might be \nalongside the person you are caring for, sometimes called a combined or joint \nassessment or you may wish to have your assessment undertaken separately. \nWe will explore what is important to you, how your caring role impacts you, what \nparts of your caring role you want to maintain, need support with or want to end.  \nWe will explore how regularly you are able to take breaks and the other areas of\n\n[Document 3] From adult social care guide to residential and nursing care funding leaflet (pdf) - 4 pages [Retrieved via: semantic_original]:\n[Page 2 - FINANCIAL/BUDGET INFORMATION]\n }How do I get funding for residential or nursing care?\nYou will be given a needs and well-being assessment and support plan by a social \nworker, and if residential or nursing care is appropriate, you will then have a financial \nassessment . If you have capital (excluding property) below the set limit you can \nreceive Council funding. You can find out the current limit by contacting the Financial \nAssessments Team  on 024 7697 5429\n }How much will I be asked to contribute towards my care? \nHow much will I be asked to contribute towards my care? You can complete an on-line \nprovisional financial assessment of the likely weekly charge for care at www.coventry.\ngov.uk/bettercare \n After you have submitted the on-line financial assessment a Financial Assessments \nOfficer will contact you to request any additional information or clarify the information \nsubmitted. The weekly charge will then be calculated anticipating the weekly income to \nbe received by totalling:\n\n[Document 4] From adult social care guide to residential and nursing care funding leaflet (pdf) - 4 pages [Retrieved via: semantic_original]:\n[Page 2 - FINANCIAL/BUDGET INFORMATION]\n }How do I get funding for residential or nursing care?\nYou will be given a needs and well-being assessment and support plan by a social \nworker, and if residential or nursing care is appropriate, you will then have a financial \nassessment . If you have capital (excluding property) below the set limit you can \nreceive Council funding. You can find out the current limit by contacting the Financial \nAssessments Team  on 024 7697 5429\n }How much will I be asked to contribute towards my care? \nHow much will I be asked to contribute towards my care? You can complete an on-line \nprovisional financial assessment of the likely weekly charge for care at www.coventry.\ngov.uk/bettercare \n After you have submitted the on-line financial assessment a Financial Assessments \nOfficer will contact you to request any additional information or clarify the information \nsubmitted. The weekly charge will then be calculated anticipating the weekly income to \nbe received by totalling:\n\n[Document 5] From online financial assessment lealfet (pdf) - 3 pages [Retrieved via: semantic_original]:\nbased on the information supplied. The Financial Assessments Team will \nadvise you of the actual client contribution after they have completed their \nchecks and seen any requested evidence.\nIf the financial assessment is not submitted within twenty-eight days of the \nSocial Work Team advising you that the financial assessment is required, we \nwill automatically invoice the client for the full cost of the care service arranged.\nFinancial Assessments Team\nCoventry City Council, PO Box 15, Council House, \nCoventry, CV1 5RR\nEmail: financialassessments@coventry.gov.uk\nCall: 024 7697 5429\n2\n\n[Document 6] From https://www (web_page) - URL: https://www.coventry.gov.uk/money-legal-matters/financial-assessment-%E2%80%93-non-residential-care-support [Retrieved via: semantic_original]:\n. We will need to see details and documentary evidence of your current weekly income as well as any savings, investments or other forms of capital. View a print version Financial assessments team Address: Coventry City Council PO Box 7097 Coventry CV6 9SL Telephone: 024 7683 3575 Adult Social Care online financial assessment Access the online financial assessment Find out how to change the look, colours, font or language of this website. Search our directory Next page : About assessed charges\n\n[Document 7] From adult social care offer full version with translation details  (pdf) - 12 pages [Retrieved via: semantic_original]:\n[Page 7 - FINANCIAL/BUDGET INFORMATION]\nIf you are admitted to hospital and need support on discharge, this can be arranged by \neither the team of professionals based at the hospital or Adult Social Care.\nIf you need ongoing care, we will look at whether you need further support and move \non to the next stage. This stage of the assessment includes making decisions about \nyour ongoing needs and whether you are eligible for continued support from the \nCouncil. It will also involve having a financial assessment  \nwww.coventry.gov.uk/money-legal-matters/financial-assessment-overview  to \nfind out if you need to pay towards the cost of your care.\n\uf0a3 Assessing your needs \nIf you appear to have ongoing care and support needs, then we will provide a \ncare and support assessment. To assist us all to determine what support you can \nreceive through the Council, we will use the guidance set out in the Care Act 2014 \nwww.legislation.gov.uk/ukpga/2014/23/contents/enacted  (please see further\n\n[Document 8] From https://www (web_page) - URL: https://www.coventry.gov.uk/info/75/money_and_legal_matters/2451/paying_for_care_and_support_and_accessing_financial_advice [Retrieved via: semantic_original]:\n. from Coventry Citizens Advice or Coventry Law Centre . your local authority \u2013 through an assessment of your care and support needs , as well as advice on which services are available locally . Further information about getting independent financial advice . View a print version Financial assessments team Address: Coventry City Council PO Box 7097 Coventry CV6 9SL Telephone: 024 7683 3575 Paying for care Find out what financial support might be available Find out how to change the look, colours, font or language of this website. Search our directory Next page : Support for self-funders\n\n[Document 9] From adult social care charging for non residental care services leaflet (pdf) - 8 pages [Retrieved via: semantic_original]:\nPayments can be made by Direct Debit, over the phone by calling 024 7683 4884, \nor at www.coventry.gov.uk  \n\t}Four-weekly invoices  \nIf you pay a charge towards an Adult Social Care arranged care package, we will \nsend you an invoice every four weeks. This invoice will show any amendments to \nthe weekly charge. \n\t}When will the charges start? \nYour charge will start from the day the care service package begins. If the financial \nassessment visit takes place after the care service has started, we will backdate \nthe charge to the start date of the care service. \nIf you do not provide the information needed to complete the financial assessment, \nwe will assume you have enough funds to pay the maximum charge for your care \nand support package. \n4\n\n[Document 10] From direct payments setting up a trust fund (pdf) - 10 pages [Retrieved via: semantic_original]:\n[Page 6 - FINANCIAL/BUDGET INFORMATION]\nIt is a good idea to now draw up a list of responsibilities of the group, which\ncould come under the general headings of:\nSteps to setting up the Direct Payment using a Trust\n\u2022 Assessment by the allocated worker, eg social worker, community care\nworker, occupational therapist, etc\n\u2022 Funding agreed\n\u2022 Decide who the Trustees will be\n\u2022 Decide the aims of the Trustees\n\u2022 Submit financial records and supporting documents to the Council\n\u2022 Make a Constitution\n\u2022 Draw up a trust deed\n\u2022 Check the documents with an independent solicitor if wished\n\u2022 Open a bank account/prepaid card for care and support only\n\u2022 Sign a Direct Payments agreement with Coventry City Council\n\u2022 Recruit personal assistants/arrange care or support as required\n\u2022 Meet regularly as Trustees to review care and financial arrangements\n\u2022 Meet at agreed intervals with your allocated worker to review care\narrangements\n} Membership\nHow many Trustees there will be, how one can resign, how new Trustees can be\n",
+  "answer": "Error generating answer: Single '}' encountered in format string",
+  "metrics": {
+    "duration_seconds": 2.327868938446045,
+    "retrieved_docs_count": 10,
+    "query_length": 137,
+    "answer_length": 64,
+    "retrieval_method": "enhanced",
+    "context_utilization": 0.0,
+    "citations_count": 0,
+    "has_citations": false,
+    "query_relevance": 0.058823529411764705,
+    "unique_retrieval_methods": 1,
+    "budget_documents_retrieved": 8,
+    "retrieval_methods_used": [
+      "semantic_original"
+    ],
+    "retrieval_method_distribution": {
+      "semantic_original": 10
+    }
+  },
+  "local_authority": "coventry",
+  "query_id": "scn_22",
+  "retrieval_method": "enhanced",
+  "run_id": "ee4ebcee-0792-4853-b417-075b92b88487",
+  "trace": {
+    "run_id": "ee4ebcee-0792-4853-b417-075b92b88487",
+    "project": "social_care_rag",
+    "url": "https://eu.smith.langchain.com/o/me/runs/ee4ebcee-0792-4853-b417-075b92b88487"
+  },
+  "test_metadata": {
+    "local_authority": "coventry",
+    "query_id": "scn_22",
+    "query_category": "assessment_scenarios",
+    "prompt_variation": "optimized",
+    "prompt_template": "\nPlease answer the following question about social care services in UK local authorities based only on the information in the provided documents.\n\nQuestion: {query}\n\nContext from relevant documents:\n{context}\n\nInstructions:\n1. Provide a clear, direct answer that would help someone needing this information. If information isn't available, state: \"The available documents don't provide specific information about [aspect].\"\n\n2. Synthesize information from ALL relevant documents to provide the most complete answer rather than analyzing documents individually.\n\n3. Structure your response with:\n   - A concise 1-2 sentence summary first\n   - Relevant details organized in short, clear paragraphs\n   - Bullet points for lists or step-by-step information\n   - Bold text for key information the user should notice\n\n4. For financial information:\n   - Include exact figures, time periods, and what the funding covers\n   - Present financial data clearly: \"The adult social care budget is **\u00a3X million** for [time period]\"\n\n5. Always include practical next steps or resources:\n   - Provide contact information, URLs, or application methods mentioned in the documents\n   - Suggest where the person could find more information\n\n6. When citing sources, use a simple format: \"According to [document name/description]\" or include URLs where available.\n\nAnswer:\n",
+    "processing_time": 2.337838649749756,
+    "timestamp": "2025-08-19T13:29:21.762145",
+    "top_k": 10
+  }
+}

@@ -1,0 +1,313 @@
+{
+  "query": "My care needs assessment in southampton says I need 20 hours of home care weekly, but I'm worried about costs. What financial help is available?",
+  "retrieved_documents": [
+    {
+      "content": "Paying For Residential Care - Factsheet\n\nPaying for residential care - information from Southampton City Council about how you will need to contribute towards the cost of your residential care\n\nIf you decide that staying in your own home is no longer right for you then you and your care manager can talk about the kind of residential or nursing home you need. Moving into residential care is a big decision and can have major financial implications.\n\nIf you have over \u00a323,250 in savings you will be required to pay for the full costs of your care. If you have less than this amount in savings you may be entitled to financial help if it is agreed by you and social services that this is the best kind of care for you.\n\nIf you wish to move into residential care and you have sufficient income and resources to pay for this yourself, you may arrange this independently. However, if most of your assets are tied up in your home, you may still wish to approach the council for help.",
+      "metadata": {
+        "chunk_id": 0,
+        "contains_financial_info": true,
+        "download_url": "https://www.southampton.gov.uk/media/luyjaqaj/paying-for-residential-care_factsheet-apr-23.docx",
+        "filename": "paying-for-residential-care_factsheet-apr-23.docx",
+        "financial_sections": "['Introduction']",
+        "level": "level_2",
+        "paragraph_count": 62,
+        "section_count": 1,
+        "sections": "['Introduction']",
+        "source": "https://www.southampton.gov.uk/adult-social-care/support-carers-away-home/residential-care-homes/",
+        "source_url": "https://www.southampton.gov.uk/adult-social-care/support-carers-away-home/residential-care-homes/",
+        "table_count": 0,
+        "total_chunks": 13,
+        "type": "docx"
+      },
+      "id": "f74140f8-7b6f-4a09-8bde-e171826795a3",
+      "distance": 0.45409509539604187,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.21377147138118746,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": true,
+        "document_type": "docx",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". We have created a care self-assessment tool which can help you understand if you are eligible to receive help. It can also put you in touch with the right organisations to help and support you. Try our care self-assessment tool . View more information about needs and eligibility . Personal Budgets\u00a0and Direct Payments SHOW The Care Act states that, since April 2015, councils will need to allocate a personal budget to all people who are eligible for support. The personal budget is the amount of money needed to cover the cost of a person\u2019s eligible support. View more information about personal budgets . Anyone who is eligible will also be offered a direct payment. Many people in Southampton already receive direct payments. This means individuals have total control of how they receive the best care and support for them. Find out more about direct payments . Care planning\u00a0and reviews SHOW A person\u2019s care plan will be reviewed on a regular basis, and if or when their needs change",
+      "metadata": {
+        "chunk_id": 5,
+        "filename": "www.southampton.gov.uk_adult-social-care_care-info-professionals_the-care-act_.txt",
+        "level": "level_2",
+        "source": "https://www.southampton.gov.uk/adult-social-care/care-info-professionals/the-care-act/",
+        "source_url": "https://www.southampton.gov.uk/adult-social-care/care-info-professionals/the-care-act/",
+        "total_chunks": 9,
+        "type": "web_page"
+      },
+      "id": "990225d5-f9ba-4821-a137-c5cbf4a7f318",
+      "distance": 0.5701797008514404,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.17894608974456788,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 3 - FINANCIAL/BUDGET INFORMATION]\n \n \n3 \nVersion 1, 8 Apr 24  \n2.1 Advice and help with choosing your own care provider \nPoints to consider, include:  \n\u2022 If you need care in a care home, w e recommend that you visit several potential  homes . \nThink about questions you want to ask, for example about the food , the activities arranged \nfor resident s and whether you will need  to share a room . How much does it cost? How much \ndo prices  go up each year?  \n\u2022 There is a free booklet called 'The Guide to Residential Care', which lists all residential and \nnursing homes in Southampton, Portsmouth and Hampshire.  This can be obtained by  \ncontacting Adult Social Care (see our Contacts Page ). \n\u2022 The Care Quality Commission (CQC) carry out annual inspections on all care homes. You can \nview their most recent inspection reports on the CQC website , or contact them on 0300 061 \n6161 to obtain a paper copy of a report.  The CQC also regulate many non -residential care \nproviders.",
+      "metadata": {
+        "chunk_id": 4,
+        "contains_financial_info": true,
+        "download_url": "https://www.southampton.gov.uk/media/r35pmmde/factsheet-full-cost-customers-20240408-2.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "factsheet-full-cost-customers-20240408-2.pdf",
+        "financial_pages": "[1, 2, 3, 4, 5, 6]",
+        "level": "level_2",
+        "page_count": 6,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6]",
+        "source": "https://www.southampton.gov.uk/adult-social-care/paying-for-your-care/paying-social-care-services/",
+        "source_url": "https://www.southampton.gov.uk/adult-social-care/paying-for-your-care/paying-social-care-services/",
+        "total_chunks": 14,
+        "type": "pdf"
+      },
+      "id": "08092332-6ac0-4cc1-b508-6015b65cca0e",
+      "distance": 0.5780300498008728,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.17659098505973814,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "The only people who do not contribute to the cost of their care at all are those who have \u2018continuing NHS health care\u2019 which is care arranged and paid for by the NHS. (This is different to \u2018free nursing care\u2019 which is the payment from the health service for the nursing element of a person\u2019s care after they have been assessed by a registered nurse).\n\nOnly people who normally live in Southampton can apply for financial help from Southampton City Council. Anyone who lives in another part of the country and needs financial help with the fees for a Southampton home should start by contacting their own local authority.\n\nShort stays\n\nThese are temporary stays to give you or your carer a break, or for emergency situations (for example, if your carer has to go into hospital).",
+      "metadata": {
+        "chunk_id": 1,
+        "contains_financial_info": true,
+        "download_url": "https://www.southampton.gov.uk/media/luyjaqaj/paying-for-residential-care_factsheet-apr-23.docx",
+        "filename": "paying-for-residential-care_factsheet-apr-23.docx",
+        "financial_sections": "['Introduction']",
+        "level": "level_2",
+        "paragraph_count": 62,
+        "section_count": 1,
+        "sections": "['Introduction']",
+        "source": "https://www.southampton.gov.uk/adult-social-care/support-carers-away-home/residential-care-homes/",
+        "source_url": "https://www.southampton.gov.uk/adult-social-care/support-carers-away-home/residential-care-homes/",
+        "table_count": 0,
+        "total_chunks": 13,
+        "type": "docx"
+      },
+      "id": "de9cab97-4db4-4682-b0e5-e11f74f67ec9",
+      "distance": 0.5882240533828735,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.17353278398513794,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "docx",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "In this section Where to get support Adult care eligibility - who can get care and support? Independent living Help to stay at home (current) Home care providers Housing support for older people Southampton Day Service Getting help at home for yourself We have lots of services available to help and assist you in your own home, for example getting help with your personal care needs. Our aim is to help you live independently in your own home for as long as possible. Please contact us if you would like more information about the home care services we can provide. Some of them may also require an assessment and there may be associated costs. Find out how we decide who is eligible for our home care services, including getting help with your personal care needs",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.southampton.gov.uk_adult-social-care_home-living_where-to-get-support_help-to-stay-at-home_.txt",
+        "level": "level_3",
+        "source": "https://www.southampton.gov.uk/adult-social-care/home-living/where-to-get-support/help-to-stay-at-home/",
+        "source_url": "https://www.southampton.gov.uk/adult-social-care/home-living/where-to-get-support/help-to-stay-at-home/",
+        "total_chunks": 3,
+        "type": "web_page"
+      },
+      "id": "c0969c11-9863-468c-b2fb-fba684d14301",
+      "distance": 0.6183880567550659,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1644835829734802,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "--\n\nMoving to supported accommodation or a residential home Housing with care (supported accommodation) The housing with care schemes in Southampton provide the security and privacy of your own home alongside a range of facilities and support on the premises, with 24-hour care provision if you require it. Find out more about housing with care . Residential care homes Residential care homes are available to anyone aged 65 or over and living within the city boundaries. An assessment is carried out to make sure that places go to those who need them the most. You may also be asked to make a contribution towards the cost of your care. View more information about Residential care homes . Back Your path to help and advice Self-assessment home \u25bc Housing \u25bc Moving to supported accommodation or a residential home",
+      "metadata": {
+        "chunk_id": 0,
+        "filename": "www.southampton.gov.uk_self-assessment-tool_housing_moving-to-supported-accommodation-or-a-residenti.txt",
+        "level": "level_3",
+        "source": "https://www.southampton.gov.uk/self-assessment-tool/housing/moving-to-supported-accommodation-or-a-residential-home/",
+        "source_url": "https://www.southampton.gov.uk/self-assessment-tool/housing/moving-to-supported-accommodation-or-a-residential-home/",
+        "total_chunks": 1,
+        "type": "web_page"
+      },
+      "id": "b8c8c901-5e96-488f-a766-82ae5342cbe4",
+      "distance": 0.6356866955757141,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.15929399132728578,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 7 - FINANCIAL/BUDGET INFORMATION]\nWhat if I need ongoing care and support and who pays for it? \nIf you have ongoing care and support needs which are assessed as being eligible \nfor help from the Council, we will work with you to develop a personal support plan. The social worker will arrange for you to have a fnancial assessment, if you haven\u2019t had one before. \nDepending on your fnancial circumstances, you may need to pay some or all of \nthe cost of your care and support. \nIf you are not eligible for services from the Council, we will give you information \nand advice about how to access care and support services for yourself. You can fnd information and services to manage your own care needs and to stay independent on the Southampton City Council website www.southampton.gov.uk. \nSome people may be eligible for NHS Continuing Healthcare. It is available to",
+      "metadata": {
+        "chunk_id": 11,
+        "contains_financial_info": true,
+        "download_url": "https://www.southampton.gov.uk/media/ikdl0cei/july-22-discharge-to-assess-leaflet-leaving-hospital-final.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "july-22-discharge-to-assess-leaflet-leaving-hospital-final.pdf",
+        "financial_pages": "[2, 7]",
+        "level": "level_1",
+        "page_count": 8,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8]",
+        "source": "https://www.southampton.gov.uk/adult-social-care/discharge-to-assess/",
+        "source_url": "https://www.southampton.gov.uk/adult-social-care/discharge-to-assess/",
+        "total_chunks": 14,
+        "type": "pdf"
+      },
+      "id": "17cff974-48c9-470a-acfe-d7e90be592e2",
+      "distance": 0.6403663754463196,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.15789008736610413,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "boundary,  and your assets are reducing  to the point where they  are within 3 -6 months of reaching \nthe \u00a323,250 threshold, please contact the council . If you have chosen to move to a care home \noutside Southampton, you are now resident in a different Local Authority and you need to contact \nthem  in the first instance .  \nYou can find out wh ich Local Authority area you live in, here .",
+      "metadata": {
+        "chunk_id": 6,
+        "contains_financial_info": true,
+        "download_url": "https://www.southampton.gov.uk/media/r35pmmde/factsheet-full-cost-customers-20240408-2.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "factsheet-full-cost-customers-20240408-2.pdf",
+        "financial_pages": "[1, 2, 3, 4, 5, 6]",
+        "level": "level_2",
+        "page_count": 6,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6]",
+        "source": "https://www.southampton.gov.uk/adult-social-care/paying-for-your-care/paying-social-care-services/",
+        "source_url": "https://www.southampton.gov.uk/adult-social-care/paying-for-your-care/paying-social-care-services/",
+        "total_chunks": 14,
+        "type": "pdf"
+      },
+      "id": "a7398201-21fa-484d-bd99-73a009ef8754",
+      "distance": 0.6155202388763428,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.15444392833709716,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "(ii) We will work with you to find a new provider tha t can meet your needs within the \nrate we can fund . In some residential care cases this may mean moving to a different \ncare home.  \n(iii) In exceptional cases, i f top-ups are not an option, and we consider that your best \ninterests are served by staying where you are, we will continue to fund the higher \nlevel of care.   \n Mrs Rose has a bank balance of \u00a338,250.  \nThis is \u00a315,000 above the threshold value of \u00a323,250.  \nHer residential care home fees are \u00a31,000 per week.  \nShe pays \u00a3250 per week from her weekly income, and the other \u00a3750 per week \nout of her bank balance.  \nSo every 10 weeks her bank balance will reduce by \u00a37,500. \nAs she is currently \u00a315,000 above the threshold, this will cover her care costs for \nthe next 20 weeks.  \n20 weeks is just under 5 months, so she should contact the council soon.",
+      "metadata": {
+        "chunk_id": 9,
+        "contains_financial_info": true,
+        "download_url": "https://www.southampton.gov.uk/media/r35pmmde/factsheet-full-cost-customers-20240408-2.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "factsheet-full-cost-customers-20240408-2.pdf",
+        "financial_pages": "[1, 2, 3, 4, 5, 6]",
+        "level": "level_2",
+        "page_count": 6,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6]",
+        "source": "https://www.southampton.gov.uk/adult-social-care/paying-for-your-care/paying-social-care-services/",
+        "source_url": "https://www.southampton.gov.uk/adult-social-care/paying-for-your-care/paying-social-care-services/",
+        "total_chunks": 14,
+        "type": "pdf"
+      },
+      "id": "ee5e8469-a296-44d2-9879-1e27299f96f6",
+      "distance": 0.6542137861251831,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.15373586416244506,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "In this section Where to get support Adult care eligibility - who can get care and support? Independent living (current) Help to stay at home Home care providers Housing support for older people Southampton Day Service Your home and living situation should enable you to have as much independence as you can. This means making sure you have the right support to make this happen. Housing Options Living independently doesn\u2019t mean living on your own or without any support. Each person will need a different amount of support to maximise their independence. For some, this means having support throughout the day and night. Others might only need occasional support for a few hours per week. Some of the different housing options which might be available to you are: Supported living SHOW This means you have your own home and security through a tenancy agreement with the landlord (usually a housing association). There are a variety of different supported living homes",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.southampton.gov.uk_adult-social-care_home-living_where-to-get-support_independent-living_.txt",
+        "level": "level_3",
+        "source": "https://www.southampton.gov.uk/adult-social-care/home-living/where-to-get-support/independent-living/",
+        "source_url": "https://www.southampton.gov.uk/adult-social-care/home-living/where-to-get-support/independent-living/",
+        "total_chunks": 9,
+        "type": "web_page"
+      },
+      "id": "97eaf560-fe3e-4c55-bf49-cfe00bbf5194",
+      "distance": 0.6608268022537231,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.15175195932388305,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    }
+  ],
+  "context": "[Document 1] From https://www (docx) - URL: https://www.southampton.gov.uk/adult-social-care/support-carers-away-home/residential-care-homes/ [Retrieved via: semantic_original]:\nPaying For Residential Care - Factsheet\n\nPaying for residential care - information from Southampton City Council about how you will need to contribute towards the cost of your residential care\n\nIf you decide that staying in your own home is no longer right for you then you and your care manager can talk about the kind of residential or nursing home you need. Moving into residential care is a big decision and can have major financial implications.\n\nIf you have over \u00a323,250 in savings you will be required to pay for the full costs of your care. If you have less than this amount in savings you may be entitled to financial help if it is agreed by you and social services that this is the best kind of care for you.\n\nIf you wish to move into residential care and you have sufficient income and resources to pay for this yourself, you may arrange this independently. However, if most of your assets are tied up in your home, you may still wish to approach the council for help.\n\n[Document 2] From https://www (web_page) - URL: https://www.southampton.gov.uk/adult-social-care/care-info-professionals/the-care-act/ [Retrieved via: semantic_original]:\n. We have created a care self-assessment tool which can help you understand if you are eligible to receive help. It can also put you in touch with the right organisations to help and support you. Try our care self-assessment tool . View more information about needs and eligibility . Personal Budgets\u00a0and Direct Payments SHOW The Care Act states that, since April 2015, councils will need to allocate a personal budget to all people who are eligible for support. The personal budget is the amount of money needed to cover the cost of a person\u2019s eligible support. View more information about personal budgets . Anyone who is eligible will also be offered a direct payment. Many people in Southampton already receive direct payments. This means individuals have total control of how they receive the best care and support for them. Find out more about direct payments . Care planning\u00a0and reviews SHOW A person\u2019s care plan will be reviewed on a regular basis, and if or when their needs change\n\n[Document 3] From https://www (pdf) - URL: https://www.southampton.gov.uk/adult-social-care/paying-for-your-care/paying-social-care-services/ - 6 pages [Retrieved via: semantic_original]:\n[Page 3 - FINANCIAL/BUDGET INFORMATION]\n \n \n3 \nVersion 1, 8 Apr 24  \n2.1 Advice and help with choosing your own care provider \nPoints to consider, include:  \n\u2022 If you need care in a care home, w e recommend that you visit several potential  homes . \nThink about questions you want to ask, for example about the food , the activities arranged \nfor resident s and whether you will need  to share a room . How much does it cost? How much \ndo prices  go up each year?  \n\u2022 There is a free booklet called 'The Guide to Residential Care', which lists all residential and \nnursing homes in Southampton, Portsmouth and Hampshire.  This can be obtained by  \ncontacting Adult Social Care (see our Contacts Page ). \n\u2022 The Care Quality Commission (CQC) carry out annual inspections on all care homes. You can \nview their most recent inspection reports on the CQC website , or contact them on 0300 061 \n6161 to obtain a paper copy of a report.  The CQC also regulate many non -residential care \nproviders.\n\n[Document 4] From https://www (docx) - URL: https://www.southampton.gov.uk/adult-social-care/support-carers-away-home/residential-care-homes/ [Retrieved via: semantic_original]:\nThe only people who do not contribute to the cost of their care at all are those who have \u2018continuing NHS health care\u2019 which is care arranged and paid for by the NHS. (This is different to \u2018free nursing care\u2019 which is the payment from the health service for the nursing element of a person\u2019s care after they have been assessed by a registered nurse).\n\nOnly people who normally live in Southampton can apply for financial help from Southampton City Council. Anyone who lives in another part of the country and needs financial help with the fees for a Southampton home should start by contacting their own local authority.\n\nShort stays\n\nThese are temporary stays to give you or your carer a break, or for emergency situations (for example, if your carer has to go into hospital).\n\n[Document 5] From https://www (web_page) - URL: https://www.southampton.gov.uk/adult-social-care/home-living/where-to-get-support/help-to-stay-at-home/ [Retrieved via: semantic_original]:\nIn this section Where to get support Adult care eligibility - who can get care and support? Independent living Help to stay at home (current) Home care providers Housing support for older people Southampton Day Service Getting help at home for yourself We have lots of services available to help and assist you in your own home, for example getting help with your personal care needs. Our aim is to help you live independently in your own home for as long as possible. Please contact us if you would like more information about the home care services we can provide. Some of them may also require an assessment and there may be associated costs. Find out how we decide who is eligible for our home care services, including getting help with your personal care needs\n\n[Document 6] From https://www (web_page) - URL: https://www.southampton.gov.uk/self-assessment-tool/housing/moving-to-supported-accommodation-or-a-residential-home/ [Retrieved via: semantic_original]:\n--\n\nMoving to supported accommodation or a residential home Housing with care (supported accommodation) The housing with care schemes in Southampton provide the security and privacy of your own home alongside a range of facilities and support on the premises, with 24-hour care provision if you require it. Find out more about housing with care . Residential care homes Residential care homes are available to anyone aged 65 or over and living within the city boundaries. An assessment is carried out to make sure that places go to those who need them the most. You may also be asked to make a contribution towards the cost of your care. View more information about Residential care homes . Back Your path to help and advice Self-assessment home \u25bc Housing \u25bc Moving to supported accommodation or a residential home\n\n[Document 7] From https://www (pdf) - URL: https://www.southampton.gov.uk/adult-social-care/discharge-to-assess/ - 8 pages [Retrieved via: semantic_original]:\n[Page 7 - FINANCIAL/BUDGET INFORMATION]\nWhat if I need ongoing care and support and who pays for it? \nIf you have ongoing care and support needs which are assessed as being eligible \nfor help from the Council, we will work with you to develop a personal support plan. The social worker will arrange for you to have a fnancial assessment, if you haven\u2019t had one before. \nDepending on your fnancial circumstances, you may need to pay some or all of \nthe cost of your care and support. \nIf you are not eligible for services from the Council, we will give you information \nand advice about how to access care and support services for yourself. You can fnd information and services to manage your own care needs and to stay independent on the Southampton City Council website www.southampton.gov.uk. \nSome people may be eligible for NHS Continuing Healthcare. It is available to\n\n[Document 8] From https://www (pdf) - URL: https://www.southampton.gov.uk/adult-social-care/paying-for-your-care/paying-social-care-services/ - 6 pages [Retrieved via: semantic_original]:\nboundary,  and your assets are reducing  to the point where they  are within 3 -6 months of reaching \nthe \u00a323,250 threshold, please contact the council . If you have chosen to move to a care home \noutside Southampton, you are now resident in a different Local Authority and you need to contact \nthem  in the first instance .  \nYou can find out wh ich Local Authority area you live in, here .\n\n[Document 9] From https://www (pdf) - URL: https://www.southampton.gov.uk/adult-social-care/paying-for-your-care/paying-social-care-services/ - 6 pages [Retrieved via: semantic_original]:\n(ii) We will work with you to find a new provider tha t can meet your needs within the \nrate we can fund . In some residential care cases this may mean moving to a different \ncare home.  \n(iii) In exceptional cases, i f top-ups are not an option, and we consider that your best \ninterests are served by staying where you are, we will continue to fund the higher \nlevel of care.   \n Mrs Rose has a bank balance of \u00a338,250.  \nThis is \u00a315,000 above the threshold value of \u00a323,250.  \nHer residential care home fees are \u00a31,000 per week.  \nShe pays \u00a3250 per week from her weekly income, and the other \u00a3750 per week \nout of her bank balance.  \nSo every 10 weeks her bank balance will reduce by \u00a37,500. \nAs she is currently \u00a315,000 above the threshold, this will cover her care costs for \nthe next 20 weeks.  \n20 weeks is just under 5 months, so she should contact the council soon.\n\n[Document 10] From https://www (web_page) - URL: https://www.southampton.gov.uk/adult-social-care/home-living/where-to-get-support/independent-living/ [Retrieved via: semantic_original]:\nIn this section Where to get support Adult care eligibility - who can get care and support? Independent living (current) Help to stay at home Home care providers Housing support for older people Southampton Day Service Your home and living situation should enable you to have as much independence as you can. This means making sure you have the right support to make this happen. Housing Options Living independently doesn\u2019t mean living on your own or without any support. Each person will need a different amount of support to maximise their independence. For some, this means having support throughout the day and night. Others might only need occasional support for a few hours per week. Some of the different housing options which might be available to you are: Supported living SHOW This means you have your own home and security through a tenancy agreement with the landlord (usually a housing association). There are a variety of different supported living homes\n",
+  "answer": "If you are assessed as needing 20 hours of home care weekly in Southampton, you may be eligible for financial help depending on your financial circumstances. **If your savings are below \u00a323,250**, you might qualify for assistance from the council.\n\n- **Personal Budgets and Direct Payments**: If you are eligible for support, you will be allocated a personal budget to cover the cost of your care. You can also opt for direct payments, which give you control over how you manage your care services. More information about personal budgets and direct payments can be found on the Southampton City Council website.\n\n- **Financial Assessment**: The council will conduct a financial assessment to determine how much you need to contribute towards your care costs. Depending on the outcome, you may need to pay some or all of the costs.\n\n- **NHS Continuing Healthcare**: In some cases, if your care needs are primarily health-related, you might be eligible for NHS Continuing Healthcare, which covers the full cost of care.\n\nFor more detailed information and to explore your options, you should contact Southampton City Council's Adult Social Care services. You can also use their care self-assessment tool to understand your eligibility for financial help. Visit their website at [Southampton City Council Adult Social Care](https://www.southampton.gov.uk/adult-social-care) for further guidance and support.",
+  "metrics": {
+    "duration_seconds": 9.668937921524048,
+    "retrieved_docs_count": 10,
+    "query_length": 144,
+    "answer_length": 1404,
+    "retrieval_method": "enhanced",
+    "context_utilization": 0.1834862385321101,
+    "citations_count": 1,
+    "has_citations": true,
+    "query_relevance": 0.7619047619047619,
+    "unique_retrieval_methods": 1,
+    "budget_documents_retrieved": 6,
+    "retrieval_methods_used": [
+      "semantic_original"
+    ],
+    "retrieval_method_distribution": {
+      "semantic_original": 10
+    }
+  },
+  "local_authority": "southampton",
+  "query_id": "scn_16",
+  "retrieval_method": "enhanced",
+  "run_id": "e8d0f0ed-a8f9-4065-9fec-cc2dbc147bf1",
+  "trace": {
+    "run_id": "e8d0f0ed-a8f9-4065-9fec-cc2dbc147bf1",
+    "project": "social_care_rag",
+    "url": "https://eu.smith.langchain.com/o/me/runs/e8d0f0ed-a8f9-4065-9fec-cc2dbc147bf1"
+  },
+  "test_metadata": {
+    "local_authority": "southampton",
+    "query_id": "scn_16",
+    "query_category": "financial_scenarios",
+    "prompt_variation": "optimized",
+    "prompt_template": "\nPlease answer the following question about social care services in UK local authorities based only on the information in the provided documents.\n\nQuestion: {query}\n\nContext from relevant documents:\n{context}\n\nInstructions:\n1. Provide a clear, direct answer that would help someone needing this information. If information isn't available, state: \"The available documents don't provide specific information about [aspect].\"\n\n2. Synthesize information from ALL relevant documents to provide the most complete answer rather than analyzing documents individually.\n\n3. Structure your response with:\n   - A concise 1-2 sentence summary first\n   - Relevant details organized in short, clear paragraphs\n   - Bullet points for lists or step-by-step information\n   - Bold text for key information the user should notice\n\n4. For financial information:\n   - Include exact figures, time periods, and what the funding covers\n   - Present financial data clearly: \"The adult social care budget is **\u00a3X million** for [time period]\"\n\n5. Always include practical next steps or resources:\n   - Provide contact information, URLs, or application methods mentioned in the documents\n   - Suggest where the person could find more information\n\n6. When citing sources, use a simple format: \"According to [document name/description]\" or include URLs where available.\n\nAnswer:\n",
+    "processing_time": 9.672871828079224,
+    "timestamp": "2025-08-19T14:18:49.805024",
+    "top_k": 10
+  }
+}

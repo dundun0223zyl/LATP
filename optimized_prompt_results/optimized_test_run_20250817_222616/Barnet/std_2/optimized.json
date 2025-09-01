@@ -1,0 +1,311 @@
+{
+  "query": "What is the process for requesting a social care assessment in Barnet?",
+  "retrieved_documents": [
+    {
+      "content": "more\tinformation\tabout\tfinancial\tassessments\tplease\tvisit:\t\nwww.barnet.gov.uk/carefinance\nPrivacy Notice:\nBarnet\u2019s\tAdult\tSocial\tServices\tprovide\t\ninformation, advice, and support for \nindividuals\tand\ttheir\tcarers\twho:\n\u2022  have a physical and/or sensory \nimpairment\n\u2022\t have\tlearning\tdifficulties\n\u2022 have mental health support needs\n\u2022 are over 65 years and need support\n\u2022  care for a friend or relative or need \nsupport to keep people safe\nUnder the Care Act 2014, we must \ncarry out assessments for anyone \nwho appears to require care and \nsupport, regardless of their likely \neligibility for state-funded care. For \nmore\tinformation\ton\tBarnet\u2019s\tprivacy\t\nnotices and how we \nmanage your information \nvisit:\twww.barnet.gov.uk/\nadultsprivacyUseful Contacts for you:\nAge UK Barnet: 020 8203 5040\nTelecare Enquiries:  \nConnect.Barnet@medequip-uk.com \nOffice\t/\tReferral\tline:\t020\t8059\t0807\nNRS equipment collection and \ndelivery arrangement enquiries: \nenquiries@london.nrs-uk.net \n0300 100 0253",
+      "metadata": {
+        "chunk_id": 6,
+        "contains_financial_info": true,
+        "download_url": "https://www.barnet.gov.uk/sites/default/files/2024-02/024022%20BC4183%20Barnet%20Enablement%20leaflet%20A5%204pp%20DIGITAL.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "024022%20BC4183%20Barnet%20Enablement%20leaflet%20A5%204pp%20DIGITAL.pdf",
+        "financial_pages": "[1, 2, 4]",
+        "level": "level_2",
+        "page_count": 4,
+        "pages_with_content": "[1, 2, 3, 4]",
+        "source": "https://www.barnet.gov.uk/adult-social-care/independence-your-home/hospital",
+        "source_url": "https://www.barnet.gov.uk/adult-social-care/independence-your-home/hospital",
+        "total_chunks": 8,
+        "type": "pdf"
+      },
+      "id": "2b5c2511-c20e-4ff6-aa66-929ffd935bed",
+      "distance": 0.4823162257671356,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.2053051322698593,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". A person or their authorised person must be able to agree to having a direct payment and also have the capacity to manage one themselves, with whatever support they are able to access. You can nominate a person to act of your behalf. How to get a direct payment We require two assessments to be completed in order to set up a direct payment. Care assessment An adults assessment is needed to see if you have unmet care and support needs and are entitled to receive a direct payment. Get an assessment: Call: Social Care Direct 0208 359 5000 Email: socialcaredirect@barnet.gov.uk External link If you have eligible needs, we will draw up a care and support plan with you. If you are assessed as having unmet care and support need you may choose to receive a direct payment for you to arrange your own care and support or you can choose to have it managed by the council. You can also choose a combination of these options",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.barnet.gov.uk_node_5127.txt",
+        "level": "level_3",
+        "source": "https://www.barnet.gov.uk/node/5127",
+        "source_url": "https://www.barnet.gov.uk/node/5127",
+        "total_chunks": 8,
+        "type": "web_page"
+      },
+      "id": "7654a372-9f9c-478b-b6a8-8a6c4d9851f0",
+      "distance": 0.5217556357383728,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.19347330927848816,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Content Close Barnet Council e-newsletter Sign up to Barnet First External link for weekly service updates and news into your inbox. 28 Jun 2025 5:20pm Contact Adult Social Care Social Care Direct You can contact us by: email: socialcaredirect@barnet.gov.uk External link telephone: 020 8359 5000 post: 2 Bristol Avenue, Colindale, London NW9 4EW If you want to: request a care change or client information make a professional referral report adult abuse Please complete our Adults form (PDF 76.1 KB) and email the completed form to socialcaredirect@barnet.gov.uk External link In an emergency Call the police on 101 or if the da nger is immediate, always call the police on 999. If you want to apply for social housing , please contact Barnet Homes External link on 020 8080 6587 If you are a private tenant , read more about your rights and responsibilities on topics such as renting standards, damp & condensation, pest control, disabled facilities grants",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.barnet.gov.uk_node_5012.txt",
+        "level": "level_2",
+        "source": "https://www.barnet.gov.uk/node/5012",
+        "source_url": "https://www.barnet.gov.uk/node/5012",
+        "total_chunks": 3,
+        "type": "web_page"
+      },
+      "id": "a255f715-4212-4c88-af49-15c68d50256e",
+      "distance": 0.535455584526062,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.18936332464218142,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Barnet Council\u2019s adult social care service, part of the Adults and Health directorate, provides statutory social care services including: individual care and support; safeguarding; information and advice; preventative services; assessments under the Mental Health Act (MHA 1983, amended 2007) and the Mental Capacity Act (MCA 2005). Social Care Direct acts as the front door for new adult social care enquiries and is operated by the council\u2019s Customer Support Group (CSG). Comments, complaints and compliments are welcomed by the Service and are seen as a tool to help improve and develop services and practice. They provide the opportunity to learn from mistakes and to put things right for an individual when they have gone wrong. Barnet Council is required, under statutory regulations, to report annually to the relevant Council Committee on adult social care complaints",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "open.barnet.gov.uk_dataset_e5qpg_adult-social-care-annual-complaints-reports.txt",
+        "level": "level_3",
+        "source": "https://open.barnet.gov.uk/dataset/e5qpg/adult-social-care-annual-complaints-reports",
+        "source_url": "https://open.barnet.gov.uk/dataset/e5qpg/adult-social-care-annual-complaints-reports",
+        "total_chunks": 3,
+        "type": "web_page"
+      },
+      "id": "d337f564-0ba4-4802-8b9c-757b7d8207e3",
+      "distance": 0.5375731587409973,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1887280523777008,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Eligibility Criteria adult Barnet residents must be registered with GP must consent to the referral and information sharing with relevant professionals must be well enough to engage in community support Please note, we are not an urgent service Refer to The Network Please send referrals to Social Care Direct socialcaredirect@barnet.gov.uk External link or call Social Care Direct on 020 8359 5000. Clients can self refer by contacting Social Care Direct . Include: \u2018The Network Referral\u2019 in the subject heading the client\u2019s initials up to date risk information, if known reason for referral enablement goal client\u2019s consent for the referral referrer\u2019s name, contact details,\u00a0name of the referring team. Please ensure that there is only information related to one referral\u00a0per e-mail",
+      "metadata": {
+        "chunk_id": 6,
+        "filename": "www.barnet.gov.uk_node_5137.txt",
+        "level": "level_3",
+        "source": "https://www.barnet.gov.uk/node/5137",
+        "source_url": "https://www.barnet.gov.uk/node/5137",
+        "total_chunks": 8,
+        "type": "web_page"
+      },
+      "id": "9d9a9f42-ace9-48ce-95a7-90ba5f19542f",
+      "distance": 0.566443920135498,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.18006682395935059,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Barnet Council is required, under s tatutory regulations, to report annually to the relevant \nCouncil Committee on a dult social care complaints.  \nThis report provides information about complaints for Barnet \u2019s Adult Social Care  Service  for \nthe period 1 April 2019  to 31 March 2020 . The report considers complaints dealt with \nthrough both the S tatutory Adult Social Care and Corporate Complaints Procedures where \nthese relate to Adult Social Care.  \n2. Adult Social Care S tatutory Complaints Procedure  \nThe Council is required to operate a separate S tatutory Complai nts and R epresentations \nprocedure  for adult social care, in accordance with the Local Authority Social Services and \nNational Health Services Complaints (England) Regulations 2009 and the Local Authority Social Services and National Health Service Complaint s (England) (Amendment)",
+      "metadata": {
+        "chunk_id": 2,
+        "contains_financial_info": true,
+        "download_url": "",
+        "extraction_method": "PyPDF2",
+        "filename": "Complaints%20Annual%20Report%202019-20%20Final.pdf",
+        "financial_pages": "[1, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 18]",
+        "level": "level_3",
+        "page_count": 19,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]",
+        "source": "Complaints%20Annual%20Report%202019-20%20Final.pdf",
+        "source_url": "",
+        "total_chunks": 49,
+        "type": "pdf"
+      },
+      "id": "52b26638-44f2-4ab0-839a-df273751b2e8",
+      "distance": 0.569600522518158,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1791198432445526,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 3 - FINANCIAL/BUDGET INFORMATION]\nComplaints & Information  | Adult Social Care                                  Annual Complaints Report 20 22 - 2023 \n \n \n \n 1. Introduction  \nBarnet Council\u2019s a dult social  care service, part of the  Communities,  Adults  and Health directorate, \nprovid es statutory social care services  including  individual care and support; safeguarding; \ninformation and advice; preventative services; assessments under the Mental Health Act (MHA \n1983, amended 2007) and the Mental Capacity Act (MCA 2005). Social Care Direct acts as the front \ndoor for adult social care enquiries.  \nComments, complaints and compliments are welcomed by the  Service  and are seen as a tool to \nhelp improve and develop service s and practice . They provide the o pportunity to learn from mistakes \nand to put things right for an individual when they have gone wrong.  \nBarnet Council is required, under statutory regulations, to report annually to the relevant Council",
+      "metadata": {
+        "chunk_id": 1,
+        "contains_financial_info": true,
+        "download_url": "",
+        "extraction_method": "PyPDF2",
+        "filename": "Annual%20Complaints%20report%202022-23%20(1).pdf",
+        "financial_pages": "[1, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 16, 17]",
+        "level": "level_3",
+        "page_count": 17,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]",
+        "source": "Annual%20Complaints%20report%202022-23%20(1).pdf",
+        "source_url": "",
+        "total_chunks": 47,
+        "type": "pdf"
+      },
+      "id": "8ec45236-8efd-4c66-981d-f8c3c245035f",
+      "distance": 0.569850504398346,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1790448486804962,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 3 - FINANCIAL/BUDGET INFORMATION]\nComplaints & Information  | Adult Social Care                                  Annual Complaints Report 20 22 - 2023 \n \n \n \n 1. Introduction  \nBarnet Council\u2019s a dult social  care service, part of the  Communities,  Adults  and Health directorate, \nprovid es statutory social care services  including  individual care and support; safeguarding; \ninformation and advice; preventative services; assessments under the Mental Health Act (MHA \n1983, amended 2007) and the Mental Capacity Act (MCA 2005). Social Care Direct acts as the front \ndoor for adult social care enquiries.  \nComments, complaints and compliments are welcomed by the  Service  and are seen as a tool to \nhelp improve and develop service s and practice . They provide the o pportunity to learn from mistakes \nand to put things right for an individual when they have gone wrong.  \nBarnet Council is required, under statutory regulations, to report annually to the relevant Council",
+      "metadata": {
+        "chunk_id": 1,
+        "contains_financial_info": true,
+        "download_url": "",
+        "extraction_method": "PyPDF2",
+        "filename": "Annual%20Complaints%20report%202023-24%20Final.pdf",
+        "financial_pages": "[1, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 17, 18]",
+        "level": "level_3",
+        "page_count": 18,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18]",
+        "source": "Annual%20Complaints%20report%202023-24%20Final.pdf",
+        "source_url": "",
+        "total_chunks": 52,
+        "type": "pdf"
+      },
+      "id": "a486ff3b-8391-4d4c-aa7c-d6f31e4a103b",
+      "distance": 0.569850504398346,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1790448486804962,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 3 - FINANCIAL/BUDGET INFORMATION]\nComplaints & Information | Adult Social Care                                 Annual Complaints Report 2020 - 2021 \n \n \nPage 3 \n 1. Introduction  \nBarnet Council\u2019s adult social care service, part of the Communities, Adults and Health \ndirectorate, provides statutory social care services including individual care and support; \nsafeguarding; information and advice; preventative services; assessments under the Mental \nHealth Act (MHA 1983, amended 2007) and the Mental Capacity Act (MCA 2005). Social \nCare Direct acts as the front door for adult social care enquiries.  \nComments, complaints and compliments are welcomed by the Service and are seen as a \ntool to help improve and develop services and practice. They provide the opportunity to learn \nfrom mistakes and to put things right for an individual when they have gone wrong. \nBarnet Council is required, under statutory regulations, to report annually to the relevant \nCouncil Committee on adult social care complaints.",
+      "metadata": {
+        "chunk_id": 1,
+        "contains_financial_info": true,
+        "download_url": "",
+        "extraction_method": "PyPDF2",
+        "filename": "Annual%20Complaints%20report%202021-22.pdf",
+        "financial_pages": "[1, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]",
+        "level": "level_3",
+        "page_count": 16,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]",
+        "source": "Annual%20Complaints%20report%202021-22.pdf",
+        "source_url": "",
+        "total_chunks": 42,
+        "type": "pdf"
+      },
+      "id": "fc31471c-af87-40a4-a11d-e3d94c9bb510",
+      "distance": 0.5742147564888,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.17773557305335996,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 3 - FINANCIAL/BUDGET INFORMATION]\nComplaints & Information  | Adult Social Care                                  Annual Complaints Report 20 20 - 2021  \n \n \nPage 3 \n 1. Introduction  \nBarnet Council\u2019s a dult social  care service, part of the Adults  and Health directorate, provid es \nstatutory social care services  including  individual care and support; safeguarding; information \nand advice; preventative services ; assessments under the Mental Health Act (MHA 1983, \namended 2007) and the Mental Capacity Act (MCA 2005). Social Care Direct acts as the \nfront door for adult social c are enquiries.  \nComments, complaints and compliments are welcomed by the  Service  and are seen as a \ntool to help improve and develop service s and practice . They provide the o pportunity to learn \nfrom mistakes and to put things right for an individual when they have gone wrong.  \nBarnet Council is required, under statutory regulations, to report annually to the relevant",
+      "metadata": {
+        "chunk_id": 1,
+        "contains_financial_info": true,
+        "download_url": "",
+        "extraction_method": "PyPDF2",
+        "filename": "Complaints%20report%202020-2021.pdf",
+        "financial_pages": "[1, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]",
+        "level": "level_3",
+        "page_count": 17,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]",
+        "source": "Complaints%20report%202020-2021.pdf",
+        "source_url": "",
+        "total_chunks": 43,
+        "type": "pdf"
+      },
+      "id": "c6ab7167-b52c-419b-be2d-4f6e7ea0f357",
+      "distance": 0.5743178725242615,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.17770463824272154,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    }
+  ],
+  "context": "[Document 1] From https://www (pdf) - URL: https://www.barnet.gov.uk/adult-social-care/independence-your-home/hospital - 4 pages [Retrieved via: semantic_original]:\nmore\tinformation\tabout\tfinancial\tassessments\tplease\tvisit:\t\nwww.barnet.gov.uk/carefinance\nPrivacy Notice:\nBarnet\u2019s\tAdult\tSocial\tServices\tprovide\t\ninformation, advice, and support for \nindividuals\tand\ttheir\tcarers\twho:\n\u2022  have a physical and/or sensory \nimpairment\n\u2022\t have\tlearning\tdifficulties\n\u2022 have mental health support needs\n\u2022 are over 65 years and need support\n\u2022  care for a friend or relative or need \nsupport to keep people safe\nUnder the Care Act 2014, we must \ncarry out assessments for anyone \nwho appears to require care and \nsupport, regardless of their likely \neligibility for state-funded care. For \nmore\tinformation\ton\tBarnet\u2019s\tprivacy\t\nnotices and how we \nmanage your information \nvisit:\twww.barnet.gov.uk/\nadultsprivacyUseful Contacts for you:\nAge UK Barnet: 020 8203 5040\nTelecare Enquiries:  \nConnect.Barnet@medequip-uk.com \nOffice\t/\tReferral\tline:\t020\t8059\t0807\nNRS equipment collection and \ndelivery arrangement enquiries: \nenquiries@london.nrs-uk.net \n0300 100 0253\n\n[Document 2] From https://www (web_page) - URL: https://www.barnet.gov.uk/node/5127 [Retrieved via: semantic_original]:\n. A person or their authorised person must be able to agree to having a direct payment and also have the capacity to manage one themselves, with whatever support they are able to access. You can nominate a person to act of your behalf. How to get a direct payment We require two assessments to be completed in order to set up a direct payment. Care assessment An adults assessment is needed to see if you have unmet care and support needs and are entitled to receive a direct payment. Get an assessment: Call: Social Care Direct 0208 359 5000 Email: socialcaredirect@barnet.gov.uk External link If you have eligible needs, we will draw up a care and support plan with you. If you are assessed as having unmet care and support need you may choose to receive a direct payment for you to arrange your own care and support or you can choose to have it managed by the council. You can also choose a combination of these options\n\n[Document 3] From https://www (web_page) - URL: https://www.barnet.gov.uk/node/5012 [Retrieved via: semantic_original]:\nContent Close Barnet Council e-newsletter Sign up to Barnet First External link for weekly service updates and news into your inbox. 28 Jun 2025 5:20pm Contact Adult Social Care Social Care Direct You can contact us by: email: socialcaredirect@barnet.gov.uk External link telephone: 020 8359 5000 post: 2 Bristol Avenue, Colindale, London NW9 4EW If you want to: request a care change or client information make a professional referral report adult abuse Please complete our Adults form (PDF 76.1 KB) and email the completed form to socialcaredirect@barnet.gov.uk External link In an emergency Call the police on 101 or if the da nger is immediate, always call the police on 999. If you want to apply for social housing , please contact Barnet Homes External link on 020 8080 6587 If you are a private tenant , read more about your rights and responsibilities on topics such as renting standards, damp & condensation, pest control, disabled facilities grants\n\n[Document 4] From https://open (web_page) - URL: https://open.barnet.gov.uk/dataset/e5qpg/adult-social-care-annual-complaints-reports [Retrieved via: semantic_original]:\nBarnet Council\u2019s adult social care service, part of the Adults and Health directorate, provides statutory social care services including: individual care and support; safeguarding; information and advice; preventative services; assessments under the Mental Health Act (MHA 1983, amended 2007) and the Mental Capacity Act (MCA 2005). Social Care Direct acts as the front door for new adult social care enquiries and is operated by the council\u2019s Customer Support Group (CSG). Comments, complaints and compliments are welcomed by the Service and are seen as a tool to help improve and develop services and practice. They provide the opportunity to learn from mistakes and to put things right for an individual when they have gone wrong. Barnet Council is required, under statutory regulations, to report annually to the relevant Council Committee on adult social care complaints\n\n[Document 5] From https://www (web_page) - URL: https://www.barnet.gov.uk/node/5137 [Retrieved via: semantic_original]:\n. Eligibility Criteria adult Barnet residents must be registered with GP must consent to the referral and information sharing with relevant professionals must be well enough to engage in community support Please note, we are not an urgent service Refer to The Network Please send referrals to Social Care Direct socialcaredirect@barnet.gov.uk External link or call Social Care Direct on 020 8359 5000. Clients can self refer by contacting Social Care Direct . Include: \u2018The Network Referral\u2019 in the subject heading the client\u2019s initials up to date risk information, if known reason for referral enablement goal client\u2019s consent for the referral referrer\u2019s name, contact details,\u00a0name of the referring team. Please ensure that there is only information related to one referral\u00a0per e-mail\n\n[Document 6] From Complaints%20Annual%20Report%202019 20%20Final (pdf) - 19 pages [Retrieved via: semantic_original]:\nBarnet Council is required, under s tatutory regulations, to report annually to the relevant \nCouncil Committee on a dult social care complaints.  \nThis report provides information about complaints for Barnet \u2019s Adult Social Care  Service  for \nthe period 1 April 2019  to 31 March 2020 . The report considers complaints dealt with \nthrough both the S tatutory Adult Social Care and Corporate Complaints Procedures where \nthese relate to Adult Social Care.  \n2. Adult Social Care S tatutory Complaints Procedure  \nThe Council is required to operate a separate S tatutory Complai nts and R epresentations \nprocedure  for adult social care, in accordance with the Local Authority Social Services and \nNational Health Services Complaints (England) Regulations 2009 and the Local Authority Social Services and National Health Service Complaint s (England) (Amendment)\n\n[Document 7] From Annual%20Complaints%20report%202022 23%20(1) (pdf) - 17 pages [Retrieved via: semantic_original]:\n[Page 3 - FINANCIAL/BUDGET INFORMATION]\nComplaints & Information  | Adult Social Care                                  Annual Complaints Report 20 22 - 2023 \n \n \n \n 1. Introduction  \nBarnet Council\u2019s a dult social  care service, part of the  Communities,  Adults  and Health directorate, \nprovid es statutory social care services  including  individual care and support; safeguarding; \ninformation and advice; preventative services; assessments under the Mental Health Act (MHA \n1983, amended 2007) and the Mental Capacity Act (MCA 2005). Social Care Direct acts as the front \ndoor for adult social care enquiries.  \nComments, complaints and compliments are welcomed by the  Service  and are seen as a tool to \nhelp improve and develop service s and practice . They provide the o pportunity to learn from mistakes \nand to put things right for an individual when they have gone wrong.  \nBarnet Council is required, under statutory regulations, to report annually to the relevant Council\n\n[Document 8] From Annual%20Complaints%20report%202023 24%20Final (pdf) - 18 pages [Retrieved via: semantic_original]:\n[Page 3 - FINANCIAL/BUDGET INFORMATION]\nComplaints & Information  | Adult Social Care                                  Annual Complaints Report 20 22 - 2023 \n \n \n \n 1. Introduction  \nBarnet Council\u2019s a dult social  care service, part of the  Communities,  Adults  and Health directorate, \nprovid es statutory social care services  including  individual care and support; safeguarding; \ninformation and advice; preventative services; assessments under the Mental Health Act (MHA \n1983, amended 2007) and the Mental Capacity Act (MCA 2005). Social Care Direct acts as the front \ndoor for adult social care enquiries.  \nComments, complaints and compliments are welcomed by the  Service  and are seen as a tool to \nhelp improve and develop service s and practice . They provide the o pportunity to learn from mistakes \nand to put things right for an individual when they have gone wrong.  \nBarnet Council is required, under statutory regulations, to report annually to the relevant Council\n\n[Document 9] From Annual%20Complaints%20report%202021 22 (pdf) - 16 pages [Retrieved via: semantic_original]:\n[Page 3 - FINANCIAL/BUDGET INFORMATION]\nComplaints & Information | Adult Social Care                                 Annual Complaints Report 2020 - 2021 \n \n \nPage 3 \n 1. Introduction  \nBarnet Council\u2019s adult social care service, part of the Communities, Adults and Health \ndirectorate, provides statutory social care services including individual care and support; \nsafeguarding; information and advice; preventative services; assessments under the Mental \nHealth Act (MHA 1983, amended 2007) and the Mental Capacity Act (MCA 2005). Social \nCare Direct acts as the front door for adult social care enquiries.  \nComments, complaints and compliments are welcomed by the Service and are seen as a \ntool to help improve and develop services and practice. They provide the opportunity to learn \nfrom mistakes and to put things right for an individual when they have gone wrong. \nBarnet Council is required, under statutory regulations, to report annually to the relevant \nCouncil Committee on adult social care complaints.\n\n[Document 10] From Complaints%20report%202020 2021 (pdf) - 17 pages [Retrieved via: semantic_original]:\n[Page 3 - FINANCIAL/BUDGET INFORMATION]\nComplaints & Information  | Adult Social Care                                  Annual Complaints Report 20 20 - 2021  \n \n \nPage 3 \n 1. Introduction  \nBarnet Council\u2019s a dult social  care service, part of the Adults  and Health directorate, provid es \nstatutory social care services  including  individual care and support; safeguarding; information \nand advice; preventative services ; assessments under the Mental Health Act (MHA 1983, \namended 2007) and the Mental Capacity Act (MCA 2005). Social Care Direct acts as the \nfront door for adult social c are enquiries.  \nComments, complaints and compliments are welcomed by the  Service  and are seen as a \ntool to help improve and develop service s and practice . They provide the o pportunity to learn \nfrom mistakes and to put things right for an individual when they have gone wrong.  \nBarnet Council is required, under statutory regulations, to report annually to the relevant\n",
+  "answer": "To request a social care assessment in Barnet, you should contact Social Care Direct, which serves as the entry point for adult social care enquiries.\n\n**Steps to Request an Assessment:**\n- **Call**: You can reach Social Care Direct at **020 8359 5000**.\n- **Email**: Send your request to **socialcaredirect@barnet.gov.uk**.\n\nOnce you contact them, they will assess whether you have unmet care and support needs. If eligible, they will work with you to create a care and support plan. You may also have the option to receive a direct payment to arrange your own care or have it managed by the council.\n\nFor more detailed information, you can visit Barnet's adult social care page at [Barnet Adult Social Care](https://www.barnet.gov.uk/adult-social-care/independence-your-home/hospital).",
+  "metrics": {
+    "duration_seconds": 6.115776062011719,
+    "retrieved_docs_count": 10,
+    "query_length": 70,
+    "answer_length": 787,
+    "retrieval_method": "enhanced",
+    "context_utilization": 0.1306532663316583,
+    "citations_count": 0,
+    "has_citations": false,
+    "query_relevance": 0.5714285714285714,
+    "unique_retrieval_methods": 1,
+    "budget_documents_retrieved": 6,
+    "retrieval_methods_used": [
+      "semantic_original"
+    ],
+    "retrieval_method_distribution": {
+      "semantic_original": 10
+    }
+  },
+  "local_authority": "Barnet",
+  "query_id": "std_2",
+  "retrieval_method": "enhanced",
+  "run_id": "b8b508d7-4045-4318-b257-d7b15bcbb99e",
+  "trace": {
+    "run_id": "b8b508d7-4045-4318-b257-d7b15bcbb99e",
+    "project": "social_care_rag",
+    "url": "https://eu.smith.langchain.com/o/me/runs/b8b508d7-4045-4318-b257-d7b15bcbb99e"
+  },
+  "test_metadata": {
+    "local_authority": "Barnet",
+    "query_id": "std_2",
+    "query_category": "service_standard",
+    "prompt_variation": "optimized",
+    "prompt_template": "\nPlease answer the following question about social care services in UK local authorities based only on the information in the provided documents.\n\nQuestion: {query}\n\nContext from relevant documents:\n{context}\n\nInstructions:\n1. Provide a clear, direct answer that would help someone needing this information. If information isn't available, state: \"The available documents don't provide specific information about [aspect].\"\n\n2. Synthesize information from ALL relevant documents to provide the most complete answer rather than analyzing documents individually.\n\n3. Structure your response with:\n   - A concise 1-2 sentence summary first\n   - Relevant details organized in short, clear paragraphs\n   - Bullet points for lists or step-by-step information\n   - Bold text for key information the user should notice\n\n4. For financial information:\n   - Include exact figures, time periods, and what the funding covers\n   - Present financial data clearly: \"The adult social care budget is **\u00a3X million** for [time period]\"\n\n5. Always include practical next steps or resources:\n   - Provide contact information, URLs, or application methods mentioned in the documents\n   - Suggest where the person could find more information\n\n6. When citing sources, use a simple format: \"According to [document name/description]\" or include URLs where available.\n\nAnswer:\n",
+    "processing_time": 6.118608236312866,
+    "timestamp": "2025-08-17T22:26:42.868706",
+    "top_k": 10
+  }
+}

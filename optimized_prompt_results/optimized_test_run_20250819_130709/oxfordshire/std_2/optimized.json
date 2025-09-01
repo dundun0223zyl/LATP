@@ -1,0 +1,303 @@
+{
+  "query": "What is the process for requesting a social care assessment in oxfordshire?",
+  "retrieved_documents": [
+    {
+      "content": ". It will be used in accordance with the Data Protection Act 2018. If you need help completing\u00a0the form, please contact Carers Oxfordshire: Telephone 01235 424715 or email: carersinfo@carersoxfordshire.org.uk Other things you need to know: If you feel that the person you care for has unmet needs you can request an assessment for them. To do this visit this page or\u00a0call the Social and Health Care team, option 2, on 0345 050 7666 If you have concerns about the care they are receiving please call the Social and Health Care team, option 2, on 0345 050 7666 It may be most appropriate for you and the person you care for to have a joint assessment. If you would like to arrange this please call the Social and Health Care team, option 2, on 0345 050 7666 If you would like an independent person (an advocate who is not a friend or family member) to support you during the assessment process please call 0345 050 7666 or visit this page. Start Carers Assessment",
+      "metadata": {
+        "chunk_id": 3,
+        "filename": "mycitizenportal.oxfordshire.gov.uk_web_portal_pages_carerinfo.txt",
+        "level": "level_3",
+        "source": "https://mycitizenportal.oxfordshire.gov.uk/web/portal/pages/carerinfo",
+        "source_url": "https://mycitizenportal.oxfordshire.gov.uk/web/portal/pages/carerinfo",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "353a722c-711c-4d2f-8eab-3c348c04aaeb",
+      "distance": 0.45288386940956116,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.21413483917713166,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". How to get an assessment Visit Carers Oxfordshire for the assessment. The website can also help you prepare for your assessment. You can complete the Carers Assessment form yourself online. Carers Oxfordshire will contact you afterwards to discuss any support you may need. Or you can book a phone call with Carers Oxfordshire, who will ask you the assessment questions and fill out the Carers Assessment with you and discuss any support you may need. If the person you care for does not live in Oxfordshire , you should contact the council covering the area where the person lives. Back to top Advice and guidance Carers Oxfordshire Carers Oxfordshire is a free service that offers information, advice and support to adult carers of someone living in Oxfordshire. Back to top Requesting a needs assessment for the person you care for If the person you care for is not receiving any care services, they may benefit from an assessment of their needs",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.oxfordshire.gov.uk_residents_social-and-health-care_carers_carers-assessment.txt",
+        "level": "level_3",
+        "source": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/carers/carers-assessment",
+        "source_url": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/carers/carers-assessment",
+        "total_chunks": 5,
+        "type": "web_page"
+      },
+      "id": "2c1a19b6-d07c-47f9-b4cd-c03b6df575f2",
+      "distance": 0.4825240969657898,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.20524277091026305,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". How to get an assessment Visit Carers Oxfordshire for the assessment. The website can also help you prepare for your assessment. You can complete the Carers Assessment form yourself online. Carers Oxfordshire will contact you afterwards to discuss any support you may need. Or you can book a phone call with Carers Oxfordshire, who will ask you the assessment questions and fill out the Carers Assessment with you and discuss any support you may need. If the person you care for does not live in Oxfordshire , you should contact the council covering the area where the person lives. Back to top Advice and guidance Carers Oxfordshire Carers Oxfordshire is a free service that offers information, advice and support to adult carers of someone living in Oxfordshire. Back to top Requesting a needs assessment for the person you care for If the person you care for is not receiving any care services, they may benefit from an assessment of their needs",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.oxfordshire.gov.uk_node_1369.txt",
+        "level": "level_2",
+        "source": "https://www.oxfordshire.gov.uk/node/1369",
+        "source_url": "https://www.oxfordshire.gov.uk/node/1369",
+        "total_chunks": 5,
+        "type": "web_page"
+      },
+      "id": "a14e79a8-d0bb-4eaf-97b0-2a0e4df594d1",
+      "distance": 0.48252418637275696,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.2052427440881729,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "# Choice and Control  \n\nThe vision for adult social care in Oxfordshire is to enhance people\u2019s choice and control over their lives, as the council believes that people themselves are best placed to determine the care and support, they need.  \n\n  \n\nThe council will provide people with information about the assessment process and the National Eligibility Criteria to help them decide whether they want an assessment from the council.  \n\n  \n\nThe council will ensure people are at the centre of assessment and reviews and are supported to take as much control as they are able and willing to do.  \n\n  \n\nA number of different assessment options will be available for people, including supported self-assessment, telephone assessments and face-to-face assessments according to the person\u2019s needs, preferences and circumstances.  \n\nRisk\n\nThe council will use the assessment process to consider risks associated with the adults physical and mental health and how this could impact their wellbeing.",
+      "metadata": {
+        "chunk_id": 9,
+        "contains_financial_info": true,
+        "download_url": "https://www.oxfordshire.gov.uk/sites/default/files/file/adult-social-and-health-care/ASC-AssessmentandReviewPolicy.docx",
+        "filename": "ASC-AssessmentandReviewPolicy.docx",
+        "financial_sections": "['Purpose  ', 'Policy Principles  ', 'Information and Advice  ', 'Fairness and Equity  ', 'Choice and Control  ', 'Policy Inclusions  ', 'Assessment Policy  ', 'Carer\u2019s Assessment  ', 'Review of Support Plans  ', 'Timeline for reviewing support plans  ']",
+        "level": "level_3",
+        "paragraph_count": 473,
+        "section_count": 2,
+        "sections": "['Introduction', 'Purpose  ', 'Context  ', 'Policy Principles  ', 'Transparency  ', 'Information and Advice  ', 'Fairness and Equity  ', 'Choice and Control  ', 'Partnership  ', 'Promoting prevention, early intervention and independence  ', 'Policy Inclusions  ', 'Policy Exclusions  ', 'Decision not to take part in assessment or a review  ', 'Mental Capacity  ', 'Independent Advocacy  ', 'Safeguarding  ', 'Assessment Policy  ', 'Carer\u2019s Assessment  ', 'Transition Assessments  ', 'First Contact with the Council  ', 'Combining assessments  ', 'Fluctuating needs  ', 'Training, expertise and consultation  ', 'NHS Continuing Healthcare  ', 'Assessment for people who are deafblind  ', 'Eligibility  ', 'Eligibility Decision  ', 'Review of Support Plans  ', 'Timeline for reviewing support plans  ', 'Monitoring and Review  ']",
+        "source": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/adult-social-care-policies",
+        "source_url": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/adult-social-care-policies",
+        "table_count": 0,
+        "total_chunks": 54,
+        "type": "docx"
+      },
+      "id": "3598e3fb-2cad-4ecd-81f6-d2660108dde4",
+      "distance": 0.5018829703330994,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1994351089000702,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "docx",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "# Choice and Control  \n\nThe vision for adult social care in Oxfordshire is to enhance people\u2019s choice and control over their lives, as the council believes that people themselves are best placed to determine the care and support, they need.  \n\n  \n\nThe council will provide people with information about the assessment process and the National Eligibility Criteria to help them decide whether they want an assessment from the council.  \n\n  \n\nThe council will ensure people are at the centre of assessment and reviews and are supported to take as much control as they are able and willing to do.  \n\n  \n\nA number of different assessment options will be available for people, including supported self-assessment, telephone assessments and face-to-face assessments according to the person\u2019s needs, preferences and circumstances.  \n\nRisk\n\nThe council will use the assessment process to consider risks associated with the adults physical and mental health and how this could impact their wellbeing.",
+      "metadata": {
+        "chunk_id": 9,
+        "contains_financial_info": true,
+        "download_url": "https://www.oxfordshire.gov.uk/sites/default/files/file/adult-social-and-health-care/ASC-AssessmentandReviewPolicy.docx",
+        "filename": "ASC-AssessmentandReviewPolicy.docx",
+        "financial_sections": "['Purpose  ', 'Policy Principles  ', 'Information and Advice  ', 'Fairness and Equity  ', 'Choice and Control  ', 'Policy Inclusions  ', 'Assessment Policy  ', 'Carer\u2019s Assessment  ', 'Review of Support Plans  ', 'Timeline for reviewing support plans  ']",
+        "level": "level_1",
+        "paragraph_count": 473,
+        "section_count": 2,
+        "sections": "['Introduction', 'Purpose  ', 'Context  ', 'Policy Principles  ', 'Transparency  ', 'Information and Advice  ', 'Fairness and Equity  ', 'Choice and Control  ', 'Partnership  ', 'Promoting prevention, early intervention and independence  ', 'Policy Inclusions  ', 'Policy Exclusions  ', 'Decision not to take part in assessment or a review  ', 'Mental Capacity  ', 'Independent Advocacy  ', 'Safeguarding  ', 'Assessment Policy  ', 'Carer\u2019s Assessment  ', 'Transition Assessments  ', 'First Contact with the Council  ', 'Combining assessments  ', 'Fluctuating needs  ', 'Training, expertise and consultation  ', 'NHS Continuing Healthcare  ', 'Assessment for people who are deafblind  ', 'Eligibility  ', 'Eligibility Decision  ', 'Review of Support Plans  ', 'Timeline for reviewing support plans  ', 'Monitoring and Review  ']",
+        "source": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/adult-social-care-policies",
+        "source_url": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/adult-social-care-policies",
+        "table_count": 0,
+        "total_chunks": 54,
+        "type": "docx"
+      },
+      "id": "971a5f88-3f2d-4069-a461-045c1e3d2fc3",
+      "distance": 0.5018830079526023,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1994350976142193,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "docx",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Before you start the assessment Please note: To be eligible for support as an informal carer from Oxfordshire County Council, the person you support / care for, must be an ordinary resident in Oxfordshire. An ordinary resident is determined by which authority they pay their council tax to (e.g South Oxfordshire district Council, Cherwell District Council). Therefore, if they are not an ordinary resident in Oxfordshire, please contact their local authority to request a carers assessment or support. If you are unsure which authority you pay your council tax to, please check using this link: Council Tax It is advised that you prepare for your carers assessment beforehand and set aside time of up to one hour to complete it. Please use the 'Preparing for a care assessment' guidance (written by Carers Oxfordshire) below should you want more information about the carers assessment before starting your assessment",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "mycitizenportal.oxfordshire.gov.uk_web_portal_pages_carerinfo.txt",
+        "level": "level_3",
+        "source": "https://mycitizenportal.oxfordshire.gov.uk/web/portal/pages/carerinfo",
+        "source_url": "https://mycitizenportal.oxfordshire.gov.uk/web/portal/pages/carerinfo",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "c5ddcf03-860b-40ab-b3f1-7e19c5cdbdc4",
+      "distance": 0.5239992141723633,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.19280023574829103,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". It should be read in conjunction with the council\u2019s Adult Social Care policies on Assessment and Review, Comments and Complaints, Safeguarding and Contributions, and associated operational procedures and guidance It should also be read in conjunction with partners\u2019 policies where applicable. Examples include the Oxfordshire Clinical Commissioning Group, NHS Continuing Healthcare and mental health services. Context Oxfordshire County Council aims to support and promote strong communities so that people live their lives as successfully, independently and safely as possible. It aims to encourage independence and choice, be fair and equitable and give service users more power and control over their lives. The Care Act 2014 sets out that people whose eligible needs for care and support are being met by the council will have a Support Plan, and where applicable a Personal Budget",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.oxfordshire.gov.uk_residents_social-and-health-care_adult-social-care_adult-social-care-policies.txt",
+        "level": "level_2",
+        "source": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/adult-social-care-policies/support-planning",
+        "source_url": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/adult-social-care-policies/support-planning",
+        "total_chunks": 35,
+        "type": "web_page"
+      },
+      "id": "cd294378-3783-453e-bfd7-2c43c0686cb4",
+      "distance": 0.5417714715003967,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.18746855854988098,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Oxfordshire County Council Policy for  \n\nAssessment and Reviews in Adult Social Care  \n\n  \n\nApproved: 24/02/2015  \n\nActive from: 01/04/2015  \n\nReviewed: 23/01/2024 \n\nNext review: 06/02/2026 \n\n  \n\n# Purpose  \n\n  \n\nThis policy outlines what the council will do to ensure that people who may have care and support needs are able to access an assessment of their needs and review of their support plan (if they have one) in Oxfordshire.  \n\n  \n\nThis policy applies to adults and carers regardless of the level of their need and financial resources.  \n\n  \n\nThis policy applies to young carers, young people who may have social care needs when they become an adult, and young people\u2019s carers who are likely to have needs for support after the young person becomes 18 regardless of the level of their need and financial resources.  \n\n  \n\nThis policy is based on relevant Government legislation and guidance including:",
+      "metadata": {
+        "chunk_id": 0,
+        "contains_financial_info": true,
+        "download_url": "https://www.oxfordshire.gov.uk/sites/default/files/file/adult-social-and-health-care/ASC-AssessmentandReviewPolicy.docx",
+        "filename": "ASC-AssessmentandReviewPolicy.docx",
+        "financial_sections": "['Purpose  ', 'Policy Principles  ', 'Information and Advice  ', 'Fairness and Equity  ', 'Choice and Control  ', 'Policy Inclusions  ', 'Assessment Policy  ', 'Carer\u2019s Assessment  ', 'Review of Support Plans  ', 'Timeline for reviewing support plans  ']",
+        "level": "level_1",
+        "paragraph_count": 473,
+        "section_count": 2,
+        "sections": "['Introduction', 'Purpose  ', 'Context  ', 'Policy Principles  ', 'Transparency  ', 'Information and Advice  ', 'Fairness and Equity  ', 'Choice and Control  ', 'Partnership  ', 'Promoting prevention, early intervention and independence  ', 'Policy Inclusions  ', 'Policy Exclusions  ', 'Decision not to take part in assessment or a review  ', 'Mental Capacity  ', 'Independent Advocacy  ', 'Safeguarding  ', 'Assessment Policy  ', 'Carer\u2019s Assessment  ', 'Transition Assessments  ', 'First Contact with the Council  ', 'Combining assessments  ', 'Fluctuating needs  ', 'Training, expertise and consultation  ', 'NHS Continuing Healthcare  ', 'Assessment for people who are deafblind  ', 'Eligibility  ', 'Eligibility Decision  ', 'Review of Support Plans  ', 'Timeline for reviewing support plans  ', 'Monitoring and Review  ']",
+        "source": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/adult-social-care-policies",
+        "source_url": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/adult-social-care-policies",
+        "table_count": 0,
+        "total_chunks": 54,
+        "type": "docx"
+      },
+      "id": "3d096de4-167f-46b4-aa32-b8734fa2fecb",
+      "distance": 0.544019822887585,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1867940531337245,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": true,
+        "document_type": "docx",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Oxfordshire County Council Policy for  \n\nAssessment and Reviews in Adult Social Care  \n\n  \n\nApproved: 24/02/2015  \n\nActive from: 01/04/2015  \n\nReviewed: 23/01/2024 \n\nNext review: 06/02/2026 \n\n  \n\n# Purpose  \n\n  \n\nThis policy outlines what the council will do to ensure that people who may have care and support needs are able to access an assessment of their needs and review of their support plan (if they have one) in Oxfordshire.  \n\n  \n\nThis policy applies to adults and carers regardless of the level of their need and financial resources.  \n\n  \n\nThis policy applies to young carers, young people who may have social care needs when they become an adult, and young people\u2019s carers who are likely to have needs for support after the young person becomes 18 regardless of the level of their need and financial resources.  \n\n  \n\nThis policy is based on relevant Government legislation and guidance including:",
+      "metadata": {
+        "chunk_id": 0,
+        "contains_financial_info": true,
+        "download_url": "https://www.oxfordshire.gov.uk/sites/default/files/file/adult-social-and-health-care/ASC-AssessmentandReviewPolicy.docx",
+        "filename": "ASC-AssessmentandReviewPolicy.docx",
+        "financial_sections": "['Purpose  ', 'Policy Principles  ', 'Information and Advice  ', 'Fairness and Equity  ', 'Choice and Control  ', 'Policy Inclusions  ', 'Assessment Policy  ', 'Carer\u2019s Assessment  ', 'Review of Support Plans  ', 'Timeline for reviewing support plans  ']",
+        "level": "level_3",
+        "paragraph_count": 473,
+        "section_count": 2,
+        "sections": "['Introduction', 'Purpose  ', 'Context  ', 'Policy Principles  ', 'Transparency  ', 'Information and Advice  ', 'Fairness and Equity  ', 'Choice and Control  ', 'Partnership  ', 'Promoting prevention, early intervention and independence  ', 'Policy Inclusions  ', 'Policy Exclusions  ', 'Decision not to take part in assessment or a review  ', 'Mental Capacity  ', 'Independent Advocacy  ', 'Safeguarding  ', 'Assessment Policy  ', 'Carer\u2019s Assessment  ', 'Transition Assessments  ', 'First Contact with the Council  ', 'Combining assessments  ', 'Fluctuating needs  ', 'Training, expertise and consultation  ', 'NHS Continuing Healthcare  ', 'Assessment for people who are deafblind  ', 'Eligibility  ', 'Eligibility Decision  ', 'Review of Support Plans  ', 'Timeline for reviewing support plans  ', 'Monitoring and Review  ']",
+        "source": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/adult-social-care-policies",
+        "source_url": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/adult-social-care-policies",
+        "table_count": 0,
+        "total_chunks": 54,
+        "type": "docx"
+      },
+      "id": "fb9aa2cd-3f58-44b8-83ea-5c9e0a23d7cd",
+      "distance": 0.5440199971199036,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.18679400086402892,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": true,
+        "document_type": "docx",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". You can obtain a list of Independent Care Providers by telephoning Oxfordshire County Council's Social and Health Care Team on 0345 050 7666. What evidence do I need to supply with my details? Please review the Evidence\u00a0Required section on this page. There is also a checklist that you can download. If you are still unsure, you can call the Financial Assessment Team on 01865 897530 and discuss this before you submit your form. We cannot complete your financial assessment if we do not have the relevant evidence. What if I want to appeal against my assessment outcome? If you wish to appeal against the assessment, we recommend that you contact your Adult Social Care Team to discuss this. In the meantime, you should make payments as assessed whilst we consider your appeal to help avoid any debt increasing on your account. If your appeal is successful, we will arrange a refund as appropriate",
+      "metadata": {
+        "chunk_id": 27,
+        "filename": "www.oxfordshire.gov.uk_online-financial-assessment.txt",
+        "level": "level_3",
+        "source": "https://www.oxfordshire.gov.uk/online-financial-assessment",
+        "source_url": "https://www.oxfordshire.gov.uk/online-financial-assessment",
+        "total_chunks": 29,
+        "type": "web_page"
+      },
+      "id": "ba9558e7-01d2-4fde-ba7a-26a7d8374f76",
+      "distance": 0.5632933378219604,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1810119986534119,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    }
+  ],
+  "context": "[Document 1] From https://mycitizenportal (web_page) - URL: https://mycitizenportal.oxfordshire.gov.uk/web/portal/pages/carerinfo [Retrieved via: semantic_original]:\n. It will be used in accordance with the Data Protection Act 2018. If you need help completing\u00a0the form, please contact Carers Oxfordshire: Telephone 01235 424715 or email: carersinfo@carersoxfordshire.org.uk Other things you need to know: If you feel that the person you care for has unmet needs you can request an assessment for them. To do this visit this page or\u00a0call the Social and Health Care team, option 2, on 0345 050 7666 If you have concerns about the care they are receiving please call the Social and Health Care team, option 2, on 0345 050 7666 It may be most appropriate for you and the person you care for to have a joint assessment. If you would like to arrange this please call the Social and Health Care team, option 2, on 0345 050 7666 If you would like an independent person (an advocate who is not a friend or family member) to support you during the assessment process please call 0345 050 7666 or visit this page. Start Carers Assessment\n\n[Document 2] From https://www (web_page) - URL: https://www.oxfordshire.gov.uk/residents/social-and-health-care/carers/carers-assessment [Retrieved via: semantic_original]:\n. How to get an assessment Visit Carers Oxfordshire for the assessment. The website can also help you prepare for your assessment. You can complete the Carers Assessment form yourself online. Carers Oxfordshire will contact you afterwards to discuss any support you may need. Or you can book a phone call with Carers Oxfordshire, who will ask you the assessment questions and fill out the Carers Assessment with you and discuss any support you may need. If the person you care for does not live in Oxfordshire , you should contact the council covering the area where the person lives. Back to top Advice and guidance Carers Oxfordshire Carers Oxfordshire is a free service that offers information, advice and support to adult carers of someone living in Oxfordshire. Back to top Requesting a needs assessment for the person you care for If the person you care for is not receiving any care services, they may benefit from an assessment of their needs\n\n[Document 3] From https://www (web_page) - URL: https://www.oxfordshire.gov.uk/node/1369 [Retrieved via: semantic_original]:\n. How to get an assessment Visit Carers Oxfordshire for the assessment. The website can also help you prepare for your assessment. You can complete the Carers Assessment form yourself online. Carers Oxfordshire will contact you afterwards to discuss any support you may need. Or you can book a phone call with Carers Oxfordshire, who will ask you the assessment questions and fill out the Carers Assessment with you and discuss any support you may need. If the person you care for does not live in Oxfordshire , you should contact the council covering the area where the person lives. Back to top Advice and guidance Carers Oxfordshire Carers Oxfordshire is a free service that offers information, advice and support to adult carers of someone living in Oxfordshire. Back to top Requesting a needs assessment for the person you care for If the person you care for is not receiving any care services, they may benefit from an assessment of their needs\n\n[Document 4] From https://www (docx) - URL: https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/adult-social-care-policies [Retrieved via: semantic_original]:\n# Choice and Control  \n\nThe vision for adult social care in Oxfordshire is to enhance people\u2019s choice and control over their lives, as the council believes that people themselves are best placed to determine the care and support, they need.  \n\n  \n\nThe council will provide people with information about the assessment process and the National Eligibility Criteria to help them decide whether they want an assessment from the council.  \n\n  \n\nThe council will ensure people are at the centre of assessment and reviews and are supported to take as much control as they are able and willing to do.  \n\n  \n\nA number of different assessment options will be available for people, including supported self-assessment, telephone assessments and face-to-face assessments according to the person\u2019s needs, preferences and circumstances.  \n\nRisk\n\nThe council will use the assessment process to consider risks associated with the adults physical and mental health and how this could impact their wellbeing.\n\n[Document 5] From https://www (docx) - URL: https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/adult-social-care-policies [Retrieved via: semantic_original]:\n# Choice and Control  \n\nThe vision for adult social care in Oxfordshire is to enhance people\u2019s choice and control over their lives, as the council believes that people themselves are best placed to determine the care and support, they need.  \n\n  \n\nThe council will provide people with information about the assessment process and the National Eligibility Criteria to help them decide whether they want an assessment from the council.  \n\n  \n\nThe council will ensure people are at the centre of assessment and reviews and are supported to take as much control as they are able and willing to do.  \n\n  \n\nA number of different assessment options will be available for people, including supported self-assessment, telephone assessments and face-to-face assessments according to the person\u2019s needs, preferences and circumstances.  \n\nRisk\n\nThe council will use the assessment process to consider risks associated with the adults physical and mental health and how this could impact their wellbeing.\n\n[Document 6] From https://mycitizenportal (web_page) - URL: https://mycitizenportal.oxfordshire.gov.uk/web/portal/pages/carerinfo [Retrieved via: semantic_original]:\nBefore you start the assessment Please note: To be eligible for support as an informal carer from Oxfordshire County Council, the person you support / care for, must be an ordinary resident in Oxfordshire. An ordinary resident is determined by which authority they pay their council tax to (e.g South Oxfordshire district Council, Cherwell District Council). Therefore, if they are not an ordinary resident in Oxfordshire, please contact their local authority to request a carers assessment or support. If you are unsure which authority you pay your council tax to, please check using this link: Council Tax It is advised that you prepare for your carers assessment beforehand and set aside time of up to one hour to complete it. Please use the 'Preparing for a care assessment' guidance (written by Carers Oxfordshire) below should you want more information about the carers assessment before starting your assessment\n\n[Document 7] From https://www (web_page) - URL: https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/adult-social-care-policies/support-planning [Retrieved via: semantic_original]:\n. It should be read in conjunction with the council\u2019s Adult Social Care policies on Assessment and Review, Comments and Complaints, Safeguarding and Contributions, and associated operational procedures and guidance It should also be read in conjunction with partners\u2019 policies where applicable. Examples include the Oxfordshire Clinical Commissioning Group, NHS Continuing Healthcare and mental health services. Context Oxfordshire County Council aims to support and promote strong communities so that people live their lives as successfully, independently and safely as possible. It aims to encourage independence and choice, be fair and equitable and give service users more power and control over their lives. The Care Act 2014 sets out that people whose eligible needs for care and support are being met by the council will have a Support Plan, and where applicable a Personal Budget\n\n[Document 8] From https://www (docx) - URL: https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/adult-social-care-policies [Retrieved via: semantic_original]:\nOxfordshire County Council Policy for  \n\nAssessment and Reviews in Adult Social Care  \n\n  \n\nApproved: 24/02/2015  \n\nActive from: 01/04/2015  \n\nReviewed: 23/01/2024 \n\nNext review: 06/02/2026 \n\n  \n\n# Purpose  \n\n  \n\nThis policy outlines what the council will do to ensure that people who may have care and support needs are able to access an assessment of their needs and review of their support plan (if they have one) in Oxfordshire.  \n\n  \n\nThis policy applies to adults and carers regardless of the level of their need and financial resources.  \n\n  \n\nThis policy applies to young carers, young people who may have social care needs when they become an adult, and young people\u2019s carers who are likely to have needs for support after the young person becomes 18 regardless of the level of their need and financial resources.  \n\n  \n\nThis policy is based on relevant Government legislation and guidance including:\n\n[Document 9] From https://www (docx) - URL: https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/adult-social-care-policies [Retrieved via: semantic_original]:\nOxfordshire County Council Policy for  \n\nAssessment and Reviews in Adult Social Care  \n\n  \n\nApproved: 24/02/2015  \n\nActive from: 01/04/2015  \n\nReviewed: 23/01/2024 \n\nNext review: 06/02/2026 \n\n  \n\n# Purpose  \n\n  \n\nThis policy outlines what the council will do to ensure that people who may have care and support needs are able to access an assessment of their needs and review of their support plan (if they have one) in Oxfordshire.  \n\n  \n\nThis policy applies to adults and carers regardless of the level of their need and financial resources.  \n\n  \n\nThis policy applies to young carers, young people who may have social care needs when they become an adult, and young people\u2019s carers who are likely to have needs for support after the young person becomes 18 regardless of the level of their need and financial resources.  \n\n  \n\nThis policy is based on relevant Government legislation and guidance including:\n\n[Document 10] From https://www (web_page) - URL: https://www.oxfordshire.gov.uk/online-financial-assessment [Retrieved via: semantic_original]:\n. You can obtain a list of Independent Care Providers by telephoning Oxfordshire County Council's Social and Health Care Team on 0345 050 7666. What evidence do I need to supply with my details? Please review the Evidence\u00a0Required section on this page. There is also a checklist that you can download. If you are still unsure, you can call the Financial Assessment Team on 01865 897530 and discuss this before you submit your form. We cannot complete your financial assessment if we do not have the relevant evidence. What if I want to appeal against my assessment outcome? If you wish to appeal against the assessment, we recommend that you contact your Adult Social Care Team to discuss this. In the meantime, you should make payments as assessed whilst we consider your appeal to help avoid any debt increasing on your account. If your appeal is successful, we will arrange a refund as appropriate\n",
+  "answer": "To request a social care assessment in Oxfordshire, you should contact the Social and Health Care team or Carers Oxfordshire.\n\n- **Contact the Social and Health Care Team**: Call 0345 050 7666 and select option 2. This is suitable if you want to discuss concerns about the care being received or if you want to arrange a joint assessment for you and the person you care for.\n\n- **Contact Carers Oxfordshire**: You can visit their website for more information and to prepare for your assessment. You have the option to complete the Carers Assessment form online, after which Carers Oxfordshire will contact you to discuss your needs. Alternatively, you can book a phone call with them to go through the assessment questions together.\n\n- **Eligibility**: Ensure that the person you care for is an ordinary resident in Oxfordshire, determined by the local authority they pay council tax to. If they are not, contact the relevant local authority for their area.\n\nFor further assistance, you can reach out to Carers Oxfordshire at 01235 424715 or email carersinfo@carersoxfordshire.org.uk. More information can be found on their website: [Carers Oxfordshire](https://mycitizenportal.oxfordshire.gov.uk/web/portal/pages/carerinfo).",
+  "metrics": {
+    "duration_seconds": 8.489557027816772,
+    "retrieved_docs_count": 10,
+    "query_length": 75,
+    "answer_length": 1225,
+    "retrieval_method": "enhanced",
+    "context_utilization": 0.22662889518413598,
+    "citations_count": 0,
+    "has_citations": false,
+    "query_relevance": 0.5714285714285714,
+    "unique_retrieval_methods": 1,
+    "budget_documents_retrieved": 4,
+    "retrieval_methods_used": [
+      "semantic_original"
+    ],
+    "retrieval_method_distribution": {
+      "semantic_original": 10
+    }
+  },
+  "local_authority": "oxfordshire",
+  "query_id": "std_2",
+  "retrieval_method": "enhanced",
+  "run_id": "4498b8c5-156d-4d58-93d9-12110b7d1bbf",
+  "trace": {
+    "run_id": "4498b8c5-156d-4d58-93d9-12110b7d1bbf",
+    "project": "social_care_rag",
+    "url": "https://eu.smith.langchain.com/o/me/runs/4498b8c5-156d-4d58-93d9-12110b7d1bbf"
+  },
+  "test_metadata": {
+    "local_authority": "oxfordshire",
+    "query_id": "std_2",
+    "query_category": "service_standard",
+    "prompt_variation": "optimized",
+    "prompt_template": "\nPlease answer the following question about social care services in UK local authorities based only on the information in the provided documents.\n\nQuestion: {query}\n\nContext from relevant documents:\n{context}\n\nInstructions:\n1. Provide a clear, direct answer that would help someone needing this information. If information isn't available, state: \"The available documents don't provide specific information about [aspect].\"\n\n2. Synthesize information from ALL relevant documents to provide the most complete answer rather than analyzing documents individually.\n\n3. Structure your response with:\n   - A concise 1-2 sentence summary first\n   - Relevant details organized in short, clear paragraphs\n   - Bullet points for lists or step-by-step information\n   - Bold text for key information the user should notice\n\n4. For financial information:\n   - Include exact figures, time periods, and what the funding covers\n   - Present financial data clearly: \"The adult social care budget is **\u00a3X million** for [time period]\"\n\n5. Always include practical next steps or resources:\n   - Provide contact information, URLs, or application methods mentioned in the documents\n   - Suggest where the person could find more information\n\n6. When citing sources, use a simple format: \"According to [document name/description]\" or include URLs where available.\n\nAnswer:\n",
+    "processing_time": 8.492491960525513,
+    "timestamp": "2025-08-19T14:12:47.409017",
+    "top_k": 10
+  }
+}

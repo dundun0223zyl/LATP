@@ -1,0 +1,323 @@
+
+        <html>
+        <head>
+            <title>Optimized RAG System Test Results</title>
+            <style>
+                body { font-family: Arial, sans-serif; margin: 20px; }
+                h1, h2, h3 { color: #333; }
+                .summary-box { background-color: #f0f8ff; padding: 15px; border-radius: 5px; margin-bottom: 20px; }
+                .category-box { background-color: #f9f9f9; padding: 10px; border-left: 4px solid #007bff; margin-bottom: 15px; }
+                table { border-collapse: collapse; width: 100%; margin-bottom: 20px; }
+                th, td { padding: 8px; text-align: left; border-bottom: 1px solid #ddd; }
+                th { background-color: #f2f2f2; }
+                tr:hover { background-color: #f5f5f5; }
+                .excellent { background-color: #d4edda; }
+                .good { background-color: #d1ecf1; }
+                .needs-improvement { background-color: #f8d7da; }
+                .budget { background-color: #fff3cd; }
+                .emergency { background-color: #f5c6cb; }
+            </style>
+        </head>
+        <body>
+            <h1>Optimized RAG System Test Results</h1>
+            <div class="summary-box">
+                <h3>Test Summary</h3>
+                <p><strong>Generated on:</strong> 2025-08-17 19:39:54</p>
+                <p><strong>Total Tests:</strong> 9</p>
+                <p><strong>Local Authorities:</strong> 1</p>
+                <p><strong>Query Categories:</strong> 6</p>
+                <p><strong>Overall Success Rate:</strong> 100.0% if not df.empty else "No data"</p>
+                <p><strong>Prompt Used:</strong> Optimized prompt template</p>
+            </div>
+            
+            <h2>Performance by Query Category</h2>
+        
+            <table>
+                <tr>
+                    <th>Category</th>
+                    <th>Tests</th>
+                    <th>Success Rate</th>
+                    <th>Avg Time (s)</th>
+                    <th>Avg Answer Length</th>
+                    <th>Avg Docs Retrieved</th>
+                </tr>
+        
+                <tr class="excellent">
+                    <td><strong>Services</strong></td>
+                    <td>1</td>
+                    <td>100.0%</td>
+                    <td>11.38</td>
+                    <td>1824</td>
+                    <td>10.0</td>
+                </tr>
+            
+                <tr class="excellent">
+                    <td><strong>Process</strong></td>
+                    <td>1</td>
+                    <td>100.0%</td>
+                    <td>6.20</td>
+                    <td>1063</td>
+                    <td>10.0</td>
+                </tr>
+            
+                <tr class="excellent">
+                    <td><strong>Costs</strong></td>
+                    <td>1</td>
+                    <td>100.0%</td>
+                    <td>6.13</td>
+                    <td>1104</td>
+                    <td>10.0</td>
+                </tr>
+            
+                <tr class="excellent">
+                    <td><strong>Support</strong></td>
+                    <td>1</td>
+                    <td>100.0%</td>
+                    <td>11.80</td>
+                    <td>2152</td>
+                    <td>10.0</td>
+                </tr>
+            
+                <tr class="excellent">
+                    <td><strong>Accessibility</strong></td>
+                    <td>1</td>
+                    <td>100.0%</td>
+                    <td>7.17</td>
+                    <td>1055</td>
+                    <td>10.0</td>
+                </tr>
+            
+                <tr class="excellent budget">
+                    <td><strong>Budget</strong></td>
+                    <td>4</td>
+                    <td>100.0%</td>
+                    <td>5.55</td>
+                    <td>744</td>
+                    <td>10.0</td>
+                </tr>
+            
+            </table>
+            
+            <h2>Performance by Local Authority</h2>
+            <table>
+                <tr>
+                    <th>Local Authority</th>
+                    <th>Tests</th>
+                    <th>Success Rate</th>
+                    <th>Avg Processing Time</th>
+                </tr>
+        
+                    <tr>
+                        <td>Birmingham</td>
+                        <td>9.0</td>
+                        <td>100.0%</td>
+                        <td>7.21s</td>
+                    </tr>
+                
+            </table>
+            
+            <h2>Detailed Test Results by Category</h2>
+        
+                <div class="category-box">
+                    <h3>Accessibility (1 tests)</h3>
+                    <table>
+                        <tr>
+                            <th>Query ID</th>
+                            <th>Local Authority</th>
+                            <th>Status</th>
+                            <th>Time (s)</th>
+                            <th>Docs</th>
+                            <th>Answer Preview</th>
+                            <th>LangSmith</th>
+                        </tr>
+            
+                    <tr class="">
+                        <td>std_5</td>
+                        <td>Birmingham</td>
+                        <td>✅ Success</td>
+                        <td>7.17</td>
+                        <td>10</td>
+                        <td>The available documents don't provide specific information about accessibility options such as trans...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/4ab4a831-3e95-424c-a7e0-64393b447bd6' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    </table>
+                </div>
+            
+                <div class="category-box">
+                    <h3>Budget (4 tests)</h3>
+                    <table>
+                        <tr>
+                            <th>Query ID</th>
+                            <th>Local Authority</th>
+                            <th>Status</th>
+                            <th>Time (s)</th>
+                            <th>Docs</th>
+                            <th>Answer Preview</th>
+                            <th>LangSmith</th>
+                        </tr>
+            
+                    <tr class="">
+                        <td>std_6</td>
+                        <td>Birmingham</td>
+                        <td>✅ Success</td>
+                        <td>5.98</td>
+                        <td>10</td>
+                        <td>The available documents do not provide specific information about Birmingham's total annual budget f...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/8b99a52f-4073-4437-b5a9-6c2956ee917b' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>std_7</td>
+                        <td>Birmingham</td>
+                        <td>✅ Success</td>
+                        <td>4.73</td>
+                        <td>10</td>
+                        <td>Birmingham City Council has set specific savings targets in its budget plans for adult social care. ...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/ba7d791e-4138-4f56-9e92-0e87fb7d5545' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>std_8</td>
+                        <td>Birmingham</td>
+                        <td>✅ Success</td>
+                        <td>5.99</td>
+                        <td>10</td>
+                        <td>The available documents don't provide specific information about how much of Birmingham's planned sa...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/5a6c2f13-e8d6-44e3-8508-67bc770132b0' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    <tr class="">
+                        <td>std_9</td>
+                        <td>Birmingham</td>
+                        <td>✅ Success</td>
+                        <td>5.51</td>
+                        <td>10</td>
+                        <td>The current budget allocation for Adult Social Care in Birmingham for the fiscal year 2022/2023 is *...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/ee0c70e1-4520-4c21-9b4b-1195decea2ac' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    </table>
+                </div>
+            
+                <div class="category-box">
+                    <h3>Costs (1 tests)</h3>
+                    <table>
+                        <tr>
+                            <th>Query ID</th>
+                            <th>Local Authority</th>
+                            <th>Status</th>
+                            <th>Time (s)</th>
+                            <th>Docs</th>
+                            <th>Answer Preview</th>
+                            <th>LangSmith</th>
+                        </tr>
+            
+                    <tr class="">
+                        <td>std_3</td>
+                        <td>Birmingham</td>
+                        <td>✅ Success</td>
+                        <td>6.13</td>
+                        <td>10</td>
+                        <td>The available documents don't provide specific information about the costs of care services in Birmi...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/cdd03ec8-f80b-4f34-940e-74c00b0d3fdc' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    </table>
+                </div>
+            
+                <div class="category-box">
+                    <h3>Process (1 tests)</h3>
+                    <table>
+                        <tr>
+                            <th>Query ID</th>
+                            <th>Local Authority</th>
+                            <th>Status</th>
+                            <th>Time (s)</th>
+                            <th>Docs</th>
+                            <th>Answer Preview</th>
+                            <th>LangSmith</th>
+                        </tr>
+            
+                    <tr class="">
+                        <td>std_2</td>
+                        <td>Birmingham</td>
+                        <td>✅ Success</td>
+                        <td>6.20</td>
+                        <td>10</td>
+                        <td>To request a social care assessment in Birmingham, you need to engage in a process referred to as a ...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/c70f6e96-f335-4dac-bb12-e7983686627d' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    </table>
+                </div>
+            
+                <div class="category-box">
+                    <h3>Services (1 tests)</h3>
+                    <table>
+                        <tr>
+                            <th>Query ID</th>
+                            <th>Local Authority</th>
+                            <th>Status</th>
+                            <th>Time (s)</th>
+                            <th>Docs</th>
+                            <th>Answer Preview</th>
+                            <th>LangSmith</th>
+                        </tr>
+            
+                    <tr class="">
+                        <td>std_1</td>
+                        <td>Birmingham</td>
+                        <td>✅ Success</td>
+                        <td>11.38</td>
+                        <td>10</td>
+                        <td>Birmingham offers a range of adult social care services aimed at promoting well-being and increasing...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/c87650b2-a0f9-4ccc-8853-104b1e616e37' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    </table>
+                </div>
+            
+                <div class="category-box">
+                    <h3>Support (1 tests)</h3>
+                    <table>
+                        <tr>
+                            <th>Query ID</th>
+                            <th>Local Authority</th>
+                            <th>Status</th>
+                            <th>Time (s)</th>
+                            <th>Docs</th>
+                            <th>Answer Preview</th>
+                            <th>LangSmith</th>
+                        </tr>
+            
+                    <tr class="">
+                        <td>std_4</td>
+                        <td>Birmingham</td>
+                        <td>✅ Success</td>
+                        <td>11.80</td>
+                        <td>10</td>
+                        <td>In Birmingham, social care users have access to a variety of resources and support services, includi...</td>
+                        <td><a href='https://eu.smith.langchain.com/o/me/runs/b2ed6d2f-2930-483d-b0b4-ec55660fbd76' target='_blank'>View Trace</a></td>
+                    </tr>
+                
+                    </table>
+                </div>
+            
+            <h2>Key Insights</h2>
+            <div class="summary-box">
+                <h3>Performance Analysis</h3>
+                <ul>
+        <li><strong>Excellent Overall Performance:</strong> The optimized prompt shows very high success rates across all categories.</li><li><strong>Budget Queries:</strong> Excellent performance on financial information queries.</li><li><strong>Response Time:</strong> Reasonable average response time of 7.2 seconds.</li><li><strong>Document Retrieval:</strong> Average of 10.0 documents retrieved per query.</li>
+                </ul>
+                <h3>Recommendations</h3>
+                <ul>
+                    <li>Monitor categories with lower success rates for targeted improvements</li>
+                    <li>Review failed queries to identify common patterns</li>
+                    <li>Consider specialized prompts for emergency or complex scenarios</li>
+                    <li>Use LangSmith traces to analyze specific failure cases</li>
+                </ul>
+            </div>
+        </body>
+        </html>
+        

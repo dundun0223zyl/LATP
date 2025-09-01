@@ -1,0 +1,317 @@
+{
+  "query": "What accessibility options does oxfordshire provide for accessing social care information, including translations or easy-read formats?",
+  "retrieved_documents": [
+    {
+      "content": ". Please see our Local Account for 2022-2023 (docx format, 1.4 MB) , where we share some of the highlights of our work and examples on how we deliver the Oxfordshire Way. For residents, our Live Well Oxfordshire guide contains a wealth of information supporting the Oxfordshire Way vision to people to live well and independently within their own communities. A paper version of the Live Well Oxfordshire guide\u00a0can also be delivered free, directly to your door. They are also available to pick up at most\u00a0carers\u2019 centres, hospitals, GP surgeries, Age UK facilities and libraries. Information about additional, council-arranged care support, can be found on our adult social care webpages . Help us improve our website by giving feedback .",
+      "metadata": {
+        "chunk_id": 3,
+        "filename": "www.oxfordshire.gov.uk_residents_social-and-health-care_adult-social-care_oxfordshire-way.txt",
+        "level": "level_1",
+        "source": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/oxfordshire-way",
+        "source_url": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/oxfordshire-way",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "48fe2c0e-7e14-4ea7-9120-1545c461de5f",
+      "distance": 0.6233847141265869,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1629845857620239,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Our purpose is to help make health and care services throughout Oxfordshire better and more responsive. What Healthwatch Oxfordshire does Gathers information about people\u2019s experiences of using health and social care services in Oxfordshire Uses this information to make recommendations to providers and commissioners about how services, policies and strategies need to change and improve Holds those in charge of local health and social care services to account for improving services \u2013 and does this in a way that is visible to the public Provides advice and information to help individuals to access health and social care services in Oxfordshire Tell us your experience of health and care services In order to ensure that we have the best possible evidence and the widest possible views to influence the delivery and design of health and social care services, we need as many people as possible to speak out about their experiences, so that we can speak up on their behalf",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.oxfordshire.gov.uk_council_about-your-council_have-your-say-about-council-services_influencing-h.txt",
+        "level": "level_3",
+        "source": "https://www.oxfordshire.gov.uk/council/about-your-council/have-your-say-about-council-services/influencing-health-care-and-wellbeing-services/healthwatch-oxfordshire",
+        "source_url": "https://www.oxfordshire.gov.uk/council/about-your-council/have-your-say-about-council-services/influencing-health-care-and-wellbeing-services/healthwatch-oxfordshire",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "9a72cf00-73ce-491b-8051-cf6fab4b862a",
+      "distance": 0.6294786930084229,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.16115639209747315,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Welcome to Oxfordshire's Adult Social Care Information and Advice Hub (Public Portal) Please click on the relevant picture below for further information, advice and support. For some areas of this information hub, you will be taken to external organisation web pages for the information you may require. This will open up a new internet window at the top of your screen. To return to the main portal page, please click on the Portal Home link towards the top left hand corner of your screen",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "mycitizenportal.oxfordshire.gov.uk_web_portal_pages_home.txt",
+        "level": "level_1",
+        "source": "https://mycitizenportal.oxfordshire.gov.uk/web/portal/pages/home",
+        "source_url": "https://mycitizenportal.oxfordshire.gov.uk/web/portal/pages/home",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "21d54bcf-4ebb-456d-8066-a379f4c88fe0",
+      "distance": 0.661195695400238,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1506412913799286,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 1]\n1\nThe Oxfordshire Way in  \nAdult Social Care\n\n\n[Page 2]\n1The Oxfordshire \nWay in Adult  \nSocial Care\nOur plan to help people in Oxfordshire \nlive independent and healthy lives.\nThe Oxfordshire Way is all \nabout putting people first \nand helping them in the best \nway possible so they can be \nindependent and live well in \ntheir community.\nThis means helping people \nto use their own strengths \nand find good support that is \nclose to home .The Care Act 2014 requires the \ncouncil to support adults with \ndisabilities and long-term illnesses.\nThe Oxfordshire Way strategic \napproach will help the council to \ndeliver this support and improve the \nquality and outcomes of services for \npeople and their carers.\nThe Oxfordshire Way guides the \nservice as we plan for the changing \nneeds of our population. The \nstrategy outlines the council\u2019s vision \nand desired outcomes for people \nwho need care and support and \nexplains how we will achieve these \ngoals.",
+      "metadata": {
+        "chunk_id": 0,
+        "contains_financial_info": true,
+        "download_url": "https://www.oxfordshire.gov.uk/sites/default/files/file/adult-social-and-health-care/TheOxfordshireWayinAdultSocialCare.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "TheOxfordshireWayinAdultSocialCare.pdf",
+        "financial_pages": "[3, 7, 8, 9, 11, 12]",
+        "level": "level_1",
+        "page_count": 12,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]",
+        "source": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/oxfordshire-way",
+        "source_url": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/oxfordshire-way",
+        "total_chunks": 23,
+        "type": "pdf"
+      },
+      "id": "7b89460c-69bc-4f9d-aa37-c69f246f135b",
+      "distance": 0.6683614253997803,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1494915723800659,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". This approach allows us to put individuals at the heart of everything we do, developing community-based solutions and creating an environment where people can be supported close to home without the need for more formal care. The Oxfordshire Way \u2013 Our Adult Social Care strategy (.pdf format 1.33 MB) By following\u00a0the Oxfordshire Way, we are: building resilience within our communities increasing independence and social connections for residents reducing demand on formal care services due to proactive and preventative community outreach approach providing a better experience for people who are seeking or receiving support providing greater satisfaction for people in need of support, our communities and our partners. Please see our Local Account for 2022-2023 (docx format, 1.4 MB) , where we share some of the highlights of our work and examples on how we deliver the Oxfordshire Way",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.oxfordshire.gov.uk_residents_social-and-health-care_adult-social-care_oxfordshire-way.txt",
+        "level": "level_1",
+        "source": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/oxfordshire-way",
+        "source_url": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/oxfordshire-way",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "bff2b744-81d1-497e-94d6-bcd89bed6ff6",
+      "distance": 0.6791236400604248,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.14626290798187255,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "# Our Vision for Adult Social Care: The Oxfordshire Way\n\nThe Oxfordshire Way strategic vision for adult social care  sets out our ambition to support people to live well and independently in their communities, remaining fit and healthy for as long as possible.\n\nThe Oxfordshire Way is a strength-based approach that acknowledges that people have their own personal strengths, networks and local community-based resources to help them lead a fulfilling life, and any additional health and social care support should build on that. \n\nWorking in partnership with voluntary and community sector, we are actively supporting and investing in community assets to promote prevention and work collaboratively with our partners and providers (please see Section 4: Prevention for more information).",
+      "metadata": {
+        "chunk_id": 5,
+        "contains_financial_info": true,
+        "download_url": "https://www.oxfordshire.gov.uk/sites/default/files/file/adult-social-and-health-care/MarketPositionStatement2024.docx",
+        "filename": "MarketPositionStatement2024.docx",
+        "financial_sections": "['Foreword', 'Introduction', 'Our Vision for Adult Social Care: The Oxfordshire Way', 'Prevention', 'Demography: An increasing and ageing population', 'Workforce', 'Our Commissioning Intentions', 'Living Well at Home  ', 'Current Service Provision', 'Our Plans for Future Service Provision', 'Key Messages', 'Care Homes', 'Supporting Working Age Adults with Additional Needs', 'People living with older parents: Embolden Project', 'Out-of-County Placements']",
+        "level": "level_2",
+        "paragraph_count": 341,
+        "section_count": 2,
+        "sections": "['Introduction', 'Foreword', 'Strategic Vision for Oxfordshire', 'Our Vision for Adult Social Care: The Oxfordshire Way', 'Prevention', 'Key Challenges', 'Demography: An increasing and ageing population', 'Workforce', 'Our Commissioning Intentions', 'Living Well at Home  ', 'Current Service Provision', 'Our Plans for Future Service Provision', 'Key Messages', 'Extra Care Housing', 'Care Homes', 'Supporting Working Age Adults with Additional Needs', 'Supported Living', 'Live Well Supported Services Framework', 'New Advocacy and Respite Services ', 'Alternatives to Hospital Admission', 'People living with older parents: Embolden Project', 'Specialist Learning Disability Health Services', 'Mental Health Services', 'Housing Support & Care Beds', 'Homecare', 'Out-of-County Placements']",
+        "source": "https://www.oxfordshire.gov.uk/business/information-providers/adult-social-care-providers/general-information",
+        "source_url": "https://www.oxfordshire.gov.uk/business/information-providers/adult-social-care-providers/general-information",
+        "table_count": 3,
+        "tables_with_financial_info": "[1, 2, 3]",
+        "total_chunks": 50,
+        "type": "docx"
+      },
+      "id": "1f8b8fd4-87f6-443b-8eac-1b6a16c7a655",
+      "distance": 0.7013627290725708,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.13959118127822875,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "docx",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 7 - FINANCIAL/BUDGET INFORMATION]\n7Current support  \nfor unpaid carers  \nin Oxfordshire\nAll the statutory organisations within health, education and social care in \nOxfordshire together with the city and district councils and voluntary sector \npartners have confirmed their commitment to support for carers and families. \nExamples of this support include:\n \u203aCarers Oxfordshire, a partnership between \nthe charities Action for Carers (Oxfordshire) \nand Rethink Mental Illness, has been \ncommissioned by the council to be the \nprimary adult social care service for unpaid \ncarers aged 18 years and older\n \u203aPersonal budgets are available for unpaid \ncarers to support their wellbeing\n \u203aCarers Oxfordshire has developed a range \nof offers to give unpaid carers time for \nthemselves\n \u203aOxford University Hospital\u2019s Carer Policy \n2022 sets out how carer liaison officers will \nsupport staff to support carers, and how its \ncarer passports aid early identification and",
+      "metadata": {
+        "chunk_id": 10,
+        "contains_financial_info": true,
+        "download_url": "https://www.oxfordshire.gov.uk/sites/default/files/file/plans-performance-policy/OCCUnpaidCarersStrategy.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "OCCUnpaidCarersStrategy.pdf",
+        "financial_pages": "[3, 4, 5, 6, 7, 11]",
+        "level": "level_3",
+        "page_count": 12,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]",
+        "source": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/carers/all-age-unpaid-carers-strategy",
+        "source_url": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/carers/all-age-unpaid-carers-strategy",
+        "total_chunks": 18,
+        "type": "pdf"
+      },
+      "id": "b703de2c-7c37-4e4c-8d19-cc5de1a239de",
+      "distance": 0.7285633087158203,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1314310073852539,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "to small groups including those in more rural areas, and individual telephone \nconversations.  \n \nCarers unable to use the online options were encouraged to use telephone or \npost options to have their voice heard. Oxfordshire County Council\u2019s survey \nwas also made available in the top five most -translated languages in the \ncounty (Polish, Sudanese Arabic , Brazilian Portuguese, Kurdish Sorani and \nSpanish). To increase the reach to carers, Carers Oxfordshire worked with \nOxfordshire County Council, Dementia Oxfordshire, Age UK Oxfordshire, \nOxfordshire Family Support Network and Oxfordshire Parent Carer Forum .  To \ndate circa 300 adult carers have contributed and engagement continues.  \n \nCommon themes recurred through the evidence submitted from the groups \nand studies outlined above.  Whilst these themes are all distinct, it is important \nto note that they are int errelated. This was particularly clear during the first \ncarers voices event where carers were separated into groups that were",
+      "metadata": {
+        "chunk_id": 18,
+        "contains_financial_info": true,
+        "download_url": "https://www.oxfordshire.gov.uk/sites/default/files/file/plans-performance-policy/HWB-ReviewofSupporttoUnpaidCarers.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "HWB-ReviewofSupporttoUnpaidCarers.pdf",
+        "financial_pages": "[2, 3, 4, 5, 6, 8]",
+        "level": "level_3",
+        "page_count": 9,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9]",
+        "source": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/carers/all-age-unpaid-carers-strategy",
+        "source_url": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/carers/all-age-unpaid-carers-strategy",
+        "total_chunks": 28,
+        "type": "pdf"
+      },
+      "id": "2127ea6c-0e5c-49fd-bea8-8ef076b9cc5c",
+      "distance": 0.729471743106842,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1311584770679474,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Information and advice\n\nProviding information is another key component of delivering our vision and ensuring people can access what they want to know, opportunities in their communities and activities to make the best choices to remain healthy, and access support where needed. Our bespoke web-based directory for Oxfordshire, Live Well Oxfordshire , provides a wide range of information and support to enable people to find support in their community, including over 2,000 services, community groups, information pages and a calendar of activities across Oxfordshire. \n\nWe regularly check and update the directory: 442 new groups/services have been added to the directory in the last 12 months. We also have a wide range of information and advice on adult social care on Adult Social Care webpages  for people and their families to help them live well and independently within their own communities.",
+      "metadata": {
+        "chunk_id": 8,
+        "contains_financial_info": true,
+        "download_url": "https://www.oxfordshire.gov.uk/sites/default/files/file/adult-social-and-health-care/MarketPositionStatement2024.docx",
+        "filename": "MarketPositionStatement2024.docx",
+        "financial_sections": "['Foreword', 'Introduction', 'Our Vision for Adult Social Care: The Oxfordshire Way', 'Prevention', 'Demography: An increasing and ageing population', 'Workforce', 'Our Commissioning Intentions', 'Living Well at Home  ', 'Current Service Provision', 'Our Plans for Future Service Provision', 'Key Messages', 'Care Homes', 'Supporting Working Age Adults with Additional Needs', 'People living with older parents: Embolden Project', 'Out-of-County Placements']",
+        "level": "level_2",
+        "paragraph_count": 341,
+        "section_count": 2,
+        "sections": "['Introduction', 'Foreword', 'Strategic Vision for Oxfordshire', 'Our Vision for Adult Social Care: The Oxfordshire Way', 'Prevention', 'Key Challenges', 'Demography: An increasing and ageing population', 'Workforce', 'Our Commissioning Intentions', 'Living Well at Home  ', 'Current Service Provision', 'Our Plans for Future Service Provision', 'Key Messages', 'Extra Care Housing', 'Care Homes', 'Supporting Working Age Adults with Additional Needs', 'Supported Living', 'Live Well Supported Services Framework', 'New Advocacy and Respite Services ', 'Alternatives to Hospital Admission', 'People living with older parents: Embolden Project', 'Specialist Learning Disability Health Services', 'Mental Health Services', 'Housing Support & Care Beds', 'Homecare', 'Out-of-County Placements']",
+        "source": "https://www.oxfordshire.gov.uk/business/information-providers/adult-social-care-providers/general-information",
+        "source_url": "https://www.oxfordshire.gov.uk/business/information-providers/adult-social-care-providers/general-information",
+        "table_count": 3,
+        "tables_with_financial_info": "[1, 2, 3]",
+        "total_chunks": 50,
+        "type": "docx"
+      },
+      "id": "ecd84f9b-d839-4405-a783-ebf36f815cd7",
+      "distance": 0.72996985912323,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.131009042263031,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "docx",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Oxfordshire Local Account\n\n2022-2023\n\n# Foreword\n\nWelcome to Oxfordshire County Council\u2019s Local Account for 2022-2023, where we want to share some of the things that our adult social care teams are really proud of achieving over the last twelve months.\n\nThis year\u2019s Local Account reflects a lot of hard work, but we set high standards for ourselves, and we know this record could be even better if we work closely with people we support, their families and carers, to ensure it captures information that makes it real for them. Next year\u2019s Local Account will look different because it will be properly co-produced by people who have first-hand experience of using our services.",
+      "metadata": {
+        "chunk_id": 0,
+        "contains_financial_info": true,
+        "download_url": "https://www.oxfordshire.gov.uk/sites/default/files/file/adult-social-and-health-care/OxfordshireLocalAccount2022-23.docx",
+        "filename": "OxfordshireLocalAccount2022-23.docx",
+        "financial_sections": "['Foreword', 'Spending in 2022-2023']",
+        "level": "level_1",
+        "paragraph_count": 137,
+        "section_count": 6,
+        "sections": "['Introduction', 'Foreword', 'Spending in 2022-2023', 'Connected Communities', 'Increasing Independence', 'Living Independently: Oxfordshire Way in Action', 'Designing Better Together', 'Working in Partnership']",
+        "source": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/oxfordshire-way",
+        "source_url": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/oxfordshire-way",
+        "table_count": 1,
+        "tables_with_financial_info": "[1]",
+        "total_chunks": 7,
+        "type": "docx"
+      },
+      "id": "57bba316-93ba-462f-8317-820e0e7f3536",
+      "distance": 0.7372090540557443,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1288372837832767,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "docx",
+        "retrieval_method": "semantic_original"
+      }
+    }
+  ],
+  "context": "[Document 1] From https://www (web_page) - URL: https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/oxfordshire-way [Retrieved via: semantic_original]:\n. Please see our Local Account for 2022-2023 (docx format, 1.4 MB) , where we share some of the highlights of our work and examples on how we deliver the Oxfordshire Way. For residents, our Live Well Oxfordshire guide contains a wealth of information supporting the Oxfordshire Way vision to people to live well and independently within their own communities. A paper version of the Live Well Oxfordshire guide\u00a0can also be delivered free, directly to your door. They are also available to pick up at most\u00a0carers\u2019 centres, hospitals, GP surgeries, Age UK facilities and libraries. Information about additional, council-arranged care support, can be found on our adult social care webpages . Help us improve our website by giving feedback .\n\n[Document 2] From https://www (web_page) - URL: https://www.oxfordshire.gov.uk/council/about-your-council/have-your-say-about-council-services/influencing-health-care-and-wellbeing-services/healthwatch-oxfordshire [Retrieved via: semantic_original]:\n. Our purpose is to help make health and care services throughout Oxfordshire better and more responsive. What Healthwatch Oxfordshire does Gathers information about people\u2019s experiences of using health and social care services in Oxfordshire Uses this information to make recommendations to providers and commissioners about how services, policies and strategies need to change and improve Holds those in charge of local health and social care services to account for improving services \u2013 and does this in a way that is visible to the public Provides advice and information to help individuals to access health and social care services in Oxfordshire Tell us your experience of health and care services In order to ensure that we have the best possible evidence and the widest possible views to influence the delivery and design of health and social care services, we need as many people as possible to speak out about their experiences, so that we can speak up on their behalf\n\n[Document 3] From https://mycitizenportal (web_page) - URL: https://mycitizenportal.oxfordshire.gov.uk/web/portal/pages/home [Retrieved via: semantic_original]:\nWelcome to Oxfordshire's Adult Social Care Information and Advice Hub (Public Portal) Please click on the relevant picture below for further information, advice and support. For some areas of this information hub, you will be taken to external organisation web pages for the information you may require. This will open up a new internet window at the top of your screen. To return to the main portal page, please click on the Portal Home link towards the top left hand corner of your screen\n\n[Document 4] From https://www (pdf) - URL: https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/oxfordshire-way - 12 pages [Retrieved via: semantic_original]:\n[Page 1]\n1\nThe Oxfordshire Way in  \nAdult Social Care\n\n\n[Page 2]\n1The Oxfordshire \nWay in Adult  \nSocial Care\nOur plan to help people in Oxfordshire \nlive independent and healthy lives.\nThe Oxfordshire Way is all \nabout putting people first \nand helping them in the best \nway possible so they can be \nindependent and live well in \ntheir community.\nThis means helping people \nto use their own strengths \nand find good support that is \nclose to home .The Care Act 2014 requires the \ncouncil to support adults with \ndisabilities and long-term illnesses.\nThe Oxfordshire Way strategic \napproach will help the council to \ndeliver this support and improve the \nquality and outcomes of services for \npeople and their carers.\nThe Oxfordshire Way guides the \nservice as we plan for the changing \nneeds of our population. The \nstrategy outlines the council\u2019s vision \nand desired outcomes for people \nwho need care and support and \nexplains how we will achieve these \ngoals.\n\n[Document 5] From https://www (web_page) - URL: https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/oxfordshire-way [Retrieved via: semantic_original]:\n. This approach allows us to put individuals at the heart of everything we do, developing community-based solutions and creating an environment where people can be supported close to home without the need for more formal care. The Oxfordshire Way \u2013 Our Adult Social Care strategy (.pdf format 1.33 MB) By following\u00a0the Oxfordshire Way, we are: building resilience within our communities increasing independence and social connections for residents reducing demand on formal care services due to proactive and preventative community outreach approach providing a better experience for people who are seeking or receiving support providing greater satisfaction for people in need of support, our communities and our partners. Please see our Local Account for 2022-2023 (docx format, 1.4 MB) , where we share some of the highlights of our work and examples on how we deliver the Oxfordshire Way\n\n[Document 6] From https://www (docx) - URL: https://www.oxfordshire.gov.uk/business/information-providers/adult-social-care-providers/general-information [Retrieved via: semantic_original]:\n# Our Vision for Adult Social Care: The Oxfordshire Way\n\nThe Oxfordshire Way strategic vision for adult social care  sets out our ambition to support people to live well and independently in their communities, remaining fit and healthy for as long as possible.\n\nThe Oxfordshire Way is a strength-based approach that acknowledges that people have their own personal strengths, networks and local community-based resources to help them lead a fulfilling life, and any additional health and social care support should build on that. \n\nWorking in partnership with voluntary and community sector, we are actively supporting and investing in community assets to promote prevention and work collaboratively with our partners and providers (please see Section 4: Prevention for more information).\n\n[Document 7] From https://www (pdf) - URL: https://www.oxfordshire.gov.uk/residents/social-and-health-care/carers/all-age-unpaid-carers-strategy - 12 pages [Retrieved via: semantic_original]:\n[Page 7 - FINANCIAL/BUDGET INFORMATION]\n7Current support  \nfor unpaid carers  \nin Oxfordshire\nAll the statutory organisations within health, education and social care in \nOxfordshire together with the city and district councils and voluntary sector \npartners have confirmed their commitment to support for carers and families. \nExamples of this support include:\n \u203aCarers Oxfordshire, a partnership between \nthe charities Action for Carers (Oxfordshire) \nand Rethink Mental Illness, has been \ncommissioned by the council to be the \nprimary adult social care service for unpaid \ncarers aged 18 years and older\n \u203aPersonal budgets are available for unpaid \ncarers to support their wellbeing\n \u203aCarers Oxfordshire has developed a range \nof offers to give unpaid carers time for \nthemselves\n \u203aOxford University Hospital\u2019s Carer Policy \n2022 sets out how carer liaison officers will \nsupport staff to support carers, and how its \ncarer passports aid early identification and\n\n[Document 8] From https://www (pdf) - URL: https://www.oxfordshire.gov.uk/residents/social-and-health-care/carers/all-age-unpaid-carers-strategy - 9 pages [Retrieved via: semantic_original]:\nto small groups including those in more rural areas, and individual telephone \nconversations.  \n \nCarers unable to use the online options were encouraged to use telephone or \npost options to have their voice heard. Oxfordshire County Council\u2019s survey \nwas also made available in the top five most -translated languages in the \ncounty (Polish, Sudanese Arabic , Brazilian Portuguese, Kurdish Sorani and \nSpanish). To increase the reach to carers, Carers Oxfordshire worked with \nOxfordshire County Council, Dementia Oxfordshire, Age UK Oxfordshire, \nOxfordshire Family Support Network and Oxfordshire Parent Carer Forum .  To \ndate circa 300 adult carers have contributed and engagement continues.  \n \nCommon themes recurred through the evidence submitted from the groups \nand studies outlined above.  Whilst these themes are all distinct, it is important \nto note that they are int errelated. This was particularly clear during the first \ncarers voices event where carers were separated into groups that were\n\n[Document 9] From https://www (docx) - URL: https://www.oxfordshire.gov.uk/business/information-providers/adult-social-care-providers/general-information [Retrieved via: semantic_original]:\nInformation and advice\n\nProviding information is another key component of delivering our vision and ensuring people can access what they want to know, opportunities in their communities and activities to make the best choices to remain healthy, and access support where needed. Our bespoke web-based directory for Oxfordshire, Live Well Oxfordshire , provides a wide range of information and support to enable people to find support in their community, including over 2,000 services, community groups, information pages and a calendar of activities across Oxfordshire. \n\nWe regularly check and update the directory: 442 new groups/services have been added to the directory in the last 12 months. We also have a wide range of information and advice on adult social care on Adult Social Care webpages  for people and their families to help them live well and independently within their own communities.\n\n[Document 10] From https://www (docx) - URL: https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/oxfordshire-way [Retrieved via: semantic_original]:\nOxfordshire Local Account\n\n2022-2023\n\n# Foreword\n\nWelcome to Oxfordshire County Council\u2019s Local Account for 2022-2023, where we want to share some of the things that our adult social care teams are really proud of achieving over the last twelve months.\n\nThis year\u2019s Local Account reflects a lot of hard work, but we set high standards for ourselves, and we know this record could be even better if we work closely with people we support, their families and carers, to ensure it captures information that makes it real for them. Next year\u2019s Local Account will look different because it will be properly co-produced by people who have first-hand experience of using our services.\n",
+  "answer": "The available documents don't provide specific information about accessibility options such as translations or easy-read formats for accessing social care information in Oxfordshire.\n\n**Relevant Details:**\n- Oxfordshire County Council provides a **Live Well Oxfordshire guide**, which contains a wealth of information supporting the Oxfordshire Way vision. This guide is available in paper format and can be delivered free to your door or picked up at various locations such as carers\u2019 centres, hospitals, GP surgeries, Age UK facilities, and libraries (Document 1).\n- The Oxfordshire County Council's survey for carers was made available in the top five most-translated languages in the county: Polish, Sudanese Arabic, Brazilian Portuguese, Kurdish Sorani, and Spanish (Document 8).\n\n**Practical Next Steps:**\n- For more information or to request specific accessibility options, you may visit the Oxfordshire County Council's social care webpages at [oxfordshire.gov.uk](https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/oxfordshire-way).\n- You can also contact Oxfordshire County Council directly for further assistance regarding accessibility needs.",
+  "metrics": {
+    "duration_seconds": 10.873460054397583,
+    "retrieved_docs_count": 10,
+    "query_length": 135,
+    "answer_length": 1185,
+    "retrieval_method": "enhanced",
+    "context_utilization": 0.1609442060085837,
+    "citations_count": 0,
+    "has_citations": false,
+    "query_relevance": 0.8,
+    "unique_retrieval_methods": 1,
+    "budget_documents_retrieved": 6,
+    "retrieval_methods_used": [
+      "semantic_original"
+    ],
+    "retrieval_method_distribution": {
+      "semantic_original": 10
+    }
+  },
+  "local_authority": "oxfordshire",
+  "query_id": "std_5",
+  "retrieval_method": "enhanced",
+  "run_id": "463e2618-1cac-410b-9417-d7f5e947a58a",
+  "trace": {
+    "run_id": "463e2618-1cac-410b-9417-d7f5e947a58a",
+    "project": "social_care_rag",
+    "url": "https://eu.smith.langchain.com/o/me/runs/463e2618-1cac-410b-9417-d7f5e947a58a"
+  },
+  "test_metadata": {
+    "local_authority": "oxfordshire",
+    "query_id": "std_5",
+    "query_category": "service_standard",
+    "prompt_variation": "optimized",
+    "prompt_template": "\nPlease answer the following question about social care services in UK local authorities based only on the information in the provided documents.\n\nQuestion: {query}\n\nContext from relevant documents:\n{context}\n\nInstructions:\n1. Provide a clear, direct answer that would help someone needing this information. If information isn't available, state: \"The available documents don't provide specific information about [aspect].\"\n\n2. Synthesize information from ALL relevant documents to provide the most complete answer rather than analyzing documents individually.\n\n3. Structure your response with:\n   - A concise 1-2 sentence summary first\n   - Relevant details organized in short, clear paragraphs\n   - Bullet points for lists or step-by-step information\n   - Bold text for key information the user should notice\n\n4. For financial information:\n   - Include exact figures, time periods, and what the funding covers\n   - Present financial data clearly: \"The adult social care budget is **\u00a3X million** for [time period]\"\n\n5. Always include practical next steps or resources:\n   - Provide contact information, URLs, or application methods mentioned in the documents\n   - Suggest where the person could find more information\n\n6. When citing sources, use a simple format: \"According to [document name/description]\" or include URLs where available.\n\nAnswer:\n",
+    "processing_time": 10.877672910690308,
+    "timestamp": "2025-08-19T14:13:22.975333",
+    "top_k": 10
+  }
+}

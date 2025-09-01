@@ -1,0 +1,299 @@
+{
+  "query": "I'm moving from liverpool to Southampton. Will I need a new care needs assessment or can my current care package transfer?",
+  "retrieved_documents": [
+    {
+      "content": "Changes to your circumstances or care needs If you receive support from us and your needs change, there has been a change to your finances or you cannot afford to pay for your care, you must tell us so we can review your care package. Changes may also include if you are going on holiday or in hospital and do not need your home care package for a short period. Change of address or leaving Liverpool If you receive support services from us, you can report a change of address using the general enquiry form . Change in care needs If you receive support services from us, you must tell us if your needs have changed so we can review your care package. You can submit a support enquiry to tell us about changes to your care needs. Change in finances If you pay towards the cost of your care, but your financial circumstances have changed, you must tell us so we can review how much you pay. You can request a reassessment at any time by completing a payment enquiry",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.liverpool.gov.uk_adult-social-care_already-receiving-care-services_changes-to-your-circumstances.txt",
+        "level": "level_2",
+        "source": "https://www.liverpool.gov.uk/adult-social-care/already-receiving-care-services/changes-to-your-circumstances/",
+        "source_url": "https://www.liverpool.gov.uk/adult-social-care/already-receiving-care-services/changes-to-your-circumstances/",
+        "total_chunks": 5,
+        "type": "web_page"
+      },
+      "id": "4d00ceda-cc91-4290-8423-f71aaf7ea422",
+      "distance": 0.7128077745437622,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.13615766763687134,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". There is a range of advice, support and activities in the Liverpool City Region that are open to everyone. There may be something you can access that will mean you do not need a formal assessment or support from adult social care. How to request an assessment If you or someone you know is eligible under the Care Act you can complete an assessment online . This will ask you some questions to find out a bit more about your circumstances. What happens next? Depending on your circumstances, we may decide to carry out a full care needs assessment. This gives us an opportunity to ask what will help you to improve your wellbeing and live how you want to live. We will ask what's important to you and make sure the plan is tailored to help achieve your specified outcomes. If we don't feel a full care needs assessment is appropriate we will discuss other options with you",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.liverpool.gov.uk_adult-social-care_who-we-support_assessing-care-and-support-needs_care-act-elig.txt",
+        "level": "level_3",
+        "source": "https://www.liverpool.gov.uk/adult-social-care/who-we-support/assessing-care-and-support-needs/care-act-eligibility/",
+        "source_url": "https://www.liverpool.gov.uk/adult-social-care/who-we-support/assessing-care-and-support-needs/care-act-eligibility/",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "b1b690c9-661b-49cd-af32-46892e0713b5",
+      "distance": 0.7177176475524902,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.13468470573425292,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "agency will also be responsible for providing cover in the case of annual leave or \nsickness . You will still have choice and control as you will have an agreement with \nthe agency regarding your needs and how and when your support is provided. The \nagency will send an invoice to you each month which you will pay from your direct \npayments account.  \nBefore signing any agreement you should get a written breakdown of what you will \nbe expected to pay and a breakdown of all their costs to make sure you don\u2019t receive \nany unexpected additional charges, for example mileage, or extra for bank holiday \nworking t hat you have not previously agreed to pay. Liverpool City Council does not \npay enhanced rates for bank holidays.  \nAll agencies providing personal care must be registered with the Care Quality \nCommission (CQC) \u2013 the social care regulatory body for England. Y ou can ask the \nagency to show you evidence of its registration. The CQC will also carry out \ninspections and you can check for any recent",
+      "metadata": {
+        "chunk_id": 24,
+        "contains_financial_info": true,
+        "download_url": "https://www.liverpool.gov.uk/media/kngfdrad/guide-to-direct-payments.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "guide-to-direct-payments.pdf",
+        "financial_pages": "[2, 3, 6, 8, 9, 11, 12, 13, 14, 15, 18, 19, 20]",
+        "level": "level_2",
+        "page_count": 21,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21]",
+        "source": "https://www.liverpool.gov.uk/adult-social-care/already-receiving-care-services/direct-payments/",
+        "source_url": "https://www.liverpool.gov.uk/adult-social-care/already-receiving-care-services/direct-payments/",
+        "total_chunks": 39,
+        "type": "pdf"
+      },
+      "id": "ece794ee-93a5-47a1-bab0-b57828665118",
+      "distance": 0.7177302837371826,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1346809148788452,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 16]\nLiverpool City Council \u2013 Guide to direct payments  \nPage 15 of 21 8 Monitoring and reviewing your direct \npayment  \nWe will review your care and support plan after the first six months and at least every \n12 months after that to make sure that the services and  \nsupport you have in place are meeting your eligible needs and that you are achieving \nyour outcomes.  \nThe level of support you receive may increase or decrease following a \nreview/reassessment and you will need to make your PA or care agency aware of \nany changes. However , if at any time you have any concerns about how your ca re \nand support is working you can contact Careline and request a review. The review \ncan look at whether the support you have is still adequate for your needs and \nwhether you need any extra support.  \nIf you think that you are getting either too much or too l ittle money to meet your care \nneeds please let us know as soon as possible.",
+      "metadata": {
+        "chunk_id": 30,
+        "contains_financial_info": true,
+        "download_url": "https://www.liverpool.gov.uk/media/kngfdrad/guide-to-direct-payments.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "guide-to-direct-payments.pdf",
+        "financial_pages": "[2, 3, 6, 8, 9, 11, 12, 13, 14, 15, 18, 19, 20]",
+        "level": "level_2",
+        "page_count": 21,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21]",
+        "source": "https://www.liverpool.gov.uk/adult-social-care/already-receiving-care-services/direct-payments/",
+        "source_url": "https://www.liverpool.gov.uk/adult-social-care/already-receiving-care-services/direct-payments/",
+        "total_chunks": 39,
+        "type": "pdf"
+      },
+      "id": "77ad38fe-e311-492f-a60e-99763d8a7766",
+      "distance": 0.7456121444702148,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.12631635665893554,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 13 - FINANCIAL/BUDGET INFORMATION]\nLiverpool City Council \u2013 Guide to direct payments  \nPage 12 of 21 6 Usin g agencies that provide care and \nsupport  \nYou may choose an agency to provide your care and there are a number of agencies \nin the city to choose from. If you choose an agency that charges more than the \ncouncil\u2019s standard hourly rate it is your responsibility to pay the difference in cost \nfrom your own income.  \nPurchasing your care in ha lf-hour blocks will usually be more expensive than \npurchasing hourly. Confirm the hourly and half -hourly rates with the agency before \nyou commit to the service.  \nIf you choose an agency your care worker will be employed by them. The agency will \nbe responsible for paying them and ensuring they have any training they need. The \nagency will also be responsible for providing cover in the case of annual leave or \nsickness . You will still have choice and control as you will have an agreement with",
+      "metadata": {
+        "chunk_id": 23,
+        "contains_financial_info": true,
+        "download_url": "https://www.liverpool.gov.uk/media/kngfdrad/guide-to-direct-payments.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "guide-to-direct-payments.pdf",
+        "financial_pages": "[2, 3, 6, 8, 9, 11, 12, 13, 14, 15, 18, 19, 20]",
+        "level": "level_2",
+        "page_count": 21,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21]",
+        "source": "https://www.liverpool.gov.uk/adult-social-care/already-receiving-care-services/direct-payments/",
+        "source_url": "https://www.liverpool.gov.uk/adult-social-care/already-receiving-care-services/direct-payments/",
+        "total_chunks": 39,
+        "type": "pdf"
+      },
+      "id": "212339a2-560a-4e4a-988e-9ce2f6ecec0b",
+      "distance": 0.7935910224914551,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.11192269325256347,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". It will look at how we can help make your life easier. You might want to think about: how you feel about being a carer if you get enough time to yourself if you get enough sleep are your relationships with family or friends affected is the person you look after getting the right help or enough help any other worries you may have if it affects your work and finances How do I get assessed? If you are aged 18 or above and care for someone who is a Liverpool resident, you can complete the assessment online below. If you are under 18 please see our Young carer's page . Before you start Before you start the form, you'll need: your NHS number (if known) your GP's name, address and phone number details of the person you care for, including their date of birth and NHS number (if you have it) medical and support details for the person you care for The form should take 10 to 15 minutes to complete",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.liverpool.gov.uk_adult-social-care_who-we-support_looking-after-someone_carers-assessment_.txt",
+        "level": "level_3",
+        "source": "https://www.liverpool.gov.uk/adult-social-care/who-we-support/looking-after-someone/carers-assessment/",
+        "source_url": "https://www.liverpool.gov.uk/adult-social-care/who-we-support/looking-after-someone/carers-assessment/",
+        "total_chunks": 5,
+        "type": "web_page"
+      },
+      "id": "b24e51b6-5d65-418d-b4a2-a3bc15970596",
+      "distance": 0.8097903728485107,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.10706288814544677,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Do I need to pay for care at home? We will arrange a financial assessment to see if you need to pay, and how much. We will check you are getting all benefits that you are entitled to. See paying for care and support at home for more information . Further help If you don't qualify for a care package you can employ a care worker through a private agency. Be careful to choose an agency registered and inspected by the Care Quality Commission . You can also visit the Live Well Directory , which provides information about other care and support services available in Liverpool. The directory is also useful if you are looking for help with gardening or cleaning, or to find a handyperson to do some simple jobs in the home. In this section Safety alarms and equipment Care at home Meal delivery Occupational therapy for adults",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.liverpool.gov.uk_adult-social-care_who-we-support_living-independently_care-at-home_.txt",
+        "level": "level_3",
+        "source": "https://www.liverpool.gov.uk/adult-social-care/who-we-support/living-independently/care-at-home/",
+        "source_url": "https://www.liverpool.gov.uk/adult-social-care/who-we-support/living-independently/care-at-home/",
+        "total_chunks": 3,
+        "type": "web_page"
+      },
+      "id": "24c2e7dc-fdec-4688-8609-21e86a61a868",
+      "distance": 0.81783527135849,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.104649418592453,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Residential homes All residential homes in Liverpool are run privately. The council no longer runs any residential homes. Types of residential home There are two types of residential home: Care homes have trained staff offering similar care to that you would receive from relatives and friends in your own home. Nursing homes provide the same level of care as care homes but also have trained nurses on duty to provide nursing care when you need it. I am thinking of moving into a residential home If you or someone you care for is thinking about making a residential home your permanent place of residence, complete an adult social care assessment . If you are already known to us and receive support services at home, we can arrange a review of your needs. If you are not already known to us and do not receive support services at home we will arrange a full care needs assessment. In both instances, we can talk you through the assessment process and how to choose a home",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.liverpool.gov.uk_adult-social-care_who-we-support_housing-and-care-homes_residential-homes_.txt",
+        "level": "level_3",
+        "source": "https://www.liverpool.gov.uk/adult-social-care/who-we-support/housing-and-care-homes/residential-homes/",
+        "source_url": "https://www.liverpool.gov.uk/adult-social-care/who-we-support/housing-and-care-homes/residential-homes/",
+        "total_chunks": 3,
+        "type": "web_page"
+      },
+      "id": "035cd071-3c21-4991-98ad-297823d9341d",
+      "distance": 0.840600848197937,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.0978197455406189,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". An OT assessment will help them to live more independently at home. Adults in an unpaid caring role If an adult looks after someone with support needs, you can refer them for a carer's assessment. This will look at what support they need in their role as carer and how we can help. Find out more about carer's assessments and how to refer . Adults with eligible support needs If an adult is eligible for support from adult social care a support enquiry will help us decide what the next steps should be. You can submit a support enquiry online below. You can only refer adults within the Liverpool local authority area. If they live outside the Liverpool area, please refer to the appropriate local authority. Before you start a support enquiry If you don\u2019t already have an online social care portal account, you must register first before submitting a referral. As part of the registration process, we will send a security authentication code to your email address \u2013 we will do this each time you sign in",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.liverpool.gov.uk_adult-social-care_professional-referrals_request-support-for-an-adult_.txt",
+        "level": "level_2",
+        "source": "https://www.liverpool.gov.uk/adult-social-care/professional-referrals/request-support-for-an-adult/",
+        "source_url": "https://www.liverpool.gov.uk/adult-social-care/professional-referrals/request-support-for-an-adult/",
+        "total_chunks": 5,
+        "type": "web_page"
+      },
+      "id": "8850466d-e8db-44dd-9fc1-636e64ac9fa1",
+      "distance": 0.8618037700653076,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.09145886898040773,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 7 - FINANCIAL/BUDGET INFORMATION]\nLiverpool City Council \u2013 Charging for non -residential care services  \nPage 6 of 41 \u2022 Their total assessable income is less than or equal to the minimum income \nguarantee established by Central Government plus an additional 10 per cent.   \nor  \n\u2022 An individual\u2019s assessed contribution is under LCC\u2019s minimum charge.  \n5 Charging and financial assessments for \nservices in non -residential settings  \n5.1 Undertaking a financial assessment  \nWhere a person is identified as receiving a chargeable care package, a financial \nassessment will be undertaken to identify their level of contribution towards the cost \nof their care.  \nA person will be offere d assistance to complete a financial assessment t o ensure all \nrelevant detail is collated regarding their income and expenditure. This assistance \nwill include the offer of a telephone or face -to-face benefits maximisation check to \nmake sure they are receiving all benefits to which they are entitled. This  check is free",
+      "metadata": {
+        "chunk_id": 15,
+        "contains_financial_info": true,
+        "download_url": "https://www.liverpool.gov.uk/media/xngn4upt/charging-for-non-residential-care-april2022.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "charging-for-non-residential-care-april2022.pdf",
+        "financial_pages": "[2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 29, 30, 31, 32, 33, 34, 35, 36, 40, 41]",
+        "level": "level_3",
+        "page_count": 41,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41]",
+        "source": "https://www.liverpool.gov.uk/adult-social-care/who-we-support/care-charges/paying-for-care-and-support-at-home/",
+        "source_url": "https://www.liverpool.gov.uk/adult-social-care/who-we-support/care-charges/paying-for-care-and-support-at-home/",
+        "total_chunks": 100,
+        "type": "pdf"
+      },
+      "id": "6239a27f-eeb5-4739-9b43-d38ff6fda530",
+      "distance": 0.8703634142875671,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.08889097571372986,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 4,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    }
+  ],
+  "context": "[Document 1] From https://www (web_page) - URL: https://www.liverpool.gov.uk/adult-social-care/already-receiving-care-services/changes-to-your-circumstances/ [Retrieved via: semantic_original]:\nChanges to your circumstances or care needs If you receive support from us and your needs change, there has been a change to your finances or you cannot afford to pay for your care, you must tell us so we can review your care package. Changes may also include if you are going on holiday or in hospital and do not need your home care package for a short period. Change of address or leaving Liverpool If you receive support services from us, you can report a change of address using the general enquiry form . Change in care needs If you receive support services from us, you must tell us if your needs have changed so we can review your care package. You can submit a support enquiry to tell us about changes to your care needs. Change in finances If you pay towards the cost of your care, but your financial circumstances have changed, you must tell us so we can review how much you pay. You can request a reassessment at any time by completing a payment enquiry\n\n[Document 2] From https://www (web_page) - URL: https://www.liverpool.gov.uk/adult-social-care/who-we-support/assessing-care-and-support-needs/care-act-eligibility/ [Retrieved via: semantic_original]:\n. There is a range of advice, support and activities in the Liverpool City Region that are open to everyone. There may be something you can access that will mean you do not need a formal assessment or support from adult social care. How to request an assessment If you or someone you know is eligible under the Care Act you can complete an assessment online . This will ask you some questions to find out a bit more about your circumstances. What happens next? Depending on your circumstances, we may decide to carry out a full care needs assessment. This gives us an opportunity to ask what will help you to improve your wellbeing and live how you want to live. We will ask what's important to you and make sure the plan is tailored to help achieve your specified outcomes. If we don't feel a full care needs assessment is appropriate we will discuss other options with you\n\n[Document 3] From https://www (pdf) - URL: https://www.liverpool.gov.uk/adult-social-care/already-receiving-care-services/direct-payments/ - 21 pages [Retrieved via: semantic_original]:\nagency will also be responsible for providing cover in the case of annual leave or \nsickness . You will still have choice and control as you will have an agreement with \nthe agency regarding your needs and how and when your support is provided. The \nagency will send an invoice to you each month which you will pay from your direct \npayments account.  \nBefore signing any agreement you should get a written breakdown of what you will \nbe expected to pay and a breakdown of all their costs to make sure you don\u2019t receive \nany unexpected additional charges, for example mileage, or extra for bank holiday \nworking t hat you have not previously agreed to pay. Liverpool City Council does not \npay enhanced rates for bank holidays.  \nAll agencies providing personal care must be registered with the Care Quality \nCommission (CQC) \u2013 the social care regulatory body for England. Y ou can ask the \nagency to show you evidence of its registration. The CQC will also carry out \ninspections and you can check for any recent\n\n[Document 4] From https://www (pdf) - URL: https://www.liverpool.gov.uk/adult-social-care/already-receiving-care-services/direct-payments/ - 21 pages [Retrieved via: semantic_original]:\n[Page 16]\nLiverpool City Council \u2013 Guide to direct payments  \nPage 15 of 21 8 Monitoring and reviewing your direct \npayment  \nWe will review your care and support plan after the first six months and at least every \n12 months after that to make sure that the services and  \nsupport you have in place are meeting your eligible needs and that you are achieving \nyour outcomes.  \nThe level of support you receive may increase or decrease following a \nreview/reassessment and you will need to make your PA or care agency aware of \nany changes. However , if at any time you have any concerns about how your ca re \nand support is working you can contact Careline and request a review. The review \ncan look at whether the support you have is still adequate for your needs and \nwhether you need any extra support.  \nIf you think that you are getting either too much or too l ittle money to meet your care \nneeds please let us know as soon as possible.\n\n[Document 5] From https://www (pdf) - URL: https://www.liverpool.gov.uk/adult-social-care/already-receiving-care-services/direct-payments/ - 21 pages [Retrieved via: semantic_original]:\n[Page 13 - FINANCIAL/BUDGET INFORMATION]\nLiverpool City Council \u2013 Guide to direct payments  \nPage 12 of 21 6 Usin g agencies that provide care and \nsupport  \nYou may choose an agency to provide your care and there are a number of agencies \nin the city to choose from. If you choose an agency that charges more than the \ncouncil\u2019s standard hourly rate it is your responsibility to pay the difference in cost \nfrom your own income.  \nPurchasing your care in ha lf-hour blocks will usually be more expensive than \npurchasing hourly. Confirm the hourly and half -hourly rates with the agency before \nyou commit to the service.  \nIf you choose an agency your care worker will be employed by them. The agency will \nbe responsible for paying them and ensuring they have any training they need. The \nagency will also be responsible for providing cover in the case of annual leave or \nsickness . You will still have choice and control as you will have an agreement with\n\n[Document 6] From https://www (web_page) - URL: https://www.liverpool.gov.uk/adult-social-care/who-we-support/looking-after-someone/carers-assessment/ [Retrieved via: semantic_original]:\n. It will look at how we can help make your life easier. You might want to think about: how you feel about being a carer if you get enough time to yourself if you get enough sleep are your relationships with family or friends affected is the person you look after getting the right help or enough help any other worries you may have if it affects your work and finances How do I get assessed? If you are aged 18 or above and care for someone who is a Liverpool resident, you can complete the assessment online below. If you are under 18 please see our Young carer's page . Before you start Before you start the form, you'll need: your NHS number (if known) your GP's name, address and phone number details of the person you care for, including their date of birth and NHS number (if you have it) medical and support details for the person you care for The form should take 10 to 15 minutes to complete\n\n[Document 7] From https://www (web_page) - URL: https://www.liverpool.gov.uk/adult-social-care/who-we-support/living-independently/care-at-home/ [Retrieved via: semantic_original]:\n. Do I need to pay for care at home? We will arrange a financial assessment to see if you need to pay, and how much. We will check you are getting all benefits that you are entitled to. See paying for care and support at home for more information . Further help If you don't qualify for a care package you can employ a care worker through a private agency. Be careful to choose an agency registered and inspected by the Care Quality Commission . You can also visit the Live Well Directory , which provides information about other care and support services available in Liverpool. The directory is also useful if you are looking for help with gardening or cleaning, or to find a handyperson to do some simple jobs in the home. In this section Safety alarms and equipment Care at home Meal delivery Occupational therapy for adults\n\n[Document 8] From https://www (web_page) - URL: https://www.liverpool.gov.uk/adult-social-care/who-we-support/housing-and-care-homes/residential-homes/ [Retrieved via: semantic_original]:\nResidential homes All residential homes in Liverpool are run privately. The council no longer runs any residential homes. Types of residential home There are two types of residential home: Care homes have trained staff offering similar care to that you would receive from relatives and friends in your own home. Nursing homes provide the same level of care as care homes but also have trained nurses on duty to provide nursing care when you need it. I am thinking of moving into a residential home If you or someone you care for is thinking about making a residential home your permanent place of residence, complete an adult social care assessment . If you are already known to us and receive support services at home, we can arrange a review of your needs. If you are not already known to us and do not receive support services at home we will arrange a full care needs assessment. In both instances, we can talk you through the assessment process and how to choose a home\n\n[Document 9] From https://www (web_page) - URL: https://www.liverpool.gov.uk/adult-social-care/professional-referrals/request-support-for-an-adult/ [Retrieved via: semantic_original]:\n. An OT assessment will help them to live more independently at home. Adults in an unpaid caring role If an adult looks after someone with support needs, you can refer them for a carer's assessment. This will look at what support they need in their role as carer and how we can help. Find out more about carer's assessments and how to refer . Adults with eligible support needs If an adult is eligible for support from adult social care a support enquiry will help us decide what the next steps should be. You can submit a support enquiry online below. You can only refer adults within the Liverpool local authority area. If they live outside the Liverpool area, please refer to the appropriate local authority. Before you start a support enquiry If you don\u2019t already have an online social care portal account, you must register first before submitting a referral. As part of the registration process, we will send a security authentication code to your email address \u2013 we will do this each time you sign in\n\n[Document 10] From https://www (pdf) - URL: https://www.liverpool.gov.uk/adult-social-care/who-we-support/care-charges/paying-for-care-and-support-at-home/ - 41 pages [Retrieved via: semantic_original]:\n[Page 7 - FINANCIAL/BUDGET INFORMATION]\nLiverpool City Council \u2013 Charging for non -residential care services  \nPage 6 of 41 \u2022 Their total assessable income is less than or equal to the minimum income \nguarantee established by Central Government plus an additional 10 per cent.   \nor  \n\u2022 An individual\u2019s assessed contribution is under LCC\u2019s minimum charge.  \n5 Charging and financial assessments for \nservices in non -residential settings  \n5.1 Undertaking a financial assessment  \nWhere a person is identified as receiving a chargeable care package, a financial \nassessment will be undertaken to identify their level of contribution towards the cost \nof their care.  \nA person will be offere d assistance to complete a financial assessment t o ensure all \nrelevant detail is collated regarding their income and expenditure. This assistance \nwill include the offer of a telephone or face -to-face benefits maximisation check to \nmake sure they are receiving all benefits to which they are entitled. This  check is free\n",
+  "answer": "You will need a new care needs assessment when moving from Liverpool to Southampton, as care packages do not automatically transfer between local authorities.\n\nWhen you move to a new area, the local authority in your new location (Southampton) will need to conduct their own assessment to determine your eligibility for services and to create a care plan that meets your needs. This is because each local authority is responsible for assessing and providing care to residents within their area. \n\n**Next Steps:**\n- Contact the adult social care department in Southampton to request a new care needs assessment.\n- Inform Liverpool City Council of your change of address to ensure they update their records and discontinue your current services appropriately.\n- You can find more information on how to request an assessment by visiting the Southampton City Council's website or contacting their adult social care services directly.",
+  "metrics": {
+    "duration_seconds": 8.9293372631073,
+    "retrieved_docs_count": 10,
+    "query_length": 122,
+    "answer_length": 929,
+    "retrieval_method": "enhanced",
+    "context_utilization": 0.10359408033826638,
+    "citations_count": 0,
+    "has_citations": false,
+    "query_relevance": 0.9411764705882353,
+    "unique_retrieval_methods": 1,
+    "budget_documents_retrieved": 4,
+    "retrieval_methods_used": [
+      "semantic_original"
+    ],
+    "retrieval_method_distribution": {
+      "semantic_original": 10
+    }
+  },
+  "local_authority": "liverpool",
+  "query_id": "scn_24",
+  "retrieval_method": "enhanced",
+  "run_id": "29f3e73e-3db3-4636-a008-a8eb81d6e572",
+  "trace": {
+    "run_id": "29f3e73e-3db3-4636-a008-a8eb81d6e572",
+    "project": "social_care_rag",
+    "url": "https://eu.smith.langchain.com/o/me/runs/29f3e73e-3db3-4636-a008-a8eb81d6e572"
+  },
+  "test_metadata": {
+    "local_authority": "liverpool",
+    "query_id": "scn_24",
+    "query_category": "assessment_scenarios",
+    "prompt_variation": "optimized",
+    "prompt_template": "\nPlease answer the following question about social care services in UK local authorities based only on the information in the provided documents.\n\nQuestion: {query}\n\nContext from relevant documents:\n{context}\n\nInstructions:\n1. Provide a clear, direct answer that would help someone needing this information. If information isn't available, state: \"The available documents don't provide specific information about [aspect].\"\n\n2. Synthesize information from ALL relevant documents to provide the most complete answer rather than analyzing documents individually.\n\n3. Structure your response with:\n   - A concise 1-2 sentence summary first\n   - Relevant details organized in short, clear paragraphs\n   - Bullet points for lists or step-by-step information\n   - Bold text for key information the user should notice\n\n4. For financial information:\n   - Include exact figures, time periods, and what the funding covers\n   - Present financial data clearly: \"The adult social care budget is **\u00a3X million** for [time period]\"\n\n5. Always include practical next steps or resources:\n   - Provide contact information, URLs, or application methods mentioned in the documents\n   - Suggest where the person could find more information\n\n6. When citing sources, use a simple format: \"According to [document name/description]\" or include URLs where available.\n\nAnswer:\n",
+    "processing_time": 8.932728052139282,
+    "timestamp": "2025-08-19T13:58:47.593999",
+    "top_k": 10
+  }
+}

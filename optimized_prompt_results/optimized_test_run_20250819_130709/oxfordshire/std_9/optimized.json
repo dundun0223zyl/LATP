@@ -1,0 +1,348 @@
+{
+  "query": "What is the current budget allocation for Adult Social Care in oxfordshire?",
+  "retrieved_documents": [
+    {
+      "content": "[Page 1]\n1\nThe Oxfordshire Way in  \nAdult Social Care\n\n\n[Page 2]\n1The Oxfordshire \nWay in Adult  \nSocial Care\nOur plan to help people in Oxfordshire \nlive independent and healthy lives.\nThe Oxfordshire Way is all \nabout putting people first \nand helping them in the best \nway possible so they can be \nindependent and live well in \ntheir community.\nThis means helping people \nto use their own strengths \nand find good support that is \nclose to home .The Care Act 2014 requires the \ncouncil to support adults with \ndisabilities and long-term illnesses.\nThe Oxfordshire Way strategic \napproach will help the council to \ndeliver this support and improve the \nquality and outcomes of services for \npeople and their carers.\nThe Oxfordshire Way guides the \nservice as we plan for the changing \nneeds of our population. The \nstrategy outlines the council\u2019s vision \nand desired outcomes for people \nwho need care and support and \nexplains how we will achieve these \ngoals.",
+      "metadata": {
+        "chunk_id": 0,
+        "contains_financial_info": true,
+        "download_url": "https://www.oxfordshire.gov.uk/sites/default/files/file/adult-social-and-health-care/TheOxfordshireWayinAdultSocialCare.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "TheOxfordshireWayinAdultSocialCare.pdf",
+        "financial_pages": "[3, 7, 8, 9, 11, 12]",
+        "level": "level_1",
+        "page_count": 12,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]",
+        "source": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/oxfordshire-way",
+        "source_url": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/oxfordshire-way",
+        "total_chunks": 23,
+        "type": "pdf"
+      },
+      "id": "7b89460c-69bc-4f9d-aa37-c69f246f135b",
+      "distance": 0.4714256823062897,
+      "retrieval_method": "semantic_expanded_3",
+      "expanded_query": "what is the current care services allocation for adult social care in oxfordshire?",
+      "combined_score": 0.6449359316717496,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_expanded_3"
+      }
+    },
+    {
+      "content": "[Page 1 - FINANCIAL/BUDGET INFORMATION]\nASC Contributions Policy  October 2018                                             Page 1 of 16 \n  \n \n \n \n \n \n \n \n \nOxfordshire County Council Policy for  \nContributions in Adult Social Care  \n \n \n \n \n \nDocument data  \n \nDocument name \nand file location  Oxfordshire County Council Policy for  \nContributions in Adult Social Care  \n \nDocument Owner  Financial Assessment Manager  \nPublication Date  01/10/2018  \nReview Date  14/02/2025  \nNext review date  14/02/2026  \n \n \nVersion control  \nDate  Version  By Comments  \n01/10/2018  1   \n14/02/2025  2 Sheldon \nO\u2019Donoghue  Update DRE %  \n    \n \n \nAccessibility  \n \nThis document can be made available in large print, Braille, audio or in electronic \nformat. Copies in alternative languages may also be obtained.  \n \nPlease contact: Financial Assessment Manager",
+      "metadata": {
+        "chunk_id": 0,
+        "contains_financial_info": true,
+        "download_url": "https://www.oxfordshire.gov.uk/sites/default/files/file/adult-social-and-health-care/contributionspolicy.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "contributionspolicy.pdf",
+        "financial_pages": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]",
+        "level": "level_3",
+        "page_count": 16,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]",
+        "source": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/adult-social-care-policies",
+        "source_url": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/adult-social-care-policies",
+        "total_chunks": 45,
+        "type": "pdf"
+      },
+      "id": "c19dbcf2-f2c7-497a-a1a6-15ad5b5a967b",
+      "distance": 0.5824836492538452,
+      "retrieval_method": "financial_enhanced",
+      "combined_score": 0.6300800800490213,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "financial_enhanced"
+      }
+    },
+    {
+      "content": "[Page 1 - FINANCIAL/BUDGET INFORMATION]\nASC Contributions Policy  October 2018                                             Page 1 of 16 \n  \n \n \n \n \n \n \n \n \nOxfordshire County Council Policy for  \nContributions in Adult Social Care  \n \n \n \n \n \nDocument data  \n \nDocument name \nand file location  Oxfordshire County Council Policy for  \nContributions in Adult Social Care  \n \nDocument Owner  Financial Assessment Manager  \nPublication Date  01/10/2018  \nReview Date  14/02/2025  \nNext review date  14/02/2026  \n \n \nVersion control  \nDate  Version  By Comments  \n01/10/2018  1   \n14/02/2025  2 Sheldon \nO\u2019Donoghue  Update DRE %  \n    \n \n \nAccessibility  \n \nThis document can be made available in large print, Braille, audio or in electronic \nformat. Copies in alternative languages may also be obtained.  \n \nPlease contact: Financial Assessment Manager",
+      "metadata": {
+        "chunk_id": 0,
+        "contains_financial_info": true,
+        "download_url": "https://www.oxfordshire.gov.uk/sites/default/files/file/adult-social-and-health-care/contributionspolicy.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "contributionspolicy.pdf",
+        "financial_pages": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]",
+        "level": "level_2",
+        "page_count": 16,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]",
+        "source": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/adult-social-care-policies",
+        "source_url": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/adult-social-care-policies",
+        "total_chunks": 45,
+        "type": "pdf"
+      },
+      "id": "8dc28afc-89e3-4a66-8457-b04687decbcb",
+      "distance": 0.5824836492538452,
+      "retrieval_method": "financial_enhanced",
+      "combined_score": 0.6300800800490213,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "financial_enhanced"
+      }
+    },
+    {
+      "content": "[Page 1 - FINANCIAL/BUDGET INFORMATION]\nASC Contributions Policy  October 2018                                             Page 1 of 16 \n  \n \n \n \n \n \n \n \n \nOxfordshire County Council Policy for  \nContributions in Adult Social Care  \n \n \n \n \n \nDocument data  \n \nDocument name \nand file location  Oxfordshire County Council Policy for  \nContributions in Adult Social Care  \n \nDocument Owner  Financial Assessment Manager  \nPublication Date  01/10/2018  \nReview Date  14/02/2025  \nNext review date  14/02/2026  \n \n \nVersion control  \nDate  Version  By Comments  \n01/10/2018  1   \n14/02/2025  2 Sheldon \nO\u2019Donoghue  Update DRE %  \n    \n \n \nAccessibility  \n \nThis document can be made available in large print, Braille, audio or in electronic \nformat. Copies in alternative languages may also be obtained.  \n \nPlease contact: Financial Assessment Manager",
+      "metadata": {
+        "chunk_id": 0,
+        "contains_financial_info": true,
+        "download_url": "https://www.oxfordshire.gov.uk/sites/default/files/file/adult-social-and-health-care/contributionspolicy.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "contributionspolicy.pdf",
+        "financial_pages": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]",
+        "level": "level_1",
+        "page_count": 16,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]",
+        "source": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/adult-social-care-policies",
+        "source_url": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/adult-social-care-policies",
+        "total_chunks": 45,
+        "type": "pdf"
+      },
+      "id": "08527271-d08c-4066-8369-f0ae591c9527",
+      "distance": 0.5824836492538452,
+      "retrieval_method": "financial_enhanced",
+      "combined_score": 0.6300800800490213,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "financial_enhanced"
+      }
+    },
+    {
+      "content": "# Our Vision for Adult Social Care: The Oxfordshire Way\n\nThe Oxfordshire Way strategic vision for adult social care  sets out our ambition to support people to live well and independently in their communities, remaining fit and healthy for as long as possible.\n\nThe Oxfordshire Way is a strength-based approach that acknowledges that people have their own personal strengths, networks and local community-based resources to help them lead a fulfilling life, and any additional health and social care support should build on that. \n\nWorking in partnership with voluntary and community sector, we are actively supporting and investing in community assets to promote prevention and work collaboratively with our partners and providers (please see Section 4: Prevention for more information).",
+      "metadata": {
+        "chunk_id": 5,
+        "contains_financial_info": true,
+        "download_url": "https://www.oxfordshire.gov.uk/sites/default/files/file/adult-social-and-health-care/MarketPositionStatement2024.docx",
+        "filename": "MarketPositionStatement2024.docx",
+        "financial_sections": "['Foreword', 'Introduction', 'Our Vision for Adult Social Care: The Oxfordshire Way', 'Prevention', 'Demography: An increasing and ageing population', 'Workforce', 'Our Commissioning Intentions', 'Living Well at Home  ', 'Current Service Provision', 'Our Plans for Future Service Provision', 'Key Messages', 'Care Homes', 'Supporting Working Age Adults with Additional Needs', 'People living with older parents: Embolden Project', 'Out-of-County Placements']",
+        "level": "level_2",
+        "paragraph_count": 341,
+        "section_count": 2,
+        "sections": "['Introduction', 'Foreword', 'Strategic Vision for Oxfordshire', 'Our Vision for Adult Social Care: The Oxfordshire Way', 'Prevention', 'Key Challenges', 'Demography: An increasing and ageing population', 'Workforce', 'Our Commissioning Intentions', 'Living Well at Home  ', 'Current Service Provision', 'Our Plans for Future Service Provision', 'Key Messages', 'Extra Care Housing', 'Care Homes', 'Supporting Working Age Adults with Additional Needs', 'Supported Living', 'Live Well Supported Services Framework', 'New Advocacy and Respite Services ', 'Alternatives to Hospital Admission', 'People living with older parents: Embolden Project', 'Specialist Learning Disability Health Services', 'Mental Health Services', 'Housing Support & Care Beds', 'Homecare', 'Out-of-County Placements']",
+        "source": "https://www.oxfordshire.gov.uk/business/information-providers/adult-social-care-providers/general-information",
+        "source_url": "https://www.oxfordshire.gov.uk/business/information-providers/adult-social-care-providers/general-information",
+        "table_count": 3,
+        "tables_with_financial_info": "[1, 2, 3]",
+        "total_chunks": 50,
+        "type": "docx"
+      },
+      "id": "1f8b8fd4-87f6-443b-8eac-1b6a16c7a655",
+      "distance": 0.5110966563224792,
+      "retrieval_method": "semantic_expanded_1",
+      "expanded_query": "what is the current adult social care allocation for adult social care in oxfordshire?",
+      "combined_score": 0.6130346394668926,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "docx",
+        "retrieval_method": "semantic_expanded_1"
+      }
+    },
+    {
+      "content": "[Page 4 - FINANCIAL/BUDGET INFORMATION]\nASC Contributions Policy  October 2018                                             Page 4 of 16 \n  \n\u2022 We will adopt a simple, efficient, cost-effective  financial assessment and \nincome collection  process  \n\u2022 Charging arrangements will reflect the actual cost of services  \n\u2022 The charging rules will be applied equally so that those with similar needs or \nservices are treated equitably ASC Contributions Policy \u2013 October 2018 Page \n2 of 13 People should not be charged more than it is reasonably practicable \nfor them to pay  \n\u2022 We will provide people with timely, clear and concise information about the \ncosts of their care  \n\u2022 The policy will contribute to the sustainability of Adult Social Care in \nOxfordshire  \n\u2022 The financial assessment will ensure that people on low incomes are not put \nin financial hardship as a result of paying towards their care costs. Advice and \nsupport to claim welfare benefit entitlements will be made available to people \nand carers",
+      "metadata": {
+        "chunk_id": 8,
+        "contains_financial_info": true,
+        "download_url": "https://www.oxfordshire.gov.uk/sites/default/files/file/adult-social-and-health-care/contributionspolicy.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "contributionspolicy.pdf",
+        "financial_pages": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]",
+        "level": "level_3",
+        "page_count": 16,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]",
+        "source": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/adult-social-care-policies",
+        "source_url": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/adult-social-care-policies",
+        "total_chunks": 45,
+        "type": "pdf"
+      },
+      "id": "69c4fd8a-801b-44df-bf6d-ffe88e65fdbe",
+      "distance": 0.501863420009613,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.5934969180530603,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 4 - FINANCIAL/BUDGET INFORMATION]\nASC Contributions Policy  October 2018                                             Page 4 of 16 \n  \n\u2022 We will adopt a simple, efficient, cost-effective  financial assessment and \nincome collection  process  \n\u2022 Charging arrangements will reflect the actual cost of services  \n\u2022 The charging rules will be applied equally so that those with similar needs or \nservices are treated equitably ASC Contributions Policy \u2013 October 2018 Page \n2 of 13 People should not be charged more than it is reasonably practicable \nfor them to pay  \n\u2022 We will provide people with timely, clear and concise information about the \ncosts of their care  \n\u2022 The policy will contribute to the sustainability of Adult Social Care in \nOxfordshire  \n\u2022 The financial assessment will ensure that people on low incomes are not put \nin financial hardship as a result of paying towards their care costs. Advice and \nsupport to claim welfare benefit entitlements will be made available to people \nand carers",
+      "metadata": {
+        "chunk_id": 8,
+        "contains_financial_info": true,
+        "download_url": "https://www.oxfordshire.gov.uk/sites/default/files/file/adult-social-and-health-care/contributionspolicy.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "contributionspolicy.pdf",
+        "financial_pages": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]",
+        "level": "level_2",
+        "page_count": 16,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]",
+        "source": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/adult-social-care-policies",
+        "source_url": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/adult-social-care-policies",
+        "total_chunks": 45,
+        "type": "pdf"
+      },
+      "id": "2310753d-c6bd-41ee-9320-66f66b4dbd42",
+      "distance": 0.501863420009613,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.5934969180530603,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 4 - FINANCIAL/BUDGET INFORMATION]\nASC Contributions Policy  October 2018                                             Page 4 of 16 \n  \n\u2022 We will adopt a simple, efficient, cost-effective  financial assessment and \nincome collection  process  \n\u2022 Charging arrangements will reflect the actual cost of services  \n\u2022 The charging rules will be applied equally so that those with similar needs or \nservices are treated equitably ASC Contributions Policy \u2013 October 2018 Page \n2 of 13 People should not be charged more than it is reasonably practicable \nfor them to pay  \n\u2022 We will provide people with timely, clear and concise information about the \ncosts of their care  \n\u2022 The policy will contribute to the sustainability of Adult Social Care in \nOxfordshire  \n\u2022 The financial assessment will ensure that people on low incomes are not put \nin financial hardship as a result of paying towards their care costs. Advice and \nsupport to claim welfare benefit entitlements will be made available to people \nand carers",
+      "metadata": {
+        "chunk_id": 8,
+        "contains_financial_info": true,
+        "download_url": "https://www.oxfordshire.gov.uk/sites/default/files/file/adult-social-and-health-care/contributionspolicy.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "contributionspolicy.pdf",
+        "financial_pages": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]",
+        "level": "level_1",
+        "page_count": 16,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]",
+        "source": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/adult-social-care-policies",
+        "source_url": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/adult-social-care-policies",
+        "total_chunks": 45,
+        "type": "pdf"
+      },
+      "id": "1bf0db92-c30a-4d29-93b5-3c96080cc501",
+      "distance": 0.501863420009613,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.5934969180530603,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Table 1]\n6424 people receiving ongoing care | 6770 Safeguarding Concerns last year | 52,675 people who say they provide care and support to a family member or friend | 75% of issues resolved by Customer Service Centre at first point of contact in the last year\n23.2% of residents are from non-\u201cwhite British\u201d backgrounds | 23% of people have a disability | 60% of the population live in Oxford city or main towns | The number of people aged 65+ grew by 25% from 2011 to 2021\n358 admissions to care homes per 100,000 population, vs 539 per 100,000 population in England (2021/22) | 30,000 hours of care provided in people\u2019s homes (up by 47% since April 2020) | 92% of Oxfordshire\u2019s social care providers good or excellent compared to 83% nationally | 81 community micro enterprises supporting 1028 people giving people greater choice",
+      "metadata": {
+        "chunk_id": 5,
+        "contains_financial_info": true,
+        "download_url": "https://www.oxfordshire.gov.uk/sites/default/files/file/adult-social-and-health-care/OxfordshireLocalAccount2022-23.docx",
+        "filename": "OxfordshireLocalAccount2022-23.docx",
+        "financial_sections": "['Foreword', 'Spending in 2022-2023']",
+        "level": "level_1",
+        "paragraph_count": 137,
+        "section_count": 6,
+        "sections": "['Introduction', 'Foreword', 'Spending in 2022-2023', 'Connected Communities', 'Increasing Independence', 'Living Independently: Oxfordshire Way in Action', 'Designing Better Together', 'Working in Partnership']",
+        "source": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/oxfordshire-way",
+        "source_url": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/oxfordshire-way",
+        "table_count": 1,
+        "tables_with_financial_info": "[1]",
+        "total_chunks": 7,
+        "type": "docx"
+      },
+      "id": "4c5a96a2-4a6d-4101-a5e5-8141024ca3a5",
+      "distance": 0.49089202552531724,
+      "retrieval_method": "semantic_expanded_3",
+      "expanded_query": "what is the current care services allocation for adult social care in oxfordshire?",
+      "combined_score": 0.5827323923424048,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "docx",
+        "retrieval_method": "semantic_expanded_3"
+      }
+    },
+    {
+      "content": "sections of the act  \n \n3. It should be read in conjunction with the council\u2019s Adult Social Care policies \non Assessment and Review, Support Planning, Safeguarding and Complaints, \nAppeals and Compliments, and associated operational procedures and \nguidance.  \n \nContext  \n4. Oxfordshire County Council aims to support and promote strong communities \nso that people live their lives as successfully, independently and safely as \npossible. The council aims to promote independence and choice, be fair and \nequitable and give people more  power and control over their lives.  \n \n5. Social care is not a free service and national funding arrangements make it \nclear councils need to collect income locally to contribute towards the cost of \nservices.  \n \n6. Income from charging for services where it is appropriate to do so is therefore \nan essential part of Oxfordshire County Council\u2019s financial strategy.  \n \n7. This policy is based on national legislation and in determining the contribution",
+      "metadata": {
+        "chunk_id": 6,
+        "contains_financial_info": true,
+        "download_url": "https://www.oxfordshire.gov.uk/sites/default/files/file/adult-social-and-health-care/contributionspolicy.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "contributionspolicy.pdf",
+        "financial_pages": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]",
+        "level": "level_3",
+        "page_count": 16,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]",
+        "source": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/adult-social-care-policies",
+        "source_url": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/adult-social-care-policies",
+        "total_chunks": 45,
+        "type": "pdf"
+      },
+      "id": "a429e924-e144-44f1-aa42-65cd397b81a0",
+      "distance": 0.6107062101364136,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.56084408101502,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    }
+  ],
+  "context": "[Document 1] From https://www (pdf) - URL: https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/oxfordshire-way - 12 pages [Retrieved via: semantic_expanded_3]:\n[Page 1]\n1\nThe Oxfordshire Way in  \nAdult Social Care\n\n\n[Page 2]\n1The Oxfordshire \nWay in Adult  \nSocial Care\nOur plan to help people in Oxfordshire \nlive independent and healthy lives.\nThe Oxfordshire Way is all \nabout putting people first \nand helping them in the best \nway possible so they can be \nindependent and live well in \ntheir community.\nThis means helping people \nto use their own strengths \nand find good support that is \nclose to home .The Care Act 2014 requires the \ncouncil to support adults with \ndisabilities and long-term illnesses.\nThe Oxfordshire Way strategic \napproach will help the council to \ndeliver this support and improve the \nquality and outcomes of services for \npeople and their carers.\nThe Oxfordshire Way guides the \nservice as we plan for the changing \nneeds of our population. The \nstrategy outlines the council\u2019s vision \nand desired outcomes for people \nwho need care and support and \nexplains how we will achieve these \ngoals.\n\n[Document 2] From https://www (pdf) - URL: https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/adult-social-care-policies - 16 pages [Retrieved via: financial_enhanced]:\n[Page 1 - FINANCIAL/BUDGET INFORMATION]\nASC Contributions Policy  October 2018                                             Page 1 of 16 \n  \n \n \n \n \n \n \n \n \nOxfordshire County Council Policy for  \nContributions in Adult Social Care  \n \n \n \n \n \nDocument data  \n \nDocument name \nand file location  Oxfordshire County Council Policy for  \nContributions in Adult Social Care  \n \nDocument Owner  Financial Assessment Manager  \nPublication Date  01/10/2018  \nReview Date  14/02/2025  \nNext review date  14/02/2026  \n \n \nVersion control  \nDate  Version  By Comments  \n01/10/2018  1   \n14/02/2025  2 Sheldon \nO\u2019Donoghue  Update DRE %  \n    \n \n \nAccessibility  \n \nThis document can be made available in large print, Braille, audio or in electronic \nformat. Copies in alternative languages may also be obtained.  \n \nPlease contact: Financial Assessment Manager\n\n[Document 3] From https://www (pdf) - URL: https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/adult-social-care-policies - 16 pages [Retrieved via: financial_enhanced]:\n[Page 1 - FINANCIAL/BUDGET INFORMATION]\nASC Contributions Policy  October 2018                                             Page 1 of 16 \n  \n \n \n \n \n \n \n \n \nOxfordshire County Council Policy for  \nContributions in Adult Social Care  \n \n \n \n \n \nDocument data  \n \nDocument name \nand file location  Oxfordshire County Council Policy for  \nContributions in Adult Social Care  \n \nDocument Owner  Financial Assessment Manager  \nPublication Date  01/10/2018  \nReview Date  14/02/2025  \nNext review date  14/02/2026  \n \n \nVersion control  \nDate  Version  By Comments  \n01/10/2018  1   \n14/02/2025  2 Sheldon \nO\u2019Donoghue  Update DRE %  \n    \n \n \nAccessibility  \n \nThis document can be made available in large print, Braille, audio or in electronic \nformat. Copies in alternative languages may also be obtained.  \n \nPlease contact: Financial Assessment Manager\n\n[Document 4] From https://www (pdf) - URL: https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/adult-social-care-policies - 16 pages [Retrieved via: financial_enhanced]:\n[Page 1 - FINANCIAL/BUDGET INFORMATION]\nASC Contributions Policy  October 2018                                             Page 1 of 16 \n  \n \n \n \n \n \n \n \n \nOxfordshire County Council Policy for  \nContributions in Adult Social Care  \n \n \n \n \n \nDocument data  \n \nDocument name \nand file location  Oxfordshire County Council Policy for  \nContributions in Adult Social Care  \n \nDocument Owner  Financial Assessment Manager  \nPublication Date  01/10/2018  \nReview Date  14/02/2025  \nNext review date  14/02/2026  \n \n \nVersion control  \nDate  Version  By Comments  \n01/10/2018  1   \n14/02/2025  2 Sheldon \nO\u2019Donoghue  Update DRE %  \n    \n \n \nAccessibility  \n \nThis document can be made available in large print, Braille, audio or in electronic \nformat. Copies in alternative languages may also be obtained.  \n \nPlease contact: Financial Assessment Manager\n\n[Document 5] From https://www (docx) - URL: https://www.oxfordshire.gov.uk/business/information-providers/adult-social-care-providers/general-information [Retrieved via: semantic_expanded_1]:\n# Our Vision for Adult Social Care: The Oxfordshire Way\n\nThe Oxfordshire Way strategic vision for adult social care  sets out our ambition to support people to live well and independently in their communities, remaining fit and healthy for as long as possible.\n\nThe Oxfordshire Way is a strength-based approach that acknowledges that people have their own personal strengths, networks and local community-based resources to help them lead a fulfilling life, and any additional health and social care support should build on that. \n\nWorking in partnership with voluntary and community sector, we are actively supporting and investing in community assets to promote prevention and work collaboratively with our partners and providers (please see Section 4: Prevention for more information).\n\n[Document 6] From https://www (pdf) - URL: https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/adult-social-care-policies - 16 pages [Retrieved via: semantic_original]:\n[Page 4 - FINANCIAL/BUDGET INFORMATION]\nASC Contributions Policy  October 2018                                             Page 4 of 16 \n  \n\u2022 We will adopt a simple, efficient, cost-effective  financial assessment and \nincome collection  process  \n\u2022 Charging arrangements will reflect the actual cost of services  \n\u2022 The charging rules will be applied equally so that those with similar needs or \nservices are treated equitably ASC Contributions Policy \u2013 October 2018 Page \n2 of 13 People should not be charged more than it is reasonably practicable \nfor them to pay  \n\u2022 We will provide people with timely, clear and concise information about the \ncosts of their care  \n\u2022 The policy will contribute to the sustainability of Adult Social Care in \nOxfordshire  \n\u2022 The financial assessment will ensure that people on low incomes are not put \nin financial hardship as a result of paying towards their care costs. Advice and \nsupport to claim welfare benefit entitlements will be made available to people \nand carers\n\n[Document 7] From https://www (pdf) - URL: https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/adult-social-care-policies - 16 pages [Retrieved via: semantic_original]:\n[Page 4 - FINANCIAL/BUDGET INFORMATION]\nASC Contributions Policy  October 2018                                             Page 4 of 16 \n  \n\u2022 We will adopt a simple, efficient, cost-effective  financial assessment and \nincome collection  process  \n\u2022 Charging arrangements will reflect the actual cost of services  \n\u2022 The charging rules will be applied equally so that those with similar needs or \nservices are treated equitably ASC Contributions Policy \u2013 October 2018 Page \n2 of 13 People should not be charged more than it is reasonably practicable \nfor them to pay  \n\u2022 We will provide people with timely, clear and concise information about the \ncosts of their care  \n\u2022 The policy will contribute to the sustainability of Adult Social Care in \nOxfordshire  \n\u2022 The financial assessment will ensure that people on low incomes are not put \nin financial hardship as a result of paying towards their care costs. Advice and \nsupport to claim welfare benefit entitlements will be made available to people \nand carers\n\n[Document 8] From https://www (pdf) - URL: https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/adult-social-care-policies - 16 pages [Retrieved via: semantic_original]:\n[Page 4 - FINANCIAL/BUDGET INFORMATION]\nASC Contributions Policy  October 2018                                             Page 4 of 16 \n  \n\u2022 We will adopt a simple, efficient, cost-effective  financial assessment and \nincome collection  process  \n\u2022 Charging arrangements will reflect the actual cost of services  \n\u2022 The charging rules will be applied equally so that those with similar needs or \nservices are treated equitably ASC Contributions Policy \u2013 October 2018 Page \n2 of 13 People should not be charged more than it is reasonably practicable \nfor them to pay  \n\u2022 We will provide people with timely, clear and concise information about the \ncosts of their care  \n\u2022 The policy will contribute to the sustainability of Adult Social Care in \nOxfordshire  \n\u2022 The financial assessment will ensure that people on low incomes are not put \nin financial hardship as a result of paying towards their care costs. Advice and \nsupport to claim welfare benefit entitlements will be made available to people \nand carers\n\n[Document 9] From https://www (docx) - URL: https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/oxfordshire-way [Retrieved via: semantic_expanded_3]:\n[Table 1]\n6424 people receiving ongoing care | 6770 Safeguarding Concerns last year | 52,675 people who say they provide care and support to a family member or friend | 75% of issues resolved by Customer Service Centre at first point of contact in the last year\n23.2% of residents are from non-\u201cwhite British\u201d backgrounds | 23% of people have a disability | 60% of the population live in Oxford city or main towns | The number of people aged 65+ grew by 25% from 2011 to 2021\n358 admissions to care homes per 100,000 population, vs 539 per 100,000 population in England (2021/22) | 30,000 hours of care provided in people\u2019s homes (up by 47% since April 2020) | 92% of Oxfordshire\u2019s social care providers good or excellent compared to 83% nationally | 81 community micro enterprises supporting 1028 people giving people greater choice\n\n[Document 10] From https://www (pdf) - URL: https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/adult-social-care-policies - 16 pages [Retrieved via: semantic_original]:\nsections of the act  \n \n3. It should be read in conjunction with the council\u2019s Adult Social Care policies \non Assessment and Review, Support Planning, Safeguarding and Complaints, \nAppeals and Compliments, and associated operational procedures and \nguidance.  \n \nContext  \n4. Oxfordshire County Council aims to support and promote strong communities \nso that people live their lives as successfully, independently and safely as \npossible. The council aims to promote independence and choice, be fair and \nequitable and give people more  power and control over their lives.  \n \n5. Social care is not a free service and national funding arrangements make it \nclear councils need to collect income locally to contribute towards the cost of \nservices.  \n \n6. Income from charging for services where it is appropriate to do so is therefore \nan essential part of Oxfordshire County Council\u2019s financial strategy.  \n \n7. This policy is based on national legislation and in determining the contribution\n",
+  "answer": "The available documents don't provide specific information about the current budget allocation for Adult Social Care in Oxfordshire.\n\nFor more detailed financial information, you may consider visiting the Oxfordshire County Council's official website or contacting their Financial Assessment Manager. You can access their policies and potential updates on budget allocations through their Adult Social Care policies page at [Oxfordshire County Council Adult Social Care Policies](https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/adult-social-care-policies).",
+  "metrics": {
+    "duration_seconds": 4.398536205291748,
+    "retrieved_docs_count": 10,
+    "query_length": 75,
+    "answer_length": 590,
+    "retrieval_method": "enhanced",
+    "context_utilization": 0.07563025210084033,
+    "citations_count": 0,
+    "has_citations": false,
+    "query_relevance": 0.875,
+    "unique_retrieval_methods": 4,
+    "budget_documents_retrieved": 10,
+    "retrieval_methods_used": [
+      "financial_enhanced",
+      "semantic_original",
+      "semantic_expanded_1",
+      "semantic_expanded_3"
+    ],
+    "retrieval_method_distribution": {
+      "semantic_expanded_3": 2,
+      "financial_enhanced": 3,
+      "semantic_expanded_1": 1,
+      "semantic_original": 4
+    }
+  },
+  "local_authority": "oxfordshire",
+  "query_id": "std_9",
+  "retrieval_method": "enhanced",
+  "run_id": "d25986c8-4698-4631-b31c-3935054c24dc",
+  "trace": {
+    "run_id": "d25986c8-4698-4631-b31c-3935054c24dc",
+    "project": "social_care_rag",
+    "url": "https://eu.smith.langchain.com/o/me/runs/d25986c8-4698-4631-b31c-3935054c24dc"
+  },
+  "test_metadata": {
+    "local_authority": "oxfordshire",
+    "query_id": "std_9",
+    "query_category": "financial_standard",
+    "prompt_variation": "optimized",
+    "prompt_template": "\nPlease answer the following question about social care services in UK local authorities based only on the information in the provided documents.\n\nQuestion: {query}\n\nContext from relevant documents:\n{context}\n\nInstructions:\n1. Provide a clear, direct answer that would help someone needing this information. If information isn't available, state: \"The available documents don't provide specific information about [aspect].\"\n\n2. Synthesize information from ALL relevant documents to provide the most complete answer rather than analyzing documents individually.\n\n3. Structure your response with:\n   - A concise 1-2 sentence summary first\n   - Relevant details organized in short, clear paragraphs\n   - Bullet points for lists or step-by-step information\n   - Bold text for key information the user should notice\n\n4. For financial information:\n   - Include exact figures, time periods, and what the funding covers\n   - Present financial data clearly: \"The adult social care budget is **\u00a3X million** for [time period]\"\n\n5. Always include practical next steps or resources:\n   - Provide contact information, URLs, or application methods mentioned in the documents\n   - Suggest where the person could find more information\n\n6. When citing sources, use a simple format: \"According to [document name/description]\" or include URLs where available.\n\nAnswer:\n",
+    "processing_time": 4.401648044586182,
+    "timestamp": "2025-08-19T14:13:50.669845",
+    "top_k": 10
+  }
+}

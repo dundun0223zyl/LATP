@@ -1,0 +1,345 @@
+{
+  "query": "How much of Brighton-hove's planned savings are targeted to come from social care services?",
+  "retrieved_documents": [
+    {
+      "content": "process, which starts in Autumn and is finalised in February  each year .  \nWhen setting  annual fees, the Council considers inflationary pressures, the living wage and other \ncost pressures affecting Adult Social Care providers , but this must  be balanced with managing the \noverall budget of Adult Social Care services  and the wider Council .   \nFor residential settings we have published set rates which cover both residential and nursing homes \nand for our homecare provision we have a set hourly rate.  The table below set out these rates as at \n22/23. Additional Funding provided through the cost of ca re exercise has been applied to these rates \nfor 22/23.  \n \nFee Rates Table 2022 -23 (updated 65+ Care Homes and Home Care)  \nService  Current Fee  \n2022 -23 \nCare Homes and Care Homes with Nursing \u2013 set rates only  \nIn city 65+ care homes \u2013 set fees per week  \u00a3624  \nIn city 65+ care homes with nursing \u2013 set fees per \nweek  \u00a3833.19  inc of FNC \u00a3209.19",
+      "metadata": {
+        "chunk_id": 15,
+        "contains_financial_info": true,
+        "download_url": "https://www.brighton-hove.gov.uk/sites/default/files/2023-03/BHCC%20Market%20Sustainability%20Plan_0.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "BHCC%20Market%20Sustainability%20Plan_0.pdf",
+        "financial_pages": "[1, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 16]",
+        "level": "level_2",
+        "page_count": 16,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]",
+        "source": "https://www.brighton-hove.gov.uk/adult-social-care/about-adult-social-care/annex-c-final-market-sustainability-plan",
+        "source_url": "https://www.brighton-hove.gov.uk/adult-social-care/about-adult-social-care/annex-c-final-market-sustainability-plan",
+        "total_chunks": 49,
+        "type": "pdf"
+      },
+      "id": "63f7502b-a51e-4a72-a919-07ec8a20d279",
+      "distance": 0.8120428919792175,
+      "retrieval_method": "semantic_expanded_2",
+      "expanded_query": "social care budget",
+      "combined_score": 0.6060374820565844,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 4,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_expanded_2"
+      }
+    },
+    {
+      "content": "carer contact \nassessments \ncompleted\n14,466 older \npeople were supported \nto access advice  \nor activities 736 in \nresidential  \ncare2,852 \nreceive a \nrange of \ncommunity \nsupport \noptions\n3,143   \nnew \nrequests  \nfor support1,574 carers \nsupported by Adult \nSocial Care\nmore than 4,231 \nlocal people \nsupported by  \nthe Healthy  \nLifestyles  \nTeamover 44,000 \nsexual health \nappointments \nprovided\n924 \nsafeguarding \nenquiries \nundertaken \n(including mental \nhealth)353 people \nreceived  \nshort-term \nintensive  \nsupport4,142 554\npeople \nreceived a \nlong-term \nadult social \ncare service\n2,700 people \nengaged with \ndrug or alcohol \ntreatmentsmore than4,128 \ncare \nassessments \nor reviews \ntook placeThis latest Adult Social Care \n& Wellbeing Report comes \nat a pivotal time for our \ncouncil. The past year has \nseen the switch to a cabinet \nsystem, and the combining \nof a new directorate for \nHomes and Adult Social Care, \nbringing together housing \nand adult social care services. \nThese changes will lead the",
+      "metadata": {
+        "chunk_id": 2,
+        "contains_financial_info": true,
+        "download_url": "https://www.brighton-hove.gov.uk/sites/default/files/2024-12/Adult%20Social%20Care%20%26%20Wellbeing%20Annual%20Report%202024%20FINAL%20DIGITAL%20pdf.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Adult%20Social%20Care%20%26%20Wellbeing%20Annual%20Report%202024%20FINAL%20DIGITAL%20pdf.pdf",
+        "financial_pages": "[2, 3, 4, 5, 6, 7, 8, 9, 10, 11]",
+        "level": "level_2",
+        "page_count": 11,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]",
+        "source": "https://www.brighton-hove.gov.uk/adult-social-care-hub/documents-adult-social-care/adult-social-care-wellbeing-annual-report-2023-2024",
+        "source_url": "https://www.brighton-hove.gov.uk/adult-social-care-hub/documents-adult-social-care/adult-social-care-wellbeing-annual-report-2023-2024",
+        "total_chunks": 56,
+        "type": "pdf"
+      },
+      "id": "0d98a522-98b4-4f77-bc81-add485da4e2e",
+      "distance": 0.7062718868255615,
+      "retrieval_method": "semantic_expanded_1",
+      "expanded_query": "adult social care",
+      "combined_score": 0.5608457066796043,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_expanded_1"
+      }
+    },
+    {
+      "content": "[Page 5 - FINANCIAL/BUDGET INFORMATION]\nAdult Social Care & Wellbeing report  |  2023-2024 2023-2024   |  Adult Social Care & Wellbeing report\n8 9Information & advice \nProviding advice and information to ensure people are aware of their \noptions, so they can get the right help at the right time.\nWe have:\nDeveloped an online \u2018Self-Service\u2019 Adult Social \nCare Hub  to make it easier for people to find \ninformation and advice about support options.\nReviewed and developed council web pages \non Adult Social Care  to improve customer \nexperience and give key information at the \nearliest stage.  \nReviewed phonelines and pathways to help \ndirect customers to the right service area  at \nthe first available opportunity. \nContinued to fund the Carers Hub , giving \nunpaid carers a single point of contact for \ninformation, advice and support.\nSet up an Easy Read Hub on the council \nwebsite to make information more easily \naccessible for people with Learning Difficulties. \nAdded British Sign Language resources  to our",
+      "metadata": {
+        "chunk_id": 16,
+        "contains_financial_info": true,
+        "download_url": "https://www.brighton-hove.gov.uk/sites/default/files/2024-12/Adult%20Social%20Care%20%26%20Wellbeing%20Annual%20Report%202024%20FINAL%20DIGITAL%20pdf.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Adult%20Social%20Care%20%26%20Wellbeing%20Annual%20Report%202024%20FINAL%20DIGITAL%20pdf.pdf",
+        "financial_pages": "[2, 3, 4, 5, 6, 7, 8, 9, 10, 11]",
+        "level": "level_2",
+        "page_count": 11,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]",
+        "source": "https://www.brighton-hove.gov.uk/adult-social-care-hub/documents-adult-social-care/adult-social-care-wellbeing-annual-report-2023-2024",
+        "source_url": "https://www.brighton-hove.gov.uk/adult-social-care-hub/documents-adult-social-care/adult-social-care-wellbeing-annual-report-2023-2024",
+        "total_chunks": 56,
+        "type": "pdf"
+      },
+      "id": "b5826c78-b721-4f16-96aa-4a96981a35bd",
+      "distance": 0.7336150407791138,
+      "retrieval_method": "semantic_expanded_1",
+      "expanded_query": "adult social care",
+      "combined_score": 0.5547406625914407,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_expanded_1"
+      }
+    },
+    {
+      "content": "information from the SE and nationally. BHCC decided that the type of approaches to ROC \nthat were suggested in the DHSC guidance were not necessary and would not only give a  \nless accurate figure than what provid ers shared, but would also move away from the BHCC \nprinciple of using provider information where possible.  \nAnnual fees and price uplift  \nAnnual fees paid for commissioned services is reviewed in line with Local Authority budget \nsetting process, which starts in Autumn and is finalised in February.  \nWhen setting annual fees, the Council considers inflationary pressures , the living wage and \nother cost pre ssures affecting Adult Social Care providers but this has to be balanced with \nmanaging the overall budget of Adult Social Care services.  \nFor residential settings we have published set rates which cover both residential and nursing \nhomes and for our homecar e provision we have a set hourly rate .  The table below set  out",
+      "metadata": {
+        "chunk_id": 15,
+        "contains_financial_info": true,
+        "download_url": "https://www.brighton-hove.gov.uk/sites/default/files/2023-01/Annex%20B%20-%20Cost%20of%20Care%20Report_Edd%20Yeo.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Annex%20B%20-%20Cost%20of%20Care%20Report_Edd%20Yeo.pdf",
+        "financial_pages": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]",
+        "level": "level_2",
+        "page_count": 15,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]",
+        "source": "https://www.brighton-hove.gov.uk/adult-social-care/about-adult-social-care/annex-b-cost-care-report",
+        "source_url": "https://www.brighton-hove.gov.uk/adult-social-care/about-adult-social-care/annex-b-cost-care-report",
+        "total_chunks": 41,
+        "type": "pdf"
+      },
+      "id": "6755446a-ed68-4a86-96a2-3287bba2ed7d",
+      "distance": 0.8783023953437805,
+      "retrieval_method": "semantic_expanded_2",
+      "expanded_query": "social care budget",
+      "combined_score": 0.547698092585677,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_expanded_2"
+      }
+    },
+    {
+      "content": "for social care from working -age adults will impact on spending, due to this group often having more \ncomplex and longer -term requirements than the older population (aged 65+).  \n \nThe rising cost of services and the increasing cost pressures experienced by many of our provid ers \nmeans that ensuring we have the right services at a sustainable price remains challenging.  From a \nbudget strategy perspective, the impact of rising inflation and the impact of the pandemic on our 0100020003000400050006000\n2016/17 2017/18 2018/19 2019/20 2020/21 2021/22New Requests for support by age\n18-64 65+ Total Linear (18-64) Linear (65+)",
+      "metadata": {
+        "chunk_id": 30,
+        "contains_financial_info": true,
+        "download_url": "https://www.brighton-hove.gov.uk/sites/default/files/2023-03/BHCC%20Market%20Sustainability%20Plan_0.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "BHCC%20Market%20Sustainability%20Plan_0.pdf",
+        "financial_pages": "[1, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 16]",
+        "level": "level_2",
+        "page_count": 16,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]",
+        "source": "https://www.brighton-hove.gov.uk/adult-social-care/about-adult-social-care/annex-c-final-market-sustainability-plan",
+        "source_url": "https://www.brighton-hove.gov.uk/adult-social-care/about-adult-social-care/annex-c-final-market-sustainability-plan",
+        "total_chunks": 49,
+        "type": "pdf"
+      },
+      "id": "9782f4bb-2a93-4480-9d7f-a03701c10e3c",
+      "distance": 0.7001052498817444,
+      "retrieval_method": "semantic_expanded_2",
+      "expanded_query": "social care budget",
+      "combined_score": 0.5476607327277844,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_expanded_2"
+      }
+    },
+    {
+      "content": "[Page 6 - FINANCIAL/BUDGET INFORMATION]\nBrighton & Hove City Council    |    Council plan 2023 to 2027\n10 11Council plan 2023 to 2027    |    Brighton & Hove City Council\nOur services and our budget\nCouncil staff deliver hundreds of different services for residents, businesses \nand visitors. \nWe conduct weddings, look after the seafront and downland and maintain \nthe city\u2019s parks and green spaces. Services we must provide by law include \neducation services, children\u2019s safeguarding, children\u2019s and adult social care,  \nwaste collection, planning and housing services, road maintenance, and \nlibrary services.\nIn 2023 to 2024 we will spend over \u00a3891 million delivering services for the \ncity. It costs \u00a32.44 million a day to run council services. We are committed to \nspending this money efficiently.\nOur daily spend\n\u00a3651,000\nSchools and educationA\nBC\n\u00a3198,000 \nChildren\u2019s \nsocial care\n\u00a3116,000\nCapital investment \u00a3230,000 Housing\u00a330,000 Leisure, \nparks and open spaces\n\u00a3115,000 Highways \nand tra\ufb03c management\n\u00a369,000",
+      "metadata": {
+        "chunk_id": 12,
+        "contains_financial_info": true,
+        "download_url": "https://www.brighton-hove.gov.uk/sites/default/files/2023-09/Council%20Plan%202023%20to%202027.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Council%20Plan%202023%20to%202027.pdf",
+        "financial_pages": "[2, 3, 4, 5, 6, 7, 9, 10, 11, 12, 13, 14, 15]",
+        "level": "level_3",
+        "page_count": 17,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]",
+        "source": "https://www.brighton-hove.gov.uk/brighton-hove-city-council-plan-2023-2027",
+        "source_url": "https://www.brighton-hove.gov.uk/brighton-hove-city-council-plan-2023-2027",
+        "total_chunks": 52,
+        "type": "pdf"
+      },
+      "id": "760a87b7-584b-4693-adac-33791742f064",
+      "distance": 0.6908538937568665,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.5444920836211918,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 6,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 13 - FINANCIAL/BUDGET INFORMATION]\nBrighton & Hove Market Sustainability Plan  \nThere are several established services in place, but we are keen to develop new partnerships with \nproviders that may not have delivered this service to date to ensure the right care for people leaving \nhospital . We would like to hear from providers that may be able to offer these services, particularly \nthose who are able to provide nursing care for older adults with dementia, including those who walk \nwith purpose  \n \nWorkforce Development  \nBrighton & Hove City Council recognise the importance of a well -trained and supported workforce in \nthe delivery of excellent adult social care services for our residents.   Significant funding is allocated to \nprovide a full annual training programme to meet the needs of our in -house services and \nindependent and voluntary providers working with Brighton & Hove City Council across the city.",
+      "metadata": {
+        "chunk_id": 39,
+        "contains_financial_info": true,
+        "download_url": "https://www.brighton-hove.gov.uk/sites/default/files/2023-03/BHCC%20Market%20Sustainability%20Plan_0.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "BHCC%20Market%20Sustainability%20Plan_0.pdf",
+        "financial_pages": "[1, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 16]",
+        "level": "level_2",
+        "page_count": 16,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]",
+        "source": "https://www.brighton-hove.gov.uk/adult-social-care/about-adult-social-care/annex-c-final-market-sustainability-plan",
+        "source_url": "https://www.brighton-hove.gov.uk/adult-social-care/about-adult-social-care/annex-c-final-market-sustainability-plan",
+        "total_chunks": 49,
+        "type": "pdf"
+      },
+      "id": "1ec2385a-fdb7-492c-8e94-e0d4c7b4939b",
+      "distance": 0.6374071836471558,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.5391974253254337,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 3 - FINANCIAL/BUDGET INFORMATION]\nAdult Social Care & Wellbeing report  |  2023-2024 2023-2024   |  Adult Social Care & Wellbeing report\n4 5Brighton & Hove\nA few facts about our city\u2019s population\n276,300 residents\n72%  \n16 to 66 years old\n15%  \nUnder 16 years old\n10%  \n67 to 84 years old\n2% \n85 years old or older1 in 12 19%\nof residents \nare disabledresidents provide \nunpaid care\nOne in five\nresidents aged 60 \nor over are living in \nincome deprivationthirdOver a \nof older \npeople live \nalone\n22%\nof adults aged 20+ live \nwith two or more long \nterm physical or mental \nhealth conditions People are \nliving longer \nin ill health\nSmoking, alcohol & drug \ndependency, and sexual \nhealth are significant \nissues in the cityAbove average  \nlevels of mental  \nhealth issuesOur key achievements\nThis report is designed around the themes which the people we support have told us \nmatter to them. It highlights our key achievements during the period April 2023 to March",
+      "metadata": {
+        "chunk_id": 7,
+        "contains_financial_info": true,
+        "download_url": "https://www.brighton-hove.gov.uk/sites/default/files/2024-12/Adult%20Social%20Care%20%26%20Wellbeing%20Annual%20Report%202024%20FINAL%20DIGITAL%20pdf.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Adult%20Social%20Care%20%26%20Wellbeing%20Annual%20Report%202024%20FINAL%20DIGITAL%20pdf.pdf",
+        "financial_pages": "[2, 3, 4, 5, 6, 7, 8, 9, 10, 11]",
+        "level": "level_2",
+        "page_count": 11,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]",
+        "source": "https://www.brighton-hove.gov.uk/adult-social-care-hub/documents-adult-social-care/adult-social-care-wellbeing-annual-report-2023-2024",
+        "source_url": "https://www.brighton-hove.gov.uk/adult-social-care-hub/documents-adult-social-care/adult-social-care-wellbeing-annual-report-2023-2024",
+        "total_chunks": 56,
+        "type": "pdf"
+      },
+      "id": "43dcd532-4b6b-4ffb-8490-b85a44ad9265",
+      "distance": 0.7999982237815857,
+      "retrieval_method": "semantic_expanded_1",
+      "expanded_query": "adult social care",
+      "combined_score": 0.5348257076906991,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_expanded_1"
+      }
+    },
+    {
+      "content": "[Page 11 - FINANCIAL/BUDGET INFORMATION]\nBrighton & Hove Market Sustainability Plan  \nunit costs for both residential and nursing care confir ms that our current pricing framework, which \nwas already significantly strained, remains challenged.  \n \nFollowing the impact of Covid -19 and potentially of EU Exit, care providers have been dealing with \ndifficulties in workforce recruitment. This has impacted all care sectors across the country but has \nbeen particularly acute for home care providers.  Our direction of travel is still to enable people to \nreceive care in their own homes rather than for them move to residential care, though this has been \nchallenging over the past year due to there being currently higher demand for home care than \navailability.  \n \nAdult Social Care Charging Reform is planned to be introduced from October 2025, having been \ndelayed from the planned date of October 2023. The refo rms include a more generous means -test, a",
+      "metadata": {
+        "chunk_id": 31,
+        "contains_financial_info": true,
+        "download_url": "https://www.brighton-hove.gov.uk/sites/default/files/2023-03/BHCC%20Market%20Sustainability%20Plan_0.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "BHCC%20Market%20Sustainability%20Plan_0.pdf",
+        "financial_pages": "[1, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 16]",
+        "level": "level_2",
+        "page_count": 16,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]",
+        "source": "https://www.brighton-hove.gov.uk/adult-social-care/about-adult-social-care/annex-c-final-market-sustainability-plan",
+        "source_url": "https://www.brighton-hove.gov.uk/adult-social-care/about-adult-social-care/annex-c-final-market-sustainability-plan",
+        "total_chunks": 49,
+        "type": "pdf"
+      },
+      "id": "202836b6-f7cd-4a85-9ad7-85a731067ae3",
+      "distance": 0.5529429316520691,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.5281730645603233,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 5 - FINANCIAL/BUDGET INFORMATION]\nBrighton & Hove Market Sustainability Plan  \nCare reform impact on fees and self -funder arrangements  \nCharging Reform legislation was scheduled for introduction in October 2023, this has since been \ndelayed until October 2025. As part of that preparation Br ighton & Hove studied the self -funder \nmarket and predicted the impact of legislation change on the demand for services.  \nWe are conscious that although the legislation changes had additional government funding, the \nexpected increase in demand  and costs  for self -funders moving to Local Authority rates would have \nbeen beyond the additional funding.  This is explained further in section 2 below.   \n \nThe cost -of-living crisis  \nThe unprecedented escalation in costs, particularly energy bills, has shaken the sector. Brighton & \nHove City Council faces a shortfall of \u00a314.3 million in 2023/24 due to demand for  our services,",
+      "metadata": {
+        "chunk_id": 10,
+        "contains_financial_info": true,
+        "download_url": "https://www.brighton-hove.gov.uk/sites/default/files/2023-03/BHCC%20Market%20Sustainability%20Plan_0.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "BHCC%20Market%20Sustainability%20Plan_0.pdf",
+        "financial_pages": "[1, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 16]",
+        "level": "level_2",
+        "page_count": 16,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]",
+        "source": "https://www.brighton-hove.gov.uk/adult-social-care/about-adult-social-care/annex-c-final-market-sustainability-plan",
+        "source_url": "https://www.brighton-hove.gov.uk/adult-social-care/about-adult-social-care/annex-c-final-market-sustainability-plan",
+        "total_chunks": 49,
+        "type": "pdf"
+      },
+      "id": "4c346a5a-160c-4d6a-a432-8a4aef71fd75",
+      "distance": 0.6480231285095215,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.520977676831759,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 6,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    }
+  ],
+  "context": "[Document 1] From https://www (pdf) - URL: https://www.brighton-hove.gov.uk/adult-social-care/about-adult-social-care/annex-c-final-market-sustainability-plan - 16 pages [Retrieved via: semantic_expanded_2]:\nprocess, which starts in Autumn and is finalised in February  each year .  \nWhen setting  annual fees, the Council considers inflationary pressures, the living wage and other \ncost pressures affecting Adult Social Care providers , but this must  be balanced with managing the \noverall budget of Adult Social Care services  and the wider Council .   \nFor residential settings we have published set rates which cover both residential and nursing homes \nand for our homecare provision we have a set hourly rate.  The table below set out these rates as at \n22/23. Additional Funding provided through the cost of ca re exercise has been applied to these rates \nfor 22/23.  \n \nFee Rates Table 2022 -23 (updated 65+ Care Homes and Home Care)  \nService  Current Fee  \n2022 -23 \nCare Homes and Care Homes with Nursing \u2013 set rates only  \nIn city 65+ care homes \u2013 set fees per week  \u00a3624  \nIn city 65+ care homes with nursing \u2013 set fees per \nweek  \u00a3833.19  inc of FNC \u00a3209.19\n\n[Document 2] From https://www (pdf) - URL: https://www.brighton-hove.gov.uk/adult-social-care-hub/documents-adult-social-care/adult-social-care-wellbeing-annual-report-2023-2024 - 11 pages [Retrieved via: semantic_expanded_1]:\ncarer contact \nassessments \ncompleted\n14,466 older \npeople were supported \nto access advice  \nor activities 736 in \nresidential  \ncare2,852 \nreceive a \nrange of \ncommunity \nsupport \noptions\n3,143   \nnew \nrequests  \nfor support1,574 carers \nsupported by Adult \nSocial Care\nmore than 4,231 \nlocal people \nsupported by  \nthe Healthy  \nLifestyles  \nTeamover 44,000 \nsexual health \nappointments \nprovided\n924 \nsafeguarding \nenquiries \nundertaken \n(including mental \nhealth)353 people \nreceived  \nshort-term \nintensive  \nsupport4,142 554\npeople \nreceived a \nlong-term \nadult social \ncare service\n2,700 people \nengaged with \ndrug or alcohol \ntreatmentsmore than4,128 \ncare \nassessments \nor reviews \ntook placeThis latest Adult Social Care \n& Wellbeing Report comes \nat a pivotal time for our \ncouncil. The past year has \nseen the switch to a cabinet \nsystem, and the combining \nof a new directorate for \nHomes and Adult Social Care, \nbringing together housing \nand adult social care services. \nThese changes will lead the\n\n[Document 3] From https://www (pdf) - URL: https://www.brighton-hove.gov.uk/adult-social-care-hub/documents-adult-social-care/adult-social-care-wellbeing-annual-report-2023-2024 - 11 pages [Retrieved via: semantic_expanded_1]:\n[Page 5 - FINANCIAL/BUDGET INFORMATION]\nAdult Social Care & Wellbeing report  |  2023-2024 2023-2024   |  Adult Social Care & Wellbeing report\n8 9Information & advice \nProviding advice and information to ensure people are aware of their \noptions, so they can get the right help at the right time.\nWe have:\nDeveloped an online \u2018Self-Service\u2019 Adult Social \nCare Hub  to make it easier for people to find \ninformation and advice about support options.\nReviewed and developed council web pages \non Adult Social Care  to improve customer \nexperience and give key information at the \nearliest stage.  \nReviewed phonelines and pathways to help \ndirect customers to the right service area  at \nthe first available opportunity. \nContinued to fund the Carers Hub , giving \nunpaid carers a single point of contact for \ninformation, advice and support.\nSet up an Easy Read Hub on the council \nwebsite to make information more easily \naccessible for people with Learning Difficulties. \nAdded British Sign Language resources  to our\n\n[Document 4] From https://www (pdf) - URL: https://www.brighton-hove.gov.uk/adult-social-care/about-adult-social-care/annex-b-cost-care-report - 15 pages [Retrieved via: semantic_expanded_2]:\ninformation from the SE and nationally. BHCC decided that the type of approaches to ROC \nthat were suggested in the DHSC guidance were not necessary and would not only give a  \nless accurate figure than what provid ers shared, but would also move away from the BHCC \nprinciple of using provider information where possible.  \nAnnual fees and price uplift  \nAnnual fees paid for commissioned services is reviewed in line with Local Authority budget \nsetting process, which starts in Autumn and is finalised in February.  \nWhen setting annual fees, the Council considers inflationary pressures , the living wage and \nother cost pre ssures affecting Adult Social Care providers but this has to be balanced with \nmanaging the overall budget of Adult Social Care services.  \nFor residential settings we have published set rates which cover both residential and nursing \nhomes and for our homecar e provision we have a set hourly rate .  The table below set  out\n\n[Document 5] From https://www (pdf) - URL: https://www.brighton-hove.gov.uk/adult-social-care/about-adult-social-care/annex-c-final-market-sustainability-plan - 16 pages [Retrieved via: semantic_expanded_2]:\nfor social care from working -age adults will impact on spending, due to this group often having more \ncomplex and longer -term requirements than the older population (aged 65+).  \n \nThe rising cost of services and the increasing cost pressures experienced by many of our provid ers \nmeans that ensuring we have the right services at a sustainable price remains challenging.  From a \nbudget strategy perspective, the impact of rising inflation and the impact of the pandemic on our 0100020003000400050006000\n2016/17 2017/18 2018/19 2019/20 2020/21 2021/22New Requests for support by age\n18-64 65+ Total Linear (18-64) Linear (65+)\n\n[Document 6] From https://www (pdf) - URL: https://www.brighton-hove.gov.uk/brighton-hove-city-council-plan-2023-2027 - 17 pages [Retrieved via: semantic_original]:\n[Page 6 - FINANCIAL/BUDGET INFORMATION]\nBrighton & Hove City Council    |    Council plan 2023 to 2027\n10 11Council plan 2023 to 2027    |    Brighton & Hove City Council\nOur services and our budget\nCouncil staff deliver hundreds of different services for residents, businesses \nand visitors. \nWe conduct weddings, look after the seafront and downland and maintain \nthe city\u2019s parks and green spaces. Services we must provide by law include \neducation services, children\u2019s safeguarding, children\u2019s and adult social care,  \nwaste collection, planning and housing services, road maintenance, and \nlibrary services.\nIn 2023 to 2024 we will spend over \u00a3891 million delivering services for the \ncity. It costs \u00a32.44 million a day to run council services. We are committed to \nspending this money efficiently.\nOur daily spend\n\u00a3651,000\nSchools and educationA\nBC\n\u00a3198,000 \nChildren\u2019s \nsocial care\n\u00a3116,000\nCapital investment \u00a3230,000 Housing\u00a330,000 Leisure, \nparks and open spaces\n\u00a3115,000 Highways \nand tra\ufb03c management\n\u00a369,000\n\n[Document 7] From https://www (pdf) - URL: https://www.brighton-hove.gov.uk/adult-social-care/about-adult-social-care/annex-c-final-market-sustainability-plan - 16 pages [Retrieved via: semantic_original]:\n[Page 13 - FINANCIAL/BUDGET INFORMATION]\nBrighton & Hove Market Sustainability Plan  \nThere are several established services in place, but we are keen to develop new partnerships with \nproviders that may not have delivered this service to date to ensure the right care for people leaving \nhospital . We would like to hear from providers that may be able to offer these services, particularly \nthose who are able to provide nursing care for older adults with dementia, including those who walk \nwith purpose  \n \nWorkforce Development  \nBrighton & Hove City Council recognise the importance of a well -trained and supported workforce in \nthe delivery of excellent adult social care services for our residents.   Significant funding is allocated to \nprovide a full annual training programme to meet the needs of our in -house services and \nindependent and voluntary providers working with Brighton & Hove City Council across the city.\n\n[Document 8] From https://www (pdf) - URL: https://www.brighton-hove.gov.uk/adult-social-care-hub/documents-adult-social-care/adult-social-care-wellbeing-annual-report-2023-2024 - 11 pages [Retrieved via: semantic_expanded_1]:\n[Page 3 - FINANCIAL/BUDGET INFORMATION]\nAdult Social Care & Wellbeing report  |  2023-2024 2023-2024   |  Adult Social Care & Wellbeing report\n4 5Brighton & Hove\nA few facts about our city\u2019s population\n276,300 residents\n72%  \n16 to 66 years old\n15%  \nUnder 16 years old\n10%  \n67 to 84 years old\n2% \n85 years old or older1 in 12 19%\nof residents \nare disabledresidents provide \nunpaid care\nOne in five\nresidents aged 60 \nor over are living in \nincome deprivationthirdOver a \nof older \npeople live \nalone\n22%\nof adults aged 20+ live \nwith two or more long \nterm physical or mental \nhealth conditions People are \nliving longer \nin ill health\nSmoking, alcohol & drug \ndependency, and sexual \nhealth are significant \nissues in the cityAbove average  \nlevels of mental  \nhealth issuesOur key achievements\nThis report is designed around the themes which the people we support have told us \nmatter to them. It highlights our key achievements during the period April 2023 to March\n\n[Document 9] From https://www (pdf) - URL: https://www.brighton-hove.gov.uk/adult-social-care/about-adult-social-care/annex-c-final-market-sustainability-plan - 16 pages [Retrieved via: semantic_original]:\n[Page 11 - FINANCIAL/BUDGET INFORMATION]\nBrighton & Hove Market Sustainability Plan  \nunit costs for both residential and nursing care confir ms that our current pricing framework, which \nwas already significantly strained, remains challenged.  \n \nFollowing the impact of Covid -19 and potentially of EU Exit, care providers have been dealing with \ndifficulties in workforce recruitment. This has impacted all care sectors across the country but has \nbeen particularly acute for home care providers.  Our direction of travel is still to enable people to \nreceive care in their own homes rather than for them move to residential care, though this has been \nchallenging over the past year due to there being currently higher demand for home care than \navailability.  \n \nAdult Social Care Charging Reform is planned to be introduced from October 2025, having been \ndelayed from the planned date of October 2023. The refo rms include a more generous means -test, a\n\n[Document 10] From https://www (pdf) - URL: https://www.brighton-hove.gov.uk/adult-social-care/about-adult-social-care/annex-c-final-market-sustainability-plan - 16 pages [Retrieved via: semantic_original]:\n[Page 5 - FINANCIAL/BUDGET INFORMATION]\nBrighton & Hove Market Sustainability Plan  \nCare reform impact on fees and self -funder arrangements  \nCharging Reform legislation was scheduled for introduction in October 2023, this has since been \ndelayed until October 2025. As part of that preparation Br ighton & Hove studied the self -funder \nmarket and predicted the impact of legislation change on the demand for services.  \nWe are conscious that although the legislation changes had additional government funding, the \nexpected increase in demand  and costs  for self -funders moving to Local Authority rates would have \nbeen beyond the additional funding.  This is explained further in section 2 below.   \n \nThe cost -of-living crisis  \nThe unprecedented escalation in costs, particularly energy bills, has shaken the sector. Brighton & \nHove City Council faces a shortfall of \u00a314.3 million in 2023/24 due to demand for  our services,\n",
+  "answer": "The available documents don't provide specific information about how much of Brighton & Hove's planned savings are targeted to come from social care services. \n\n**Key Information:**\n- The documents discuss various aspects of adult social care services, including budget considerations, fee rates, and the impact of inflation and cost pressures. However, they do not specify the exact amount or percentage of planned savings from social care services.\n\n**Next Steps:**\n- For more detailed financial information or specific budget allocations, you may contact Brighton & Hove City Council directly through their official website: [Brighton & Hove City Council](https://www.brighton-hove.gov.uk).\n- You can also explore further documents or reports related to the council's budget planning and savings strategies for additional insights.",
+  "metrics": {
+    "duration_seconds": 5.362220048904419,
+    "retrieved_docs_count": 10,
+    "query_length": 91,
+    "answer_length": 834,
+    "retrieval_method": "enhanced",
+    "context_utilization": 0.07599309153713299,
+    "citations_count": 1,
+    "has_citations": true,
+    "query_relevance": 1.0,
+    "unique_retrieval_methods": 3,
+    "budget_documents_retrieved": 10,
+    "retrieval_methods_used": [
+      "semantic_expanded_2",
+      "semantic_expanded_1",
+      "semantic_original"
+    ],
+    "retrieval_method_distribution": {
+      "semantic_expanded_2": 3,
+      "semantic_expanded_1": 3,
+      "semantic_original": 4
+    }
+  },
+  "local_authority": "Brighton-hove",
+  "query_id": "std_8",
+  "retrieval_method": "enhanced",
+  "run_id": "aa033b63-87c4-4137-bbf5-c9614f5a05ce",
+  "trace": {
+    "run_id": "aa033b63-87c4-4137-bbf5-c9614f5a05ce",
+    "project": "social_care_rag",
+    "url": "https://eu.smith.langchain.com/o/me/runs/aa033b63-87c4-4137-bbf5-c9614f5a05ce"
+  },
+  "test_metadata": {
+    "local_authority": "Brighton-hove",
+    "query_id": "std_8",
+    "query_category": "financial_standard",
+    "prompt_variation": "optimized",
+    "prompt_template": "\nPlease answer the following question about social care services in UK local authorities based only on the information in the provided documents.\n\nQuestion: {query}\n\nContext from relevant documents:\n{context}\n\nInstructions:\n1. Provide a clear, direct answer that would help someone needing this information. If information isn't available, state: \"The available documents don't provide specific information about [aspect].\"\n\n2. Synthesize information from ALL relevant documents to provide the most complete answer rather than analyzing documents individually.\n\n3. Structure your response with:\n   - A concise 1-2 sentence summary first\n   - Relevant details organized in short, clear paragraphs\n   - Bullet points for lists or step-by-step information\n   - Bold text for key information the user should notice\n\n4. For financial information:\n   - Include exact figures, time periods, and what the funding covers\n   - Present financial data clearly: \"The adult social care budget is **\u00a3X million** for [time period]\"\n\n5. Always include practical next steps or resources:\n   - Provide contact information, URLs, or application methods mentioned in the documents\n   - Suggest where the person could find more information\n\n6. When citing sources, use a simple format: \"According to [document name/description]\" or include URLs where available.\n\nAnswer:\n",
+    "processing_time": 5.3644819259643555,
+    "timestamp": "2025-08-17T22:33:41.348798",
+    "top_k": 10
+  }
+}

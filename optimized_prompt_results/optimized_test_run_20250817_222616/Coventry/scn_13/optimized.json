@@ -1,0 +1,317 @@
+{
+  "query": "I work full-time but also care for my elderly father with Parkinson's in Coventry. What respite care options exist so I can have occasional breaks?",
+  "retrieved_documents": [
+    {
+      "content": ". Respite care Carers need to take a break from time to time because caring long-term for someone can have lasting effects on a person\u2019s health and wellbeing. Respite care can take many forms from a volunteer sitting with the person they care for while they attend an appointment through to planned or emergency overnight short-term residential respite to cover for example holidays. Respite care and short breaks can be arranged by the local authority or paid for using a direct payment. Carers and services for families Supporting carers is at the heart of everything we do in Coventry. We work in partnership with the Carers Trust Heart of England to deliver a one-stop shop for people with caring responsibilities. The Carers Wellbeing Service delivered by Carers Trust Heart of England offers support for carers of all ages, including young carers",
+      "metadata": {
+        "chunk_id": 7,
+        "filename": "www.coventry.gov.uk_adult-social-care-commissioning-1_current-services-available-coventry.txt",
+        "level": "level_2",
+        "source": "https://www.coventry.gov.uk/adult-social-care-commissioning-1/current-services-available-coventry",
+        "source_url": "https://www.coventry.gov.uk/adult-social-care-commissioning-1/current-services-available-coventry",
+        "total_chunks": 10,
+        "type": "web_page"
+      },
+      "id": "61772d7e-fedf-4468-99a4-b26af90b6a65",
+      "distance": 0.5761514902114868,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.17715455293655397,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "on-going support day and night. Alan is not originally from Coventry and moved here \nyears ago. Alan is provided with a direct payment to pay for Alan and Andy to visit family \nfor a short holiday. This gives Alan the chance to reconnect with family and also the \nopportunity to have a break whilst other family members spend time with Andy.  }Your needs \nDo your needs \narise from your \ncaring role?\n }The impact \nAs a consequence, \nthere is a significant \nimpact on your well \nbeing. }Your Wellbeing \nYour physical or mental health is or is at risk of deteriorating.  \nAs a result you\u2019re unable to meet any of the following outcomes: \n}  carrying out any caring responsibilities the carer has  \nfor a child \n} providing care to other persons\n} maintaining a habitable home environment\n} managing and maintaining nutrition\n}  developing and maintaining family or other personal \nrelationships\n} engaging in work, training, education, or volunteering\n}  making use of necessary facilities or services in the local",
+      "metadata": {
+        "chunk_id": 7,
+        "contains_financial_info": true,
+        "download_url": "",
+        "extraction_method": "PyPDF2",
+        "filename": "carers-direct-payments.pdf",
+        "financial_pages": "[2]",
+        "level": "level_2",
+        "page_count": 2,
+        "pages_with_content": "[1, 2]",
+        "source": "carers-direct-payments.pdf",
+        "source_url": "",
+        "total_chunks": 9,
+        "type": "pdf"
+      },
+      "id": "24a5c642-0238-4005-9956-dc5d3f72302b",
+      "distance": 0.680542528629303,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1458372414112091,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Contents Contents Page 5 / 6 Information and advice Support to live at home Support for your carer to take a break Supported housing options and residential care homes You are here: Day opportunities, community activities and employment support CQC registered Council services Day opportunities, community activities and employment support Day opportunities Day opportunities, often known as Day Services, help people to live as independently as possible in the community through the use of buildings such as Day Centres and community-based support. Most of these services help people to get involved in community activities with the support of paid care workers. This can either be in groups or as individuals. In Coventry, there is a range of day opportunities schemes run by both the Council and private companies. Some schemes can be accessed directly, but for some, people have to be eligible for social care",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.coventry.gov.uk_care-support_types-support_5.txt",
+        "level": "level_2",
+        "source": "https://www.coventry.gov.uk/care-support/types-support/5",
+        "source_url": "https://www.coventry.gov.uk/care-support/types-support/5",
+        "total_chunks": 3,
+        "type": "web_page"
+      },
+      "id": "7f796b23-8bb7-4e01-b1a0-61f60c23e3b0",
+      "distance": 0.7243897914886475,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.13268306255340576,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 5 - FINANCIAL/BUDGET INFORMATION]\n\uf0a3Part two  How we will deliver our offer\n1. What support is available? \nA variety of services are available to support people, based on their needs and \nwhat they want to achieve. \nA list of these services is below, visit the Council website - www.coventry.gov.uk/\ncare-support/types-support  for more information. \n\u2022  Information and advice through the Council and our partners.\n\u2022  Support for unpaid carers, for example, respite and emotional support through \nthe Carers\u2019 Trust.\n\u2022 Equipment and adaptations around the home \u2013 for more independent living.\n\u2022  Day opportunities, for example, day centres or personalised support in the day \nfor adults with disabilities and older people.\n\u2022  Direct payments where people receive funding directly to organise social care \nand support services.\n\u2022 Home support, for example, to support with personal care and meal preparation.\n\u2022  Reablement support, to enable people to regain skills that may have been lost",
+      "metadata": {
+        "chunk_id": 12,
+        "contains_financial_info": true,
+        "download_url": "",
+        "extraction_method": "PyPDF2",
+        "filename": "adult-social-care-offer-full-version-with-translation-details-.pdf",
+        "financial_pages": "[1, 2, 3, 4, 5, 7, 8, 9, 11]",
+        "level": "level_2",
+        "page_count": 12,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]",
+        "source": "adult-social-care-offer-full-version-with-translation-details-.pdf",
+        "source_url": "",
+        "total_chunks": 36,
+        "type": "pdf"
+      },
+      "id": "9b568292-a1d7-4773-b089-7a6137625e3a",
+      "distance": 0.7277036905288696,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1316888928413391,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 10 - FINANCIAL/BUDGET INFORMATION]\nAdult Social Care Offer \u2013 Coventry City Council\nOur commitments to people who need to access our servicesOur Health and Care Partnership Vision\nWe will do all we can to enable people across Coventry and Warwickshire to pursue \nhappy, healthy lives and put people at the heart of everything we do.\nHow will we do this?\nOur work in Adult Social Care, at every level, intends to provide support to the residents of Coventry, in the \nleast intrusive manner possible, based on the assets, resources and abilities that are available to them. \nFor full details of Coventry\u2019s Adult Social Care Offer or to request information in another \nlanguage or format please email getinvolvedasc@coventry.gov.ukTaking a \nstrength-based \napproachHelping people to \nstay at homeMaking the best \nuse of resources \nJoined up care \nand supportKeeping \npeople safeCarers are at the \nheart of all we doCommitted \nworkforceWe are committed to \nenabling people to live \nas independently as",
+      "metadata": {
+        "chunk_id": 21,
+        "contains_financial_info": true,
+        "download_url": "",
+        "extraction_method": "PyPDF2",
+        "filename": "coventry-local-account-for-adult-social-care-2022-23.pdf",
+        "financial_pages": "[4, 5, 6, 7, 8, 9, 10, 12, 13, 14, 15, 16, 18, 19, 22, 23, 24, 25, 27, 28, 29, 31, 32, 34, 35, 36, 37, 38, 41, 42, 44, 47, 49, 50, 52]",
+        "level": "level_2",
+        "page_count": 52,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52]",
+        "source": "coventry-local-account-for-adult-social-care-2022-23.pdf",
+        "source_url": "",
+        "total_chunks": 152,
+        "type": "pdf"
+      },
+      "id": "3a5b8e30-2413-41f8-9928-0010748adc33",
+      "distance": 0.7336165904998779,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.12991502285003662,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "physical or learning disabilities, older people and those with mental health needs to \nmake the right choices and decisions about their health and social care.\n                                           \n Carers\u2019 Support  \nSeveral organisations in Coventry provide support for carers. The Carers\u2019 Trust - Heart \nof England (formerly Coventry Carers\u2019 Centre and Crossroads Care - Coventry and \nWarwickshire) is the main hub in the city for carers\u2019 support. It can help with information \nand advice, support groups, short breaks (replacement care), emergency support and \ntraining. They also support young carers through the Children in Need funded project \nrun at the Centre. Some other organisations also provide carers\u2019 support in a range of \nways, sometimes indirectly through supporting the person with care and support needs \n(residential respite/day services/information services).\uf0a3What is Adult Social Care?\n\uf0a3Types of support available",
+      "metadata": {
+        "chunk_id": 3,
+        "contains_financial_info": true,
+        "download_url": "",
+        "extraction_method": "PyPDF2",
+        "filename": "adult_social_care_and_support_available_printable_leaflet.pdf",
+        "financial_pages": "[3, 4, 6]",
+        "level": "level_2",
+        "page_count": 8,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8]",
+        "source": "adult_social_care_and_support_available_printable_leaflet.pdf",
+        "source_url": "",
+        "total_chunks": 15,
+        "type": "pdf"
+      },
+      "id": "59da87c6-7942-465c-a578-61a1e18759d1",
+      "distance": 0.7340616583824158,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.12978150248527526,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "need regular help or supervision. There are a range of homes across Coventry that \nthe Council either runs, or purchases services from. The Council also purchases \nseveral places outside the city for reasons such as specialist services being \nunavailable locally or customer choice. In Coventry, there is a range of different \ncare homes, each catering to people with varying needs and disabilities, for \nexample, dementia. Some care homes are registered to provide both residential \nand nursing care. \n                    Nursing Homes     \nA nursing home is like a residential home but with a nurse or nurses on-site to \nsupport people with health-specific issues. The NHS may be able to help with the \ncost of these placements with NHS Continuing Healthcare funding. If you, a family \nmember, or someone you care for is thinking about residential or nursing care, \ncontact Adult Social Care Direct. We will discuss whether you would benefit from",
+      "metadata": {
+        "chunk_id": 12,
+        "contains_financial_info": true,
+        "download_url": "",
+        "extraction_method": "PyPDF2",
+        "filename": "adult_social_care_and_support_available_printable_leaflet.pdf",
+        "financial_pages": "[3, 4, 6]",
+        "level": "level_2",
+        "page_count": 8,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8]",
+        "source": "adult_social_care_and_support_available_printable_leaflet.pdf",
+        "source_url": "",
+        "total_chunks": 15,
+        "type": "pdf"
+      },
+      "id": "b9d76c8a-c359-4f06-a0e2-5b9286bd863c",
+      "distance": 0.7469723224639893,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1259083032608032,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 13 - FINANCIAL/BUDGET INFORMATION]\n13\n13\nAdult Social Care Offer \u2013 Coventry City Council\nOur commitments to people who need to access our servicesOur Health and Care Partnership Vision\nWe will do all we can to enable people across Coventry and Warwickshire to pursue \nhappy, healthy lives and put people at the heart of everything we do.\nHow will we do this?\nOur work in Adult Social Care, at every level, intends to provide support to the residents of Coventry, in the \nleast intrusive manner possible, based on the assets, resources and abilities that are available to them. \nFor full details of Coventry\u2019s Adult Social Care Offer or to request information in another \nlanguage or format please email getinvolvedasc@coventry.gov.ukTaking a \nstrength-based \napproachHelping people to \nstay at homeMaking the best \nuse of resources \nJoined up care \nand supportKeeping \npeople safeCarers are at the \nheart of all we doCommitted \nworkforceWe are committed to \nenabling people to live \nas independently as",
+      "metadata": {
+        "chunk_id": 23,
+        "contains_financial_info": true,
+        "download_url": "",
+        "extraction_method": "PyPDF2",
+        "filename": "coventry-local-account-for-adult-social-care-2021-22.pdf",
+        "financial_pages": "[5, 6, 7, 8, 9, 11, 12, 13, 15, 16, 17, 18, 19, 20, 21, 22, 24, 25, 26, 29, 30, 31, 33, 34, 37, 38, 41, 42, 44, 46, 47, 49, 50]",
+        "level": "level_2",
+        "page_count": 52,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52]",
+        "source": "coventry-local-account-for-adult-social-care-2021-22.pdf",
+        "source_url": "",
+        "total_chunks": 132,
+        "type": "pdf"
+      },
+      "id": "3ae386c8-e2e4-421a-a4d6-1d2e63318047",
+      "distance": 0.7534970045089722,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.12395089864730835,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Contents Contents Page 1 / 8 You are here: Taking a break One-off events and breaks Short breaks (respite at home) Residential respite provision Hospice respite provision Direct payment for breaks/residential respite Having a break together Funding for respite When you care for someone on a long-term basis taking a break can be important for you own wellbeing. It can be particularly important if you are caring for someone by yourself or with limited support around. It might be that you need a break as a one-off or it may be that you need regular breaks throughout the year. This guide will help you navigate the options for taking a break. This guide explores support available through Adult Social Care but also other options that might be available in the community. If you wish to talk to someone about taking a break you can contact Carers Trust Heart of England or Adult Social Care Direct",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.coventry.gov.uk_carers-support_taking-break.txt",
+        "level": "level_2",
+        "source": "https://www.coventry.gov.uk/carers-support/taking-break",
+        "source_url": "https://www.coventry.gov.uk/carers-support/taking-break",
+        "total_chunks": 3,
+        "type": "web_page"
+      },
+      "id": "2ccb3b14-8a47-47bf-af62-7e6a3e7eacf1",
+      "distance": 0.7575404047966003,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.12273787856101989,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "as different people will require different levels of help. Replacement care can include \nflexible short breaks or respite care. \n\uf0a3Day opportunities, community activities and\n    employment support \n                    Day opportunities \nDay opportunities, sometimes known as Day Services, help people to live as \nindependently as possible in the community using buildings such as Day Centres \nand community-based support. Most of these services help people to get involved \nin community activities with the support of paid care workers. Day opportunities \ncan either be in groups or for individuals. If you are looking for activities to do in the \ndaytime, evenings and weekends, take a look at our Community Activities Directory: \ncid.coventry.gov.uk/kb5/coventry/directory/adult.page?adultchannel=3\n                    Employment Support for people with disabilities   \nThe Employment Support Service (TESS) is part of the Council\u2019s Employment Team.",
+      "metadata": {
+        "chunk_id": 8,
+        "contains_financial_info": true,
+        "download_url": "",
+        "extraction_method": "PyPDF2",
+        "filename": "adult_social_care_and_support_available_printable_leaflet.pdf",
+        "financial_pages": "[3, 4, 6]",
+        "level": "level_2",
+        "page_count": 8,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8]",
+        "source": "adult_social_care_and_support_available_printable_leaflet.pdf",
+        "source_url": "",
+        "total_chunks": 15,
+        "type": "pdf"
+      },
+      "id": "bea8ee76-054d-4ef4-82c6-35d0035f76ac",
+      "distance": 0.7596572041511536,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.12210283875465393,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    }
+  ],
+  "context": "[Document 1] From https://www (web_page) - URL: https://www.coventry.gov.uk/adult-social-care-commissioning-1/current-services-available-coventry [Retrieved via: semantic_original]:\n. Respite care Carers need to take a break from time to time because caring long-term for someone can have lasting effects on a person\u2019s health and wellbeing. Respite care can take many forms from a volunteer sitting with the person they care for while they attend an appointment through to planned or emergency overnight short-term residential respite to cover for example holidays. Respite care and short breaks can be arranged by the local authority or paid for using a direct payment. Carers and services for families Supporting carers is at the heart of everything we do in Coventry. We work in partnership with the Carers Trust Heart of England to deliver a one-stop shop for people with caring responsibilities. The Carers Wellbeing Service delivered by Carers Trust Heart of England offers support for carers of all ages, including young carers\n\n[Document 2] From carers direct payments (pdf) - 2 pages [Retrieved via: semantic_original]:\non-going support day and night. Alan is not originally from Coventry and moved here \nyears ago. Alan is provided with a direct payment to pay for Alan and Andy to visit family \nfor a short holiday. This gives Alan the chance to reconnect with family and also the \nopportunity to have a break whilst other family members spend time with Andy.  }Your needs \nDo your needs \narise from your \ncaring role?\n }The impact \nAs a consequence, \nthere is a significant \nimpact on your well \nbeing. }Your Wellbeing \nYour physical or mental health is or is at risk of deteriorating.  \nAs a result you\u2019re unable to meet any of the following outcomes: \n}  carrying out any caring responsibilities the carer has  \nfor a child \n} providing care to other persons\n} maintaining a habitable home environment\n} managing and maintaining nutrition\n}  developing and maintaining family or other personal \nrelationships\n} engaging in work, training, education, or volunteering\n}  making use of necessary facilities or services in the local\n\n[Document 3] From https://www (web_page) - URL: https://www.coventry.gov.uk/care-support/types-support/5 [Retrieved via: semantic_original]:\nContents Contents Page 5 / 6 Information and advice Support to live at home Support for your carer to take a break Supported housing options and residential care homes You are here: Day opportunities, community activities and employment support CQC registered Council services Day opportunities, community activities and employment support Day opportunities Day opportunities, often known as Day Services, help people to live as independently as possible in the community through the use of buildings such as Day Centres and community-based support. Most of these services help people to get involved in community activities with the support of paid care workers. This can either be in groups or as individuals. In Coventry, there is a range of day opportunities schemes run by both the Council and private companies. Some schemes can be accessed directly, but for some, people have to be eligible for social care\n\n[Document 4] From adult social care offer full version with translation details  (pdf) - 12 pages [Retrieved via: semantic_original]:\n[Page 5 - FINANCIAL/BUDGET INFORMATION]\n\uf0a3Part two  How we will deliver our offer\n1. What support is available? \nA variety of services are available to support people, based on their needs and \nwhat they want to achieve. \nA list of these services is below, visit the Council website - www.coventry.gov.uk/\ncare-support/types-support  for more information. \n\u2022  Information and advice through the Council and our partners.\n\u2022  Support for unpaid carers, for example, respite and emotional support through \nthe Carers\u2019 Trust.\n\u2022 Equipment and adaptations around the home \u2013 for more independent living.\n\u2022  Day opportunities, for example, day centres or personalised support in the day \nfor adults with disabilities and older people.\n\u2022  Direct payments where people receive funding directly to organise social care \nand support services.\n\u2022 Home support, for example, to support with personal care and meal preparation.\n\u2022  Reablement support, to enable people to regain skills that may have been lost\n\n[Document 5] From coventry local account for adult social care 2022 23 (pdf) - 52 pages [Retrieved via: semantic_original]:\n[Page 10 - FINANCIAL/BUDGET INFORMATION]\nAdult Social Care Offer \u2013 Coventry City Council\nOur commitments to people who need to access our servicesOur Health and Care Partnership Vision\nWe will do all we can to enable people across Coventry and Warwickshire to pursue \nhappy, healthy lives and put people at the heart of everything we do.\nHow will we do this?\nOur work in Adult Social Care, at every level, intends to provide support to the residents of Coventry, in the \nleast intrusive manner possible, based on the assets, resources and abilities that are available to them. \nFor full details of Coventry\u2019s Adult Social Care Offer or to request information in another \nlanguage or format please email getinvolvedasc@coventry.gov.ukTaking a \nstrength-based \napproachHelping people to \nstay at homeMaking the best \nuse of resources \nJoined up care \nand supportKeeping \npeople safeCarers are at the \nheart of all we doCommitted \nworkforceWe are committed to \nenabling people to live \nas independently as\n\n[Document 6] From adult social care and support available printable leaflet (pdf) - 8 pages [Retrieved via: semantic_original]:\nphysical or learning disabilities, older people and those with mental health needs to \nmake the right choices and decisions about their health and social care.\n                                           \n Carers\u2019 Support  \nSeveral organisations in Coventry provide support for carers. The Carers\u2019 Trust - Heart \nof England (formerly Coventry Carers\u2019 Centre and Crossroads Care - Coventry and \nWarwickshire) is the main hub in the city for carers\u2019 support. It can help with information \nand advice, support groups, short breaks (replacement care), emergency support and \ntraining. They also support young carers through the Children in Need funded project \nrun at the Centre. Some other organisations also provide carers\u2019 support in a range of \nways, sometimes indirectly through supporting the person with care and support needs \n(residential respite/day services/information services).\uf0a3What is Adult Social Care?\n\uf0a3Types of support available\n\n[Document 7] From adult social care and support available printable leaflet (pdf) - 8 pages [Retrieved via: semantic_original]:\nneed regular help or supervision. There are a range of homes across Coventry that \nthe Council either runs, or purchases services from. The Council also purchases \nseveral places outside the city for reasons such as specialist services being \nunavailable locally or customer choice. In Coventry, there is a range of different \ncare homes, each catering to people with varying needs and disabilities, for \nexample, dementia. Some care homes are registered to provide both residential \nand nursing care. \n                    Nursing Homes     \nA nursing home is like a residential home but with a nurse or nurses on-site to \nsupport people with health-specific issues. The NHS may be able to help with the \ncost of these placements with NHS Continuing Healthcare funding. If you, a family \nmember, or someone you care for is thinking about residential or nursing care, \ncontact Adult Social Care Direct. We will discuss whether you would benefit from\n\n[Document 8] From coventry local account for adult social care 2021 22 (pdf) - 52 pages [Retrieved via: semantic_original]:\n[Page 13 - FINANCIAL/BUDGET INFORMATION]\n13\n13\nAdult Social Care Offer \u2013 Coventry City Council\nOur commitments to people who need to access our servicesOur Health and Care Partnership Vision\nWe will do all we can to enable people across Coventry and Warwickshire to pursue \nhappy, healthy lives and put people at the heart of everything we do.\nHow will we do this?\nOur work in Adult Social Care, at every level, intends to provide support to the residents of Coventry, in the \nleast intrusive manner possible, based on the assets, resources and abilities that are available to them. \nFor full details of Coventry\u2019s Adult Social Care Offer or to request information in another \nlanguage or format please email getinvolvedasc@coventry.gov.ukTaking a \nstrength-based \napproachHelping people to \nstay at homeMaking the best \nuse of resources \nJoined up care \nand supportKeeping \npeople safeCarers are at the \nheart of all we doCommitted \nworkforceWe are committed to \nenabling people to live \nas independently as\n\n[Document 9] From https://www (web_page) - URL: https://www.coventry.gov.uk/carers-support/taking-break [Retrieved via: semantic_original]:\nContents Contents Page 1 / 8 You are here: Taking a break One-off events and breaks Short breaks (respite at home) Residential respite provision Hospice respite provision Direct payment for breaks/residential respite Having a break together Funding for respite When you care for someone on a long-term basis taking a break can be important for you own wellbeing. It can be particularly important if you are caring for someone by yourself or with limited support around. It might be that you need a break as a one-off or it may be that you need regular breaks throughout the year. This guide will help you navigate the options for taking a break. This guide explores support available through Adult Social Care but also other options that might be available in the community. If you wish to talk to someone about taking a break you can contact Carers Trust Heart of England or Adult Social Care Direct\n\n[Document 10] From adult social care and support available printable leaflet (pdf) - 8 pages [Retrieved via: semantic_original]:\nas different people will require different levels of help. Replacement care can include \nflexible short breaks or respite care. \n\uf0a3Day opportunities, community activities and\n    employment support \n                    Day opportunities \nDay opportunities, sometimes known as Day Services, help people to live as \nindependently as possible in the community using buildings such as Day Centres \nand community-based support. Most of these services help people to get involved \nin community activities with the support of paid care workers. Day opportunities \ncan either be in groups or for individuals. If you are looking for activities to do in the \ndaytime, evenings and weekends, take a look at our Community Activities Directory: \ncid.coventry.gov.uk/kb5/coventry/directory/adult.page?adultchannel=3\n                    Employment Support for people with disabilities   \nThe Employment Support Service (TESS) is part of the Council\u2019s Employment Team.\n",
+  "answer": "Error generating answer: Single '}' encountered in format string",
+  "metrics": {
+    "duration_seconds": 1.1678168773651123,
+    "retrieved_docs_count": 10,
+    "query_length": 147,
+    "answer_length": 64,
+    "retrieval_method": "enhanced",
+    "context_utilization": 0.0023752969121140144,
+    "citations_count": 0,
+    "has_citations": false,
+    "query_relevance": 0.09090909090909091,
+    "unique_retrieval_methods": 1,
+    "budget_documents_retrieved": 7,
+    "retrieval_methods_used": [
+      "semantic_original"
+    ],
+    "retrieval_method_distribution": {
+      "semantic_original": 10
+    }
+  },
+  "local_authority": "Coventry",
+  "query_id": "scn_13",
+  "retrieval_method": "enhanced",
+  "run_id": "ada52a4b-0e39-433d-8334-52b00b60b92e",
+  "trace": {
+    "run_id": "ada52a4b-0e39-433d-8334-52b00b60b92e",
+    "project": "social_care_rag",
+    "url": "https://eu.smith.langchain.com/o/me/runs/ada52a4b-0e39-433d-8334-52b00b60b92e"
+  },
+  "test_metadata": {
+    "local_authority": "Coventry",
+    "query_id": "scn_13",
+    "query_category": "carer_support_scenarios",
+    "prompt_variation": "optimized",
+    "prompt_template": "\nPlease answer the following question about social care services in UK local authorities based only on the information in the provided documents.\n\nQuestion: {query}\n\nContext from relevant documents:\n{context}\n\nInstructions:\n1. Provide a clear, direct answer that would help someone needing this information. If information isn't available, state: \"The available documents don't provide specific information about [aspect].\"\n\n2. Synthesize information from ALL relevant documents to provide the most complete answer rather than analyzing documents individually.\n\n3. Structure your response with:\n   - A concise 1-2 sentence summary first\n   - Relevant details organized in short, clear paragraphs\n   - Bullet points for lists or step-by-step information\n   - Bold text for key information the user should notice\n\n4. For financial information:\n   - Include exact figures, time periods, and what the funding covers\n   - Present financial data clearly: \"The adult social care budget is **\u00a3X million** for [time period]\"\n\n5. Always include practical next steps or resources:\n   - Provide contact information, URLs, or application methods mentioned in the documents\n   - Suggest where the person could find more information\n\n6. When citing sources, use a simple format: \"According to [document name/description]\" or include URLs where available.\n\nAnswer:\n",
+    "processing_time": 1.169966220855713,
+    "timestamp": "2025-08-17T22:40:41.009103",
+    "top_k": 10
+  }
+}

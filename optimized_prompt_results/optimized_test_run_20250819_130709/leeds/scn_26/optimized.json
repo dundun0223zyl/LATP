@@ -1,0 +1,275 @@
+{
+  "query": "My son with learning disabilities is displaying challenging behavior that I can no longer manage at home in leeds. What emergency support is available?",
+  "retrieved_documents": [
+    {
+      "content": ". They can provide support with housing or money issues, wellbeing and emotional support, mental health, loneliness, addiction issues and social activities. Phone: 0113 336 7612 Email: linking.leeds@nhs.net Website: www.linkingleeds.com (link is external) Active Leeds Health Referral Programme Anyone accessing mental health support or social prescribing services in Leeds is eligible for Health Coaching support from Active Leeds. This means you will be given the support of a Health and Wellbeing Coach to support you to move more. Follow this link to find out more: Getting Started (leeds.gov.uk) or contact: Health.Programmes@leeds.gov.uk Cancer Robert Ogden Centre The Sir Robert Ogden Macmillan Centre offers a variety of free supportive therapies and services for patients, their family members and carers. We have a team of staff and trained volunteers who can talk you through the services available. Click here to find out more (link is external)",
+      "metadata": {
+        "chunk_id": 11,
+        "filename": "active.leeds.gov.uk_active-leeds-health_health-conditions-support-services.txt",
+        "level": "level_3",
+        "source": "https://active.leeds.gov.uk/active-leeds-health/health-conditions-support-services",
+        "source_url": "https://active.leeds.gov.uk/active-leeds-health/health-conditions-support-services",
+        "total_chunks": 21,
+        "type": "web_page"
+      },
+      "id": "b5c5e538-32c0-4cc7-a97f-b78a45e35df6",
+      "distance": 0.8513774275779724,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.09458677172660829,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". This means people that are digitally excused can access online resources to help them keep active If you have any queries or would like to know more please don't hesitate to get in touch with us: Active Leeds Health Programmes Team Phone:0113 3783680 Email: health.programmes@leeds.gov.uk Postal Address: John Charles Centre for Sport, Middleton Grove, Leeds, LS11 5DJ Click here to complete the online referral form (link is external) Timetable Day Time Venue Tuesday 13:00 - 14:00/ 14:30 - 15:30 OPAL Tinshill, Bedford Dr LS16 6DJ Tuesday 10:00 - 12:00 Chapel FM, Seacroft, LS14 6JB Wednesday 10:00 - 12:00 Middleton, Gascoigne House Thursday 13:30 - 15:30 Holy Trinity Hall Meanwood LS6 4LF Thursday 13:30 - 15:30 Morley Leisure Centre LS27 9JP Thursday 13:00 - 15:00 Garforth NET LS25 2LP Friday 13:00 - 15:00 Armley Helping Hands, LS12 1SF Aqua Strength and Balance Additional to our land based programme we also run a 6 week hydrotherapy pool programme for individuals who would feel more confident in a warm pool",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "active.leeds.gov.uk_active-leeds-health_strength-and-balance-programme-%28falls-prevention%29.txt",
+        "level": "level_3",
+        "source": "https://active.leeds.gov.uk/active-leeds-health/strength-and-balance-programme-%28falls-prevention%29",
+        "source_url": "https://active.leeds.gov.uk/active-leeds-health/strength-and-balance-programme-%28falls-prevention%29",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "9c90d1f1-28c8-479a-ac04-ae0aaa261a90",
+      "distance": 0.8680485486984253,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.08958543539047242,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Whether you're concerned about yourself or a loved one, these mental health charities, organisations and support groups can offer expert advice. Samaritans If you need someone to talk to, they listen. They won't judge or tell you what to do. The are available 24/7 by phone, email, or letter. They can be contacted on 0113 116 123 or their web page; Samaritans Live Well Leeds Live Well Leeds delivers a range of services that include one to one support, group support, peer support, befriending and volunteering opportunities. All services will be based around a recovery, maintaining wellbeing and social inclusion. Live Well Leeds Leeds Mind Promotes positive mental health and wellbeing and provides help and support to those who need it. We offer many services, including counselling, group therapy, social support, peer support, social prescribing, employment support, suicide bereavement support, and mental health training",
+      "metadata": {
+        "chunk_id": 11,
+        "filename": "www.leeds.gov.uk_care-quality-team_support.txt",
+        "level": "level_3",
+        "source": "https://www.leeds.gov.uk/care-quality-team/support",
+        "source_url": "https://www.leeds.gov.uk/care-quality-team/support",
+        "total_chunks": 25,
+        "type": "web_page"
+      },
+      "id": "7a8b130a-de6b-411b-9a1f-3d2c366a0f0b",
+      "distance": 0.8843044638633728,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.08470866084098816,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". If the person needs urgent care but their situation is not life threatening, they can ring NHS 111 (open 24 hours every day). If the person has seriously injured themselves or has already tried to end their life (for example they tell you they have recently taken an overdose), encourage them to call 999 and ask for an ambulance, or do this on their behalf. If the person you are supporting has a plan to attempt suicide or they tell you they have attempted suicide in the past, and they can\u2019t or won\u2019t call NHS 111 by themselves, tell your supervisor/ volunteer co-ordinator or clinical lead. Signposting to support You can signpost to useful services that offer support: Connect Helpline offers emotional support to people in Leeds every night 6pm-2am, 0808 800 1212 (free phone) Dial House is a place of sanctuary for people (16+) in crisis offering emotional and practical support",
+      "metadata": {
+        "chunk_id": 12,
+        "filename": "www.leeds.gov.uk_phrc_current-awareness_suicide-prevention.txt",
+        "level": "level_3",
+        "source": "https://www.leeds.gov.uk/phrc/current-awareness/suicide-prevention",
+        "source_url": "https://www.leeds.gov.uk/phrc/current-awareness/suicide-prevention",
+        "total_chunks": 22,
+        "type": "web_page"
+      },
+      "id": "1e13b9dd-1328-43c9-96c9-2540ff324563",
+      "distance": 0.8971601128578186,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.08085196614265441,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". We signpost to relevant services and support available take part in hobbies and activities feel part of the local community and reduce feelings of social isolation and loneliness One-to-one support is also available but may be chargeable. We don\u2019t provide: support in the person's own home support with personal care intensive, long term one-to-one support How to get support To request a referral form and for more information, email dayopportunites@leeds.gov.uk . We aim to process referrals within 14 working days. You will be contacted by one of our assessors to arrange an initial meeting to discuss the service and assess your suitability. Contact us To find out more or ask any questions, please email\u00a0the team",
+      "metadata": {
+        "chunk_id": 4,
+        "filename": "www.leeds.gov.uk_adult-social-care_care-delivery-service_mental-health-support_mental-health-day-opp.txt",
+        "level": "level_2",
+        "source": "https://www.leeds.gov.uk/adult-social-care/care-delivery-service/mental-health-support/mental-health-day-opportunities",
+        "source_url": "https://www.leeds.gov.uk/adult-social-care/care-delivery-service/mental-health-support/mental-health-day-opportunities",
+        "total_chunks": 6,
+        "type": "web_page"
+      },
+      "id": "de7b9b5e-dd60-46a4-97e8-a08063cb283c",
+      "distance": 0.8989500999450684,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.0803149700164795,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Top HEALTH CONDITIONS SUPPORT SERVICES This page provides access to useful tools and resources and promoting local opportunities across the city for people with health conditions to find support. If you want to add information, please contact the team: health.programmes@leeds.gov.uk. To view, download or print helpful support resources from across our programmes please follow the link - Active Leeds for Health Resources - Google Drive (link is external) Active Leeds work in partnership with various local partners and organisations that support people to live with health conditions. These include educational programmes, peer support groups and activity classes delivered to help people manage their health condition. Active Leeds is supported by the Richmond Group which consists of 15 national charities that support people to manage their health condition",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "active.leeds.gov.uk_active-leeds-health_health-conditions-support-services.txt",
+        "level": "level_3",
+        "source": "https://active.leeds.gov.uk/active-leeds-health/health-conditions-support-services",
+        "source_url": "https://active.leeds.gov.uk/active-leeds-health/health-conditions-support-services",
+        "total_chunks": 21,
+        "type": "web_page"
+      },
+      "id": "b8d399ca-cb9c-48b1-9ca3-0e02d2ea0c9f",
+      "distance": 0.905792236328125,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.0782623291015625,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Thank you also for overseeing the work she did for him and for supporting her requests. Leeds City Council should be proud of its Social Services if they are all as good as your team. With my best wishes and sincere thanks, and also on behalf of my brothers and sisters\u201d . Learning Disability Transitions Team From a Consultant Paediatrician from LCH NHS Trust: \"It has been a real pleasure working with you",
+      "metadata": {
+        "chunk_id": 15,
+        "filename": "www.leeds.gov.uk_adult-social-care_adults-and-health-compliments-and-complaints_adult-social-care-co.txt",
+        "level": "level_2",
+        "source": "https://www.leeds.gov.uk/adult-social-care/adults-and-health-compliments-and-complaints/adult-social-care-compliments-and-complaints-annual-report",
+        "source_url": "https://www.leeds.gov.uk/adult-social-care/adults-and-health-compliments-and-complaints/adult-social-care-compliments-and-complaints-annual-report",
+        "total_chunks": 113,
+        "type": "web_page"
+      },
+      "id": "211e5862-18b7-47db-a665-b852c2af8f1a",
+      "distance": 0.879676103591919,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.07699716892242431,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". You can also find out more about becoming a Shared Lives carer. Help from other local organisations If you need immediate help, you can also find local organisations on Leeds Directory . Help to pay for a short break You can get a one off payment of up to \u00a3250 to help towards the cost of taking a break or holiday from looking after someone. This is know as the Time for Carers scheme. The scheme is funded by us and administered by Carers Leeds . To apply for the scheme, call 0113\u00a0246\u00a08338. Installing help alarms in the home To help give you peace of mind when you're away from the person you care for, an alarm system can be fitted into their home to detect any problems. Find out more about help alarms and safety in the home . Help with money If you need urgent help with money you should call our local welfare support team on 0113 868 9808. If your caring duties are affecting your finances, you may be able to increase your income or reduce your outgoings",
+      "metadata": {
+        "chunk_id": 8,
+        "filename": "www.leeds.gov.uk_adult-social-care_looking-after-someone_looking-after-a-family-member-or-friend.txt",
+        "level": "level_2",
+        "source": "https://www.leeds.gov.uk/adult-social-care/looking-after-someone/looking-after-a-family-member-or-friend",
+        "source_url": "https://www.leeds.gov.uk/adult-social-care/looking-after-someone/looking-after-a-family-member-or-friend",
+        "total_chunks": 14,
+        "type": "web_page"
+      },
+      "id": "55a70ded-7ca5-44ae-b698-db7cd308a30d",
+      "distance": 0.9168564081192017,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.0749430775642395,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Phone 0113 378 0644 Email edt.ss@leeds.gov.uk Opening hours Monday: 5pm to 8am Tuesday: 5pm to 8am Wednesday: 5pm to 8am Thursday: 5pm to 8am Friday: 4:30pm onwards Saturday: all day, 24 hours Sunday: all day until 8am Monday Bank holidays From 5pm the day before to 8am the day after the bank holiday. Related pages Mental health services Worried about someone Report a child protection concern Get care and support from the council Support for carers Give feedback and let us know if this page was helpful",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.leeds.gov.uk_adult-social-care_worried-about-someone_emergency-adult-social-care-contact.txt",
+        "level": "level_2",
+        "source": "https://www.leeds.gov.uk/adult-social-care/worried-about-someone/emergency-adult-social-care-contact",
+        "source_url": "https://www.leeds.gov.uk/adult-social-care/worried-about-someone/emergency-adult-social-care-contact",
+        "total_chunks": 3,
+        "type": "web_page"
+      },
+      "id": "edcc1e96-020c-4cf8-b855-a19ba4c2bdf5",
+      "distance": 0.9212833046913147,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.07361500859260559,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". We offer many services, including counselling, group therapy, social support, peer support, social prescribing, employment support, suicide bereavement support, and mental health training. Leeds Mind Leeds Public Health advice and guidance The Leeds Public Health team have a page that provides the latest advice and guidance and signposts you to relevant local services and resources, to help you undertake your role as effectively as possible. Find more on current awareness . Grief and Loss Support Service The West Yorkshire and Harrogate Health and Care Partnership Grief and Loss Support Service is for anyone suffering any form of grief and loss, or those worried about losing someone, whether this relates to a family member, friend, or member of their community. Freephone: 0808 1963833 (available from 8am to 8pm, 7 days a week) Grief and Loss Support Service Forward Leeds Forward Leeds is the alcohol and drug service in Leeds for adults, young people, and families",
+      "metadata": {
+        "chunk_id": 12,
+        "filename": "www.leeds.gov.uk_care-quality-team_support.txt",
+        "level": "level_3",
+        "source": "https://www.leeds.gov.uk/care-quality-team/support",
+        "source_url": "https://www.leeds.gov.uk/care-quality-team/support",
+        "total_chunks": 25,
+        "type": "web_page"
+      },
+      "id": "e1c7a7ec-5370-4ecd-ac21-a1ca549fbae6",
+      "distance": 0.9229902625083923,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.0731029212474823,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    }
+  ],
+  "context": "[Document 1] From https://active (web_page) - URL: https://active.leeds.gov.uk/active-leeds-health/health-conditions-support-services [Retrieved via: semantic_original]:\n. They can provide support with housing or money issues, wellbeing and emotional support, mental health, loneliness, addiction issues and social activities. Phone: 0113 336 7612 Email: linking.leeds@nhs.net Website: www.linkingleeds.com (link is external) Active Leeds Health Referral Programme Anyone accessing mental health support or social prescribing services in Leeds is eligible for Health Coaching support from Active Leeds. This means you will be given the support of a Health and Wellbeing Coach to support you to move more. Follow this link to find out more: Getting Started (leeds.gov.uk) or contact: Health.Programmes@leeds.gov.uk Cancer Robert Ogden Centre The Sir Robert Ogden Macmillan Centre offers a variety of free supportive therapies and services for patients, their family members and carers. We have a team of staff and trained volunteers who can talk you through the services available. Click here to find out more (link is external)\n\n[Document 2] From https://active (web_page) - URL: https://active.leeds.gov.uk/active-leeds-health/strength-and-balance-programme-%28falls-prevention%29 [Retrieved via: semantic_original]:\n. This means people that are digitally excused can access online resources to help them keep active If you have any queries or would like to know more please don't hesitate to get in touch with us: Active Leeds Health Programmes Team Phone:0113 3783680 Email: health.programmes@leeds.gov.uk Postal Address: John Charles Centre for Sport, Middleton Grove, Leeds, LS11 5DJ Click here to complete the online referral form (link is external) Timetable Day Time Venue Tuesday 13:00 - 14:00/ 14:30 - 15:30 OPAL Tinshill, Bedford Dr LS16 6DJ Tuesday 10:00 - 12:00 Chapel FM, Seacroft, LS14 6JB Wednesday 10:00 - 12:00 Middleton, Gascoigne House Thursday 13:30 - 15:30 Holy Trinity Hall Meanwood LS6 4LF Thursday 13:30 - 15:30 Morley Leisure Centre LS27 9JP Thursday 13:00 - 15:00 Garforth NET LS25 2LP Friday 13:00 - 15:00 Armley Helping Hands, LS12 1SF Aqua Strength and Balance Additional to our land based programme we also run a 6 week hydrotherapy pool programme for individuals who would feel more confident in a warm pool\n\n[Document 3] From https://www (web_page) - URL: https://www.leeds.gov.uk/care-quality-team/support [Retrieved via: semantic_original]:\n. Whether you're concerned about yourself or a loved one, these mental health charities, organisations and support groups can offer expert advice. Samaritans If you need someone to talk to, they listen. They won't judge or tell you what to do. The are available 24/7 by phone, email, or letter. They can be contacted on 0113 116 123 or their web page; Samaritans Live Well Leeds Live Well Leeds delivers a range of services that include one to one support, group support, peer support, befriending and volunteering opportunities. All services will be based around a recovery, maintaining wellbeing and social inclusion. Live Well Leeds Leeds Mind Promotes positive mental health and wellbeing and provides help and support to those who need it. We offer many services, including counselling, group therapy, social support, peer support, social prescribing, employment support, suicide bereavement support, and mental health training\n\n[Document 4] From https://www (web_page) - URL: https://www.leeds.gov.uk/phrc/current-awareness/suicide-prevention [Retrieved via: semantic_original]:\n. If the person needs urgent care but their situation is not life threatening, they can ring NHS 111 (open 24 hours every day). If the person has seriously injured themselves or has already tried to end their life (for example they tell you they have recently taken an overdose), encourage them to call 999 and ask for an ambulance, or do this on their behalf. If the person you are supporting has a plan to attempt suicide or they tell you they have attempted suicide in the past, and they can\u2019t or won\u2019t call NHS 111 by themselves, tell your supervisor/ volunteer co-ordinator or clinical lead. Signposting to support You can signpost to useful services that offer support: Connect Helpline offers emotional support to people in Leeds every night 6pm-2am, 0808 800 1212 (free phone) Dial House is a place of sanctuary for people (16+) in crisis offering emotional and practical support\n\n[Document 5] From https://www (web_page) - URL: https://www.leeds.gov.uk/adult-social-care/care-delivery-service/mental-health-support/mental-health-day-opportunities [Retrieved via: semantic_original]:\n. We signpost to relevant services and support available take part in hobbies and activities feel part of the local community and reduce feelings of social isolation and loneliness One-to-one support is also available but may be chargeable. We don\u2019t provide: support in the person's own home support with personal care intensive, long term one-to-one support How to get support To request a referral form and for more information, email dayopportunites@leeds.gov.uk . We aim to process referrals within 14 working days. You will be contacted by one of our assessors to arrange an initial meeting to discuss the service and assess your suitability. Contact us To find out more or ask any questions, please email\u00a0the team\n\n[Document 6] From https://active (web_page) - URL: https://active.leeds.gov.uk/active-leeds-health/health-conditions-support-services [Retrieved via: semantic_original]:\nTop HEALTH CONDITIONS SUPPORT SERVICES This page provides access to useful tools and resources and promoting local opportunities across the city for people with health conditions to find support. If you want to add information, please contact the team: health.programmes@leeds.gov.uk. To view, download or print helpful support resources from across our programmes please follow the link - Active Leeds for Health Resources - Google Drive (link is external) Active Leeds work in partnership with various local partners and organisations that support people to live with health conditions. These include educational programmes, peer support groups and activity classes delivered to help people manage their health condition. Active Leeds is supported by the Richmond Group which consists of 15 national charities that support people to manage their health condition\n\n[Document 7] From https://www (web_page) - URL: https://www.leeds.gov.uk/adult-social-care/adults-and-health-compliments-and-complaints/adult-social-care-compliments-and-complaints-annual-report [Retrieved via: semantic_original]:\n. Thank you also for overseeing the work she did for him and for supporting her requests. Leeds City Council should be proud of its Social Services if they are all as good as your team. With my best wishes and sincere thanks, and also on behalf of my brothers and sisters\u201d . Learning Disability Transitions Team From a Consultant Paediatrician from LCH NHS Trust: \"It has been a real pleasure working with you\n\n[Document 8] From https://www (web_page) - URL: https://www.leeds.gov.uk/adult-social-care/looking-after-someone/looking-after-a-family-member-or-friend [Retrieved via: semantic_original]:\n. You can also find out more about becoming a Shared Lives carer. Help from other local organisations If you need immediate help, you can also find local organisations on Leeds Directory . Help to pay for a short break You can get a one off payment of up to \u00a3250 to help towards the cost of taking a break or holiday from looking after someone. This is know as the Time for Carers scheme. The scheme is funded by us and administered by Carers Leeds . To apply for the scheme, call 0113\u00a0246\u00a08338. Installing help alarms in the home To help give you peace of mind when you're away from the person you care for, an alarm system can be fitted into their home to detect any problems. Find out more about help alarms and safety in the home . Help with money If you need urgent help with money you should call our local welfare support team on 0113 868 9808. If your caring duties are affecting your finances, you may be able to increase your income or reduce your outgoings\n\n[Document 9] From https://www (web_page) - URL: https://www.leeds.gov.uk/adult-social-care/worried-about-someone/emergency-adult-social-care-contact [Retrieved via: semantic_original]:\n. Phone 0113 378 0644 Email edt.ss@leeds.gov.uk Opening hours Monday: 5pm to 8am Tuesday: 5pm to 8am Wednesday: 5pm to 8am Thursday: 5pm to 8am Friday: 4:30pm onwards Saturday: all day, 24 hours Sunday: all day until 8am Monday Bank holidays From 5pm the day before to 8am the day after the bank holiday. Related pages Mental health services Worried about someone Report a child protection concern Get care and support from the council Support for carers Give feedback and let us know if this page was helpful\n\n[Document 10] From https://www (web_page) - URL: https://www.leeds.gov.uk/care-quality-team/support [Retrieved via: semantic_original]:\n. We offer many services, including counselling, group therapy, social support, peer support, social prescribing, employment support, suicide bereavement support, and mental health training. Leeds Mind Leeds Public Health advice and guidance The Leeds Public Health team have a page that provides the latest advice and guidance and signposts you to relevant local services and resources, to help you undertake your role as effectively as possible. Find more on current awareness . Grief and Loss Support Service The West Yorkshire and Harrogate Health and Care Partnership Grief and Loss Support Service is for anyone suffering any form of grief and loss, or those worried about losing someone, whether this relates to a family member, friend, or member of their community. Freephone: 0808 1963833 (available from 8am to 8pm, 7 days a week) Grief and Loss Support Service Forward Leeds Forward Leeds is the alcohol and drug service in Leeds for adults, young people, and families\n",
+  "answer": "If your son with learning disabilities is displaying challenging behavior that you can no longer manage at home in Leeds, you can access emergency support through the Leeds City Council's emergency adult social care contact.\n\n**Emergency Contact Information:**\n- **Phone:** 0113 378 0644\n- **Email:** edt.ss@leeds.gov.uk\n- **Opening Hours:** Monday to Thursday from 5pm to 8am, Friday from 4:30pm onwards, and 24 hours on weekends and bank holidays.\n\n**Additional Support Options:**\n- **Live Well Leeds** offers one-to-one support, group support, and peer support focused on recovery and maintaining wellbeing. More information can be found on their website.\n- **Dial House** provides a sanctuary for people in crisis, offering emotional and practical support. They are available for individuals aged 16 and over.\n- **Connect Helpline** offers emotional support every night from 6pm to 2am at 0808 800 1212.\n\nFor more detailed guidance or to explore further support options, you might consider contacting local organizations listed in the Leeds Directory or reaching out to the Leeds Mind for mental health support services.",
+  "metrics": {
+    "duration_seconds": 8.917243719100952,
+    "retrieved_docs_count": 10,
+    "query_length": 151,
+    "answer_length": 1124,
+    "retrieval_method": "enhanced",
+    "context_utilization": 0.1669793621013133,
+    "citations_count": 0,
+    "has_citations": false,
+    "query_relevance": 0.9,
+    "unique_retrieval_methods": 1,
+    "budget_documents_retrieved": 0,
+    "retrieval_methods_used": [
+      "semantic_original"
+    ],
+    "retrieval_method_distribution": {
+      "semantic_original": 10
+    }
+  },
+  "local_authority": "leeds",
+  "query_id": "scn_26",
+  "retrieval_method": "enhanced",
+  "run_id": "ef0f8bcc-3a0d-441b-822b-0136ef8f9c07",
+  "trace": {
+    "run_id": "ef0f8bcc-3a0d-441b-822b-0136ef8f9c07",
+    "project": "social_care_rag",
+    "url": "https://eu.smith.langchain.com/o/me/runs/ef0f8bcc-3a0d-441b-822b-0136ef8f9c07"
+  },
+  "test_metadata": {
+    "local_authority": "leeds",
+    "query_id": "scn_26",
+    "query_category": "emergency_scenarios",
+    "prompt_variation": "optimized",
+    "prompt_template": "\nPlease answer the following question about social care services in UK local authorities based only on the information in the provided documents.\n\nQuestion: {query}\n\nContext from relevant documents:\n{context}\n\nInstructions:\n1. Provide a clear, direct answer that would help someone needing this information. If information isn't available, state: \"The available documents don't provide specific information about [aspect].\"\n\n2. Synthesize information from ALL relevant documents to provide the most complete answer rather than analyzing documents individually.\n\n3. Structure your response with:\n   - A concise 1-2 sentence summary first\n   - Relevant details organized in short, clear paragraphs\n   - Bullet points for lists or step-by-step information\n   - Bold text for key information the user should notice\n\n4. For financial information:\n   - Include exact figures, time periods, and what the funding covers\n   - Present financial data clearly: \"The adult social care budget is **\u00a3X million** for [time period]\"\n\n5. Always include practical next steps or resources:\n   - Provide contact information, URLs, or application methods mentioned in the documents\n   - Suggest where the person could find more information\n\n6. When citing sources, use a simple format: \"According to [document name/description]\" or include URLs where available.\n\nAnswer:\n",
+    "processing_time": 8.920664072036743,
+    "timestamp": "2025-08-19T13:51:42.581069",
+    "top_k": 10
+  }
+}

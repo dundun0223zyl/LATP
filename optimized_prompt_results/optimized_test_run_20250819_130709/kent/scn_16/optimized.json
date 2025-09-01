@@ -1,0 +1,311 @@
+{
+  "query": "My care needs assessment in kent says I need 20 hours of home care weekly, but I'm worried about costs. What financial help is available?",
+  "retrieved_documents": [
+    {
+      "content": ". This means that if you need these services, we will look at your finances to see how much you can pay, if anything, towards the cost. These services include: care workers, to provide assistance with tasks at home and away from the home like washing and dressing most day care services support in the community Kent Shared Lives \u2013 provides eligible individuals the opportunity to stay in the homes of recruited, trained and approved hosts and their families who live in the community. This can be for a long or short term basis or day support depending on assessed need meal services care and support in extra-care housing settings. Some day care services are funded through grants, and are free of charge. You can find more information about costs in our charges and rates for adult social care booklet (PDF, 202.9 KB) . Our guide to charging for support in the home and community will help you understand in more detail how we work out what you can pay",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.kent.gov.uk_social-care-and-health_adult-social-care_paying-for-care_charges-for-care-and-suppor.txt",
+        "level": "level_2",
+        "source": "https://www.kent.gov.uk/social-care-and-health/adult-social-care/paying-for-care/charges-for-care-and-support",
+        "source_url": "https://www.kent.gov.uk/social-care-and-health/adult-social-care/paying-for-care/charges-for-care-and-support",
+        "total_chunks": 5,
+        "type": "web_page"
+      },
+      "id": "99b5888c-65e5-4114-9942-a7cad94e0735",
+      "distance": 0.46832767128944397,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.2095016986131668,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Fees vary across the county based on the complexity of the support required and where the \nperson lives , so higher fees are generally seen for those who require \u2018enhanced\u2019 support or if they \nlive in a more rural area of the county . Given the size of Kent  there is an increased  cost of \ndelivering care to people living in more remote locations. There has been a statisticall y significant \nincrease in the average weekly costs for all people who access c are and s upport in the home in \nthe last six months up to February 2023.  This is not due to an increase in care package hours.  \nFee negotiations with providers not on the council \u2019s framework have taken place over the past \nyear. These fee negotiations have generally been based on an urgent need to secure care for a \nperson when the original package of support and care has failed. \nThe care and support in the home market has the most si gnificant workforce challenges in adult",
+      "metadata": {
+        "chunk_id": 20,
+        "contains_financial_info": true,
+        "download_url": "https://www.kent.gov.uk/__data/assets/pdf_file/0003/148836/Market-Sustainability-Plan.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Market-Sustainability-Plan.pdf",
+        "financial_pages": "[2, 3, 4, 5, 6, 7, 8, 9, 10]",
+        "level": "level_1",
+        "page_count": 11,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]",
+        "source": "https://www.kent.gov.uk/social-care-and-health/adult-social-care/social-care-reform",
+        "source_url": "https://www.kent.gov.uk/social-care-and-health/adult-social-care/social-care-reform",
+        "total_chunks": 44,
+        "type": "pdf"
+      },
+      "id": "ef15d58e-89e0-4fa7-ac3f-73fe76f76ea1",
+      "distance": 0.5413491535509742,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.18759525393470772,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". You may be able to get help towards housing related charges and council tax . Care and support costs will vary depending on your needs. How much you pay for your care depends on your needs and your financial circumstances. We will do a financial assessment to work out exactly how much you can afford to pay. Wellbeing charge Care staff are on site 24 hours a day, which means in an emergency there is someone on site to provide you with the care and support you need and is separate to your day to day care package. A small contribution is required for this service and is called a wellbeing charge. In most cases this is charged by us, Kent County Council, but in some extra care schemes the housing provider charges directly. If we are charging you, we will work out how much you can afford to pay towards the wellbeing charge when we do your financial assessment. The most that you would have to pay towards the wellbeing charge is currently \u00a320.47 per week",
+      "metadata": {
+        "chunk_id": 6,
+        "filename": "www.kent.gov.uk_social-care-and-health_adult-social-care_housing-and-care-homes_extra-care-housing.txt",
+        "level": "level_2",
+        "source": "https://www.kent.gov.uk/social-care-and-health/adult-social-care/housing-and-care-homes/extra-care-housing",
+        "source_url": "https://www.kent.gov.uk/social-care-and-health/adult-social-care/housing-and-care-homes/extra-care-housing",
+        "total_chunks": 8,
+        "type": "web_page"
+      },
+      "id": "04763b69-a561-4c49-9351-428321d2604f",
+      "distance": 0.548558235168457,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.18543252944946287,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 4 - FINANCIAL/BUDGET INFORMATION]\n Client Contributions for Residential Care\nPeople placed in residential care by the County Council are required to \ncontribute to the cost of their care and support in line with the Care and \nSupport (Charging and Assessment of Resources) Regulations 2014 and \nas defined in the Care Act (2014). The amount of the contribution is based \nupon an assessment of their income and capital.\nFor further details on how Kent County Council work out how much a \nperson should contribute to their residential/ nursing home care, see the \ncharging policy (search for: \u201cpaying for residential care\u201d on www.kent.gov.\nuk).\nThe majority of people placed in residential care by the County Council will \nbe in independent sector care homes. The maximum charge (for people \npaying the full cost) will be the contract price agreed between the Council \nand the care home.\nFor those people in County Council residential homes, the weekly",
+      "metadata": {
+        "chunk_id": 2,
+        "contains_financial_info": true,
+        "download_url": "https://www.kent.gov.uk/__data/assets/pdf_file/0012/14313/Charges-and-rates-payable-for-Adult-Social-Care.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Charges-and-rates-payable-for-Adult-Social-Care.pdf",
+        "financial_pages": "[3, 4, 5, 6, 7, 8, 9, 10]",
+        "level": "level_2",
+        "page_count": 11,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]",
+        "source": "https://www.kent.gov.uk/social-care-and-health/adult-social-care/paying-for-care/charges-for-care-and-support",
+        "source_url": "https://www.kent.gov.uk/social-care-and-health/adult-social-care/paying-for-care/charges-for-care-and-support",
+        "total_chunks": 14,
+        "type": "pdf"
+      },
+      "id": "7bc5cbad-283c-4ab9-9efb-8fa1033eab4c",
+      "distance": 0.5574278831481934,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.182771635055542,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "(see \u2018Help for carers\u2019 section below)\n3) Connect with your community  \u2013 You can find links to community   \n organisations on our Kent Connect to Support website and directory:   \n kent.connecttosupport.org\n4) Tell your employer  about your caring responsibilities so that you can   \n look at options available to help\n5) Check what benefits you may be entitled to\n6) Make sure the person you look after is accessing any funding they   \n are eligible for\n7) Check that the person you care for has had a care needs assessment\n8) See if the person you care for could benefit from adaptations in their   \n home or any other useful technology  to keep them well and supported \n9) Ask for support  and prioritise your own health  \n and mental wellbeing\nMore information on all of the above is available  \non our website.",
+      "metadata": {
+        "chunk_id": 4,
+        "contains_financial_info": true,
+        "download_url": "https://www.kent.gov.uk/__data/assets/pdf_file/0010/213976/Someones-Listening-leaflet-for-carers.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Someones-Listening-leaflet-for-carers.pdf",
+        "financial_pages": "[1, 3]",
+        "level": "level_2",
+        "page_count": 4,
+        "pages_with_content": "[1, 2, 3, 4]",
+        "source": "https://www.kent.gov.uk/social-care-and-health/adult-social-care/care-and-support/caring-for-other-people/supporting-working-carers",
+        "source_url": "https://www.kent.gov.uk/social-care-and-health/adult-social-care/care-and-support/caring-for-other-people/supporting-working-carers",
+        "total_chunks": 7,
+        "type": "pdf"
+      },
+      "id": "a2bae97b-c0cd-4259-9dcc-d4625f3a20b4",
+      "distance": 0.5962482690811157,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.17112551927566527,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". A minimum of 3 care homes will be shortlisted. The list will be shared with the person requiring care and their representatives so they can choose their preferred care home. Once a home has been chosen the ASPT will liaise with the person, their representatives and the care home to confirm price and availability of a room and to agree an admission date. If you choose a care home which has a final weekly price above our guide price, shown in the table below, then a family member may be required to contribute to the weekly cost of the placement, through a third party top up which is payable to us. Your case manager can provide more information. Contact us Call your case manager for more information or email social.services@kent.gov.uk . Need category Guide price (as of 7 April 2025) Residential \u00a3500.68 Residential High \u00a3610.51 Nursing \u00a3686.50 Nursing High \u00a3721.24",
+      "metadata": {
+        "chunk_id": 3,
+        "filename": "www.kent.gov.uk_social-care-and-health_adult-social-care_housing-and-care-homes_long-term-residentia.txt",
+        "level": "level_2",
+        "source": "https://www.kent.gov.uk/social-care-and-health/adult-social-care/housing-and-care-homes/long-term-residential-placements-for-older-people",
+        "source_url": "https://www.kent.gov.uk/social-care-and-health/adult-social-care/housing-and-care-homes/long-term-residential-placements-for-older-people",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "d3e044ea-9543-43f5-b516-f3feaba1eaed",
+      "distance": 0.6097567677497864,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.16707296967506408,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Kent Shared Lives Shared Lives carers get paid to open their homes and their lives to adults with assessed care and support needs. This could include people with learning and physical disabilities, mental health issues, autism spectrum disorder (ASD), attention deficit hyperactivity disorder (ADHD), sensory impairment, older people or those living with dementia. There are 3 types of service a carer can offer. We are currently recruiting for long term and short breaks carers. Long term - where an adult would move in and your home would become their home. Short breaks - where an adult would stay for a night or 2, a weekend or a few weeks with the carer based on what is needed. Day support - one session lasting up to 5 hours based at the carer's home or out and about in the community",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "jobs.kent.gov.uk_other-opportunities_kent-shared-lives.txt",
+        "level": "level_3",
+        "source": "https://jobs.kent.gov.uk/other-opportunities/kent-shared-lives",
+        "source_url": "https://jobs.kent.gov.uk/other-opportunities/kent-shared-lives",
+        "total_chunks": 3,
+        "type": "web_page"
+      },
+      "id": "aca94a00-d2f2-4ea0-9286-7ad546e34173",
+      "distance": 0.6117027401924133,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.166489177942276,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "In add\nition, the Deferred Payments Scheme may be offered \nat the discretion of Kent County Council to other residents who do not meet all the above criteria.  \nConsideration  could  be given  to factors  such  as: \n-You have few accessible assets to pay for your care homecharges\n-There is already an outstanding loan/ mortgage or chargesecured on your property. Written agreement from theorganisation confirming Kent County Council can registera mortgage/legal charge on the property will be required.\n-You are only  slightly  over  the \u00a323,250 threshold.\n \n \nFor example:  \n-If your  residential  home  costs  \u00a3400 per week, and this\nis agreed by Kent County Council, we will pay \u00a3400\ndirectly to the care home every week.\n-If, following a Financial Assessment your available\nincome  is calculated  to be \u00a3100 per week; you will pay\n\u00a3100 to Kent County  Council  every week.\nIn this case,  the deferred amount  will be \u00a3300 per week",
+      "metadata": {
+        "chunk_id": 4,
+        "contains_financial_info": true,
+        "download_url": "https://www.kent.gov.uk/__data/assets/pdf_file/0011/30116/Deferred-payment-factsheet.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Deferred-payment-factsheet.pdf",
+        "financial_pages": "[1, 2, 3, 6, 7, 9, 10, 11, 12, 13, 15]",
+        "level": "level_2",
+        "page_count": 15,
+        "pages_with_content": "[1, 2, 3, 5, 6, 7, 8, 9, 10, 11, 12, 13, 15]",
+        "source": "https://www.kent.gov.uk/social-care-and-health/adult-social-care/paying-for-care/deferred-payments-for-care-and-support",
+        "source_url": "https://www.kent.gov.uk/social-care-and-health/adult-social-care/paying-for-care/deferred-payments-for-care-and-support",
+        "total_chunks": 44,
+        "type": "pdf"
+      },
+      "id": "578b3bdd-e7f8-4afb-9725-61a3fde208f0",
+      "distance": 0.6132060885429382,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.16603817343711852,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 12]\n   \n \nYour guide to Kent adult social care 202 4  12 \n what to consider when choosing a home and a needs assessment. The \nneeds assessment will also guide you on how much care or the type of \nhome that may suit your needs best.  \n \nChoosing a residential care home  \n \nIt\u2019s important to find a care home that\u2019s right for you or right for the \nperson who\u2019s going to live there. If you or the person you\u2019re caring for \nare over 50, you might like to talk to a care navigator about your housing \noptions before making a final decis ion. They can help guide you through \nthe process.  \nWe suggest that wherever possible you research and visit the care \nhomes you\u2019re considering before making a final choice, and you can \ntake along Age UK\u2019s checklist of important things to ask the staff. You \ncan often ask for a trial stay to see what you thin k. Care Homes often \nhave their own websites and brochures where you can access \ninformation.  \nIf you require it, KCC will provide information on suitable homes to help",
+      "metadata": {
+        "chunk_id": 26,
+        "contains_financial_info": true,
+        "download_url": "https://www.kent.gov.uk/__data/assets/pdf_file/0003/17616/Your-guide-to-adult-social-care-in-Kent.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Your-guide-to-adult-social-care-in-Kent.pdf",
+        "financial_pages": "[5, 6, 8, 10, 13, 15, 17, 23, 24, 25, 29, 30, 31, 32, 33, 37]",
+        "level": "level_2",
+        "page_count": 39,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39]",
+        "source": "https://www.kent.gov.uk/social-care-and-health/adult-social-care",
+        "source_url": "https://www.kent.gov.uk/social-care-and-health/adult-social-care",
+        "total_chunks": 72,
+        "type": "pdf"
+      },
+      "id": "1e59ef3e-492d-4c63-8d32-1b96f084b60c",
+      "distance": 0.6201580762863159,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1639525771141052,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 12]\n   \n \nYour guide to Kent adult social care 202 4  12 \n what to consider when choosing a home and a needs assessment. The \nneeds assessment will also guide you on how much care or the type of \nhome that may suit your needs best.  \n \nChoosing a residential care home  \n \nIt\u2019s important to find a care home that\u2019s right for you or right for the \nperson who\u2019s going to live there. If you or the person you\u2019re caring for \nare over 50, you might like to talk to a care navigator about your housing \noptions before making a final decis ion. They can help guide you through \nthe process.  \nWe suggest that wherever possible you research and visit the care \nhomes you\u2019re considering before making a final choice, and you can \ntake along Age UK\u2019s checklist of important things to ask the staff. You \ncan often ask for a trial stay to see what you thin k. Care Homes often \nhave their own websites and brochures where you can access \ninformation.  \nIf you require it, KCC will provide information on suitable homes to help",
+      "metadata": {
+        "chunk_id": 26,
+        "contains_financial_info": true,
+        "download_url": "https://www.kent.gov.uk/__data/assets/pdf_file/0003/17616/Your-guide-to-adult-social-care-in-Kent.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Your-guide-to-adult-social-care-in-Kent.pdf",
+        "financial_pages": "[5, 6, 8, 10, 13, 15, 17, 23, 24, 25, 29, 30, 31, 32, 33, 37]",
+        "level": "level_0",
+        "page_count": 39,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39]",
+        "source": "https://www.kent.gov.uk/social-care-and-health/adult-social-care",
+        "source_url": "https://www.kent.gov.uk/social-care-and-health/adult-social-care",
+        "total_chunks": 72,
+        "type": "pdf"
+      },
+      "id": "270d8ac1-54f3-4ac0-a36b-78958b80aa71",
+      "distance": 0.6201580762863159,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1639525771141052,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    }
+  ],
+  "context": "[Document 1] From https://www (web_page) - URL: https://www.kent.gov.uk/social-care-and-health/adult-social-care/paying-for-care/charges-for-care-and-support [Retrieved via: semantic_original]:\n. This means that if you need these services, we will look at your finances to see how much you can pay, if anything, towards the cost. These services include: care workers, to provide assistance with tasks at home and away from the home like washing and dressing most day care services support in the community Kent Shared Lives \u2013 provides eligible individuals the opportunity to stay in the homes of recruited, trained and approved hosts and their families who live in the community. This can be for a long or short term basis or day support depending on assessed need meal services care and support in extra-care housing settings. Some day care services are funded through grants, and are free of charge. You can find more information about costs in our charges and rates for adult social care booklet (PDF, 202.9 KB) . Our guide to charging for support in the home and community will help you understand in more detail how we work out what you can pay\n\n[Document 2] From https://www (pdf) - URL: https://www.kent.gov.uk/social-care-and-health/adult-social-care/social-care-reform - 11 pages [Retrieved via: semantic_original]:\nFees vary across the county based on the complexity of the support required and where the \nperson lives , so higher fees are generally seen for those who require \u2018enhanced\u2019 support or if they \nlive in a more rural area of the county . Given the size of Kent  there is an increased  cost of \ndelivering care to people living in more remote locations. There has been a statisticall y significant \nincrease in the average weekly costs for all people who access c are and s upport in the home in \nthe last six months up to February 2023.  This is not due to an increase in care package hours.  \nFee negotiations with providers not on the council \u2019s framework have taken place over the past \nyear. These fee negotiations have generally been based on an urgent need to secure care for a \nperson when the original package of support and care has failed. \nThe care and support in the home market has the most si gnificant workforce challenges in adult\n\n[Document 3] From https://www (web_page) - URL: https://www.kent.gov.uk/social-care-and-health/adult-social-care/housing-and-care-homes/extra-care-housing [Retrieved via: semantic_original]:\n. You may be able to get help towards housing related charges and council tax . Care and support costs will vary depending on your needs. How much you pay for your care depends on your needs and your financial circumstances. We will do a financial assessment to work out exactly how much you can afford to pay. Wellbeing charge Care staff are on site 24 hours a day, which means in an emergency there is someone on site to provide you with the care and support you need and is separate to your day to day care package. A small contribution is required for this service and is called a wellbeing charge. In most cases this is charged by us, Kent County Council, but in some extra care schemes the housing provider charges directly. If we are charging you, we will work out how much you can afford to pay towards the wellbeing charge when we do your financial assessment. The most that you would have to pay towards the wellbeing charge is currently \u00a320.47 per week\n\n[Document 4] From https://www (pdf) - URL: https://www.kent.gov.uk/social-care-and-health/adult-social-care/paying-for-care/charges-for-care-and-support - 11 pages [Retrieved via: semantic_original]:\n[Page 4 - FINANCIAL/BUDGET INFORMATION]\n Client Contributions for Residential Care\nPeople placed in residential care by the County Council are required to \ncontribute to the cost of their care and support in line with the Care and \nSupport (Charging and Assessment of Resources) Regulations 2014 and \nas defined in the Care Act (2014). The amount of the contribution is based \nupon an assessment of their income and capital.\nFor further details on how Kent County Council work out how much a \nperson should contribute to their residential/ nursing home care, see the \ncharging policy (search for: \u201cpaying for residential care\u201d on www.kent.gov.\nuk).\nThe majority of people placed in residential care by the County Council will \nbe in independent sector care homes. The maximum charge (for people \npaying the full cost) will be the contract price agreed between the Council \nand the care home.\nFor those people in County Council residential homes, the weekly\n\n[Document 5] From https://www (pdf) - URL: https://www.kent.gov.uk/social-care-and-health/adult-social-care/care-and-support/caring-for-other-people/supporting-working-carers - 4 pages [Retrieved via: semantic_original]:\n(see \u2018Help for carers\u2019 section below)\n3) Connect with your community  \u2013 You can find links to community   \n organisations on our Kent Connect to Support website and directory:   \n kent.connecttosupport.org\n4) Tell your employer  about your caring responsibilities so that you can   \n look at options available to help\n5) Check what benefits you may be entitled to\n6) Make sure the person you look after is accessing any funding they   \n are eligible for\n7) Check that the person you care for has had a care needs assessment\n8) See if the person you care for could benefit from adaptations in their   \n home or any other useful technology  to keep them well and supported \n9) Ask for support  and prioritise your own health  \n and mental wellbeing\nMore information on all of the above is available  \non our website.\n\n[Document 6] From https://www (web_page) - URL: https://www.kent.gov.uk/social-care-and-health/adult-social-care/housing-and-care-homes/long-term-residential-placements-for-older-people [Retrieved via: semantic_original]:\n. A minimum of 3 care homes will be shortlisted. The list will be shared with the person requiring care and their representatives so they can choose their preferred care home. Once a home has been chosen the ASPT will liaise with the person, their representatives and the care home to confirm price and availability of a room and to agree an admission date. If you choose a care home which has a final weekly price above our guide price, shown in the table below, then a family member may be required to contribute to the weekly cost of the placement, through a third party top up which is payable to us. Your case manager can provide more information. Contact us Call your case manager for more information or email social.services@kent.gov.uk . Need category Guide price (as of 7 April 2025) Residential \u00a3500.68 Residential High \u00a3610.51 Nursing \u00a3686.50 Nursing High \u00a3721.24\n\n[Document 7] From https://jobs (web_page) - URL: https://jobs.kent.gov.uk/other-opportunities/kent-shared-lives [Retrieved via: semantic_original]:\nKent Shared Lives Shared Lives carers get paid to open their homes and their lives to adults with assessed care and support needs. This could include people with learning and physical disabilities, mental health issues, autism spectrum disorder (ASD), attention deficit hyperactivity disorder (ADHD), sensory impairment, older people or those living with dementia. There are 3 types of service a carer can offer. We are currently recruiting for long term and short breaks carers. Long term - where an adult would move in and your home would become their home. Short breaks - where an adult would stay for a night or 2, a weekend or a few weeks with the carer based on what is needed. Day support - one session lasting up to 5 hours based at the carer's home or out and about in the community\n\n[Document 8] From https://www (pdf) - URL: https://www.kent.gov.uk/social-care-and-health/adult-social-care/paying-for-care/deferred-payments-for-care-and-support - 15 pages [Retrieved via: semantic_original]:\nIn add\nition, the Deferred Payments Scheme may be offered \nat the discretion of Kent County Council to other residents who do not meet all the above criteria.  \nConsideration  could  be given  to factors  such  as: \n-You have few accessible assets to pay for your care homecharges\n-There is already an outstanding loan/ mortgage or chargesecured on your property. Written agreement from theorganisation confirming Kent County Council can registera mortgage/legal charge on the property will be required.\n-You are only  slightly  over  the \u00a323,250 threshold.\n \n \nFor example:  \n-If your  residential  home  costs  \u00a3400 per week, and this\nis agreed by Kent County Council, we will pay \u00a3400\ndirectly to the care home every week.\n-If, following a Financial Assessment your available\nincome  is calculated  to be \u00a3100 per week; you will pay\n\u00a3100 to Kent County  Council  every week.\nIn this case,  the deferred amount  will be \u00a3300 per week\n\n[Document 9] From https://www (pdf) - URL: https://www.kent.gov.uk/social-care-and-health/adult-social-care - 39 pages [Retrieved via: semantic_original]:\n[Page 12]\n   \n \nYour guide to Kent adult social care 202 4  12 \n what to consider when choosing a home and a needs assessment. The \nneeds assessment will also guide you on how much care or the type of \nhome that may suit your needs best.  \n \nChoosing a residential care home  \n \nIt\u2019s important to find a care home that\u2019s right for you or right for the \nperson who\u2019s going to live there. If you or the person you\u2019re caring for \nare over 50, you might like to talk to a care navigator about your housing \noptions before making a final decis ion. They can help guide you through \nthe process.  \nWe suggest that wherever possible you research and visit the care \nhomes you\u2019re considering before making a final choice, and you can \ntake along Age UK\u2019s checklist of important things to ask the staff. You \ncan often ask for a trial stay to see what you thin k. Care Homes often \nhave their own websites and brochures where you can access \ninformation.  \nIf you require it, KCC will provide information on suitable homes to help\n\n[Document 10] From https://www (pdf) - URL: https://www.kent.gov.uk/social-care-and-health/adult-social-care - 39 pages [Retrieved via: semantic_original]:\n[Page 12]\n   \n \nYour guide to Kent adult social care 202 4  12 \n what to consider when choosing a home and a needs assessment. The \nneeds assessment will also guide you on how much care or the type of \nhome that may suit your needs best.  \n \nChoosing a residential care home  \n \nIt\u2019s important to find a care home that\u2019s right for you or right for the \nperson who\u2019s going to live there. If you or the person you\u2019re caring for \nare over 50, you might like to talk to a care navigator about your housing \noptions before making a final decis ion. They can help guide you through \nthe process.  \nWe suggest that wherever possible you research and visit the care \nhomes you\u2019re considering before making a final choice, and you can \ntake along Age UK\u2019s checklist of important things to ask the staff. You \ncan often ask for a trial stay to see what you thin k. Care Homes often \nhave their own websites and brochures where you can access \ninformation.  \nIf you require it, KCC will provide information on suitable homes to help\n",
+  "answer": "If you are concerned about the costs of your 20 hours of weekly home care in Kent, financial assistance may be available based on your financial circumstances. **Kent County Council will conduct a financial assessment to determine how much you can afford to pay towards your care costs.**\n\n- **Financial Assessment:** This assessment will consider your income and capital to decide your contribution towards the care services you receive. For more detailed information on how this is calculated, you can refer to the council's guide to charging for support in the home and community [here](https://www.kent.gov.uk/social-care-and-health/adult-social-care/paying-for-care/charges-for-care-and-support).\n\n- **Potential Assistance:** If your financial assessment shows that you have limited resources, you may qualify for assistance to cover part or all of your care costs. This could include help with housing-related charges and council tax, as mentioned in the documents.\n\n- **Deferred Payments Scheme:** If you own property, you might be eligible for the Deferred Payments Scheme, which allows you to defer care costs until a later date, typically when your property is sold. More details can be found in the council's deferred payments guide [here](https://www.kent.gov.uk/social-care-and-health/adult-social-care/paying-for-care/deferred-payments-for-care-and-support).\n\n**Next Steps:**\n- **Contact Kent County Council:** For personalized advice and to start the financial assessment process, you can contact your case manager or email social.services@kent.gov.uk.\n- **Explore Benefits:** Check what benefits you may be entitled to, which could help with your care costs. This information can be found on the Kent Connect to Support website.\n\nFor further assistance and detailed guidance, you can visit the Kent County Council's adult social care page [here](https://www.kent.gov.uk/social-care-and-health/adult-social-care).",
+  "metrics": {
+    "duration_seconds": 13.09283709526062,
+    "retrieved_docs_count": 10,
+    "query_length": 137,
+    "answer_length": 1928,
+    "retrieval_method": "enhanced",
+    "context_utilization": 0.18976545842217485,
+    "citations_count": 2,
+    "has_citations": true,
+    "query_relevance": 0.7619047619047619,
+    "unique_retrieval_methods": 1,
+    "budget_documents_retrieved": 6,
+    "retrieval_methods_used": [
+      "semantic_original"
+    ],
+    "retrieval_method_distribution": {
+      "semantic_original": 10
+    }
+  },
+  "local_authority": "kent",
+  "query_id": "scn_16",
+  "retrieval_method": "enhanced",
+  "run_id": "238106cd-9a69-41bc-b42a-e50e0bc92560",
+  "trace": {
+    "run_id": "238106cd-9a69-41bc-b42a-e50e0bc92560",
+    "project": "social_care_rag",
+    "url": "https://eu.smith.langchain.com/o/me/runs/238106cd-9a69-41bc-b42a-e50e0bc92560"
+  },
+  "test_metadata": {
+    "local_authority": "kent",
+    "query_id": "scn_16",
+    "query_category": "financial_scenarios",
+    "prompt_variation": "optimized",
+    "prompt_template": "\nPlease answer the following question about social care services in UK local authorities based only on the information in the provided documents.\n\nQuestion: {query}\n\nContext from relevant documents:\n{context}\n\nInstructions:\n1. Provide a clear, direct answer that would help someone needing this information. If information isn't available, state: \"The available documents don't provide specific information about [aspect].\"\n\n2. Synthesize information from ALL relevant documents to provide the most complete answer rather than analyzing documents individually.\n\n3. Structure your response with:\n   - A concise 1-2 sentence summary first\n   - Relevant details organized in short, clear paragraphs\n   - Bullet points for lists or step-by-step information\n   - Bold text for key information the user should notice\n\n4. For financial information:\n   - Include exact figures, time periods, and what the funding covers\n   - Present financial data clearly: \"The adult social care budget is **\u00a3X million** for [time period]\"\n\n5. Always include practical next steps or resources:\n   - Provide contact information, URLs, or application methods mentioned in the documents\n   - Suggest where the person could find more information\n\n6. When citing sources, use a simple format: \"According to [document name/description]\" or include URLs where available.\n\nAnswer:\n",
+    "processing_time": 13.096265077590942,
+    "timestamp": "2025-08-19T13:47:54.025982",
+    "top_k": 10
+  }
+}

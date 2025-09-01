@@ -1,0 +1,275 @@
+{
+  "query": "My wife's needs have changed significantly since her last assessment in manchester. How do we request a reassessment and how long will it take?",
+  "retrieved_documents": [
+    {
+      "content": ". If you don\u2019t feel your complaint can be resolved locally, or if local resolution has failed, you can contact the Manchester Feedback and Complaints Service directly. Complaints should be raised as soon as possible after the event and in most cases within 12 months of the issue arising.\u00a0 The Council does have some discretion to extend this time limit if, there are reasonable grounds for you not to have submitted your complaint earlier.\u00a0 If a decision is taken not to investigate your complaint due to this time limit, we will notify you of this in writing, detailing the reasons for our decision. Stage 1 If your complaint relates to social care services you should expect to receive a response within 20 working days. If your complaint is complex or covers a number of areas, we may take longer to respond, however, we will tell you if we think this is likely to be the case. When we receive your complaint we will allocate it to an 'investigating officer' from the service your complaint relates",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.manchester.gov.uk_info_100010_social_services_6735_adult_social_care_complaints_2.txt",
+        "level": "level_2",
+        "source": "https://www.manchester.gov.uk/info/100010/social_services/6735/adult_social_care_complaints/2",
+        "source_url": "https://www.manchester.gov.uk/info/100010/social_services/6735/adult_social_care_complaints/2",
+        "total_chunks": 6,
+        "type": "web_page"
+      },
+      "id": "88ea8bf0-6e24-4737-a6ae-959507b5923a",
+      "distance": 0.9363572001457214,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.06909283995628357,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Major adaptations . You can get changes in your home such as ramps, walk-in showers, wet rooms and stairlifts through a Disabled Facilities Grant. Call us and we'll come to discuss what you need. There could be lots of other things to help you keep doing what you do, your way, including alarms to let someone know if you need help. Just call us to discuss on 0161 234 5001 or\u00a0email socialcare@manchester.gov.uk Was this page helpful? Was this page helpful? Fields marked * cannot be left blank Yes No What were you doing? * What went wrong? * What were you looking for? * How can we make this page better? * Feedback submitted to us on this form is monitored but you won\u2019t receive a reply. In an emergency, visit our emergency contact details page . Please don't include any personal or financial information, for example your National Insurance or credit card numbers.",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.manchester.gov.uk_info_100010_social_services_1368_equipment_and_adaptations_for_independent_liv.txt",
+        "level": "level_3",
+        "source": "http://www.manchester.gov.uk/info/100010/social_services/1368/equipment_and_adaptations_for_independent_living/2",
+        "source_url": "http://www.manchester.gov.uk/info/100010/social_services/1368/equipment_and_adaptations_for_independent_living/2",
+        "total_chunks": 3,
+        "type": "web_page"
+      },
+      "id": "c2d38c6b-3c8b-4deb-9f76-ff4abe6e4ed0",
+      "distance": 0.9419264197349548,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.06742207407951355,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Major adaptations . You can get changes in your home such as ramps, walk-in showers, wet rooms and stairlifts through a Disabled Facilities Grant. Call us and we'll come to discuss what you need. There could be lots of other things to help you keep doing what you do, your way, including alarms to let someone know if you need help. Just call us to discuss on 0161 234 5001 or\u00a0email socialcare@manchester.gov.uk Was this page helpful? Was this page helpful? Fields marked * cannot be left blank Yes No What were you doing? * What went wrong? * What were you looking for? * How can we make this page better? * Feedback submitted to us on this form is monitored but you won\u2019t receive a reply. In an emergency, visit our emergency contact details page . Please don't include any personal or financial information, for example your National Insurance or credit card numbers.",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.manchester.gov.uk_info_100010_social_services_1368_equipment_and_adaptations_to_maintain_indepen.txt",
+        "level": "level_2",
+        "source": "https://www.manchester.gov.uk/info/100010/social_services/1368/equipment_and_adaptations_to_maintain_independence",
+        "source_url": "https://www.manchester.gov.uk/info/100010/social_services/1368/equipment_and_adaptations_to_maintain_independence",
+        "total_chunks": 3,
+        "type": "web_page"
+      },
+      "id": "2130566f-ed66-4acf-be94-22bbd4b70d19",
+      "distance": 0.9419265389442444,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.06742203831672669,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". You will need to create an account\u00a0to request a kit. Return the completed tests in a freepost envelope and results are available online within 14 days. Your sexual health is a key part of your physical, mental and social well-being. Whether you\u2019re in a relationship, don\u2019t have a regular partner or are not currently having sex, taking care of your sexual health is important. More information about sexual health can be found on the Sexwise and Greater Manchester Health Hub websites. Was this page helpful? Was this page helpful? Fields marked * cannot be left blank Yes No What were you doing? * What went wrong? * What were you looking for? * How can we make this page better? * Feedback submitted to us on this form is monitored but you won\u2019t receive a reply. In an emergency, visit our emergency contact details page . Please don't include any personal or financial information, for example your National Insurance or credit card numbers.",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.manchester.gov.uk_info_200048_health_and_wellbeing_6084_sexual_health_advice.txt",
+        "level": "level_2",
+        "source": "http://www.manchester.gov.uk/info/200048/health_and_wellbeing/6084/sexual_health_advice",
+        "source_url": "http://www.manchester.gov.uk/info/200048/health_and_wellbeing/6084/sexual_health_advice",
+        "total_chunks": 3,
+        "type": "web_page"
+      },
+      "id": "414a2723-32d0-4914-874e-fe3aa78509a3",
+      "distance": 0.9477365612983704,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.0656790316104889,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Information for children in care is also available. Placement changes and end You must notify us about the end of a placement or any changes by filling in section 2 of the notification of placement form and emailing it back via secure email to familyplacementola@manchester.gcsx.gov.uk Was this page helpful? Was this page helpful? Fields marked * cannot be left blank Yes No What were you doing? * What went wrong? * What were you looking for? * How can we make this page better? * Feedback submitted to us on this form is monitored but you won\u2019t receive a reply. In an emergency, visit our emergency contact details page . Please don't include any personal or financial information, for example your National Insurance or credit card numbers.",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.manchester.gov.uk_directory_record_165633_placing_looked_after_children_in_manchester_category_1.txt",
+        "level": "level_2",
+        "source": "https://www.manchester.gov.uk/directory_record/165633/placing_looked_after_children_in_manchester/category/1051/social_services",
+        "source_url": "https://www.manchester.gov.uk/directory_record/165633/placing_looked_after_children_in_manchester/category/1051/social_services",
+        "total_chunks": 3,
+        "type": "web_page"
+      },
+      "id": "7ece31f6-5ab5-412b-b5cf-6e272f8a181a",
+      "distance": 0.965852677822113,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.06024419665336609,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". If your needs change, you can contact us and arrange a reassessment. Your reassessment will consider your needs and the support we are able to offer, which may have changed. Was this page helpful? Was this page helpful? Fields marked * cannot be left blank Yes No What were you doing? * What went wrong? * What were you looking for? * How can we make this page better? * Feedback submitted to us on this form is monitored but you won\u2019t receive a reply. In an emergency, visit our emergency contact details page . Please don't include any personal or financial information, for example your National Insurance or credit card numbers.",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.manchester.gov.uk_info_100010_social_services_3584_get_help_support_or_social_care_6.txt",
+        "level": "level_2",
+        "source": "https://www.manchester.gov.uk/info/100010/social_services/3584/get_help_support_or_social_care/6",
+        "source_url": "https://www.manchester.gov.uk/info/100010/social_services/3584/get_help_support_or_social_care/6",
+        "total_chunks": 3,
+        "type": "web_page"
+      },
+      "id": "fb73aa7f-c45f-4d4a-8280-d2ef0dc56491",
+      "distance": 0.9708094596862793,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.058757162094116216,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "--\n\nManchester Local Care Organisation (Adult Social Care) Commissioning Plan Read the Manchester Local Care Organisation (Adult Social Care) Commissioning Plan strategy Manchester\u2019s response to the Department of Health and Social Care Fair Cost of Care\u00a0and Manchester\u2019s Market Sustainability Plan can be found on the Manchester Local Care Organisation website at www.manchesterlco.org/providers Was this page helpful? Was this page helpful? Fields marked * cannot be left blank Yes No What were you doing? * What went wrong? * What were you looking for? * How can we make this page better? * Feedback submitted to us on this form is monitored but you won\u2019t receive a reply. In an emergency, visit our emergency contact details page . Please don't include any personal or financial information, for example your National Insurance or credit card numbers.",
+      "metadata": {
+        "chunk_id": 0,
+        "filename": "www.manchester.gov.uk_directory_record_430036_manchester_local_care_organisation_adult_social_care_c.txt",
+        "level": "level_2",
+        "source": "https://www.manchester.gov.uk/directory_record/430036/manchester_local_care_organisation_adult_social_care_commissioning_plan/category/1051/social_services",
+        "source_url": "https://www.manchester.gov.uk/directory_record/430036/manchester_local_care_organisation_adult_social_care_commissioning_plan/category/1051/social_services",
+        "total_chunks": 1,
+        "type": "web_page"
+      },
+      "id": "12120890-68ab-4bb1-9b15-d09838d036ff",
+      "distance": 0.9751185774803162,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.05746442675590516,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "--\n\nSocial services Choose from the list of policies and strategies: Manchester Local Care Organisation (Adult Social Care) Commissioning Plan Manchester safeguarding policies and procedures Manchester's multi-agency safeguarding arrangements (MMASA) Mental capacity act Our Manchester disability plan Placing looked after children in Manchester Was this page helpful? Was this page helpful? Fields marked * cannot be left blank Yes No What were you doing? * What went wrong? * What were you looking for? * How can we make this page better? * Feedback submitted to us on this form is monitored but you won\u2019t receive a reply. In an emergency, visit our emergency contact details page . Please don't include any personal or financial information, for example your National Insurance or credit card numbers.",
+      "metadata": {
+        "chunk_id": 0,
+        "filename": "www.manchester.gov.uk_directory_99_policies_and_strategies_category_1051_categoryInfo_72.txt",
+        "level": "level_1",
+        "source": "https://www.manchester.gov.uk/directory/99/policies_and_strategies/category/1051/categoryInfo/72",
+        "source_url": "https://www.manchester.gov.uk/directory/99/policies_and_strategies/category/1051/categoryInfo/72",
+        "total_chunks": 1,
+        "type": "web_page"
+      },
+      "id": "91dedf82-c274-4c00-8f7e-75aad275c48e",
+      "distance": 0.9773359426341257,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.05679921720976229,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "--\n\nSocial services Choose from the list of policies and strategies: Manchester Local Care Organisation (Adult Social Care) Commissioning Plan Manchester safeguarding policies and procedures Manchester's multi-agency safeguarding arrangements (MMASA) Mental capacity act Our Manchester disability plan Placing looked after children in Manchester Was this page helpful? Was this page helpful? Fields marked * cannot be left blank Yes No What were you doing? * What went wrong? * What were you looking for? * How can we make this page better? * Feedback submitted to us on this form is monitored but you won\u2019t receive a reply. In an emergency, visit our emergency contact details page . Please don't include any personal or financial information, for example your National Insurance or credit card numbers.",
+      "metadata": {
+        "chunk_id": 0,
+        "filename": "www.manchester.gov.uk_directory_99_policies_and_strategies_category_1051.txt",
+        "level": "level_3",
+        "source": "https://www.manchester.gov.uk/directory/99/policies_and_strategies/category/1051",
+        "source_url": "https://www.manchester.gov.uk/directory/99/policies_and_strategies/category/1051",
+        "total_chunks": 1,
+        "type": "web_page"
+      },
+      "id": "ca0103af-6dac-4b4f-9f53-9b992ad7e633",
+      "distance": 0.9773361682891846,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.056799149513244634,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". If you, or someone who is aged 18 or over and lives in the area covered by Manchester City Council , needs care and support, you can contact us for advice, information and an assessment of your needs. We\u2019ll talk to you about your situation and ask questions to understand how you are currently managing and what your likely needs may be. We'll do this even if you choose to pay for services yourself. We'll also provide advice, information and an assessment of your needs if you care for someone else \u2013 whether or not they choose to have an assessment themselves. You can contact us by: Phone: 0161 234 5001 Email: mcsreply@manchester.gov.uk Online, through: Sign-Video Our SMS service is currently unavailable - we hope to have it back soon",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.manchester.gov.uk_info_100010_social_services_3584_get_help_support_or_social_care.txt",
+        "level": "level_1",
+        "source": "http://www.manchester.gov.uk/info/100010/social_services/3584/get_help_support_or_social_care",
+        "source_url": "http://www.manchester.gov.uk/info/100010/social_services/3584/get_help_support_or_social_care",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "e89fbc4f-15f7-444a-8ae6-59b3eca55ff4",
+      "distance": 0.9870822261516848,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.053875332154494554,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    }
+  ],
+  "context": "[Document 1] From https://www (web_page) - URL: https://www.manchester.gov.uk/info/100010/social_services/6735/adult_social_care_complaints/2 [Retrieved via: semantic_original]:\n. If you don\u2019t feel your complaint can be resolved locally, or if local resolution has failed, you can contact the Manchester Feedback and Complaints Service directly. Complaints should be raised as soon as possible after the event and in most cases within 12 months of the issue arising.\u00a0 The Council does have some discretion to extend this time limit if, there are reasonable grounds for you not to have submitted your complaint earlier.\u00a0 If a decision is taken not to investigate your complaint due to this time limit, we will notify you of this in writing, detailing the reasons for our decision. Stage 1 If your complaint relates to social care services you should expect to receive a response within 20 working days. If your complaint is complex or covers a number of areas, we may take longer to respond, however, we will tell you if we think this is likely to be the case. When we receive your complaint we will allocate it to an 'investigating officer' from the service your complaint relates\n\n[Document 2] From http://www (web_page) - URL: http://www.manchester.gov.uk/info/100010/social_services/1368/equipment_and_adaptations_for_independent_living/2 [Retrieved via: semantic_original]:\n. Major adaptations . You can get changes in your home such as ramps, walk-in showers, wet rooms and stairlifts through a Disabled Facilities Grant. Call us and we'll come to discuss what you need. There could be lots of other things to help you keep doing what you do, your way, including alarms to let someone know if you need help. Just call us to discuss on 0161 234 5001 or\u00a0email socialcare@manchester.gov.uk Was this page helpful? Was this page helpful? Fields marked * cannot be left blank Yes No What were you doing? * What went wrong? * What were you looking for? * How can we make this page better? * Feedback submitted to us on this form is monitored but you won\u2019t receive a reply. In an emergency, visit our emergency contact details page . Please don't include any personal or financial information, for example your National Insurance or credit card numbers.\n\n[Document 3] From https://www (web_page) - URL: https://www.manchester.gov.uk/info/100010/social_services/1368/equipment_and_adaptations_to_maintain_independence [Retrieved via: semantic_original]:\n. Major adaptations . You can get changes in your home such as ramps, walk-in showers, wet rooms and stairlifts through a Disabled Facilities Grant. Call us and we'll come to discuss what you need. There could be lots of other things to help you keep doing what you do, your way, including alarms to let someone know if you need help. Just call us to discuss on 0161 234 5001 or\u00a0email socialcare@manchester.gov.uk Was this page helpful? Was this page helpful? Fields marked * cannot be left blank Yes No What were you doing? * What went wrong? * What were you looking for? * How can we make this page better? * Feedback submitted to us on this form is monitored but you won\u2019t receive a reply. In an emergency, visit our emergency contact details page . Please don't include any personal or financial information, for example your National Insurance or credit card numbers.\n\n[Document 4] From http://www (web_page) - URL: http://www.manchester.gov.uk/info/200048/health_and_wellbeing/6084/sexual_health_advice [Retrieved via: semantic_original]:\n. You will need to create an account\u00a0to request a kit. Return the completed tests in a freepost envelope and results are available online within 14 days. Your sexual health is a key part of your physical, mental and social well-being. Whether you\u2019re in a relationship, don\u2019t have a regular partner or are not currently having sex, taking care of your sexual health is important. More information about sexual health can be found on the Sexwise and Greater Manchester Health Hub websites. Was this page helpful? Was this page helpful? Fields marked * cannot be left blank Yes No What were you doing? * What went wrong? * What were you looking for? * How can we make this page better? * Feedback submitted to us on this form is monitored but you won\u2019t receive a reply. In an emergency, visit our emergency contact details page . Please don't include any personal or financial information, for example your National Insurance or credit card numbers.\n\n[Document 5] From https://www (web_page) - URL: https://www.manchester.gov.uk/directory_record/165633/placing_looked_after_children_in_manchester/category/1051/social_services [Retrieved via: semantic_original]:\n. Information for children in care is also available. Placement changes and end You must notify us about the end of a placement or any changes by filling in section 2 of the notification of placement form and emailing it back via secure email to familyplacementola@manchester.gcsx.gov.uk Was this page helpful? Was this page helpful? Fields marked * cannot be left blank Yes No What were you doing? * What went wrong? * What were you looking for? * How can we make this page better? * Feedback submitted to us on this form is monitored but you won\u2019t receive a reply. In an emergency, visit our emergency contact details page . Please don't include any personal or financial information, for example your National Insurance or credit card numbers.\n\n[Document 6] From https://www (web_page) - URL: https://www.manchester.gov.uk/info/100010/social_services/3584/get_help_support_or_social_care/6 [Retrieved via: semantic_original]:\n. If your needs change, you can contact us and arrange a reassessment. Your reassessment will consider your needs and the support we are able to offer, which may have changed. Was this page helpful? Was this page helpful? Fields marked * cannot be left blank Yes No What were you doing? * What went wrong? * What were you looking for? * How can we make this page better? * Feedback submitted to us on this form is monitored but you won\u2019t receive a reply. In an emergency, visit our emergency contact details page . Please don't include any personal or financial information, for example your National Insurance or credit card numbers.\n\n[Document 7] From https://www (web_page) - URL: https://www.manchester.gov.uk/directory_record/430036/manchester_local_care_organisation_adult_social_care_commissioning_plan/category/1051/social_services [Retrieved via: semantic_original]:\n--\n\nManchester Local Care Organisation (Adult Social Care) Commissioning Plan Read the Manchester Local Care Organisation (Adult Social Care) Commissioning Plan strategy Manchester\u2019s response to the Department of Health and Social Care Fair Cost of Care\u00a0and Manchester\u2019s Market Sustainability Plan can be found on the Manchester Local Care Organisation website at www.manchesterlco.org/providers Was this page helpful? Was this page helpful? Fields marked * cannot be left blank Yes No What were you doing? * What went wrong? * What were you looking for? * How can we make this page better? * Feedback submitted to us on this form is monitored but you won\u2019t receive a reply. In an emergency, visit our emergency contact details page . Please don't include any personal or financial information, for example your National Insurance or credit card numbers.\n\n[Document 8] From https://www (web_page) - URL: https://www.manchester.gov.uk/directory/99/policies_and_strategies/category/1051/categoryInfo/72 [Retrieved via: semantic_original]:\n--\n\nSocial services Choose from the list of policies and strategies: Manchester Local Care Organisation (Adult Social Care) Commissioning Plan Manchester safeguarding policies and procedures Manchester's multi-agency safeguarding arrangements (MMASA) Mental capacity act Our Manchester disability plan Placing looked after children in Manchester Was this page helpful? Was this page helpful? Fields marked * cannot be left blank Yes No What were you doing? * What went wrong? * What were you looking for? * How can we make this page better? * Feedback submitted to us on this form is monitored but you won\u2019t receive a reply. In an emergency, visit our emergency contact details page . Please don't include any personal or financial information, for example your National Insurance or credit card numbers.\n\n[Document 9] From https://www (web_page) - URL: https://www.manchester.gov.uk/directory/99/policies_and_strategies/category/1051 [Retrieved via: semantic_original]:\n--\n\nSocial services Choose from the list of policies and strategies: Manchester Local Care Organisation (Adult Social Care) Commissioning Plan Manchester safeguarding policies and procedures Manchester's multi-agency safeguarding arrangements (MMASA) Mental capacity act Our Manchester disability plan Placing looked after children in Manchester Was this page helpful? Was this page helpful? Fields marked * cannot be left blank Yes No What were you doing? * What went wrong? * What were you looking for? * How can we make this page better? * Feedback submitted to us on this form is monitored but you won\u2019t receive a reply. In an emergency, visit our emergency contact details page . Please don't include any personal or financial information, for example your National Insurance or credit card numbers.\n\n[Document 10] From http://www (web_page) - URL: http://www.manchester.gov.uk/info/100010/social_services/3584/get_help_support_or_social_care [Retrieved via: semantic_original]:\n. If you, or someone who is aged 18 or over and lives in the area covered by Manchester City Council , needs care and support, you can contact us for advice, information and an assessment of your needs. We\u2019ll talk to you about your situation and ask questions to understand how you are currently managing and what your likely needs may be. We'll do this even if you choose to pay for services yourself. We'll also provide advice, information and an assessment of your needs if you care for someone else \u2013 whether or not they choose to have an assessment themselves. You can contact us by: Phone: 0161 234 5001 Email: mcsreply@manchester.gov.uk Online, through: Sign-Video Our SMS service is currently unavailable - we hope to have it back soon\n",
+  "answer": "To request a reassessment for your wife's changed needs in Manchester, you should contact Manchester City Council's social care services. **You can arrange a reassessment by calling 0161 234 5001 or emailing mcsreply@manchester.gov.uk.**\n\n- **Contact Details:**\n  - **Phone:** 0161 234 5001\n  - **Email:** mcsreply@manchester.gov.uk\n\n- **Process Overview:**\n  - When you contact the council, they will discuss your wife's situation to understand her current needs and the support required.\n  - The reassessment will consider any changes in her needs and the support options available.\n\nThe available documents do not specify how long the reassessment process will take. For more detailed information, you may want to directly inquire about the expected timeline when you contact them.",
+  "metrics": {
+    "duration_seconds": 5.422690153121948,
+    "retrieved_docs_count": 10,
+    "query_length": 143,
+    "answer_length": 784,
+    "retrieval_method": "enhanced",
+    "context_utilization": 0.14076246334310852,
+    "citations_count": 0,
+    "has_citations": false,
+    "query_relevance": 0.7142857142857143,
+    "unique_retrieval_methods": 1,
+    "budget_documents_retrieved": 0,
+    "retrieval_methods_used": [
+      "semantic_original"
+    ],
+    "retrieval_method_distribution": {
+      "semantic_original": 10
+    }
+  },
+  "local_authority": "manchester",
+  "query_id": "scn_23",
+  "retrieval_method": "enhanced",
+  "run_id": "f382d1ae-f110-427e-87c5-9a167652765e",
+  "trace": {
+    "run_id": "f382d1ae-f110-427e-87c5-9a167652765e",
+    "project": "social_care_rag",
+    "url": "https://eu.smith.langchain.com/o/me/runs/f382d1ae-f110-427e-87c5-9a167652765e"
+  },
+  "test_metadata": {
+    "local_authority": "manchester",
+    "query_id": "scn_23",
+    "query_category": "assessment_scenarios",
+    "prompt_variation": "optimized",
+    "prompt_template": "\nPlease answer the following question about social care services in UK local authorities based only on the information in the provided documents.\n\nQuestion: {query}\n\nContext from relevant documents:\n{context}\n\nInstructions:\n1. Provide a clear, direct answer that would help someone needing this information. If information isn't available, state: \"The available documents don't provide specific information about [aspect].\"\n\n2. Synthesize information from ALL relevant documents to provide the most complete answer rather than analyzing documents individually.\n\n3. Structure your response with:\n   - A concise 1-2 sentence summary first\n   - Relevant details organized in short, clear paragraphs\n   - Bullet points for lists or step-by-step information\n   - Bold text for key information the user should notice\n\n4. For financial information:\n   - Include exact figures, time periods, and what the funding covers\n   - Present financial data clearly: \"The adult social care budget is **\u00a3X million** for [time period]\"\n\n5. Always include practical next steps or resources:\n   - Provide contact information, URLs, or application methods mentioned in the documents\n   - Suggest where the person could find more information\n\n6. When citing sources, use a simple format: \"According to [document name/description]\" or include URLs where available.\n\nAnswer:\n",
+    "processing_time": 5.424055814743042,
+    "timestamp": "2025-08-19T14:07:29.556637",
+    "top_k": 10
+  }
+}

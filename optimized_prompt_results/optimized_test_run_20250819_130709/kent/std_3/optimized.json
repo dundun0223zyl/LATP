@@ -1,0 +1,348 @@
+{
+  "query": "What are the costs of care services in kent and how do residents pay for these services?",
+  "retrieved_documents": [
+    {
+      "content": "[Page 30 - FINANCIAL/BUDGET INFORMATION]\npRIORIT y 4: NEw M O dEls O F  C ARE A Nd sUppOR T\nwE wIl l s EIZE OppOR TUNITIEs   \nTO EMbEd T EC hNOlOGy T O hElp  \nMEET  pE O plE\u2019s C ARE N EEd s\n57 56 PRIORITY 4: NEW MODELS OF CARE AND SUPPORT FRAMING KENT\u2019S FUTURE 2022-2026Our commitment is to ensure that adults who  \ndraw on social care support lead the lives they  want to live, by putting their needs at the  heart of everything we do, whilst successfully  innovating and responding to the challenges  to social care funding.\nThe aim of our adult social care services is to make a positive difference every day, supporting people who draw on our services to live as full and safe a life as possible and make informed choices. To do this there needs to be a choice of high-quality, responsive, person-centred social care services available that meet people\u2019s diverse needs. This is increasingly challenging in the financial situation that we face. \nNationally, adult social care reform is bringing long-needed",
+      "metadata": {
+        "chunk_id": 120,
+        "contains_financial_info": true,
+        "download_url": "https://beta.kent.gov.uk/__data/assets/pdf_file/0018/136431/Framing-Kents-Future-strategy-document.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Framing-Kents-Future-strategy-document.pdf",
+        "financial_pages": "[3, 5, 6, 7, 11, 12, 13, 14, 15, 17, 18, 19, 20, 21, 22, 23, 24, 25, 27, 28, 29, 30, 31, 32]",
+        "level": "level_3",
+        "page_count": 33,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33]",
+        "source": "https://www.kent.gov.uk/about-the-council/strategies-and-policies/framing-kents-future",
+        "source_url": "https://www.kent.gov.uk/about-the-council/strategies-and-policies/framing-kents-future",
+        "total_chunks": 133,
+        "type": "pdf"
+      },
+      "id": "e6d39f26-58b8-4807-bfd5-907e2d8e9ae6",
+      "distance": 0.6582383513450623,
+      "retrieval_method": "semantic_expanded_1",
+      "expanded_query": "adult social care",
+      "combined_score": 0.6329480750160618,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_expanded_1"
+      }
+    },
+    {
+      "content": "o 2022/23 allocation of grant is 5%  \nNote 1:  in addition to the annual uplift,  care and support in the h ome received an in- year 4% \nincrease, funded from the council \u2019s base budget. \nNote 2:  grant conditions allowed up to 25% to be spent on the now -postponed adult social care \nreform preparations including the Fair Cost of Care exercise.  \nThe funding for 2023/ 24 is being allocated in line with the grant conditions and the Making a \nDifference Every  Day strategy, which will see significant increases in the care market prices being \npaid to providers  (\u00a34.4m), with the remainder of the grant (\u00a35.5m) supporting provider  capacity . \nThe council  has adopted a targeted approach which will move towards:  \n\u2022 Increasing adult social care capacity  \n\u2022 Reducing waiting times",
+      "metadata": {
+        "chunk_id": 36,
+        "contains_financial_info": true,
+        "download_url": "https://www.kent.gov.uk/__data/assets/pdf_file/0003/148836/Market-Sustainability-Plan.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Market-Sustainability-Plan.pdf",
+        "financial_pages": "[2, 3, 4, 5, 6, 7, 8, 9, 10]",
+        "level": "level_1",
+        "page_count": 11,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]",
+        "source": "https://www.kent.gov.uk/social-care-and-health/adult-social-care/social-care-reform",
+        "source_url": "https://www.kent.gov.uk/social-care-and-health/adult-social-care/social-care-reform",
+        "total_chunks": 44,
+        "type": "pdf"
+      },
+      "id": "aa6e5667-8f34-4dc0-9dea-8d4b45f6cf4b",
+      "distance": 0.80946329489656,
+      "retrieval_method": "semantic_expanded_2",
+      "expanded_query": "social care budget",
+      "combined_score": 0.5896784940485146,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 5,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_expanded_2"
+      }
+    },
+    {
+      "content": "[Page 16 - FINANCIAL/BUDGET INFORMATION]\nmarket con ditions, local supplier relationships, etc as well as affordability within the \ncouncil\u2019s overall budget . \n \nConclusion   \n \n1. Kent County Council has significant concerns as to the quality, \ncompleteness, relevance and reliability of data received  from providers , and to \nthe validity and representativeness of the sample of data returns . Kent \nCounty Council therefore cannot  accept the outputs of the data \ngathering exercise as the cost of care in Kent.   \n \n2. Notwithstanding the significant concerns and limitations of the data gathering \nexercise,  of the options available, Kent County Council\u2019s preferred \nmethodology for the Fair Cost of Care is  to use April 2022 figures for 65+ care \nhomes places and adjust nurs ing and care costs using provider specified % \nuplifts and occupancy levels to a minimum of 90%. The council believes this is \nthe most accurate of the methods available for calculating the Fair Cost of",
+      "metadata": {
+        "chunk_id": 48,
+        "contains_financial_info": true,
+        "download_url": "https://www.kent.gov.uk/__data/assets/pdf_file/0020/146630/care-home-fair-cost-of-care-output-report.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "care-home-fair-cost-of-care-output-report.pdf",
+        "financial_pages": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]",
+        "level": "level_1",
+        "page_count": 16,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]",
+        "source": "https://www.kent.gov.uk/social-care-and-health/adult-social-care/social-care-reform",
+        "source_url": "https://www.kent.gov.uk/social-care-and-health/adult-social-care/social-care-reform",
+        "total_chunks": 50,
+        "type": "pdf"
+      },
+      "id": "26731ce1-f19a-4221-856d-5a21523e3e22",
+      "distance": 0.55473792552948,
+      "retrieval_method": "financial_enhanced",
+      "combined_score": 0.5712709300334636,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "financial_enhanced"
+      }
+    },
+    {
+      "content": "changes in the way adult social care is arranged and funded to create a fairer and more sustainable system. Some of the main changes proposed, including the cap on care costs and enabling self-funders to request that we arrange their care bring with them  a significant increase in workload and financial burden for KCC. While urging the right Government support to meet these costs, we must find a way to manage these changes while realising the benefits for people who draw on care and their families.   We have real opportunities to improve the effectiveness and efficiency of our adult social care services by making full use  of new technology and innovations that mean we can better manage demand and focus resources where they are most needed. Adult social care would not function without the vital role that unpaid carers play in supporting their loved ones, and we will  go further to involve them in decision-making and support their own health and wellbeing.We will:",
+      "metadata": {
+        "chunk_id": 121,
+        "contains_financial_info": true,
+        "download_url": "https://beta.kent.gov.uk/__data/assets/pdf_file/0018/136431/Framing-Kents-Future-strategy-document.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Framing-Kents-Future-strategy-document.pdf",
+        "financial_pages": "[3, 5, 6, 7, 11, 12, 13, 14, 15, 17, 18, 19, 20, 21, 22, 23, 24, 25, 27, 28, 29, 30, 31, 32]",
+        "level": "level_3",
+        "page_count": 33,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33]",
+        "source": "https://www.kent.gov.uk/about-the-council/strategies-and-policies/framing-kents-future",
+        "source_url": "https://www.kent.gov.uk/about-the-council/strategies-and-policies/framing-kents-future",
+        "total_chunks": 133,
+        "type": "pdf"
+      },
+      "id": "414703a3-448a-40aa-ba75-4159297940ec",
+      "distance": 0.8050314784049988,
+      "retrieval_method": "semantic_expanded_2",
+      "expanded_query": "social care budget",
+      "combined_score": 0.5696793676673115,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_expanded_2"
+      }
+    },
+    {
+      "content": "We have agreed an overall vision for adult social \ncare, which will guide and help us achieve the \nambitions of our \u2018Making a difference every day\u2019 \napproach which is described in this strategy\nAdult Social Care is about social work, personal \ncare and practical support for younger and older \nadults over 18 with a physical disability, learning \ndisability, physical or mental illness. It also includes \nsafeguarding for those at risk of harm and abuse, as \nwell as support for unpaid carers. For more detail, \nvisit www.kent.gov.uk/localaccount.Our vision for adult social care in Kent\n\u201cMaking a positive difference every day, \nsupporting you to live as full and safe a life as \npossible and make informed choices.\u201d",
+      "metadata": {
+        "chunk_id": 2,
+        "contains_financial_info": true,
+        "download_url": "https://www.kent.gov.uk/__data/assets/pdf_file/0006/137805/Making-a-Difference-Every-Day-Our-Strategy-for-Adult-Social-Care-2022-to-2027.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Making-a-Difference-Every-Day-Our-Strategy-for-Adult-Social-Care-2022-to-2027.pdf",
+        "financial_pages": "[3, 6]",
+        "level": "level_2",
+        "page_count": 8,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8]",
+        "source": "https://news.kent.gov.uk/articles/cqc-assessment-of-kents-adult-social-care-services",
+        "source_url": "https://news.kent.gov.uk/articles/cqc-assessment-of-kents-adult-social-care-services",
+        "total_chunks": 17,
+        "type": "pdf"
+      },
+      "id": "d83cec1f-b00d-4dcf-b9ff-fa950e4810b5",
+      "distance": 0.5962979793548584,
+      "retrieval_method": "semantic_expanded_1",
+      "expanded_query": "adult social care",
+      "combined_score": 0.5574742425571788,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_expanded_1"
+      }
+    },
+    {
+      "content": "[Page 19]\n19\nAdult Social Care and Health",
+      "metadata": {
+        "chunk_id": 49,
+        "contains_financial_info": true,
+        "download_url": "https://www.kent.gov.uk/__data/assets/pdf_file/0004/105187/Kent-Social-Care-Accommodation-Strategy-appendices.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Kent-Social-Care-Accommodation-Strategy-appendices.pdf",
+        "financial_pages": "[4, 5, 6, 7, 10, 11, 13, 14, 16, 17, 18, 20]",
+        "level": "level_2",
+        "page_count": 20,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]",
+        "source": "https://www.kent.gov.uk/about-the-council/strategies-and-policies/service-specific-policies/adult-social-care-policies/accommodation-strategy-for-adult-social-care",
+        "source_url": "https://www.kent.gov.uk/about-the-council/strategies-and-policies/service-specific-policies/adult-social-care-policies/accommodation-strategy-for-adult-social-care",
+        "total_chunks": 52,
+        "type": "pdf"
+      },
+      "id": "6d4c263f-cfcb-4962-ad7c-37dedcba1b73",
+      "distance": 0.45331335067749023,
+      "retrieval_method": "semantic_expanded_1",
+      "expanded_query": "adult social care",
+      "combined_score": 0.5544696311603893,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_expanded_1"
+      }
+    },
+    {
+      "content": "[Page 7 - FINANCIAL/BUDGET INFORMATION]\n  \nwe also assess their income to decide how much they pay towards their care. Some  \npeople don\u2019t pay anything, and the council picks up all of the cost, some people pay a \ncontribution, and some people pay for all of their care (these people are known as self -\nfunders).  \nKCC sets out what and how people need to pay in the Charging Policy for adult social care \nin a person\u2019s own home or in the community(External link) . This policy does not impact on \npeople who live in and receive care and support in a residential care home.  \nKCC is facing a large increase in the cost of providing services and ever -increasing \ndemand for services and needs to find ways to make these services sustainable. One \npossibility is to make changes to the Adult Social Care Charging Policy. You can find more \ninformation about this  here. \nWhat are these consultations about?  \nKCC is reviewing how much people may have to pay towards the chargeable care and",
+      "metadata": {
+        "chunk_id": 12,
+        "contains_financial_info": true,
+        "download_url": "https://www.kent.gov.uk/__data/assets/pdf_file/0007/163897/ASC-provider-bulletin-22-March-2024.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "ASC-provider-bulletin-22-March-2024.pdf",
+        "financial_pages": "[4, 5, 7, 8, 9, 10, 11]",
+        "level": "level_2",
+        "page_count": 11,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]",
+        "source": "https://www.kent.gov.uk/social-care-and-health/information-for-social-care-professionals/adult-social-care-provider-bulletins",
+        "source_url": "https://www.kent.gov.uk/social-care-and-health/information-for-social-care-professionals/adult-social-care-provider-bulletins",
+        "total_chunks": 22,
+        "type": "pdf"
+      },
+      "id": "7433c1e4-0426-4d7a-b223-cdfb9befe27a",
+      "distance": 0.8209279179573059,
+      "retrieval_method": "semantic_expanded_2",
+      "expanded_query": "social care budget",
+      "combined_score": 0.5477775686687523,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_expanded_2"
+      }
+    },
+    {
+      "content": "[Page 1 - FINANCIAL/BUDGET INFORMATION]\n \n  \n \n Thursday 22 February  2024 \n \n   \n  \n Adult Social Care Charging Policy consultation   \n \n \n \n \n \nKent County Council (KCC) provides adult social care services to approximately 16,394 \nresidents aged over 18 years old. Approximately 15,806 of these people receive \nchargeable social care services.  \nWhen people living in Kent need adult social care, as well as assessing their care needs, \nwe also assess their income to decide how much they pay towards their care. Some \npeople don\u2019t pay anything, and the council picks up all of the cost, some people pay a \ncontribution, and some people pay for all of their care (these people are known as self -\nfunders).  \nKCC sets out what and how people need to pay in the Charging Policy for adult social care \nin a person\u2019s own home or in the community(External link) . This policy does not impact on \npeople who live in and receive care and support in a residential care home.",
+      "metadata": {
+        "chunk_id": 0,
+        "contains_financial_info": true,
+        "download_url": "https://www.kent.gov.uk/__data/assets/pdf_file/0006/163896/ASC-provider-bulletin-22-February-2024.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "ASC-provider-bulletin-22-February-2024.pdf",
+        "financial_pages": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]",
+        "level": "level_2",
+        "page_count": 10,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]",
+        "source": "https://www.kent.gov.uk/social-care-and-health/information-for-social-care-professionals/adult-social-care-provider-bulletins",
+        "source_url": "https://www.kent.gov.uk/social-care-and-health/information-for-social-care-professionals/adult-social-care-provider-bulletins",
+        "total_chunks": 24,
+        "type": "pdf"
+      },
+      "id": "f80e34a4-1c46-4516-bb7e-ae4f24c930b4",
+      "distance": 0.6326562762260437,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.5406226975517674,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "cost of care in Kent. In conclusion, the County Council does not intend to rely solely on the information in this submission as part of its future fee setting strategy and is \ntreating this as a data gathering exercise with the market at this stage.  The County Council\u2019s fee setting strategy will continue to be informed by a range of economic, \nfiscal and market factors taking into account legislative requirements.  \nThis document will provide the detail for Kent County Council\u2019s Fair Cost of Care \nexercise and the outputs and conclusion of the results.  \nGeography of Kent  \n \nWith a resident population of 1,589,100 Kent has the largest population of all the English counties. Over the past 10 years Kent's population has grown by 9.4% between 2010 and 2020, above the average both for the South East (7.5%) and for \nEngland (7.4%).  Kent\u2019s population is forecast to increase by a further 19% between \n2019 and 2039.  \nKent has an aging population. Forecasts show that the number of 65+ year olds is",
+      "metadata": {
+        "chunk_id": 6,
+        "contains_financial_info": true,
+        "download_url": "https://www.kent.gov.uk/__data/assets/pdf_file/0020/146630/care-home-fair-cost-of-care-output-report.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "care-home-fair-cost-of-care-output-report.pdf",
+        "financial_pages": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]",
+        "level": "level_1",
+        "page_count": 16,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]",
+        "source": "https://www.kent.gov.uk/social-care-and-health/adult-social-care/social-care-reform",
+        "source_url": "https://www.kent.gov.uk/social-care-and-health/adult-social-care/social-care-reform",
+        "total_chunks": 50,
+        "type": "pdf"
+      },
+      "id": "a2e20ede-95e2-4853-9b9f-16d26917e3a2",
+      "distance": 0.5949496030807495,
+      "retrieval_method": "financial_enhanced",
+      "combined_score": 0.5399766575373136,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "financial_enhanced"
+      }
+    },
+    {
+      "content": "future of adult social care.\nWe currently have 160 people signed up to our network and we hope you \nwill be part of it.Our People\u2019s Panel, \nLearning Disability \nPartnership Board and Your \nVoice Network are here to \nmake your voice heard in \nadult social care.",
+      "metadata": {
+        "chunk_id": 53,
+        "contains_financial_info": true,
+        "download_url": "https://www.kent.gov.uk/__data/assets/pdf_file/0014/144140/Local-Account-adult-social-care-.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Local-Account-adult-social-care-.pdf",
+        "financial_pages": "[3, 4, 5, 10, 16, 18, 19, 23, 25, 31, 32]",
+        "level": "level_2",
+        "page_count": 36,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36]",
+        "source": "https://www.kent.gov.uk/social-care-and-health/adult-social-care/local-account-for-adult-social-care",
+        "source_url": "https://www.kent.gov.uk/social-care-and-health/adult-social-care/local-account-for-adult-social-care",
+        "total_chunks": 57,
+        "type": "pdf"
+      },
+      "id": "3823a5ef-5b5f-4a24-ba4f-de35f0913fb7",
+      "distance": 0.6293926239013672,
+      "retrieval_method": "semantic_expanded_1",
+      "expanded_query": "adult social care",
+      "combined_score": 0.5235458491932262,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_expanded_1"
+      }
+    }
+  ],
+  "context": "[Document 1] From https://www (pdf) - URL: https://www.kent.gov.uk/about-the-council/strategies-and-policies/framing-kents-future - 33 pages [Retrieved via: semantic_expanded_1]:\n[Page 30 - FINANCIAL/BUDGET INFORMATION]\npRIORIT y 4: NEw M O dEls O F  C ARE A Nd sUppOR T\nwE wIl l s EIZE OppOR TUNITIEs   \nTO EMbEd T EC hNOlOGy T O hElp  \nMEET  pE O plE\u2019s C ARE N EEd s\n57 56 PRIORITY 4: NEW MODELS OF CARE AND SUPPORT FRAMING KENT\u2019S FUTURE 2022-2026Our commitment is to ensure that adults who  \ndraw on social care support lead the lives they  want to live, by putting their needs at the  heart of everything we do, whilst successfully  innovating and responding to the challenges  to social care funding.\nThe aim of our adult social care services is to make a positive difference every day, supporting people who draw on our services to live as full and safe a life as possible and make informed choices. To do this there needs to be a choice of high-quality, responsive, person-centred social care services available that meet people\u2019s diverse needs. This is increasingly challenging in the financial situation that we face. \nNationally, adult social care reform is bringing long-needed\n\n[Document 2] From https://www (pdf) - URL: https://www.kent.gov.uk/social-care-and-health/adult-social-care/social-care-reform - 11 pages [Retrieved via: semantic_expanded_2]:\no 2022/23 allocation of grant is 5%  \nNote 1:  in addition to the annual uplift,  care and support in the h ome received an in- year 4% \nincrease, funded from the council \u2019s base budget. \nNote 2:  grant conditions allowed up to 25% to be spent on the now -postponed adult social care \nreform preparations including the Fair Cost of Care exercise.  \nThe funding for 2023/ 24 is being allocated in line with the grant conditions and the Making a \nDifference Every  Day strategy, which will see significant increases in the care market prices being \npaid to providers  (\u00a34.4m), with the remainder of the grant (\u00a35.5m) supporting provider  capacity . \nThe council  has adopted a targeted approach which will move towards:  \n\u2022 Increasing adult social care capacity  \n\u2022 Reducing waiting times\n\n[Document 3] From https://www (pdf) - URL: https://www.kent.gov.uk/social-care-and-health/adult-social-care/social-care-reform - 16 pages [Retrieved via: financial_enhanced]:\n[Page 16 - FINANCIAL/BUDGET INFORMATION]\nmarket con ditions, local supplier relationships, etc as well as affordability within the \ncouncil\u2019s overall budget . \n \nConclusion   \n \n1. Kent County Council has significant concerns as to the quality, \ncompleteness, relevance and reliability of data received  from providers , and to \nthe validity and representativeness of the sample of data returns . Kent \nCounty Council therefore cannot  accept the outputs of the data \ngathering exercise as the cost of care in Kent.   \n \n2. Notwithstanding the significant concerns and limitations of the data gathering \nexercise,  of the options available, Kent County Council\u2019s preferred \nmethodology for the Fair Cost of Care is  to use April 2022 figures for 65+ care \nhomes places and adjust nurs ing and care costs using provider specified % \nuplifts and occupancy levels to a minimum of 90%. The council believes this is \nthe most accurate of the methods available for calculating the Fair Cost of\n\n[Document 4] From https://www (pdf) - URL: https://www.kent.gov.uk/about-the-council/strategies-and-policies/framing-kents-future - 33 pages [Retrieved via: semantic_expanded_2]:\nchanges in the way adult social care is arranged and funded to create a fairer and more sustainable system. Some of the main changes proposed, including the cap on care costs and enabling self-funders to request that we arrange their care bring with them  a significant increase in workload and financial burden for KCC. While urging the right Government support to meet these costs, we must find a way to manage these changes while realising the benefits for people who draw on care and their families.   We have real opportunities to improve the effectiveness and efficiency of our adult social care services by making full use  of new technology and innovations that mean we can better manage demand and focus resources where they are most needed. Adult social care would not function without the vital role that unpaid carers play in supporting their loved ones, and we will  go further to involve them in decision-making and support their own health and wellbeing.We will:\n\n[Document 5] From https://news (pdf) - URL: https://news.kent.gov.uk/articles/cqc-assessment-of-kents-adult-social-care-services - 8 pages [Retrieved via: semantic_expanded_1]:\nWe have agreed an overall vision for adult social \ncare, which will guide and help us achieve the \nambitions of our \u2018Making a difference every day\u2019 \napproach which is described in this strategy\nAdult Social Care is about social work, personal \ncare and practical support for younger and older \nadults over 18 with a physical disability, learning \ndisability, physical or mental illness. It also includes \nsafeguarding for those at risk of harm and abuse, as \nwell as support for unpaid carers. For more detail, \nvisit www.kent.gov.uk/localaccount.Our vision for adult social care in Kent\n\u201cMaking a positive difference every day, \nsupporting you to live as full and safe a life as \npossible and make informed choices.\u201d\n\n[Document 6] From https://www (pdf) - URL: https://www.kent.gov.uk/about-the-council/strategies-and-policies/service-specific-policies/adult-social-care-policies/accommodation-strategy-for-adult-social-care - 20 pages [Retrieved via: semantic_expanded_1]:\n[Page 19]\n19\nAdult Social Care and Health\n\n[Document 7] From https://www (pdf) - URL: https://www.kent.gov.uk/social-care-and-health/information-for-social-care-professionals/adult-social-care-provider-bulletins - 11 pages [Retrieved via: semantic_expanded_2]:\n[Page 7 - FINANCIAL/BUDGET INFORMATION]\n  \nwe also assess their income to decide how much they pay towards their care. Some  \npeople don\u2019t pay anything, and the council picks up all of the cost, some people pay a \ncontribution, and some people pay for all of their care (these people are known as self -\nfunders).  \nKCC sets out what and how people need to pay in the Charging Policy for adult social care \nin a person\u2019s own home or in the community(External link) . This policy does not impact on \npeople who live in and receive care and support in a residential care home.  \nKCC is facing a large increase in the cost of providing services and ever -increasing \ndemand for services and needs to find ways to make these services sustainable. One \npossibility is to make changes to the Adult Social Care Charging Policy. You can find more \ninformation about this  here. \nWhat are these consultations about?  \nKCC is reviewing how much people may have to pay towards the chargeable care and\n\n[Document 8] From https://www (pdf) - URL: https://www.kent.gov.uk/social-care-and-health/information-for-social-care-professionals/adult-social-care-provider-bulletins - 10 pages [Retrieved via: semantic_original]:\n[Page 1 - FINANCIAL/BUDGET INFORMATION]\n \n  \n \n Thursday 22 February  2024 \n \n   \n  \n Adult Social Care Charging Policy consultation   \n \n \n \n \n \nKent County Council (KCC) provides adult social care services to approximately 16,394 \nresidents aged over 18 years old. Approximately 15,806 of these people receive \nchargeable social care services.  \nWhen people living in Kent need adult social care, as well as assessing their care needs, \nwe also assess their income to decide how much they pay towards their care. Some \npeople don\u2019t pay anything, and the council picks up all of the cost, some people pay a \ncontribution, and some people pay for all of their care (these people are known as self -\nfunders).  \nKCC sets out what and how people need to pay in the Charging Policy for adult social care \nin a person\u2019s own home or in the community(External link) . This policy does not impact on \npeople who live in and receive care and support in a residential care home.\n\n[Document 9] From https://www (pdf) - URL: https://www.kent.gov.uk/social-care-and-health/adult-social-care/social-care-reform - 16 pages [Retrieved via: financial_enhanced]:\ncost of care in Kent. In conclusion, the County Council does not intend to rely solely on the information in this submission as part of its future fee setting strategy and is \ntreating this as a data gathering exercise with the market at this stage.  The County Council\u2019s fee setting strategy will continue to be informed by a range of economic, \nfiscal and market factors taking into account legislative requirements.  \nThis document will provide the detail for Kent County Council\u2019s Fair Cost of Care \nexercise and the outputs and conclusion of the results.  \nGeography of Kent  \n \nWith a resident population of 1,589,100 Kent has the largest population of all the English counties. Over the past 10 years Kent's population has grown by 9.4% between 2010 and 2020, above the average both for the South East (7.5%) and for \nEngland (7.4%).  Kent\u2019s population is forecast to increase by a further 19% between \n2019 and 2039.  \nKent has an aging population. Forecasts show that the number of 65+ year olds is\n\n[Document 10] From https://www (pdf) - URL: https://www.kent.gov.uk/social-care-and-health/adult-social-care/local-account-for-adult-social-care - 36 pages [Retrieved via: semantic_expanded_1]:\nfuture of adult social care.\nWe currently have 160 people signed up to our network and we hope you \nwill be part of it.Our People\u2019s Panel, \nLearning Disability \nPartnership Board and Your \nVoice Network are here to \nmake your voice heard in \nadult social care.\n",
+  "answer": "**Summary:** The costs of care services in Kent are determined by an individual's financial assessment, which decides how much they contribute towards their care. Some residents pay nothing, while others contribute partially or fully, depending on their income and assets.\n\n**Details:**\n\n- **Payment Structure:** According to Kent County Council's Charging Policy, residents' payments for adult social care are based on an assessment of their income. This determines whether they pay nothing, contribute partially, or pay the full cost of their care. Those who pay the full cost are referred to as \"self-funders\" (Documents 7 and 8).\n\n- **Funding and Budget:** The council is facing increased costs and demand for services, which may lead to changes in the Adult Social Care Charging Policy to ensure sustainability (Document 7).\n\n- **Financial Support:** The council provides financial support for those who cannot afford to pay for their care, ensuring that services are accessible to all who need them (Documents 7 and 8).\n\n**Practical Next Steps:**\n\n- For more information on the Charging Policy and how payments are calculated, residents can visit the Kent County Council's adult social care page: [Kent Adult Social Care](https://www.kent.gov.uk/social-care-and-health/adult-social-care).\n\n- Residents can also contact the council directly for personalized advice and support regarding their care costs and financial assessments.",
+  "metrics": {
+    "duration_seconds": 10.882563829421997,
+    "retrieved_docs_count": 10,
+    "query_length": 88,
+    "answer_length": 1435,
+    "retrieval_method": "enhanced",
+    "context_utilization": 0.13473684210526315,
+    "citations_count": 1,
+    "has_citations": true,
+    "query_relevance": 0.8181818181818182,
+    "unique_retrieval_methods": 4,
+    "budget_documents_retrieved": 10,
+    "retrieval_methods_used": [
+      "semantic_expanded_2",
+      "financial_enhanced",
+      "semantic_original",
+      "semantic_expanded_1"
+    ],
+    "retrieval_method_distribution": {
+      "semantic_expanded_1": 4,
+      "semantic_expanded_2": 3,
+      "financial_enhanced": 2,
+      "semantic_original": 1
+    }
+  },
+  "local_authority": "kent",
+  "query_id": "std_3",
+  "retrieval_method": "enhanced",
+  "run_id": "3128d381-d5d4-4ef9-82e6-a9aa49de5ccb",
+  "trace": {
+    "run_id": "3128d381-d5d4-4ef9-82e6-a9aa49de5ccb",
+    "project": "social_care_rag",
+    "url": "https://eu.smith.langchain.com/o/me/runs/3128d381-d5d4-4ef9-82e6-a9aa49de5ccb"
+  },
+  "test_metadata": {
+    "local_authority": "kent",
+    "query_id": "std_3",
+    "query_category": "service_standard",
+    "prompt_variation": "optimized",
+    "prompt_template": "\nPlease answer the following question about social care services in UK local authorities based only on the information in the provided documents.\n\nQuestion: {query}\n\nContext from relevant documents:\n{context}\n\nInstructions:\n1. Provide a clear, direct answer that would help someone needing this information. If information isn't available, state: \"The available documents don't provide specific information about [aspect].\"\n\n2. Synthesize information from ALL relevant documents to provide the most complete answer rather than analyzing documents individually.\n\n3. Structure your response with:\n   - A concise 1-2 sentence summary first\n   - Relevant details organized in short, clear paragraphs\n   - Bullet points for lists or step-by-step information\n   - Bold text for key information the user should notice\n\n4. For financial information:\n   - Include exact figures, time periods, and what the funding covers\n   - Present financial data clearly: \"The adult social care budget is **\u00a3X million** for [time period]\"\n\n5. Always include practical next steps or resources:\n   - Provide contact information, URLs, or application methods mentioned in the documents\n   - Suggest where the person could find more information\n\n6. When citing sources, use a simple format: \"According to [document name/description]\" or include URLs where available.\n\nAnswer:\n",
+    "processing_time": 10.884868144989014,
+    "timestamp": "2025-08-19T13:45:48.892240",
+    "top_k": 10
+  }
+}

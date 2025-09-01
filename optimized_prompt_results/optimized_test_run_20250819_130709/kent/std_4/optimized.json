@@ -1,0 +1,335 @@
+{
+  "query": "What additional resources and support services are available for social care users in kent, including advocacy and complaints services?",
+  "retrieved_documents": [
+    {
+      "content": "guidance on adult social care in Kent.  \nThere are sections on support in the home and community, caring for \nsomeone, health and wellbeing, housing, getting out and about, money \nand legal as well as a community directory of services in your area.  \nhttps://kent.connecttosupport.org",
+      "metadata": {
+        "chunk_id": 2,
+        "contains_financial_info": true,
+        "download_url": "https://www.kent.gov.uk/__data/assets/pdf_file/0003/17616/Your-guide-to-adult-social-care-in-Kent.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Your-guide-to-adult-social-care-in-Kent.pdf",
+        "financial_pages": "[5, 6, 8, 10, 13, 15, 17, 23, 24, 25, 29, 30, 31, 32, 33, 37]",
+        "level": "level_2",
+        "page_count": 39,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39]",
+        "source": "https://www.kent.gov.uk/social-care-and-health/adult-social-care",
+        "source_url": "https://www.kent.gov.uk/social-care-and-health/adult-social-care",
+        "total_chunks": 72,
+        "type": "pdf"
+      },
+      "id": "9c15eb8b-03af-44d6-b385-3f50397c93c2",
+      "distance": 0.38928720355033875,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.21161383893489838,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "guidance on adult social care in Kent.  \nThere are sections on support in the home and community, caring for \nsomeone, health and wellbeing, housing, getting out and about, money \nand legal as well as a community directory of services in your area.  \nhttps://kent.connecttosupport.org",
+      "metadata": {
+        "chunk_id": 2,
+        "contains_financial_info": true,
+        "download_url": "https://www.kent.gov.uk/__data/assets/pdf_file/0003/17616/Your-guide-to-adult-social-care-in-Kent.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Your-guide-to-adult-social-care-in-Kent.pdf",
+        "financial_pages": "[5, 6, 8, 10, 13, 15, 17, 23, 24, 25, 29, 30, 31, 32, 33, 37]",
+        "level": "level_0",
+        "page_count": 39,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39]",
+        "source": "https://www.kent.gov.uk/social-care-and-health/adult-social-care",
+        "source_url": "https://www.kent.gov.uk/social-care-and-health/adult-social-care",
+        "total_chunks": 72,
+        "type": "pdf"
+      },
+      "id": "684434c7-0090-45d7-afcf-1279fa9fcdf7",
+      "distance": 0.38928720355033875,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.21161383893489838,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 15 - FINANCIAL/BUDGET INFORMATION]\n   \n \nYour guide to Kent adult social care 202 4  15 \n \u2022 advising you on community support services available, including \nsocial and peer support groups  \n\u2022 providing information and advice, or signposting to independent \nand voluntary sector organisations.  \n \nServices for people with mental health issues  \n \nFor most people who experience mental health problems, the first place \nto get help should be their doctor, who can refer them to other \nprofessionals or organisations if needed.  \nWe work together with the Kent and Medway Partnership Trust and a \nnetwork of mental health services across the county to provide mental \nhealth services to support people with day -to-day living, socialising, \neducation, training, employment, and housing.  \nThe aim is to support people in the community in order that they regain \ntheir independence, maximize their well -being and improve their quality \nof life.",
+      "metadata": {
+        "chunk_id": 33,
+        "contains_financial_info": true,
+        "download_url": "https://www.kent.gov.uk/__data/assets/pdf_file/0003/17616/Your-guide-to-adult-social-care-in-Kent.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Your-guide-to-adult-social-care-in-Kent.pdf",
+        "financial_pages": "[5, 6, 8, 10, 13, 15, 17, 23, 24, 25, 29, 30, 31, 32, 33, 37]",
+        "level": "level_2",
+        "page_count": 39,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39]",
+        "source": "https://www.kent.gov.uk/social-care-and-health/adult-social-care",
+        "source_url": "https://www.kent.gov.uk/social-care-and-health/adult-social-care",
+        "total_chunks": 72,
+        "type": "pdf"
+      },
+      "id": "aee19063-3798-4c3c-b662-aa896bafcf88",
+      "distance": 0.4620771110057831,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.21137686669826505,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 15 - FINANCIAL/BUDGET INFORMATION]\n   \n \nYour guide to Kent adult social care 202 4  15 \n \u2022 advising you on community support services available, including \nsocial and peer support groups  \n\u2022 providing information and advice, or signposting to independent \nand voluntary sector organisations.  \n \nServices for people with mental health issues  \n \nFor most people who experience mental health problems, the first place \nto get help should be their doctor, who can refer them to other \nprofessionals or organisations if needed.  \nWe work together with the Kent and Medway Partnership Trust and a \nnetwork of mental health services across the county to provide mental \nhealth services to support people with day -to-day living, socialising, \neducation, training, employment, and housing.  \nThe aim is to support people in the community in order that they regain \ntheir independence, maximize their well -being and improve their quality \nof life.",
+      "metadata": {
+        "chunk_id": 33,
+        "contains_financial_info": true,
+        "download_url": "https://www.kent.gov.uk/__data/assets/pdf_file/0003/17616/Your-guide-to-adult-social-care-in-Kent.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Your-guide-to-adult-social-care-in-Kent.pdf",
+        "financial_pages": "[5, 6, 8, 10, 13, 15, 17, 23, 24, 25, 29, 30, 31, 32, 33, 37]",
+        "level": "level_0",
+        "page_count": 39,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39]",
+        "source": "https://www.kent.gov.uk/social-care-and-health/adult-social-care",
+        "source_url": "https://www.kent.gov.uk/social-care-and-health/adult-social-care",
+        "total_chunks": 72,
+        "type": "pdf"
+      },
+      "id": "15b64d64-4dc6-4d4c-a99a-9596cbea5c1b",
+      "distance": 0.4620771110057831,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.21137686669826505,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 2]\n   \n \nYour guide to Kent adult social care 202 4  2 \n About this booklet  \n \nThis booklet tells you about what support you and your carer can get \nfrom adult social services in Kent.  \nWe include information on needs assessments, carer\u2019s assessments \nand what care and support is available to enable you to live a life which \nis as full and independent as possible.  \nThere is also a section on useful contacts for other organisations. This \nwill help you explore other options that you may not thought of, but \nwould have a positive impact on your wellbeing.  \nThis booklet is available in alternative formats and can be explained in \nother languages. Please call:  \nTelephone: 03000 41 61 61  \nText relay: 18001 03000 41 61 61  \n \nKent Connect to Support  \nKent Connect to Support is the place to find information, advice and \nguidance on adult social care in Kent.  \nThere are sections on support in the home and community, caring for \nsomeone, health and wellbeing, housing, getting out and about, money",
+      "metadata": {
+        "chunk_id": 1,
+        "contains_financial_info": true,
+        "download_url": "https://www.kent.gov.uk/__data/assets/pdf_file/0003/17616/Your-guide-to-adult-social-care-in-Kent.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Your-guide-to-adult-social-care-in-Kent.pdf",
+        "financial_pages": "[5, 6, 8, 10, 13, 15, 17, 23, 24, 25, 29, 30, 31, 32, 33, 37]",
+        "level": "level_2",
+        "page_count": 39,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39]",
+        "source": "https://www.kent.gov.uk/social-care-and-health/adult-social-care",
+        "source_url": "https://www.kent.gov.uk/social-care-and-health/adult-social-care",
+        "total_chunks": 72,
+        "type": "pdf"
+      },
+      "id": "66ae8824-2576-4865-8f62-31146b762fef",
+      "distance": 0.4704238176345825,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.20887285470962524,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 2]\n   \n \nYour guide to Kent adult social care 202 4  2 \n About this booklet  \n \nThis booklet tells you about what support you and your carer can get \nfrom adult social services in Kent.  \nWe include information on needs assessments, carer\u2019s assessments \nand what care and support is available to enable you to live a life which \nis as full and independent as possible.  \nThere is also a section on useful contacts for other organisations. This \nwill help you explore other options that you may not thought of, but \nwould have a positive impact on your wellbeing.  \nThis booklet is available in alternative formats and can be explained in \nother languages. Please call:  \nTelephone: 03000 41 61 61  \nText relay: 18001 03000 41 61 61  \n \nKent Connect to Support  \nKent Connect to Support is the place to find information, advice and \nguidance on adult social care in Kent.  \nThere are sections on support in the home and community, caring for \nsomeone, health and wellbeing, housing, getting out and about, money",
+      "metadata": {
+        "chunk_id": 1,
+        "contains_financial_info": true,
+        "download_url": "https://www.kent.gov.uk/__data/assets/pdf_file/0003/17616/Your-guide-to-adult-social-care-in-Kent.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Your-guide-to-adult-social-care-in-Kent.pdf",
+        "financial_pages": "[5, 6, 8, 10, 13, 15, 17, 23, 24, 25, 29, 30, 31, 32, 33, 37]",
+        "level": "level_0",
+        "page_count": 39,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39]",
+        "source": "https://www.kent.gov.uk/social-care-and-health/adult-social-care",
+        "source_url": "https://www.kent.gov.uk/social-care-and-health/adult-social-care",
+        "total_chunks": 72,
+        "type": "pdf"
+      },
+      "id": "9419f686-b3a5-4c36-ac58-f59a1bc5c353",
+      "distance": 0.4704238176345825,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.20887285470962524,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "social care in Kent and would like us to keep you updated about \nopportunities to get involved, receive our newsletter or link you up with our \nlived experience groups.   \n \nPlease join our Your voice network  online or contact \nmakingadifference@kent.gov.uk to speak to a member of the team.  \n \n   \n \n We\u2019d love to hear from you!  \n \nOur mailing address is:  \nStakeholderteam@kent.gov.uk",
+      "metadata": {
+        "chunk_id": 23,
+        "contains_financial_info": true,
+        "download_url": "https://www.kent.gov.uk/__data/assets/pdf_file/0006/163896/ASC-provider-bulletin-22-February-2024.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "ASC-provider-bulletin-22-February-2024.pdf",
+        "financial_pages": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]",
+        "level": "level_2",
+        "page_count": 10,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]",
+        "source": "https://www.kent.gov.uk/social-care-and-health/information-for-social-care-professionals/adult-social-care-provider-bulletins",
+        "source_url": "https://www.kent.gov.uk/social-care-and-health/information-for-social-care-professionals/adult-social-care-provider-bulletins",
+        "total_chunks": 24,
+        "type": "pdf"
+      },
+      "id": "43992dcb-c5c4-4aec-8709-1d0b6ee754f8",
+      "distance": 0.4447651207447052,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.20547046377658842,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "www.kent.gov.uk and search \u2018adult social care and health privacy notice\u2019  \n \nYour voice in adult social care  \n \nWould you like to get involved in shaping adult social care in Kent?  \nWe are always looking for innovative ways to improve our services, \nrespond to change and work with and listen to the people of Kent and \nwork in partnership with other organisations to deliver the best possible \nresults.  \nYou may have experiences you can share with us because you have \nhad support from adult social care services, you might be caring for \nsomeone who needs some extra help or you might just want to tell us \nyour ideas for how we can do things differently.  \nWhatever your reason, get in touch to help us to shape the future of \nsocial care - we\u2019re listening.  \nJoin us at: www.kent.gov.uk/yourvoice",
+      "metadata": {
+        "chunk_id": 48,
+        "contains_financial_info": true,
+        "download_url": "https://www.kent.gov.uk/__data/assets/pdf_file/0003/17616/Your-guide-to-adult-social-care-in-Kent.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Your-guide-to-adult-social-care-in-Kent.pdf",
+        "financial_pages": "[5, 6, 8, 10, 13, 15, 17, 23, 24, 25, 29, 30, 31, 32, 33, 37]",
+        "level": "level_2",
+        "page_count": 39,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39]",
+        "source": "https://www.kent.gov.uk/social-care-and-health/adult-social-care",
+        "source_url": "https://www.kent.gov.uk/social-care-and-health/adult-social-care",
+        "total_chunks": 72,
+        "type": "pdf"
+      },
+      "id": "d6bf8e02-9f4e-474f-a35b-b1d667bd40a9",
+      "distance": 0.4831017255783081,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.20506948232650757,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "www.kent.gov.uk and search \u2018adult social care and health privacy notice\u2019  \n \nYour voice in adult social care  \n \nWould you like to get involved in shaping adult social care in Kent?  \nWe are always looking for innovative ways to improve our services, \nrespond to change and work with and listen to the people of Kent and \nwork in partnership with other organisations to deliver the best possible \nresults.  \nYou may have experiences you can share with us because you have \nhad support from adult social care services, you might be caring for \nsomeone who needs some extra help or you might just want to tell us \nyour ideas for how we can do things differently.  \nWhatever your reason, get in touch to help us to shape the future of \nsocial care - we\u2019re listening.  \nJoin us at: www.kent.gov.uk/yourvoice",
+      "metadata": {
+        "chunk_id": 48,
+        "contains_financial_info": true,
+        "download_url": "https://www.kent.gov.uk/__data/assets/pdf_file/0003/17616/Your-guide-to-adult-social-care-in-Kent.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Your-guide-to-adult-social-care-in-Kent.pdf",
+        "financial_pages": "[5, 6, 8, 10, 13, 15, 17, 23, 24, 25, 29, 30, 31, 32, 33, 37]",
+        "level": "level_0",
+        "page_count": 39,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39]",
+        "source": "https://www.kent.gov.uk/social-care-and-health/adult-social-care",
+        "source_url": "https://www.kent.gov.uk/social-care-and-health/adult-social-care",
+        "total_chunks": 72,
+        "type": "pdf"
+      },
+      "id": "e33647ed-fe99-405f-9bd3-e29a89df1fa1",
+      "distance": 0.4831017255783081,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.20506948232650757,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "based social care teams who are forging stronger links in the areas they \ncover. We have continued to drive our vision forwards, supporting people \nto live as full and safe a life as possible and make informed choices.\nSocial care and health are more prominent than ever in our daily \nlives. Our staff have worked hard to respond to rising demand whilst \nimplementing key changes and putting the person at the heart of what \nthey do. We have a renewed commitment to celebrating diversity and \nequality in social care and there is plenty to reflect on and be proud \nof. We must remember that caring is not only about organisations like \nours, we can each make an individual difference where we live to look \nout for others in our community and signpost to support. In this local \naccount, you will find details of the new Kent Connect to Support \nwebsite that offers information, advice and guidance about staying well \nand remaining independent, so please do spread the word.  You can also",
+      "metadata": {
+        "chunk_id": 4,
+        "contains_financial_info": true,
+        "download_url": "https://www.kent.gov.uk/__data/assets/pdf_file/0014/144140/Local-Account-adult-social-care-.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Local-Account-adult-social-care-.pdf",
+        "financial_pages": "[3, 4, 5, 10, 16, 18, 19, 23, 25, 31, 32]",
+        "level": "level_2",
+        "page_count": 36,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36]",
+        "source": "https://www.kent.gov.uk/social-care-and-health/adult-social-care/local-account-for-adult-social-care",
+        "source_url": "https://www.kent.gov.uk/social-care-and-health/adult-social-care/local-account-for-adult-social-care",
+        "total_chunks": 57,
+        "type": "pdf"
+      },
+      "id": "9699cf96-5ccb-4a89-a2dc-4019455103f7",
+      "distance": 0.48573851585388184,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.20427844524383543,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    }
+  ],
+  "context": "[Document 1] From https://www (pdf) - URL: https://www.kent.gov.uk/social-care-and-health/adult-social-care - 39 pages [Retrieved via: semantic_original]:\nguidance on adult social care in Kent.  \nThere are sections on support in the home and community, caring for \nsomeone, health and wellbeing, housing, getting out and about, money \nand legal as well as a community directory of services in your area.  \nhttps://kent.connecttosupport.org\n\n[Document 2] From https://www (pdf) - URL: https://www.kent.gov.uk/social-care-and-health/adult-social-care - 39 pages [Retrieved via: semantic_original]:\nguidance on adult social care in Kent.  \nThere are sections on support in the home and community, caring for \nsomeone, health and wellbeing, housing, getting out and about, money \nand legal as well as a community directory of services in your area.  \nhttps://kent.connecttosupport.org\n\n[Document 3] From https://www (pdf) - URL: https://www.kent.gov.uk/social-care-and-health/adult-social-care - 39 pages [Retrieved via: semantic_original]:\n[Page 15 - FINANCIAL/BUDGET INFORMATION]\n   \n \nYour guide to Kent adult social care 202 4  15 \n \u2022 advising you on community support services available, including \nsocial and peer support groups  \n\u2022 providing information and advice, or signposting to independent \nand voluntary sector organisations.  \n \nServices for people with mental health issues  \n \nFor most people who experience mental health problems, the first place \nto get help should be their doctor, who can refer them to other \nprofessionals or organisations if needed.  \nWe work together with the Kent and Medway Partnership Trust and a \nnetwork of mental health services across the county to provide mental \nhealth services to support people with day -to-day living, socialising, \neducation, training, employment, and housing.  \nThe aim is to support people in the community in order that they regain \ntheir independence, maximize their well -being and improve their quality \nof life.\n\n[Document 4] From https://www (pdf) - URL: https://www.kent.gov.uk/social-care-and-health/adult-social-care - 39 pages [Retrieved via: semantic_original]:\n[Page 15 - FINANCIAL/BUDGET INFORMATION]\n   \n \nYour guide to Kent adult social care 202 4  15 \n \u2022 advising you on community support services available, including \nsocial and peer support groups  \n\u2022 providing information and advice, or signposting to independent \nand voluntary sector organisations.  \n \nServices for people with mental health issues  \n \nFor most people who experience mental health problems, the first place \nto get help should be their doctor, who can refer them to other \nprofessionals or organisations if needed.  \nWe work together with the Kent and Medway Partnership Trust and a \nnetwork of mental health services across the county to provide mental \nhealth services to support people with day -to-day living, socialising, \neducation, training, employment, and housing.  \nThe aim is to support people in the community in order that they regain \ntheir independence, maximize their well -being and improve their quality \nof life.\n\n[Document 5] From https://www (pdf) - URL: https://www.kent.gov.uk/social-care-and-health/adult-social-care - 39 pages [Retrieved via: semantic_original]:\n[Page 2]\n   \n \nYour guide to Kent adult social care 202 4  2 \n About this booklet  \n \nThis booklet tells you about what support you and your carer can get \nfrom adult social services in Kent.  \nWe include information on needs assessments, carer\u2019s assessments \nand what care and support is available to enable you to live a life which \nis as full and independent as possible.  \nThere is also a section on useful contacts for other organisations. This \nwill help you explore other options that you may not thought of, but \nwould have a positive impact on your wellbeing.  \nThis booklet is available in alternative formats and can be explained in \nother languages. Please call:  \nTelephone: 03000 41 61 61  \nText relay: 18001 03000 41 61 61  \n \nKent Connect to Support  \nKent Connect to Support is the place to find information, advice and \nguidance on adult social care in Kent.  \nThere are sections on support in the home and community, caring for \nsomeone, health and wellbeing, housing, getting out and about, money\n\n[Document 6] From https://www (pdf) - URL: https://www.kent.gov.uk/social-care-and-health/adult-social-care - 39 pages [Retrieved via: semantic_original]:\n[Page 2]\n   \n \nYour guide to Kent adult social care 202 4  2 \n About this booklet  \n \nThis booklet tells you about what support you and your carer can get \nfrom adult social services in Kent.  \nWe include information on needs assessments, carer\u2019s assessments \nand what care and support is available to enable you to live a life which \nis as full and independent as possible.  \nThere is also a section on useful contacts for other organisations. This \nwill help you explore other options that you may not thought of, but \nwould have a positive impact on your wellbeing.  \nThis booklet is available in alternative formats and can be explained in \nother languages. Please call:  \nTelephone: 03000 41 61 61  \nText relay: 18001 03000 41 61 61  \n \nKent Connect to Support  \nKent Connect to Support is the place to find information, advice and \nguidance on adult social care in Kent.  \nThere are sections on support in the home and community, caring for \nsomeone, health and wellbeing, housing, getting out and about, money\n\n[Document 7] From https://www (pdf) - URL: https://www.kent.gov.uk/social-care-and-health/information-for-social-care-professionals/adult-social-care-provider-bulletins - 10 pages [Retrieved via: semantic_original]:\nsocial care in Kent and would like us to keep you updated about \nopportunities to get involved, receive our newsletter or link you up with our \nlived experience groups.   \n \nPlease join our Your voice network  online or contact \nmakingadifference@kent.gov.uk to speak to a member of the team.  \n \n   \n \n We\u2019d love to hear from you!  \n \nOur mailing address is:  \nStakeholderteam@kent.gov.uk\n\n[Document 8] From https://www (pdf) - URL: https://www.kent.gov.uk/social-care-and-health/adult-social-care - 39 pages [Retrieved via: semantic_original]:\nwww.kent.gov.uk and search \u2018adult social care and health privacy notice\u2019  \n \nYour voice in adult social care  \n \nWould you like to get involved in shaping adult social care in Kent?  \nWe are always looking for innovative ways to improve our services, \nrespond to change and work with and listen to the people of Kent and \nwork in partnership with other organisations to deliver the best possible \nresults.  \nYou may have experiences you can share with us because you have \nhad support from adult social care services, you might be caring for \nsomeone who needs some extra help or you might just want to tell us \nyour ideas for how we can do things differently.  \nWhatever your reason, get in touch to help us to shape the future of \nsocial care - we\u2019re listening.  \nJoin us at: www.kent.gov.uk/yourvoice\n\n[Document 9] From https://www (pdf) - URL: https://www.kent.gov.uk/social-care-and-health/adult-social-care - 39 pages [Retrieved via: semantic_original]:\nwww.kent.gov.uk and search \u2018adult social care and health privacy notice\u2019  \n \nYour voice in adult social care  \n \nWould you like to get involved in shaping adult social care in Kent?  \nWe are always looking for innovative ways to improve our services, \nrespond to change and work with and listen to the people of Kent and \nwork in partnership with other organisations to deliver the best possible \nresults.  \nYou may have experiences you can share with us because you have \nhad support from adult social care services, you might be caring for \nsomeone who needs some extra help or you might just want to tell us \nyour ideas for how we can do things differently.  \nWhatever your reason, get in touch to help us to shape the future of \nsocial care - we\u2019re listening.  \nJoin us at: www.kent.gov.uk/yourvoice\n\n[Document 10] From https://www (pdf) - URL: https://www.kent.gov.uk/social-care-and-health/adult-social-care/local-account-for-adult-social-care - 36 pages [Retrieved via: semantic_original]:\nbased social care teams who are forging stronger links in the areas they \ncover. We have continued to drive our vision forwards, supporting people \nto live as full and safe a life as possible and make informed choices.\nSocial care and health are more prominent than ever in our daily \nlives. Our staff have worked hard to respond to rising demand whilst \nimplementing key changes and putting the person at the heart of what \nthey do. We have a renewed commitment to celebrating diversity and \nequality in social care and there is plenty to reflect on and be proud \nof. We must remember that caring is not only about organisations like \nours, we can each make an individual difference where we live to look \nout for others in our community and signpost to support. In this local \naccount, you will find details of the new Kent Connect to Support \nwebsite that offers information, advice and guidance about staying well \nand remaining independent, so please do spread the word.  You can also\n",
+  "answer": "In Kent, additional resources and support services for social care users include community support services, advocacy, and complaints services. These services aim to help individuals live independently and improve their well-being.\n\n- **Community Support Services**: Kent provides information and advice on available community support services, including social and peer support groups. This is facilitated through the Kent Connect to Support website, which offers guidance on various aspects of adult social care, such as health and wellbeing, housing, and financial advice. You can access this resource at [Kent Connect to Support](https://kent.connecttosupport.org).\n\n- **Advocacy Services**: While specific advocacy services are not detailed in the documents, Kent County Council collaborates with independent and voluntary sector organizations to provide support. For more information, you can contact Kent County Council's adult social care services at **03000 41 61 61** or via text relay at **18001 03000 41 61 61**.\n\n- **Complaints Services**: The documents do not explicitly mention complaints services, but typically, local authorities have procedures in place for handling complaints related to social care. You can reach out to Kent County Council directly to inquire about their complaints process.\n\n- **Mental Health Services**: Kent works with the Kent and Medway Partnership Trust and a network of mental health services to support individuals with mental health issues, focusing on day-to-day living, socializing, education, training, employment, and housing.\n\nFor further involvement or to provide feedback on social care services, you can join the \"Your Voice\" network at [www.kent.gov.uk/yourvoice](https://www.kent.gov.uk/yourvoice).\n\nFor more detailed information or to explore additional options, visiting the Kent County Council's website or contacting their social care services directly would be beneficial.",
+  "metrics": {
+    "duration_seconds": 22.260787963867188,
+    "retrieved_docs_count": 10,
+    "query_length": 135,
+    "answer_length": 1934,
+    "retrieval_method": "enhanced",
+    "context_utilization": 0.28135593220338984,
+    "citations_count": 1,
+    "has_citations": true,
+    "query_relevance": 0.9230769230769231,
+    "unique_retrieval_methods": 1,
+    "budget_documents_retrieved": 10,
+    "retrieval_methods_used": [
+      "semantic_original"
+    ],
+    "retrieval_method_distribution": {
+      "semantic_original": 10
+    }
+  },
+  "local_authority": "kent",
+  "query_id": "std_4",
+  "retrieval_method": "enhanced",
+  "run_id": "44bece59-921f-4374-9d45-91aea033192c",
+  "trace": {
+    "run_id": "44bece59-921f-4374-9d45-91aea033192c",
+    "project": "social_care_rag",
+    "url": "https://eu.smith.langchain.com/o/me/runs/44bece59-921f-4374-9d45-91aea033192c"
+  },
+  "test_metadata": {
+    "local_authority": "kent",
+    "query_id": "std_4",
+    "query_category": "service_standard",
+    "prompt_variation": "optimized",
+    "prompt_template": "\nPlease answer the following question about social care services in UK local authorities based only on the information in the provided documents.\n\nQuestion: {query}\n\nContext from relevant documents:\n{context}\n\nInstructions:\n1. Provide a clear, direct answer that would help someone needing this information. If information isn't available, state: \"The available documents don't provide specific information about [aspect].\"\n\n2. Synthesize information from ALL relevant documents to provide the most complete answer rather than analyzing documents individually.\n\n3. Structure your response with:\n   - A concise 1-2 sentence summary first\n   - Relevant details organized in short, clear paragraphs\n   - Bullet points for lists or step-by-step information\n   - Bold text for key information the user should notice\n\n4. For financial information:\n   - Include exact figures, time periods, and what the funding covers\n   - Present financial data clearly: \"The adult social care budget is **\u00a3X million** for [time period]\"\n\n5. Always include practical next steps or resources:\n   - Provide contact information, URLs, or application methods mentioned in the documents\n   - Suggest where the person could find more information\n\n6. When citing sources, use a simple format: \"According to [document name/description]\" or include URLs where available.\n\nAnswer:\n",
+    "processing_time": 22.264411211013794,
+    "timestamp": "2025-08-19T13:46:12.597352",
+    "top_k": 10
+  }
+}

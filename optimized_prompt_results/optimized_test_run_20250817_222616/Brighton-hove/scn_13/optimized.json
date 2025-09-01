@@ -1,0 +1,311 @@
+{
+  "query": "I work full-time but also care for my elderly father with Parkinson's in Brighton-hove. What respite care options exist so I can have occasional breaks?",
+  "retrieved_documents": [
+    {
+      "content": ". Find out what you can do to reduce your risk of falling over , and where to get support. Support for carers The Carers Hub list a range of services for carers that look after someone in Brighton & Hove . Find information about services, and request a carers assessment , on the Carers Hub website. Get support from Adult social care If you have a physical disability, mental health condition or illness, you could get care and support from Adult Social Care . They can also help with: safety at home transport and getting around the city equipment for\u00a0daily living More information Find local support groups and activitie s\u00a0on the Adult Social Care directory. Find more activities and services that support disabled and older people on the It\u2019s Local Actually directory.",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.brighton-hove.gov.uk_adult-social-care-hub_be-part-your-community_help-age-well.txt",
+        "level": "level_2",
+        "source": "https://www.brighton-hove.gov.uk/adult-social-care-hub/be-part-your-community/help-age-well",
+        "source_url": "https://www.brighton-hove.gov.uk/adult-social-care-hub/be-part-your-community/help-age-well",
+        "total_chunks": 3,
+        "type": "web_page"
+      },
+      "id": "47a5b885-c376-433d-ab6e-0174a21d42fe",
+      "distance": 0.7649651765823364,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.12051044702529908,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 48]\n48 \n  \nf) Utilisation of day services \u2013 At the time of visits for the needs assessment \nsome of the day services were working at approximately half to a third under \noccupancy. Some interviewees also felt there was not enough provision for \nday opportunities for people with dementia.  \n \ng) Transport limitations \u2013 The capacity of the day centres visited was limited \nby the accessibility of transport to convey users to the centres. For one centre \nthis could be a very long trip for some centre users , a round trip of up to 3 \nhours (this is not for a dementia specific  day centre) . This could be a barrier \nfor older people including those with dementia to accessing day centres.  \n \nh) Respite \u2013Access to respite is very important to carers but the three mai n \nresidential respite providers in Brighton & Hove all have waiting lists , so that \nthose who can afford it pay for a respite service , rather than waiting. Ireland \nLodge felt there had been an increase in demand for residential respite over",
+      "metadata": {
+        "chunk_id": 133,
+        "contains_financial_info": true,
+        "download_url": "https://www.brighton-hove.gov.uk/sites/default/files/adult%20social%20care/Dementia%20needs%20assessment%20-%2013%20Aug%202019.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Dementia%20needs%20assessment%20-%2013%20Aug%202019.pdf",
+        "financial_pages": "[3, 4, 6, 7, 8, 9, 10, 12, 14, 15, 16, 17, 18, 19, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 32, 33, 34, 35, 37, 40, 41, 42, 43, 44, 46, 50, 51, 52, 54, 55, 56, 57, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 74, 75, 76, 77, 78, 79, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96]",
+        "level": "level_1",
+        "page_count": 98,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98]",
+        "source": "https://www.brighton-hove.gov.uk/adult-social-care-hub/memory-loss",
+        "source_url": "https://www.brighton-hove.gov.uk/adult-social-care-hub/memory-loss",
+        "total_chunks": 284,
+        "type": "pdf"
+      },
+      "id": "7d2c3b6e-3c5e-4a4f-ba5f-f3cdbaccf5f9",
+      "distance": 0.7854660153388977,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.11436019539833069,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "As the MAS starts to systematically identify and diagnose  more people  \nwith dementia and as the population lives longer, there will be an increase \nin the number of people in the city living with mild, moderate and severe \ndementia . Dementia prevalence is projected to be 3,211  by 2020. This will \nplace increased pressure on health and social care for services. At the \nmoment there is felt to be a gap in appropriate services to access,  for the \ndifferent stages of dementia.  \n \n\uf0b7 Provision of respite  \nSome aspects of respite care such as residential respite have waiting lists, \nwhilst other aspects such as day time respite are under utilised. It is also \ndifficult for carers to access planned re spite.  \n \n\uf0b7 Lack of support for people recently diagnosed with dementia or \nmild cognitive impairment and their families.  \nThere is no one specialist information point to signpost carers to for more \ninformation on local services, once a family member has been di agnosed.",
+      "metadata": {
+        "chunk_id": 253,
+        "contains_financial_info": true,
+        "download_url": "https://www.brighton-hove.gov.uk/sites/default/files/adult%20social%20care/Dementia%20needs%20assessment%20-%2013%20Aug%202019.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Dementia%20needs%20assessment%20-%2013%20Aug%202019.pdf",
+        "financial_pages": "[3, 4, 6, 7, 8, 9, 10, 12, 14, 15, 16, 17, 18, 19, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 32, 33, 34, 35, 37, 40, 41, 42, 43, 44, 46, 50, 51, 52, 54, 55, 56, 57, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 74, 75, 76, 77, 78, 79, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96]",
+        "level": "level_1",
+        "page_count": 98,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98]",
+        "source": "https://www.brighton-hove.gov.uk/adult-social-care-hub/memory-loss",
+        "source_url": "https://www.brighton-hove.gov.uk/adult-social-care-hub/memory-loss",
+        "total_chunks": 284,
+        "type": "pdf"
+      },
+      "id": "8f548b95-8eb3-4530-a383-39adaa60c4d8",
+      "distance": 0.8016955636251986,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.10949133091244043,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 7 - FINANCIAL/BUDGET INFORMATION]\n7 \n \n \n \n  \nRespite  \n \nYou said  \n \nSome people said it is hard to get respite care . \n \n \nWhat we did  \n \nWe are looking at respite services so that we know what is \nneeded.  \n \nWe are looking for new ways for carers to get short breaks \nwith carers personal budgets.  \n \n \nFor more help  \n \nContact the Carers Hub for advice on accessing breaks \nfor carers . \n \n01273 234 021  \n \nAccess My Health Matters Project, run by Crossroads \nCare. \n    www.esbhcrossroads.org.uk  \n    bhoffice@esbhcrossroads.org.uk   \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n  \nReliable support  \n \n \nYou said  \nPeople said that they want support in their home to be \nreliable. They want to know who is coming and at what \ntime. \n \nWhat we did  \nWe h eld an event for service providers so that they \nunderstand how important this is .",
+      "metadata": {
+        "chunk_id": 8,
+        "contains_financial_info": true,
+        "download_url": "https://www.brighton-hove.gov.uk/sites/default/files/2022-12/LD%20Easy%20read%20You%20said%20We%20did%20Final%20digi%20version.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "LD%20Easy%20read%20You%20said%20We%20did%20Final%20digi%20version.pdf",
+        "financial_pages": "[1, 3, 6, 7, 8]",
+        "level": "level_3",
+        "page_count": 8,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8]",
+        "source": "https://www.brighton-hove.gov.uk/you-said-we-did-easy-read",
+        "source_url": "https://www.brighton-hove.gov.uk/you-said-we-did-easy-read",
+        "total_chunks": 10,
+        "type": "pdf"
+      },
+      "id": "e8a63c9f-25c2-497a-add3-668207bce762",
+      "distance": 0.8083231449127197,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.10750305652618408,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 13 - FINANCIAL/BUDGET INFORMATION]\nBrighton & Hove Market Sustainability Plan  \nThere are several established services in place, but we are keen to develop new partnerships with \nproviders that may not have delivered this service to date to ensure the right care for people leaving \nhospital . We would like to hear from providers that may be able to offer these services, particularly \nthose who are able to provide nursing care for older adults with dementia, including those who walk \nwith purpose  \n \nWorkforce Development  \nBrighton & Hove City Council recognise the importance of a well -trained and supported workforce in \nthe delivery of excellent adult social care services for our residents.   Significant funding is allocated to \nprovide a full annual training programme to meet the needs of our in -house services and \nindependent and voluntary providers working with Brighton & Hove City Council across the city.",
+      "metadata": {
+        "chunk_id": 39,
+        "contains_financial_info": true,
+        "download_url": "https://www.brighton-hove.gov.uk/sites/default/files/2023-03/BHCC%20Market%20Sustainability%20Plan_0.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "BHCC%20Market%20Sustainability%20Plan_0.pdf",
+        "financial_pages": "[1, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 16]",
+        "level": "level_2",
+        "page_count": 16,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]",
+        "source": "https://www.brighton-hove.gov.uk/adult-social-care/about-adult-social-care/annex-c-final-market-sustainability-plan",
+        "source_url": "https://www.brighton-hove.gov.uk/adult-social-care/about-adult-social-care/annex-c-final-market-sustainability-plan",
+        "total_chunks": 49,
+        "type": "pdf"
+      },
+      "id": "1ec2385a-fdb7-492c-8e94-e0d4c7b4939b",
+      "distance": 0.8273782134056091,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.10178653597831727,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "\u2022 A severe shortage of residential and nursing dementia beds, alongside functional mental \nhealth, which has resulted in large numbers of people being placed out of the city.  \n\u2022 A shortage of long -term planned respite care.  \n\u2022 A shortage of specialist care for people under -65. \n\u2022 Severe financial pressures for both Brighton & Hove City Council and independent providers.  \n\u2022 A care workforce shortage.  \nAll Care Homes  Beds  % \n   \nIndependent Care Home with Nursing  668 33%  \nIndependent Care Home with Dementia Nursing  350 17%  \nIndependent Care Home with Mental Health Nursing  17 1% \nIndependent Care Home without Nursing  347 17%  \nIndependent Care Home Older People Dementia & Mental Health  174 9% \nIndependent Care Home Working Age Mental Health  112 6% \nIndependent Care Home Sensory Loss  44 2% \nIndependent Care Home Acquired Brain Injury/Physical disabilities  31 2% \nBHCC  Care Home (CSTS)  89 4% \nIndependent Care Home Learning Disabilities  139 7% \nBHCC Care Home Learning Disabilities  34 2%",
+      "metadata": {
+        "chunk_id": 1,
+        "contains_financial_info": true,
+        "download_url": "https://www.brighton-hove.gov.uk/sites/default/files/2023-03/BHCC%20Market%20Sustainability%20Plan_0.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "BHCC%20Market%20Sustainability%20Plan_0.pdf",
+        "financial_pages": "[1, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 16]",
+        "level": "level_2",
+        "page_count": 16,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]",
+        "source": "https://www.brighton-hove.gov.uk/adult-social-care/about-adult-social-care/annex-c-final-market-sustainability-plan",
+        "source_url": "https://www.brighton-hove.gov.uk/adult-social-care/about-adult-social-care/annex-c-final-market-sustainability-plan",
+        "total_chunks": 49,
+        "type": "pdf"
+      },
+      "id": "52e4eb72-1b63-403e-8a02-5232b8baaff9",
+      "distance": 0.85037761926651,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.09488671422004699,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Where to get support for carers What it means to be a carer, and where you can get support if you look after someone. What a carer is A carer is someone who provides unpaid support to a family member, child, partner or friend who couldn\u2019t manage daily activities without this help. They don\u2019t have to live in the same house as the person they care for. A carer could support someone who: is ill or frail is disabled has a mental health condition has a learning disability has dementia has a substance misuse problem Find out what help is available for the person you care for . Where to get help for yourself The Council and the Clinical Commissioning Group fund the Carers Hub . They list\u00a0a range of services for\u00a0carers that look after someone in Brighton & Hove. Find information about services, and\u00a0request a carers assessment ,\u00a0on the\u00a0Carers Hub. You can also find local services that support carers on the Health and Adult Social Care directory",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.brighton-hove.gov.uk_node_2011.txt",
+        "level": "level_3",
+        "source": "https://www.brighton-hove.gov.uk/node/2011",
+        "source_url": "https://www.brighton-hove.gov.uk/node/2011",
+        "total_chunks": 3,
+        "type": "web_page"
+      },
+      "id": "66e4353f-a9c4-4b53-9f06-fc2705b0ace5",
+      "distance": 0.8651847839355469,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.09044456481933594,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Where to get support for carers What it means to be a carer, and where you can get support if you look after someone. What a carer is A carer is someone who provides unpaid support to a family member, child, partner or friend who couldn\u2019t manage daily activities without this help. They don\u2019t have to live in the same house as the person they care for. A carer could support someone who: is ill or frail is disabled has a mental health condition has a learning disability has dementia has a substance misuse problem Find out what help is available for the person you care for . Where to get help for yourself The Council and the Clinical Commissioning Group fund the Carers Hub . They list\u00a0a range of services for\u00a0carers that look after someone in Brighton & Hove. Find information about services, and\u00a0request a carers assessment ,\u00a0on the\u00a0Carers Hub. You can also find local services that support carers on the Health and Adult Social Care directory",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.brighton-hove.gov.uk_adult-social-care-hub_support-carers_where-get-support-carers.txt",
+        "level": "level_2",
+        "source": "https://www.brighton-hove.gov.uk/adult-social-care-hub/support-carers/where-get-support-carers",
+        "source_url": "https://www.brighton-hove.gov.uk/adult-social-care-hub/support-carers/where-get-support-carers",
+        "total_chunks": 3,
+        "type": "web_page"
+      },
+      "id": "815aff45-e7ee-4cc2-bd71-7af0e85cf3ff",
+      "distance": 0.8651847839355469,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.09044456481933594,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". If you\u2019re not receiving support from health or adult social care, you might be able to get short-term support. Start your assessment to see if you can get short-term support . The cost of short-term support for more than\u00a0six weeks If you need support for more than six weeks, we\u2019ll do an assessment, and discuss your options with you. We\u2019ll also do a financial assessment,\u00a0to find out how much you\u2019ll need to pay towards the cost of your support . Other services that could help For free, short-term support to people aged 60 and over , contact the\u00a0Age UK Brighton & Hove crisis level 1 service. To get help with your\u00a0confidence to manage everyday tasks, and prevent falls , contact the\u00a0Age UK Brighton & Hove crisis level 2 service. More information Find out about Responsive Services from Sussex Community NHS Foundation Trust. Read the Independence at Home and Reablement Service leaflet .",
+      "metadata": {
+        "chunk_id": 3,
+        "filename": "www.brighton-hove.gov.uk_adult-social-care-hub_care-and-support-home_short-term-support.txt",
+        "level": "level_2",
+        "source": "https://www.brighton-hove.gov.uk/adult-social-care-hub/care-and-support-home/short-term-support",
+        "source_url": "https://www.brighton-hove.gov.uk/adult-social-care-hub/care-and-support-home/short-term-support",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "68b311ae-a1a4-4740-b775-703bf57a8be0",
+      "distance": 0.8688227534294128,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.08935317397117615,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "those who can afford it pay for a respite service , rather than waiting. Ireland \nLodge felt there had been an increase in demand for residential respite over \nthe previous 4 y ears.  \n \nDemand for day time respite showed a different pattern, with lack of demand \nfor the specialist Dementia Crisis Sitting Service leading it to being widened to \na general sitting service. A view was also expressed that the need for day \ntime respite ma y be declining.  \n \ni) Support for Care Homes  \u2013Homes face their greatest difficulty in \nsupporting people with challenging behaviour and don\u2019t know where to get \nsupport from in a crisis.  Information could be shared thr ough the range of \ncare home forums .  \n \nj) Lack of staff training in dementia \u2013 At one older people\u2019s day centre \nvisited for people with low to moderate needs, the staff hadn\u2019t received \ndementia awareness training. It was felt domiciliary care services needed \nmore knowledge about dementia. Pharmaci sts are often a source of",
+      "metadata": {
+        "chunk_id": 134,
+        "contains_financial_info": true,
+        "download_url": "https://www.brighton-hove.gov.uk/sites/default/files/adult%20social%20care/Dementia%20needs%20assessment%20-%2013%20Aug%202019.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Dementia%20needs%20assessment%20-%2013%20Aug%202019.pdf",
+        "financial_pages": "[3, 4, 6, 7, 8, 9, 10, 12, 14, 15, 16, 17, 18, 19, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 32, 33, 34, 35, 37, 40, 41, 42, 43, 44, 46, 50, 51, 52, 54, 55, 56, 57, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 74, 75, 76, 77, 78, 79, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96]",
+        "level": "level_1",
+        "page_count": 98,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98]",
+        "source": "https://www.brighton-hove.gov.uk/adult-social-care-hub/memory-loss",
+        "source_url": "https://www.brighton-hove.gov.uk/adult-social-care-hub/memory-loss",
+        "total_chunks": 284,
+        "type": "pdf"
+      },
+      "id": "33696d7d-0650-46cd-a500-275133e2e3a2",
+      "distance": 0.8728646636009216,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.0881406009197235,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    }
+  ],
+  "context": "[Document 1] From https://www (web_page) - URL: https://www.brighton-hove.gov.uk/adult-social-care-hub/be-part-your-community/help-age-well [Retrieved via: semantic_original]:\n. Find out what you can do to reduce your risk of falling over , and where to get support. Support for carers The Carers Hub list a range of services for carers that look after someone in Brighton & Hove . Find information about services, and request a carers assessment , on the Carers Hub website. Get support from Adult social care If you have a physical disability, mental health condition or illness, you could get care and support from Adult Social Care . They can also help with: safety at home transport and getting around the city equipment for\u00a0daily living More information Find local support groups and activitie s\u00a0on the Adult Social Care directory. Find more activities and services that support disabled and older people on the It\u2019s Local Actually directory.\n\n[Document 2] From https://www (pdf) - URL: https://www.brighton-hove.gov.uk/adult-social-care-hub/memory-loss - 98 pages [Retrieved via: semantic_original]:\n[Page 48]\n48 \n  \nf) Utilisation of day services \u2013 At the time of visits for the needs assessment \nsome of the day services were working at approximately half to a third under \noccupancy. Some interviewees also felt there was not enough provision for \nday opportunities for people with dementia.  \n \ng) Transport limitations \u2013 The capacity of the day centres visited was limited \nby the accessibility of transport to convey users to the centres. For one centre \nthis could be a very long trip for some centre users , a round trip of up to 3 \nhours (this is not for a dementia specific  day centre) . This could be a barrier \nfor older people including those with dementia to accessing day centres.  \n \nh) Respite \u2013Access to respite is very important to carers but the three mai n \nresidential respite providers in Brighton & Hove all have waiting lists , so that \nthose who can afford it pay for a respite service , rather than waiting. Ireland \nLodge felt there had been an increase in demand for residential respite over\n\n[Document 3] From https://www (pdf) - URL: https://www.brighton-hove.gov.uk/adult-social-care-hub/memory-loss - 98 pages [Retrieved via: semantic_original]:\nAs the MAS starts to systematically identify and diagnose  more people  \nwith dementia and as the population lives longer, there will be an increase \nin the number of people in the city living with mild, moderate and severe \ndementia . Dementia prevalence is projected to be 3,211  by 2020. This will \nplace increased pressure on health and social care for services. At the \nmoment there is felt to be a gap in appropriate services to access,  for the \ndifferent stages of dementia.  \n \n\uf0b7 Provision of respite  \nSome aspects of respite care such as residential respite have waiting lists, \nwhilst other aspects such as day time respite are under utilised. It is also \ndifficult for carers to access planned re spite.  \n \n\uf0b7 Lack of support for people recently diagnosed with dementia or \nmild cognitive impairment and their families.  \nThere is no one specialist information point to signpost carers to for more \ninformation on local services, once a family member has been di agnosed.\n\n[Document 4] From https://www (pdf) - URL: https://www.brighton-hove.gov.uk/you-said-we-did-easy-read - 8 pages [Retrieved via: semantic_original]:\n[Page 7 - FINANCIAL/BUDGET INFORMATION]\n7 \n \n \n \n  \nRespite  \n \nYou said  \n \nSome people said it is hard to get respite care . \n \n \nWhat we did  \n \nWe are looking at respite services so that we know what is \nneeded.  \n \nWe are looking for new ways for carers to get short breaks \nwith carers personal budgets.  \n \n \nFor more help  \n \nContact the Carers Hub for advice on accessing breaks \nfor carers . \n \n01273 234 021  \n \nAccess My Health Matters Project, run by Crossroads \nCare. \n    www.esbhcrossroads.org.uk  \n    bhoffice@esbhcrossroads.org.uk   \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n  \nReliable support  \n \n \nYou said  \nPeople said that they want support in their home to be \nreliable. They want to know who is coming and at what \ntime. \n \nWhat we did  \nWe h eld an event for service providers so that they \nunderstand how important this is .\n\n[Document 5] From https://www (pdf) - URL: https://www.brighton-hove.gov.uk/adult-social-care/about-adult-social-care/annex-c-final-market-sustainability-plan - 16 pages [Retrieved via: semantic_original]:\n[Page 13 - FINANCIAL/BUDGET INFORMATION]\nBrighton & Hove Market Sustainability Plan  \nThere are several established services in place, but we are keen to develop new partnerships with \nproviders that may not have delivered this service to date to ensure the right care for people leaving \nhospital . We would like to hear from providers that may be able to offer these services, particularly \nthose who are able to provide nursing care for older adults with dementia, including those who walk \nwith purpose  \n \nWorkforce Development  \nBrighton & Hove City Council recognise the importance of a well -trained and supported workforce in \nthe delivery of excellent adult social care services for our residents.   Significant funding is allocated to \nprovide a full annual training programme to meet the needs of our in -house services and \nindependent and voluntary providers working with Brighton & Hove City Council across the city.\n\n[Document 6] From https://www (pdf) - URL: https://www.brighton-hove.gov.uk/adult-social-care/about-adult-social-care/annex-c-final-market-sustainability-plan - 16 pages [Retrieved via: semantic_original]:\n\u2022 A severe shortage of residential and nursing dementia beds, alongside functional mental \nhealth, which has resulted in large numbers of people being placed out of the city.  \n\u2022 A shortage of long -term planned respite care.  \n\u2022 A shortage of specialist care for people under -65. \n\u2022 Severe financial pressures for both Brighton & Hove City Council and independent providers.  \n\u2022 A care workforce shortage.  \nAll Care Homes  Beds  % \n   \nIndependent Care Home with Nursing  668 33%  \nIndependent Care Home with Dementia Nursing  350 17%  \nIndependent Care Home with Mental Health Nursing  17 1% \nIndependent Care Home without Nursing  347 17%  \nIndependent Care Home Older People Dementia & Mental Health  174 9% \nIndependent Care Home Working Age Mental Health  112 6% \nIndependent Care Home Sensory Loss  44 2% \nIndependent Care Home Acquired Brain Injury/Physical disabilities  31 2% \nBHCC  Care Home (CSTS)  89 4% \nIndependent Care Home Learning Disabilities  139 7% \nBHCC Care Home Learning Disabilities  34 2%\n\n[Document 7] From https://www (web_page) - URL: https://www.brighton-hove.gov.uk/node/2011 [Retrieved via: semantic_original]:\nWhere to get support for carers What it means to be a carer, and where you can get support if you look after someone. What a carer is A carer is someone who provides unpaid support to a family member, child, partner or friend who couldn\u2019t manage daily activities without this help. They don\u2019t have to live in the same house as the person they care for. A carer could support someone who: is ill or frail is disabled has a mental health condition has a learning disability has dementia has a substance misuse problem Find out what help is available for the person you care for . Where to get help for yourself The Council and the Clinical Commissioning Group fund the Carers Hub . They list\u00a0a range of services for\u00a0carers that look after someone in Brighton & Hove. Find information about services, and\u00a0request a carers assessment ,\u00a0on the\u00a0Carers Hub. You can also find local services that support carers on the Health and Adult Social Care directory\n\n[Document 8] From https://www (web_page) - URL: https://www.brighton-hove.gov.uk/adult-social-care-hub/support-carers/where-get-support-carers [Retrieved via: semantic_original]:\nWhere to get support for carers What it means to be a carer, and where you can get support if you look after someone. What a carer is A carer is someone who provides unpaid support to a family member, child, partner or friend who couldn\u2019t manage daily activities without this help. They don\u2019t have to live in the same house as the person they care for. A carer could support someone who: is ill or frail is disabled has a mental health condition has a learning disability has dementia has a substance misuse problem Find out what help is available for the person you care for . Where to get help for yourself The Council and the Clinical Commissioning Group fund the Carers Hub . They list\u00a0a range of services for\u00a0carers that look after someone in Brighton & Hove. Find information about services, and\u00a0request a carers assessment ,\u00a0on the\u00a0Carers Hub. You can also find local services that support carers on the Health and Adult Social Care directory\n\n[Document 9] From https://www (web_page) - URL: https://www.brighton-hove.gov.uk/adult-social-care-hub/care-and-support-home/short-term-support [Retrieved via: semantic_original]:\n. If you\u2019re not receiving support from health or adult social care, you might be able to get short-term support. Start your assessment to see if you can get short-term support . The cost of short-term support for more than\u00a0six weeks If you need support for more than six weeks, we\u2019ll do an assessment, and discuss your options with you. We\u2019ll also do a financial assessment,\u00a0to find out how much you\u2019ll need to pay towards the cost of your support . Other services that could help For free, short-term support to people aged 60 and over , contact the\u00a0Age UK Brighton & Hove crisis level 1 service. To get help with your\u00a0confidence to manage everyday tasks, and prevent falls , contact the\u00a0Age UK Brighton & Hove crisis level 2 service. More information Find out about Responsive Services from Sussex Community NHS Foundation Trust. Read the Independence at Home and Reablement Service leaflet .\n\n[Document 10] From https://www (pdf) - URL: https://www.brighton-hove.gov.uk/adult-social-care-hub/memory-loss - 98 pages [Retrieved via: semantic_original]:\nthose who can afford it pay for a respite service , rather than waiting. Ireland \nLodge felt there had been an increase in demand for residential respite over \nthe previous 4 y ears.  \n \nDemand for day time respite showed a different pattern, with lack of demand \nfor the specialist Dementia Crisis Sitting Service leading it to being widened to \na general sitting service. A view was also expressed that the need for day \ntime respite ma y be declining.  \n \ni) Support for Care Homes  \u2013Homes face their greatest difficulty in \nsupporting people with challenging behaviour and don\u2019t know where to get \nsupport from in a crisis.  Information could be shared thr ough the range of \ncare home forums .  \n \nj) Lack of staff training in dementia \u2013 At one older people\u2019s day centre \nvisited for people with low to moderate needs, the staff hadn\u2019t received \ndementia awareness training. It was felt domiciliary care services needed \nmore knowledge about dementia. Pharmaci sts are often a source of\n",
+  "answer": "If you are caring for your elderly father with Parkinson's in Brighton & Hove and need respite care options, you can explore several avenues for support.\n\n**Summary:** Respite care options in Brighton & Hove include residential respite services, day services, and support through the Carers Hub. However, there may be waiting lists for some services, and private payment might be necessary for quicker access.\n\n**Details:**\n- **Residential Respite Services:** There are three main residential respite providers in Brighton & Hove, but they often have waiting lists. Some people choose to pay privately to access these services sooner (Document 2).\n- **Day Services:** Daytime respite services are underutilized, which might offer an opportunity for you to access support without long waits (Document 3).\n- **Carers Hub:** The Carers Hub provides a range of services for carers in Brighton & Hove. You can request a carer's assessment and find more information about available services through their website (Documents 1 and 7).\n\n**Practical Steps:**\n- **Contact the Carers Hub** for advice on accessing breaks and respite care. They can be reached at **01273 234 021** or through their [website](https://www.brighton-hove.gov.uk/adult-social-care-hub/support-carers/where-get-support-carers) (Document 4).\n- **Explore the \"It's Local Actually\" directory** for more activities and services that support disabled and older people (Document 1).\n\nFor further assistance, you might also consider reaching out to the **Crossroads Care** through their [website](www.esbhcrossroads.org.uk) or via email at **bhoffice@esbhcrossroads.org.uk** for additional support options (Document 4).",
+  "metrics": {
+    "duration_seconds": 9.96937894821167,
+    "retrieved_docs_count": 10,
+    "query_length": 152,
+    "answer_length": 1677,
+    "retrieval_method": "enhanced",
+    "context_utilization": 0.19686800894854586,
+    "citations_count": 0,
+    "has_citations": false,
+    "query_relevance": 0.7391304347826086,
+    "unique_retrieval_methods": 1,
+    "budget_documents_retrieved": 6,
+    "retrieval_methods_used": [
+      "semantic_original"
+    ],
+    "retrieval_method_distribution": {
+      "semantic_original": 10
+    }
+  },
+  "local_authority": "Brighton-hove",
+  "query_id": "scn_13",
+  "retrieval_method": "enhanced",
+  "run_id": "5d7c2e3e-a5bb-4773-8c8d-0ddc91ea2e6c",
+  "trace": {
+    "run_id": "5d7c2e3e-a5bb-4773-8c8d-0ddc91ea2e6c",
+    "project": "social_care_rag",
+    "url": "https://eu.smith.langchain.com/o/me/runs/5d7c2e3e-a5bb-4773-8c8d-0ddc91ea2e6c"
+  },
+  "test_metadata": {
+    "local_authority": "Brighton-hove",
+    "query_id": "scn_13",
+    "query_category": "carer_support_scenarios",
+    "prompt_variation": "optimized",
+    "prompt_template": "\nPlease answer the following question about social care services in UK local authorities based only on the information in the provided documents.\n\nQuestion: {query}\n\nContext from relevant documents:\n{context}\n\nInstructions:\n1. Provide a clear, direct answer that would help someone needing this information. If information isn't available, state: \"The available documents don't provide specific information about [aspect].\"\n\n2. Synthesize information from ALL relevant documents to provide the most complete answer rather than analyzing documents individually.\n\n3. Structure your response with:\n   - A concise 1-2 sentence summary first\n   - Relevant details organized in short, clear paragraphs\n   - Bullet points for lists or step-by-step information\n   - Bold text for key information the user should notice\n\n4. For financial information:\n   - Include exact figures, time periods, and what the funding covers\n   - Present financial data clearly: \"The adult social care budget is **\u00a3X million** for [time period]\"\n\n5. Always include practical next steps or resources:\n   - Provide contact information, URLs, or application methods mentioned in the documents\n   - Suggest where the person could find more information\n\n6. When citing sources, use a simple format: \"According to [document name/description]\" or include URLs where available.\n\nAnswer:\n",
+    "processing_time": 9.972323894500732,
+    "timestamp": "2025-08-17T22:34:51.938285",
+    "top_k": 10
+  }
+}

@@ -1,0 +1,348 @@
+{
+  "query": "My son with learning disabilities is turning 18 in london. How will his financial support change when he transitions to adult services?",
+  "retrieved_documents": [
+    {
+      "content": "[Page 4 - FINANCIAL/BUDGET INFORMATION]\n \n   \n  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n  \n   \n  \n \n \n \n \n \n \n \n \n Adult Social Care \n\uf0b7 165 residents requested support from Adult Social Care Services: Requests for \nhelp have increased by six per cent over the last four years, but among those aged over 65, requests for help have increased by 73 per cent in the same period \n\uf0b7 19 residents were placed in residential or nursing care while 78 received care in their homes \n\uf0b7 Of those receiving long term support 43 per cent were of working age and 57 per cent were aged over 65 \n\uf0b7 Adult Social Care services currently support around 30 carers. City Connections \u2013 a commissioned service supporting adults whose need fall below social care provision works with 30 carers. They also support 101 other adults with need for support and activities \n\uf0b7 Over the past five years, Safeguarding Adults Concerns have increased by 88% (increase of 28 cases) and enquiries by 50% (increase of ten cases) \nChildren\u2019s Social Care",
+      "metadata": {
+        "chunk_id": 7,
+        "contains_financial_info": true,
+        "download_url": "https://www.cityoflondon.gov.uk/assets/Services-DCCS/community-and-childrens-services-handbook.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "community-and-childrens-services-handbook.pdf",
+        "financial_pages": "[2, 3, 4, 5, 6, 7, 8, 10, 14, 15, 16, 17, 18]",
+        "level": "level_2",
+        "page_count": 18,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18]",
+        "source": "https://www.cityoflondon.gov.uk/services/children-and-families/about-community-and-childrens-services",
+        "source_url": "https://www.cityoflondon.gov.uk/services/children-and-families/about-community-and-childrens-services",
+        "total_chunks": 46,
+        "type": "pdf"
+      },
+      "id": "f8d2a39f-3964-4ec9-a86e-8c4bd29c31f1",
+      "distance": 0.6212822794914246,
+      "retrieval_method": "semantic_expanded_1",
+      "expanded_query": "adult social care",
+      "combined_score": 0.6248041273413838,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_expanded_1"
+      }
+    },
+    {
+      "content": "[Page 3]\nAdult Social Care:   \n2 \n \nIntroduction  \nOur aim is to ensure that  transferring  between services is a smooth, person centred \nand positive experience for our residents.   \nWe do this by ,  \n\u2022 practising person centred generic adult social work within a  single service to \nminimise the need for transfers.  \n\u2022 operating as part of a \u2018cradle to grave\u2019 People directorate service  \n\u2022 ensuring systems are in place to promote and oversee timely transfers of care \nwith internal and external agencies.  \n\u2022 Ensuring effective communication  with the person, family and between \nprofessionals, internal and external agencies.  \nHow we work  \nAdult Social Care is a single generic service comprising of Social Workers, \nOccupational Therapists, Strengths -based practitioners,  and a dedicated full -time \nprincipal Social Worker . We work with adults who have physical disability, learning \ndisability, mental health, substance misuse, dementia, including older people and \nthose who sleep rough in the City.",
+      "metadata": {
+        "chunk_id": 3,
+        "contains_financial_info": true,
+        "download_url": "https://www.fis.cityoflondon.gov.uk/asset-library/4.1e-transferring-between-services-and-settings.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "4.1e-transferring-between-services-and-settings.pdf",
+        "financial_pages": "[4, 5]",
+        "level": "level_2",
+        "page_count": 5,
+        "pages_with_content": "[1, 2, 3, 4, 5]",
+        "source": "https://www.fis.cityoflondon.gov.uk/send-local-offer/preparing-for-adulthood/independence-and-living-independently",
+        "source_url": "https://www.fis.cityoflondon.gov.uk/send-local-offer/preparing-for-adulthood/independence-and-living-independently",
+        "total_chunks": 13,
+        "type": "pdf"
+      },
+      "id": "b0e0a1d4-4f16-4e0d-8d05-406ffa91ead0",
+      "distance": 0.4996446371078491,
+      "retrieval_method": "semantic_expanded_1",
+      "expanded_query": "adult social care",
+      "combined_score": 0.5864702452312817,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_expanded_1"
+      }
+    },
+    {
+      "content": "adult social care team will discuss individual needs with adults and their family or \ncarer to find a suitable care home in a suitable location. We currently have adults in \ncare homes across the country to be near friends, family, or just to be in an area of \npreference. We aim to ensure that the adult has the things that are most important \nto them and that their accommodation and experience is as personalised as \npossible. The  allocated social worker will visit to review this within 6 to 8 weeks and \nsupport with any adjustments to enhance the adult\u2019s experience.",
+      "metadata": {
+        "chunk_id": 9,
+        "contains_financial_info": true,
+        "download_url": "https://www.fis.cityoflondon.gov.uk/asset-library/4.1e-transferring-between-services-and-settings.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "4.1e-transferring-between-services-and-settings.pdf",
+        "financial_pages": "[4, 5]",
+        "level": "level_2",
+        "page_count": 5,
+        "pages_with_content": "[1, 2, 3, 4, 5]",
+        "source": "https://www.fis.cityoflondon.gov.uk/send-local-offer/preparing-for-adulthood/independence-and-living-independently",
+        "source_url": "https://www.fis.cityoflondon.gov.uk/send-local-offer/preparing-for-adulthood/independence-and-living-independently",
+        "total_chunks": 13,
+        "type": "pdf"
+      },
+      "id": "49d004f6-4f9f-4f86-8781-79e03ef5639d",
+      "distance": 0.5534387230873108,
+      "retrieval_method": "semantic_expanded_1",
+      "expanded_query": "adult social care",
+      "combined_score": 0.5703320194374432,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_expanded_1"
+      }
+    },
+    {
+      "content": "[Page 3 - FINANCIAL/BUDGET INFORMATION]\nHow do I find out more? \nIf you live in the City and think \nyou may need some care and support, you can contact the Adult Social Care Team on \n020 7332 1224 or adultsduty@cityoflondon.gov.uk \nThe City Advice Service can also \nprovide advice and information on a range of topics, including housing, welfare benefits, debt, employment and family issues. You can contact them on \n020 7392 2919. Will I have to \npay for the care and support I need? \nIf you\u2019re eligible for care and support from the Adult Social Care Team, you may be asked to contribute something towards the cost. \nTo calculate any costs you \nwould pay, we will ask you to complete a financial assessment, which will ask about any savings and regular income. This information will help us understand if and how much you can afford to contribute to the cost of your care and support.",
+      "metadata": {
+        "chunk_id": 4,
+        "contains_financial_info": true,
+        "download_url": "https://www.cityoflondon.gov.uk/assets/Services-DCCS/a-guide-to-adult-social-care-leaflet.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "a-guide-to-adult-social-care-leaflet.pdf",
+        "financial_pages": "[3]",
+        "level": "level_1",
+        "page_count": 4,
+        "pages_with_content": "[1, 2, 3, 4]",
+        "source": "https://www.cityoflondon.gov.uk/services/social-care-for-adults/our-adult-social-care-leaflets",
+        "source_url": "https://www.cityoflondon.gov.uk/services/social-care-for-adults/our-adult-social-care-leaflets",
+        "total_chunks": 6,
+        "type": "pdf"
+      },
+      "id": "d2bce4ad-b3aa-436b-a31e-eaafcfd6e0b5",
+      "distance": 0.7733149528503418,
+      "retrieval_method": "semantic_expanded_2",
+      "expanded_query": "social care budget",
+      "combined_score": 0.5620614582008415,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_expanded_2"
+      }
+    },
+    {
+      "content": "\u2022  A lead professional \nwho will monitor the \ndelivery of actions\nAdult social care and \nthe Disabled Children \nand Young People\u2019s \nService (0-25) confirm:Think about the young \nperson accessing \nmainstream activities \nand social settings with \nor without support. \nCan the young person \naccess specialist social \nclubs and activities via \nthe voluntary sector?\nIs the young person \nkeeping contact with \nfriends \u2013 what does the \nyoung person want?\nDoes the family \nfeel supported in \nletting their son/\ndaughter access local \ncommunity facilities? \nIf not what are the \nsolutions and who can \nsupport? \nHow are personal \nbudgets and direct \npayments being used?Think about whether \nthe young person can \naccess health care \nindependently or with \nsupport from specialist \nsettings\nEnsure that the relevant \nhealth professionals are \nin contact with each \nother\nIf the medical condition \nis ongoing into \nadulthood \u2013 complete \nthe Ready Steady Go \ntransition protocol\nYoung person, family \nand professionals to",
+      "metadata": {
+        "chunk_id": 117,
+        "contains_financial_info": true,
+        "download_url": "https://www.fis.cityoflondon.gov.uk/asset-library/steps-to-adulthood-guide-v5-2022.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "steps-to-adulthood-guide-v5-2022.pdf",
+        "financial_pages": "[3, 6, 8, 10, 12, 13, 16, 17, 18, 19, 20, 21, 22, 25, 28, 29, 30, 31, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 45, 46]",
+        "level": "level_2",
+        "page_count": 48,
+        "pages_with_content": "[1, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48]",
+        "source": "https://www.fis.cityoflondon.gov.uk/send-local-offer/about-preparing-for-adulthood",
+        "source_url": "https://www.fis.cityoflondon.gov.uk/send-local-offer/about-preparing-for-adulthood",
+        "total_chunks": 163,
+        "type": "pdf"
+      },
+      "id": "c849ff98-211a-4078-984b-15151db32422",
+      "distance": 0.6816999912261963,
+      "retrieval_method": "semantic_expanded_1",
+      "expanded_query": "adult social care",
+      "combined_score": 0.5510844082265467,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_expanded_1"
+      }
+    },
+    {
+      "content": "[Page 17 - FINANCIAL/BUDGET INFORMATION]\n      \n   \n   \n         \n          \n       \n         \n        \n        \n           \n        \n     \n       \n        \n            \n  \n16 3. Priority objective: Independence, Involvement & Choice \nIndicator description Frequency 2016-17 \nperformance 2017-18 target \nAdult Social Care service user and carer reported quality Bi-annual TBC \nof life Above the national average* \nProportion of adults using services who receive self- Quarterly 100% \ndirect support and direct payments 100% \nDelayed transfers of care from hospital per 100,000 Monthly 0 - Nil \npopulation 0 \u2013 Nil \nProportion of older people (65 and over) who were still at Quarterly 89% \nhome 91 days after discharge from hospital into \nreablement/rehabilitation services 85% \nProportion of people who require reduced support Quarterly 69% \nfollowing a period of reablement 70% \nProportion of Adult Social Care users living at home Quarterly 78% 79%",
+      "metadata": {
+        "chunk_id": 41,
+        "contains_financial_info": true,
+        "download_url": "https://www.cityoflondon.gov.uk/assets/Services-DCCS/dccs-business-plan-2017-22.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "dccs-business-plan-2017-22.pdf",
+        "financial_pages": "[2, 4, 5, 7, 8, 9, 10, 11, 12, 15, 16, 17, 18, 19, 20, 21, 22, 23, 25, 26, 27, 28, 31]",
+        "level": "level_2",
+        "page_count": 31,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31]",
+        "source": "https://www.cityoflondon.gov.uk/services/children-and-families/about-community-and-childrens-services",
+        "source_url": "https://www.cityoflondon.gov.uk/services/children-and-families/about-community-and-childrens-services",
+        "total_chunks": 82,
+        "type": "pdf"
+      },
+      "id": "0c1c7a4c-6034-4648-b7df-a318cd9564ff",
+      "distance": 0.8007044792175293,
+      "retrieval_method": "semantic_expanded_2",
+      "expanded_query": "social care budget",
+      "combined_score": 0.534613831059916,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_expanded_2"
+      }
+    },
+    {
+      "content": "family or friends outside of London.  \nThe City Corporation is committed to secure both quality and value in the residential \nand nursing care it secures. However, unlike larger local authorities, it does not \nshape the market of provision, or price, by purchasing at scale. Instead, the City \nCorporation h as the opportunity for flexibility, agility and partnership that enables us \nto secure stable and sustainable care placements. The City Corporation\u2019s Market \nSustainability Plan, published in March 2023, sets out how we plan to move towards \na fair c ost of care, where this is not already achieved, over the next few years.  City \nof London Market Sustainability Plan  \nOur current and future commissioning intentions  \nIt is estimated that the commissioned spend for Adult Social Care provision within \n2023/24 will amount to just over \u00a33,600,000, which primarily consists of the following \nservices:  \n\u2022 Home Care, Rapid Response and Reablement  \n\u2022 Direct Payments  \n\u2022 Residential and Nursing",
+      "metadata": {
+        "chunk_id": 21,
+        "contains_financial_info": true,
+        "download_url": "https://www.cityoflondon.gov.uk/assets/Services-DCCS/market-position-statement.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "market-position-statement.pdf",
+        "financial_pages": "[2, 3, 4, 5, 6, 7, 8, 9, 11, 14, 15, 16]",
+        "level": "level_2",
+        "page_count": 17,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]",
+        "source": "https://www.cityoflondon.gov.uk/services/social-care-for-adults/adult-social-care-reform-and-commissioning/the-fair-cost-of-care-and-market-sustainability-plan",
+        "source_url": "https://www.cityoflondon.gov.uk/services/social-care-for-adults/adult-social-care-reform-and-commissioning/the-fair-cost-of-care-and-market-sustainability-plan",
+        "total_chunks": 50,
+        "type": "pdf"
+      },
+      "id": "ffe4c0ca-33a6-4365-a06a-443cc05e4e81",
+      "distance": 0.8025554418563843,
+      "retrieval_method": "semantic_expanded_2",
+      "expanded_query": "social care budget",
+      "combined_score": 0.5340585422682596,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_expanded_2"
+      }
+    },
+    {
+      "content": "[Page 8 - FINANCIAL/BUDGET INFORMATION]\n \n8 \n providing informal care (by viewing the dark blue and dark green sections together) and all \nthose re ceiving formal care (by viewing the light blue and light green sections together).  \n \n \n \nThis suggests that around two thirds of lonely individuals in the City ar e over 65.  Around half \nof the total is made up of older people who neither provide nor receive care, and as such \nthey are unlikely to already be known to Adult Social Care  services . \n \nA quarter of lonely  individuals are estimated to be informal carers and around two -thirds of \nthese are of working age.  Some, but by no means all, of these people will  be known to Adult \nSocial Care. In the 2011 Census, 121 people said they provided at least 20 hours of unpaid \ncare per week. However, only 60 carers are known to Adult Social Care and only 22 per \nquarter engage d with the City Carers Service in 2015 -16.",
+      "metadata": {
+        "chunk_id": 26,
+        "contains_financial_info": true,
+        "download_url": "https://www.cityoflondon.gov.uk/assets/Services-DCCS/social-wellbeing-strategy-2017.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "social-wellbeing-strategy-2017.pdf",
+        "financial_pages": "[3, 4, 5, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 19, 22, 23, 24, 27]",
+        "level": "level_2",
+        "page_count": 27,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27]",
+        "source": "https://www.cityoflondon.gov.uk/services/health-and-wellbeing/social-wellbeing",
+        "source_url": "https://www.cityoflondon.gov.uk/services/health-and-wellbeing/social-wellbeing",
+        "total_chunks": 112,
+        "type": "pdf"
+      },
+      "id": "0b1c6cf3-2ad8-4d98-8d2e-1a220b14ce5c",
+      "distance": 0.8137319684028625,
+      "retrieval_method": "semantic_expanded_2",
+      "expanded_query": "social care budget",
+      "combined_score": 0.530705584304316,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_expanded_2"
+      }
+    },
+    {
+      "content": "[Page 39 - FINANCIAL/BUDGET INFORMATION]\n39Some local authorities use a set amount to cover disability related expenditure, but if you\nthink what your young person spends on disability related costs is higher than that set\namount, you should let the local authority know. Once the local authority has assessed\nincome/assets and living costs/DRE, there will be an amount of money remaining from which\nyour young person could be asked to pay charges for their care and support.\nIf your young person has complex health needs that the local authority cannot meet, the\nNHS might pay for this care, and they will not have to contribute to the costs. This type of\nfunded care is called NHS continuing healthcare. \nUseful Resources:\nAsking for a needs assessment \nPreparing for a needs assessment \nMy needs assessment booklet \nAssessments: how they should work \nGetting the care and support plan right (includes information about direct\npayments/employing a Personal Assistant/carer)\nDisability Related Expenses",
+      "metadata": {
+        "chunk_id": 76,
+        "contains_financial_info": true,
+        "download_url": "https://www.fis.cityoflondon.gov.uk/asset-library/preparing-for-adulthood-for-children-with-down-syndrome.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "preparing-for-adulthood-for-children-with-down-syndrome.pdf",
+        "financial_pages": "[7, 21, 28, 29, 30, 33, 37, 38, 39, 41, 42, 43, 45, 46]",
+        "level": "level_2",
+        "page_count": 47,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47]",
+        "source": "https://www.fis.cityoflondon.gov.uk/send-local-offer/about-preparing-for-adulthood",
+        "source_url": "https://www.fis.cityoflondon.gov.uk/send-local-offer/about-preparing-for-adulthood",
+        "total_chunks": 93,
+        "type": "pdf"
+      },
+      "id": "4401c53d-1971-46a5-b2bb-a2628035983a",
+      "distance": 0.8230767250061035,
+      "retrieval_method": "financial_enhanced",
+      "combined_score": 0.5292308286520151,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 5,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "financial_enhanced"
+      }
+    },
+    {
+      "content": "If you\u2019re finding a combination \nof tasks very difficult to achieve, which, without support, would affect your wellbeing and quality of life, we will be able to determine the level of help you will need through the assessment. \nIf you\u2019re not eligible for care \nand support through the Adult Social Care Team, we will still be able to offer you advice and information on a range of preventative and community support services available to you.",
+      "metadata": {
+        "chunk_id": 3,
+        "contains_financial_info": true,
+        "download_url": "https://www.cityoflondon.gov.uk/assets/Services-DCCS/a-guide-to-adult-social-care-leaflet.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "a-guide-to-adult-social-care-leaflet.pdf",
+        "financial_pages": "[3]",
+        "level": "level_1",
+        "page_count": 4,
+        "pages_with_content": "[1, 2, 3, 4]",
+        "source": "https://www.cityoflondon.gov.uk/services/social-care-for-adults/our-adult-social-care-leaflets",
+        "source_url": "https://www.cityoflondon.gov.uk/services/social-care-for-adults/our-adult-social-care-leaflets",
+        "total_chunks": 6,
+        "type": "pdf"
+      },
+      "id": "2afad427-b8b9-40b6-aeeb-427848e7f5ff",
+      "distance": 0.6851197481155396,
+      "retrieval_method": "semantic_expanded_1",
+      "expanded_query": "adult social care",
+      "combined_score": 0.5250277119289745,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_expanded_1"
+      }
+    }
+  ],
+  "context": "[Document 1] From https://www (pdf) - URL: https://www.cityoflondon.gov.uk/services/children-and-families/about-community-and-childrens-services - 18 pages [Retrieved via: semantic_expanded_1]:\n[Page 4 - FINANCIAL/BUDGET INFORMATION]\n \n   \n  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n  \n   \n  \n \n \n \n \n \n \n \n \n Adult Social Care \n\uf0b7 165 residents requested support from Adult Social Care Services: Requests for \nhelp have increased by six per cent over the last four years, but among those aged over 65, requests for help have increased by 73 per cent in the same period \n\uf0b7 19 residents were placed in residential or nursing care while 78 received care in their homes \n\uf0b7 Of those receiving long term support 43 per cent were of working age and 57 per cent were aged over 65 \n\uf0b7 Adult Social Care services currently support around 30 carers. City Connections \u2013 a commissioned service supporting adults whose need fall below social care provision works with 30 carers. They also support 101 other adults with need for support and activities \n\uf0b7 Over the past five years, Safeguarding Adults Concerns have increased by 88% (increase of 28 cases) and enquiries by 50% (increase of ten cases) \nChildren\u2019s Social Care\n\n[Document 2] From https://www (pdf) - URL: https://www.fis.cityoflondon.gov.uk/send-local-offer/preparing-for-adulthood/independence-and-living-independently - 5 pages [Retrieved via: semantic_expanded_1]:\n[Page 3]\nAdult Social Care:   \n2 \n \nIntroduction  \nOur aim is to ensure that  transferring  between services is a smooth, person centred \nand positive experience for our residents.   \nWe do this by ,  \n\u2022 practising person centred generic adult social work within a  single service to \nminimise the need for transfers.  \n\u2022 operating as part of a \u2018cradle to grave\u2019 People directorate service  \n\u2022 ensuring systems are in place to promote and oversee timely transfers of care \nwith internal and external agencies.  \n\u2022 Ensuring effective communication  with the person, family and between \nprofessionals, internal and external agencies.  \nHow we work  \nAdult Social Care is a single generic service comprising of Social Workers, \nOccupational Therapists, Strengths -based practitioners,  and a dedicated full -time \nprincipal Social Worker . We work with adults who have physical disability, learning \ndisability, mental health, substance misuse, dementia, including older people and \nthose who sleep rough in the City.\n\n[Document 3] From https://www (pdf) - URL: https://www.fis.cityoflondon.gov.uk/send-local-offer/preparing-for-adulthood/independence-and-living-independently - 5 pages [Retrieved via: semantic_expanded_1]:\nadult social care team will discuss individual needs with adults and their family or \ncarer to find a suitable care home in a suitable location. We currently have adults in \ncare homes across the country to be near friends, family, or just to be in an area of \npreference. We aim to ensure that the adult has the things that are most important \nto them and that their accommodation and experience is as personalised as \npossible. The  allocated social worker will visit to review this within 6 to 8 weeks and \nsupport with any adjustments to enhance the adult\u2019s experience.\n\n[Document 4] From https://www (pdf) - URL: https://www.cityoflondon.gov.uk/services/social-care-for-adults/our-adult-social-care-leaflets - 4 pages [Retrieved via: semantic_expanded_2]:\n[Page 3 - FINANCIAL/BUDGET INFORMATION]\nHow do I find out more? \nIf you live in the City and think \nyou may need some care and support, you can contact the Adult Social Care Team on \n020 7332 1224 or adultsduty@cityoflondon.gov.uk \nThe City Advice Service can also \nprovide advice and information on a range of topics, including housing, welfare benefits, debt, employment and family issues. You can contact them on \n020 7392 2919. Will I have to \npay for the care and support I need? \nIf you\u2019re eligible for care and support from the Adult Social Care Team, you may be asked to contribute something towards the cost. \nTo calculate any costs you \nwould pay, we will ask you to complete a financial assessment, which will ask about any savings and regular income. This information will help us understand if and how much you can afford to contribute to the cost of your care and support.\n\n[Document 5] From https://www (pdf) - URL: https://www.fis.cityoflondon.gov.uk/send-local-offer/about-preparing-for-adulthood - 48 pages [Retrieved via: semantic_expanded_1]:\n\u2022  A lead professional \nwho will monitor the \ndelivery of actions\nAdult social care and \nthe Disabled Children \nand Young People\u2019s \nService (0-25) confirm:Think about the young \nperson accessing \nmainstream activities \nand social settings with \nor without support. \nCan the young person \naccess specialist social \nclubs and activities via \nthe voluntary sector?\nIs the young person \nkeeping contact with \nfriends \u2013 what does the \nyoung person want?\nDoes the family \nfeel supported in \nletting their son/\ndaughter access local \ncommunity facilities? \nIf not what are the \nsolutions and who can \nsupport? \nHow are personal \nbudgets and direct \npayments being used?Think about whether \nthe young person can \naccess health care \nindependently or with \nsupport from specialist \nsettings\nEnsure that the relevant \nhealth professionals are \nin contact with each \nother\nIf the medical condition \nis ongoing into \nadulthood \u2013 complete \nthe Ready Steady Go \ntransition protocol\nYoung person, family \nand professionals to\n\n[Document 6] From https://www (pdf) - URL: https://www.cityoflondon.gov.uk/services/children-and-families/about-community-and-childrens-services - 31 pages [Retrieved via: semantic_expanded_2]:\n[Page 17 - FINANCIAL/BUDGET INFORMATION]\n      \n   \n   \n         \n          \n       \n         \n        \n        \n           \n        \n     \n       \n        \n            \n  \n16 3. Priority objective: Independence, Involvement & Choice \nIndicator description Frequency 2016-17 \nperformance 2017-18 target \nAdult Social Care service user and carer reported quality Bi-annual TBC \nof life Above the national average* \nProportion of adults using services who receive self- Quarterly 100% \ndirect support and direct payments 100% \nDelayed transfers of care from hospital per 100,000 Monthly 0 - Nil \npopulation 0 \u2013 Nil \nProportion of older people (65 and over) who were still at Quarterly 89% \nhome 91 days after discharge from hospital into \nreablement/rehabilitation services 85% \nProportion of people who require reduced support Quarterly 69% \nfollowing a period of reablement 70% \nProportion of Adult Social Care users living at home Quarterly 78% 79%\n\n[Document 7] From https://www (pdf) - URL: https://www.cityoflondon.gov.uk/services/social-care-for-adults/adult-social-care-reform-and-commissioning/the-fair-cost-of-care-and-market-sustainability-plan - 17 pages [Retrieved via: semantic_expanded_2]:\nfamily or friends outside of London.  \nThe City Corporation is committed to secure both quality and value in the residential \nand nursing care it secures. However, unlike larger local authorities, it does not \nshape the market of provision, or price, by purchasing at scale. Instead, the City \nCorporation h as the opportunity for flexibility, agility and partnership that enables us \nto secure stable and sustainable care placements. The City Corporation\u2019s Market \nSustainability Plan, published in March 2023, sets out how we plan to move towards \na fair c ost of care, where this is not already achieved, over the next few years.  City \nof London Market Sustainability Plan  \nOur current and future commissioning intentions  \nIt is estimated that the commissioned spend for Adult Social Care provision within \n2023/24 will amount to just over \u00a33,600,000, which primarily consists of the following \nservices:  \n\u2022 Home Care, Rapid Response and Reablement  \n\u2022 Direct Payments  \n\u2022 Residential and Nursing\n\n[Document 8] From https://www (pdf) - URL: https://www.cityoflondon.gov.uk/services/health-and-wellbeing/social-wellbeing - 27 pages [Retrieved via: semantic_expanded_2]:\n[Page 8 - FINANCIAL/BUDGET INFORMATION]\n \n8 \n providing informal care (by viewing the dark blue and dark green sections together) and all \nthose re ceiving formal care (by viewing the light blue and light green sections together).  \n \n \n \nThis suggests that around two thirds of lonely individuals in the City ar e over 65.  Around half \nof the total is made up of older people who neither provide nor receive care, and as such \nthey are unlikely to already be known to Adult Social Care  services . \n \nA quarter of lonely  individuals are estimated to be informal carers and around two -thirds of \nthese are of working age.  Some, but by no means all, of these people will  be known to Adult \nSocial Care. In the 2011 Census, 121 people said they provided at least 20 hours of unpaid \ncare per week. However, only 60 carers are known to Adult Social Care and only 22 per \nquarter engage d with the City Carers Service in 2015 -16.\n\n[Document 9] From https://www (pdf) - URL: https://www.fis.cityoflondon.gov.uk/send-local-offer/about-preparing-for-adulthood - 47 pages [Retrieved via: financial_enhanced]:\n[Page 39 - FINANCIAL/BUDGET INFORMATION]\n39Some local authorities use a set amount to cover disability related expenditure, but if you\nthink what your young person spends on disability related costs is higher than that set\namount, you should let the local authority know. Once the local authority has assessed\nincome/assets and living costs/DRE, there will be an amount of money remaining from which\nyour young person could be asked to pay charges for their care and support.\nIf your young person has complex health needs that the local authority cannot meet, the\nNHS might pay for this care, and they will not have to contribute to the costs. This type of\nfunded care is called NHS continuing healthcare. \nUseful Resources:\nAsking for a needs assessment \nPreparing for a needs assessment \nMy needs assessment booklet \nAssessments: how they should work \nGetting the care and support plan right (includes information about direct\npayments/employing a Personal Assistant/carer)\nDisability Related Expenses\n\n[Document 10] From https://www (pdf) - URL: https://www.cityoflondon.gov.uk/services/social-care-for-adults/our-adult-social-care-leaflets - 4 pages [Retrieved via: semantic_expanded_1]:\nIf you\u2019re finding a combination \nof tasks very difficult to achieve, which, without support, would affect your wellbeing and quality of life, we will be able to determine the level of help you will need through the assessment. \nIf you\u2019re not eligible for care \nand support through the Adult Social Care Team, we will still be able to offer you advice and information on a range of preventative and community support services available to you.\n",
+  "answer": "When your son with learning disabilities turns 18 and transitions to adult services in London, his financial support may change based on a financial assessment conducted by the Adult Social Care Team. This assessment will determine if he needs to contribute towards the cost of his care and support.\n\n**Key Details:**\n- **Financial Assessment:** The Adult Social Care Team will conduct a financial assessment to evaluate your son's savings, income, and disability-related expenses. This will help determine if and how much he might need to contribute towards his care costs (Document 4).\n- **Potential Contributions:** If eligible for care and support, your son may be asked to contribute to the cost based on the assessment. If his disability-related expenses are higher than a set amount, it is important to inform the local authority (Document 9).\n- **NHS Continuing Healthcare:** If your son has complex health needs that the local authority cannot meet, the NHS might cover his care costs through NHS continuing healthcare, which would not require him to contribute (Document 9).\n\n**Practical Next Steps:**\n- **Contact Information:** For more information or to start the assessment process, contact the Adult Social Care Team at 020 7332 1224 or email adultsduty@cityoflondon.gov.uk (Document 4).\n- **City Advice Service:** For additional advice on housing, welfare benefits, and other related topics, you can reach out to the City Advice Service at 020 7392 2919 (Document 4).\n\nFor further details on preparing for adulthood and accessing services, you can visit the City of London's SEND Local Offer page: [City of London SEND Local Offer](https://www.fis.cityoflondon.gov.uk/send-local-offer/about-preparing-for-adulthood).",
+  "metrics": {
+    "duration_seconds": 11.079880952835083,
+    "retrieved_docs_count": 10,
+    "query_length": 135,
+    "answer_length": 1731,
+    "retrieval_method": "enhanced",
+    "context_utilization": 0.1878453038674033,
+    "citations_count": 0,
+    "has_citations": false,
+    "query_relevance": 0.8947368421052632,
+    "unique_retrieval_methods": 3,
+    "budget_documents_retrieved": 10,
+    "retrieval_methods_used": [
+      "semantic_expanded_2",
+      "financial_enhanced",
+      "semantic_expanded_1"
+    ],
+    "retrieval_method_distribution": {
+      "semantic_expanded_1": 5,
+      "semantic_expanded_2": 4,
+      "financial_enhanced": 1
+    }
+  },
+  "local_authority": "london",
+  "query_id": "scn_18",
+  "retrieval_method": "enhanced",
+  "run_id": "968d8352-ae57-4636-ad52-4f08e6acb754",
+  "trace": {
+    "run_id": "968d8352-ae57-4636-ad52-4f08e6acb754",
+    "project": "social_care_rag",
+    "url": "https://eu.smith.langchain.com/o/me/runs/968d8352-ae57-4636-ad52-4f08e6acb754"
+  },
+  "test_metadata": {
+    "local_authority": "london",
+    "query_id": "scn_18",
+    "query_category": "financial_scenarios",
+    "prompt_variation": "optimized",
+    "prompt_template": "\nPlease answer the following question about social care services in UK local authorities based only on the information in the provided documents.\n\nQuestion: {query}\n\nContext from relevant documents:\n{context}\n\nInstructions:\n1. Provide a clear, direct answer that would help someone needing this information. If information isn't available, state: \"The available documents don't provide specific information about [aspect].\"\n\n2. Synthesize information from ALL relevant documents to provide the most complete answer rather than analyzing documents individually.\n\n3. Structure your response with:\n   - A concise 1-2 sentence summary first\n   - Relevant details organized in short, clear paragraphs\n   - Bullet points for lists or step-by-step information\n   - Bold text for key information the user should notice\n\n4. For financial information:\n   - Include exact figures, time periods, and what the funding covers\n   - Present financial data clearly: \"The adult social care budget is **\u00a3X million** for [time period]\"\n\n5. Always include practical next steps or resources:\n   - Provide contact information, URLs, or application methods mentioned in the documents\n   - Suggest where the person could find more information\n\n6. When citing sources, use a simple format: \"According to [document name/description]\" or include URLs where available.\n\nAnswer:\n",
+    "processing_time": 11.082880020141602,
+    "timestamp": "2025-08-19T14:02:07.927632",
+    "top_k": 10
+  }
+}

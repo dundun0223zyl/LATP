@@ -1,0 +1,299 @@
+{
+  "query": "My wife's needs have changed significantly since her last assessment in york. How do we request a reassessment and how long will it take?",
+  "retrieved_documents": [
+    {
+      "content": ". If you think your assessment is incorrect (or your circumstances change) request a reassessment via our Income Services Team, telephone: 01904 552044 or email benefitscontributions@york.gov.uk . Your social worker will request a reassessment if your care needs change and a different type of assessment is required (for example if you're moving from your home into permanent care). Also see Get adult social care Residential care Social care costs from 18 years of age Choosing your care and support (including Direct Payments) Paying for independent living with 24-hour support Live Well York Adult Commissioning Team Communities and Prevention Team, West Offices, Station Rise, York, YO1 6GA Telephone: 01904 554595 Email: livewellyork@york.gov.uk Live Well York Adult Social Care Emergency Duty Team Contact the Emergency Duty Team for assistance. We're available between 5.00pm and 8.30am, Monday to Friday, 24 hours a day over weekends (between 5.00pm Friday until 8.30am Monday), and 24 hours on bank holidays",
+      "metadata": {
+        "chunk_id": 4,
+        "filename": "www.york.gov.uk_personalisation-care_paying-care_3.txt",
+        "level": "level_2",
+        "source": "https://www.york.gov.uk/personalisation-care/paying-care/3",
+        "source_url": "https://www.york.gov.uk/personalisation-care/paying-care/3",
+        "total_chunks": 6,
+        "type": "web_page"
+      },
+      "id": "720470dc-496f-4717-a798-4aa135ed9480",
+      "distance": 0.8855288028717041,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.08434135913848878,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". An assessment will help us work out how you can live independently or do things in the community. Refer to Live Well York to find out about support in your area. Assessment timing If your situation is very urgent or you are at risk of harm, we will aim to speak to you within 24 hours. If the person who normally looks after you is finding it very difficult to cope, we will try to speak to you within 7 days. For all other cases, we will aim to assess you within 28 days of you requesting an assessment. Your privacy during an assessment We respect your privacy at all times. Any information you give us will be treated as confidential and will not be shared with anyone else without your permission. However, there may be exceptional circumstances where the law says we must share it with someone else. After your assessment We will discuss the help and support available to you based on your needs. If you're eligible (under the Care Act eligibility criteria ) we'll help to arrange your social care services",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.york.gov.uk_personalisation-care_assessing-social-care-needs.txt",
+        "level": "level_2",
+        "source": "https://www.york.gov.uk/personalisation-care/assessing-social-care-needs",
+        "source_url": "https://www.york.gov.uk/personalisation-care/assessing-social-care-needs",
+        "total_chunks": 5,
+        "type": "web_page"
+      },
+      "id": "c4bab9c5-7586-4c94-8ec2-d3e80afd6873",
+      "distance": 0.9541329741477966,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.06376010775566102,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". An assessment will help us work out how you can live independently or do things in the community. Refer to Live Well York to find out about support in your area. Assessment timing If your situation is very urgent or you are at risk of harm, we will aim to speak to you within 24 hours. If the person who normally looks after you is finding it very difficult to cope, we will try to speak to you within 7 days. For all other cases, we will aim to assess you within 28 days of you requesting an assessment. Your privacy during an assessment We respect your privacy at all times. Any information you give us will be treated as confidential and will not be shared with anyone else without your permission. However, there may be exceptional circumstances where the law says we must share it with someone else. After your assessment We will discuss the help and support available to you based on your needs. If you're eligible (under the Care Act eligibility criteria ) we'll help to arrange your social care services",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.york.gov.uk_CareAssessment.txt",
+        "level": "level_1",
+        "source": "https://www.york.gov.uk/CareAssessment",
+        "source_url": "https://www.york.gov.uk/CareAssessment",
+        "total_chunks": 5,
+        "type": "web_page"
+      },
+      "id": "819fab12-db13-4da5-8459-8430824f0708",
+      "distance": 0.9541329741477966,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.06376010775566102,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". An assessment will help us work out how you can live independently or do things in the community. Refer to Live Well York to find out about support in your area. Assessment timing If your situation is very urgent or you are at risk of harm, we will aim to speak to you within 24 hours. If the person who normally looks after you is finding it very difficult to cope, we will try to speak to you within 7 days. For all other cases, we will aim to assess you within 28 days of you requesting an assessment. Your privacy during an assessment We respect your privacy at all times. Any information you give us will be treated as confidential and will not be shared with anyone else without your permission. However, there may be exceptional circumstances where the law says we must share it with someone else. After your assessment We will discuss the help and support available to you based on your needs. If you're eligible (under the Care Act eligibility criteria ) we'll help to arrange your social care services",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.york.gov.uk_SocialCareAssessment.txt",
+        "level": "level_1",
+        "source": "https://www.york.gov.uk/SocialCareAssessment",
+        "source_url": "https://www.york.gov.uk/SocialCareAssessment",
+        "total_chunks": 5,
+        "type": "web_page"
+      },
+      "id": "2331523e-1f92-4623-b5aa-9a740069c835",
+      "distance": 0.9541329741477966,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.06376010775566102,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 6 - FINANCIAL/BUDGET INFORMATION]\nThey are the tests we will use to ensure we move ever closer \nto achieving our vision. They are for  each  and every one of \nour residents to benefit from, ensuring all our residents benefit \nfrom the success of the city.\nGood Health and Wellbeing\n\u2022 Adults that are physically active for 150+ moderate intensity \nminutes per week\n\u2022 % of children in Reception recorded as being obese\n\u2022 Overall satisfaction of people who use care and support \nservices\n\u2022 Healthy Life expectancy at birth - Female / Male\n\u2022 Proportion of adults in contact with secondary mental \nhealth services living independently\n\u2022 Adult Social Care - attributable Delayed Transfers of Care\nKey Principles for the York Health & \nWellbeing Board\n\u2022 Ensure that we work together in true partnership for the \ngood of the people of Y ork\n\u2022 Involve local people in identifying the challenges and \nredesigning services\n\u2022 Promote equality of opportunity and access for all",
+      "metadata": {
+        "chunk_id": 10,
+        "contains_financial_info": true,
+        "download_url": "",
+        "extraction_method": "PyPDF2",
+        "filename": "all-age-commissioning-strategy.pdf",
+        "financial_pages": "[3, 4, 6, 7, 8, 10, 11, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26]",
+        "level": "level_2",
+        "page_count": 28,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28]",
+        "source": "all-age-commissioning-strategy.pdf",
+        "source_url": "",
+        "total_chunks": 74,
+        "type": "pdf"
+      },
+      "id": "eaedf464-c0b5-4e47-ab5a-5499efa2bc81",
+      "distance": 0.9544349312782288,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.06366952061653137,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "a period of reablement. It is not suitable for people who already have a long term care provider or people who \nhave a serious illness which requires specialist care and pain support (palliative care). \nWhat does Reablement involve?\nBefore starting a programme of reablement, you will need to have an assessment, which highlights which areas \nof your life you need support and what your strengths are. \nWe will ask you to set realistic goals which our support workers can help you achieve. Each week we will \ndiscuss the progress you are making and identify new goals as required.\nAfter three weeks we will visit again and complete a review. We will work with you and decide whether you \nneed longer term support or whether you need reablement to continue building on the progress that has \nbeen made.\nCity of York Council\n  01904 555111      \n  adult.socialsupport@york.gov.uk   www.york.gov.uk/health/carers\nReablement",
+      "metadata": {
+        "chunk_id": 1,
+        "contains_financial_info": true,
+        "download_url": "",
+        "extraction_method": "PyPDF2",
+        "filename": "reablement-leaflet.pdf",
+        "financial_pages": "[2]",
+        "level": "level_2",
+        "page_count": 2,
+        "pages_with_content": "[1, 2]",
+        "source": "reablement-leaflet.pdf",
+        "source_url": "",
+        "total_chunks": 5,
+        "type": "pdf"
+      },
+      "id": "253b87a0-0ebb-4555-9fda-848b5009ba61",
+      "distance": 0.9831467270851135,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.05505598187446595,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Completing a carer's assessment yourself You can download a Carer's Assessment Form and an \u2018Assessment of Need factsheet\u2019 from the York Carers Centre website - return your completed from to our Carer's Assessment Team. Completing a carer's assessment with help Our adult social care team can help you to complete your carer's assessment. your assessment can be completed at the same time as an assessment for the person you care for alternatively it can be done separately and privately you may bring along another family member or friend (advocate) You can have an assessment even if the person you care for does not currently have any formal care arrangements in place. After a carer's assessment When you've completed an assessment (either by yourself or with help), we'll contact you to discuss your situation and what support may be available to help you",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.york.gov.uk_CarersAssessment.txt",
+        "level": "level_2",
+        "source": "https://www.york.gov.uk/CarersAssessment",
+        "source_url": "https://www.york.gov.uk/CarersAssessment",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "68512281-efa9-4f5e-b148-99a1660b2245",
+      "distance": 0.9840660095214844,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.05478019714355469,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 7 - FINANCIAL/BUDGET INFORMATION]\nThey are the tests we will use to ensure we move ever closer \nto achieving our vision. They are for  each and every one of \nour residents to benefit from, ensuring all our residents benefit \nfrom the success of the city.\nGood Health and Wellbeing\n\u2022 Adults that ar e physically active for 150+ moderate intensity \nminutes per week\n\u2022 % of childr en in Reception recorded as being obese\n\u2022 Ov erall satisfaction of people who use care and support \nservices\n\u2022 Health y Life expectancy at birth - Female / Male\n\u2022 Pr oportion of adults in contact with secondary mental \nhealth services living independently\n\u2022 Adult Social Car e - attributable Delayed Transfers of Care\nKey Principles for the York Health & Wellbeing Board\n\u2022 Ensur e that we work together in true partnership for the \ngood of the people of Y ork\n\u2022 In volve local people in identifying the challenges and \nredesigning services\n\u2022 Pr omote equality of opportunity and access for all",
+      "metadata": {
+        "chunk_id": 12,
+        "contains_financial_info": true,
+        "download_url": "",
+        "extraction_method": "PyPDF2",
+        "filename": "all-age-commissioning-strategy.pdf",
+        "financial_pages": "[3, 4, 6, 7, 8, 10, 11, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26]",
+        "level": "level_2",
+        "page_count": 28,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28]",
+        "source": "all-age-commissioning-strategy.pdf",
+        "source_url": "",
+        "total_chunks": 74,
+        "type": "pdf"
+      },
+      "id": "38075ac7-2ec2-4cf4-b0a9-b8d5d4e45e45",
+      "distance": 1.007899522781372,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.05,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 22]\n22 North Yorkshire and City of York \n  \n \n \n \n \n \n \n \n  \n \n \n \n \n \n \n \n \n \n \n   Priority  3 \nDrive Change Together \nWe will build upon our existing partnership \napproach to tackling domestic abuse, working together to achieve our collective priorities and commitments. We will work to improve how agencies effectively share information, assess risk and collaborate in their response to victims, survivors, their families and those that cause harm, with clear pathways into specialist support. \nCommitments \n3.1 We will further strengthen our existing Local Partnership Board arrangements, by ensuring stakeholders work together to address the identified gaps within the findings of our local needs assessment and wider system review.",
+      "metadata": {
+        "chunk_id": 51,
+        "contains_financial_info": true,
+        "download_url": "",
+        "extraction_method": "PyPDF2",
+        "filename": "north-yorkshire-and-city-of-york-domestic-abuse-strategy-2024-2028.pdf",
+        "financial_pages": "[5, 7, 13, 14, 15, 16, 17, 18, 19, 23]",
+        "level": "level_2",
+        "page_count": 24,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24]",
+        "source": "north-yorkshire-and-city-of-york-domestic-abuse-strategy-2024-2028.pdf",
+        "source_url": "",
+        "total_chunks": 60,
+        "type": "pdf"
+      },
+      "id": "8494c882-3185-43a8-ae04-175f9c8d02d1",
+      "distance": 1.0182387828826904,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.05,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Cost of reablement services While your social care needs are assessed , you will not be charged for your reablement support; this can be from a few days or up to a maximum of six weeks. We'll review your progress at three weeks and if you require ongoing support, you may need to contribute to the cost of your care, depending on your financial assessment. If you need longer-term care, an assessment will determine whether you need to pay for your care or whether you can get financial support from us. Also see Adult social care Choosing your care and support Paying for your care Someone to speak on your behalf (advocacy) Be Independent Live Well York Adult Social Care Community Team Telephone: 01904 555111, Textphone: 07534 437804 West Offices, Station Rise, York, YO1 6GA Email: adult.socialsupport@york.gov.uk Adult Social Care Emergency Duty Team Contact the Emergency Duty Team for assistance",
+      "metadata": {
+        "chunk_id": 3,
+        "filename": "www.york.gov.uk_Reablement.txt",
+        "level": "level_1",
+        "source": "https://www.york.gov.uk/Reablement",
+        "source_url": "https://www.york.gov.uk/Reablement",
+        "total_chunks": 5,
+        "type": "web_page"
+      },
+      "id": "08d0716e-c61e-486b-90da-6856144a42ee",
+      "distance": 1.0264811515808105,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.05,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    }
+  ],
+  "context": "[Document 1] From https://www (web_page) - URL: https://www.york.gov.uk/personalisation-care/paying-care/3 [Retrieved via: semantic_original]:\n. If you think your assessment is incorrect (or your circumstances change) request a reassessment via our Income Services Team, telephone: 01904 552044 or email benefitscontributions@york.gov.uk . Your social worker will request a reassessment if your care needs change and a different type of assessment is required (for example if you're moving from your home into permanent care). Also see Get adult social care Residential care Social care costs from 18 years of age Choosing your care and support (including Direct Payments) Paying for independent living with 24-hour support Live Well York Adult Commissioning Team Communities and Prevention Team, West Offices, Station Rise, York, YO1 6GA Telephone: 01904 554595 Email: livewellyork@york.gov.uk Live Well York Adult Social Care Emergency Duty Team Contact the Emergency Duty Team for assistance. We're available between 5.00pm and 8.30am, Monday to Friday, 24 hours a day over weekends (between 5.00pm Friday until 8.30am Monday), and 24 hours on bank holidays\n\n[Document 2] From https://www (web_page) - URL: https://www.york.gov.uk/personalisation-care/assessing-social-care-needs [Retrieved via: semantic_original]:\n. An assessment will help us work out how you can live independently or do things in the community. Refer to Live Well York to find out about support in your area. Assessment timing If your situation is very urgent or you are at risk of harm, we will aim to speak to you within 24 hours. If the person who normally looks after you is finding it very difficult to cope, we will try to speak to you within 7 days. For all other cases, we will aim to assess you within 28 days of you requesting an assessment. Your privacy during an assessment We respect your privacy at all times. Any information you give us will be treated as confidential and will not be shared with anyone else without your permission. However, there may be exceptional circumstances where the law says we must share it with someone else. After your assessment We will discuss the help and support available to you based on your needs. If you're eligible (under the Care Act eligibility criteria ) we'll help to arrange your social care services\n\n[Document 3] From https://www (web_page) - URL: https://www.york.gov.uk/CareAssessment [Retrieved via: semantic_original]:\n. An assessment will help us work out how you can live independently or do things in the community. Refer to Live Well York to find out about support in your area. Assessment timing If your situation is very urgent or you are at risk of harm, we will aim to speak to you within 24 hours. If the person who normally looks after you is finding it very difficult to cope, we will try to speak to you within 7 days. For all other cases, we will aim to assess you within 28 days of you requesting an assessment. Your privacy during an assessment We respect your privacy at all times. Any information you give us will be treated as confidential and will not be shared with anyone else without your permission. However, there may be exceptional circumstances where the law says we must share it with someone else. After your assessment We will discuss the help and support available to you based on your needs. If you're eligible (under the Care Act eligibility criteria ) we'll help to arrange your social care services\n\n[Document 4] From https://www (web_page) - URL: https://www.york.gov.uk/SocialCareAssessment [Retrieved via: semantic_original]:\n. An assessment will help us work out how you can live independently or do things in the community. Refer to Live Well York to find out about support in your area. Assessment timing If your situation is very urgent or you are at risk of harm, we will aim to speak to you within 24 hours. If the person who normally looks after you is finding it very difficult to cope, we will try to speak to you within 7 days. For all other cases, we will aim to assess you within 28 days of you requesting an assessment. Your privacy during an assessment We respect your privacy at all times. Any information you give us will be treated as confidential and will not be shared with anyone else without your permission. However, there may be exceptional circumstances where the law says we must share it with someone else. After your assessment We will discuss the help and support available to you based on your needs. If you're eligible (under the Care Act eligibility criteria ) we'll help to arrange your social care services\n\n[Document 5] From all age commissioning strategy (pdf) - 28 pages [Retrieved via: semantic_original]:\n[Page 6 - FINANCIAL/BUDGET INFORMATION]\nThey are the tests we will use to ensure we move ever closer \nto achieving our vision. They are for  each  and every one of \nour residents to benefit from, ensuring all our residents benefit \nfrom the success of the city.\nGood Health and Wellbeing\n\u2022 Adults that are physically active for 150+ moderate intensity \nminutes per week\n\u2022 % of children in Reception recorded as being obese\n\u2022 Overall satisfaction of people who use care and support \nservices\n\u2022 Healthy Life expectancy at birth - Female / Male\n\u2022 Proportion of adults in contact with secondary mental \nhealth services living independently\n\u2022 Adult Social Care - attributable Delayed Transfers of Care\nKey Principles for the York Health & \nWellbeing Board\n\u2022 Ensure that we work together in true partnership for the \ngood of the people of Y ork\n\u2022 Involve local people in identifying the challenges and \nredesigning services\n\u2022 Promote equality of opportunity and access for all\n\n[Document 6] From reablement leaflet (pdf) - 2 pages [Retrieved via: semantic_original]:\na period of reablement. It is not suitable for people who already have a long term care provider or people who \nhave a serious illness which requires specialist care and pain support (palliative care). \nWhat does Reablement involve?\nBefore starting a programme of reablement, you will need to have an assessment, which highlights which areas \nof your life you need support and what your strengths are. \nWe will ask you to set realistic goals which our support workers can help you achieve. Each week we will \ndiscuss the progress you are making and identify new goals as required.\nAfter three weeks we will visit again and complete a review. We will work with you and decide whether you \nneed longer term support or whether you need reablement to continue building on the progress that has \nbeen made.\nCity of York Council\n  01904 555111      \n  adult.socialsupport@york.gov.uk   www.york.gov.uk/health/carers\nReablement\n\n[Document 7] From https://www (web_page) - URL: https://www.york.gov.uk/CarersAssessment [Retrieved via: semantic_original]:\n. Completing a carer's assessment yourself You can download a Carer's Assessment Form and an \u2018Assessment of Need factsheet\u2019 from the York Carers Centre website - return your completed from to our Carer's Assessment Team. Completing a carer's assessment with help Our adult social care team can help you to complete your carer's assessment. your assessment can be completed at the same time as an assessment for the person you care for alternatively it can be done separately and privately you may bring along another family member or friend (advocate) You can have an assessment even if the person you care for does not currently have any formal care arrangements in place. After a carer's assessment When you've completed an assessment (either by yourself or with help), we'll contact you to discuss your situation and what support may be available to help you\n\n[Document 8] From all age commissioning strategy (pdf) - 28 pages [Retrieved via: semantic_original]:\n[Page 7 - FINANCIAL/BUDGET INFORMATION]\nThey are the tests we will use to ensure we move ever closer \nto achieving our vision. They are for  each and every one of \nour residents to benefit from, ensuring all our residents benefit \nfrom the success of the city.\nGood Health and Wellbeing\n\u2022 Adults that ar e physically active for 150+ moderate intensity \nminutes per week\n\u2022 % of childr en in Reception recorded as being obese\n\u2022 Ov erall satisfaction of people who use care and support \nservices\n\u2022 Health y Life expectancy at birth - Female / Male\n\u2022 Pr oportion of adults in contact with secondary mental \nhealth services living independently\n\u2022 Adult Social Car e - attributable Delayed Transfers of Care\nKey Principles for the York Health & Wellbeing Board\n\u2022 Ensur e that we work together in true partnership for the \ngood of the people of Y ork\n\u2022 In volve local people in identifying the challenges and \nredesigning services\n\u2022 Pr omote equality of opportunity and access for all\n\n[Document 9] From north yorkshire and city of york domestic abuse strategy 2024 2028 (pdf) - 24 pages [Retrieved via: semantic_original]:\n[Page 22]\n22 North Yorkshire and City of York \n  \n \n \n \n \n \n \n \n  \n \n \n \n \n \n \n \n \n \n \n   Priority  3 \nDrive Change Together \nWe will build upon our existing partnership \napproach to tackling domestic abuse, working together to achieve our collective priorities and commitments. We will work to improve how agencies effectively share information, assess risk and collaborate in their response to victims, survivors, their families and those that cause harm, with clear pathways into specialist support. \nCommitments \n3.1 We will further strengthen our existing Local Partnership Board arrangements, by ensuring stakeholders work together to address the identified gaps within the findings of our local needs assessment and wider system review.\n\n[Document 10] From https://www (web_page) - URL: https://www.york.gov.uk/Reablement [Retrieved via: semantic_original]:\n. Cost of reablement services While your social care needs are assessed , you will not be charged for your reablement support; this can be from a few days or up to a maximum of six weeks. We'll review your progress at three weeks and if you require ongoing support, you may need to contribute to the cost of your care, depending on your financial assessment. If you need longer-term care, an assessment will determine whether you need to pay for your care or whether you can get financial support from us. Also see Adult social care Choosing your care and support Paying for your care Someone to speak on your behalf (advocacy) Be Independent Live Well York Adult Social Care Community Team Telephone: 01904 555111, Textphone: 07534 437804 West Offices, Station Rise, York, YO1 6GA Email: adult.socialsupport@york.gov.uk Adult Social Care Emergency Duty Team Contact the Emergency Duty Team for assistance\n",
+  "answer": "To request a reassessment for your wife's changed needs in York, you should contact the Income Services Team. You can do this by **telephone at 01904 552044** or by **emailing benefitscontributions@york.gov.uk**. If the reassessment is urgent or if there's a risk of harm, the council aims to respond within 24 hours. If the situation is difficult but not urgent, they aim to respond within 7 days. For all other cases, they aim to conduct the assessment within 28 days of the request.\n\n**Steps to Request a Reassessment:**\n- Contact the Income Services Team via phone or email.\n- Explain the changes in your wife's needs and request a reassessment.\n\n**Assessment Timing:**\n- **Urgent/Risk of Harm:** Aim to speak within 24 hours.\n- **Difficult Situations:** Aim to speak within 7 days.\n- **Other Cases:** Aim to assess within 28 days.\n\nFor more information, you can refer to the City of York Council's website or contact the Adult Social Care Community Team at **01904 555111** or **adult.socialsupport@york.gov.uk**.",
+  "metrics": {
+    "duration_seconds": 12.68381381034851,
+    "retrieved_docs_count": 10,
+    "query_length": 137,
+    "answer_length": 1018,
+    "retrieval_method": "enhanced",
+    "context_utilization": 0.13842482100238662,
+    "citations_count": 0,
+    "has_citations": false,
+    "query_relevance": 0.5714285714285714,
+    "unique_retrieval_methods": 1,
+    "budget_documents_retrieved": 4,
+    "retrieval_methods_used": [
+      "semantic_original"
+    ],
+    "retrieval_method_distribution": {
+      "semantic_original": 10
+    }
+  },
+  "local_authority": "york",
+  "query_id": "scn_23",
+  "retrieval_method": "enhanced",
+  "run_id": "debdd942-03cd-4a67-bfaa-e013fbc11d80",
+  "trace": {
+    "run_id": "debdd942-03cd-4a67-bfaa-e013fbc11d80",
+    "project": "social_care_rag",
+    "url": "https://eu.smith.langchain.com/o/me/runs/debdd942-03cd-4a67-bfaa-e013fbc11d80"
+  },
+  "test_metadata": {
+    "local_authority": "york",
+    "query_id": "scn_23",
+    "query_category": "assessment_scenarios",
+    "prompt_variation": "optimized",
+    "prompt_template": "\nPlease answer the following question about social care services in UK local authorities based only on the information in the provided documents.\n\nQuestion: {query}\n\nContext from relevant documents:\n{context}\n\nInstructions:\n1. Provide a clear, direct answer that would help someone needing this information. If information isn't available, state: \"The available documents don't provide specific information about [aspect].\"\n\n2. Synthesize information from ALL relevant documents to provide the most complete answer rather than analyzing documents individually.\n\n3. Structure your response with:\n   - A concise 1-2 sentence summary first\n   - Relevant details organized in short, clear paragraphs\n   - Bullet points for lists or step-by-step information\n   - Bold text for key information the user should notice\n\n4. For financial information:\n   - Include exact figures, time periods, and what the funding covers\n   - Present financial data clearly: \"The adult social care budget is **\u00a3X million** for [time period]\"\n\n5. Always include practical next steps or resources:\n   - Provide contact information, URLs, or application methods mentioned in the documents\n   - Suggest where the person could find more information\n\n6. When citing sources, use a simple format: \"According to [document name/description]\" or include URLs where available.\n\nAnswer:\n",
+    "processing_time": 12.687427997589111,
+    "timestamp": "2025-08-19T14:24:36.494066",
+    "top_k": 10
+  }
+}

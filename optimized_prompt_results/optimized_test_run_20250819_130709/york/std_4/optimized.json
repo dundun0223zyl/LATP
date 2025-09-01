@@ -1,0 +1,293 @@
+{
+  "query": "What additional resources and support services are available for social care users in york, including advocacy and complaints services?",
+  "retrieved_documents": [
+    {
+      "content": "Local Support Coordination - find support in your community Short breaks (Respite care) Support for people with Autism Making our information accessible Accessible toilets and changing facilities Residential care Benefits and financial support Get benefits advice Universal Credit York Financial Assistance Scheme (YFAS) Help with utility bills Concessionary travel Apply for a disabled facilities grant Help managing your money Managing someone else\u2019s affairs Financial help if you're disabled (GOV.UK) Residential care Residential care homes Professional care home feedback Care homes with nursing services (NHS) Care homes without nursing services (NHS) Adult Social Care policies and strategies The Care act Adult Social Care Strategy All Age Commissioning Strategy All Age Market Position Statement Live Well York Visit the Live Well York website Information about health and wellbeing Community activities Community events Products and services directory Also see Adult social care - accessible information Make a",
+      "metadata": {
+        "chunk_id": 5,
+        "filename": "www.york.gov.uk_AdultSocialCare.txt",
+        "level": "level_0",
+        "source": "https://www.york.gov.uk/AdultSocialCare",
+        "source_url": "https://www.york.gov.uk/AdultSocialCare",
+        "total_chunks": 8,
+        "type": "web_page"
+      },
+      "id": "62a618d5-804e-4f60-b433-5c36e3056306",
+      "distance": 0.576065719127655,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1771802842617035,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Find out about making a complaint that's not related to your financial assessment. Also see Get adult social care Residential care Assessing your needs Social care costs from 18 years of age Choosing your care and support (including Direct Payments) Paying for independent living with 24-hour support Live Well York Adult Social Care Community Team Telephone: 01904 555111, Textphone: 07534 437804 West Offices, Station Rise, York, YO1 6GA Email: adult.socialsupport@york.gov.uk Adult Social Care Emergency Duty Team Contact the Emergency Duty Team for assistance. We're available between 5.00pm and 8.30am, Monday to Friday, 24 hours a day over weekends (between 5.00pm Friday until 8.30am Monday), and 24 hours on bank holidays. Telephone: 0300 1312131 Comment on this page Next page : Get advice about care and support finances Previous page : Non-payment of care fees and debt recovery Pay for care online Pay residential care invoices Pay home care invoices Pay social housing invoices",
+      "metadata": {
+        "chunk_id": 3,
+        "filename": "www.york.gov.uk_personalisation-care_paying-care_4.txt",
+        "level": "level_2",
+        "source": "https://www.york.gov.uk/personalisation-care/paying-care/4",
+        "source_url": "https://www.york.gov.uk/personalisation-care/paying-care/4",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "7ee81985-766e-4e79-a23a-0a0cee5fe1e2",
+      "distance": 0.6038950681686401,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.16883147954940797,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "The Live Well York website offers a number of resources for community support and social care in York, including: Information and advice - provides a wide range of information pages to enable people to remain independent. For example, advice about money, legal issues, housing. What\u2019s On directory - use the What\u2019s on directory to find out what one off events or regular activities are happing in your area. Hubs and Clubs directory - use the Hubs and Clubs directory to find venues that offer a range of activities. Service and products directory - search the directory to find services and products to help you, or those you care about, to live independently. You can filter any of the directories by: where who it is for what type of event, activity or service Any of the information pages or directory entries can be added to a personal booklet for emailing as a PDF or printing for someone who does not use the internet",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.york.gov.uk_LiveWellYork.txt",
+        "level": "level_2",
+        "source": "https://www.york.gov.uk/LiveWellYork",
+        "source_url": "https://www.york.gov.uk/LiveWellYork",
+        "total_chunks": 3,
+        "type": "web_page"
+      },
+      "id": "8e574812-c0a8-47d8-9cc7-e5f768c0cd69",
+      "distance": 0.6084234118461609,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.16747297644615172,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". They take time to get to know you, your family, friends, carers and your community, so they can help you to build a strong support network. Contact your Local Area Coordinator Get support with: taking steps to make your life better helping you access a wide range of information getting the right help from available services developing relationships and community networks getting your voice heard about things that are important to you helping you find volunteering opportunities Also see Talk to Adult Social Care staff Live Well York Ways to Wellbeing (York CVS) Community mental health services for adults in York and Selby (NHS) Local Area Coordination Local Area Coordination use a 'place-based approach', which means each coordinator covers a particular area of York. Contact your Local Area Coordinator Comment on this page Next page : Contact your Local Area Coordinator",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.york.gov.uk_LocalAreaCoordination.txt",
+        "level": "level_1",
+        "source": "https://www.york.gov.uk/LocalAreaCoordination",
+        "source_url": "https://www.york.gov.uk/LocalAreaCoordination",
+        "total_chunks": 3,
+        "type": "web_page"
+      },
+      "id": "addbb754-f50c-4554-9012-480b3ddcfadc",
+      "distance": 0.6100451946258545,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.16698644161224363,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Contents Age Friendly York Getting out and about Your time Your access to information You are here: Your services Your home Our Age Friendly Ambassadors Age Friendly York consultations Age Friendly York documents Your services As part of the Age Friendly York project we're looking at health and community support services for older people, and considering whether: information about health and social services is clear and accessible an adequate range of services is offered for promoting, maintaining and restoring health health and social care services are conveniently located and accessible by all means of transport residential care facilities and older people\u2019s housing are located close to local services and the rest of the community health and community support staff are respectful, helpful and trained to serve older people health and community service facilities are safely constructed and fully accessible older people who are less well-off have good access to public, voluntary and private services community",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.york.gov.uk_health-social-care_age-friendly-york_5.txt",
+        "level": "level_2",
+        "source": "https://www.york.gov.uk/health-social-care/age-friendly-york/5",
+        "source_url": "https://www.york.gov.uk/health-social-care/age-friendly-york/5",
+        "total_chunks": 3,
+        "type": "web_page"
+      },
+      "id": "1b9c1e56-0e39-43e6-955b-9ab9e23cecbf",
+      "distance": 0.6464779376983643,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.15605661869049073,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 7]\nto be involved in a different way). It is in all of our interests that we make \nthis website as good as we can, so would very much appreciate your \ninput.  \nIf you would like to be part of the Live Well York co -design group \nthen please let me know by emailing LiveWellYork@york.gov.uk  If \nyou would like an initial chat please contact Carl Wain on 01904 \n554595.  \nThe Adult Social Care Strategy Consultation  \nWe're asking for feedback on the draft Adult Social Care Strategy for \n2025 to 2028.  \nWe want to hear from you if:  \n\u2022 you receive care or support  \n\u2022 you're a resident of York \n\u2022 you work for or with organisations that deliver care and support  \n\u2022 you\u2019re part of a charity, voluntary or community sector organisation \n\u2022 you\u2019re a carer, friend, neighbour, or family member of an adult who receives social care in York  \nPlease find the consultation here: \nhttps://www.york.gov.uk/AdultSocialCareStrategyConsultation  \nPaper copies are available by",
+      "metadata": {
+        "chunk_id": 16,
+        "contains_financial_info": true,
+        "download_url": "",
+        "extraction_method": "PyPDF2",
+        "filename": "age-friendly-york-meeting-notes-february-2025.pdf",
+        "financial_pages": "[2, 3, 5]",
+        "level": "level_2",
+        "page_count": 9,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9]",
+        "source": "age-friendly-york-meeting-notes-february-2025.pdf",
+        "source_url": "",
+        "total_chunks": 21,
+        "type": "pdf"
+      },
+      "id": "466dd2fa-9fa4-42fd-a308-c59aea2e1df2",
+      "distance": 0.655283510684967,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1534149467945099,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". If your assessment identifies that you're eligible, we'll help to arrange your social care services. If your needs are less severe, we will offer you advice about other services and organisations which may help you in your daily life, including: available benefits local services care providers Also see Find support in your community Adult social care Live Well York Adult Social Care Community Team Telephone: 01904 555111, Textphone: 07534 437804 West Offices, Station Rise, York, YO1 6GA Email: adult.socialsupport@york.gov.uk Adult Social Care Emergency Duty Team Contact the Emergency Duty Team for assistance. We're available between 5.00pm and 8.30am, Monday to Friday, 24 hours a day over weekends (between 5.00pm Friday until 8.30am Monday), and 24 hours on bank holidays. Telephone: 0300 1312131 Comment on this page",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.york.gov.uk_personalisation-care_get-adult-social-care.txt",
+        "level": "level_2",
+        "source": "https://www.york.gov.uk/personalisation-care/get-adult-social-care",
+        "source_url": "https://www.york.gov.uk/personalisation-care/get-adult-social-care",
+        "total_chunks": 3,
+        "type": "web_page"
+      },
+      "id": "f574fa46-d040-4f3d-b923-8ef6b69e154d",
+      "distance": 0.6563090682029724,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.15310727953910827,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". If your assessment identifies that you're eligible, we'll help to arrange your social care services. If your needs are less severe, we will offer you advice about other services and organisations which may help you in your daily life, including: available benefits local services care providers Also see Find support in your community Adult social care Live Well York Adult Social Care Community Team Telephone: 01904 555111, Textphone: 07534 437804 West Offices, Station Rise, York, YO1 6GA Email: adult.socialsupport@york.gov.uk Adult Social Care Emergency Duty Team Contact the Emergency Duty Team for assistance. We're available between 5.00pm and 8.30am, Monday to Friday, 24 hours a day over weekends (between 5.00pm Friday until 8.30am Monday), and 24 hours on bank holidays. Telephone: 0300 1312131 Comment on this page",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.york.gov.uk_GetAdultSocialCare.txt",
+        "level": "level_1",
+        "source": "https://www.york.gov.uk/GetAdultSocialCare",
+        "source_url": "https://www.york.gov.uk/GetAdultSocialCare",
+        "total_chunks": 3,
+        "type": "web_page"
+      },
+      "id": "c7ac60dc-8676-499b-b7cc-8220f91498d7",
+      "distance": 0.6563090682029724,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.15310727953910827,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 4 - FINANCIAL/BUDGET INFORMATION]\n4\nAssessments\nBefore we can offer you care and support services we will need to find \nout more about your circumstances. To help us do this we\u2019ll complete \nan assessment to look at your needs. \nIf your assessment identifies that you\u2019re eligible we\u2019ll help to arrange \nyour social care services. If your needs are less severe we will offer \nyou advice about other services and organisations which may help you \nin your daily life, including:\n\u2022 benefits advice\n\u2022  local services, care providers and groups, such as \n www.connecttosupport.org/york\nChoosing your care and support\nYou can choose the services which suit your needs, so that you\u2019re in \ncontrol of your care and support.\nFirst tell us about your needs; we\u2019ll discuss how any disability, illness \nor impairment affects your life during an assessment and work out the \ncost of helping you. \nWe\u2019ll also let you know if we can help with paying for your support",
+      "metadata": {
+        "chunk_id": 5,
+        "contains_financial_info": true,
+        "download_url": "",
+        "extraction_method": "PyPDF2",
+        "filename": "a-quick-guide-to-adult-social-care.pdf",
+        "financial_pages": "[4, 5, 6, 7, 8]",
+        "level": "level_2",
+        "page_count": 12,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]",
+        "source": "a-quick-guide-to-adult-social-care.pdf",
+        "source_url": "",
+        "total_chunks": 17,
+        "type": "pdf"
+      },
+      "id": "e14f8d34-2d26-49ec-a8ae-67ffeab5b16a",
+      "distance": 0.667656660079956,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1497030019760132,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 4 - FINANCIAL/BUDGET INFORMATION]\n4\nAssessments\nBefore we can offer you care and support services we will need to find \nout more about your circumstances. To help us do this we\u2019ll complete \nan assessment to look at your needs. \nIf your assessment identifies that you\u2019re eligible we\u2019ll help to arrange \nyour social care services. If your needs are less severe we will offer \nyou advice about other services and organisations which may help you \nin your daily life, including:\n\u2022 benefits advice\n\u2022  local services, care providers and groups, such as \n www.connecttosupport.org/york\nChoosing your care and support\nYou can choose the services which suit your needs, so that you\u2019re in \ncontrol of your care and support.\nFirst tell us about your needs; we\u2019ll discuss how any disability, illness \nor impairment affects your life during an assessment and work out the \ncost of helping you. \nWe\u2019ll also let you know if we can help with paying for your support",
+      "metadata": {
+        "chunk_id": 5,
+        "contains_financial_info": true,
+        "download_url": "",
+        "extraction_method": "PyPDF2",
+        "filename": "a-quick-guide-to-adult-social-care.pdf",
+        "financial_pages": "[4, 5, 6, 7, 8]",
+        "level": "level_1",
+        "page_count": 12,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]",
+        "source": "a-quick-guide-to-adult-social-care.pdf",
+        "source_url": "",
+        "total_chunks": 17,
+        "type": "pdf"
+      },
+      "id": "60558248-4cbe-4c89-a07b-af8276c148f9",
+      "distance": 0.667656660079956,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1497030019760132,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    }
+  ],
+  "context": "[Document 1] From https://www (web_page) - URL: https://www.york.gov.uk/AdultSocialCare [Retrieved via: semantic_original]:\nLocal Support Coordination - find support in your community Short breaks (Respite care) Support for people with Autism Making our information accessible Accessible toilets and changing facilities Residential care Benefits and financial support Get benefits advice Universal Credit York Financial Assistance Scheme (YFAS) Help with utility bills Concessionary travel Apply for a disabled facilities grant Help managing your money Managing someone else\u2019s affairs Financial help if you're disabled (GOV.UK) Residential care Residential care homes Professional care home feedback Care homes with nursing services (NHS) Care homes without nursing services (NHS) Adult Social Care policies and strategies The Care act Adult Social Care Strategy All Age Commissioning Strategy All Age Market Position Statement Live Well York Visit the Live Well York website Information about health and wellbeing Community activities Community events Products and services directory Also see Adult social care - accessible information Make a\n\n[Document 2] From https://www (web_page) - URL: https://www.york.gov.uk/personalisation-care/paying-care/4 [Retrieved via: semantic_original]:\n. Find out about making a complaint that's not related to your financial assessment. Also see Get adult social care Residential care Assessing your needs Social care costs from 18 years of age Choosing your care and support (including Direct Payments) Paying for independent living with 24-hour support Live Well York Adult Social Care Community Team Telephone: 01904 555111, Textphone: 07534 437804 West Offices, Station Rise, York, YO1 6GA Email: adult.socialsupport@york.gov.uk Adult Social Care Emergency Duty Team Contact the Emergency Duty Team for assistance. We're available between 5.00pm and 8.30am, Monday to Friday, 24 hours a day over weekends (between 5.00pm Friday until 8.30am Monday), and 24 hours on bank holidays. Telephone: 0300 1312131 Comment on this page Next page : Get advice about care and support finances Previous page : Non-payment of care fees and debt recovery Pay for care online Pay residential care invoices Pay home care invoices Pay social housing invoices\n\n[Document 3] From https://www (web_page) - URL: https://www.york.gov.uk/LiveWellYork [Retrieved via: semantic_original]:\nThe Live Well York website offers a number of resources for community support and social care in York, including: Information and advice - provides a wide range of information pages to enable people to remain independent. For example, advice about money, legal issues, housing. What\u2019s On directory - use the What\u2019s on directory to find out what one off events or regular activities are happing in your area. Hubs and Clubs directory - use the Hubs and Clubs directory to find venues that offer a range of activities. Service and products directory - search the directory to find services and products to help you, or those you care about, to live independently. You can filter any of the directories by: where who it is for what type of event, activity or service Any of the information pages or directory entries can be added to a personal booklet for emailing as a PDF or printing for someone who does not use the internet\n\n[Document 4] From https://www (web_page) - URL: https://www.york.gov.uk/LocalAreaCoordination [Retrieved via: semantic_original]:\n. They take time to get to know you, your family, friends, carers and your community, so they can help you to build a strong support network. Contact your Local Area Coordinator Get support with: taking steps to make your life better helping you access a wide range of information getting the right help from available services developing relationships and community networks getting your voice heard about things that are important to you helping you find volunteering opportunities Also see Talk to Adult Social Care staff Live Well York Ways to Wellbeing (York CVS) Community mental health services for adults in York and Selby (NHS) Local Area Coordination Local Area Coordination use a 'place-based approach', which means each coordinator covers a particular area of York. Contact your Local Area Coordinator Comment on this page Next page : Contact your Local Area Coordinator\n\n[Document 5] From https://www (web_page) - URL: https://www.york.gov.uk/health-social-care/age-friendly-york/5 [Retrieved via: semantic_original]:\nContents Age Friendly York Getting out and about Your time Your access to information You are here: Your services Your home Our Age Friendly Ambassadors Age Friendly York consultations Age Friendly York documents Your services As part of the Age Friendly York project we're looking at health and community support services for older people, and considering whether: information about health and social services is clear and accessible an adequate range of services is offered for promoting, maintaining and restoring health health and social care services are conveniently located and accessible by all means of transport residential care facilities and older people\u2019s housing are located close to local services and the rest of the community health and community support staff are respectful, helpful and trained to serve older people health and community service facilities are safely constructed and fully accessible older people who are less well-off have good access to public, voluntary and private services community\n\n[Document 6] From age friendly york meeting notes february 2025 (pdf) - 9 pages [Retrieved via: semantic_original]:\n[Page 7]\nto be involved in a different way). It is in all of our interests that we make \nthis website as good as we can, so would very much appreciate your \ninput.  \nIf you would like to be part of the Live Well York co -design group \nthen please let me know by emailing LiveWellYork@york.gov.uk  If \nyou would like an initial chat please contact Carl Wain on 01904 \n554595.  \nThe Adult Social Care Strategy Consultation  \nWe're asking for feedback on the draft Adult Social Care Strategy for \n2025 to 2028.  \nWe want to hear from you if:  \n\u2022 you receive care or support  \n\u2022 you're a resident of York \n\u2022 you work for or with organisations that deliver care and support  \n\u2022 you\u2019re part of a charity, voluntary or community sector organisation \n\u2022 you\u2019re a carer, friend, neighbour, or family member of an adult who receives social care in York  \nPlease find the consultation here: \nhttps://www.york.gov.uk/AdultSocialCareStrategyConsultation  \nPaper copies are available by\n\n[Document 7] From https://www (web_page) - URL: https://www.york.gov.uk/personalisation-care/get-adult-social-care [Retrieved via: semantic_original]:\n. If your assessment identifies that you're eligible, we'll help to arrange your social care services. If your needs are less severe, we will offer you advice about other services and organisations which may help you in your daily life, including: available benefits local services care providers Also see Find support in your community Adult social care Live Well York Adult Social Care Community Team Telephone: 01904 555111, Textphone: 07534 437804 West Offices, Station Rise, York, YO1 6GA Email: adult.socialsupport@york.gov.uk Adult Social Care Emergency Duty Team Contact the Emergency Duty Team for assistance. We're available between 5.00pm and 8.30am, Monday to Friday, 24 hours a day over weekends (between 5.00pm Friday until 8.30am Monday), and 24 hours on bank holidays. Telephone: 0300 1312131 Comment on this page\n\n[Document 8] From https://www (web_page) - URL: https://www.york.gov.uk/GetAdultSocialCare [Retrieved via: semantic_original]:\n. If your assessment identifies that you're eligible, we'll help to arrange your social care services. If your needs are less severe, we will offer you advice about other services and organisations which may help you in your daily life, including: available benefits local services care providers Also see Find support in your community Adult social care Live Well York Adult Social Care Community Team Telephone: 01904 555111, Textphone: 07534 437804 West Offices, Station Rise, York, YO1 6GA Email: adult.socialsupport@york.gov.uk Adult Social Care Emergency Duty Team Contact the Emergency Duty Team for assistance. We're available between 5.00pm and 8.30am, Monday to Friday, 24 hours a day over weekends (between 5.00pm Friday until 8.30am Monday), and 24 hours on bank holidays. Telephone: 0300 1312131 Comment on this page\n\n[Document 9] From a quick guide to adult social care (pdf) - 12 pages [Retrieved via: semantic_original]:\n[Page 4 - FINANCIAL/BUDGET INFORMATION]\n4\nAssessments\nBefore we can offer you care and support services we will need to find \nout more about your circumstances. To help us do this we\u2019ll complete \nan assessment to look at your needs. \nIf your assessment identifies that you\u2019re eligible we\u2019ll help to arrange \nyour social care services. If your needs are less severe we will offer \nyou advice about other services and organisations which may help you \nin your daily life, including:\n\u2022 benefits advice\n\u2022  local services, care providers and groups, such as \n www.connecttosupport.org/york\nChoosing your care and support\nYou can choose the services which suit your needs, so that you\u2019re in \ncontrol of your care and support.\nFirst tell us about your needs; we\u2019ll discuss how any disability, illness \nor impairment affects your life during an assessment and work out the \ncost of helping you. \nWe\u2019ll also let you know if we can help with paying for your support\n\n[Document 10] From a quick guide to adult social care (pdf) - 12 pages [Retrieved via: semantic_original]:\n[Page 4 - FINANCIAL/BUDGET INFORMATION]\n4\nAssessments\nBefore we can offer you care and support services we will need to find \nout more about your circumstances. To help us do this we\u2019ll complete \nan assessment to look at your needs. \nIf your assessment identifies that you\u2019re eligible we\u2019ll help to arrange \nyour social care services. If your needs are less severe we will offer \nyou advice about other services and organisations which may help you \nin your daily life, including:\n\u2022 benefits advice\n\u2022  local services, care providers and groups, such as \n www.connecttosupport.org/york\nChoosing your care and support\nYou can choose the services which suit your needs, so that you\u2019re in \ncontrol of your care and support.\nFirst tell us about your needs; we\u2019ll discuss how any disability, illness \nor impairment affects your life during an assessment and work out the \ncost of helping you. \nWe\u2019ll also let you know if we can help with paying for your support\n",
+  "answer": "In York, social care users have access to a variety of resources and support services, including advocacy and complaints services. These services are designed to help individuals manage their care, access community support, and address any concerns they may have.\n\n**Key Resources and Support Services:**\n\n- **Live Well York Website**: This platform offers a wide range of information and advice to help individuals remain independent, including directories for community activities, services, and products ([Live Well York](https://www.york.gov.uk/LiveWellYork)).\n\n- **Local Area Coordination**: Coordinators help build strong support networks by connecting individuals with community resources, developing relationships, and ensuring their voices are heard ([Local Area Coordination](https://www.york.gov.uk/LocalAreaCoordination)).\n\n- **Adult Social Care Community Team**: For general inquiries and support, contact the team at 01904 555111 or email adult.socialsupport@york.gov.uk. They provide assistance with accessing social care services and can guide you through the process of making a complaint.\n\n- **Emergency Duty Team**: Available for urgent social care needs outside of regular hours, contact them at 0300 1312131.\n\n- **Financial Support and Advice**: The York Financial Assistance Scheme (YFAS) and benefits advice are available to help manage finances related to social care ([York Financial Assistance Scheme](https://www.york.gov.uk/AdultSocialCare)).\n\n- **Advocacy Services**: While specific advocacy services are not detailed in the documents, individuals are encouraged to contact the Adult Social Care Community Team for guidance on accessing advocacy support.\n\nFor more detailed information or to participate in consultations about social care strategies, visit the [Adult Social Care Strategy Consultation](https://www.york.gov.uk/AdultSocialCareStrategyConsultation).",
+  "metrics": {
+    "duration_seconds": 10.327538967132568,
+    "retrieved_docs_count": 10,
+    "query_length": 135,
+    "answer_length": 1893,
+    "retrieval_method": "enhanced",
+    "context_utilization": 0.21265822784810126,
+    "citations_count": 1,
+    "has_citations": true,
+    "query_relevance": 0.8461538461538461,
+    "unique_retrieval_methods": 1,
+    "budget_documents_retrieved": 3,
+    "retrieval_methods_used": [
+      "semantic_original"
+    ],
+    "retrieval_method_distribution": {
+      "semantic_original": 10
+    }
+  },
+  "local_authority": "york",
+  "query_id": "std_4",
+  "retrieval_method": "enhanced",
+  "run_id": "dd5c4ec8-1428-4058-9cfc-3f681fb116a1",
+  "trace": {
+    "run_id": "dd5c4ec8-1428-4058-9cfc-3f681fb116a1",
+    "project": "social_care_rag",
+    "url": "https://eu.smith.langchain.com/o/me/runs/dd5c4ec8-1428-4058-9cfc-3f681fb116a1"
+  },
+  "test_metadata": {
+    "local_authority": "york",
+    "query_id": "std_4",
+    "query_category": "service_standard",
+    "prompt_variation": "optimized",
+    "prompt_template": "\nPlease answer the following question about social care services in UK local authorities based only on the information in the provided documents.\n\nQuestion: {query}\n\nContext from relevant documents:\n{context}\n\nInstructions:\n1. Provide a clear, direct answer that would help someone needing this information. If information isn't available, state: \"The available documents don't provide specific information about [aspect].\"\n\n2. Synthesize information from ALL relevant documents to provide the most complete answer rather than analyzing documents individually.\n\n3. Structure your response with:\n   - A concise 1-2 sentence summary first\n   - Relevant details organized in short, clear paragraphs\n   - Bullet points for lists or step-by-step information\n   - Bold text for key information the user should notice\n\n4. For financial information:\n   - Include exact figures, time periods, and what the funding covers\n   - Present financial data clearly: \"The adult social care budget is **\u00a3X million** for [time period]\"\n\n5. Always include practical next steps or resources:\n   - Provide contact information, URLs, or application methods mentioned in the documents\n   - Suggest where the person could find more information\n\n6. When citing sources, use a simple format: \"According to [document name/description]\" or include URLs where available.\n\nAnswer:\n",
+    "processing_time": 10.331747055053711,
+    "timestamp": "2025-08-19T14:21:48.804132",
+    "top_k": 10
+  }
+}

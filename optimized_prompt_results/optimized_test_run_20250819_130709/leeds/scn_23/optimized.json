@@ -1,0 +1,281 @@
+{
+  "query": "My wife's needs have changed significantly since her last assessment in leeds. How do we request a reassessment and how long will it take?",
+  "retrieved_documents": [
+    {
+      "content": "Needs assessments Find out what to expect when you have a needs assessment, including where it happens and what you'll talk about. What it is and how to get one When you contact us for help, we may arrange for you to speak with a social worker, wellbeing worker or occupational therapist. They\u2019ll have a conversation with you to find out what kind of support\u00a0will help you best. This is called a needs assessment. Get a needs assessment You can call us to talk about getting your need assessed. Find out how to contact us on how to get help . Where you\u2019ll be assessed The assessment can be in your own home or we may offer you an appointment at a talking point. Talking points\u00a0are sessions held all over Leeds in places like community hubs and One Stop Centres. If you can travel, it\u2019s often easier to get a talking point appointment than it is to get a home appointment. Bringing someone with you You can have someone with you for support during your assessment. This could be a carer, friend or family member",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.leeds.gov.uk_adult-social-care_how-to-get-adult-social-care-and-support_needs-assessments.txt",
+        "level": "level_2",
+        "source": "https://www.leeds.gov.uk/adult-social-care/how-to-get-adult-social-care-and-support/needs-assessments",
+        "source_url": "https://www.leeds.gov.uk/adult-social-care/how-to-get-adult-social-care-and-support/needs-assessments",
+        "total_chunks": 6,
+        "type": "web_page"
+      },
+      "id": "d19a9927-41fe-4da9-9500-e16f5456da51",
+      "distance": 0.8863826990127563,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.08408519029617309,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". To complain about something other than\u00a0the result of your financial assessment, you can make a complaint . Contact us Post Adults Operational Services Financial Assessments & Benefits 5th Floor East Leeds City Council Merrion House 110 Merrion Centre Leeds LS2 8BB Email lbs.visitors@leeds.gov.uk (Financial assessments for support at home) contacts.ccf@leeds.gov.uk (Financial assessments in a care home) Phone 0113 378 8251 (Monday to Friday 9am to 4:30pm, financial assessments for support at home) 0113 378 8559 (Monday to Friday 9am to 4:30pm, financial assessments in a care home) Give feedback and let us know if this page was helpful",
+      "metadata": {
+        "chunk_id": 3,
+        "filename": "www.leeds.gov.uk_adult-social-care_how-to-get-adult-social-care-and-support_help-to-pay-for-care_app.txt",
+        "level": "level_3",
+        "source": "https://www.leeds.gov.uk/adult-social-care/how-to-get-adult-social-care-and-support/help-to-pay-for-care/appeals",
+        "source_url": "https://www.leeds.gov.uk/adult-social-care/how-to-get-adult-social-care-and-support/help-to-pay-for-care/appeals",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "b5f0e26d-a083-4a07-a152-481d8fa8b800",
+      "distance": 0.929702639579773,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.07108920812606812,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". For more information call the supported services team on 0113 378 2188 (Monday, Tuesday and Thursday 9am to 5pm, Wednesday and Friday 9am to 4pm). Apply Register with Leeds homes website Ask for a medical assessment to change your priority to extra and get housing advice on the type of accommodation you need Make a bid for retirement LIFE houses if they're available When a property becomes available that you\u2019ve bid for, further checks may be done to see if it\u2019s suitable for you The property is offered to you if it meets your needs Give feedback and let us know if this page was helpful",
+      "metadata": {
+        "chunk_id": 5,
+        "filename": "www.leeds.gov.uk_adult-social-care_care-homes-and-supported-housing_supported-living-for-older-peopl.txt",
+        "level": "level_2",
+        "source": "https://www.leeds.gov.uk/adult-social-care/care-homes-and-supported-housing/supported-living-for-older-people",
+        "source_url": "https://www.leeds.gov.uk/adult-social-care/care-homes-and-supported-housing/supported-living-for-older-people",
+        "total_chunks": 6,
+        "type": "web_page"
+      },
+      "id": "88680ef4-af1d-4f69-b9bd-80d82e3636a4",
+      "distance": 0.9354020357131958,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.06937938928604126,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Or you can contact us for a conversation about your needs. Contact us Phone 0113 378 2698 Referrals For referral to the service, please call the Leeds City Council contact centre on 0113 222 4401 Give feedback and let us know if this page was helpful",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.leeds.gov.uk_adult-social-care_care-delivery-service_physical-impairment-and-older-peoples-servi.txt",
+        "level": "level_2",
+        "source": "https://www.leeds.gov.uk/adult-social-care/care-delivery-service/physical-impairment-and-older-peoples-service",
+        "source_url": "https://www.leeds.gov.uk/adult-social-care/care-delivery-service/physical-impairment-and-older-peoples-service",
+        "total_chunks": 3,
+        "type": "web_page"
+      },
+      "id": "7b1d5a7e-f389-4042-9a9b-d0b00db9388a",
+      "distance": 0.8599589467048645,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.06721231598854065,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". How to get support You will need a social worker to make a direct referral to us. Or you can contact us for a conversation about your needs. Contact us For a referral to the service, please call the Leeds City Council contact centre. Phone 0113 222 4401 Our three schemes: Cardinal Court Cardinal Walk, Beeston, LS11 8HP 0113 535 2506 cardinal.courtenquiries@leeds.gov.uk Rossefield Manor Rossefield Lawn, Bramley, LS13 3TG 0113 535 2129 Woodview Eastwood Drive, LS14 5HU 0113 535 2122 Find more information on other Leeds City Council extra care housing developments . Give feedback and let us know if this page was helpful",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.leeds.gov.uk_adult-social-care_care-delivery-service_extra-care-service.txt",
+        "level": "level_2",
+        "source": "https://www.leeds.gov.uk/adult-social-care/care-delivery-service/extra-care-service",
+        "source_url": "https://www.leeds.gov.uk/adult-social-care/care-delivery-service/extra-care-service",
+        "total_chunks": 3,
+        "type": "web_page"
+      },
+      "id": "50203c26-9f3c-495c-8b8f-5cf39854b5b7",
+      "distance": 0.9458376169204712,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.06624871492385864,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Thank you also for overseeing the work she did for him and for supporting her requests. Leeds City Council should be proud of its Social Services if they are all as good as your team. With my best wishes and sincere thanks, and also on behalf of my brothers and sisters\u201d . Learning Disability Transitions Team From a Consultant Paediatrician from LCH NHS Trust: \"It has been a real pleasure working with you",
+      "metadata": {
+        "chunk_id": 15,
+        "filename": "www.leeds.gov.uk_adult-social-care_adults-and-health-compliments-and-complaints_adult-social-care-co.txt",
+        "level": "level_2",
+        "source": "https://www.leeds.gov.uk/adult-social-care/adults-and-health-compliments-and-complaints/adult-social-care-compliments-and-complaints-annual-report",
+        "source_url": "https://www.leeds.gov.uk/adult-social-care/adults-and-health-compliments-and-complaints/adult-social-care-compliments-and-complaints-annual-report",
+        "total_chunks": 113,
+        "type": "web_page"
+      },
+      "id": "211e5862-18b7-47db-a665-b852c2af8f1a",
+      "distance": 0.9549205899238586,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.054423823022842405,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". We signpost to relevant services and support available take part in hobbies and activities feel part of the local community and reduce feelings of social isolation and loneliness One-to-one support is also available but may be chargeable. We don\u2019t provide: support in the person's own home support with personal care intensive, long term one-to-one support How to get support To request a referral form and for more information, email dayopportunites@leeds.gov.uk . We aim to process referrals within 14 working days. You will be contacted by one of our assessors to arrange an initial meeting to discuss the service and assess your suitability. Contact us To find out more or ask any questions, please email\u00a0the team",
+      "metadata": {
+        "chunk_id": 4,
+        "filename": "www.leeds.gov.uk_adult-social-care_care-delivery-service_mental-health-support_mental-health-day-opp.txt",
+        "level": "level_2",
+        "source": "https://www.leeds.gov.uk/adult-social-care/care-delivery-service/mental-health-support/mental-health-day-opportunities",
+        "source_url": "https://www.leeds.gov.uk/adult-social-care/care-delivery-service/mental-health-support/mental-health-day-opportunities",
+        "total_chunks": 6,
+        "type": "web_page"
+      },
+      "id": "de7b9b5e-dd60-46a4-97e8-a08063cb283c",
+      "distance": 0.9891667366027832,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.05324997901916504,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Changes to your care Find out what to do if your social care needs change, you cannot afford care anymore, or you're moving to another address. Change of address If you move, you need to let us know . Then we can make sure there is no gap in your care and support. Leaving Leeds If you move to an area which falls under another council, we will work with your new council to make sure there's no break in your care. Before you move, your new council will assess your needs and agree a new support plan with you. If this is not possible the new council will arrange the care and support we outlined in your previous plan. Changes in your needs or finances If your needs or finances change, get in touch with your social worker and let them know. If you do not have a social worker or you do not know their contact details, you can contact us instead. We'll arrange for your social worker or another member of their team to call you back",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.leeds.gov.uk_adult-social-care_changes-to-your-care.txt",
+        "level": "level_1",
+        "source": "https://www.leeds.gov.uk/adult-social-care/changes-to-your-care",
+        "source_url": "https://www.leeds.gov.uk/adult-social-care/changes-to-your-care",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "f42b2c5b-39c3-4cf1-9d95-99a34e364509",
+      "distance": 0.9922113418579102,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.052336597442626955,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Undertake equality impact assessment of information and advice objective to ensure that actions are inclusive. Mid-term: Support delivery of updated Leeds Directory website solution to provide improved information and advice, including user feedback, with effective communications plan. Further develop the housing self-assessment toolkit. Support delivery of cross housing and health sector training and partnership working. Support launch, monitoring and evaluation of West Yorkshire Rightsizing campaign. Continue to monitor equality impacts of actions / pilots. Long-term: Embed and promote housing information and advice pages on Leeds Directory to public and agencies. Complete development of housing self-assessment toolkit to be included on Leeds Directory. Work with HR to seek to incorporate housing into retirement planning material used by LCC. Support delivery of cross housing and health sector training and partnership working and evaluate cross housing and health sector working",
+      "metadata": {
+        "chunk_id": 62,
+        "filename": "www.leeds.gov.uk_plans-and-strategies_age-friendly-leeds-strategy-and-action-plan-2022-2025.txt",
+        "level": "level_2",
+        "source": "https://www.leeds.gov.uk/plans-and-strategies/age-friendly-leeds-strategy-and-action-plan-2022-2025",
+        "source_url": "https://www.leeds.gov.uk/plans-and-strategies/age-friendly-leeds-strategy-and-action-plan-2022-2025",
+        "total_chunks": 66,
+        "type": "web_page"
+      },
+      "id": "61894923-116a-44ef-89ce-d097c8326e2a",
+      "distance": 0.9932669997215271,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.052019900083541876,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 10 - FINANCIAL/BUDGET INFORMATION]\n10\nNational and  \nInternational Partnerships\nThe Centre for Ageing Better selected \nLeeds as a partner and in October \n2017- 2022 entered into a five-year \npartnership agreement with the \nCouncil and Leeds Older People\u2019s \nForum (LOPF).  \nAt the end of the partnership Leeds continues to \ntake the learning over the past five years and build \nupon these. \nThe partnership enabled Leeds:\n\u2022To adopt evidence-based practice, \n\u2022To pilot innovative approaches and \n\u2022To generate new evidence of \u2018what works\u2019 \nfor ageing well that can be disseminated \nlocally, regionally, nationally and internationally \nby Ageing Better, LCC, LOPF and other \nstakeholders.\nThe initial priorities for this partnership were \ntransport, housing and communities and \nneighbourhoods. Since then, partners have worked \non system wide work such as the State of Ageing in \nLeeds. Outputs from the partnership can be found at \nhttps://ageing-better.org.uk/leeds\nThe partnership was governed by an annual",
+      "metadata": {
+        "chunk_id": 19,
+        "contains_financial_info": true,
+        "download_url": "https://www.leeds.gov.uk/sites/default/files/docs/age%20friendly%20leeds%20strategy%20action%20plan%202022-25.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "age%20friendly%20leeds%20strategy%20action%20plan%202022-25.pdf",
+        "financial_pages": "[5, 6, 10, 12, 13, 14, 15, 16, 18, 19, 22, 23, 24, 25, 27, 29, 30, 32, 35]",
+        "level": "level_2",
+        "page_count": 36,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36]",
+        "source": "https://www.leeds.gov.uk/plans-and-strategies/age-friendly-leeds-strategy-and-action-plan-2022-2025",
+        "source_url": "https://www.leeds.gov.uk/plans-and-strategies/age-friendly-leeds-strategy-and-action-plan-2022-2025",
+        "total_chunks": 78,
+        "type": "pdf"
+      },
+      "id": "df699677-292a-48eb-942c-356d5b9e1503",
+      "distance": 0.9943592548370361,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.051692223548889166,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    }
+  ],
+  "context": "[Document 1] From https://www (web_page) - URL: https://www.leeds.gov.uk/adult-social-care/how-to-get-adult-social-care-and-support/needs-assessments [Retrieved via: semantic_original]:\nNeeds assessments Find out what to expect when you have a needs assessment, including where it happens and what you'll talk about. What it is and how to get one When you contact us for help, we may arrange for you to speak with a social worker, wellbeing worker or occupational therapist. They\u2019ll have a conversation with you to find out what kind of support\u00a0will help you best. This is called a needs assessment. Get a needs assessment You can call us to talk about getting your need assessed. Find out how to contact us on how to get help . Where you\u2019ll be assessed The assessment can be in your own home or we may offer you an appointment at a talking point. Talking points\u00a0are sessions held all over Leeds in places like community hubs and One Stop Centres. If you can travel, it\u2019s often easier to get a talking point appointment than it is to get a home appointment. Bringing someone with you You can have someone with you for support during your assessment. This could be a carer, friend or family member\n\n[Document 2] From https://www (web_page) - URL: https://www.leeds.gov.uk/adult-social-care/how-to-get-adult-social-care-and-support/help-to-pay-for-care/appeals [Retrieved via: semantic_original]:\n. To complain about something other than\u00a0the result of your financial assessment, you can make a complaint . Contact us Post Adults Operational Services Financial Assessments & Benefits 5th Floor East Leeds City Council Merrion House 110 Merrion Centre Leeds LS2 8BB Email lbs.visitors@leeds.gov.uk (Financial assessments for support at home) contacts.ccf@leeds.gov.uk (Financial assessments in a care home) Phone 0113 378 8251 (Monday to Friday 9am to 4:30pm, financial assessments for support at home) 0113 378 8559 (Monday to Friday 9am to 4:30pm, financial assessments in a care home) Give feedback and let us know if this page was helpful\n\n[Document 3] From https://www (web_page) - URL: https://www.leeds.gov.uk/adult-social-care/care-homes-and-supported-housing/supported-living-for-older-people [Retrieved via: semantic_original]:\n. For more information call the supported services team on 0113 378 2188 (Monday, Tuesday and Thursday 9am to 5pm, Wednesday and Friday 9am to 4pm). Apply Register with Leeds homes website Ask for a medical assessment to change your priority to extra and get housing advice on the type of accommodation you need Make a bid for retirement LIFE houses if they're available When a property becomes available that you\u2019ve bid for, further checks may be done to see if it\u2019s suitable for you The property is offered to you if it meets your needs Give feedback and let us know if this page was helpful\n\n[Document 4] From https://www (web_page) - URL: https://www.leeds.gov.uk/adult-social-care/care-delivery-service/physical-impairment-and-older-peoples-service [Retrieved via: semantic_original]:\n. Or you can contact us for a conversation about your needs. Contact us Phone 0113 378 2698 Referrals For referral to the service, please call the Leeds City Council contact centre on 0113 222 4401 Give feedback and let us know if this page was helpful\n\n[Document 5] From https://www (web_page) - URL: https://www.leeds.gov.uk/adult-social-care/care-delivery-service/extra-care-service [Retrieved via: semantic_original]:\n. How to get support You will need a social worker to make a direct referral to us. Or you can contact us for a conversation about your needs. Contact us For a referral to the service, please call the Leeds City Council contact centre. Phone 0113 222 4401 Our three schemes: Cardinal Court Cardinal Walk, Beeston, LS11 8HP 0113 535 2506 cardinal.courtenquiries@leeds.gov.uk Rossefield Manor Rossefield Lawn, Bramley, LS13 3TG 0113 535 2129 Woodview Eastwood Drive, LS14 5HU 0113 535 2122 Find more information on other Leeds City Council extra care housing developments . Give feedback and let us know if this page was helpful\n\n[Document 6] From https://www (web_page) - URL: https://www.leeds.gov.uk/adult-social-care/adults-and-health-compliments-and-complaints/adult-social-care-compliments-and-complaints-annual-report [Retrieved via: semantic_original]:\n. Thank you also for overseeing the work she did for him and for supporting her requests. Leeds City Council should be proud of its Social Services if they are all as good as your team. With my best wishes and sincere thanks, and also on behalf of my brothers and sisters\u201d . Learning Disability Transitions Team From a Consultant Paediatrician from LCH NHS Trust: \"It has been a real pleasure working with you\n\n[Document 7] From https://www (web_page) - URL: https://www.leeds.gov.uk/adult-social-care/care-delivery-service/mental-health-support/mental-health-day-opportunities [Retrieved via: semantic_original]:\n. We signpost to relevant services and support available take part in hobbies and activities feel part of the local community and reduce feelings of social isolation and loneliness One-to-one support is also available but may be chargeable. We don\u2019t provide: support in the person's own home support with personal care intensive, long term one-to-one support How to get support To request a referral form and for more information, email dayopportunites@leeds.gov.uk . We aim to process referrals within 14 working days. You will be contacted by one of our assessors to arrange an initial meeting to discuss the service and assess your suitability. Contact us To find out more or ask any questions, please email\u00a0the team\n\n[Document 8] From https://www (web_page) - URL: https://www.leeds.gov.uk/adult-social-care/changes-to-your-care [Retrieved via: semantic_original]:\nChanges to your care Find out what to do if your social care needs change, you cannot afford care anymore, or you're moving to another address. Change of address If you move, you need to let us know . Then we can make sure there is no gap in your care and support. Leaving Leeds If you move to an area which falls under another council, we will work with your new council to make sure there's no break in your care. Before you move, your new council will assess your needs and agree a new support plan with you. If this is not possible the new council will arrange the care and support we outlined in your previous plan. Changes in your needs or finances If your needs or finances change, get in touch with your social worker and let them know. If you do not have a social worker or you do not know their contact details, you can contact us instead. We'll arrange for your social worker or another member of their team to call you back\n\n[Document 9] From https://www (web_page) - URL: https://www.leeds.gov.uk/plans-and-strategies/age-friendly-leeds-strategy-and-action-plan-2022-2025 [Retrieved via: semantic_original]:\n. Undertake equality impact assessment of information and advice objective to ensure that actions are inclusive. Mid-term: Support delivery of updated Leeds Directory website solution to provide improved information and advice, including user feedback, with effective communications plan. Further develop the housing self-assessment toolkit. Support delivery of cross housing and health sector training and partnership working. Support launch, monitoring and evaluation of West Yorkshire Rightsizing campaign. Continue to monitor equality impacts of actions / pilots. Long-term: Embed and promote housing information and advice pages on Leeds Directory to public and agencies. Complete development of housing self-assessment toolkit to be included on Leeds Directory. Work with HR to seek to incorporate housing into retirement planning material used by LCC. Support delivery of cross housing and health sector training and partnership working and evaluate cross housing and health sector working\n\n[Document 10] From https://www (pdf) - URL: https://www.leeds.gov.uk/plans-and-strategies/age-friendly-leeds-strategy-and-action-plan-2022-2025 - 36 pages [Retrieved via: semantic_original]:\n[Page 10 - FINANCIAL/BUDGET INFORMATION]\n10\nNational and  \nInternational Partnerships\nThe Centre for Ageing Better selected \nLeeds as a partner and in October \n2017- 2022 entered into a five-year \npartnership agreement with the \nCouncil and Leeds Older People\u2019s \nForum (LOPF).  \nAt the end of the partnership Leeds continues to \ntake the learning over the past five years and build \nupon these. \nThe partnership enabled Leeds:\n\u2022To adopt evidence-based practice, \n\u2022To pilot innovative approaches and \n\u2022To generate new evidence of \u2018what works\u2019 \nfor ageing well that can be disseminated \nlocally, regionally, nationally and internationally \nby Ageing Better, LCC, LOPF and other \nstakeholders.\nThe initial priorities for this partnership were \ntransport, housing and communities and \nneighbourhoods. Since then, partners have worked \non system wide work such as the State of Ageing in \nLeeds. Outputs from the partnership can be found at \nhttps://ageing-better.org.uk/leeds\nThe partnership was governed by an annual\n",
+  "answer": "To request a reassessment for your wife's changed needs in Leeds, you should **contact the Leeds City Council**. You can do this by calling their contact centre at **0113 222 4401**. They will arrange for a social worker or another member of their team to discuss your wife's needs and organize a reassessment.\n\n- **Contact Information**: Call the Leeds City Council contact centre at **0113 222 4401**.\n- **Assessment Locations**: The reassessment can take place at your home or at a local talking point, which are sessions held in community hubs and One Stop Centres across Leeds.\n- **Support During Assessment**: You can have someone accompany your wife for support during the assessment, such as a carer, friend, or family member.\n\nThe available documents do not specify how long the reassessment process will take. For more detailed information, you may want to inquire directly when you contact the council.",
+  "metrics": {
+    "duration_seconds": 5.768871784210205,
+    "retrieved_docs_count": 10,
+    "query_length": 138,
+    "answer_length": 913,
+    "retrieval_method": "enhanced",
+    "context_utilization": 0.1336206896551724,
+    "citations_count": 0,
+    "has_citations": false,
+    "query_relevance": 0.7619047619047619,
+    "unique_retrieval_methods": 1,
+    "budget_documents_retrieved": 1,
+    "retrieval_methods_used": [
+      "semantic_original"
+    ],
+    "retrieval_method_distribution": {
+      "semantic_original": 10
+    }
+  },
+  "local_authority": "leeds",
+  "query_id": "scn_23",
+  "retrieval_method": "enhanced",
+  "run_id": "efb40406-6726-41a8-a9af-7ca68c82bc65",
+  "trace": {
+    "run_id": "efb40406-6726-41a8-a9af-7ca68c82bc65",
+    "project": "social_care_rag",
+    "url": "https://eu.smith.langchain.com/o/me/runs/efb40406-6726-41a8-a9af-7ca68c82bc65"
+  },
+  "test_metadata": {
+    "local_authority": "leeds",
+    "query_id": "scn_23",
+    "query_category": "assessment_scenarios",
+    "prompt_variation": "optimized",
+    "prompt_template": "\nPlease answer the following question about social care services in UK local authorities based only on the information in the provided documents.\n\nQuestion: {query}\n\nContext from relevant documents:\n{context}\n\nInstructions:\n1. Provide a clear, direct answer that would help someone needing this information. If information isn't available, state: \"The available documents don't provide specific information about [aspect].\"\n\n2. Synthesize information from ALL relevant documents to provide the most complete answer rather than analyzing documents individually.\n\n3. Structure your response with:\n   - A concise 1-2 sentence summary first\n   - Relevant details organized in short, clear paragraphs\n   - Bullet points for lists or step-by-step information\n   - Bold text for key information the user should notice\n\n4. For financial information:\n   - Include exact figures, time periods, and what the funding covers\n   - Present financial data clearly: \"The adult social care budget is **\u00a3X million** for [time period]\"\n\n5. Always include practical next steps or resources:\n   - Provide contact information, URLs, or application methods mentioned in the documents\n   - Suggest where the person could find more information\n\n6. When citing sources, use a simple format: \"According to [document name/description]\" or include URLs where available.\n\nAnswer:\n",
+    "processing_time": 5.771101951599121,
+    "timestamp": "2025-08-19T13:54:02.768507",
+    "top_k": 10
+  }
+}

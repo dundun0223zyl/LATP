@@ -1,0 +1,275 @@
+{
+  "query": "I work full-time but also care for my elderly father with Parkinson's in leeds. What respite care options exist so I can have occasional breaks?",
+  "retrieved_documents": [
+    {
+      "content": "Recovery hubs Find out about support for adults who need temporary care to promote faster recovery from illness, prevent unnecessary hospital admission and maximise independent living. Who we help We support adults who: are medically ready for discharge from hospital, but who require a further period of rehabilitation and recovery need a wide range of care and support, including nursing and dementia support What we do We provide short term residential and nursing support to adults which may include specialist support, therapy, nursing intervention or a review of overall care needs. The service is delivered in partnership with Leeds Community Healthcare NHS Trust, bringing together a variety of health and social care specialists to provide a strength based and recovery focussed approach to supporting people. Our hubs We have three hubs in Leeds - East (Seacroft) , North West (Yeadon) and South (Beeston)",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.leeds.gov.uk_adult-social-care_care-delivery-service_recovery-hubs.txt",
+        "level": "level_1",
+        "source": "https://www.leeds.gov.uk/adult-social-care/care-delivery-service/recovery-hubs",
+        "source_url": "https://www.leeds.gov.uk/adult-social-care/care-delivery-service/recovery-hubs",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "d0164e02-0ef6-4305-86a5-f0bf0ca2cdc7",
+      "distance": 0.740573061449352,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1278280815651944,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Help through the council We offer different types of support, depending on your needs. This can include: Community based short breaks - care workers visiting the person you care for once or twice a week, for up to 8 hours per week. Leeds Shared Lives scheme - getting day support or respite in someone else's home for the person you care for. Find out more about Shared Lives respite care and day support Complex needs day services - supporting people who live with dementia or have complex needs Physical impairment and older people's service - helping older people and adults living with a physical impairment who need support Peer support service - helping people living with dementia and people in their support network Find the current costs of services from adult social care . To find out more about short breaks, call the adult social care team on 0113 222 4401 (weekdays 9am to 5pm, except Wednesday from 10am). You can also find out more about becoming a Shared Lives carer",
+      "metadata": {
+        "chunk_id": 7,
+        "filename": "www.leeds.gov.uk_adult-social-care_looking-after-someone_looking-after-a-family-member-or-friend.txt",
+        "level": "level_2",
+        "source": "https://www.leeds.gov.uk/adult-social-care/looking-after-someone/looking-after-a-family-member-or-friend",
+        "source_url": "https://www.leeds.gov.uk/adult-social-care/looking-after-someone/looking-after-a-family-member-or-friend",
+        "total_chunks": 14,
+        "type": "web_page"
+      },
+      "id": "a937aa4e-25e1-41d0-8c6c-b3f249ed8719",
+      "distance": 0.7546266913414001,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.12361199259757996,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". To get started, find out more and contact us for help . Cost of personal assistants If you qualify, you will get a monthly direct payment from the council to help pay your assistant's wages. You must have a financial assessment (means test) to work out if you qualify and how much your direct payment will be. Find out more about arranging your care with direct payments . Respite care up to 8 hours a week If a friend or family member usually looks after you, we might suggest you have a paid carer for short visits so that the person who looks after you can go out. This is a type of respite care also known as a short break, because it provides a break for the person looking after you. The respite carer can visit your home or accompany you on day trips and outings. They can visit once or twice a week and provide up to a maximum of 8 hours of care each week. You can talk to us to see if this service is right for you. To get started, find out how to contact us for help",
+      "metadata": {
+        "chunk_id": 5,
+        "filename": "www.leeds.gov.uk_adult-social-care_help-at-home_care-in-your-home.txt",
+        "level": "level_2",
+        "source": "https://www.leeds.gov.uk/adult-social-care/help-at-home/care-in-your-home",
+        "source_url": "https://www.leeds.gov.uk/adult-social-care/help-at-home/care-in-your-home",
+        "total_chunks": 7,
+        "type": "web_page"
+      },
+      "id": "45be4a60-c754-4c39-9345-a0c859622b06",
+      "distance": 0.7722457051277161,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.11832628846168518,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". This is also known as respite care. How to get a paid carer You can get paid carers from private care agencies, the NHS or through the council. Private agency care The fastest way to get paid carers is to arrange and pay for them yourself through a care agency. Often their care can include extra help like cleaning, companionship, and getting out and about. Find local trusted care agencies on Leeds Directory . Free NHS care If you have long term complex health needs, you might qualify for free home care from the NHS. You will need to ask your GP or social worker to arrange an assessment. Find out more about NHS Continuing Care . Care through the council (social care) You may be able to get a paid carer as part of a support plan from the council, also known as social care. Care through the council is not free, but you may qualify for help to pay for some or all of it. There are a few different types of care we might suggest",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.leeds.gov.uk_adult-social-care_help-at-home_care-in-your-home.txt",
+        "level": "level_2",
+        "source": "https://www.leeds.gov.uk/adult-social-care/help-at-home/care-in-your-home",
+        "source_url": "https://www.leeds.gov.uk/adult-social-care/help-at-home/care-in-your-home",
+        "total_chunks": 7,
+        "type": "web_page"
+      },
+      "id": "f8dcf05b-1208-40e7-84c8-e2317ed6670a",
+      "distance": 0.7736151814460754,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.11791544556617736,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Types of support from adult social care Find out the different types of support\u00a0we might suggest for you\u00a0and what social care looks like in Leeds. How we'll help When you contact\u00a0us\u00a0we may arrange for you to have an assessment with a member of our team. They'll work with you to make a plan to help you live well. What is in a care and support\u00a0plan Your plan could be for long term support, or it could be for a short time until you're feeling better after an illness or change. The plan could include support from lots of different places, including volunteer helpers, community groups and charities. And, if your assessment shows you need it, we could include things like equipment or professional care and support services. Living well Your plan could include ways to help you stay independent and do the things you enjoy. This could be adapted equipment to make daily tasks easier, help getting out and about, and finding ways to reconnect you with friends and family",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.leeds.gov.uk_adult-social-care_how-to-get-adult-social-care-and-support_types-of-support-from-ad.txt",
+        "level": "level_2",
+        "source": "https://www.leeds.gov.uk/adult-social-care/how-to-get-adult-social-care-and-support/types-of-support-from-adult-social-care",
+        "source_url": "https://www.leeds.gov.uk/adult-social-care/how-to-get-adult-social-care-and-support/types-of-support-from-adult-social-care",
+        "total_chunks": 5,
+        "type": "web_page"
+      },
+      "id": "88098389-a2be-4764-adb2-c2f5e20a4b24",
+      "distance": 0.7827762961387634,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.11516711115837097,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Find out more about getting help to pay for care . Services you will need to pay for There are some things that you will probably have to pay for yourself. Respite care (weekly breaks in a care home) Age of person Typical cost Under 25 \u00a3140.20 per week Between 25 and state pension age \u00a3159.40 per week State pension age and over \u00a3196.45 per week Respite care can also be for less than a week \u2013 for a few days or an overnight stay. Read more about how we can help you take a break from caring on: looking after a family member or friend . Meal charges Meals provided at a Leeds City Council-owned day centre: Meal Typical cost Main meal including dessert \u00a37.40 per meal Second meal (teatime) \u00a34.20 per meal Personal safety alarm (telecare) The alarm itself is free, but there is a weekly cost to have it monitored. Find full details on our page about help and safety alarms in the home . How to get help To talk to us about your needs and plan your support, find out how to get help",
+      "metadata": {
+        "chunk_id": 5,
+        "filename": "www.leeds.gov.uk_adult-social-care_how-to-get-adult-social-care-and-support_how-much-it-costs.txt",
+        "level": "level_2",
+        "source": "https://www.leeds.gov.uk/adult-social-care/how-to-get-adult-social-care-and-support/how-much-it-costs",
+        "source_url": "https://www.leeds.gov.uk/adult-social-care/how-to-get-adult-social-care-and-support/how-much-it-costs",
+        "total_chunks": 7,
+        "type": "web_page"
+      },
+      "id": "9d813fd2-c7af-482c-a2f8-ce6c8120f57e",
+      "distance": 0.7950772047042847,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1114768385887146,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". With your permission, your GP can also refer you for more support to Carers Leeds . Looking after yourself If you care for someone, it's important that you care for yourself too, including your physical and mental health. If you're struggling with your mental health you can speak to your GP or get advice on staying healthy and well from: Mindmate NHS Leeds Clinical Commissioning Group Take a break from caring If you regularly care for someone and feel like you need a rest or some extra support, you can ask us for a carer's assessment . This is a chance for you to have a conversation about how your caring responsibilities affect your quality of life. We'll assess your needs and situation and see how we can help to make your life easier. Other ways we can help you to take a temporary break from caring include: Help from a paid care worker (respite care) If you have caring responsibilities and need a break, you can pay for someone to come and help out",
+      "metadata": {
+        "chunk_id": 6,
+        "filename": "www.leeds.gov.uk_adult-social-care_looking-after-someone_looking-after-a-family-member-or-friend.txt",
+        "level": "level_2",
+        "source": "https://www.leeds.gov.uk/adult-social-care/looking-after-someone/looking-after-a-family-member-or-friend",
+        "source_url": "https://www.leeds.gov.uk/adult-social-care/looking-after-someone/looking-after-a-family-member-or-friend",
+        "total_chunks": 14,
+        "type": "web_page"
+      },
+      "id": "fb21784d-6ac3-4086-aa9d-9da4ec59041f",
+      "distance": 0.799683690071106,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.11009489297866822,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". If your caring duties are affecting your finances, you may be able to increase your income or reduce your outgoings. You can: check what benefits you can claim at Money Advice Service find out\u00a0if you are elligible and apply for Carer\u2019s Allowance at GOV.UK apply for Council Tax Support learn how to\u00a0reduce your bills get\u00a0help with your pension from Carers UK Get support at work If you're balancing a job while caring for someone, you should talk to your employer to see what support they can offer you. This could include: flexible working taking time off changing your work arrangements For advice on speaking to your employer and to find out your rights at work, visit Carers UK . Join support groups Speaking to other people who are in a similar situation to you and who understand the issues you are facing can be a good way to get advice and support. Find local groups Carers Leeds provides up to 30 local support groups each month for carers. This gives you the opportunity to meet other carers like you",
+      "metadata": {
+        "chunk_id": 9,
+        "filename": "www.leeds.gov.uk_adult-social-care_looking-after-someone_looking-after-a-family-member-or-friend.txt",
+        "level": "level_2",
+        "source": "https://www.leeds.gov.uk/adult-social-care/looking-after-someone/looking-after-a-family-member-or-friend",
+        "source_url": "https://www.leeds.gov.uk/adult-social-care/looking-after-someone/looking-after-a-family-member-or-friend",
+        "total_chunks": 14,
+        "type": "web_page"
+      },
+      "id": "da662b3e-ac96-496a-b379-db4642888b29",
+      "distance": 0.8214126229286194,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.10357621312141418,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". You can talk to us to see if this service is right for you. To get started, find out how to contact us for help . Cost of short break respite care through the council This type of respite care costs \u00a39.18 an hour if you get it through the council, but you may get help to pay for it. Find out more about the cost of services . How to apply To get care through the council, your first step is to talk to us about your needs so we can work out what will help you best. Find out how to contact us for help . If you already get care and support from the council, contact your social worker or see how to make changes to your care . Looking after someone? If you're looking after a friend or relative, we can support you and help you take breaks by arranging respite care. Get support for carers . Give feedback and let us know if this page was helpful",
+      "metadata": {
+        "chunk_id": 6,
+        "filename": "www.leeds.gov.uk_adult-social-care_help-at-home_care-in-your-home.txt",
+        "level": "level_2",
+        "source": "https://www.leeds.gov.uk/adult-social-care/help-at-home/care-in-your-home",
+        "source_url": "https://www.leeds.gov.uk/adult-social-care/help-at-home/care-in-your-home",
+        "total_chunks": 7,
+        "type": "web_page"
+      },
+      "id": "2d13523c-2291-4e47-b656-d54f00bd807f",
+      "distance": 0.8236128091812134,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.10291615724563599,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Relatives and friends of care home residents Organisations that offer help and support for friends and relatives Carers Leeds gives tailored support, advice and information to unpaid carers Healthwatch Leeds provides an information and advice service to help people understand and access health and care services in the Leeds area Care Rights UK support and inform residents, families and friends to find out all they need to know about care and to help them if things go wrong Age UK Leeds runs a local information and advice service that can give you advice on things affecting older people Anne Robson Trust a new helpline for people at end of life (last months, weeks or days) or their families or friends Mindwell Leeds lots of useful information for people living in Leeds about where you can get support (including for bereavement and loss) as well as things you can do to support yourself Visiting a care home Information about what rights you have when visiting someone in care Raising a concern How to raise a",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.leeds.gov.uk_care-quality-team_family-and-friends-of-care-home-residents.txt",
+        "level": "level_3",
+        "source": "https://www.leeds.gov.uk/care-quality-team/family-and-friends-of-care-home-residents",
+        "source_url": "https://www.leeds.gov.uk/care-quality-team/family-and-friends-of-care-home-residents",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "e3d19883-8ccc-4a11-843d-6db594708709",
+      "distance": 0.832457959651947,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1002626121044159,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    }
+  ],
+  "context": "[Document 1] From https://www (web_page) - URL: https://www.leeds.gov.uk/adult-social-care/care-delivery-service/recovery-hubs [Retrieved via: semantic_original]:\nRecovery hubs Find out about support for adults who need temporary care to promote faster recovery from illness, prevent unnecessary hospital admission and maximise independent living. Who we help We support adults who: are medically ready for discharge from hospital, but who require a further period of rehabilitation and recovery need a wide range of care and support, including nursing and dementia support What we do We provide short term residential and nursing support to adults which may include specialist support, therapy, nursing intervention or a review of overall care needs. The service is delivered in partnership with Leeds Community Healthcare NHS Trust, bringing together a variety of health and social care specialists to provide a strength based and recovery focussed approach to supporting people. Our hubs We have three hubs in Leeds - East (Seacroft) , North West (Yeadon) and South (Beeston)\n\n[Document 2] From https://www (web_page) - URL: https://www.leeds.gov.uk/adult-social-care/looking-after-someone/looking-after-a-family-member-or-friend [Retrieved via: semantic_original]:\n. Help through the council We offer different types of support, depending on your needs. This can include: Community based short breaks - care workers visiting the person you care for once or twice a week, for up to 8 hours per week. Leeds Shared Lives scheme - getting day support or respite in someone else's home for the person you care for. Find out more about Shared Lives respite care and day support Complex needs day services - supporting people who live with dementia or have complex needs Physical impairment and older people's service - helping older people and adults living with a physical impairment who need support Peer support service - helping people living with dementia and people in their support network Find the current costs of services from adult social care . To find out more about short breaks, call the adult social care team on 0113 222 4401 (weekdays 9am to 5pm, except Wednesday from 10am). You can also find out more about becoming a Shared Lives carer\n\n[Document 3] From https://www (web_page) - URL: https://www.leeds.gov.uk/adult-social-care/help-at-home/care-in-your-home [Retrieved via: semantic_original]:\n. To get started, find out more and contact us for help . Cost of personal assistants If you qualify, you will get a monthly direct payment from the council to help pay your assistant's wages. You must have a financial assessment (means test) to work out if you qualify and how much your direct payment will be. Find out more about arranging your care with direct payments . Respite care up to 8 hours a week If a friend or family member usually looks after you, we might suggest you have a paid carer for short visits so that the person who looks after you can go out. This is a type of respite care also known as a short break, because it provides a break for the person looking after you. The respite carer can visit your home or accompany you on day trips and outings. They can visit once or twice a week and provide up to a maximum of 8 hours of care each week. You can talk to us to see if this service is right for you. To get started, find out how to contact us for help\n\n[Document 4] From https://www (web_page) - URL: https://www.leeds.gov.uk/adult-social-care/help-at-home/care-in-your-home [Retrieved via: semantic_original]:\n. This is also known as respite care. How to get a paid carer You can get paid carers from private care agencies, the NHS or through the council. Private agency care The fastest way to get paid carers is to arrange and pay for them yourself through a care agency. Often their care can include extra help like cleaning, companionship, and getting out and about. Find local trusted care agencies on Leeds Directory . Free NHS care If you have long term complex health needs, you might qualify for free home care from the NHS. You will need to ask your GP or social worker to arrange an assessment. Find out more about NHS Continuing Care . Care through the council (social care) You may be able to get a paid carer as part of a support plan from the council, also known as social care. Care through the council is not free, but you may qualify for help to pay for some or all of it. There are a few different types of care we might suggest\n\n[Document 5] From https://www (web_page) - URL: https://www.leeds.gov.uk/adult-social-care/how-to-get-adult-social-care-and-support/types-of-support-from-adult-social-care [Retrieved via: semantic_original]:\nTypes of support from adult social care Find out the different types of support\u00a0we might suggest for you\u00a0and what social care looks like in Leeds. How we'll help When you contact\u00a0us\u00a0we may arrange for you to have an assessment with a member of our team. They'll work with you to make a plan to help you live well. What is in a care and support\u00a0plan Your plan could be for long term support, or it could be for a short time until you're feeling better after an illness or change. The plan could include support from lots of different places, including volunteer helpers, community groups and charities. And, if your assessment shows you need it, we could include things like equipment or professional care and support services. Living well Your plan could include ways to help you stay independent and do the things you enjoy. This could be adapted equipment to make daily tasks easier, help getting out and about, and finding ways to reconnect you with friends and family\n\n[Document 6] From https://www (web_page) - URL: https://www.leeds.gov.uk/adult-social-care/how-to-get-adult-social-care-and-support/how-much-it-costs [Retrieved via: semantic_original]:\n. Find out more about getting help to pay for care . Services you will need to pay for There are some things that you will probably have to pay for yourself. Respite care (weekly breaks in a care home) Age of person Typical cost Under 25 \u00a3140.20 per week Between 25 and state pension age \u00a3159.40 per week State pension age and over \u00a3196.45 per week Respite care can also be for less than a week \u2013 for a few days or an overnight stay. Read more about how we can help you take a break from caring on: looking after a family member or friend . Meal charges Meals provided at a Leeds City Council-owned day centre: Meal Typical cost Main meal including dessert \u00a37.40 per meal Second meal (teatime) \u00a34.20 per meal Personal safety alarm (telecare) The alarm itself is free, but there is a weekly cost to have it monitored. Find full details on our page about help and safety alarms in the home . How to get help To talk to us about your needs and plan your support, find out how to get help\n\n[Document 7] From https://www (web_page) - URL: https://www.leeds.gov.uk/adult-social-care/looking-after-someone/looking-after-a-family-member-or-friend [Retrieved via: semantic_original]:\n. With your permission, your GP can also refer you for more support to Carers Leeds . Looking after yourself If you care for someone, it's important that you care for yourself too, including your physical and mental health. If you're struggling with your mental health you can speak to your GP or get advice on staying healthy and well from: Mindmate NHS Leeds Clinical Commissioning Group Take a break from caring If you regularly care for someone and feel like you need a rest or some extra support, you can ask us for a carer's assessment . This is a chance for you to have a conversation about how your caring responsibilities affect your quality of life. We'll assess your needs and situation and see how we can help to make your life easier. Other ways we can help you to take a temporary break from caring include: Help from a paid care worker (respite care) If you have caring responsibilities and need a break, you can pay for someone to come and help out\n\n[Document 8] From https://www (web_page) - URL: https://www.leeds.gov.uk/adult-social-care/looking-after-someone/looking-after-a-family-member-or-friend [Retrieved via: semantic_original]:\n. If your caring duties are affecting your finances, you may be able to increase your income or reduce your outgoings. You can: check what benefits you can claim at Money Advice Service find out\u00a0if you are elligible and apply for Carer\u2019s Allowance at GOV.UK apply for Council Tax Support learn how to\u00a0reduce your bills get\u00a0help with your pension from Carers UK Get support at work If you're balancing a job while caring for someone, you should talk to your employer to see what support they can offer you. This could include: flexible working taking time off changing your work arrangements For advice on speaking to your employer and to find out your rights at work, visit Carers UK . Join support groups Speaking to other people who are in a similar situation to you and who understand the issues you are facing can be a good way to get advice and support. Find local groups Carers Leeds provides up to 30 local support groups each month for carers. This gives you the opportunity to meet other carers like you\n\n[Document 9] From https://www (web_page) - URL: https://www.leeds.gov.uk/adult-social-care/help-at-home/care-in-your-home [Retrieved via: semantic_original]:\n. You can talk to us to see if this service is right for you. To get started, find out how to contact us for help . Cost of short break respite care through the council This type of respite care costs \u00a39.18 an hour if you get it through the council, but you may get help to pay for it. Find out more about the cost of services . How to apply To get care through the council, your first step is to talk to us about your needs so we can work out what will help you best. Find out how to contact us for help . If you already get care and support from the council, contact your social worker or see how to make changes to your care . Looking after someone? If you're looking after a friend or relative, we can support you and help you take breaks by arranging respite care. Get support for carers . Give feedback and let us know if this page was helpful\n\n[Document 10] From https://www (web_page) - URL: https://www.leeds.gov.uk/care-quality-team/family-and-friends-of-care-home-residents [Retrieved via: semantic_original]:\nRelatives and friends of care home residents Organisations that offer help and support for friends and relatives Carers Leeds gives tailored support, advice and information to unpaid carers Healthwatch Leeds provides an information and advice service to help people understand and access health and care services in the Leeds area Care Rights UK support and inform residents, families and friends to find out all they need to know about care and to help them if things go wrong Age UK Leeds runs a local information and advice service that can give you advice on things affecting older people Anne Robson Trust a new helpline for people at end of life (last months, weeks or days) or their families or friends Mindwell Leeds lots of useful information for people living in Leeds about where you can get support (including for bereavement and loss) as well as things you can do to support yourself Visiting a care home Information about what rights you have when visiting someone in care Raising a concern How to raise a\n",
+  "answer": "You have several respite care options available in Leeds to help you take occasional breaks from caring for your father with Parkinson's.\n\n**Respite Care Options:**\n- **Community-Based Short Breaks:** Care workers can visit your father once or twice a week, providing up to 8 hours of care per week. This service allows you to have some time for yourself while ensuring your father is looked after.\n- **Leeds Shared Lives Scheme:** This option provides day support or respite in someone else's home, offering a change of environment for your father.\n- **Paid Carer Visits:** You can arrange for a paid carer to visit your home or accompany your father on outings, providing up to 8 hours of care weekly. This service costs \u00a39.18 per hour if arranged through the council, but financial assistance may be available.\n\n**Next Steps:**\n- **Contact the Adult Social Care Team:** To explore these options further, call the adult social care team at **0113 222 4401** (weekdays 9am to 5pm, except Wednesday from 10am).\n- **Carer's Assessment:** Consider requesting a carer's assessment to discuss your needs and explore how the council can support you in balancing work and caregiving responsibilities.\n\nFor more detailed information, you can visit the Leeds City Council's adult social care page: [Leeds Adult Social Care](https://www.leeds.gov.uk/adult-social-care/looking-after-someone/looking-after-a-family-member-or-friend).",
+  "metrics": {
+    "duration_seconds": 14.403049945831299,
+    "retrieved_docs_count": 10,
+    "query_length": 144,
+    "answer_length": 1422,
+    "retrieval_method": "enhanced",
+    "context_utilization": 0.2151029748283753,
+    "citations_count": 0,
+    "has_citations": false,
+    "query_relevance": 0.7272727272727273,
+    "unique_retrieval_methods": 1,
+    "budget_documents_retrieved": 0,
+    "retrieval_methods_used": [
+      "semantic_original"
+    ],
+    "retrieval_method_distribution": {
+      "semantic_original": 10
+    }
+  },
+  "local_authority": "leeds",
+  "query_id": "scn_13",
+  "retrieval_method": "enhanced",
+  "run_id": "afa4faee-0c2b-481e-87a1-8b44014d2530",
+  "trace": {
+    "run_id": "afa4faee-0c2b-481e-87a1-8b44014d2530",
+    "project": "social_care_rag",
+    "url": "https://eu.smith.langchain.com/o/me/runs/afa4faee-0c2b-481e-87a1-8b44014d2530"
+  },
+  "test_metadata": {
+    "local_authority": "leeds",
+    "query_id": "scn_13",
+    "query_category": "carer_support_scenarios",
+    "prompt_variation": "optimized",
+    "prompt_template": "\nPlease answer the following question about social care services in UK local authorities based only on the information in the provided documents.\n\nQuestion: {query}\n\nContext from relevant documents:\n{context}\n\nInstructions:\n1. Provide a clear, direct answer that would help someone needing this information. If information isn't available, state: \"The available documents don't provide specific information about [aspect].\"\n\n2. Synthesize information from ALL relevant documents to provide the most complete answer rather than analyzing documents individually.\n\n3. Structure your response with:\n   - A concise 1-2 sentence summary first\n   - Relevant details organized in short, clear paragraphs\n   - Bullet points for lists or step-by-step information\n   - Bold text for key information the user should notice\n\n4. For financial information:\n   - Include exact figures, time periods, and what the funding covers\n   - Present financial data clearly: \"The adult social care budget is **\u00a3X million** for [time period]\"\n\n5. Always include practical next steps or resources:\n   - Provide contact information, URLs, or application methods mentioned in the documents\n   - Suggest where the person could find more information\n\n6. When citing sources, use a simple format: \"According to [document name/description]\" or include URLs where available.\n\nAnswer:\n",
+    "processing_time": 14.406287908554077,
+    "timestamp": "2025-08-19T13:53:05.011679",
+    "top_k": 10
+  }
+}

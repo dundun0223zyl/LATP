@@ -1,0 +1,275 @@
+{
+  "query": "My care needs assessment in york says I need 20 hours of home care weekly, but I'm worried about costs. What financial help is available?",
+  "retrieved_documents": [
+    {
+      "content": "If you're having difficulty with day to day tasks at home, you may need some extra support. The type of things you may need help with include: washing getting dressed moving around your home using the bathroom cooking getting in and out of bed We may be able to offer you short-term assistance to help you stay independent at home; we call this regaining independent living ('reablement') . Find out who can get adult social care and how we can make an assessment of your needs . Personal budgets If you need longer-term help or someone to visit you in your home on a regular basis, you may qualify for a 'personal budget' so you can choose and pay for the support you need . Choosing a care provider Further information on local services, providers and groups in the area can be found through Live Well York . Always make sure the provider you choose is registered and inspected by the Care Quality Commission",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.york.gov.uk_independent-living_someone-help.txt",
+        "level": "level_2",
+        "source": "https://www.york.gov.uk/independent-living/someone-help",
+        "source_url": "https://www.york.gov.uk/independent-living/someone-help",
+        "total_chunks": 3,
+        "type": "web_page"
+      },
+      "id": "4130dac8-c24f-4f97-99d4-43da6e73bb2d",
+      "distance": 0.5521566271781921,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.18435301184654235,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "If you're having difficulty with day to day tasks at home, you may need some extra support. The type of things you may need help with include: washing getting dressed moving around your home using the bathroom cooking getting in and out of bed We may be able to offer you short-term assistance to help you stay independent at home; we call this regaining independent living ('reablement') . Find out who can get adult social care and how we can make an assessment of your needs . Personal budgets If you need longer-term help or someone to visit you in your home on a regular basis, you may qualify for a 'personal budget' so you can choose and pay for the support you need . Choosing a care provider Further information on local services, providers and groups in the area can be found through Live Well York . Always make sure the provider you choose is registered and inspected by the Care Quality Commission",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.york.gov.uk_SomeoneToHelp.txt",
+        "level": "level_1",
+        "source": "https://www.york.gov.uk/SomeoneToHelp",
+        "source_url": "https://www.york.gov.uk/SomeoneToHelp",
+        "total_chunks": 3,
+        "type": "web_page"
+      },
+      "id": "e2bea589-0e21-4dcf-aef4-ceab81113957",
+      "distance": 0.5521566271781921,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.18435301184654235,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Residential care homes help people who can no longer manage to look after themselves at home due to frailty, mobility problems or other issues that may occur with older age. Nursing care homes help people with complex medical problems, who need regular help from health professionals. After your care assessment , if we decide that a care home would be the best place for you to live, we can recommend homes which may suit your needs and tell you about vacancies. You and your family or carer can visit the homes to see them for yourselves, and ask any questions you may have. Residential care in York There are a number of privately-owned care homes in York which offer residential and nursing care. Residential care provides: 24-hour care from trained carers a manager on site during the day your own bedroom communal areas and facilities activities available to all residents Short-term places are often available for people recovering from a hospital stay or illness, or to give their carer a break",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.york.gov.uk_ResidentialCare.txt",
+        "level": "level_1",
+        "source": "https://www.york.gov.uk/ResidentialCare",
+        "source_url": "https://www.york.gov.uk/ResidentialCare",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "ffb4215b-779a-46ac-844b-febf2c778e40",
+      "distance": 0.6097384095191956,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.16707847714424134,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Residential care homes help people who can no longer manage to look after themselves at home due to frailty, mobility problems or other issues that may occur with older age. Nursing care homes help people with complex medical problems, who need regular help from health professionals. After your care assessment , if we decide that a care home would be the best place for you to live, we can recommend homes which may suit your needs and tell you about vacancies. You and your family or carer can visit the homes to see them for yourselves, and ask any questions you may have. Residential care in York There are a number of privately-owned care homes in York which offer residential and nursing care. Residential care provides: 24-hour care from trained carers a manager on site during the day your own bedroom communal areas and facilities activities available to all residents Short-term places are often available for people recovering from a hospital stay or illness, or to give their carer a break",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.york.gov.uk_ResidentialCareDirectory.txt",
+        "level": "level_2",
+        "source": "https://www.york.gov.uk/ResidentialCareDirectory",
+        "source_url": "https://www.york.gov.uk/ResidentialCareDirectory",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "0d0ec49a-c89f-4e29-8239-b7ad962d9346",
+      "distance": 0.6097384691238403,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1670784592628479,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". If you choose this option, we recommend seeking further financial information and advice . Also see Get adult social care Residential care Assessing your needs Social care costs from 18 years of age Choosing your care and support (including Direct Payments) Paying for independent living with 24-hour support Live Well York Adult Social Care Community Team Telephone: 01904 555111, Textphone: 07534 437804 West Offices, Station Rise, York, YO1 6GA Email: adult.socialsupport@york.gov.uk Adult Social Care Emergency Duty Team Contact the Emergency Duty Team for assistance. We're available between 5.00pm and 8.30am, Monday to Friday, 24 hours a day over weekends (between 5.00pm Friday until 8.30am Monday), and 24 hours on bank holidays. Telephone: 0300 1312131 Comment on this page Next page : Non-payment of care fees and debt recovery Previous page : Paying for care Pay for care online Pay residential care invoices Pay home care invoices Pay social housing invoices",
+      "metadata": {
+        "chunk_id": 4,
+        "filename": "www.york.gov.uk_personalisation-care_paying-care_2.txt",
+        "level": "level_2",
+        "source": "https://www.york.gov.uk/personalisation-care/paying-care/2",
+        "source_url": "https://www.york.gov.uk/personalisation-care/paying-care/2",
+        "total_chunks": 5,
+        "type": "web_page"
+      },
+      "id": "ce621ca4-148f-41c5-809d-5e3c594c5efb",
+      "distance": 0.6190131902694702,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.16429604291915895,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Back to list Local authority weekly care homes rates From Tuesday 1 April 2025: Residential home: \u00a3850 Residential home with dementia care: \u00a3900 *Nursing home: \u00a3850 *Nursing home with dementia care: \u00a3900 *Please note that the nursing rates quoted exclude the weekly Funded Nursing Care element paid to care homes by the NHS. Back to list City of York Council weekly care home charges 22 The Avenue - short break: \u00a31,432.86 Flaxman Avenue: \u00a31,877.40 (\u00a3268.20 per night) Back to list Local authority community support charges per week Home care Support in CYC Extra Care Schemes per carer per hour \u00a325.63 Home care Support provided by the Overnight Care team per carer per hour \u00a338.45 Day Support provided in CYC small day services per hour \u00a322.03 Back to list Care and support customer contributions The cost of care provision to you is based upon the actual cost to the council from care providers",
+      "metadata": {
+        "chunk_id": 5,
+        "filename": "www.york.gov.uk_personalisation-care_adult-care-support-charges.txt",
+        "level": "level_2",
+        "source": "https://www.york.gov.uk/personalisation-care/adult-care-support-charges",
+        "source_url": "https://www.york.gov.uk/personalisation-care/adult-care-support-charges",
+        "total_chunks": 18,
+        "type": "web_page"
+      },
+      "id": "2b3b67ba-da23-4d72-98f4-562bfaf3c422",
+      "distance": 0.6282714605331421,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.16151856184005736,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". See further information about our current fees, charges, allowances and rates . Also see Get adult social care A quick guide to adult social care Residential care Social care costs from 18 years of age Choosing your care and support (including Direct Payments) Paying for independent living with 24-hour support Live Well York Adult Social Care Community Team Telephone: 01904 555111, Textphone: 07534 437804 West Offices, Station Rise, York, YO1 6GA Email: adult.socialsupport@york.gov.uk Adult Social Care Emergency Duty Team Contact the Emergency Duty Team for assistance. We're available between 5.00pm and 8.30am, Monday to Friday, 24 hours a day over weekends (between 5.00pm Friday until 8.30am Monday), and 24 hours on bank holidays. Telephone: 0300 1312131 Comment on this page Next page : Self-funding care Pay for care online Pay residential care invoices Pay home care invoices Pay social housing invoices",
+      "metadata": {
+        "chunk_id": 4,
+        "filename": "www.york.gov.uk_personalisation-care_paying-care.txt",
+        "level": "level_2",
+        "source": "https://www.york.gov.uk/personalisation-care/paying-care",
+        "source_url": "https://www.york.gov.uk/personalisation-care/paying-care",
+        "total_chunks": 5,
+        "type": "web_page"
+      },
+      "id": "e2311b11-a8ec-4100-80cc-74459e7bc8f8",
+      "distance": 0.6405856609344482,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.15782430171966552,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". See further information about our current fees, charges, allowances and rates . Also see Get adult social care A quick guide to adult social care Residential care Social care costs from 18 years of age Choosing your care and support (including Direct Payments) Paying for independent living with 24-hour support Live Well York Adult Social Care Community Team Telephone: 01904 555111, Textphone: 07534 437804 West Offices, Station Rise, York, YO1 6GA Email: adult.socialsupport@york.gov.uk Adult Social Care Emergency Duty Team Contact the Emergency Duty Team for assistance. We're available between 5.00pm and 8.30am, Monday to Friday, 24 hours a day over weekends (between 5.00pm Friday until 8.30am Monday), and 24 hours on bank holidays. Telephone: 0300 1312131 Comment on this page Next page : Self-funding care Pay for care online Pay residential care invoices Pay home care invoices Pay social housing invoices",
+      "metadata": {
+        "chunk_id": 4,
+        "filename": "www.york.gov.uk_PayingForCare.txt",
+        "level": "level_1",
+        "source": "https://www.york.gov.uk/PayingForCare",
+        "source_url": "https://www.york.gov.uk/PayingForCare",
+        "total_chunks": 5,
+        "type": "web_page"
+      },
+      "id": "fd314bf6-0191-4067-b899-1d91a3401e75",
+      "distance": 0.6405856609344482,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.15782430171966552,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Find out about making a complaint that's not related to your financial assessment. Also see Get adult social care Residential care Assessing your needs Social care costs from 18 years of age Choosing your care and support (including Direct Payments) Paying for independent living with 24-hour support Live Well York Adult Social Care Community Team Telephone: 01904 555111, Textphone: 07534 437804 West Offices, Station Rise, York, YO1 6GA Email: adult.socialsupport@york.gov.uk Adult Social Care Emergency Duty Team Contact the Emergency Duty Team for assistance. We're available between 5.00pm and 8.30am, Monday to Friday, 24 hours a day over weekends (between 5.00pm Friday until 8.30am Monday), and 24 hours on bank holidays. Telephone: 0300 1312131 Comment on this page Next page : Get advice about care and support finances Previous page : Non-payment of care fees and debt recovery Pay for care online Pay residential care invoices Pay home care invoices Pay social housing invoices",
+      "metadata": {
+        "chunk_id": 3,
+        "filename": "www.york.gov.uk_personalisation-care_paying-care_4.txt",
+        "level": "level_2",
+        "source": "https://www.york.gov.uk/personalisation-care/paying-care/4",
+        "source_url": "https://www.york.gov.uk/personalisation-care/paying-care/4",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "7ee81985-766e-4e79-a23a-0a0cee5fe1e2",
+      "distance": 0.6722146272659302,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.14833561182022095,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". You do not have to bid for independent living with extra care properties - we will let you know when a suitable place becomes available Eligibility for independent living with 24 hour support Independent living with 24 hour support is similar to independent living but is suitable for people who need some level of physical care; accommodation has design features and support services that facilitate and encourage self-care. To qualify for one of our independent living with 24 hour support schemes, you should: be aged 60 years and over - in some cases those aged 18-60 years may be eligible if this is the most appropriate housing to meet your needs - please discuss this with your social worker have predominantly 'medium' or 'high' care needs be a resident of York have, or apply for, a social care assessment by Adult Social Services - this tells us how much care you will need to support you in your home Find out about the costs of independent living and planned care costs with 24 hour support accommodation",
+      "metadata": {
+        "chunk_id": 4,
+        "filename": "www.york.gov.uk_ApplyForIndependentLiving.txt",
+        "level": "level_2",
+        "source": "https://www.york.gov.uk/ApplyForIndependentLiving",
+        "source_url": "https://www.york.gov.uk/ApplyForIndependentLiving",
+        "total_chunks": 8,
+        "type": "web_page"
+      },
+      "id": "95452885-6e6e-4786-a0af-0e58a3b04292",
+      "distance": 0.6742401123046875,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.14772796630859375,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    }
+  ],
+  "context": "[Document 1] From https://www (web_page) - URL: https://www.york.gov.uk/independent-living/someone-help [Retrieved via: semantic_original]:\nIf you're having difficulty with day to day tasks at home, you may need some extra support. The type of things you may need help with include: washing getting dressed moving around your home using the bathroom cooking getting in and out of bed We may be able to offer you short-term assistance to help you stay independent at home; we call this regaining independent living ('reablement') . Find out who can get adult social care and how we can make an assessment of your needs . Personal budgets If you need longer-term help or someone to visit you in your home on a regular basis, you may qualify for a 'personal budget' so you can choose and pay for the support you need . Choosing a care provider Further information on local services, providers and groups in the area can be found through Live Well York . Always make sure the provider you choose is registered and inspected by the Care Quality Commission\n\n[Document 2] From https://www (web_page) - URL: https://www.york.gov.uk/SomeoneToHelp [Retrieved via: semantic_original]:\nIf you're having difficulty with day to day tasks at home, you may need some extra support. The type of things you may need help with include: washing getting dressed moving around your home using the bathroom cooking getting in and out of bed We may be able to offer you short-term assistance to help you stay independent at home; we call this regaining independent living ('reablement') . Find out who can get adult social care and how we can make an assessment of your needs . Personal budgets If you need longer-term help or someone to visit you in your home on a regular basis, you may qualify for a 'personal budget' so you can choose and pay for the support you need . Choosing a care provider Further information on local services, providers and groups in the area can be found through Live Well York . Always make sure the provider you choose is registered and inspected by the Care Quality Commission\n\n[Document 3] From https://www (web_page) - URL: https://www.york.gov.uk/ResidentialCare [Retrieved via: semantic_original]:\nResidential care homes help people who can no longer manage to look after themselves at home due to frailty, mobility problems or other issues that may occur with older age. Nursing care homes help people with complex medical problems, who need regular help from health professionals. After your care assessment , if we decide that a care home would be the best place for you to live, we can recommend homes which may suit your needs and tell you about vacancies. You and your family or carer can visit the homes to see them for yourselves, and ask any questions you may have. Residential care in York There are a number of privately-owned care homes in York which offer residential and nursing care. Residential care provides: 24-hour care from trained carers a manager on site during the day your own bedroom communal areas and facilities activities available to all residents Short-term places are often available for people recovering from a hospital stay or illness, or to give their carer a break\n\n[Document 4] From https://www (web_page) - URL: https://www.york.gov.uk/ResidentialCareDirectory [Retrieved via: semantic_original]:\nResidential care homes help people who can no longer manage to look after themselves at home due to frailty, mobility problems or other issues that may occur with older age. Nursing care homes help people with complex medical problems, who need regular help from health professionals. After your care assessment , if we decide that a care home would be the best place for you to live, we can recommend homes which may suit your needs and tell you about vacancies. You and your family or carer can visit the homes to see them for yourselves, and ask any questions you may have. Residential care in York There are a number of privately-owned care homes in York which offer residential and nursing care. Residential care provides: 24-hour care from trained carers a manager on site during the day your own bedroom communal areas and facilities activities available to all residents Short-term places are often available for people recovering from a hospital stay or illness, or to give their carer a break\n\n[Document 5] From https://www (web_page) - URL: https://www.york.gov.uk/personalisation-care/paying-care/2 [Retrieved via: semantic_original]:\n. If you choose this option, we recommend seeking further financial information and advice . Also see Get adult social care Residential care Assessing your needs Social care costs from 18 years of age Choosing your care and support (including Direct Payments) Paying for independent living with 24-hour support Live Well York Adult Social Care Community Team Telephone: 01904 555111, Textphone: 07534 437804 West Offices, Station Rise, York, YO1 6GA Email: adult.socialsupport@york.gov.uk Adult Social Care Emergency Duty Team Contact the Emergency Duty Team for assistance. We're available between 5.00pm and 8.30am, Monday to Friday, 24 hours a day over weekends (between 5.00pm Friday until 8.30am Monday), and 24 hours on bank holidays. Telephone: 0300 1312131 Comment on this page Next page : Non-payment of care fees and debt recovery Previous page : Paying for care Pay for care online Pay residential care invoices Pay home care invoices Pay social housing invoices\n\n[Document 6] From https://www (web_page) - URL: https://www.york.gov.uk/personalisation-care/adult-care-support-charges [Retrieved via: semantic_original]:\n. Back to list Local authority weekly care homes rates From Tuesday 1 April 2025: Residential home: \u00a3850 Residential home with dementia care: \u00a3900 *Nursing home: \u00a3850 *Nursing home with dementia care: \u00a3900 *Please note that the nursing rates quoted exclude the weekly Funded Nursing Care element paid to care homes by the NHS. Back to list City of York Council weekly care home charges 22 The Avenue - short break: \u00a31,432.86 Flaxman Avenue: \u00a31,877.40 (\u00a3268.20 per night) Back to list Local authority community support charges per week Home care Support in CYC Extra Care Schemes per carer per hour \u00a325.63 Home care Support provided by the Overnight Care team per carer per hour \u00a338.45 Day Support provided in CYC small day services per hour \u00a322.03 Back to list Care and support customer contributions The cost of care provision to you is based upon the actual cost to the council from care providers\n\n[Document 7] From https://www (web_page) - URL: https://www.york.gov.uk/personalisation-care/paying-care [Retrieved via: semantic_original]:\n. See further information about our current fees, charges, allowances and rates . Also see Get adult social care A quick guide to adult social care Residential care Social care costs from 18 years of age Choosing your care and support (including Direct Payments) Paying for independent living with 24-hour support Live Well York Adult Social Care Community Team Telephone: 01904 555111, Textphone: 07534 437804 West Offices, Station Rise, York, YO1 6GA Email: adult.socialsupport@york.gov.uk Adult Social Care Emergency Duty Team Contact the Emergency Duty Team for assistance. We're available between 5.00pm and 8.30am, Monday to Friday, 24 hours a day over weekends (between 5.00pm Friday until 8.30am Monday), and 24 hours on bank holidays. Telephone: 0300 1312131 Comment on this page Next page : Self-funding care Pay for care online Pay residential care invoices Pay home care invoices Pay social housing invoices\n\n[Document 8] From https://www (web_page) - URL: https://www.york.gov.uk/PayingForCare [Retrieved via: semantic_original]:\n. See further information about our current fees, charges, allowances and rates . Also see Get adult social care A quick guide to adult social care Residential care Social care costs from 18 years of age Choosing your care and support (including Direct Payments) Paying for independent living with 24-hour support Live Well York Adult Social Care Community Team Telephone: 01904 555111, Textphone: 07534 437804 West Offices, Station Rise, York, YO1 6GA Email: adult.socialsupport@york.gov.uk Adult Social Care Emergency Duty Team Contact the Emergency Duty Team for assistance. We're available between 5.00pm and 8.30am, Monday to Friday, 24 hours a day over weekends (between 5.00pm Friday until 8.30am Monday), and 24 hours on bank holidays. Telephone: 0300 1312131 Comment on this page Next page : Self-funding care Pay for care online Pay residential care invoices Pay home care invoices Pay social housing invoices\n\n[Document 9] From https://www (web_page) - URL: https://www.york.gov.uk/personalisation-care/paying-care/4 [Retrieved via: semantic_original]:\n. Find out about making a complaint that's not related to your financial assessment. Also see Get adult social care Residential care Assessing your needs Social care costs from 18 years of age Choosing your care and support (including Direct Payments) Paying for independent living with 24-hour support Live Well York Adult Social Care Community Team Telephone: 01904 555111, Textphone: 07534 437804 West Offices, Station Rise, York, YO1 6GA Email: adult.socialsupport@york.gov.uk Adult Social Care Emergency Duty Team Contact the Emergency Duty Team for assistance. We're available between 5.00pm and 8.30am, Monday to Friday, 24 hours a day over weekends (between 5.00pm Friday until 8.30am Monday), and 24 hours on bank holidays. Telephone: 0300 1312131 Comment on this page Next page : Get advice about care and support finances Previous page : Non-payment of care fees and debt recovery Pay for care online Pay residential care invoices Pay home care invoices Pay social housing invoices\n\n[Document 10] From https://www (web_page) - URL: https://www.york.gov.uk/ApplyForIndependentLiving [Retrieved via: semantic_original]:\n. You do not have to bid for independent living with extra care properties - we will let you know when a suitable place becomes available Eligibility for independent living with 24 hour support Independent living with 24 hour support is similar to independent living but is suitable for people who need some level of physical care; accommodation has design features and support services that facilitate and encourage self-care. To qualify for one of our independent living with 24 hour support schemes, you should: be aged 60 years and over - in some cases those aged 18-60 years may be eligible if this is the most appropriate housing to meet your needs - please discuss this with your social worker have predominantly 'medium' or 'high' care needs be a resident of York have, or apply for, a social care assessment by Adult Social Services - this tells us how much care you will need to support you in your home Find out about the costs of independent living and planned care costs with 24 hour support accommodation\n",
+  "answer": "If you're concerned about the costs of your home care in York, you may qualify for financial assistance through a **personal budget**. This allows you to choose and pay for the support you need, potentially reducing your out-of-pocket expenses.\n\n- **Personal Budgets**: If you require long-term help, you might be eligible for a personal budget, which helps cover the cost of care services you choose. This can provide flexibility in managing your care needs.\n\n- **Home Care Costs**: According to the documents, the cost for home care support per carer per hour is **\u00a325.63**. This rate can help you calculate your potential expenses if you are self-funding.\n\n- **Contact Information for Further Assistance**: For more detailed financial advice and to explore your options, you can contact the Adult Social Care Community Team in York:\n  - **Telephone**: 01904 555111\n  - **Email**: adult.socialsupport@york.gov.uk\n\n- **Additional Resources**: More information on local services and care providers can be found through [Live Well York](https://www.york.gov.uk/independent-living/someone-help).\n\nThese resources can help you understand your eligibility for financial support and guide you in managing the costs of your care needs.",
+  "metrics": {
+    "duration_seconds": 5.979639053344727,
+    "retrieved_docs_count": 10,
+    "query_length": 137,
+    "answer_length": 1229,
+    "retrieval_method": "enhanced",
+    "context_utilization": 0.1930835734870317,
+    "citations_count": 2,
+    "has_citations": true,
+    "query_relevance": 0.5714285714285714,
+    "unique_retrieval_methods": 1,
+    "budget_documents_retrieved": 0,
+    "retrieval_methods_used": [
+      "semantic_original"
+    ],
+    "retrieval_method_distribution": {
+      "semantic_original": 10
+    }
+  },
+  "local_authority": "york",
+  "query_id": "scn_16",
+  "retrieval_method": "enhanced",
+  "run_id": "5b5d7bfb-29e3-4455-83cf-512dfea81708",
+  "trace": {
+    "run_id": "5b5d7bfb-29e3-4455-83cf-512dfea81708",
+    "project": "social_care_rag",
+    "url": "https://eu.smith.langchain.com/o/me/runs/5b5d7bfb-29e3-4455-83cf-512dfea81708"
+  },
+  "test_metadata": {
+    "local_authority": "york",
+    "query_id": "scn_16",
+    "query_category": "financial_scenarios",
+    "prompt_variation": "optimized",
+    "prompt_template": "\nPlease answer the following question about social care services in UK local authorities based only on the information in the provided documents.\n\nQuestion: {query}\n\nContext from relevant documents:\n{context}\n\nInstructions:\n1. Provide a clear, direct answer that would help someone needing this information. If information isn't available, state: \"The available documents don't provide specific information about [aspect].\"\n\n2. Synthesize information from ALL relevant documents to provide the most complete answer rather than analyzing documents individually.\n\n3. Structure your response with:\n   - A concise 1-2 sentence summary first\n   - Relevant details organized in short, clear paragraphs\n   - Bullet points for lists or step-by-step information\n   - Bold text for key information the user should notice\n\n4. For financial information:\n   - Include exact figures, time periods, and what the funding covers\n   - Present financial data clearly: \"The adult social care budget is **\u00a3X million** for [time period]\"\n\n5. Always include practical next steps or resources:\n   - Provide contact information, URLs, or application methods mentioned in the documents\n   - Suggest where the person could find more information\n\n6. When citing sources, use a simple format: \"According to [document name/description]\" or include URLs where available.\n\nAnswer:\n",
+    "processing_time": 5.983893156051636,
+    "timestamp": "2025-08-19T14:23:05.187488",
+    "top_k": 10
+  }
+}

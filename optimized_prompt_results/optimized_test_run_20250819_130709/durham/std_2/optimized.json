@@ -1,0 +1,275 @@
+{
+  "query": "What is the process for requesting a social care assessment in durham?",
+  "retrieved_documents": [
+    {
+      "content": ". You will need to arrange for your local social services department to carry out an assessment of your needs and arrange for this to be sent to us. An allocations panel will then consider your application taking into account your assessed needs and your reason for wanting to move into County Durham. They will let you know their decision. Where are the Extra Care schemes? There are schemes based around the county in Barnard Castle, Ouston, Seaham, Consett, Spennymoor, Brandon and Crook. Full details can be found at Locate - care and support in County Durham . How do I apply? You will need to have a Care and Support Assessment. The Care and Support Assessment is a questionnaire which allows you to have the first say in what you think your care and support needs are. You can get a copy from Locate - care and support in County Durham",
+      "metadata": {
+        "chunk_id": 4,
+        "filename": "www.durham.gov.uk_extracare.txt",
+        "level": "level_3",
+        "source": "https://www.durham.gov.uk/extracare",
+        "source_url": "https://www.durham.gov.uk/extracare",
+        "total_chunks": 6,
+        "type": "web_page"
+      },
+      "id": "e4cbb706-43f0-4b33-acdc-5c8f4ccebc43",
+      "distance": 0.517167329788208,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1948498010635376,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". We work with over 200 commissioned providers of adult social care, supporting their recruitment and enhancing the skills of the workforce. How the Care Academy can support you There are flexible ways to study and many courses are free of charge or have flexible finance options. View Care Academy training and events . Introduction to the Care Academy Strategic Commissioning Manager, Sarah Douglas, gives us an introduction into what the Care Academy is all about. Note: the first 10 seconds of this video contains fast scrolling/flashing content. What is the Care Academy - video transcript ( PDF, 93 KB ) Contact County Durham Care Academy Email careacademy@durham.gov.uk Telephone 03000 260 222 Related information County Durham Care Academy - careers in social care Privacy notice for Care Academy \ufeff A to Z A B C D E F G H I J K L M N O P Q R S T U V W X Y Z",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.durham.gov.uk_article_21768_About-County-Durham-Care-Academy.txt",
+        "level": "level_3",
+        "source": "https://www.durham.gov.uk/article/21768/About-County-Durham-Care-Academy",
+        "source_url": "https://www.durham.gov.uk/article/21768/About-County-Durham-Care-Academy",
+        "total_chunks": 3,
+        "type": "web_page"
+      },
+      "id": "57c84e4b-1b15-4178-bc36-20d9d332b492",
+      "distance": 0.5738037824630737,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.17785886526107786,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". We work with over 200 commissioned providers of adult social care, supporting their recruitment and enhancing the skills of the workforce. How the Care Academy can support you There are flexible ways to study and many courses are free of charge or have flexible finance options. View Care Academy training and events . Introduction to the Care Academy Strategic Commissioning Manager, Sarah Douglas, gives us an introduction into what the Care Academy is all about. Note: the first 10 seconds of this video contains fast scrolling/flashing content. What is the Care Academy - video transcript ( PDF, 93 KB ) Contact County Durham Care Academy Email careacademy@durham.gov.uk Telephone 03000 260 222 Related information County Durham Care Academy - careers in social care Privacy notice for Care Academy \ufeff A to Z A B C D E F G H I J K L M N O P Q R S T U V W X Y Z",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.durham.gov.uk_AboutCareAcademy.txt",
+        "level": "level_1",
+        "source": "https://www.durham.gov.uk/AboutCareAcademy",
+        "source_url": "https://www.durham.gov.uk/AboutCareAcademy",
+        "total_chunks": 3,
+        "type": "web_page"
+      },
+      "id": "49340ac1-28c9-401c-8737-201a7b090a44",
+      "distance": 0.5738038791140542,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.17785883626578375,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Skip to content Get your care needs assessed You may need help in your daily life because you're elderly and/or you have an illness or disability. To help you find the right care and support, you can: Visit our Locate - care and support in County Durham website.\u00a0You can browse the site to find a range of information and advice including organisations to help you live as independently as you can. Contact Social Care Direct , where you will speak to a trained contact officer. They will ask you some questions about your situation and help guide you to help and support, and let you know if you are eligible for care and support from us",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.durham.gov.uk_article_5655_Get-your-care-needs-assessed.txt",
+        "level": "level_1",
+        "source": "https://www.durham.gov.uk/article/5655/Get-your-care-needs-assessed",
+        "source_url": "https://www.durham.gov.uk/article/5655/Get-your-care-needs-assessed",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "67be4fe6-6705-4e79-a520-f121fe6fff84",
+      "distance": 0.5787442443033247,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.17637672670900256,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". They will ask you questions about your situation. We will decide whether we are able to help you. For further information on this see our Get your care needs assessed page. If we are unable to help you we will advise you if there are other sources of help available. Contact Social Care Direct Email scd@durham.gov.uk Telephone 03000 267 979 \ufeff Offsite links Our regulator: The Care Quality Commission \ufeff A to Z A B C D E F G H I J K L M N O P Q R S T U V W X Y Z",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.durham.gov.uk_socialcaredirect.txt",
+        "level": "level_2",
+        "source": "https://www.durham.gov.uk/socialcaredirect",
+        "source_url": "https://www.durham.gov.uk/socialcaredirect",
+        "total_chunks": 3,
+        "type": "web_page"
+      },
+      "id": "77d67c00-aee4-4afd-9202-ea3e3e8fa9a8",
+      "distance": 0.5784186124801636,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.17277441625595094,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". If you want to apply for help with the cost, you'll need to complete a financial assessment (means test). Find out more about paying for your care and support . Carer's assessments If you are a carer over the age of 18 years old and looking after someone who is elderly, ill or disabled then you\u00a0can get your needs assessed to help you get support for your caring role. Contact Social Care Direct Email scd@durham.gov.uk Telephone 03000 267 979 Related information How much you will have to pay for care and support services \ufeff Offsite links Locate - care and support in County Durham Durham Carers Infopoint: get a carers assessment Our regulator: The Care Quality Commission \ufeff A to Z A B C D E F G H I J K L M N O P Q R S T U V W X Y Z",
+      "metadata": {
+        "chunk_id": 3,
+        "filename": "www.durham.gov.uk_article_5655_Get-your-care-needs-assessed.txt",
+        "level": "level_1",
+        "source": "https://www.durham.gov.uk/article/5655/Get-your-care-needs-assessed",
+        "source_url": "https://www.durham.gov.uk/article/5655/Get-your-care-needs-assessed",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "0256d796-99cd-4b94-a9ab-a11697c99130",
+      "distance": 0.6175245467448924,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.16474263597653227,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". You can get a copy from Locate - care and support in County Durham . Contact Social Care Direct Email scd@durham.gov.uk Telephone 03000 267 979 \ufeff Offsite links Our regulator: The Care Quality Commission \ufeff A to Z A B C D E F G H I J K L M N O P Q R S T U V W X Y Z",
+      "metadata": {
+        "chunk_id": 5,
+        "filename": "www.durham.gov.uk_extracare.txt",
+        "level": "level_3",
+        "source": "https://www.durham.gov.uk/extracare",
+        "source_url": "https://www.durham.gov.uk/extracare",
+        "total_chunks": 6,
+        "type": "web_page"
+      },
+      "id": "47537e91-7fd9-4330-9e24-72a546aa97c3",
+      "distance": 0.5622324347496033,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.157830269575119,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Skip to content Care and support for adults Our vision for Adult Social Care is: Ensuring adults and their carers receive the care and support they need, when they need it, to support them to live the lives they want. We provide adult social care services for the most vulnerable people in our community to help keep them safe and to live independently wherever possible. We also work with people who need advice and information to help them stay fit and well in their own homes for as long as possible and prevent or delay them becoming dependent on care services. Our comprehensive directory of services available - Locate - care and support in County Durham - is available to everyone, whether or not you have assessed needs, and regardless of whether you purchase your own care or receive council funding towards it. We work within a number of legal frameworks - the main one is The Care Act (2014) . Our Adult Social Care service has been rated 'good' by the Care Quality Commission (CQC)",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.durham.gov.uk_article_5690_Care-and-support-for-adults.txt",
+        "level": "level_1",
+        "source": "https://www.durham.gov.uk/article/5690/Care-and-support-for-adults",
+        "source_url": "https://www.durham.gov.uk/article/5690/Care-and-support-for-adults",
+        "total_chunks": 3,
+        "type": "web_page"
+      },
+      "id": "0e53b9e7-ad8b-4cf0-bdfc-0a6d879a5b2c",
+      "distance": 0.6424753016694529,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.15725740949916414,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". We have reviewed and revised our carers assessment procedures and operating processes in relation to carers. Contact Social Care Direct Email scd@durham.gov.uk Telephone 03000 267 979 \ufeff A to Z A B C D E F G H I J K L M N O P Q R S T U V W X Y Z",
+      "metadata": {
+        "chunk_id": 6,
+        "filename": "www.durham.gov.uk_article_28296_Guide-to-the-Care-Act.txt",
+        "level": "level_2",
+        "source": "https://www.durham.gov.uk/article/28296/Guide-to-the-Care-Act",
+        "source_url": "https://www.durham.gov.uk/article/28296/Guide-to-the-Care-Act",
+        "total_chunks": 7,
+        "type": "web_page"
+      },
+      "id": "0f4ed41a-936b-4dc7-a27a-ff73d7508289",
+      "distance": 0.5765950083732605,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.15162149748802187,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". There are organisations throughout County Durham which provide day activities. Visit Locate - care and support in County Durham to view local services. Short term care (also known as respite care) If you are admitted to a care home for a short period of time, this is known as short term care or respite care. It is helpful in giving you or your carer a break. There are several different services available. Visit Locate - care and support in County Durham to view local services. Hospital Social Work Team Intermediate care provides support, recovery and rehabilitation and can help avoid admission to hospital, support discharge from hospital, avoid premature admission to residential care and help faster recovery from illness. You will need to be referred to this service by your doctor, a social worker or other professional and have an assessment to see if the service is suitable for you",
+      "metadata": {
+        "chunk_id": 13,
+        "filename": "www.durham.gov.uk_article_5654_Find-care-and-support-services.txt",
+        "level": "level_3",
+        "source": "https://www.durham.gov.uk/article/5654/Find-care-and-support-services",
+        "source_url": "https://www.durham.gov.uk/article/5654/Find-care-and-support-services",
+        "total_chunks": 23,
+        "type": "web_page"
+      },
+      "id": "3e6735e5-41bd-43b6-807c-5031da7f784c",
+      "distance": 0.6624872088432312,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.15125383734703063,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    }
+  ],
+  "context": "[Document 1] From https://www (web_page) - URL: https://www.durham.gov.uk/extracare [Retrieved via: semantic_original]:\n. You will need to arrange for your local social services department to carry out an assessment of your needs and arrange for this to be sent to us. An allocations panel will then consider your application taking into account your assessed needs and your reason for wanting to move into County Durham. They will let you know their decision. Where are the Extra Care schemes? There are schemes based around the county in Barnard Castle, Ouston, Seaham, Consett, Spennymoor, Brandon and Crook. Full details can be found at Locate - care and support in County Durham . How do I apply? You will need to have a Care and Support Assessment. The Care and Support Assessment is a questionnaire which allows you to have the first say in what you think your care and support needs are. You can get a copy from Locate - care and support in County Durham\n\n[Document 2] From https://www (web_page) - URL: https://www.durham.gov.uk/article/21768/About-County-Durham-Care-Academy [Retrieved via: semantic_original]:\n. We work with over 200 commissioned providers of adult social care, supporting their recruitment and enhancing the skills of the workforce. How the Care Academy can support you There are flexible ways to study and many courses are free of charge or have flexible finance options. View Care Academy training and events . Introduction to the Care Academy Strategic Commissioning Manager, Sarah Douglas, gives us an introduction into what the Care Academy is all about. Note: the first 10 seconds of this video contains fast scrolling/flashing content. What is the Care Academy - video transcript ( PDF, 93 KB ) Contact County Durham Care Academy Email careacademy@durham.gov.uk Telephone 03000 260 222 Related information County Durham Care Academy - careers in social care Privacy notice for Care Academy \ufeff A to Z A B C D E F G H I J K L M N O P Q R S T U V W X Y Z\n\n[Document 3] From https://www (web_page) - URL: https://www.durham.gov.uk/AboutCareAcademy [Retrieved via: semantic_original]:\n. We work with over 200 commissioned providers of adult social care, supporting their recruitment and enhancing the skills of the workforce. How the Care Academy can support you There are flexible ways to study and many courses are free of charge or have flexible finance options. View Care Academy training and events . Introduction to the Care Academy Strategic Commissioning Manager, Sarah Douglas, gives us an introduction into what the Care Academy is all about. Note: the first 10 seconds of this video contains fast scrolling/flashing content. What is the Care Academy - video transcript ( PDF, 93 KB ) Contact County Durham Care Academy Email careacademy@durham.gov.uk Telephone 03000 260 222 Related information County Durham Care Academy - careers in social care Privacy notice for Care Academy \ufeff A to Z A B C D E F G H I J K L M N O P Q R S T U V W X Y Z\n\n[Document 4] From https://www (web_page) - URL: https://www.durham.gov.uk/article/5655/Get-your-care-needs-assessed [Retrieved via: semantic_original]:\nSkip to content Get your care needs assessed You may need help in your daily life because you're elderly and/or you have an illness or disability. To help you find the right care and support, you can: Visit our Locate - care and support in County Durham website.\u00a0You can browse the site to find a range of information and advice including organisations to help you live as independently as you can. Contact Social Care Direct , where you will speak to a trained contact officer. They will ask you some questions about your situation and help guide you to help and support, and let you know if you are eligible for care and support from us\n\n[Document 5] From https://www (web_page) - URL: https://www.durham.gov.uk/socialcaredirect [Retrieved via: semantic_original]:\n. They will ask you questions about your situation. We will decide whether we are able to help you. For further information on this see our Get your care needs assessed page. If we are unable to help you we will advise you if there are other sources of help available. Contact Social Care Direct Email scd@durham.gov.uk Telephone 03000 267 979 \ufeff Offsite links Our regulator: The Care Quality Commission \ufeff A to Z A B C D E F G H I J K L M N O P Q R S T U V W X Y Z\n\n[Document 6] From https://www (web_page) - URL: https://www.durham.gov.uk/article/5655/Get-your-care-needs-assessed [Retrieved via: semantic_original]:\n. If you want to apply for help with the cost, you'll need to complete a financial assessment (means test). Find out more about paying for your care and support . Carer's assessments If you are a carer over the age of 18 years old and looking after someone who is elderly, ill or disabled then you\u00a0can get your needs assessed to help you get support for your caring role. Contact Social Care Direct Email scd@durham.gov.uk Telephone 03000 267 979 Related information How much you will have to pay for care and support services \ufeff Offsite links Locate - care and support in County Durham Durham Carers Infopoint: get a carers assessment Our regulator: The Care Quality Commission \ufeff A to Z A B C D E F G H I J K L M N O P Q R S T U V W X Y Z\n\n[Document 7] From https://www (web_page) - URL: https://www.durham.gov.uk/extracare [Retrieved via: semantic_original]:\n. You can get a copy from Locate - care and support in County Durham . Contact Social Care Direct Email scd@durham.gov.uk Telephone 03000 267 979 \ufeff Offsite links Our regulator: The Care Quality Commission \ufeff A to Z A B C D E F G H I J K L M N O P Q R S T U V W X Y Z\n\n[Document 8] From https://www (web_page) - URL: https://www.durham.gov.uk/article/5690/Care-and-support-for-adults [Retrieved via: semantic_original]:\nSkip to content Care and support for adults Our vision for Adult Social Care is: Ensuring adults and their carers receive the care and support they need, when they need it, to support them to live the lives they want. We provide adult social care services for the most vulnerable people in our community to help keep them safe and to live independently wherever possible. We also work with people who need advice and information to help them stay fit and well in their own homes for as long as possible and prevent or delay them becoming dependent on care services. Our comprehensive directory of services available - Locate - care and support in County Durham - is available to everyone, whether or not you have assessed needs, and regardless of whether you purchase your own care or receive council funding towards it. We work within a number of legal frameworks - the main one is The Care Act (2014) . Our Adult Social Care service has been rated 'good' by the Care Quality Commission (CQC)\n\n[Document 9] From https://www (web_page) - URL: https://www.durham.gov.uk/article/28296/Guide-to-the-Care-Act [Retrieved via: semantic_original]:\n. We have reviewed and revised our carers assessment procedures and operating processes in relation to carers. Contact Social Care Direct Email scd@durham.gov.uk Telephone 03000 267 979 \ufeff A to Z A B C D E F G H I J K L M N O P Q R S T U V W X Y Z\n\n[Document 10] From https://www (web_page) - URL: https://www.durham.gov.uk/article/5654/Find-care-and-support-services [Retrieved via: semantic_original]:\n. There are organisations throughout County Durham which provide day activities. Visit Locate - care and support in County Durham to view local services. Short term care (also known as respite care) If you are admitted to a care home for a short period of time, this is known as short term care or respite care. It is helpful in giving you or your carer a break. There are several different services available. Visit Locate - care and support in County Durham to view local services. Hospital Social Work Team Intermediate care provides support, recovery and rehabilitation and can help avoid admission to hospital, support discharge from hospital, avoid premature admission to residential care and help faster recovery from illness. You will need to be referred to this service by your doctor, a social worker or other professional and have an assessment to see if the service is suitable for you\n",
+  "answer": "To request a social care assessment in Durham, you should contact Social Care Direct. They will ask you questions about your situation to determine your eligibility for care and support.\n\n- **Contact Social Care Direct**:\n  - **Email**: scd@durham.gov.uk\n  - **Telephone**: 03000 267 979\n\nYou can also visit the **Locate - care and support in County Durham** website for more information and to access a range of resources and advice. This site provides a comprehensive directory of services available in County Durham.\n\nFor further details on the assessment process or to access the Care and Support Assessment questionnaire, visit [Locate - care and support in County Durham](https://www.durham.gov.uk/article/5655/Get-your-care-needs-assessed).",
+  "metrics": {
+    "duration_seconds": 17.199965953826904,
+    "retrieved_docs_count": 10,
+    "query_length": 70,
+    "answer_length": 747,
+    "retrieval_method": "enhanced",
+    "context_utilization": 0.14285714285714285,
+    "citations_count": 0,
+    "has_citations": false,
+    "query_relevance": 0.7142857142857143,
+    "unique_retrieval_methods": 1,
+    "budget_documents_retrieved": 0,
+    "retrieval_methods_used": [
+      "semantic_original"
+    ],
+    "retrieval_method_distribution": {
+      "semantic_original": 10
+    }
+  },
+  "local_authority": "durham",
+  "query_id": "std_2",
+  "retrieval_method": "enhanced",
+  "run_id": "f06f02ac-7495-410a-9bef-2816540adb21",
+  "trace": {
+    "run_id": "f06f02ac-7495-410a-9bef-2816540adb21",
+    "project": "social_care_rag",
+    "url": "https://eu.smith.langchain.com/o/me/runs/f06f02ac-7495-410a-9bef-2816540adb21"
+  },
+  "test_metadata": {
+    "local_authority": "durham",
+    "query_id": "std_2",
+    "query_category": "service_standard",
+    "prompt_variation": "optimized",
+    "prompt_template": "\nPlease answer the following question about social care services in UK local authorities based only on the information in the provided documents.\n\nQuestion: {query}\n\nContext from relevant documents:\n{context}\n\nInstructions:\n1. Provide a clear, direct answer that would help someone needing this information. If information isn't available, state: \"The available documents don't provide specific information about [aspect].\"\n\n2. Synthesize information from ALL relevant documents to provide the most complete answer rather than analyzing documents individually.\n\n3. Structure your response with:\n   - A concise 1-2 sentence summary first\n   - Relevant details organized in short, clear paragraphs\n   - Bullet points for lists or step-by-step information\n   - Bold text for key information the user should notice\n\n4. For financial information:\n   - Include exact figures, time periods, and what the funding covers\n   - Present financial data clearly: \"The adult social care budget is **\u00a3X million** for [time period]\"\n\n5. Always include practical next steps or resources:\n   - Provide contact information, URLs, or application methods mentioned in the documents\n   - Suggest where the person could find more information\n\n6. When citing sources, use a simple format: \"According to [document name/description]\" or include URLs where available.\n\nAnswer:\n",
+    "processing_time": 17.20128583908081,
+    "timestamp": "2025-08-19T13:36:13.478967",
+    "top_k": 10
+  }
+}

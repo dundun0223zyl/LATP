@@ -1,0 +1,350 @@
+{
+  "query": "What specific savings targets has oxfordshire set in its budget plans?",
+  "retrieved_documents": [
+    {
+      "content": "[Page 11 - FINANCIAL/BUDGET INFORMATION]\n115 Home ownership\n5 Home ownership\nThe government\u2019s Help to Buy schemes closed on 31st December 2022.\nThere are other sources of help to buy a property in Oxfordshire:\nMortgage Guarantee Scheme  \nOwn Your Home | Mortgage Guarantee \nScheme - Own Your Home\nThe mortgage guarantee scheme (launched \nin April 2021) is helping to increase the \nsupply of 5% deposit mortgages for \ncredit-worthy households by supporting \nlenders to offer these products through a \ngovernment backed guarantee on new  \n95% mortgages until 31 December 2023.\nYou can access more information on how \nto apply for a 5% deposit mortgage by \ncontacting a mortgage broker or lender \nparticipating in the scheme.\nRent to Buy\nThe government\u2019s Rent to Buy scheme \nenables eligible renters to pay less rent to \nsave for a deposit to buy a property.  \nRent to Buy: pay lower rent to save for a \ndeposit: How the scheme works - GOV.UK \n(www.gov.uk) \nLifetime ISA\nFirst-time buyers saving up for a house",
+      "metadata": {
+        "chunk_id": 22,
+        "contains_financial_info": true,
+        "download_url": "https://www.oxfordshire.gov.uk/sites/default/files/file/adult-social-and-health-care/FindAHomeInOxfordshire.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "FindAHomeInOxfordshire.pdf",
+        "financial_pages": "[4, 6, 7, 8, 9, 10, 11, 12, 13, 16]",
+        "level": "level_3",
+        "page_count": 17,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]",
+        "source": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/help-housing",
+        "source_url": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/help-housing",
+        "total_chunks": 37,
+        "type": "pdf"
+      },
+      "id": "94f1924f-f8d6-44db-9ee4-f552d402b7bd",
+      "distance": 0.9253972768783569,
+      "retrieval_method": "semantic_expanded_1",
+      "expanded_query": "what specific savings targets has oxfordshire set in its savings plans?",
+      "combined_score": 0.5108423553980315,
+      "scoring_details": {
+        "query_type": "savings_targets",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_expanded_1"
+      }
+    },
+    {
+      "content": "[Page 11 - FINANCIAL/BUDGET INFORMATION]\n115 Home ownership\n5 Home ownership\nThe government\u2019s Help to Buy schemes closed on 31st December 2022.\nThere are other sources of help to buy a property in Oxfordshire:\nMortgage Guarantee Scheme  \nOwn Your Home | Mortgage Guarantee \nScheme - Own Your Home\nThe mortgage guarantee scheme (launched \nin April 2021) is helping to increase the \nsupply of 5% deposit mortgages for \ncredit-worthy households by supporting \nlenders to offer these products through a \ngovernment backed guarantee on new  \n95% mortgages until 31 December 2023.\nYou can access more information on how \nto apply for a 5% deposit mortgage by \ncontacting a mortgage broker or lender \nparticipating in the scheme.\nRent to Buy\nThe government\u2019s Rent to Buy scheme \nenables eligible renters to pay less rent to \nsave for a deposit to buy a property.  \nRent to Buy: pay lower rent to save for a \ndeposit: How the scheme works - GOV.UK \n(www.gov.uk) \nLifetime ISA\nFirst-time buyers saving up for a house",
+      "metadata": {
+        "chunk_id": 22,
+        "contains_financial_info": true,
+        "download_url": "https://www.oxfordshire.gov.uk/sites/default/files/file/adult-social-and-health-care/FindAHomeInOxfordshire.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "FindAHomeInOxfordshire.pdf",
+        "financial_pages": "[4, 6, 7, 8, 9, 10, 11, 12, 13, 16]",
+        "level": "level_1",
+        "page_count": 17,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]",
+        "source": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/help-housing",
+        "source_url": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/help-housing",
+        "total_chunks": 37,
+        "type": "pdf"
+      },
+      "id": "90d0ee41-0297-43d5-ae04-6878ead868e2",
+      "distance": 0.9253972768783569,
+      "retrieval_method": "semantic_expanded_1",
+      "expanded_query": "what specific savings targets has oxfordshire set in its savings plans?",
+      "combined_score": 0.5108423553980315,
+      "scoring_details": {
+        "query_type": "savings_targets",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_expanded_1"
+      }
+    },
+    {
+      "content": "[Page 7 - FINANCIAL/BUDGET INFORMATION]\n7Financial help \nFinancial help \nPaying the deposit\nIn certain circumstances, some district councils in Oxfordshire can offer \nworkers help to pay the deposit for private rented accommodation. These are \ncalled deposit guarantee schemes, where a guarantee or \u2018bond\u2019 is given to the \nlandlord rather than a cash deposit:\nCherwell  - Key Worker Bond Scheme:\nThe bond scheme provides a guarantee \nto the value of ten weeks\u2019 rent to a \nlandlord in place of a cash deposit. \nThe scheme is available to key workers \nworking in Oxfordshire who have a \nconnection to Cherwell. To be considered for the scheme you must have a right to \nrent and be unable to afford the deposit \nyourself. The council will assess your \ncircumstances before approving you for \nthe scheme.Your rights\nIf you want to know more about your \nrights and responsibilities as a tenant \nthe How to Rent checklist  provides lots \nof useful information and what should \nbe provided to you by the landlord or",
+      "metadata": {
+        "chunk_id": 13,
+        "contains_financial_info": true,
+        "download_url": "https://www.oxfordshire.gov.uk/sites/default/files/file/adult-social-and-health-care/FindAHomeInOxfordshire.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "FindAHomeInOxfordshire.pdf",
+        "financial_pages": "[4, 6, 7, 8, 9, 10, 11, 12, 13, 16]",
+        "level": "level_3",
+        "page_count": 17,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]",
+        "source": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/help-housing",
+        "source_url": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/help-housing",
+        "total_chunks": 37,
+        "type": "pdf"
+      },
+      "id": "c258c48d-31c2-4765-ba72-6c341d16cebd",
+      "distance": 0.9473859667778015,
+      "retrieval_method": "semantic_expanded_1",
+      "expanded_query": "what specific savings targets has oxfordshire set in its savings plans?",
+      "combined_score": 0.504245748428198,
+      "scoring_details": {
+        "query_type": "savings_targets",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_expanded_1"
+      }
+    },
+    {
+      "content": "[Page 7 - FINANCIAL/BUDGET INFORMATION]\n7Financial help \nFinancial help \nPaying the deposit\nIn certain circumstances, some district councils in Oxfordshire can offer \nworkers help to pay the deposit for private rented accommodation. These are \ncalled deposit guarantee schemes, where a guarantee or \u2018bond\u2019 is given to the \nlandlord rather than a cash deposit:\nCherwell  - Key Worker Bond Scheme:\nThe bond scheme provides a guarantee \nto the value of ten weeks\u2019 rent to a \nlandlord in place of a cash deposit. \nThe scheme is available to key workers \nworking in Oxfordshire who have a \nconnection to Cherwell. To be considered for the scheme you must have a right to \nrent and be unable to afford the deposit \nyourself. The council will assess your \ncircumstances before approving you for \nthe scheme.Your rights\nIf you want to know more about your \nrights and responsibilities as a tenant \nthe How to Rent checklist  provides lots \nof useful information and what should \nbe provided to you by the landlord or",
+      "metadata": {
+        "chunk_id": 13,
+        "contains_financial_info": true,
+        "download_url": "https://www.oxfordshire.gov.uk/sites/default/files/file/adult-social-and-health-care/FindAHomeInOxfordshire.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "FindAHomeInOxfordshire.pdf",
+        "financial_pages": "[4, 6, 7, 8, 9, 10, 11, 12, 13, 16]",
+        "level": "level_1",
+        "page_count": 17,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]",
+        "source": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/help-housing",
+        "source_url": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/help-housing",
+        "total_chunks": 37,
+        "type": "pdf"
+      },
+      "id": "5e86d684-7566-49cb-a673-cec845091e2b",
+      "distance": 0.9473859667778015,
+      "retrieval_method": "semantic_expanded_1",
+      "expanded_query": "what specific savings targets has oxfordshire set in its savings plans?",
+      "combined_score": 0.504245748428198,
+      "scoring_details": {
+        "query_type": "savings_targets",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_expanded_1"
+      }
+    },
+    {
+      "content": "As part of the fee uplift for 2023/24 from 1 April 2023, the council has applied an uplift of 9% to all services operating within Oxfordshire whose current rates are within the ceiling thresholds. The 9.% uplift is based on: \n\nReflecting the increase in National Living Wage (NLW) on April 1st of 9.7% typically applies to 70% of provider costs. \nReflecting the Office of Budget Responsibility forecast Consumer Price Index 2022/23 of 9.1% applies to 30% of costs. \nThe National Insurance Health and Social Care Levy increase of 0.5% was applied in 2022/23. We have removed this following tax changes announced in November\n\nWe are looking to streamline our capacity so that we have better occupancy which would ensure the workforce is better deployed and we are looking to free up resource around reablement and domiciliary care. We already have a strong approach to good rates of pay for our staff.",
+      "metadata": {
+        "chunk_id": 36,
+        "contains_financial_info": true,
+        "download_url": "https://www.oxfordshire.gov.uk/sites/default/files/file/adult-social-and-health-care/MarketSustainabilityPlan.docx",
+        "filename": "MarketSustainabilityPlan.docx",
+        "financial_sections": "[]",
+        "level": "level_2",
+        "paragraph_count": 3,
+        "section_count": 1,
+        "sections": "['Introduction']",
+        "source": "https://www.oxfordshire.gov.uk/business/information-providers/adult-social-care-providers/cost-care-report",
+        "source_url": "https://www.oxfordshire.gov.uk/business/information-providers/adult-social-care-providers/cost-care-report",
+        "table_count": 1,
+        "tables_with_financial_info": "[1]",
+        "total_chunks": 52,
+        "type": "docx"
+      },
+      "id": "99868a82-a6d8-4dc7-a5b5-922540f264b3",
+      "distance": 0.8902647495269775,
+      "retrieval_method": "semantic_expanded_3",
+      "expanded_query": "what specific savings targets has oxfordshire set in its cost reduction plans?",
+      "combined_score": 0.5013821136034452,
+      "scoring_details": {
+        "query_type": "savings_targets",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "docx",
+        "retrieval_method": "semantic_expanded_3"
+      }
+    },
+    {
+      "content": "[Page 16 - FINANCIAL/BUDGET INFORMATION]\n16Appendix\nCherwell Key Worker Bond Scheme  \u2013 www.cherwell.gov.uk/cherwell-bond-scheme\nOxford City Lord Mayor\u2019s Deposit Guarantee Scheme  \u2013 www.oxford.gov.uk/info/20106/\nfinding_a_home/355/deposit_guarantee_scheme_for_people_on_low_incomes  \nVale of White Horse District Council Rent Deposit Scheme  \u2013 www.whitehorsedc.gov.uk/\nvale-of-white-horse-district-council/benefits/discretionary-housing-payments/  \nSouth Oxfordshire District Council Rent Deposit Scheme  - www.southoxon.gov.uk/south-\noxfordshire-district-council/benefits/discretionary-housing-payments/\nFinancial support - www.citizensadvice.org.uk/benefits/help-if-on-a-low-income/housing-\nbenefit/help-with-your-rent-housing-benefit\nLocal Housing Allowance  \u2013 lha-direct.voa.gov.uk\n4. Renting a home from the council or a housing association\nOxford City Council  - www.oxford.gov.uk/info/20106/finding_a_home/350/apply_to_join_\nthe_affordable_housing_register",
+      "metadata": {
+        "chunk_id": 32,
+        "contains_financial_info": true,
+        "download_url": "https://www.oxfordshire.gov.uk/sites/default/files/file/adult-social-and-health-care/FindAHomeInOxfordshire.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "FindAHomeInOxfordshire.pdf",
+        "financial_pages": "[4, 6, 7, 8, 9, 10, 11, 12, 13, 16]",
+        "level": "level_3",
+        "page_count": 17,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]",
+        "source": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/help-housing",
+        "source_url": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/help-housing",
+        "total_chunks": 37,
+        "type": "pdf"
+      },
+      "id": "9349e75b-75b6-4eff-ae6c-4e74f8ce3e7c",
+      "distance": 1.0568146705627441,
+      "retrieval_method": "semantic_expanded_2",
+      "expanded_query": "what specific savings targets has oxfordshire set in its efficiency savings plans?",
+      "combined_score": 0.48846153846153845,
+      "scoring_details": {
+        "query_type": "savings_targets",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_expanded_2"
+      }
+    },
+    {
+      "content": "[Page 16 - FINANCIAL/BUDGET INFORMATION]\n16Appendix\nCherwell Key Worker Bond Scheme  \u2013 www.cherwell.gov.uk/cherwell-bond-scheme\nOxford City Lord Mayor\u2019s Deposit Guarantee Scheme  \u2013 www.oxford.gov.uk/info/20106/\nfinding_a_home/355/deposit_guarantee_scheme_for_people_on_low_incomes  \nVale of White Horse District Council Rent Deposit Scheme  \u2013 www.whitehorsedc.gov.uk/\nvale-of-white-horse-district-council/benefits/discretionary-housing-payments/  \nSouth Oxfordshire District Council Rent Deposit Scheme  - www.southoxon.gov.uk/south-\noxfordshire-district-council/benefits/discretionary-housing-payments/\nFinancial support - www.citizensadvice.org.uk/benefits/help-if-on-a-low-income/housing-\nbenefit/help-with-your-rent-housing-benefit\nLocal Housing Allowance  \u2013 lha-direct.voa.gov.uk\n4. Renting a home from the council or a housing association\nOxford City Council  - www.oxford.gov.uk/info/20106/finding_a_home/350/apply_to_join_\nthe_affordable_housing_register",
+      "metadata": {
+        "chunk_id": 32,
+        "contains_financial_info": true,
+        "download_url": "https://www.oxfordshire.gov.uk/sites/default/files/file/adult-social-and-health-care/FindAHomeInOxfordshire.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "FindAHomeInOxfordshire.pdf",
+        "financial_pages": "[4, 6, 7, 8, 9, 10, 11, 12, 13, 16]",
+        "level": "level_1",
+        "page_count": 17,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]",
+        "source": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/help-housing",
+        "source_url": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/help-housing",
+        "total_chunks": 37,
+        "type": "pdf"
+      },
+      "id": "70a32f03-cc45-4886-8cfc-3526bb0fc3bd",
+      "distance": 1.0568146705627441,
+      "retrieval_method": "semantic_expanded_2",
+      "expanded_query": "what specific savings targets has oxfordshire set in its efficiency savings plans?",
+      "combined_score": 0.48846153846153845,
+      "scoring_details": {
+        "query_type": "savings_targets",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_expanded_2"
+      }
+    },
+    {
+      "content": "[Page 1 - FINANCIAL/BUDGET INFORMATION]\nOnline Financial \nAssessment\nVisual Guidance\n\n\n[Page 2]\nLanding Page\nCreate an account first \u2013 \nif you want to submit  your \nform  or be able to save  your \nform and come back to it\n\n[Page 3]\nVerify email \naddress first\u2026\n\u2026then create a \npassword for \nyour account\n\n\n[Page 4 - FINANCIAL/BUDGET INFORMATION]\nWhat you will need:\n\uf0a8 Your national insurance number\n\uf0a8 Details of your savings, income, benefits and \nexpenditure\n\uf0a8 Evidence of your savings, income, benefits \nand expenditure\nOnline financial assessment Guidance | \nOxfordshire County Council\n\n\n[Page 5]\nChoose the assessment \ntype based on the care / \nsupport you are \nreceiving\n\n\n[Page 6 - FINANCIAL/BUDGET INFORMATION]\nYou will then have 5 \nsub sections to \ncompleteEnter your Date of Birth \nand confirm whether \nyour capital is under or \nover the government set \nlimit\nIf you choose to supply \nyour financial details at \nthe end of the form, then \nwe will ask for person \ndetails",
+      "metadata": {
+        "chunk_id": 0,
+        "contains_financial_info": true,
+        "download_url": "https://www.oxfordshire.gov.uk/sites/default/files/file/adult-social-and-health-care/OnlineFinancialAssessment-VisualGuidance.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "OnlineFinancialAssessment-VisualGuidance.pdf",
+        "financial_pages": "[1, 4, 6, 7, 9, 15]",
+        "level": "level_3",
+        "page_count": 19,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 9, 10, 11, 12, 13, 14, 15, 17, 19]",
+        "source": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/paying-social-care/online-financial-assessment",
+        "source_url": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/paying-social-care/online-financial-assessment",
+        "total_chunks": 5,
+        "type": "pdf"
+      },
+      "id": "821dce1a-885f-4181-bc21-c50a1425f033",
+      "distance": 0.90113765001297,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.4773510126884166,
+      "scoring_details": {
+        "query_type": "savings_targets",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 1 - FINANCIAL/BUDGET INFORMATION]\nOnline Financial \nAssessment\nVisual Guidance\n\n\n[Page 2]\nLanding Page\nCreate an account first \u2013 \nif you want to submit  your \nform  or be able to save  your \nform and come back to it\n\n[Page 3]\nVerify email \naddress first\u2026\n\u2026then create a \npassword for \nyour account\n\n\n[Page 4 - FINANCIAL/BUDGET INFORMATION]\nWhat you will need:\n\uf0a8 Your national insurance number\n\uf0a8 Details of your savings, income, benefits and \nexpenditure\n\uf0a8 Evidence of your savings, income, benefits \nand expenditure\nOnline financial assessment Guidance | \nOxfordshire County Council\n\n\n[Page 5]\nChoose the assessment \ntype based on the care / \nsupport you are \nreceiving\n\n\n[Page 6 - FINANCIAL/BUDGET INFORMATION]\nYou will then have 5 \nsub sections to \ncompleteEnter your Date of Birth \nand confirm whether \nyour capital is under or \nover the government set \nlimit\nIf you choose to supply \nyour financial details at \nthe end of the form, then \nwe will ask for person \ndetails",
+      "metadata": {
+        "chunk_id": 0,
+        "contains_financial_info": true,
+        "download_url": "https://www.oxfordshire.gov.uk/sites/default/files/file/adult-social-and-health-care/OnlineFinancialAssessment-VisualGuidance.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "OnlineFinancialAssessment-VisualGuidance.pdf",
+        "financial_pages": "[1, 4, 6, 7, 9, 15]",
+        "level": "level_2",
+        "page_count": 19,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 9, 10, 11, 12, 13, 14, 15, 17, 19]",
+        "source": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/paying-social-care/online-financial-assessment",
+        "source_url": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/paying-social-care/online-financial-assessment",
+        "total_chunks": 5,
+        "type": "pdf"
+      },
+      "id": "936b1f7d-634f-46ce-ae6a-b9b5270b843d",
+      "distance": 0.90113765001297,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.4773510126884166,
+      "scoring_details": {
+        "query_type": "savings_targets",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 12 - FINANCIAL/BUDGET INFORMATION]\n11Alignment  \nwith other  \nstrategic plans\nThe Oxfordshire Way approach \nis linked with several other \nstrategies that support the \nongoing progress of the council.\nThe council\u2019s wider Strategic Plan for 2023\u20132025  \noutlines the vision to lead positive change by \ncollaborating to make Oxfordshire a greener, fairer \nand healthier county, with nine shared priorities \nagreed to ensure that everyone in Oxfordshire can \nbenefit from what the county provides.The Integrated Care Board\u2019s strategy  for \nBuckinghamshire, Oxfordshire, and Berkshire West \nexplains how, as a partnership, we are dedicated to \nworking together to enhance health and wellbeing \nacross our area.\nWe are proud of our strong partnership working \nwith system partners , with an extensive joint \nbudget of over \u00a3500 million between social care \nand our NHS partners in the Oxfordshire Place.",
+      "metadata": {
+        "chunk_id": 22,
+        "contains_financial_info": true,
+        "download_url": "https://www.oxfordshire.gov.uk/sites/default/files/file/adult-social-and-health-care/TheOxfordshireWayinAdultSocialCare.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "TheOxfordshireWayinAdultSocialCare.pdf",
+        "financial_pages": "[3, 7, 8, 9, 11, 12]",
+        "level": "level_1",
+        "page_count": 12,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]",
+        "source": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/oxfordshire-way",
+        "source_url": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/oxfordshire-way",
+        "total_chunks": 23,
+        "type": "pdf"
+      },
+      "id": "bddd2c3d-d923-4016-881b-a677b84704fa",
+      "distance": 0.9071553945541382,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.45477645855683546,
+      "scoring_details": {
+        "query_type": "savings_targets",
+        "financial_indicators_found": 4,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    }
+  ],
+  "context": "[Document 1] From https://www (pdf) - URL: https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/help-housing - 17 pages [Retrieved via: semantic_expanded_1]:\n[Page 11 - FINANCIAL/BUDGET INFORMATION]\n115 Home ownership\n5 Home ownership\nThe government\u2019s Help to Buy schemes closed on 31st December 2022.\nThere are other sources of help to buy a property in Oxfordshire:\nMortgage Guarantee Scheme  \nOwn Your Home | Mortgage Guarantee \nScheme - Own Your Home\nThe mortgage guarantee scheme (launched \nin April 2021) is helping to increase the \nsupply of 5% deposit mortgages for \ncredit-worthy households by supporting \nlenders to offer these products through a \ngovernment backed guarantee on new  \n95% mortgages until 31 December 2023.\nYou can access more information on how \nto apply for a 5% deposit mortgage by \ncontacting a mortgage broker or lender \nparticipating in the scheme.\nRent to Buy\nThe government\u2019s Rent to Buy scheme \nenables eligible renters to pay less rent to \nsave for a deposit to buy a property.  \nRent to Buy: pay lower rent to save for a \ndeposit: How the scheme works - GOV.UK \n(www.gov.uk) \nLifetime ISA\nFirst-time buyers saving up for a house\n\n[Document 2] From https://www (pdf) - URL: https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/help-housing - 17 pages [Retrieved via: semantic_expanded_1]:\n[Page 11 - FINANCIAL/BUDGET INFORMATION]\n115 Home ownership\n5 Home ownership\nThe government\u2019s Help to Buy schemes closed on 31st December 2022.\nThere are other sources of help to buy a property in Oxfordshire:\nMortgage Guarantee Scheme  \nOwn Your Home | Mortgage Guarantee \nScheme - Own Your Home\nThe mortgage guarantee scheme (launched \nin April 2021) is helping to increase the \nsupply of 5% deposit mortgages for \ncredit-worthy households by supporting \nlenders to offer these products through a \ngovernment backed guarantee on new  \n95% mortgages until 31 December 2023.\nYou can access more information on how \nto apply for a 5% deposit mortgage by \ncontacting a mortgage broker or lender \nparticipating in the scheme.\nRent to Buy\nThe government\u2019s Rent to Buy scheme \nenables eligible renters to pay less rent to \nsave for a deposit to buy a property.  \nRent to Buy: pay lower rent to save for a \ndeposit: How the scheme works - GOV.UK \n(www.gov.uk) \nLifetime ISA\nFirst-time buyers saving up for a house\n\n[Document 3] From https://www (pdf) - URL: https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/help-housing - 17 pages [Retrieved via: semantic_expanded_1]:\n[Page 7 - FINANCIAL/BUDGET INFORMATION]\n7Financial help \nFinancial help \nPaying the deposit\nIn certain circumstances, some district councils in Oxfordshire can offer \nworkers help to pay the deposit for private rented accommodation. These are \ncalled deposit guarantee schemes, where a guarantee or \u2018bond\u2019 is given to the \nlandlord rather than a cash deposit:\nCherwell  - Key Worker Bond Scheme:\nThe bond scheme provides a guarantee \nto the value of ten weeks\u2019 rent to a \nlandlord in place of a cash deposit. \nThe scheme is available to key workers \nworking in Oxfordshire who have a \nconnection to Cherwell. To be considered for the scheme you must have a right to \nrent and be unable to afford the deposit \nyourself. The council will assess your \ncircumstances before approving you for \nthe scheme.Your rights\nIf you want to know more about your \nrights and responsibilities as a tenant \nthe How to Rent checklist  provides lots \nof useful information and what should \nbe provided to you by the landlord or\n\n[Document 4] From https://www (pdf) - URL: https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/help-housing - 17 pages [Retrieved via: semantic_expanded_1]:\n[Page 7 - FINANCIAL/BUDGET INFORMATION]\n7Financial help \nFinancial help \nPaying the deposit\nIn certain circumstances, some district councils in Oxfordshire can offer \nworkers help to pay the deposit for private rented accommodation. These are \ncalled deposit guarantee schemes, where a guarantee or \u2018bond\u2019 is given to the \nlandlord rather than a cash deposit:\nCherwell  - Key Worker Bond Scheme:\nThe bond scheme provides a guarantee \nto the value of ten weeks\u2019 rent to a \nlandlord in place of a cash deposit. \nThe scheme is available to key workers \nworking in Oxfordshire who have a \nconnection to Cherwell. To be considered for the scheme you must have a right to \nrent and be unable to afford the deposit \nyourself. The council will assess your \ncircumstances before approving you for \nthe scheme.Your rights\nIf you want to know more about your \nrights and responsibilities as a tenant \nthe How to Rent checklist  provides lots \nof useful information and what should \nbe provided to you by the landlord or\n\n[Document 5] From https://www (docx) - URL: https://www.oxfordshire.gov.uk/business/information-providers/adult-social-care-providers/cost-care-report [Retrieved via: semantic_expanded_3]:\nAs part of the fee uplift for 2023/24 from 1 April 2023, the council has applied an uplift of 9% to all services operating within Oxfordshire whose current rates are within the ceiling thresholds. The 9.% uplift is based on: \n\nReflecting the increase in National Living Wage (NLW) on April 1st of 9.7% typically applies to 70% of provider costs. \nReflecting the Office of Budget Responsibility forecast Consumer Price Index 2022/23 of 9.1% applies to 30% of costs. \nThe National Insurance Health and Social Care Levy increase of 0.5% was applied in 2022/23. We have removed this following tax changes announced in November\n\nWe are looking to streamline our capacity so that we have better occupancy which would ensure the workforce is better deployed and we are looking to free up resource around reablement and domiciliary care. We already have a strong approach to good rates of pay for our staff.\n\n[Document 6] From https://www (pdf) - URL: https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/help-housing - 17 pages [Retrieved via: semantic_expanded_2]:\n[Page 16 - FINANCIAL/BUDGET INFORMATION]\n16Appendix\nCherwell Key Worker Bond Scheme  \u2013 www.cherwell.gov.uk/cherwell-bond-scheme\nOxford City Lord Mayor\u2019s Deposit Guarantee Scheme  \u2013 www.oxford.gov.uk/info/20106/\nfinding_a_home/355/deposit_guarantee_scheme_for_people_on_low_incomes  \nVale of White Horse District Council Rent Deposit Scheme  \u2013 www.whitehorsedc.gov.uk/\nvale-of-white-horse-district-council/benefits/discretionary-housing-payments/  \nSouth Oxfordshire District Council Rent Deposit Scheme  - www.southoxon.gov.uk/south-\noxfordshire-district-council/benefits/discretionary-housing-payments/\nFinancial support - www.citizensadvice.org.uk/benefits/help-if-on-a-low-income/housing-\nbenefit/help-with-your-rent-housing-benefit\nLocal Housing Allowance  \u2013 lha-direct.voa.gov.uk\n4. Renting a home from the council or a housing association\nOxford City Council  - www.oxford.gov.uk/info/20106/finding_a_home/350/apply_to_join_\nthe_affordable_housing_register\n\n[Document 7] From https://www (pdf) - URL: https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/help-housing - 17 pages [Retrieved via: semantic_expanded_2]:\n[Page 16 - FINANCIAL/BUDGET INFORMATION]\n16Appendix\nCherwell Key Worker Bond Scheme  \u2013 www.cherwell.gov.uk/cherwell-bond-scheme\nOxford City Lord Mayor\u2019s Deposit Guarantee Scheme  \u2013 www.oxford.gov.uk/info/20106/\nfinding_a_home/355/deposit_guarantee_scheme_for_people_on_low_incomes  \nVale of White Horse District Council Rent Deposit Scheme  \u2013 www.whitehorsedc.gov.uk/\nvale-of-white-horse-district-council/benefits/discretionary-housing-payments/  \nSouth Oxfordshire District Council Rent Deposit Scheme  - www.southoxon.gov.uk/south-\noxfordshire-district-council/benefits/discretionary-housing-payments/\nFinancial support - www.citizensadvice.org.uk/benefits/help-if-on-a-low-income/housing-\nbenefit/help-with-your-rent-housing-benefit\nLocal Housing Allowance  \u2013 lha-direct.voa.gov.uk\n4. Renting a home from the council or a housing association\nOxford City Council  - www.oxford.gov.uk/info/20106/finding_a_home/350/apply_to_join_\nthe_affordable_housing_register\n\n[Document 8] From https://www (pdf) - URL: https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/paying-social-care/online-financial-assessment - 19 pages [Retrieved via: semantic_original]:\n[Page 1 - FINANCIAL/BUDGET INFORMATION]\nOnline Financial \nAssessment\nVisual Guidance\n\n\n[Page 2]\nLanding Page\nCreate an account first \u2013 \nif you want to submit  your \nform  or be able to save  your \nform and come back to it\n\n[Page 3]\nVerify email \naddress first\u2026\n\u2026then create a \npassword for \nyour account\n\n\n[Page 4 - FINANCIAL/BUDGET INFORMATION]\nWhat you will need:\n\uf0a8 Your national insurance number\n\uf0a8 Details of your savings, income, benefits and \nexpenditure\n\uf0a8 Evidence of your savings, income, benefits \nand expenditure\nOnline financial assessment Guidance | \nOxfordshire County Council\n\n\n[Page 5]\nChoose the assessment \ntype based on the care / \nsupport you are \nreceiving\n\n\n[Page 6 - FINANCIAL/BUDGET INFORMATION]\nYou will then have 5 \nsub sections to \ncompleteEnter your Date of Birth \nand confirm whether \nyour capital is under or \nover the government set \nlimit\nIf you choose to supply \nyour financial details at \nthe end of the form, then \nwe will ask for person \ndetails\n\n[Document 9] From https://www (pdf) - URL: https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/paying-social-care/online-financial-assessment - 19 pages [Retrieved via: semantic_original]:\n[Page 1 - FINANCIAL/BUDGET INFORMATION]\nOnline Financial \nAssessment\nVisual Guidance\n\n\n[Page 2]\nLanding Page\nCreate an account first \u2013 \nif you want to submit  your \nform  or be able to save  your \nform and come back to it\n\n[Page 3]\nVerify email \naddress first\u2026\n\u2026then create a \npassword for \nyour account\n\n\n[Page 4 - FINANCIAL/BUDGET INFORMATION]\nWhat you will need:\n\uf0a8 Your national insurance number\n\uf0a8 Details of your savings, income, benefits and \nexpenditure\n\uf0a8 Evidence of your savings, income, benefits \nand expenditure\nOnline financial assessment Guidance | \nOxfordshire County Council\n\n\n[Page 5]\nChoose the assessment \ntype based on the care / \nsupport you are \nreceiving\n\n\n[Page 6 - FINANCIAL/BUDGET INFORMATION]\nYou will then have 5 \nsub sections to \ncompleteEnter your Date of Birth \nand confirm whether \nyour capital is under or \nover the government set \nlimit\nIf you choose to supply \nyour financial details at \nthe end of the form, then \nwe will ask for person \ndetails\n\n[Document 10] From https://www (pdf) - URL: https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/oxfordshire-way - 12 pages [Retrieved via: semantic_original]:\n[Page 12 - FINANCIAL/BUDGET INFORMATION]\n11Alignment  \nwith other  \nstrategic plans\nThe Oxfordshire Way approach \nis linked with several other \nstrategies that support the \nongoing progress of the council.\nThe council\u2019s wider Strategic Plan for 2023\u20132025  \noutlines the vision to lead positive change by \ncollaborating to make Oxfordshire a greener, fairer \nand healthier county, with nine shared priorities \nagreed to ensure that everyone in Oxfordshire can \nbenefit from what the county provides.The Integrated Care Board\u2019s strategy  for \nBuckinghamshire, Oxfordshire, and Berkshire West \nexplains how, as a partnership, we are dedicated to \nworking together to enhance health and wellbeing \nacross our area.\nWe are proud of our strong partnership working \nwith system partners , with an extensive joint \nbudget of over \u00a3500 million between social care \nand our NHS partners in the Oxfordshire Place.\n",
+  "answer": "The available documents don't provide specific information about the savings targets set by Oxfordshire in its budget plans. \n\nFor more detailed financial information or specific savings targets, you may need to contact Oxfordshire County Council directly or visit their official website at [www.oxfordshire.gov.uk](https://www.oxfordshire.gov.uk).",
+  "metrics": {
+    "duration_seconds": 4.54475212097168,
+    "retrieved_docs_count": 10,
+    "query_length": 70,
+    "answer_length": 348,
+    "retrieval_method": "enhanced",
+    "context_utilization": 0.05053191489361702,
+    "citations_count": 0,
+    "has_citations": false,
+    "query_relevance": 0.8,
+    "unique_retrieval_methods": 4,
+    "budget_documents_retrieved": 10,
+    "retrieval_methods_used": [
+      "semantic_expanded_2",
+      "semantic_original",
+      "semantic_expanded_1",
+      "semantic_expanded_3"
+    ],
+    "retrieval_method_distribution": {
+      "semantic_expanded_1": 4,
+      "semantic_expanded_3": 1,
+      "semantic_expanded_2": 2,
+      "semantic_original": 3
+    }
+  },
+  "local_authority": "oxfordshire",
+  "query_id": "std_7",
+  "retrieval_method": "enhanced",
+  "run_id": "76120ee8-19a9-4a3f-9db0-970a431cbb57",
+  "trace": {
+    "run_id": "76120ee8-19a9-4a3f-9db0-970a431cbb57",
+    "project": "social_care_rag",
+    "url": "https://eu.smith.langchain.com/o/me/runs/76120ee8-19a9-4a3f-9db0-970a431cbb57"
+  },
+  "test_metadata": {
+    "local_authority": "oxfordshire",
+    "query_id": "std_7",
+    "query_category": "financial_standard",
+    "prompt_variation": "optimized",
+    "prompt_template": "\nPlease answer the following question about social care services in UK local authorities based only on the information in the provided documents.\n\nQuestion: {query}\n\nContext from relevant documents:\n{context}\n\nInstructions:\n1. Provide a clear, direct answer that would help someone needing this information. If information isn't available, state: \"The available documents don't provide specific information about [aspect].\"\n\n2. Synthesize information from ALL relevant documents to provide the most complete answer rather than analyzing documents individually.\n\n3. Structure your response with:\n   - A concise 1-2 sentence summary first\n   - Relevant details organized in short, clear paragraphs\n   - Bullet points for lists or step-by-step information\n   - Bold text for key information the user should notice\n\n4. For financial information:\n   - Include exact figures, time periods, and what the funding covers\n   - Present financial data clearly: \"The adult social care budget is **\u00a3X million** for [time period]\"\n\n5. Always include practical next steps or resources:\n   - Provide contact information, URLs, or application methods mentioned in the documents\n   - Suggest where the person could find more information\n\n6. When citing sources, use a simple format: \"According to [document name/description]\" or include URLs where available.\n\nAnswer:\n",
+    "processing_time": 4.54806923866272,
+    "timestamp": "2025-08-19T14:13:35.742728",
+    "top_k": 10
+  }
+}

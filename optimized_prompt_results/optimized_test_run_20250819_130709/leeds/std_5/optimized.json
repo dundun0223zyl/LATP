@@ -1,0 +1,281 @@
+{
+  "query": "What accessibility options does leeds provide for accessing social care information, including translations or easy-read formats?",
+  "retrieved_documents": [
+    {
+      "content": ". Make sure you select 'Adult social care' when asked 'What does this relate to?'. Make a compliment or complaint Phone 0113 222 4405 (Monday, Wednesday and\u00a0Friday, 9am to 5pm) Email Complaints.SOCS@leeds.gov.uk Post The Complaints Manager Leeds City Council Adults and Health Complaints 5th Floor East Merrion House 110 Merrion Centre Leeds LS2 8BB BSL interpretation Use SignVideo live In person Visit one of our offices at a community hub . Alternative formats Easy Read We have produced an Easy Read leaflet that tells you how to tell us your thoughts about health and social care services in Leeds. Please email Complaints.SOCS@leeds.gov.uk or call 0113 222 4405 if you would like to receive an Easy Read leaflet electronically as a PDF file or a printed copy in the post. Other available formats Let us know if you need information in: braille large print audio tape an alternative language Give feedback and let us know if this page was helpful",
+      "metadata": {
+        "chunk_id": 5,
+        "filename": "www.leeds.gov.uk_adult-social-care_adults-and-health-compliments-and-complaints.txt",
+        "level": "level_1",
+        "source": "https://www.leeds.gov.uk/adult-social-care/adults-and-health-compliments-and-complaints",
+        "source_url": "https://www.leeds.gov.uk/adult-social-care/adults-and-health-compliments-and-complaints",
+        "total_chunks": 6,
+        "type": "web_page"
+      },
+      "id": "7269a934-c37c-48d6-b637-fed6637b649b",
+      "distance": 0.6012537479400635,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.16962387561798095,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Relatives and friends of care home residents Organisations that offer help and support for friends and relatives Carers Leeds gives tailored support, advice and information to unpaid carers Healthwatch Leeds provides an information and advice service to help people understand and access health and care services in the Leeds area Care Rights UK support and inform residents, families and friends to find out all they need to know about care and to help them if things go wrong Age UK Leeds runs a local information and advice service that can give you advice on things affecting older people Anne Robson Trust a new helpline for people at end of life (last months, weeks or days) or their families or friends Mindwell Leeds lots of useful information for people living in Leeds about where you can get support (including for bereavement and loss) as well as things you can do to support yourself Visiting a care home Information about what rights you have when visiting someone in care Raising a concern How to raise a",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.leeds.gov.uk_care-quality-team_family-and-friends-of-care-home-residents.txt",
+        "level": "level_3",
+        "source": "https://www.leeds.gov.uk/care-quality-team/family-and-friends-of-care-home-residents",
+        "source_url": "https://www.leeds.gov.uk/care-quality-team/family-and-friends-of-care-home-residents",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "e3d19883-8ccc-4a11-843d-6db594708709",
+      "distance": 0.7038848400115967,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.138834547996521,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 25 - FINANCIAL/BUDGET INFORMATION]\n25\nObjective E\nActively engage older people in the city\u2019s \nwider cultural and reading offer.\nShort Term\n\u2022Providing inspiration to find new cultural \nand reading experiences in safe, free \nindoor spaces alongside a remote offer and \nstreamed events.\n\u2022Access to key collections of healthcare \nbooks (Books on Prescription) through \nlibraries.\n\u2022Providing digital skills support and device \nlending, enabling people to take part in a \nwider range of opportunities.\nMedium Term\n\u2022Access to volunteering opportunities, \nreading, social and culture-sharing groups.\nLong Term\n\u2022Wise Up to Ageism and Dementia Friendly \ntraining for Leeds Libraries front line staff.\n\u2022Dementia memory drop-in to convert to a \nshared reading group at the central library. \n\u2022Continue with the Dementia peer-to-peer \nsupport Cultural Partnership with Leeds \nMuseums & Galleries, and the Leeds \nPlayhouse.\n\u2022Implementation of a partnership offer with \nLCC Care Homes and Recovery hubs.",
+      "metadata": {
+        "chunk_id": 52,
+        "contains_financial_info": true,
+        "download_url": "https://www.leeds.gov.uk/sites/default/files/docs/age%20friendly%20leeds%20strategy%20action%20plan%202022-25.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "age%20friendly%20leeds%20strategy%20action%20plan%202022-25.pdf",
+        "financial_pages": "[5, 6, 10, 12, 13, 14, 15, 16, 18, 19, 22, 23, 24, 25, 27, 29, 30, 32, 35]",
+        "level": "level_2",
+        "page_count": 36,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36]",
+        "source": "https://www.leeds.gov.uk/plans-and-strategies/age-friendly-leeds-strategy-and-action-plan-2022-2025",
+        "source_url": "https://www.leeds.gov.uk/plans-and-strategies/age-friendly-leeds-strategy-and-action-plan-2022-2025",
+        "total_chunks": 78,
+        "type": "pdf"
+      },
+      "id": "c8a01169-fa85-4672-8c5e-0e75b45b0fd7",
+      "distance": 0.7405375242233276,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.12783874273300172,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". For free support and advice, call 0808 196 3833 (Monday to Friday, 8am to 8pm) or speak to someone through their online chat . There is also support for carers who have been bereaved, including one-to-one or group support from the Bereaved Carer Project at Carers Leeds provides support . This gives carers the chance to socialise and build their confidence in getting out and about and enjoying the activities and events in the community. Free online resources We've teamed up with Carers UK to provide carers in Leeds with free access to a wide range of online advice and resources. This includes: About Me: an online course to help carers find ways to prevent their caring responsibilities from becoming overwhelming Jointly Care coordination app: an app for carers to store information about the person they are caring for, including appointments and medication notes Carers UK guides: lots of essential reading for carers To access these services, visit Carers UK Digital Resource",
+      "metadata": {
+        "chunk_id": 11,
+        "filename": "www.leeds.gov.uk_adult-social-care_looking-after-someone_looking-after-a-family-member-or-friend.txt",
+        "level": "level_2",
+        "source": "https://www.leeds.gov.uk/adult-social-care/looking-after-someone/looking-after-a-family-member-or-friend",
+        "source_url": "https://www.leeds.gov.uk/adult-social-care/looking-after-someone/looking-after-a-family-member-or-friend",
+        "total_chunks": 14,
+        "type": "web_page"
+      },
+      "id": "bf85e895-1975-4638-9196-bdf74e52da02",
+      "distance": 0.7678617238998413,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.11964148283004761,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Adult social care Adult social care is also known as social services. We help adults who need support to live well. It can be long term or just until they are doing better, our aim is to always support people to be as independent as possible. In Leeds, we want every person with care and support needs to be able to live the life they want to live, doing what\u2019s important to them in good homes and in caring communities. Increase your independence and keep living safely in your home, find out about community groups and organisations, services, equipment and general information on Leeds Directory",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.leeds.gov.uk_adult-social-care.txt",
+        "level": "level_0",
+        "source": "https://www.leeds.gov.uk/adult-social-care",
+        "source_url": "https://www.leeds.gov.uk/adult-social-care",
+        "total_chunks": 6,
+        "type": "web_page"
+      },
+      "id": "96a66e8e-1501-4e77-86d7-b1959aa9c4b4",
+      "distance": 0.7807573080062866,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.11577280759811401,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". There are two networks established in Leeds, one for care home and domiciliary providers and the other for learning disabilities. The network approach gives registered managers an opportunity to: access peer support, reducing isolation share valuable information about their role and service increase confidence outside of their daily environment share skills and best practice listen to guest speakers, including regulators, commissioners, workforce development leads and Skills for Care representatives The registered manager networks meet on a quarterly basis and are organised and managed by registered managers with the support of; Leeds City Council and Skills for Care Email: jeanette.cookson@skillsforcare.org.uk for more information. Managing risk in adult social care Managing audits Managing medication Recording standards Managing hospital admissions and transfers between places of care Give feedback and let us know if this page was helpful",
+      "metadata": {
+        "chunk_id": 10,
+        "filename": "www.leeds.gov.uk_care-quality-team_managing-care.txt",
+        "level": "level_3",
+        "source": "https://www.leeds.gov.uk/care-quality-team/managing-care",
+        "source_url": "https://www.leeds.gov.uk/care-quality-team/managing-care",
+        "total_chunks": 11,
+        "type": "web_page"
+      },
+      "id": "21e19dd5-daed-4b39-b52d-4bb30198ea19",
+      "distance": 0.784278392791748,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.11471648216247558,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Visit their website for more detail: Website: https://www.diabetes.org.uk/ (link is external) Mental Health - Social Prescribing Services Live Well Leeds Live Well Leeds is a Leeds City wide service, based in the community to provide support for people with mild to moderate support needs to manage and/or recover from their mental health, diagnosed or not. For more information or to access their service please visit their website (link is external) . Social Prescribing Linking Leeds provide free city wide support to anyone over the age of 16. They are able to provide a link to services and activities in your local community to improve your health and wellbeing. They can provide support with housing or money issues, wellbeing and emotional support, mental health, loneliness, addiction issues and social activities",
+      "metadata": {
+        "chunk_id": 10,
+        "filename": "active.leeds.gov.uk_active-leeds-health_health-conditions-support-services.txt",
+        "level": "level_3",
+        "source": "https://active.leeds.gov.uk/active-leeds-health/health-conditions-support-services",
+        "source_url": "https://active.leeds.gov.uk/active-leeds-health/health-conditions-support-services",
+        "total_chunks": 21,
+        "type": "web_page"
+      },
+      "id": "248377d5-4e2f-4928-87de-2b9829d517e2",
+      "distance": 0.7918998003005981,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.11243005990982055,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Summary: This double-sided postcard,-sized leaflet promotes the Leeds Directory service, which can support you to live well by connecting you to checked and vetted local services and tradespeople as well as local activities and events. Subject areas: Healthy lifestyle, Community based services. Services in Leeds that could help and support your service users (P751) ID: P751 Corporate author: Leeds City Council Publication information: Leeds: Leeds City Council, 2023 Physical description: 1 poster, 42x30cm. Summary: This A3 poster provides information and contact details for 12 support services in Leeds, including Citizens Advice, MindWell, Money Information Centre, Adult Social Care, Home Plus, Leeds Directory, Leeds Housing Options, Enhance Programme, Leeds Food Aid Network, and Linking Leeds. This poster is also available in A4: P752. Subject areas: Support services, Housing, Poverty",
+      "metadata": {
+        "chunk_id": 186,
+        "filename": "www.leeds.gov.uk_phrc_resources_leaflets-and-posters.txt",
+        "level": "level_3",
+        "source": "https://www.leeds.gov.uk/phrc/resources/leaflets-and-posters",
+        "source_url": "https://www.leeds.gov.uk/phrc/resources/leaflets-and-posters",
+        "total_chunks": 257,
+        "type": "web_page"
+      },
+      "id": "a4ef1d4a-3681-4e72-937c-fc6044ebb8c8",
+      "distance": 0.8014807105064392,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.10955578684806824,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "about getting a personal assistant to support you to live independently A helper to live with you If you have a spare room, Leeds Homeshare can find someone to share your home and help with household tasks like shopping and cleaning Help to pay for care and support services Get help paying for support at home, read about financial assessments, personal budgets and direct payments The community wellbeing hub Support for the over 50s in Black, Asian, minority ethnic  communities in Leeds Care Delivery Service Our Care Delivery Service is a group of Leeds City Council services providing care and support for adults Give feedback and let us know if this page was helpful",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.leeds.gov.uk_adult-social-care_help-at-home.txt",
+        "level": "level_1",
+        "source": "https://www.leeds.gov.uk/adult-social-care/help-at-home",
+        "source_url": "https://www.leeds.gov.uk/adult-social-care/help-at-home",
+        "total_chunks": 3,
+        "type": "web_page"
+      },
+      "id": "3caca197-7f35-4bb5-9ed6-e09b9326a921",
+      "distance": 0.8017054796218872,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.10948835611343384,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". This poster is also available in A4: P752. Subject areas: Support services, Housing, Poverty. Services in Leeds that could help and support your service users (P752) ID: P752 Corporate author: Leeds City Council Publication information: Leeds: Leeds City Council, 2023 Physical description: 1 poster, 30x21cm. Summary: This A3 poster provides information and contact details for 12 support services in Leeds, including Citizens Advice, MindWell, Money Information Centre, Adult Social Care, Home Plus, Leeds Directory, Leeds Housing Options, Enhance Programme, Leeds Food Aid Network, and Linking Leeds. This poster is also available in A3: P751. Subject areas: Support services, Housing, Poverty",
+      "metadata": {
+        "chunk_id": 187,
+        "filename": "www.leeds.gov.uk_phrc_resources_leaflets-and-posters.txt",
+        "level": "level_3",
+        "source": "https://www.leeds.gov.uk/phrc/resources/leaflets-and-posters",
+        "source_url": "https://www.leeds.gov.uk/phrc/resources/leaflets-and-posters",
+        "total_chunks": 257,
+        "type": "web_page"
+      },
+      "id": "3b9198c4-f7b3-42fa-939b-83f1c8e353f5",
+      "distance": 0.8210872411727905,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.10367382764816285,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    }
+  ],
+  "context": "[Document 1] From https://www (web_page) - URL: https://www.leeds.gov.uk/adult-social-care/adults-and-health-compliments-and-complaints [Retrieved via: semantic_original]:\n. Make sure you select 'Adult social care' when asked 'What does this relate to?'. Make a compliment or complaint Phone 0113 222 4405 (Monday, Wednesday and\u00a0Friday, 9am to 5pm) Email Complaints.SOCS@leeds.gov.uk Post The Complaints Manager Leeds City Council Adults and Health Complaints 5th Floor East Merrion House 110 Merrion Centre Leeds LS2 8BB BSL interpretation Use SignVideo live In person Visit one of our offices at a community hub . Alternative formats Easy Read We have produced an Easy Read leaflet that tells you how to tell us your thoughts about health and social care services in Leeds. Please email Complaints.SOCS@leeds.gov.uk or call 0113 222 4405 if you would like to receive an Easy Read leaflet electronically as a PDF file or a printed copy in the post. Other available formats Let us know if you need information in: braille large print audio tape an alternative language Give feedback and let us know if this page was helpful\n\n[Document 2] From https://www (web_page) - URL: https://www.leeds.gov.uk/care-quality-team/family-and-friends-of-care-home-residents [Retrieved via: semantic_original]:\nRelatives and friends of care home residents Organisations that offer help and support for friends and relatives Carers Leeds gives tailored support, advice and information to unpaid carers Healthwatch Leeds provides an information and advice service to help people understand and access health and care services in the Leeds area Care Rights UK support and inform residents, families and friends to find out all they need to know about care and to help them if things go wrong Age UK Leeds runs a local information and advice service that can give you advice on things affecting older people Anne Robson Trust a new helpline for people at end of life (last months, weeks or days) or their families or friends Mindwell Leeds lots of useful information for people living in Leeds about where you can get support (including for bereavement and loss) as well as things you can do to support yourself Visiting a care home Information about what rights you have when visiting someone in care Raising a concern How to raise a\n\n[Document 3] From https://www (pdf) - URL: https://www.leeds.gov.uk/plans-and-strategies/age-friendly-leeds-strategy-and-action-plan-2022-2025 - 36 pages [Retrieved via: semantic_original]:\n[Page 25 - FINANCIAL/BUDGET INFORMATION]\n25\nObjective E\nActively engage older people in the city\u2019s \nwider cultural and reading offer.\nShort Term\n\u2022Providing inspiration to find new cultural \nand reading experiences in safe, free \nindoor spaces alongside a remote offer and \nstreamed events.\n\u2022Access to key collections of healthcare \nbooks (Books on Prescription) through \nlibraries.\n\u2022Providing digital skills support and device \nlending, enabling people to take part in a \nwider range of opportunities.\nMedium Term\n\u2022Access to volunteering opportunities, \nreading, social and culture-sharing groups.\nLong Term\n\u2022Wise Up to Ageism and Dementia Friendly \ntraining for Leeds Libraries front line staff.\n\u2022Dementia memory drop-in to convert to a \nshared reading group at the central library. \n\u2022Continue with the Dementia peer-to-peer \nsupport Cultural Partnership with Leeds \nMuseums & Galleries, and the Leeds \nPlayhouse.\n\u2022Implementation of a partnership offer with \nLCC Care Homes and Recovery hubs.\n\n[Document 4] From https://www (web_page) - URL: https://www.leeds.gov.uk/adult-social-care/looking-after-someone/looking-after-a-family-member-or-friend [Retrieved via: semantic_original]:\n. For free support and advice, call 0808 196 3833 (Monday to Friday, 8am to 8pm) or speak to someone through their online chat . There is also support for carers who have been bereaved, including one-to-one or group support from the Bereaved Carer Project at Carers Leeds provides support . This gives carers the chance to socialise and build their confidence in getting out and about and enjoying the activities and events in the community. Free online resources We've teamed up with Carers UK to provide carers in Leeds with free access to a wide range of online advice and resources. This includes: About Me: an online course to help carers find ways to prevent their caring responsibilities from becoming overwhelming Jointly Care coordination app: an app for carers to store information about the person they are caring for, including appointments and medication notes Carers UK guides: lots of essential reading for carers To access these services, visit Carers UK Digital Resource\n\n[Document 5] From https://www (web_page) - URL: https://www.leeds.gov.uk/adult-social-care [Retrieved via: semantic_original]:\nAdult social care Adult social care is also known as social services. We help adults who need support to live well. It can be long term or just until they are doing better, our aim is to always support people to be as independent as possible. In Leeds, we want every person with care and support needs to be able to live the life they want to live, doing what\u2019s important to them in good homes and in caring communities. Increase your independence and keep living safely in your home, find out about community groups and organisations, services, equipment and general information on Leeds Directory\n\n[Document 6] From https://www (web_page) - URL: https://www.leeds.gov.uk/care-quality-team/managing-care [Retrieved via: semantic_original]:\n. There are two networks established in Leeds, one for care home and domiciliary providers and the other for learning disabilities. The network approach gives registered managers an opportunity to: access peer support, reducing isolation share valuable information about their role and service increase confidence outside of their daily environment share skills and best practice listen to guest speakers, including regulators, commissioners, workforce development leads and Skills for Care representatives The registered manager networks meet on a quarterly basis and are organised and managed by registered managers with the support of; Leeds City Council and Skills for Care Email: jeanette.cookson@skillsforcare.org.uk for more information. Managing risk in adult social care Managing audits Managing medication Recording standards Managing hospital admissions and transfers between places of care Give feedback and let us know if this page was helpful\n\n[Document 7] From https://active (web_page) - URL: https://active.leeds.gov.uk/active-leeds-health/health-conditions-support-services [Retrieved via: semantic_original]:\n. Visit their website for more detail: Website: https://www.diabetes.org.uk/ (link is external) Mental Health - Social Prescribing Services Live Well Leeds Live Well Leeds is a Leeds City wide service, based in the community to provide support for people with mild to moderate support needs to manage and/or recover from their mental health, diagnosed or not. For more information or to access their service please visit their website (link is external) . Social Prescribing Linking Leeds provide free city wide support to anyone over the age of 16. They are able to provide a link to services and activities in your local community to improve your health and wellbeing. They can provide support with housing or money issues, wellbeing and emotional support, mental health, loneliness, addiction issues and social activities\n\n[Document 8] From https://www (web_page) - URL: https://www.leeds.gov.uk/phrc/resources/leaflets-and-posters [Retrieved via: semantic_original]:\n. Summary: This double-sided postcard,-sized leaflet promotes the Leeds Directory service, which can support you to live well by connecting you to checked and vetted local services and tradespeople as well as local activities and events. Subject areas: Healthy lifestyle, Community based services. Services in Leeds that could help and support your service users (P751) ID: P751 Corporate author: Leeds City Council Publication information: Leeds: Leeds City Council, 2023 Physical description: 1 poster, 42x30cm. Summary: This A3 poster provides information and contact details for 12 support services in Leeds, including Citizens Advice, MindWell, Money Information Centre, Adult Social Care, Home Plus, Leeds Directory, Leeds Housing Options, Enhance Programme, Leeds Food Aid Network, and Linking Leeds. This poster is also available in A4: P752. Subject areas: Support services, Housing, Poverty\n\n[Document 9] From https://www (web_page) - URL: https://www.leeds.gov.uk/adult-social-care/help-at-home [Retrieved via: semantic_original]:\nabout getting a personal assistant to support you to live independently A helper to live with you If you have a spare room, Leeds Homeshare can find someone to share your home and help with household tasks like shopping and cleaning Help to pay for care and support services Get help paying for support at home, read about financial assessments, personal budgets and direct payments The community wellbeing hub Support for the over 50s in Black, Asian, minority ethnic  communities in Leeds Care Delivery Service Our Care Delivery Service is a group of Leeds City Council services providing care and support for adults Give feedback and let us know if this page was helpful\n\n[Document 10] From https://www (web_page) - URL: https://www.leeds.gov.uk/phrc/resources/leaflets-and-posters [Retrieved via: semantic_original]:\n. This poster is also available in A4: P752. Subject areas: Support services, Housing, Poverty. Services in Leeds that could help and support your service users (P752) ID: P752 Corporate author: Leeds City Council Publication information: Leeds: Leeds City Council, 2023 Physical description: 1 poster, 30x21cm. Summary: This A3 poster provides information and contact details for 12 support services in Leeds, including Citizens Advice, MindWell, Money Information Centre, Adult Social Care, Home Plus, Leeds Directory, Leeds Housing Options, Enhance Programme, Leeds Food Aid Network, and Linking Leeds. This poster is also available in A3: P751. Subject areas: Support services, Housing, Poverty\n",
+  "answer": "Leeds provides several accessibility options for accessing social care information, including translations and easy-read formats.\n\n- **Easy Read Formats**: Leeds offers an Easy Read leaflet that explains how to provide feedback on health and social care services. You can request this leaflet electronically as a PDF or as a printed copy by emailing Complaints.SOCS@leeds.gov.uk or calling 0113 222 4405.\n\n- **Alternative Formats**: Information can also be provided in braille, large print, audio tape, or an alternative language upon request. To access these formats, you should contact the same email or phone number mentioned above.\n\n- **BSL Interpretation**: For those who use British Sign Language, Leeds offers BSL interpretation services through SignVideo live.\n\nFor more information or to request these services, you can visit the Leeds City Council's Adult Social Care page at [https://www.leeds.gov.uk/adult-social-care/adults-and-health-compliments-and-complaints](https://www.leeds.gov.uk/adult-social-care/adults-and-health-compliments-and-complaints).",
+  "metrics": {
+    "duration_seconds": 10.235903978347778,
+    "retrieved_docs_count": 10,
+    "query_length": 129,
+    "answer_length": 1065,
+    "retrieval_method": "enhanced",
+    "context_utilization": 0.13,
+    "citations_count": 0,
+    "has_citations": false,
+    "query_relevance": 0.8666666666666667,
+    "unique_retrieval_methods": 1,
+    "budget_documents_retrieved": 1,
+    "retrieval_methods_used": [
+      "semantic_original"
+    ],
+    "retrieval_method_distribution": {
+      "semantic_original": 10
+    }
+  },
+  "local_authority": "leeds",
+  "query_id": "std_5",
+  "retrieval_method": "enhanced",
+  "run_id": "89aa9605-40b7-4955-8435-d861e6198802",
+  "trace": {
+    "run_id": "89aa9605-40b7-4955-8435-d861e6198802",
+    "project": "social_care_rag",
+    "url": "https://eu.smith.langchain.com/o/me/runs/89aa9605-40b7-4955-8435-d861e6198802"
+  },
+  "test_metadata": {
+    "local_authority": "leeds",
+    "query_id": "std_5",
+    "query_category": "service_standard",
+    "prompt_variation": "optimized",
+    "prompt_template": "\nPlease answer the following question about social care services in UK local authorities based only on the information in the provided documents.\n\nQuestion: {query}\n\nContext from relevant documents:\n{context}\n\nInstructions:\n1. Provide a clear, direct answer that would help someone needing this information. If information isn't available, state: \"The available documents don't provide specific information about [aspect].\"\n\n2. Synthesize information from ALL relevant documents to provide the most complete answer rather than analyzing documents individually.\n\n3. Structure your response with:\n   - A concise 1-2 sentence summary first\n   - Relevant details organized in short, clear paragraphs\n   - Bullet points for lists or step-by-step information\n   - Bold text for key information the user should notice\n\n4. For financial information:\n   - Include exact figures, time periods, and what the funding covers\n   - Present financial data clearly: \"The adult social care budget is **\u00a3X million** for [time period]\"\n\n5. Always include practical next steps or resources:\n   - Provide contact information, URLs, or application methods mentioned in the documents\n   - Suggest where the person could find more information\n\n6. When citing sources, use a simple format: \"According to [document name/description]\" or include URLs where available.\n\nAnswer:\n",
+    "processing_time": 10.238881826400757,
+    "timestamp": "2025-08-19T13:50:59.821229",
+    "top_k": 10
+  }
+}

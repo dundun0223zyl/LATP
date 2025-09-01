@@ -1,0 +1,317 @@
+{
+  "query": "I'm experiencing domestic abuse in Cambridgeshire and need to leave with my children. What emergency social care and housing support can I access?",
+  "retrieved_documents": [
+    {
+      "content": ". There is also support for domestic abuse on the Cambridgeshire Constabulary website . There are Safe Spaces locations for people experiencing domestic abuse in pharmacies and other organisations across the UK. You can ask to use the safe space, where there will be specialist information around getting help. Social care crisis If you are struggling to carry out essential tasks, or are concerned that another adult or older person is unable to look after themselves, please contact us. Contact us Adult services - online contact form Telephone: 0345 045 5202 9am to 5pm, Monday to Friday Outside office hours If someone is in danger and unable to protect themselves, or cannot remain in the community without immediate intervention, telephone: 01733 234 724. In an emergency If you are worried about an adult who is in immediate danger or needs medical treatment contact the police and/or call an ambulance on 999. Food banks Food banks provide emergency food supplies for people in crisis",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.cambridgeshire.gov.uk_residents_adults_help-in-a-crisis.txt",
+        "level": "level_1",
+        "source": "https://www.cambridgeshire.gov.uk/residents/adults/help-in-a-crisis",
+        "source_url": "https://www.cambridgeshire.gov.uk/residents/adults/help-in-a-crisis",
+        "total_chunks": 7,
+        "type": "web_page"
+      },
+      "id": "5fef5f5c-2dfa-4b8c-813f-0b98137d537a",
+      "distance": 0.4649125635623932,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.21052623093128203,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 4]\n \n \n4 | Cambridgeshire County Council \u2013 Looking after someone Adult Social Care - Easy Read | Ma rch 2025  \n Pictures  Words  \n \n \n You can find lots more support on our council \nwebpages : www.cambridgeshire.gov.uk  \n If you have an accident or become ill, you may not \nbe able to help the person you look after.  \n \n \n \n You can register for the What If?  Service.  The \nservice can help in emergencies.  \nYou can find out more at : \n \nhttps://www.caringtogether.org/support -for-\ncarers/adult -carers/whatifplan/  \n \n If you need a bit more help, you might be able to get \nsome help from the council.  \nThe council can give you information and advice. \nYou can also ask the council for a Carers \nAssessment .",
+      "metadata": {
+        "chunk_id": 3,
+        "contains_financial_info": true,
+        "download_url": "https://www.cambridgeshire.gov.uk/asset-library/Do-you-look-after-someone-support-for-carers-Easy-Read.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Do-you-look-after-someone-support-for-carers-Easy-Read.pdf",
+        "financial_pages": "[2]",
+        "level": "level_1",
+        "page_count": 8,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8]",
+        "source": "https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets",
+        "source_url": "https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets",
+        "total_chunks": 7,
+        "type": "pdf"
+      },
+      "id": "9b6f4f19-28ec-4763-8b10-b0c82055428c",
+      "distance": 0.49769359827041626,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.20069192051887513,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 1]\n \n1 | Cambridgeshire County Council \u2013 Assessment and eligibility  | July 2024  \n  \n  \nAssessment and Eligibility for Adult \nSocial Care services  \nMany people are able to stay independent, safe,  and well without \nneeding support from Adult Social Care. We recommend that you \nexplore options such as equipment and technology and community help, first. \nYou can find out lots of information on the council\u2019s website at www.cambridgeshire.gov.uk/residents/adults/organising- care- and-\nsupport  \n \n \nIf you have tried other ways to stay independent and still need further \nsupport, the first step is to contact the council for a conversation.  \nContact details are at the end of this information sheet.  \n \nWe may suggest that you have a S ocial Care Assessment. This \nassessment looks at your strengths and your needs and identifies what \nsupport you may require . \nThis includes giving information and advice to help you remain \nindependent for as long as possible, and care and support for those",
+      "metadata": {
+        "chunk_id": 0,
+        "contains_financial_info": true,
+        "download_url": "https://www.cambridgeshire.gov.uk/asset-library/Assessment-and-eligibility-for-Adult-Social-Care.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Assessment-and-eligibility-for-Adult-Social-Care.pdf",
+        "financial_pages": "[4, 5]",
+        "level": "level_2",
+        "page_count": 5,
+        "pages_with_content": "[1, 2, 3, 4, 5]",
+        "source": "https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets",
+        "source_url": "https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets",
+        "total_chunks": 10,
+        "type": "pdf"
+      },
+      "id": "57730170-bef9-4e24-8857-f03a9bd3adb5",
+      "distance": 0.5063832998275757,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1980850100517273,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 1]\n \n1 | Cambridgeshire County Council \u2013 Assessment and eligibility  | July 2024  \n  \n  \nAssessment and Eligibility for Adult \nSocial Care services  \nMany people are able to stay independent, safe,  and well without \nneeding support from Adult Social Care. We recommend that you \nexplore options such as equipment and technology and community help, first. \nYou can find out lots of information on the council\u2019s website at www.cambridgeshire.gov.uk/residents/adults/organising- care- and-\nsupport  \n \n \nIf you have tried other ways to stay independent and still need further \nsupport, the first step is to contact the council for a conversation.  \nContact details are at the end of this information sheet.  \n \nWe may suggest that you have a S ocial Care Assessment. This \nassessment looks at your strengths and your needs and identifies what \nsupport you may require . \nThis includes giving information and advice to help you remain \nindependent for as long as possible, and care and support for those",
+      "metadata": {
+        "chunk_id": 0,
+        "contains_financial_info": true,
+        "download_url": "https://www.cambridgeshire.gov.uk/asset-library/Assessment-and-eligibility-for-Adult-Social-Care.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Assessment-and-eligibility-for-Adult-Social-Care.pdf",
+        "financial_pages": "[4, 5]",
+        "level": "level_1",
+        "page_count": 5,
+        "pages_with_content": "[1, 2, 3, 4, 5]",
+        "source": "https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets",
+        "source_url": "https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets",
+        "total_chunks": 10,
+        "type": "pdf"
+      },
+      "id": "fcbee02b-5cf6-45ef-bbc4-79ab40db4bf4",
+      "distance": 0.5063832998275757,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1980850100517273,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "There are services across Cambridgeshire which support people when they are in need of urgent help. Make contact today. Mental health crisis If you or someone you know, is thinking of hurting themselves, has made threats to hurt you or someone else, and is feeling distress that seems overwhelming or suicide seems the only option: there are many organisations that can help with these feelings. Contact the NHS First Response Service for mental health support for yourself, or on behalf of someone else. D ial 111 and select option 2. The phone line is available 24 hours a day. For more general information on support around mental health in Cambridgeshire, go to the Keep Your Head website . Domestic abuse Information about domestic abuse is available from Cambridgeshire and Peterborough Domestic Violence Partnership . There is also support for domestic abuse on the Cambridgeshire Constabulary website",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.cambridgeshire.gov.uk_residents_adults_help-in-a-crisis.txt",
+        "level": "level_1",
+        "source": "https://www.cambridgeshire.gov.uk/residents/adults/help-in-a-crisis",
+        "source_url": "https://www.cambridgeshire.gov.uk/residents/adults/help-in-a-crisis",
+        "total_chunks": 7,
+        "type": "web_page"
+      },
+      "id": "0e7469a6-5b22-4633-9adf-581ec71a72aa",
+      "distance": 0.5069158673286438,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.19792523980140686,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 8]\n \n \n8 | Cambridgeshire County Council \u2013 If you need care and support when you leave hospital  - Easy Read | \nAugust 2024 \n Reablement  \nPictures  Words  \n You could ask for some help from the Reablement \nTeam.  \n \nThey can help you do the things you used to be able to do.  \n You can contact Reablement  \nCambridgeshire County Council  \nWeb: www.cambridgeshire.gov.uk  \nEmail: careinfo@cambridgeshire.gov.uk  \n \nCare and support at home  \nPictures  Words  \n If you need help for a longer time, you might need a \nsocial care assessment . \n A social care assessment  looks at what you are \ngood at, and what you might need some help with.",
+      "metadata": {
+        "chunk_id": 7,
+        "contains_financial_info": true,
+        "download_url": "https://www.cambridgeshire.gov.uk/asset-library/Care-and-support-when-you-leave-hospital-Easy-Read.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Care-and-support-when-you-leave-hospital-Easy-Read.pdf",
+        "financial_pages": "[3, 12]",
+        "level": "level_1",
+        "page_count": 13,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]",
+        "source": "https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets",
+        "source_url": "https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets",
+        "total_chunks": 13,
+        "type": "pdf"
+      },
+      "id": "f0d09233-8855-4af1-8ed2-91abae2a1e1b",
+      "distance": 0.5258992910385132,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.19223021268844603,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 8]\n \n \n8 | Cambridgeshire County Council \u2013 If you need care and support when you leave hospital  - Easy Read | \nAugust 2024 \n Reablement  \nPictures  Words  \n You could ask for some help from the Reablement \nTeam.  \n \nThey can help you do the things you used to be able to do.  \n You can contact Reablement  \nCambridgeshire County Council  \nWeb: www.cambridgeshire.gov.uk  \nEmail: careinfo@cambridgeshire.gov.uk  \n \nCare and support at home  \nPictures  Words  \n If you need help for a longer time, you might need a \nsocial care assessment . \n A social care assessment  looks at what you are \ngood at, and what you might need some help with.",
+      "metadata": {
+        "chunk_id": 7,
+        "contains_financial_info": true,
+        "download_url": "https://www.cambridgeshire.gov.uk/asset-library/Care-and-support-when-you-leave-hospital-Easy-Read.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Care-and-support-when-you-leave-hospital-Easy-Read.pdf",
+        "financial_pages": "[3, 12]",
+        "level": "level_2",
+        "page_count": 13,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]",
+        "source": "https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets",
+        "source_url": "https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets",
+        "total_chunks": 13,
+        "type": "pdf"
+      },
+      "id": "68f51c93-dcc7-4968-83b5-784e2e1a69eb",
+      "distance": 0.5258994102478027,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1922301769256592,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Independent, safe and well There is a wide range of care and support providers throughout Cambridgeshire. Most people who contact us with concerns about needing residential care are able to remain safe, well and independent through other support. Find out more about types of care and support and how you can organise it. If you are unsure which council you need to contact, you can find your local council on the GOV.UK website . Information about paying for care Mental health and wellbeing, including dementia Worried about a friend or family member? Adult social care There is more information about adult social care on our webpage about social care needs assessment . Organising adult social care if you are moving into Cambridgeshire The Local Authority where you usually live will organise care for a temporary move to Cambridgeshire. If you are moving permanently we can only accept a referral to adult social care when you are registered with a GP in Cambridgeshire. If you have not moved yet",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.cambridgeshire.gov.uk_residents_adults_organising-care-and-support.txt",
+        "level": "level_1",
+        "source": "https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support",
+        "source_url": "https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support",
+        "total_chunks": 5,
+        "type": "web_page"
+      },
+      "id": "f8724736-48ff-494a-8b6d-b4ccad1323a7",
+      "distance": 0.534074068069458,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1897777795791626,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 3 - FINANCIAL/BUDGET INFORMATION]\n \n \n3 | Cambridgeshire County Council \u2013 If you need care and support when you leave hospital  - Easy Read | \nAugust 2024 \n Pictures  Words  \n There are also organisations that can help you if you \nhave care and support needs. \n You can find some information in this document.  \n \n \n Care Network  offer a free Help at Home Service for \nup to six weeks.  \n \nIn Cambridge, South Cambs and East Cambs you \ncan call 01223 714433 or email hah.south@care-\nnetwork.org.uk  \n In Huntingdonshire and Fenland, you can call 01354 694413 or email hah.north@care -network.org.uk\n \n \n \n Care Network also have Community Navigators . \nCommunity Navigators  can help you to find the \ninformation you need about support and activities.  \n They can also suggest other organisations which can help you.  \nYou can find out more on www.care -network.org.uk",
+      "metadata": {
+        "chunk_id": 2,
+        "contains_financial_info": true,
+        "download_url": "https://www.cambridgeshire.gov.uk/asset-library/Care-and-support-when-you-leave-hospital-Easy-Read.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Care-and-support-when-you-leave-hospital-Easy-Read.pdf",
+        "financial_pages": "[3, 12]",
+        "level": "level_2",
+        "page_count": 13,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]",
+        "source": "https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets",
+        "source_url": "https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets",
+        "total_chunks": 13,
+        "type": "pdf"
+      },
+      "id": "c204f10b-3fb6-400d-9eeb-76a8b39126c8",
+      "distance": 0.5374756455421448,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.18875730633735655,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 3 - FINANCIAL/BUDGET INFORMATION]\n \n \n3 | Cambridgeshire County Council \u2013 If you need care and support when you leave hospital  - Easy Read | \nAugust 2024 \n Pictures  Words  \n There are also organisations that can help you if you \nhave care and support needs. \n You can find some information in this document.  \n \n \n Care Network  offer a free Help at Home Service for \nup to six weeks.  \n \nIn Cambridge, South Cambs and East Cambs you \ncan call 01223 714433 or email hah.south@care-\nnetwork.org.uk  \n In Huntingdonshire and Fenland, you can call 01354 694413 or email hah.north@care -network.org.uk\n \n \n \n Care Network also have Community Navigators . \nCommunity Navigators  can help you to find the \ninformation you need about support and activities.  \n They can also suggest other organisations which can help you.  \nYou can find out more on www.care -network.org.uk",
+      "metadata": {
+        "chunk_id": 2,
+        "contains_financial_info": true,
+        "download_url": "https://www.cambridgeshire.gov.uk/asset-library/Care-and-support-when-you-leave-hospital-Easy-Read.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Care-and-support-when-you-leave-hospital-Easy-Read.pdf",
+        "financial_pages": "[3, 12]",
+        "level": "level_1",
+        "page_count": 13,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]",
+        "source": "https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets",
+        "source_url": "https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets",
+        "total_chunks": 13,
+        "type": "pdf"
+      },
+      "id": "ed698eef-dc2f-43c2-919a-035d84f3b40d",
+      "distance": 0.5374756455421448,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.18875730633735655,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    }
+  ],
+  "context": "[Document 1] From https://www (web_page) - URL: https://www.cambridgeshire.gov.uk/residents/adults/help-in-a-crisis [Retrieved via: semantic_original]:\n. There is also support for domestic abuse on the Cambridgeshire Constabulary website . There are Safe Spaces locations for people experiencing domestic abuse in pharmacies and other organisations across the UK. You can ask to use the safe space, where there will be specialist information around getting help. Social care crisis If you are struggling to carry out essential tasks, or are concerned that another adult or older person is unable to look after themselves, please contact us. Contact us Adult services - online contact form Telephone: 0345 045 5202 9am to 5pm, Monday to Friday Outside office hours If someone is in danger and unable to protect themselves, or cannot remain in the community without immediate intervention, telephone: 01733 234 724. In an emergency If you are worried about an adult who is in immediate danger or needs medical treatment contact the police and/or call an ambulance on 999. Food banks Food banks provide emergency food supplies for people in crisis\n\n[Document 2] From https://www (pdf) - URL: https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets - 8 pages [Retrieved via: semantic_original]:\n[Page 4]\n \n \n4 | Cambridgeshire County Council \u2013 Looking after someone Adult Social Care - Easy Read | Ma rch 2025  \n Pictures  Words  \n \n \n You can find lots more support on our council \nwebpages : www.cambridgeshire.gov.uk  \n If you have an accident or become ill, you may not \nbe able to help the person you look after.  \n \n \n \n You can register for the What If?  Service.  The \nservice can help in emergencies.  \nYou can find out more at : \n \nhttps://www.caringtogether.org/support -for-\ncarers/adult -carers/whatifplan/  \n \n If you need a bit more help, you might be able to get \nsome help from the council.  \nThe council can give you information and advice. \nYou can also ask the council for a Carers \nAssessment .\n\n[Document 3] From https://www (pdf) - URL: https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets - 5 pages [Retrieved via: semantic_original]:\n[Page 1]\n \n1 | Cambridgeshire County Council \u2013 Assessment and eligibility  | July 2024  \n  \n  \nAssessment and Eligibility for Adult \nSocial Care services  \nMany people are able to stay independent, safe,  and well without \nneeding support from Adult Social Care. We recommend that you \nexplore options such as equipment and technology and community help, first. \nYou can find out lots of information on the council\u2019s website at www.cambridgeshire.gov.uk/residents/adults/organising- care- and-\nsupport  \n \n \nIf you have tried other ways to stay independent and still need further \nsupport, the first step is to contact the council for a conversation.  \nContact details are at the end of this information sheet.  \n \nWe may suggest that you have a S ocial Care Assessment. This \nassessment looks at your strengths and your needs and identifies what \nsupport you may require . \nThis includes giving information and advice to help you remain \nindependent for as long as possible, and care and support for those\n\n[Document 4] From https://www (pdf) - URL: https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets - 5 pages [Retrieved via: semantic_original]:\n[Page 1]\n \n1 | Cambridgeshire County Council \u2013 Assessment and eligibility  | July 2024  \n  \n  \nAssessment and Eligibility for Adult \nSocial Care services  \nMany people are able to stay independent, safe,  and well without \nneeding support from Adult Social Care. We recommend that you \nexplore options such as equipment and technology and community help, first. \nYou can find out lots of information on the council\u2019s website at www.cambridgeshire.gov.uk/residents/adults/organising- care- and-\nsupport  \n \n \nIf you have tried other ways to stay independent and still need further \nsupport, the first step is to contact the council for a conversation.  \nContact details are at the end of this information sheet.  \n \nWe may suggest that you have a S ocial Care Assessment. This \nassessment looks at your strengths and your needs and identifies what \nsupport you may require . \nThis includes giving information and advice to help you remain \nindependent for as long as possible, and care and support for those\n\n[Document 5] From https://www (web_page) - URL: https://www.cambridgeshire.gov.uk/residents/adults/help-in-a-crisis [Retrieved via: semantic_original]:\nThere are services across Cambridgeshire which support people when they are in need of urgent help. Make contact today. Mental health crisis If you or someone you know, is thinking of hurting themselves, has made threats to hurt you or someone else, and is feeling distress that seems overwhelming or suicide seems the only option: there are many organisations that can help with these feelings. Contact the NHS First Response Service for mental health support for yourself, or on behalf of someone else. D ial 111 and select option 2. The phone line is available 24 hours a day. For more general information on support around mental health in Cambridgeshire, go to the Keep Your Head website . Domestic abuse Information about domestic abuse is available from Cambridgeshire and Peterborough Domestic Violence Partnership . There is also support for domestic abuse on the Cambridgeshire Constabulary website\n\n[Document 6] From https://www (pdf) - URL: https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets - 13 pages [Retrieved via: semantic_original]:\n[Page 8]\n \n \n8 | Cambridgeshire County Council \u2013 If you need care and support when you leave hospital  - Easy Read | \nAugust 2024 \n Reablement  \nPictures  Words  \n You could ask for some help from the Reablement \nTeam.  \n \nThey can help you do the things you used to be able to do.  \n You can contact Reablement  \nCambridgeshire County Council  \nWeb: www.cambridgeshire.gov.uk  \nEmail: careinfo@cambridgeshire.gov.uk  \n \nCare and support at home  \nPictures  Words  \n If you need help for a longer time, you might need a \nsocial care assessment . \n A social care assessment  looks at what you are \ngood at, and what you might need some help with.\n\n[Document 7] From https://www (pdf) - URL: https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets - 13 pages [Retrieved via: semantic_original]:\n[Page 8]\n \n \n8 | Cambridgeshire County Council \u2013 If you need care and support when you leave hospital  - Easy Read | \nAugust 2024 \n Reablement  \nPictures  Words  \n You could ask for some help from the Reablement \nTeam.  \n \nThey can help you do the things you used to be able to do.  \n You can contact Reablement  \nCambridgeshire County Council  \nWeb: www.cambridgeshire.gov.uk  \nEmail: careinfo@cambridgeshire.gov.uk  \n \nCare and support at home  \nPictures  Words  \n If you need help for a longer time, you might need a \nsocial care assessment . \n A social care assessment  looks at what you are \ngood at, and what you might need some help with.\n\n[Document 8] From https://www (web_page) - URL: https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support [Retrieved via: semantic_original]:\nIndependent, safe and well There is a wide range of care and support providers throughout Cambridgeshire. Most people who contact us with concerns about needing residential care are able to remain safe, well and independent through other support. Find out more about types of care and support and how you can organise it. If you are unsure which council you need to contact, you can find your local council on the GOV.UK website . Information about paying for care Mental health and wellbeing, including dementia Worried about a friend or family member? Adult social care There is more information about adult social care on our webpage about social care needs assessment . Organising adult social care if you are moving into Cambridgeshire The Local Authority where you usually live will organise care for a temporary move to Cambridgeshire. If you are moving permanently we can only accept a referral to adult social care when you are registered with a GP in Cambridgeshire. If you have not moved yet\n\n[Document 9] From https://www (pdf) - URL: https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets - 13 pages [Retrieved via: semantic_original]:\n[Page 3 - FINANCIAL/BUDGET INFORMATION]\n \n \n3 | Cambridgeshire County Council \u2013 If you need care and support when you leave hospital  - Easy Read | \nAugust 2024 \n Pictures  Words  \n There are also organisations that can help you if you \nhave care and support needs. \n You can find some information in this document.  \n \n \n Care Network  offer a free Help at Home Service for \nup to six weeks.  \n \nIn Cambridge, South Cambs and East Cambs you \ncan call 01223 714433 or email hah.south@care-\nnetwork.org.uk  \n In Huntingdonshire and Fenland, you can call 01354 694413 or email hah.north@care -network.org.uk\n \n \n \n Care Network also have Community Navigators . \nCommunity Navigators  can help you to find the \ninformation you need about support and activities.  \n They can also suggest other organisations which can help you.  \nYou can find out more on www.care -network.org.uk\n\n[Document 10] From https://www (pdf) - URL: https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets - 13 pages [Retrieved via: semantic_original]:\n[Page 3 - FINANCIAL/BUDGET INFORMATION]\n \n \n3 | Cambridgeshire County Council \u2013 If you need care and support when you leave hospital  - Easy Read | \nAugust 2024 \n Pictures  Words  \n There are also organisations that can help you if you \nhave care and support needs. \n You can find some information in this document.  \n \n \n Care Network  offer a free Help at Home Service for \nup to six weeks.  \n \nIn Cambridge, South Cambs and East Cambs you \ncan call 01223 714433 or email hah.south@care-\nnetwork.org.uk  \n In Huntingdonshire and Fenland, you can call 01354 694413 or email hah.north@care -network.org.uk\n \n \n \n Care Network also have Community Navigators . \nCommunity Navigators  can help you to find the \ninformation you need about support and activities.  \n They can also suggest other organisations which can help you.  \nYou can find out more on www.care -network.org.uk\n",
+  "answer": "If you are experiencing domestic abuse in Cambridgeshire and need to leave with your children, there are several emergency social care and housing support options available to you.\n\n**Summary:** You can access support through Safe Spaces, contact Cambridgeshire County Council for social care assistance, and seek information from the Cambridgeshire and Peterborough Domestic Violence Partnership.\n\n**Details:**\n\n- **Safe Spaces:** These are available in pharmacies and other organisations across the UK. You can ask to use a safe space where you will find specialist information on getting help.\n\n- **Social Care Crisis Support:** If you are in immediate danger or cannot remain in the community without intervention, contact Cambridgeshire County Council. During office hours (9am to 5pm, Monday to Friday), call **0345 045 5202**. Outside office hours, if someone is in danger and unable to protect themselves, call **01733 234 724**.\n\n- **Emergency Services:** In an emergency, contact the police or call an ambulance by dialing **999**.\n\n- **Domestic Abuse Information:** Additional support and information about domestic abuse can be found on the Cambridgeshire Constabulary website and through the Cambridgeshire and Peterborough Domestic Violence Partnership.\n\n**Practical Next Steps:**\n\n- Visit the Cambridgeshire County Council website for more information: [www.cambridgeshire.gov.uk](https://www.cambridgeshire.gov.uk/residents/adults/help-in-a-crisis).\n- Consider contacting local support services for further assistance and guidance on housing and safety planning.\n\nThe available documents don't provide specific information about emergency housing support, so it may be beneficial to contact local authorities or domestic abuse support services directly for more detailed assistance.",
+  "metrics": {
+    "duration_seconds": 9.692706108093262,
+    "retrieved_docs_count": 10,
+    "query_length": 146,
+    "answer_length": 1798,
+    "retrieval_method": "enhanced",
+    "context_utilization": 0.2803738317757009,
+    "citations_count": 1,
+    "has_citations": true,
+    "query_relevance": 0.8947368421052632,
+    "unique_retrieval_methods": 1,
+    "budget_documents_retrieved": 7,
+    "retrieval_methods_used": [
+      "semantic_original"
+    ],
+    "retrieval_method_distribution": {
+      "semantic_original": 10
+    }
+  },
+  "local_authority": "Cambridgeshire",
+  "query_id": "scn_27",
+  "retrieval_method": "enhanced",
+  "run_id": "77d4efb1-2415-43c4-bba4-706cac9d49fb",
+  "trace": {
+    "run_id": "77d4efb1-2415-43c4-bba4-706cac9d49fb",
+    "project": "social_care_rag",
+    "url": "https://eu.smith.langchain.com/o/me/runs/77d4efb1-2415-43c4-bba4-706cac9d49fb"
+  },
+  "test_metadata": {
+    "local_authority": "Cambridgeshire",
+    "query_id": "scn_27",
+    "query_category": "emergency_scenarios",
+    "prompt_variation": "optimized",
+    "prompt_template": "\nPlease answer the following question about social care services in UK local authorities based only on the information in the provided documents.\n\nQuestion: {query}\n\nContext from relevant documents:\n{context}\n\nInstructions:\n1. Provide a clear, direct answer that would help someone needing this information. If information isn't available, state: \"The available documents don't provide specific information about [aspect].\"\n\n2. Synthesize information from ALL relevant documents to provide the most complete answer rather than analyzing documents individually.\n\n3. Structure your response with:\n   - A concise 1-2 sentence summary first\n   - Relevant details organized in short, clear paragraphs\n   - Bullet points for lists or step-by-step information\n   - Bold text for key information the user should notice\n\n4. For financial information:\n   - Include exact figures, time periods, and what the funding covers\n   - Present financial data clearly: \"The adult social care budget is **\u00a3X million** for [time period]\"\n\n5. Always include practical next steps or resources:\n   - Provide contact information, URLs, or application methods mentioned in the documents\n   - Suggest where the person could find more information\n\n6. When citing sources, use a simple format: \"According to [document name/description]\" or include URLs where available.\n\nAnswer:\n",
+    "processing_time": 9.695199012756348,
+    "timestamp": "2025-08-17T22:37:24.900730",
+    "top_k": 10
+  }
+}

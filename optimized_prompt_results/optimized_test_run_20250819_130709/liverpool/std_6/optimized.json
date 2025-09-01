@@ -1,0 +1,339 @@
+{
+  "query": "What is liverpool's total annual budget for the current financial year?",
+  "retrieved_documents": [
+    {
+      "content": "by the local authority.\u201d  \nThis additional allowance is referred to as Disability Related Expenditure or DRE.  \nDisability Related Expenditure, or \u2018DRE\u2019 is the extra expense you face because of \nyour disability or illness.  In Liverpool if you are in receipt of a disability benefit e.g. \nPIP or DLA a DRE disregard will be automatically applied to the calculation of yo ur \ncharge.  Currently this is \u00a324.16 and is reviewed usually annually in line with any \nchanges to the welfare benefit system. We recognise that people are individual and \nhave individual needs and regardless of the standard allowance you may wish to \nrequest  a further DRE assessment to ensure that all disability related costs are taken \ninto account.  \nDRE cannot be allowed for anything purchased with your Personal Budget. This \nshould be clearly recorded in your Care and Support Plan. The financial assessment \naims to make sure that people who pay towards their care and support have enough",
+      "metadata": {
+        "chunk_id": 78,
+        "contains_financial_info": true,
+        "download_url": "https://www.liverpool.gov.uk/media/xngn4upt/charging-for-non-residential-care-april2022.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "charging-for-non-residential-care-april2022.pdf",
+        "financial_pages": "[2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 29, 30, 31, 32, 33, 34, 35, 36, 40, 41]",
+        "level": "level_3",
+        "page_count": 41,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41]",
+        "source": "https://www.liverpool.gov.uk/adult-social-care/who-we-support/care-charges/paying-for-care-and-support-at-home/",
+        "source_url": "https://www.liverpool.gov.uk/adult-social-care/who-we-support/care-charges/paying-for-care-and-support-at-home/",
+        "total_chunks": 100,
+        "type": "pdf"
+      },
+      "id": "d5f64e28-0a6a-4831-9f1d-27b371f219b6",
+      "distance": 1.0242050886154175,
+      "retrieval_method": "semantic_expanded_2",
+      "expanded_query": "what is liverpool's total annual net revenue expenditure for the current financial year?",
+      "combined_score": 0.5461538461538462,
+      "scoring_details": {
+        "query_type": "total_budget",
+        "financial_indicators_found": 5,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_expanded_2"
+      }
+    },
+    {
+      "content": "[Page 1 - FINANCIAL/BUDGET INFORMATION]\n \n       \n     \n \n \n    \n \n \n \n    \n   \n \n \n    \n \n \n \n       \n   \n   \n \n    \n  \n  \n  \n  \n   \n  \n  \n    \n     \n Bus Service Operator Grant 2023/24 \nSECTION A: BACKGROUND AND CONTACTS \nQ1. What is your local transport authority name? \nLiverpool City Council \nQ2. Name of the reporting officer: \nPeter Sass \nQ3. Contact phone number of the reporting officer: \n0151 233 6506 \nQ4. Email address of the reporting officer: \nFleetservices@liverpool.gov.uk \nSECTION B: TENDERED BUS NETWORK \nQ5. What have you used the BSOG funds for? Please exclude any funding via Bus \nRecovery Grant and any other funding provided through the local authority. \nIf there has been no spend on a particular element, please enter 0. \nA. Maintaining current tendered services \u00a30 \nB. Increasing level of tendered services \u00a30 \nC. Investing in alternative services (e.g . community transport, taxi buses) \u00a30 \nD. Investing in supporting bus infrastructure provision \u00a30 \nE. Other -Bus \u00a30 \nF. Non Bus \u00a30 \nTotal: \u00a30",
+      "metadata": {
+        "chunk_id": 0,
+        "contains_financial_info": true,
+        "download_url": "https://www.liverpool.gov.uk/media/rnsn1dfr/bus-service-operator-grant-2023-ap.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "bus-service-operator-grant-2023-ap.pdf",
+        "financial_pages": "[1, 2, 3]",
+        "level": "level_3",
+        "page_count": 3,
+        "pages_with_content": "[1, 2, 3]",
+        "source": "https://www.liverpool.gov.uk/adult-social-care/who-we-support/community-support/transport-to-services/",
+        "source_url": "https://www.liverpool.gov.uk/adult-social-care/who-we-support/community-support/transport-to-services/",
+        "total_chunks": 5,
+        "type": "pdf"
+      },
+      "id": "e628a6c9-27ca-4a58-a4c1-6ee8adb4b312",
+      "distance": 1.092099666595459,
+      "retrieval_method": "semantic_expanded_2",
+      "expanded_query": "what is liverpool's total annual net revenue expenditure for the current financial year?",
+      "combined_score": 0.5461538461538462,
+      "scoring_details": {
+        "query_type": "total_budget",
+        "financial_indicators_found": 5,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_expanded_2"
+      }
+    },
+    {
+      "content": "City Council\u2019s annual budget setting procedure and the availability of \nsufficient levels of external funding. All such payments are at the \ndiscretion of Liverpool City Council and will be removed once available \nfunds are exhausted.   \n10 Re-Housing to suitable accommodation  \n10.1 Where required adaptations involve substantial structural alterations or \nextensions and, in the event, where the cost of the adaptation work \nexceeds \u00a330,000, then re -housing will be considered to address the \nneeds of the household.  \n10.2 In  order to help facilitate a move to appropriate alternative accommodation \nLiverpool City Council shall provide relocation assistance to cover the \ncosts associated with the move.   \n10.3 Eligible  relocation costs include removal expenses, the cost of temporary \naccommodatio n, the connection or disconnection of appliances or the \npayment of a bond to a landlord. Assistance is offered to cover 100% of \nthese costs up to a maximum payment of \u00a37,000.",
+      "metadata": {
+        "chunk_id": 23,
+        "contains_financial_info": true,
+        "download_url": "https://www.liverpool.gov.uk/media/k4tnix0w/disabled-facilities-grant-policy-2023.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "disabled-facilities-grant-policy-2023.pdf",
+        "financial_pages": "[3, 4, 5, 6, 7, 8, 9, 10, 11, 17, 18, 19, 20]",
+        "level": "level_2",
+        "page_count": 20,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]",
+        "source": "https://www.liverpool.gov.uk/adult-social-care/already-receiving-care-services/disabled-facilities-grant/",
+        "source_url": "https://www.liverpool.gov.uk/adult-social-care/already-receiving-care-services/disabled-facilities-grant/",
+        "total_chunks": 42,
+        "type": "pdf"
+      },
+      "id": "c5f87bb3-7a96-4834-9cb0-cef2e8306692",
+      "distance": 1.086390733718872,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.4602564102564102,
+      "scoring_details": {
+        "query_type": "total_budget",
+        "financial_indicators_found": 4,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 10 - FINANCIAL/BUDGET INFORMATION]\nLiverpool City Council \u2013 Disabled Facilities Gra nt Policy \nPage 9 of 20 9.3 In addition, where levels of funding permit, Liverpool City Council will fund \nthe replacement  of existing adaptations where they meet the end of their \nlifespan. These could includ e the replacement of stair lifts, through floor \nlifts and step lifts.  \n9.4 Such discretionary assistance shall only be awarded to households \neligible  where a disabled or extremely vulnerable person is resident. In \naddition, Liverpool City Council has placed ad ditional restrictions and \nrules regarding eligibility for such discretionary assistance. A full \nbreakdown of the different awards is included within Appendix 3.  \n9.5 The availability of all discretionary grant assistance is subject to Liverpool \nCity Council\u2019s annual budget setting procedure and the availability of \nsufficient levels of external funding. All such payments are at the",
+      "metadata": {
+        "chunk_id": 22,
+        "contains_financial_info": true,
+        "download_url": "https://www.liverpool.gov.uk/media/k4tnix0w/disabled-facilities-grant-policy-2023.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "disabled-facilities-grant-policy-2023.pdf",
+        "financial_pages": "[3, 4, 5, 6, 7, 8, 9, 10, 11, 17, 18, 19, 20]",
+        "level": "level_2",
+        "page_count": 20,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]",
+        "source": "https://www.liverpool.gov.uk/adult-social-care/already-receiving-care-services/disabled-facilities-grant/",
+        "source_url": "https://www.liverpool.gov.uk/adult-social-care/already-receiving-care-services/disabled-facilities-grant/",
+        "total_chunks": 42,
+        "type": "pdf"
+      },
+      "id": "0e4d53e0-0db2-48b4-8404-e5f28aa8c62f",
+      "distance": 1.086282730102539,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.441025641025641,
+      "scoring_details": {
+        "query_type": "total_budget",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 10 - FINANCIAL/BUDGET INFORMATION]\nLiverpool City Council \u2013 Charging for non -residential care services  \nPage 9 of 41 and any disability -related expenditure agreed (r efer to Section 12 and 21 (Appendix \n1) for more details).  \nLCC has determined that the following items will be completely ignored (not count as \nincome) under its local policy:  War Widows and War Widowers pension, survivors \nGuaranteed Income Payments from the Armed Forces Compensation Scheme, \nCivilian War Injury pension, War Disablement pension and payments to victims of \nNational Socialist persecution (paid under German or Austrian law).  \nIf a person has capital, such as savings, then it is likely to affect  the contribution \ncalculated under the financial assessment. Capital of \u00a323,250 or more will mean a \nperson is not entitled to financial support until such time as the amount falls below \n\u00a323,250. Capital below \u00a314,250 is ignored but where the amount is abov e this,",
+      "metadata": {
+        "chunk_id": 23,
+        "contains_financial_info": true,
+        "download_url": "https://www.liverpool.gov.uk/media/xngn4upt/charging-for-non-residential-care-april2022.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "charging-for-non-residential-care-april2022.pdf",
+        "financial_pages": "[2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 29, 30, 31, 32, 33, 34, 35, 36, 40, 41]",
+        "level": "level_3",
+        "page_count": 41,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41]",
+        "source": "https://www.liverpool.gov.uk/adult-social-care/who-we-support/care-charges/paying-for-care-and-support-at-home/",
+        "source_url": "https://www.liverpool.gov.uk/adult-social-care/who-we-support/care-charges/paying-for-care-and-support-at-home/",
+        "total_chunks": 100,
+        "type": "pdf"
+      },
+      "id": "81afb69a-fbf3-451c-a272-c7dfb4557170",
+      "distance": 0.964021623134613,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.437716589982693,
+      "scoring_details": {
+        "query_type": "total_budget",
+        "financial_indicators_found": 4,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 2 - FINANCIAL/BUDGET INFORMATION]\nLiverpool City Council \u2013 Guide to direct payments  \nPage 1 of 21 Contents  \n1 Introduction to direct payments  ................................ ................................ ...........  2 \n2 Getting started ................................ ................................ ................................ ..... 4 \n3 Using the money  ................................ ................................ ................................ . 5 \n4 Employing a personal assistant (PA)  ................................ ................................ .. 7 \n5 Being a good employer  ................................ ................................ .....................  10 \n6 Using agencies that provide care and support  ................................ ..................  12 \n7 Keeping good records  ................................ ................................ .......................  14",
+      "metadata": {
+        "chunk_id": 1,
+        "contains_financial_info": true,
+        "download_url": "https://www.liverpool.gov.uk/media/kngfdrad/guide-to-direct-payments.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "guide-to-direct-payments.pdf",
+        "financial_pages": "[2, 3, 6, 8, 9, 11, 12, 13, 14, 15, 18, 19, 20]",
+        "level": "level_2",
+        "page_count": 21,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21]",
+        "source": "https://www.liverpool.gov.uk/adult-social-care/already-receiving-care-services/direct-payments/",
+        "source_url": "https://www.liverpool.gov.uk/adult-social-care/already-receiving-care-services/direct-payments/",
+        "total_chunks": 39,
+        "type": "pdf"
+      },
+      "id": "0f7dd1d8-c4e3-471f-a235-0a721c4ca5a1",
+      "distance": 0.8384585380554199,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.4369239770449125,
+      "scoring_details": {
+        "query_type": "total_budget",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 19 - FINANCIAL/BUDGET INFORMATION]\nLiverpool City Council \u2013 Guide to direct payments  \nPage 18 of 21 11 Contributing towards your care costs  \nYour direct payment will be made minus any financial contribution that you may be \nasked to make. Your contribution will be decided as a result of a financial \nassessment. This will calculate how much you can afford to contribute toward the \ncost of your care. More information on contributions is available on the council \nwebsite at liverpool.gov.uk/payingforcare.  \nIn most cases you will be asked to deposit your contribution into your direct \npayments account. You will receive a statement from us telling you how much you \nhave to pay every four weeks.",
+      "metadata": {
+        "chunk_id": 36,
+        "contains_financial_info": true,
+        "download_url": "https://www.liverpool.gov.uk/media/kngfdrad/guide-to-direct-payments.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "guide-to-direct-payments.pdf",
+        "financial_pages": "[2, 3, 6, 8, 9, 11, 12, 13, 14, 15, 18, 19, 20]",
+        "level": "level_2",
+        "page_count": 21,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21]",
+        "source": "https://www.liverpool.gov.uk/adult-social-care/already-receiving-care-services/direct-payments/",
+        "source_url": "https://www.liverpool.gov.uk/adult-social-care/already-receiving-care-services/direct-payments/",
+        "total_chunks": 39,
+        "type": "pdf"
+      },
+      "id": "891ba005-bc4b-40c2-918a-07c1d46192c3",
+      "distance": 0.9306079745292664,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.4285099153335278,
+      "scoring_details": {
+        "query_type": "total_budget",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 8 - FINANCIAL/BUDGET INFORMATION]\nLiverpool City Council \u2013 Disabled Facilities Gra nt Policy \nPage 7 of 20 7 Means Tested Contributions  \n7.1 As part of the standard DFG application process a standard test of \nresources is undertaken to determine whether the applicant needs to \nmake a financial contribution toward the cost of works undertaken. \nLiverpool City Council has however agreed to use its discretion under the \nRegulatory Reform Order to provide a \u2018non -means tested\u2019 DFG where the \nvalue of proposed works are less than \u00a36,000. The Regulatory Reform \nOrder (RRO) provides Liverpool City Council with increased powers to \nintroduce policies to assist  clients with adaptations to their homes. This \ncan be provided direct and follows the changes made in 2008 to the way \nin which DFGs can be administered, increasing flexibility and being able \nto direct funds towards wider strategic projects, with the remova l of the \nring fencing of DFG funds. Appendix B outlines examples of RRO \npolicies.",
+      "metadata": {
+        "chunk_id": 17,
+        "contains_financial_info": true,
+        "download_url": "https://www.liverpool.gov.uk/media/k4tnix0w/disabled-facilities-grant-policy-2023.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "disabled-facilities-grant-policy-2023.pdf",
+        "financial_pages": "[3, 4, 5, 6, 7, 8, 9, 10, 11, 17, 18, 19, 20]",
+        "level": "level_2",
+        "page_count": 20,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]",
+        "source": "https://www.liverpool.gov.uk/adult-social-care/already-receiving-care-services/disabled-facilities-grant/",
+        "source_url": "https://www.liverpool.gov.uk/adult-social-care/already-receiving-care-services/disabled-facilities-grant/",
+        "total_chunks": 42,
+        "type": "pdf"
+      },
+      "id": "b7088fec-8ecb-44d9-9343-1de1bdc9bba9",
+      "distance": 1.0336802005767822,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.4269230769230769,
+      "scoring_details": {
+        "query_type": "total_budget",
+        "financial_indicators_found": 4,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 12 - FINANCIAL/BUDGET INFORMATION]\nLiverpool City Council \u2013 Charging for non -residential care services  \nPage 11 of 41 6 Disability related expenditure  \nThe CASS guidance (Annex C) provides details of what expenses and costs the  \nauthority should consider when determining disability -related expenditure (DRE). \nThis financial assessment must make an assessment and allow the person to keep \nenough benefit to pay for necessary disability -related expenditure to meet any needs \nwhich are not being met by the council.   \nLCC will disregard a locally agreed rate of DRE allowance where the person \nreceives the following benefits:  \n\u2022 Attendance Allowance   \n\u2022 Disability Living Allowance (middle /high rate of the care component)  \n\u2022 Personal Independence Payment (daily living component).  \nThis locally agreed rate will be reviewed periodically, usually annually. Should a \nperson feel that the allowance awarded does not accurately reflect their disability -",
+      "metadata": {
+        "chunk_id": 29,
+        "contains_financial_info": true,
+        "download_url": "https://www.liverpool.gov.uk/media/xngn4upt/charging-for-non-residential-care-april2022.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "charging-for-non-residential-care-april2022.pdf",
+        "financial_pages": "[2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 29, 30, 31, 32, 33, 34, 35, 36, 40, 41]",
+        "level": "level_3",
+        "page_count": 41,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41]",
+        "source": "https://www.liverpool.gov.uk/adult-social-care/who-we-support/care-charges/paying-for-care-and-support-at-home/",
+        "source_url": "https://www.liverpool.gov.uk/adult-social-care/who-we-support/care-charges/paying-for-care-and-support-at-home/",
+        "total_chunks": 100,
+        "type": "pdf"
+      },
+      "id": "6462db97-ca94-4f9e-b365-8da051d26323",
+      "distance": 1.0565195083618164,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.4269230769230769,
+      "scoring_details": {
+        "query_type": "total_budget",
+        "financial_indicators_found": 4,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 11 - FINANCIAL/BUDGET INFORMATION]\nLiverpool City Council \u2013 Disabled Facilities Gra nt Policy \nPage 10 of 20 11.2 In addition,  any recipient of a DFG that has a homeowner\u2019s interest in the \nproperty that has had any adaptation carried out and subs equently moves \nproperty within the Liverpool City Council boundary and is seeking further \ngrant aid to install similar adaptations to those previously funded then any \ncost over \u00a35,000 will also be subject to a land charge.   \n11.3 Where charges are levied, then in each case Liverpool City Council must \nbe satisfied that it is reasonable to require the repayment and will \nconsider this in line with the legislation.",
+      "metadata": {
+        "chunk_id": 25,
+        "contains_financial_info": true,
+        "download_url": "https://www.liverpool.gov.uk/media/k4tnix0w/disabled-facilities-grant-policy-2023.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "disabled-facilities-grant-policy-2023.pdf",
+        "financial_pages": "[3, 4, 5, 6, 7, 8, 9, 10, 11, 17, 18, 19, 20]",
+        "level": "level_2",
+        "page_count": 20,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]",
+        "source": "https://www.liverpool.gov.uk/adult-social-care/already-receiving-care-services/disabled-facilities-grant/",
+        "source_url": "https://www.liverpool.gov.uk/adult-social-care/already-receiving-care-services/disabled-facilities-grant/",
+        "total_chunks": 42,
+        "type": "pdf"
+      },
+      "id": "f574446f-318f-43cc-9ed6-304ef67ebf17",
+      "distance": 1.0815238952636719,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.4269230769230769,
+      "scoring_details": {
+        "query_type": "total_budget",
+        "financial_indicators_found": 4,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    }
+  ],
+  "context": "[Document 1] From https://www (pdf) - URL: https://www.liverpool.gov.uk/adult-social-care/who-we-support/care-charges/paying-for-care-and-support-at-home/ - 41 pages [Retrieved via: semantic_expanded_2]:\nby the local authority.\u201d  \nThis additional allowance is referred to as Disability Related Expenditure or DRE.  \nDisability Related Expenditure, or \u2018DRE\u2019 is the extra expense you face because of \nyour disability or illness.  In Liverpool if you are in receipt of a disability benefit e.g. \nPIP or DLA a DRE disregard will be automatically applied to the calculation of yo ur \ncharge.  Currently this is \u00a324.16 and is reviewed usually annually in line with any \nchanges to the welfare benefit system. We recognise that people are individual and \nhave individual needs and regardless of the standard allowance you may wish to \nrequest  a further DRE assessment to ensure that all disability related costs are taken \ninto account.  \nDRE cannot be allowed for anything purchased with your Personal Budget. This \nshould be clearly recorded in your Care and Support Plan. The financial assessment \naims to make sure that people who pay towards their care and support have enough\n\n[Document 2] From https://www (pdf) - URL: https://www.liverpool.gov.uk/adult-social-care/who-we-support/community-support/transport-to-services/ - 3 pages [Retrieved via: semantic_expanded_2]:\n[Page 1 - FINANCIAL/BUDGET INFORMATION]\n \n       \n     \n \n \n    \n \n \n \n    \n   \n \n \n    \n \n \n \n       \n   \n   \n \n    \n  \n  \n  \n  \n   \n  \n  \n    \n     \n Bus Service Operator Grant 2023/24 \nSECTION A: BACKGROUND AND CONTACTS \nQ1. What is your local transport authority name? \nLiverpool City Council \nQ2. Name of the reporting officer: \nPeter Sass \nQ3. Contact phone number of the reporting officer: \n0151 233 6506 \nQ4. Email address of the reporting officer: \nFleetservices@liverpool.gov.uk \nSECTION B: TENDERED BUS NETWORK \nQ5. What have you used the BSOG funds for? Please exclude any funding via Bus \nRecovery Grant and any other funding provided through the local authority. \nIf there has been no spend on a particular element, please enter 0. \nA. Maintaining current tendered services \u00a30 \nB. Increasing level of tendered services \u00a30 \nC. Investing in alternative services (e.g . community transport, taxi buses) \u00a30 \nD. Investing in supporting bus infrastructure provision \u00a30 \nE. Other -Bus \u00a30 \nF. Non Bus \u00a30 \nTotal: \u00a30\n\n[Document 3] From https://www (pdf) - URL: https://www.liverpool.gov.uk/adult-social-care/already-receiving-care-services/disabled-facilities-grant/ - 20 pages [Retrieved via: semantic_original]:\nCity Council\u2019s annual budget setting procedure and the availability of \nsufficient levels of external funding. All such payments are at the \ndiscretion of Liverpool City Council and will be removed once available \nfunds are exhausted.   \n10 Re-Housing to suitable accommodation  \n10.1 Where required adaptations involve substantial structural alterations or \nextensions and, in the event, where the cost of the adaptation work \nexceeds \u00a330,000, then re -housing will be considered to address the \nneeds of the household.  \n10.2 In  order to help facilitate a move to appropriate alternative accommodation \nLiverpool City Council shall provide relocation assistance to cover the \ncosts associated with the move.   \n10.3 Eligible  relocation costs include removal expenses, the cost of temporary \naccommodatio n, the connection or disconnection of appliances or the \npayment of a bond to a landlord. Assistance is offered to cover 100% of \nthese costs up to a maximum payment of \u00a37,000.\n\n[Document 4] From https://www (pdf) - URL: https://www.liverpool.gov.uk/adult-social-care/already-receiving-care-services/disabled-facilities-grant/ - 20 pages [Retrieved via: semantic_original]:\n[Page 10 - FINANCIAL/BUDGET INFORMATION]\nLiverpool City Council \u2013 Disabled Facilities Gra nt Policy \nPage 9 of 20 9.3 In addition, where levels of funding permit, Liverpool City Council will fund \nthe replacement  of existing adaptations where they meet the end of their \nlifespan. These could includ e the replacement of stair lifts, through floor \nlifts and step lifts.  \n9.4 Such discretionary assistance shall only be awarded to households \neligible  where a disabled or extremely vulnerable person is resident. In \naddition, Liverpool City Council has placed ad ditional restrictions and \nrules regarding eligibility for such discretionary assistance. A full \nbreakdown of the different awards is included within Appendix 3.  \n9.5 The availability of all discretionary grant assistance is subject to Liverpool \nCity Council\u2019s annual budget setting procedure and the availability of \nsufficient levels of external funding. All such payments are at the\n\n[Document 5] From https://www (pdf) - URL: https://www.liverpool.gov.uk/adult-social-care/who-we-support/care-charges/paying-for-care-and-support-at-home/ - 41 pages [Retrieved via: semantic_original]:\n[Page 10 - FINANCIAL/BUDGET INFORMATION]\nLiverpool City Council \u2013 Charging for non -residential care services  \nPage 9 of 41 and any disability -related expenditure agreed (r efer to Section 12 and 21 (Appendix \n1) for more details).  \nLCC has determined that the following items will be completely ignored (not count as \nincome) under its local policy:  War Widows and War Widowers pension, survivors \nGuaranteed Income Payments from the Armed Forces Compensation Scheme, \nCivilian War Injury pension, War Disablement pension and payments to victims of \nNational Socialist persecution (paid under German or Austrian law).  \nIf a person has capital, such as savings, then it is likely to affect  the contribution \ncalculated under the financial assessment. Capital of \u00a323,250 or more will mean a \nperson is not entitled to financial support until such time as the amount falls below \n\u00a323,250. Capital below \u00a314,250 is ignored but where the amount is abov e this,\n\n[Document 6] From https://www (pdf) - URL: https://www.liverpool.gov.uk/adult-social-care/already-receiving-care-services/direct-payments/ - 21 pages [Retrieved via: semantic_original]:\n[Page 2 - FINANCIAL/BUDGET INFORMATION]\nLiverpool City Council \u2013 Guide to direct payments  \nPage 1 of 21 Contents  \n1 Introduction to direct payments  ................................ ................................ ...........  2 \n2 Getting started ................................ ................................ ................................ ..... 4 \n3 Using the money  ................................ ................................ ................................ . 5 \n4 Employing a personal assistant (PA)  ................................ ................................ .. 7 \n5 Being a good employer  ................................ ................................ .....................  10 \n6 Using agencies that provide care and support  ................................ ..................  12 \n7 Keeping good records  ................................ ................................ .......................  14\n\n[Document 7] From https://www (pdf) - URL: https://www.liverpool.gov.uk/adult-social-care/already-receiving-care-services/direct-payments/ - 21 pages [Retrieved via: semantic_original]:\n[Page 19 - FINANCIAL/BUDGET INFORMATION]\nLiverpool City Council \u2013 Guide to direct payments  \nPage 18 of 21 11 Contributing towards your care costs  \nYour direct payment will be made minus any financial contribution that you may be \nasked to make. Your contribution will be decided as a result of a financial \nassessment. This will calculate how much you can afford to contribute toward the \ncost of your care. More information on contributions is available on the council \nwebsite at liverpool.gov.uk/payingforcare.  \nIn most cases you will be asked to deposit your contribution into your direct \npayments account. You will receive a statement from us telling you how much you \nhave to pay every four weeks.\n\n[Document 8] From https://www (pdf) - URL: https://www.liverpool.gov.uk/adult-social-care/already-receiving-care-services/disabled-facilities-grant/ - 20 pages [Retrieved via: semantic_original]:\n[Page 8 - FINANCIAL/BUDGET INFORMATION]\nLiverpool City Council \u2013 Disabled Facilities Gra nt Policy \nPage 7 of 20 7 Means Tested Contributions  \n7.1 As part of the standard DFG application process a standard test of \nresources is undertaken to determine whether the applicant needs to \nmake a financial contribution toward the cost of works undertaken. \nLiverpool City Council has however agreed to use its discretion under the \nRegulatory Reform Order to provide a \u2018non -means tested\u2019 DFG where the \nvalue of proposed works are less than \u00a36,000. The Regulatory Reform \nOrder (RRO) provides Liverpool City Council with increased powers to \nintroduce policies to assist  clients with adaptations to their homes. This \ncan be provided direct and follows the changes made in 2008 to the way \nin which DFGs can be administered, increasing flexibility and being able \nto direct funds towards wider strategic projects, with the remova l of the \nring fencing of DFG funds. Appendix B outlines examples of RRO \npolicies.\n\n[Document 9] From https://www (pdf) - URL: https://www.liverpool.gov.uk/adult-social-care/who-we-support/care-charges/paying-for-care-and-support-at-home/ - 41 pages [Retrieved via: semantic_original]:\n[Page 12 - FINANCIAL/BUDGET INFORMATION]\nLiverpool City Council \u2013 Charging for non -residential care services  \nPage 11 of 41 6 Disability related expenditure  \nThe CASS guidance (Annex C) provides details of what expenses and costs the  \nauthority should consider when determining disability -related expenditure (DRE). \nThis financial assessment must make an assessment and allow the person to keep \nenough benefit to pay for necessary disability -related expenditure to meet any needs \nwhich are not being met by the council.   \nLCC will disregard a locally agreed rate of DRE allowance where the person \nreceives the following benefits:  \n\u2022 Attendance Allowance   \n\u2022 Disability Living Allowance (middle /high rate of the care component)  \n\u2022 Personal Independence Payment (daily living component).  \nThis locally agreed rate will be reviewed periodically, usually annually. Should a \nperson feel that the allowance awarded does not accurately reflect their disability -\n\n[Document 10] From https://www (pdf) - URL: https://www.liverpool.gov.uk/adult-social-care/already-receiving-care-services/disabled-facilities-grant/ - 20 pages [Retrieved via: semantic_original]:\n[Page 11 - FINANCIAL/BUDGET INFORMATION]\nLiverpool City Council \u2013 Disabled Facilities Gra nt Policy \nPage 10 of 20 11.2 In addition,  any recipient of a DFG that has a homeowner\u2019s interest in the \nproperty that has had any adaptation carried out and subs equently moves \nproperty within the Liverpool City Council boundary and is seeking further \ngrant aid to install similar adaptations to those previously funded then any \ncost over \u00a35,000 will also be subject to a land charge.   \n11.3 Where charges are levied, then in each case Liverpool City Council must \nbe satisfied that it is reasonable to require the repayment and will \nconsider this in line with the legislation.\n",
+  "answer": "The available documents don't provide specific information about Liverpool's total annual budget for the current financial year. \n\n**Key Details:**\n- The documents primarily discuss specific aspects of social care services, such as disability-related expenditures, direct payments, and disabled facilities grants, but do not mention the overall budget.\n- For more detailed financial information, you may need to contact Liverpool City Council directly or visit their official website.\n\n**Practical Next Steps:**\n- You can contact Liverpool City Council for more information by emailing Fleetservices@liverpool.gov.uk or calling 0151 233 6506.\n- Visit the Liverpool City Council's official website at [liverpool.gov.uk](https://www.liverpool.gov.uk) for potential updates or further details on their financial reports or budget announcements.",
+  "metrics": {
+    "duration_seconds": 8.595530986785889,
+    "retrieved_docs_count": 10,
+    "query_length": 71,
+    "answer_length": 841,
+    "retrieval_method": "enhanced",
+    "context_utilization": 0.083984375,
+    "citations_count": 1,
+    "has_citations": true,
+    "query_relevance": 0.8888888888888888,
+    "unique_retrieval_methods": 2,
+    "budget_documents_retrieved": 10,
+    "retrieval_methods_used": [
+      "semantic_expanded_2",
+      "semantic_original"
+    ],
+    "retrieval_method_distribution": {
+      "semantic_expanded_2": 2,
+      "semantic_original": 8
+    }
+  },
+  "local_authority": "liverpool",
+  "query_id": "std_6",
+  "retrieval_method": "enhanced",
+  "run_id": "40e81c80-0676-400a-871d-09274ae2ebbf",
+  "trace": {
+    "run_id": "40e81c80-0676-400a-871d-09274ae2ebbf",
+    "project": "social_care_rag",
+    "url": "https://eu.smith.langchain.com/o/me/runs/40e81c80-0676-400a-871d-09274ae2ebbf"
+  },
+  "test_metadata": {
+    "local_authority": "liverpool",
+    "query_id": "std_6",
+    "query_category": "financial_standard",
+    "prompt_variation": "optimized",
+    "prompt_template": "\nPlease answer the following question about social care services in UK local authorities based only on the information in the provided documents.\n\nQuestion: {query}\n\nContext from relevant documents:\n{context}\n\nInstructions:\n1. Provide a clear, direct answer that would help someone needing this information. If information isn't available, state: \"The available documents don't provide specific information about [aspect].\"\n\n2. Synthesize information from ALL relevant documents to provide the most complete answer rather than analyzing documents individually.\n\n3. Structure your response with:\n   - A concise 1-2 sentence summary first\n   - Relevant details organized in short, clear paragraphs\n   - Bullet points for lists or step-by-step information\n   - Bold text for key information the user should notice\n\n4. For financial information:\n   - Include exact figures, time periods, and what the funding covers\n   - Present financial data clearly: \"The adult social care budget is **\u00a3X million** for [time period]\"\n\n5. Always include practical next steps or resources:\n   - Provide contact information, URLs, or application methods mentioned in the documents\n   - Suggest where the person could find more information\n\n6. When citing sources, use a simple format: \"According to [document name/description]\" or include URLs where available.\n\nAnswer:\n",
+    "processing_time": 8.598265171051025,
+    "timestamp": "2025-08-19T13:55:22.144818",
+    "top_k": 10
+  }
+}

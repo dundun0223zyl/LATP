@@ -1,0 +1,317 @@
+{
+  "query": "What specific savings targets has leeds set in its budget plans?",
+  "retrieved_documents": [
+    {
+      "content": "[Page 18 - FINANCIAL/BUDGET INFORMATION]\n18Travel and Road Safety\nObjectives & Actions\nObjective A\nEnsure older people have a choice of \ntransport options and can chose a mode \nthat is most appropriate for their journey.\nShort Term\n\u2022Complete Leeds Public Transport Investment \nProgramme.\n\u2022Pilot Streets for People/ Active Travel \nNeighbourhood schemes.\n\u2022Develop Leeds Streetscape Space allocation \npolicy.\n\u2022Develop and sign a Street Charter for Leeds.\nMedium Term\n\u2022Deliver electric bike hire scheme for Leeds.\n\u2022Continue to deliver dropped kerbs and \ndisabled parking bays.\n\u2022Continue to identify and help overcome \nbarriers to walking through the demand \nresponsive provision of pedestrian crossings \n(ongoing).\n\u2022Deliver cycling infrastructure improvements \nas part of TCF and Active Travel Fund.\nLong Term\n\u2022Deliver bus priority measures, walking and \ncycling improvements as part of Corridor \nImprovement Programme (CIP)/ City \nRegional Sustainable Transport Settlement",
+      "metadata": {
+        "chunk_id": 36,
+        "contains_financial_info": true,
+        "download_url": "https://www.leeds.gov.uk/sites/default/files/docs/age%20friendly%20leeds%20strategy%20action%20plan%202022-25.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "age%20friendly%20leeds%20strategy%20action%20plan%202022-25.pdf",
+        "financial_pages": "[5, 6, 10, 12, 13, 14, 15, 16, 18, 19, 22, 23, 24, 25, 27, 29, 30, 32, 35]",
+        "level": "level_2",
+        "page_count": 36,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36]",
+        "source": "https://www.leeds.gov.uk/plans-and-strategies/age-friendly-leeds-strategy-and-action-plan-2022-2025",
+        "source_url": "https://www.leeds.gov.uk/plans-and-strategies/age-friendly-leeds-strategy-and-action-plan-2022-2025",
+        "total_chunks": 78,
+        "type": "pdf"
+      },
+      "id": "0007caf7-6279-493b-a45f-58b328c99143",
+      "distance": 1.0073496103286743,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.4076923076923077,
+      "scoring_details": {
+        "query_type": "savings_targets",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "and Wellbeing Board and it belongs to everyone.\nLeeds has a plan to tackle climate change as \nan important part of our best city ambition. This \nincludes plans to reduce our own carbon footprint; \nreduce pollution and noise; reduce the level of \ngreenhouse gas emissions from buildings in the \ncity; promote cycling, walking and the use of public \ntransport; promote a less wasteful, low carbon \neconomy; reduce flooding and other risks from \nthe impact of climate change; build sustainable \ninfrastructure; to help residents reduce their own \ncarbon footprints.\nThe Joint Strategic Assessment 2021 brings \ntogether data and intelligence to look at the current \nand future health and social care needs of people \nliving in Leeds. Its purpose is to shape priorities \nand guide health commissioning, wellbeing and \nsocial care services and service strategies. It helps \nus to better understand the wider determinants \nof health and \u2018post\u2019 pandemic needs and \nopportunities enabling planning for the future. Context",
+      "metadata": {
+        "chunk_id": 3,
+        "contains_financial_info": true,
+        "download_url": "https://www.leeds.gov.uk/sites/default/files/docs/age%20friendly%20leeds%20strategy%20action%20plan%202022-25.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "age%20friendly%20leeds%20strategy%20action%20plan%202022-25.pdf",
+        "financial_pages": "[5, 6, 10, 12, 13, 14, 15, 16, 18, 19, 22, 23, 24, 25, 27, 29, 30, 32, 35]",
+        "level": "level_2",
+        "page_count": 36,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36]",
+        "source": "https://www.leeds.gov.uk/plans-and-strategies/age-friendly-leeds-strategy-and-action-plan-2022-2025",
+        "source_url": "https://www.leeds.gov.uk/plans-and-strategies/age-friendly-leeds-strategy-and-action-plan-2022-2025",
+        "total_chunks": 78,
+        "type": "pdf"
+      },
+      "id": "db62f097-59e1-4662-94d4-c221948d89da",
+      "distance": 0.9444494247436523,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.3666651725769043,
+      "scoring_details": {
+        "query_type": "savings_targets",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 3]\n3\nThe ambition for Age Friendly Leeds is to be the \nBest City to Grow Old in: a place where people \nage well - where older people are valued, feel \nrespected and appreciated, and are seen as the \nassets they are. \n\u2018Age Friendly Leeds\u2019 is a key priority of the Health \nand Wellbeing pillar of the Best City Ambition \nand was formerly one of the eight interconnected \npriority areas of work set out in the Best Council \nPlan 2020-2025, that flow in particular from Leeds\u2019 \nthree main cross cutting strategies: Inclusive \nGrowth, Health and Wellbeing, and Zero Carbon. \nOur Inclusive Growth Strategy sets out how Leeds \nCity Council, the private sector, universities, \ncolleges and schools, the third sector and social \nenterprises in the city will work together to grow \nthe Leeds economy ensuring that everyone in \nthe city contributes to, and benefits from, growth \nto their full potential. It recognises the need to \nsupport older workers to remain or return to",
+      "metadata": {
+        "chunk_id": 1,
+        "contains_financial_info": true,
+        "download_url": "https://www.leeds.gov.uk/sites/default/files/docs/age%20friendly%20leeds%20strategy%20action%20plan%202022-25.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "age%20friendly%20leeds%20strategy%20action%20plan%202022-25.pdf",
+        "financial_pages": "[5, 6, 10, 12, 13, 14, 15, 16, 18, 19, 22, 23, 24, 25, 27, 29, 30, 32, 35]",
+        "level": "level_2",
+        "page_count": 36,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36]",
+        "source": "https://www.leeds.gov.uk/plans-and-strategies/age-friendly-leeds-strategy-and-action-plan-2022-2025",
+        "source_url": "https://www.leeds.gov.uk/plans-and-strategies/age-friendly-leeds-strategy-and-action-plan-2022-2025",
+        "total_chunks": 78,
+        "type": "pdf"
+      },
+      "id": "d0e752f6-25fe-4a0e-983c-0f09d3ef217c",
+      "distance": 0.9728162884712219,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.3581551134586334,
+      "scoring_details": {
+        "query_type": "savings_targets",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 1]\n1Age Friendly Leeds \nStrategy & Action Plan \n2022 - 2025\n\n[Page 2]\n2\nContents\nContext 3\nWhy is it important? 5\nOur Approach 6\nThe Age Friendly Leeds Partnership 7\nGovernance: The Age Friendly Leeds Board 8\nThe Age Friendly Leeds Partnership 9\nNational and International Partnerships 10\nWant to find out more? 11\nStrategy and Action Plan 2022 \u2013 2025: Summary 12\nAge Friendly Leeds: Strategy & Action Plan 2022-2025 14\nAge Friendly Objectives, Expectations and Outcomes 16\nPublic and Civic Spaces 16\nTravel and Road Safety 18\nActive, Included and Respected 22\nHealthy and Independent Ageing 27\nEmployment and Learning 31\nHousing 33\n2",
+      "metadata": {
+        "chunk_id": 0,
+        "contains_financial_info": true,
+        "download_url": "https://www.leeds.gov.uk/sites/default/files/docs/age%20friendly%20leeds%20strategy%20action%20plan%202022-25.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "age%20friendly%20leeds%20strategy%20action%20plan%202022-25.pdf",
+        "financial_pages": "[5, 6, 10, 12, 13, 14, 15, 16, 18, 19, 22, 23, 24, 25, 27, 29, 30, 32, 35]",
+        "level": "level_2",
+        "page_count": 36,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36]",
+        "source": "https://www.leeds.gov.uk/plans-and-strategies/age-friendly-leeds-strategy-and-action-plan-2022-2025",
+        "source_url": "https://www.leeds.gov.uk/plans-and-strategies/age-friendly-leeds-strategy-and-action-plan-2022-2025",
+        "total_chunks": 78,
+        "type": "pdf"
+      },
+      "id": "b5c2f346-a2a3-4ad1-8129-b130a14598ea",
+      "distance": 0.9932498335838318,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.35202504992485045,
+      "scoring_details": {
+        "query_type": "savings_targets",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "the Leeds economy ensuring that everyone in \nthe city contributes to, and benefits from, growth \nto their full potential. It recognises the need to \nsupport older workers to remain or return to \nfulfilling work and make work better for people to \ndo so.\nOur refreshed Health and Wellbeing Strategy \nprovides a framework to improving health. It is \ndriven by a vision to be a healthy and caring city \nfor all ages and improving the health of the poorest \nthe fastest. The Strategy is about how we put in place the best conditions in Leeds for people to \nlive fulfilling lives in a healthy city with high quality \nservices. Everyone in Leeds has a stake in creating \na city which does the very best for its people. This \nstrategy is our blueprint for how we will achieve \nthat. It is led by the partners on the Leeds Health \nand Wellbeing Board and it belongs to everyone.\nLeeds has a plan to tackle climate change as \nan important part of our best city ambition. This \nincludes plans to reduce our own carbon footprint;",
+      "metadata": {
+        "chunk_id": 2,
+        "contains_financial_info": true,
+        "download_url": "https://www.leeds.gov.uk/sites/default/files/docs/age%20friendly%20leeds%20strategy%20action%20plan%202022-25.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "age%20friendly%20leeds%20strategy%20action%20plan%202022-25.pdf",
+        "financial_pages": "[5, 6, 10, 12, 13, 14, 15, 16, 18, 19, 22, 23, 24, 25, 27, 29, 30, 32, 35]",
+        "level": "level_2",
+        "page_count": 36,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36]",
+        "source": "https://www.leeds.gov.uk/plans-and-strategies/age-friendly-leeds-strategy-and-action-plan-2022-2025",
+        "source_url": "https://www.leeds.gov.uk/plans-and-strategies/age-friendly-leeds-strategy-and-action-plan-2022-2025",
+        "total_chunks": 78,
+        "type": "pdf"
+      },
+      "id": "c10d7ca4-b061-4f4b-8511-09e49a822724",
+      "distance": 1.0020840167999268,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.35,
+      "scoring_details": {
+        "query_type": "savings_targets",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "\u00a35.75 ST / \u00a34.25 LCX\n*ST = standard and LCX = Leedscard Extra \nFor further information or to make a booking please contact our\ncustomer services team on 0113 3760398 or visit the centre\nreception to speak to a member of the team",
+      "metadata": {
+        "chunk_id": 3,
+        "contains_financial_info": true,
+        "download_url": "https://active.leeds.gov.uk/sites/default/files/2025-07/Summer%20Hols%202025%20-%20All%20Activities%20%28Web%29_0.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Summer%20Hols%202025%20-%20All%20Activities%20%28Web%29_0.pdf",
+        "financial_pages": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18]",
+        "level": "level_3",
+        "page_count": 20,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]",
+        "source": "https://active.leeds.gov.uk/active-leeds-for-health",
+        "source_url": "https://active.leeds.gov.uk/active-leeds-for-health",
+        "total_chunks": 33,
+        "type": "pdf"
+      },
+      "id": "4867fb1a-7706-4b2e-9eb9-b1797bc010d9",
+      "distance": 1.0827765464782715,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.34203076923076925,
+      "scoring_details": {
+        "query_type": "savings_targets",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "\u00a35.75 ST / \u00a34.25 LCX\n*ST = standard and LCX = Leedscard Extra \nFor further information or to make a booking please contact our\ncustomer services team on 0113 3760398 or visit the centre\nreception to speak to a member of the team",
+      "metadata": {
+        "chunk_id": 3,
+        "contains_financial_info": true,
+        "download_url": "https://active.leeds.gov.uk/sites/default/files/2025-07/Summer%20Hols%202025%20-%20All%20Activities%20%28Web%29_0.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Summer%20Hols%202025%20-%20All%20Activities%20%28Web%29_0.pdf",
+        "financial_pages": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18]",
+        "level": "level_2",
+        "page_count": 20,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]",
+        "source": "https://active.leeds.gov.uk/active-leeds-for-health",
+        "source_url": "https://active.leeds.gov.uk/active-leeds-for-health",
+        "total_chunks": 33,
+        "type": "pdf"
+      },
+      "id": "a9958be7-5c78-4a7e-b23e-ce91d03194e3",
+      "distance": 1.0827765464782715,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.34203076923076925,
+      "scoring_details": {
+        "query_type": "savings_targets",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Summary: This leaflet provides three steps for identifying money problems, looking at some options, and signposting where to go for help. The information therein is also available as an A3-sized poster: Worrying about money (P755). Subject areas: Money, Debt, Poverty Are you over state pension age, or know anyone who is? Financial support in Leeds this winter (P753) ID: P753 Corporate author: Leeds City Council Publication information: Leeds: Leeds City Council, 2024. Physical description: 2 page, 1 poster, 30x21cm. Summary: This poster explains why anyone over the state pension age maybe eligible to claim pension credit even if you have your own home or have savings. It explains the conditions for eligibility. The poster also provides information on 7 different financial support available in Leeds this winter. Subject areas: Money, Financial support, Pension",
+      "metadata": {
+        "chunk_id": 194,
+        "filename": "www.leeds.gov.uk_phrc_resources_leaflets-and-posters.txt",
+        "level": "level_3",
+        "source": "https://www.leeds.gov.uk/phrc/resources/leaflets-and-posters",
+        "source_url": "https://www.leeds.gov.uk/phrc/resources/leaflets-and-posters",
+        "total_chunks": 257,
+        "type": "web_page"
+      },
+      "id": "b3058ad7-49e1-45b0-bf12-60a4b22263e1",
+      "distance": 0.9005612134933472,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.13906240518276508,
+      "scoring_details": {
+        "query_type": "savings_targets",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Email prevention@forwardleeds.co.uk for more information or to book on courses. Financial inclusion Are you a frontline worker? If so the 'Small changes big savings' resource pack is designed to assist you to deliver budgeting workshops to groups, or to work with individuals in the community. The resource pack contains session plans, hand-outs and activities and covers topics such as: Managing your money Cheap days out Borrowing and debt Making a budget plan There are hard copies available to borrow at the PHRC as well as a large pull up for advertising a session. For further information on this training resource, contact Tina Leslie, Health Improvement Practitioner by email: tina.leslie@leeds.gov.uk or call 07779 537 350. Food safety, nutrition and hydration for adults Target group All Adult Social Care staff working in frontline services",
+      "metadata": {
+        "chunk_id": 4,
+        "filename": "www.leeds.gov.uk_phrc_public-health-training_public-health-training-for-people-working-in-leeds.txt",
+        "level": "level_3",
+        "source": "https://www.leeds.gov.uk/phrc/public-health-training/public-health-training-for-people-working-in-leeds",
+        "source_url": "https://www.leeds.gov.uk/phrc/public-health-training/public-health-training-for-people-working-in-leeds",
+        "total_chunks": 43,
+        "type": "web_page"
+      },
+      "id": "5488eaf9-ba85-4ba4-a25e-c3198f455587",
+      "distance": 1.1029597520828247,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.12846153846153846,
+      "scoring_details": {
+        "query_type": "savings_targets",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Summary: This leaflet is aimed at people who face the decision every winter of whether to buy food or use that money to heat their home. The leaflet provides information and contact details for organisations that may be able to help. Subject areas: Fuel poverty, Poverty, Health inequalities Help with managing your money (L344) ID: L344 Corporate author: Leeds City Council Publication information: Leeds: Leeds City Council, no date Physical description: 35 page, 1 booklet, 21x15cm. Summary: This booklet provides details of the various organisations and agencies in Leeds that offer free help and advice on money, debt, budgeting, reducing bills and affordable loans. Subject areas: Poverty, Community information services, Money MIC: Money Information Centre (L354) ID: L354 Corporate author: Leeds City Council Publication information: Leeds: Leeds City Council, 2023 Physical description: 2 page, 1 concertina leaflet, 9x6cm",
+      "metadata": {
+        "chunk_id": 191,
+        "filename": "www.leeds.gov.uk_phrc_resources_leaflets-and-posters.txt",
+        "level": "level_3",
+        "source": "https://www.leeds.gov.uk/phrc/resources/leaflets-and-posters",
+        "source_url": "https://www.leeds.gov.uk/phrc/resources/leaflets-and-posters",
+        "total_chunks": 257,
+        "type": "web_page"
+      },
+      "id": "de166529-886f-4902-9697-3f7e29b84213",
+      "distance": 0.9243351817131042,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.09193021471683796,
+      "scoring_details": {
+        "query_type": "savings_targets",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    }
+  ],
+  "context": "[Document 1] From https://www (pdf) - URL: https://www.leeds.gov.uk/plans-and-strategies/age-friendly-leeds-strategy-and-action-plan-2022-2025 - 36 pages [Retrieved via: semantic_original]:\n[Page 18 - FINANCIAL/BUDGET INFORMATION]\n18Travel and Road Safety\nObjectives & Actions\nObjective A\nEnsure older people have a choice of \ntransport options and can chose a mode \nthat is most appropriate for their journey.\nShort Term\n\u2022Complete Leeds Public Transport Investment \nProgramme.\n\u2022Pilot Streets for People/ Active Travel \nNeighbourhood schemes.\n\u2022Develop Leeds Streetscape Space allocation \npolicy.\n\u2022Develop and sign a Street Charter for Leeds.\nMedium Term\n\u2022Deliver electric bike hire scheme for Leeds.\n\u2022Continue to deliver dropped kerbs and \ndisabled parking bays.\n\u2022Continue to identify and help overcome \nbarriers to walking through the demand \nresponsive provision of pedestrian crossings \n(ongoing).\n\u2022Deliver cycling infrastructure improvements \nas part of TCF and Active Travel Fund.\nLong Term\n\u2022Deliver bus priority measures, walking and \ncycling improvements as part of Corridor \nImprovement Programme (CIP)/ City \nRegional Sustainable Transport Settlement\n\n[Document 2] From https://www (pdf) - URL: https://www.leeds.gov.uk/plans-and-strategies/age-friendly-leeds-strategy-and-action-plan-2022-2025 - 36 pages [Retrieved via: semantic_original]:\nand Wellbeing Board and it belongs to everyone.\nLeeds has a plan to tackle climate change as \nan important part of our best city ambition. This \nincludes plans to reduce our own carbon footprint; \nreduce pollution and noise; reduce the level of \ngreenhouse gas emissions from buildings in the \ncity; promote cycling, walking and the use of public \ntransport; promote a less wasteful, low carbon \neconomy; reduce flooding and other risks from \nthe impact of climate change; build sustainable \ninfrastructure; to help residents reduce their own \ncarbon footprints.\nThe Joint Strategic Assessment 2021 brings \ntogether data and intelligence to look at the current \nand future health and social care needs of people \nliving in Leeds. Its purpose is to shape priorities \nand guide health commissioning, wellbeing and \nsocial care services and service strategies. It helps \nus to better understand the wider determinants \nof health and \u2018post\u2019 pandemic needs and \nopportunities enabling planning for the future. Context\n\n[Document 3] From https://www (pdf) - URL: https://www.leeds.gov.uk/plans-and-strategies/age-friendly-leeds-strategy-and-action-plan-2022-2025 - 36 pages [Retrieved via: semantic_original]:\n[Page 3]\n3\nThe ambition for Age Friendly Leeds is to be the \nBest City to Grow Old in: a place where people \nage well - where older people are valued, feel \nrespected and appreciated, and are seen as the \nassets they are. \n\u2018Age Friendly Leeds\u2019 is a key priority of the Health \nand Wellbeing pillar of the Best City Ambition \nand was formerly one of the eight interconnected \npriority areas of work set out in the Best Council \nPlan 2020-2025, that flow in particular from Leeds\u2019 \nthree main cross cutting strategies: Inclusive \nGrowth, Health and Wellbeing, and Zero Carbon. \nOur Inclusive Growth Strategy sets out how Leeds \nCity Council, the private sector, universities, \ncolleges and schools, the third sector and social \nenterprises in the city will work together to grow \nthe Leeds economy ensuring that everyone in \nthe city contributes to, and benefits from, growth \nto their full potential. It recognises the need to \nsupport older workers to remain or return to\n\n[Document 4] From https://www (pdf) - URL: https://www.leeds.gov.uk/plans-and-strategies/age-friendly-leeds-strategy-and-action-plan-2022-2025 - 36 pages [Retrieved via: semantic_original]:\n[Page 1]\n1Age Friendly Leeds \nStrategy & Action Plan \n2022 - 2025\n\n[Page 2]\n2\nContents\nContext 3\nWhy is it important? 5\nOur Approach 6\nThe Age Friendly Leeds Partnership 7\nGovernance: The Age Friendly Leeds Board 8\nThe Age Friendly Leeds Partnership 9\nNational and International Partnerships 10\nWant to find out more? 11\nStrategy and Action Plan 2022 \u2013 2025: Summary 12\nAge Friendly Leeds: Strategy & Action Plan 2022-2025 14\nAge Friendly Objectives, Expectations and Outcomes 16\nPublic and Civic Spaces 16\nTravel and Road Safety 18\nActive, Included and Respected 22\nHealthy and Independent Ageing 27\nEmployment and Learning 31\nHousing 33\n2\n\n[Document 5] From https://www (pdf) - URL: https://www.leeds.gov.uk/plans-and-strategies/age-friendly-leeds-strategy-and-action-plan-2022-2025 - 36 pages [Retrieved via: semantic_original]:\nthe Leeds economy ensuring that everyone in \nthe city contributes to, and benefits from, growth \nto their full potential. It recognises the need to \nsupport older workers to remain or return to \nfulfilling work and make work better for people to \ndo so.\nOur refreshed Health and Wellbeing Strategy \nprovides a framework to improving health. It is \ndriven by a vision to be a healthy and caring city \nfor all ages and improving the health of the poorest \nthe fastest. The Strategy is about how we put in place the best conditions in Leeds for people to \nlive fulfilling lives in a healthy city with high quality \nservices. Everyone in Leeds has a stake in creating \na city which does the very best for its people. This \nstrategy is our blueprint for how we will achieve \nthat. It is led by the partners on the Leeds Health \nand Wellbeing Board and it belongs to everyone.\nLeeds has a plan to tackle climate change as \nan important part of our best city ambition. This \nincludes plans to reduce our own carbon footprint;\n\n[Document 6] From https://active (pdf) - URL: https://active.leeds.gov.uk/active-leeds-for-health - 20 pages [Retrieved via: semantic_original]:\n\u00a35.75 ST / \u00a34.25 LCX\n*ST = standard and LCX = Leedscard Extra \nFor further information or to make a booking please contact our\ncustomer services team on 0113 3760398 or visit the centre\nreception to speak to a member of the team\n\n[Document 7] From https://active (pdf) - URL: https://active.leeds.gov.uk/active-leeds-for-health - 20 pages [Retrieved via: semantic_original]:\n\u00a35.75 ST / \u00a34.25 LCX\n*ST = standard and LCX = Leedscard Extra \nFor further information or to make a booking please contact our\ncustomer services team on 0113 3760398 or visit the centre\nreception to speak to a member of the team\n\n[Document 8] From https://www (web_page) - URL: https://www.leeds.gov.uk/phrc/resources/leaflets-and-posters [Retrieved via: semantic_original]:\n. Summary: This leaflet provides three steps for identifying money problems, looking at some options, and signposting where to go for help. The information therein is also available as an A3-sized poster: Worrying about money (P755). Subject areas: Money, Debt, Poverty Are you over state pension age, or know anyone who is? Financial support in Leeds this winter (P753) ID: P753 Corporate author: Leeds City Council Publication information: Leeds: Leeds City Council, 2024. Physical description: 2 page, 1 poster, 30x21cm. Summary: This poster explains why anyone over the state pension age maybe eligible to claim pension credit even if you have your own home or have savings. It explains the conditions for eligibility. The poster also provides information on 7 different financial support available in Leeds this winter. Subject areas: Money, Financial support, Pension\n\n[Document 9] From https://www (web_page) - URL: https://www.leeds.gov.uk/phrc/public-health-training/public-health-training-for-people-working-in-leeds [Retrieved via: semantic_original]:\n. Email prevention@forwardleeds.co.uk for more information or to book on courses. Financial inclusion Are you a frontline worker? If so the 'Small changes big savings' resource pack is designed to assist you to deliver budgeting workshops to groups, or to work with individuals in the community. The resource pack contains session plans, hand-outs and activities and covers topics such as: Managing your money Cheap days out Borrowing and debt Making a budget plan There are hard copies available to borrow at the PHRC as well as a large pull up for advertising a session. For further information on this training resource, contact Tina Leslie, Health Improvement Practitioner by email: tina.leslie@leeds.gov.uk or call 07779 537 350. Food safety, nutrition and hydration for adults Target group All Adult Social Care staff working in frontline services\n\n[Document 10] From https://www (web_page) - URL: https://www.leeds.gov.uk/phrc/resources/leaflets-and-posters [Retrieved via: semantic_original]:\n. Summary: This leaflet is aimed at people who face the decision every winter of whether to buy food or use that money to heat their home. The leaflet provides information and contact details for organisations that may be able to help. Subject areas: Fuel poverty, Poverty, Health inequalities Help with managing your money (L344) ID: L344 Corporate author: Leeds City Council Publication information: Leeds: Leeds City Council, no date Physical description: 35 page, 1 booklet, 21x15cm. Summary: This booklet provides details of the various organisations and agencies in Leeds that offer free help and advice on money, debt, budgeting, reducing bills and affordable loans. Subject areas: Poverty, Community information services, Money MIC: Money Information Centre (L354) ID: L354 Corporate author: Leeds City Council Publication information: Leeds: Leeds City Council, 2023 Physical description: 2 page, 1 concertina leaflet, 9x6cm\n",
+  "answer": "The available documents don't provide specific information about the savings targets set by Leeds in its budget plans.",
+  "metrics": {
+    "duration_seconds": 2.276449203491211,
+    "retrieved_docs_count": 10,
+    "query_length": 64,
+    "answer_length": 118,
+    "retrieval_method": "enhanced",
+    "context_utilization": 0.0205761316872428,
+    "citations_count": 0,
+    "has_citations": false,
+    "query_relevance": 0.8,
+    "unique_retrieval_methods": 1,
+    "budget_documents_retrieved": 7,
+    "retrieval_methods_used": [
+      "semantic_original"
+    ],
+    "retrieval_method_distribution": {
+      "semantic_original": 10
+    }
+  },
+  "local_authority": "leeds",
+  "query_id": "std_7",
+  "retrieval_method": "enhanced",
+  "run_id": "3f722074-5584-4767-8ba0-e29f62c87e3d",
+  "trace": {
+    "run_id": "3f722074-5584-4767-8ba0-e29f62c87e3d",
+    "project": "social_care_rag",
+    "url": "https://eu.smith.langchain.com/o/me/runs/3f722074-5584-4767-8ba0-e29f62c87e3d"
+  },
+  "test_metadata": {
+    "local_authority": "leeds",
+    "query_id": "std_7",
+    "query_category": "financial_standard",
+    "prompt_variation": "optimized",
+    "prompt_template": "\nPlease answer the following question about social care services in UK local authorities based only on the information in the provided documents.\n\nQuestion: {query}\n\nContext from relevant documents:\n{context}\n\nInstructions:\n1. Provide a clear, direct answer that would help someone needing this information. If information isn't available, state: \"The available documents don't provide specific information about [aspect].\"\n\n2. Synthesize information from ALL relevant documents to provide the most complete answer rather than analyzing documents individually.\n\n3. Structure your response with:\n   - A concise 1-2 sentence summary first\n   - Relevant details organized in short, clear paragraphs\n   - Bullet points for lists or step-by-step information\n   - Bold text for key information the user should notice\n\n4. For financial information:\n   - Include exact figures, time periods, and what the funding covers\n   - Present financial data clearly: \"The adult social care budget is **\u00a3X million** for [time period]\"\n\n5. Always include practical next steps or resources:\n   - Provide contact information, URLs, or application methods mentioned in the documents\n   - Suggest where the person could find more information\n\n6. When citing sources, use a simple format: \"According to [document name/description]\" or include URLs where available.\n\nAnswer:\n",
+    "processing_time": 2.279784917831421,
+    "timestamp": "2025-08-19T13:51:10.052957",
+    "top_k": 10
+  }
+}

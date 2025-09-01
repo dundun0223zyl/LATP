@@ -1,0 +1,275 @@
+{
+  "query": "I work full-time but also care for my elderly father with Parkinson's in liverpool. What respite care options exist so I can have occasional breaks?",
+  "retrieved_documents": [
+    {
+      "content": ". Live Well Directory You can also search for services for yourself and for the person for whom you care on the Live Well Directory . The directory lets you search services near you, by your postcode or by types of activity across Liverpool and the wider city region. Young carers If you are aged 25 and under and look after a family member due to a long term illness or disability, the Barnardo's Action with Young Carers Service can help you. See our 'Young carers' page for more information and how to access the service . Short breaks Short breaks give looked after people and their carers time away from their usual routine. Breaks can be different for everyone, they depend on what would be helpful to you in your caring role. See our 'Short breaks' page for more information and how to access the service. In this section Representing someone who needs care and support Get a carer's assessment Carer's allowance and financial help Advice and support for carers Short breaks for looked after adults",
+      "metadata": {
+        "chunk_id": 3,
+        "filename": "www.liverpool.gov.uk_adult-social-care_who-we-support_looking-after-someone_support-for-carers_.txt",
+        "level": "level_3",
+        "source": "https://www.liverpool.gov.uk/adult-social-care/who-we-support/looking-after-someone/support-for-carers/",
+        "source_url": "https://www.liverpool.gov.uk/adult-social-care/who-we-support/looking-after-someone/support-for-carers/",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "17213245-d49d-4c34-87ef-1f2795474cdf",
+      "distance": 0.7772581577301025,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.11682255268096924,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Do I need to pay for care at home? We will arrange a financial assessment to see if you need to pay, and how much. We will check you are getting all benefits that you are entitled to. See paying for care and support at home for more information . Further help If you don't qualify for a care package you can employ a care worker through a private agency. Be careful to choose an agency registered and inspected by the Care Quality Commission . You can also visit the Live Well Directory , which provides information about other care and support services available in Liverpool. The directory is also useful if you are looking for help with gardening or cleaning, or to find a handyperson to do some simple jobs in the home. In this section Safety alarms and equipment Care at home Meal delivery Occupational therapy for adults",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.liverpool.gov.uk_adult-social-care_who-we-support_living-independently_care-at-home_.txt",
+        "level": "level_3",
+        "source": "https://www.liverpool.gov.uk/adult-social-care/who-we-support/living-independently/care-at-home/",
+        "source_url": "https://www.liverpool.gov.uk/adult-social-care/who-we-support/living-independently/care-at-home/",
+        "total_chunks": 3,
+        "type": "web_page"
+      },
+      "id": "24c2e7dc-fdec-4688-8609-21e86a61a868",
+      "distance": 0.8467596769332886,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.09597209692001343,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Find activities on Fit For Me Get fit your way, even if you have a health condition. Search for activities near you or get active at home. Find activities on Wellbeing Liverpool A service designed to help you find activities, groups and organisations that can help you live the life you want to live. Search the Live Well Directory A directory of care and support services, activities and information in the Liverpool City Region. In this section Being independent Being active Staying connected Getting out and about Staying safe at home Money matters The Live Well Directory Equipment for your home Information for professionals making a referral Information for adults already receiving care Adult social care  - who we support",
+      "metadata": {
+        "chunk_id": 4,
+        "filename": "www.liverpool.gov.uk_adult-social-care_being-active_.txt",
+        "level": "level_1",
+        "source": "https://www.liverpool.gov.uk/adult-social-care/being-active/",
+        "source_url": "https://www.liverpool.gov.uk/adult-social-care/being-active/",
+        "total_chunks": 5,
+        "type": "web_page"
+      },
+      "id": "5984a6cc-69d4-415a-bd8d-8870935387bd",
+      "distance": 0.8944798366468304,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.08165604900595089,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Support for carers Caring for someone can be demanding and isolating, which is why it is so important to get support \u2013 whether from other carers or organisations. Liverpool Carers Centre The carers centre provides information, advice and support to unpaid carers. We offer carers activities and training and the opportunity to meet other carers in similar situations. If you would like to find out more about the support we offer or register as a carer, please contact us at: Local Solutions, Liverpool Carers Centre 99 Edge Lane Liverpool L7 2PE Telephone: 0151 705 2307. Email: carerscentre@localsolutions.org.uk . Visit the Local Solutions website . Carers UK An online resource for unpaid carers with expert information, advice and support, and also campaign to make life better for carers. Visit the Carers UK website",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.liverpool.gov.uk_adult-social-care_who-we-support_looking-after-someone_support-for-carers_.txt",
+        "level": "level_3",
+        "source": "https://www.liverpool.gov.uk/adult-social-care/who-we-support/looking-after-someone/support-for-carers/",
+        "source_url": "https://www.liverpool.gov.uk/adult-social-care/who-we-support/looking-after-someone/support-for-carers/",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "d770e501-649f-4588-93fc-d222099137db",
+      "distance": 0.8990650177001953,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.0802804946899414,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "--\n\nLooking after someone Representing someone who needs care and support How to be involved in decisions about someone\u2019s care and finances, whether they have mental capacity or not. Get a carer's assessment An assessment looks at what support you need in your role as carer and how we can help you. Carer's allowance and financial help There are a range of benefits, tax credits and other financial support that you could receive as a carer, including carer's allowance. Advice and support for carers As a carer, it's important to get support from other carers, organisations or short break services. Short breaks for looked after adults Short breaks give looked after people and carers a break from routine.",
+      "metadata": {
+        "chunk_id": 0,
+        "filename": "www.liverpool.gov.uk_adult-social-care_who-we-support_looking-after-someone_.txt",
+        "level": "level_2",
+        "source": "https://www.liverpool.gov.uk/adult-social-care/who-we-support/looking-after-someone/",
+        "source_url": "https://www.liverpool.gov.uk/adult-social-care/who-we-support/looking-after-someone/",
+        "total_chunks": 1,
+        "type": "web_page"
+      },
+      "id": "1dc4f4b7-69d8-439b-9777-059f87e01a7f",
+      "distance": 0.9143956899642944,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.07568129301071166,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Find care technology . Meal delivery If you think meal deliveries would help you to continue living independently you can contact a number of providers in Liverpool. Some providers deliver in bulk so you will need to be able to store them or they may deliver to a central collection point. Meals might be fresh or frozen. We cannot recommend any particular provider, but the following currently deliver in Liverpool. Contact them directly for information and charges: Wiltshire Farm Foods Can Cook: Cooked ICare Cuisine Oakhouse Foods You can also search for 'meal delivery' on The Live Well Directory to find additional providers. Care at home When you get older or if you have a disability, you might need help at home to continue to live independently. This might include getting in and out of bed, getting washed and dressed, preparing meals, and going to the toilet. Home care means getting help with these tasks. It involves a professional home carer coming to support you at pre-arranged times",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.liverpool.gov.uk_adult-social-care_being-independent_.txt",
+        "level": "level_1",
+        "source": "https://www.liverpool.gov.uk/adult-social-care/being-independent/",
+        "source_url": "https://www.liverpool.gov.uk/adult-social-care/being-independent/",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "14ea4620-401b-4f05-9322-90de2a303e76",
+      "distance": 0.9177267319994988,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.07468198040015035,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Equipment for your home Care technology Professional referrals and existing service users Referral processes for professionals, and information for people already receiving support services. Information for professionals making a referral Information for adults already receiving care Information for adults and carers we support Information on the statutory services we provide and how we assess care and support needs. Adult social care  - who we support Information for adults with eligible care and support needs and their carers. The Live Well Directory Search for local care and support services across the Liverpool City Region. The Live Well Directory The Live Well Directory brings together information about groups and organisations across the Liverpool City Region, offering services to people of all ages with various needs. Elsewhere on the web Wellbeing Liverpool A service designed to help you find activities, groups and organisations that can help you live the life you want to live",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.liverpool.gov.uk_adult-social-care_.txt",
+        "level": "level_0",
+        "source": "https://www.liverpool.gov.uk/adult-social-care/",
+        "source_url": "https://www.liverpool.gov.uk/adult-social-care/",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "50569cee-db84-44c0-9224-2a1f9c064de3",
+      "distance": 0.9260125609785967,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.07219623170642098,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Home care means getting help with these tasks. It involves a professional home carer coming to support you at pre-arranged times. You can employ a care worker through a private agency. Be careful to choose an agency registered and inspected by the Care Quality Commission . Domestic help and support You can access a range of local organisations or search for domestic services such as gardening, cleaning and pet care to support your independent living. Search the Live Well Directory - a directory of care and support services, activities and information in the Liverpool City Region. In this section Being independent Being active Staying connected Getting out and about Staying safe at home Money matters The Live Well Directory Equipment for your home Information for professionals making a referral Information for adults already receiving care Adult social care  - who we support",
+      "metadata": {
+        "chunk_id": 3,
+        "filename": "www.liverpool.gov.uk_adult-social-care_being-independent_.txt",
+        "level": "level_1",
+        "source": "https://www.liverpool.gov.uk/adult-social-care/being-independent/",
+        "source_url": "https://www.liverpool.gov.uk/adult-social-care/being-independent/",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "73ffcd39-059f-488f-b57e-a347314462ad",
+      "distance": 0.9360836149658956,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.0691749155102313,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Being independent There are many things you can do to maintain your independence, such as changing the way you do things or getting extra support to continue living at home. Mobility issues or tasks around the house From bathing and toileting equipment, to grab rails, walking aids and kitchen aids for everyday tasks, there are a wide range of products available to encourage independent living. Find the right equipment for you . Care technology Care technology, such as personal safety alarms, motion sensors and mobile apps - can help anyone who needs extra support to stay independent, including older people as well as younger people with learning or physical disabilities. You can purchase a care technology package from a private provider. Find care technology . Meal delivery If you think meal deliveries would help you to continue living independently you can contact a number of providers in Liverpool",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.liverpool.gov.uk_adult-social-care_being-independent_.txt",
+        "level": "level_1",
+        "source": "https://www.liverpool.gov.uk/adult-social-care/being-independent/",
+        "source_url": "https://www.liverpool.gov.uk/adult-social-care/being-independent/",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "fc8a418a-a1bb-46af-924c-f2f186931771",
+      "distance": 0.9606474862345276,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.06180575412964173,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". take you through your rights if you are in paid employment. make sure you\u2019re getting the right financial support. help you to have a break. respect you and your caring role. Will I have to pay for the services I receive? There may be a cost for some of the services we provide. If this is the case we will work out how much you, or the person for whom you care, can afford to pay. Find out more about paying for care . There is an option to ask for help completing the assessment if you scroll to the bottom of the form. In this section Representing someone who needs care and support Get a carer's assessment Carer's allowance and financial help Advice and support for carers Short breaks for looked after adults Other websites Local Solutions Carer's Trust",
+      "metadata": {
+        "chunk_id": 4,
+        "filename": "www.liverpool.gov.uk_adult-social-care_who-we-support_looking-after-someone_carers-assessment_.txt",
+        "level": "level_3",
+        "source": "https://www.liverpool.gov.uk/adult-social-care/who-we-support/looking-after-someone/carers-assessment/",
+        "source_url": "https://www.liverpool.gov.uk/adult-social-care/who-we-support/looking-after-someone/carers-assessment/",
+        "total_chunks": 5,
+        "type": "web_page"
+      },
+      "id": "a9f3af2e-de16-481a-b1cf-04a664be57c9",
+      "distance": 0.9622947573661804,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.061311572790145874,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    }
+  ],
+  "context": "[Document 1] From https://www (web_page) - URL: https://www.liverpool.gov.uk/adult-social-care/who-we-support/looking-after-someone/support-for-carers/ [Retrieved via: semantic_original]:\n. Live Well Directory You can also search for services for yourself and for the person for whom you care on the Live Well Directory . The directory lets you search services near you, by your postcode or by types of activity across Liverpool and the wider city region. Young carers If you are aged 25 and under and look after a family member due to a long term illness or disability, the Barnardo's Action with Young Carers Service can help you. See our 'Young carers' page for more information and how to access the service . Short breaks Short breaks give looked after people and their carers time away from their usual routine. Breaks can be different for everyone, they depend on what would be helpful to you in your caring role. See our 'Short breaks' page for more information and how to access the service. In this section Representing someone who needs care and support Get a carer's assessment Carer's allowance and financial help Advice and support for carers Short breaks for looked after adults\n\n[Document 2] From https://www (web_page) - URL: https://www.liverpool.gov.uk/adult-social-care/who-we-support/living-independently/care-at-home/ [Retrieved via: semantic_original]:\n. Do I need to pay for care at home? We will arrange a financial assessment to see if you need to pay, and how much. We will check you are getting all benefits that you are entitled to. See paying for care and support at home for more information . Further help If you don't qualify for a care package you can employ a care worker through a private agency. Be careful to choose an agency registered and inspected by the Care Quality Commission . You can also visit the Live Well Directory , which provides information about other care and support services available in Liverpool. The directory is also useful if you are looking for help with gardening or cleaning, or to find a handyperson to do some simple jobs in the home. In this section Safety alarms and equipment Care at home Meal delivery Occupational therapy for adults\n\n[Document 3] From https://www (web_page) - URL: https://www.liverpool.gov.uk/adult-social-care/being-active/ [Retrieved via: semantic_original]:\n. Find activities on Fit For Me Get fit your way, even if you have a health condition. Search for activities near you or get active at home. Find activities on Wellbeing Liverpool A service designed to help you find activities, groups and organisations that can help you live the life you want to live. Search the Live Well Directory A directory of care and support services, activities and information in the Liverpool City Region. In this section Being independent Being active Staying connected Getting out and about Staying safe at home Money matters The Live Well Directory Equipment for your home Information for professionals making a referral Information for adults already receiving care Adult social care  - who we support\n\n[Document 4] From https://www (web_page) - URL: https://www.liverpool.gov.uk/adult-social-care/who-we-support/looking-after-someone/support-for-carers/ [Retrieved via: semantic_original]:\nSupport for carers Caring for someone can be demanding and isolating, which is why it is so important to get support \u2013 whether from other carers or organisations. Liverpool Carers Centre The carers centre provides information, advice and support to unpaid carers. We offer carers activities and training and the opportunity to meet other carers in similar situations. If you would like to find out more about the support we offer or register as a carer, please contact us at: Local Solutions, Liverpool Carers Centre 99 Edge Lane Liverpool L7 2PE Telephone: 0151 705 2307. Email: carerscentre@localsolutions.org.uk . Visit the Local Solutions website . Carers UK An online resource for unpaid carers with expert information, advice and support, and also campaign to make life better for carers. Visit the Carers UK website\n\n[Document 5] From https://www (web_page) - URL: https://www.liverpool.gov.uk/adult-social-care/who-we-support/looking-after-someone/ [Retrieved via: semantic_original]:\n--\n\nLooking after someone Representing someone who needs care and support How to be involved in decisions about someone\u2019s care and finances, whether they have mental capacity or not. Get a carer's assessment An assessment looks at what support you need in your role as carer and how we can help you. Carer's allowance and financial help There are a range of benefits, tax credits and other financial support that you could receive as a carer, including carer's allowance. Advice and support for carers As a carer, it's important to get support from other carers, organisations or short break services. Short breaks for looked after adults Short breaks give looked after people and carers a break from routine.\n\n[Document 6] From https://www (web_page) - URL: https://www.liverpool.gov.uk/adult-social-care/being-independent/ [Retrieved via: semantic_original]:\n. Find care technology . Meal delivery If you think meal deliveries would help you to continue living independently you can contact a number of providers in Liverpool. Some providers deliver in bulk so you will need to be able to store them or they may deliver to a central collection point. Meals might be fresh or frozen. We cannot recommend any particular provider, but the following currently deliver in Liverpool. Contact them directly for information and charges: Wiltshire Farm Foods Can Cook: Cooked ICare Cuisine Oakhouse Foods You can also search for 'meal delivery' on The Live Well Directory to find additional providers. Care at home When you get older or if you have a disability, you might need help at home to continue to live independently. This might include getting in and out of bed, getting washed and dressed, preparing meals, and going to the toilet. Home care means getting help with these tasks. It involves a professional home carer coming to support you at pre-arranged times\n\n[Document 7] From https://www (web_page) - URL: https://www.liverpool.gov.uk/adult-social-care/ [Retrieved via: semantic_original]:\n. Equipment for your home Care technology Professional referrals and existing service users Referral processes for professionals, and information for people already receiving support services. Information for professionals making a referral Information for adults already receiving care Information for adults and carers we support Information on the statutory services we provide and how we assess care and support needs. Adult social care  - who we support Information for adults with eligible care and support needs and their carers. The Live Well Directory Search for local care and support services across the Liverpool City Region. The Live Well Directory The Live Well Directory brings together information about groups and organisations across the Liverpool City Region, offering services to people of all ages with various needs. Elsewhere on the web Wellbeing Liverpool A service designed to help you find activities, groups and organisations that can help you live the life you want to live\n\n[Document 8] From https://www (web_page) - URL: https://www.liverpool.gov.uk/adult-social-care/being-independent/ [Retrieved via: semantic_original]:\n. Home care means getting help with these tasks. It involves a professional home carer coming to support you at pre-arranged times. You can employ a care worker through a private agency. Be careful to choose an agency registered and inspected by the Care Quality Commission . Domestic help and support You can access a range of local organisations or search for domestic services such as gardening, cleaning and pet care to support your independent living. Search the Live Well Directory - a directory of care and support services, activities and information in the Liverpool City Region. In this section Being independent Being active Staying connected Getting out and about Staying safe at home Money matters The Live Well Directory Equipment for your home Information for professionals making a referral Information for adults already receiving care Adult social care  - who we support\n\n[Document 9] From https://www (web_page) - URL: https://www.liverpool.gov.uk/adult-social-care/being-independent/ [Retrieved via: semantic_original]:\nBeing independent There are many things you can do to maintain your independence, such as changing the way you do things or getting extra support to continue living at home. Mobility issues or tasks around the house From bathing and toileting equipment, to grab rails, walking aids and kitchen aids for everyday tasks, there are a wide range of products available to encourage independent living. Find the right equipment for you . Care technology Care technology, such as personal safety alarms, motion sensors and mobile apps - can help anyone who needs extra support to stay independent, including older people as well as younger people with learning or physical disabilities. You can purchase a care technology package from a private provider. Find care technology . Meal delivery If you think meal deliveries would help you to continue living independently you can contact a number of providers in Liverpool\n\n[Document 10] From https://www (web_page) - URL: https://www.liverpool.gov.uk/adult-social-care/who-we-support/looking-after-someone/carers-assessment/ [Retrieved via: semantic_original]:\n. take you through your rights if you are in paid employment. make sure you\u2019re getting the right financial support. help you to have a break. respect you and your caring role. Will I have to pay for the services I receive? There may be a cost for some of the services we provide. If this is the case we will work out how much you, or the person for whom you care, can afford to pay. Find out more about paying for care . There is an option to ask for help completing the assessment if you scroll to the bottom of the form. In this section Representing someone who needs care and support Get a carer's assessment Carer's allowance and financial help Advice and support for carers Short breaks for looked after adults Other websites Local Solutions Carer's Trust\n",
+  "answer": "You can access respite care options in Liverpool to take occasional breaks from caring for your father. The Liverpool City Council offers short breaks for carers, which can provide you with time away from your usual routine.\n\n- **Short Breaks**: These are designed to give both the person being cared for and the carer a break from their usual routine. The specifics of these breaks can vary based on what would be helpful for you in your caring role. For more information, you can visit the 'Short breaks' page on the Liverpool City Council website.\n\n- **Live Well Directory**: This is a useful resource where you can search for local services, including respite care options, by entering your postcode or searching by activity type. You can access this directory to find services that suit your needs.\n\n- **Carer's Assessment**: You might consider getting a carer's assessment, which evaluates the support you need as a carer and how the council can assist you. This assessment can also help you explore financial support options and ensure you're receiving the right benefits.\n\n- **Contact Information**: For further support, you can reach out to the Liverpool Carers Centre at Local Solutions. They offer advice, support, and activities for carers. You can contact them at 0151 705 2307 or via email at carerscentre@localsolutions.org.uk.\n\nFor more detailed information and to explore these options, you can visit the Liverpool City Council's adult social care page: [Liverpool Adult Social Care](https://www.liverpool.gov.uk/adult-social-care/).",
+  "metrics": {
+    "duration_seconds": 12.816302061080933,
+    "retrieved_docs_count": 10,
+    "query_length": 148,
+    "answer_length": 1550,
+    "retrieval_method": "enhanced",
+    "context_utilization": 0.24867724867724866,
+    "citations_count": 1,
+    "has_citations": true,
+    "query_relevance": 0.6818181818181818,
+    "unique_retrieval_methods": 1,
+    "budget_documents_retrieved": 0,
+    "retrieval_methods_used": [
+      "semantic_original"
+    ],
+    "retrieval_method_distribution": {
+      "semantic_original": 10
+    }
+  },
+  "local_authority": "liverpool",
+  "query_id": "scn_13",
+  "retrieval_method": "enhanced",
+  "run_id": "56046792-1217-4dba-b5ff-a51393f448f2",
+  "trace": {
+    "run_id": "56046792-1217-4dba-b5ff-a51393f448f2",
+    "project": "social_care_rag",
+    "url": "https://eu.smith.langchain.com/o/me/runs/56046792-1217-4dba-b5ff-a51393f448f2"
+  },
+  "test_metadata": {
+    "local_authority": "liverpool",
+    "query_id": "scn_13",
+    "query_category": "carer_support_scenarios",
+    "prompt_variation": "optimized",
+    "prompt_template": "\nPlease answer the following question about social care services in UK local authorities based only on the information in the provided documents.\n\nQuestion: {query}\n\nContext from relevant documents:\n{context}\n\nInstructions:\n1. Provide a clear, direct answer that would help someone needing this information. If information isn't available, state: \"The available documents don't provide specific information about [aspect].\"\n\n2. Synthesize information from ALL relevant documents to provide the most complete answer rather than analyzing documents individually.\n\n3. Structure your response with:\n   - A concise 1-2 sentence summary first\n   - Relevant details organized in short, clear paragraphs\n   - Bullet points for lists or step-by-step information\n   - Bold text for key information the user should notice\n\n4. For financial information:\n   - Include exact figures, time periods, and what the funding covers\n   - Present financial data clearly: \"The adult social care budget is **\u00a3X million** for [time period]\"\n\n5. Always include practical next steps or resources:\n   - Provide contact information, URLs, or application methods mentioned in the documents\n   - Suggest where the person could find more information\n\n6. When citing sources, use a simple format: \"According to [document name/description]\" or include URLs where available.\n\nAnswer:\n",
+    "processing_time": 12.818930864334106,
+    "timestamp": "2025-08-19T13:57:23.882345",
+    "top_k": 10
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "query": "I'm 16 and help care for my mother who has MS in leeds. This is affecting my schoolwork. Is there any support for young carers?",
+  "retrieved_documents": [
+    {
+      "content": ". You will need to create a new account and\u00a0use the Free Access Code\u00a0DGTL8267. Help for carers under 18 years old Get support from teachers and your school If looking after someone means you are missing classes or struggling to do your work on time, you should speak to your teacher so that they can understand your situation and provide support. Speak to your doctor or social worker If you're caring for someone at home and need more support so that you can focus on school work, you can speak to your doctor, school nurse or social worker. They can organise more help for you at home. Meet other young carers Meeting up with other young people who care for someone is a great way of sharing any worries and making new friends. If you're a young carer in Leeds, you can get help from: Leeds Young Carers Support Service Carers Leeds Leeds Children's Charity Contact Carers Leeds We provide support and advice to unpaid carers through our partnership with Carers Leeds",
+      "metadata": {
+        "chunk_id": 12,
+        "filename": "www.leeds.gov.uk_adult-social-care_looking-after-someone_looking-after-a-family-member-or-friend.txt",
+        "level": "level_2",
+        "source": "https://www.leeds.gov.uk/adult-social-care/looking-after-someone/looking-after-a-family-member-or-friend",
+        "source_url": "https://www.leeds.gov.uk/adult-social-care/looking-after-someone/looking-after-a-family-member-or-friend",
+        "total_chunks": 14,
+        "type": "web_page"
+      },
+      "id": "799516b0-f891-4714-992b-139a3651c426",
+      "distance": 0.6271668672561646,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.16184993982315063,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Relatives and friends of care home residents Organisations that offer help and support for friends and relatives Carers Leeds gives tailored support, advice and information to unpaid carers Healthwatch Leeds provides an information and advice service to help people understand and access health and care services in the Leeds area Care Rights UK support and inform residents, families and friends to find out all they need to know about care and to help them if things go wrong Age UK Leeds runs a local information and advice service that can give you advice on things affecting older people Anne Robson Trust a new helpline for people at end of life (last months, weeks or days) or their families or friends Mindwell Leeds lots of useful information for people living in Leeds about where you can get support (including for bereavement and loss) as well as things you can do to support yourself Visiting a care home Information about what rights you have when visiting someone in care Raising a concern How to raise a",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.leeds.gov.uk_care-quality-team_family-and-friends-of-care-home-residents.txt",
+        "level": "level_3",
+        "source": "https://www.leeds.gov.uk/care-quality-team/family-and-friends-of-care-home-residents",
+        "source_url": "https://www.leeds.gov.uk/care-quality-team/family-and-friends-of-care-home-residents",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "e3d19883-8ccc-4a11-843d-6db594708709",
+      "distance": 0.7430570125579834,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.127082896232605,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". For free support and advice, call 0808 196 3833 (Monday to Friday, 8am to 8pm) or speak to someone through their online chat . There is also support for carers who have been bereaved, including one-to-one or group support from the Bereaved Carer Project at Carers Leeds provides support . This gives carers the chance to socialise and build their confidence in getting out and about and enjoying the activities and events in the community. Free online resources We've teamed up with Carers UK to provide carers in Leeds with free access to a wide range of online advice and resources. This includes: About Me: an online course to help carers find ways to prevent their caring responsibilities from becoming overwhelming Jointly Care coordination app: an app for carers to store information about the person they are caring for, including appointments and medication notes Carers UK guides: lots of essential reading for carers To access these services, visit Carers UK Digital Resource",
+      "metadata": {
+        "chunk_id": 11,
+        "filename": "www.leeds.gov.uk_adult-social-care_looking-after-someone_looking-after-a-family-member-or-friend.txt",
+        "level": "level_2",
+        "source": "https://www.leeds.gov.uk/adult-social-care/looking-after-someone/looking-after-a-family-member-or-friend",
+        "source_url": "https://www.leeds.gov.uk/adult-social-care/looking-after-someone/looking-after-a-family-member-or-friend",
+        "total_chunks": 14,
+        "type": "web_page"
+      },
+      "id": "bf85e895-1975-4638-9196-bdf74e52da02",
+      "distance": 0.7842797040939331,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.11471608877182007,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Find local groups Carers Leeds provides up to 30 local support groups each month for carers. This gives you the opportunity to meet other carers like you. For more information, visit Carers Leeds . Caring for someone with dementia The Dementia Hub at Carers Leeds provides specialist support to people caring for someone with dementia. This includes help over the phone or in person and advice on money and your legal rights. There is also a monthly meet up at the memory cafe for carers and the person they look after. For more information, visit Carers Leeds . Support when the person you care for dies If you're a carer who is experiencing grief or loss, or you are worried about losing someone, you may be able to get help from the West Yorkshire and Harrogate Grief and Loss Support Service . For free support and advice, call 0808 196 3833 (Monday to Friday, 8am to 8pm) or speak to someone through their online chat",
+      "metadata": {
+        "chunk_id": 10,
+        "filename": "www.leeds.gov.uk_adult-social-care_looking-after-someone_looking-after-a-family-member-or-friend.txt",
+        "level": "level_2",
+        "source": "https://www.leeds.gov.uk/adult-social-care/looking-after-someone/looking-after-a-family-member-or-friend",
+        "source_url": "https://www.leeds.gov.uk/adult-social-care/looking-after-someone/looking-after-a-family-member-or-friend",
+        "total_chunks": 14,
+        "type": "web_page"
+      },
+      "id": "f2ca60a2-df59-447a-99dc-b711be87b810",
+      "distance": 0.7946774959564209,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.11159675121307373,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". If your caring duties are affecting your finances, you may be able to increase your income or reduce your outgoings. You can: check what benefits you can claim at Money Advice Service find out\u00a0if you are elligible and apply for Carer\u2019s Allowance at GOV.UK apply for Council Tax Support learn how to\u00a0reduce your bills get\u00a0help with your pension from Carers UK Get support at work If you're balancing a job while caring for someone, you should talk to your employer to see what support they can offer you. This could include: flexible working taking time off changing your work arrangements For advice on speaking to your employer and to find out your rights at work, visit Carers UK . Join support groups Speaking to other people who are in a similar situation to you and who understand the issues you are facing can be a good way to get advice and support. Find local groups Carers Leeds provides up to 30 local support groups each month for carers. This gives you the opportunity to meet other carers like you",
+      "metadata": {
+        "chunk_id": 9,
+        "filename": "www.leeds.gov.uk_adult-social-care_looking-after-someone_looking-after-a-family-member-or-friend.txt",
+        "level": "level_2",
+        "source": "https://www.leeds.gov.uk/adult-social-care/looking-after-someone/looking-after-a-family-member-or-friend",
+        "source_url": "https://www.leeds.gov.uk/adult-social-care/looking-after-someone/looking-after-a-family-member-or-friend",
+        "total_chunks": 14,
+        "type": "web_page"
+      },
+      "id": "da662b3e-ac96-496a-b379-db4642888b29",
+      "distance": 0.7992849946022034,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.11021450161933899,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Top HEALTH CONDITIONS SUPPORT SERVICES This page provides access to useful tools and resources and promoting local opportunities across the city for people with health conditions to find support. If you want to add information, please contact the team: health.programmes@leeds.gov.uk. To view, download or print helpful support resources from across our programmes please follow the link - Active Leeds for Health Resources - Google Drive (link is external) Active Leeds work in partnership with various local partners and organisations that support people to live with health conditions. These include educational programmes, peer support groups and activity classes delivered to help people manage their health condition. Active Leeds is supported by the Richmond Group which consists of 15 national charities that support people to manage their health condition",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "active.leeds.gov.uk_active-leeds-health_health-conditions-support-services.txt",
+        "level": "level_3",
+        "source": "https://active.leeds.gov.uk/active-leeds-health/health-conditions-support-services",
+        "source_url": "https://active.leeds.gov.uk/active-leeds-health/health-conditions-support-services",
+        "total_chunks": 21,
+        "type": "web_page"
+      },
+      "id": "b8d399ca-cb9c-48b1-9ca3-0e02d2ea0c9f",
+      "distance": 0.8052124977111816,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1084362506866455,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". You can also find out more about becoming a Shared Lives carer. Help from other local organisations If you need immediate help, you can also find local organisations on Leeds Directory . Help to pay for a short break You can get a one off payment of up to \u00a3250 to help towards the cost of taking a break or holiday from looking after someone. This is know as the Time for Carers scheme. The scheme is funded by us and administered by Carers Leeds . To apply for the scheme, call 0113\u00a0246\u00a08338. Installing help alarms in the home To help give you peace of mind when you're away from the person you care for, an alarm system can be fitted into their home to detect any problems. Find out more about help alarms and safety in the home . Help with money If you need urgent help with money you should call our local welfare support team on 0113 868 9808. If your caring duties are affecting your finances, you may be able to increase your income or reduce your outgoings",
+      "metadata": {
+        "chunk_id": 8,
+        "filename": "www.leeds.gov.uk_adult-social-care_looking-after-someone_looking-after-a-family-member-or-friend.txt",
+        "level": "level_2",
+        "source": "https://www.leeds.gov.uk/adult-social-care/looking-after-someone/looking-after-a-family-member-or-friend",
+        "source_url": "https://www.leeds.gov.uk/adult-social-care/looking-after-someone/looking-after-a-family-member-or-friend",
+        "total_chunks": 14,
+        "type": "web_page"
+      },
+      "id": "55a70ded-7ca5-44ae-b698-db7cd308a30d",
+      "distance": 0.8136728405952454,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1058981478214264,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Get a carer's assessment If you take care of someone who couldn't manage without your help, you are entitled to a carer's assessment. Asking for help If you care for someone and feel like you need support or a rest, you can ask the adult social care team for a carer's assessment. This is a chance for you to have a conversation about how your caring responsibilities affect your wellbeing and quality of life. It is not to judge the care that you provide, but to see how we can help make your life easier. You can ask for an assessment at any time by calling the adult social care team on: 0113 222 4401 (weekdays 9am to 5pm, except Wednesdays from 10am) If you have a social worker, you can ask them to arrange it\u00a0for you. For information, advice and support on preparing for a carer's assessment, visit Carer's Leeds or call 0113 380 4300",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.leeds.gov.uk_adult-social-care_looking-after-someone_get-a-carers-assessment.txt",
+        "level": "level_2",
+        "source": "https://www.leeds.gov.uk/adult-social-care/looking-after-someone/get-a-carers-assessment",
+        "source_url": "https://www.leeds.gov.uk/adult-social-care/looking-after-someone/get-a-carers-assessment",
+        "total_chunks": 3,
+        "type": "web_page"
+      },
+      "id": "4ac702fa-fe50-418f-a1e2-374fd5ef5c2f",
+      "distance": 0.8411173224449158,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.09766480326652527,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "about getting a personal assistant to support you to live independently A helper to live with you If you have a spare room, Leeds Homeshare can find someone to share your home and help with household tasks like shopping and cleaning Help to pay for care and support services Get help paying for support at home, read about financial assessments, personal budgets and direct payments The community wellbeing hub Support for the over 50s in Black, Asian, minority ethnic  communities in Leeds Care Delivery Service Our Care Delivery Service is a group of Leeds City Council services providing care and support for adults Give feedback and let us know if this page was helpful",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.leeds.gov.uk_adult-social-care_help-at-home.txt",
+        "level": "level_1",
+        "source": "https://www.leeds.gov.uk/adult-social-care/help-at-home",
+        "source_url": "https://www.leeds.gov.uk/adult-social-care/help-at-home",
+        "total_chunks": 3,
+        "type": "web_page"
+      },
+      "id": "3caca197-7f35-4bb5-9ed6-e09b9326a921",
+      "distance": 0.8414792418479919,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.09755622744560241,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Summary: This A4 sized poster advertises the ChatHealth service provided by Leeds Community Healthcare's 0-19 Public Health Integrated Nursing Team and is a confidential text service for 11-19 year olds to ask health questions. Subject areas: Mental health, Healthy eating, substance abuse. Confused about how to get support for your mental health? (L152) Variant title: MindMate Support Card (L152) ID: L152 Corporate author: NHS Leeds Clinical Commissioning Group Publication information: Leeds: NHS Leeds Clinical Commissioning Group, 2023 Physical description: 2 page, 1 leaflet, 11x8cm. Summary: A pocket sized pull out guide to mental health services in Leeds for under 18s. It includes information on where you can access help without an adult being involved, what to do if you need help now, and support for parents. Subject areas: Mental health, mental health services",
+      "metadata": {
+        "chunk_id": 87,
+        "filename": "www.leeds.gov.uk_phrc_resources_leaflets-and-posters.txt",
+        "level": "level_3",
+        "source": "https://www.leeds.gov.uk/phrc/resources/leaflets-and-posters",
+        "source_url": "https://www.leeds.gov.uk/phrc/resources/leaflets-and-posters",
+        "total_chunks": 257,
+        "type": "web_page"
+      },
+      "id": "cf154db0-34f2-4bd2-ae22-4abb2f324329",
+      "distance": 0.8421937823295593,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.0973418653011322,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    }
+  ],
+  "context": "[Document 1] From https://www (web_page) - URL: https://www.leeds.gov.uk/adult-social-care/looking-after-someone/looking-after-a-family-member-or-friend [Retrieved via: semantic_original]:\n. You will need to create a new account and\u00a0use the Free Access Code\u00a0DGTL8267. Help for carers under 18 years old Get support from teachers and your school If looking after someone means you are missing classes or struggling to do your work on time, you should speak to your teacher so that they can understand your situation and provide support. Speak to your doctor or social worker If you're caring for someone at home and need more support so that you can focus on school work, you can speak to your doctor, school nurse or social worker. They can organise more help for you at home. Meet other young carers Meeting up with other young people who care for someone is a great way of sharing any worries and making new friends. If you're a young carer in Leeds, you can get help from: Leeds Young Carers Support Service Carers Leeds Leeds Children's Charity Contact Carers Leeds We provide support and advice to unpaid carers through our partnership with Carers Leeds\n\n[Document 2] From https://www (web_page) - URL: https://www.leeds.gov.uk/care-quality-team/family-and-friends-of-care-home-residents [Retrieved via: semantic_original]:\nRelatives and friends of care home residents Organisations that offer help and support for friends and relatives Carers Leeds gives tailored support, advice and information to unpaid carers Healthwatch Leeds provides an information and advice service to help people understand and access health and care services in the Leeds area Care Rights UK support and inform residents, families and friends to find out all they need to know about care and to help them if things go wrong Age UK Leeds runs a local information and advice service that can give you advice on things affecting older people Anne Robson Trust a new helpline for people at end of life (last months, weeks or days) or their families or friends Mindwell Leeds lots of useful information for people living in Leeds about where you can get support (including for bereavement and loss) as well as things you can do to support yourself Visiting a care home Information about what rights you have when visiting someone in care Raising a concern How to raise a\n\n[Document 3] From https://www (web_page) - URL: https://www.leeds.gov.uk/adult-social-care/looking-after-someone/looking-after-a-family-member-or-friend [Retrieved via: semantic_original]:\n. For free support and advice, call 0808 196 3833 (Monday to Friday, 8am to 8pm) or speak to someone through their online chat . There is also support for carers who have been bereaved, including one-to-one or group support from the Bereaved Carer Project at Carers Leeds provides support . This gives carers the chance to socialise and build their confidence in getting out and about and enjoying the activities and events in the community. Free online resources We've teamed up with Carers UK to provide carers in Leeds with free access to a wide range of online advice and resources. This includes: About Me: an online course to help carers find ways to prevent their caring responsibilities from becoming overwhelming Jointly Care coordination app: an app for carers to store information about the person they are caring for, including appointments and medication notes Carers UK guides: lots of essential reading for carers To access these services, visit Carers UK Digital Resource\n\n[Document 4] From https://www (web_page) - URL: https://www.leeds.gov.uk/adult-social-care/looking-after-someone/looking-after-a-family-member-or-friend [Retrieved via: semantic_original]:\n. Find local groups Carers Leeds provides up to 30 local support groups each month for carers. This gives you the opportunity to meet other carers like you. For more information, visit Carers Leeds . Caring for someone with dementia The Dementia Hub at Carers Leeds provides specialist support to people caring for someone with dementia. This includes help over the phone or in person and advice on money and your legal rights. There is also a monthly meet up at the memory cafe for carers and the person they look after. For more information, visit Carers Leeds . Support when the person you care for dies If you're a carer who is experiencing grief or loss, or you are worried about losing someone, you may be able to get help from the West Yorkshire and Harrogate Grief and Loss Support Service . For free support and advice, call 0808 196 3833 (Monday to Friday, 8am to 8pm) or speak to someone through their online chat\n\n[Document 5] From https://www (web_page) - URL: https://www.leeds.gov.uk/adult-social-care/looking-after-someone/looking-after-a-family-member-or-friend [Retrieved via: semantic_original]:\n. If your caring duties are affecting your finances, you may be able to increase your income or reduce your outgoings. You can: check what benefits you can claim at Money Advice Service find out\u00a0if you are elligible and apply for Carer\u2019s Allowance at GOV.UK apply for Council Tax Support learn how to\u00a0reduce your bills get\u00a0help with your pension from Carers UK Get support at work If you're balancing a job while caring for someone, you should talk to your employer to see what support they can offer you. This could include: flexible working taking time off changing your work arrangements For advice on speaking to your employer and to find out your rights at work, visit Carers UK . Join support groups Speaking to other people who are in a similar situation to you and who understand the issues you are facing can be a good way to get advice and support. Find local groups Carers Leeds provides up to 30 local support groups each month for carers. This gives you the opportunity to meet other carers like you\n\n[Document 6] From https://active (web_page) - URL: https://active.leeds.gov.uk/active-leeds-health/health-conditions-support-services [Retrieved via: semantic_original]:\nTop HEALTH CONDITIONS SUPPORT SERVICES This page provides access to useful tools and resources and promoting local opportunities across the city for people with health conditions to find support. If you want to add information, please contact the team: health.programmes@leeds.gov.uk. To view, download or print helpful support resources from across our programmes please follow the link - Active Leeds for Health Resources - Google Drive (link is external) Active Leeds work in partnership with various local partners and organisations that support people to live with health conditions. These include educational programmes, peer support groups and activity classes delivered to help people manage their health condition. Active Leeds is supported by the Richmond Group which consists of 15 national charities that support people to manage their health condition\n\n[Document 7] From https://www (web_page) - URL: https://www.leeds.gov.uk/adult-social-care/looking-after-someone/looking-after-a-family-member-or-friend [Retrieved via: semantic_original]:\n. You can also find out more about becoming a Shared Lives carer. Help from other local organisations If you need immediate help, you can also find local organisations on Leeds Directory . Help to pay for a short break You can get a one off payment of up to \u00a3250 to help towards the cost of taking a break or holiday from looking after someone. This is know as the Time for Carers scheme. The scheme is funded by us and administered by Carers Leeds . To apply for the scheme, call 0113\u00a0246\u00a08338. Installing help alarms in the home To help give you peace of mind when you're away from the person you care for, an alarm system can be fitted into their home to detect any problems. Find out more about help alarms and safety in the home . Help with money If you need urgent help with money you should call our local welfare support team on 0113 868 9808. If your caring duties are affecting your finances, you may be able to increase your income or reduce your outgoings\n\n[Document 8] From https://www (web_page) - URL: https://www.leeds.gov.uk/adult-social-care/looking-after-someone/get-a-carers-assessment [Retrieved via: semantic_original]:\nGet a carer's assessment If you take care of someone who couldn't manage without your help, you are entitled to a carer's assessment. Asking for help If you care for someone and feel like you need support or a rest, you can ask the adult social care team for a carer's assessment. This is a chance for you to have a conversation about how your caring responsibilities affect your wellbeing and quality of life. It is not to judge the care that you provide, but to see how we can help make your life easier. You can ask for an assessment at any time by calling the adult social care team on: 0113 222 4401 (weekdays 9am to 5pm, except Wednesdays from 10am) If you have a social worker, you can ask them to arrange it\u00a0for you. For information, advice and support on preparing for a carer's assessment, visit Carer's Leeds or call 0113 380 4300\n\n[Document 9] From https://www (web_page) - URL: https://www.leeds.gov.uk/adult-social-care/help-at-home [Retrieved via: semantic_original]:\nabout getting a personal assistant to support you to live independently A helper to live with you If you have a spare room, Leeds Homeshare can find someone to share your home and help with household tasks like shopping and cleaning Help to pay for care and support services Get help paying for support at home, read about financial assessments, personal budgets and direct payments The community wellbeing hub Support for the over 50s in Black, Asian, minority ethnic  communities in Leeds Care Delivery Service Our Care Delivery Service is a group of Leeds City Council services providing care and support for adults Give feedback and let us know if this page was helpful\n\n[Document 10] From https://www (web_page) - URL: https://www.leeds.gov.uk/phrc/resources/leaflets-and-posters [Retrieved via: semantic_original]:\n. Summary: This A4 sized poster advertises the ChatHealth service provided by Leeds Community Healthcare's 0-19 Public Health Integrated Nursing Team and is a confidential text service for 11-19 year olds to ask health questions. Subject areas: Mental health, Healthy eating, substance abuse. Confused about how to get support for your mental health? (L152) Variant title: MindMate Support Card (L152) ID: L152 Corporate author: NHS Leeds Clinical Commissioning Group Publication information: Leeds: NHS Leeds Clinical Commissioning Group, 2023 Physical description: 2 page, 1 leaflet, 11x8cm. Summary: A pocket sized pull out guide to mental health services in Leeds for under 18s. It includes information on where you can access help without an adult being involved, what to do if you need help now, and support for parents. Subject areas: Mental health, mental health services\n",
+  "answer": "As a young carer in Leeds, there are several support options available to help you manage your responsibilities and schoolwork.\n\n**Key Support Options:**\n- **School Support:** Speak to your teachers about your situation. They can provide understanding and adjustments to help you manage your schoolwork.\n- **Health and Social Services:** Contact your doctor, school nurse, or social worker for additional support at home, allowing you to focus more on your education.\n- **Leeds Young Carers Support Service:** Connect with this service to meet other young carers and access tailored support.\n- **Carers Leeds:** Offers advice and support to unpaid carers, including young carers like yourself.\n\n**Practical Steps:**\n- **Contact Carers Leeds** for support and advice. You can reach them at 0113 246 8338 or visit their website for more information.\n- **Join Support Groups:** Engage with local support groups through Carers Leeds to share experiences and gain support from peers.\n\nFor more detailed information and resources, you can visit the Leeds City Council's page on looking after a family member or friend: [Leeds City Council Carers Support](https://www.leeds.gov.uk/adult-social-care/looking-after-someone/looking-after-a-family-member-or-friend).",
+  "metrics": {
+    "duration_seconds": 10.022332191467285,
+    "retrieved_docs_count": 10,
+    "query_length": 127,
+    "answer_length": 1255,
+    "retrieval_method": "enhanced",
+    "context_utilization": 0.1496881496881497,
+    "citations_count": 0,
+    "has_citations": false,
+    "query_relevance": 0.5789473684210527,
+    "unique_retrieval_methods": 1,
+    "budget_documents_retrieved": 0,
+    "retrieval_methods_used": [
+      "semantic_original"
+    ],
+    "retrieval_method_distribution": {
+      "semantic_original": 10
+    }
+  },
+  "local_authority": "leeds",
+  "query_id": "scn_14",
+  "retrieval_method": "enhanced",
+  "run_id": "8161821b-e265-49d6-b527-e660eb28c882",
+  "trace": {
+    "run_id": "8161821b-e265-49d6-b527-e660eb28c882",
+    "project": "social_care_rag",
+    "url": "https://eu.smith.langchain.com/o/me/runs/8161821b-e265-49d6-b527-e660eb28c882"
+  },
+  "test_metadata": {
+    "local_authority": "leeds",
+    "query_id": "scn_14",
+    "query_category": "carer_support_scenarios",
+    "prompt_variation": "optimized",
+    "prompt_template": "\nPlease answer the following question about social care services in UK local authorities based only on the information in the provided documents.\n\nQuestion: {query}\n\nContext from relevant documents:\n{context}\n\nInstructions:\n1. Provide a clear, direct answer that would help someone needing this information. If information isn't available, state: \"The available documents don't provide specific information about [aspect].\"\n\n2. Synthesize information from ALL relevant documents to provide the most complete answer rather than analyzing documents individually.\n\n3. Structure your response with:\n   - A concise 1-2 sentence summary first\n   - Relevant details organized in short, clear paragraphs\n   - Bullet points for lists or step-by-step information\n   - Bold text for key information the user should notice\n\n4. For financial information:\n   - Include exact figures, time periods, and what the funding covers\n   - Present financial data clearly: \"The adult social care budget is **\u00a3X million** for [time period]\"\n\n5. Always include practical next steps or resources:\n   - Provide contact information, URLs, or application methods mentioned in the documents\n   - Suggest where the person could find more information\n\n6. When citing sources, use a simple format: \"According to [document name/description]\" or include URLs where available.\n\nAnswer:\n",
+    "processing_time": 10.025037050247192,
+    "timestamp": "2025-08-19T13:53:16.893880",
+    "top_k": 10
+  }
+}

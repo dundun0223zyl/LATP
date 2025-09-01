@@ -1,0 +1,275 @@
+{
+  "query": "What additional resources and support services are available for social care users in durham, including advocacy and complaints services?",
+  "retrieved_documents": [
+    {
+      "content": "Skip to content Care and support for adults Our vision for Adult Social Care is: Ensuring adults and their carers receive the care and support they need, when they need it, to support them to live the lives they want. We provide adult social care services for the most vulnerable people in our community to help keep them safe and to live independently wherever possible. We also work with people who need advice and information to help them stay fit and well in their own homes for as long as possible and prevent or delay them becoming dependent on care services. Our comprehensive directory of services available - Locate - care and support in County Durham - is available to everyone, whether or not you have assessed needs, and regardless of whether you purchase your own care or receive council funding towards it. We work within a number of legal frameworks - the main one is The Care Act (2014) . Our Adult Social Care service has been rated 'good' by the Care Quality Commission (CQC)",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.durham.gov.uk_article_5690_Care-and-support-for-adults.txt",
+        "level": "level_1",
+        "source": "https://www.durham.gov.uk/article/5690/Care-and-support-for-adults",
+        "source_url": "https://www.durham.gov.uk/article/5690/Care-and-support-for-adults",
+        "total_chunks": 3,
+        "type": "web_page"
+      },
+      "id": "0e53b9e7-ad8b-4cf0-bdfc-0a6d879a5b2c",
+      "distance": 0.457361146284114,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.2127916561147658,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Depending on what you choose, benefits can include: learning new skills developing new hobbies and interests meeting new people A meal is sometimes provided. Find details of the many organisations who provide\u00a0day services on our Locate - care and support in County Durham website. Care and Support Pathways for adults with disabilities in County Durham, who are eligible for care and support services, no matter how complex their needs may be. Contact Social Care Direct Email scd@durham.gov.uk Telephone 03000 267 979 \ufeff Offsite links Locate - care and support in County Durham Durham Carers Infopoint Our regulator: The Care Quality Commission \ufeff A to Z A B C D E F G H I J K L M N O P Q R S T U V W X Y Z",
+      "metadata": {
+        "chunk_id": 4,
+        "filename": "www.durham.gov.uk_article_5674_Care-services-outside-your-home.txt",
+        "level": "level_3",
+        "source": "https://www.durham.gov.uk/article/5674/Care-services-outside-your-home",
+        "source_url": "https://www.durham.gov.uk/article/5674/Care-services-outside-your-home",
+        "total_chunks": 5,
+        "type": "web_page"
+      },
+      "id": "fa5ef960-1ae1-47cf-b719-88cacb6af232",
+      "distance": 0.5086545944213867,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.197403621673584,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Please click Referral \u2013 Durham Mental Wellbeing Alliance for more information. Stamp It Out Partnership Hub The Stamp It Out Partnership Hub in County Durham works to promote and protect your health, particularly those people living with mental health conditions. It also works to help\u00a0change the way people think and act about mental health. Locate Locate - care and support in County Durham gives details of mental health support groups and other organisations which may be able to help. Talking Changes Talking Changes deliver\u00a0counselling services in County Durham and Darlington. Specialist support teams You may also be able to get help from specialist health and social care teams drawn from a variety of organisations including the council and the NHS. There are teams to support: people with mental illness and their carers mental illnesses associated with ageing, eg dementia or Alzheimer's learning disabilities Contact Social Care Direct to find out if any of these services can offer support",
+      "metadata": {
+        "chunk_id": 4,
+        "filename": "www.durham.gov.uk_adultmentalhealthsupport.txt",
+        "level": "level_3",
+        "source": "https://www.durham.gov.uk/adultmentalhealthsupport",
+        "source_url": "https://www.durham.gov.uk/adultmentalhealthsupport",
+        "total_chunks": 8,
+        "type": "web_page"
+      },
+      "id": "8cd718ba-2508-47a1-96f6-05d6256b8d32",
+      "distance": 0.5120758414268494,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1963772475719452,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Please click Referral \u2013 Durham Mental Wellbeing Alliance for more information. Stamp It Out Partnership Hub The Stamp It Out Partnership Hub in County Durham works to promote and protect your health, particularly those people living with mental health conditions. It also works to help\u00a0change the way people think and act about mental health. Locate Locate - care and support in County Durham gives details of mental health support groups and other organisations which may be able to help. Talking Changes Talking Changes deliver\u00a0counselling services in County Durham and Darlington. Specialist support teams You may also be able to get help from specialist health and social care teams drawn from a variety of organisations including the council and the NHS. There are teams to support: people with mental illness and their carers mental illnesses associated with ageing, eg dementia or Alzheimer's learning disabilities Contact Social Care Direct to find out if any of these services can offer support",
+      "metadata": {
+        "chunk_id": 4,
+        "filename": "www.durham.gov.uk_article_5647_Mental-health-support-for-adults.txt",
+        "level": "level_3",
+        "source": "https://www.durham.gov.uk/article/5647/Mental-health-support-for-adults",
+        "source_url": "https://www.durham.gov.uk/article/5647/Mental-health-support-for-adults",
+        "total_chunks": 8,
+        "type": "web_page"
+      },
+      "id": "ae6841b6-9797-4160-98e7-b3d4ea4f6fb9",
+      "distance": 0.5120758414268494,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1963772475719452,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Skip to content Care services outside your home Find out about the many local services which provide short periods of care or support away from the home. These services can help with recovery or rehabilitation, give adults regular activities and/or support sessions to attend, or provide families and carers a break from their caring role. Find details of these services on our Locate - care and support in County Durham website. Support groups Open If you feel cut off, or want to talk about everyday problems with people in similar situations to you, a local support group may be able to help.\u00a0\u200bGroups are often self-run with help and advice from voluntary organisations and our social care staff. You might be a carer, a lone parent, an older person or someone with health problems, there are many\u00a0different groups out there. Visit our Locate - care and support in County Durham website to find support groups near you",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.durham.gov.uk_article_5674_Care-services-outside-your-home.txt",
+        "level": "level_3",
+        "source": "https://www.durham.gov.uk/article/5674/Care-services-outside-your-home",
+        "source_url": "https://www.durham.gov.uk/article/5674/Care-services-outside-your-home",
+        "total_chunks": 5,
+        "type": "web_page"
+      },
+      "id": "f8eda51f-49df-4c15-9971-e00b099d2d1e",
+      "distance": 0.5121225118637085,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.19636324644088743,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Skip to content Find care and support services Find information about social care and support services for people living in County Durham. Online help and advice If you, or a friend or relative is in need of care and support, visit our website - Locate . Locate is a free online resource offering a wealth of information, advice and services to help you live independently. Emergency situations If you're in urgent need of help, contact Social Care Direct . Adult Care and Support in County Durham What you need to know At some point in our lives, many of us may need help to enable us to live as well as possible with an illness or disability. This help, known as care and support, is the term used to describe assistance given by family and friends, as well as any help provided by other people or organisations including the council. Care and support can include help with things like getting out of bed, washing, dressing and meal preparation. It may also include emotional support at times of difficulty or stress",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.durham.gov.uk_article_5654_Find-care-and-support-services.txt",
+        "level": "level_3",
+        "source": "https://www.durham.gov.uk/article/5654/Find-care-and-support-services",
+        "source_url": "https://www.durham.gov.uk/article/5654/Find-care-and-support-services",
+        "total_chunks": 23,
+        "type": "web_page"
+      },
+      "id": "4f82ee72-ed72-4bf2-a59e-61abbc4e6d1f",
+      "distance": 0.5216726660728455,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.19349820017814634,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Skip to content Find care and support services Find information about social care and support services for people living in County Durham. Online help and advice If you, or a friend or relative is in need of care and support, visit our website - Locate . Locate is a free online resource offering a wealth of information, advice and services to help you live independently. Emergency situations If you're in urgent need of help, contact Social Care Direct . Adult Care and Support in County Durham What you need to know At some point in our lives, many of us may need help to enable us to live as well as possible with an illness or disability. This help, known as care and support, is the term used to describe assistance given by family and friends, as well as any help provided by other people or organisations including the council. Care and support can include help with things like getting out of bed, washing, dressing and meal preparation. It may also include emotional support at times of difficulty or stress",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.durham.gov.uk_locate.txt",
+        "level": "level_3",
+        "source": "https://www.durham.gov.uk/locate",
+        "source_url": "https://www.durham.gov.uk/locate",
+        "total_chunks": 23,
+        "type": "web_page"
+      },
+      "id": "993cafeb-32be-4596-a092-65d0b422d24c",
+      "distance": 0.5216726660728455,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.19349820017814634,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". You will need to arrange for your local social services department to carry out an assessment of your needs and arrange for this to be sent to us. An allocations panel will then consider your application taking into account your assessed needs and your reason for wanting to move into County Durham. They will let you know their decision. Where are the Extra Care schemes? There are schemes based around the county in Barnard Castle, Ouston, Seaham, Consett, Spennymoor, Brandon and Crook. Full details can be found at Locate - care and support in County Durham . How do I apply? You will need to have a Care and Support Assessment. The Care and Support Assessment is a questionnaire which allows you to have the first say in what you think your care and support needs are. You can get a copy from Locate - care and support in County Durham",
+      "metadata": {
+        "chunk_id": 4,
+        "filename": "www.durham.gov.uk_extracare.txt",
+        "level": "level_3",
+        "source": "https://www.durham.gov.uk/extracare",
+        "source_url": "https://www.durham.gov.uk/extracare",
+        "total_chunks": 6,
+        "type": "web_page"
+      },
+      "id": "e4cbb706-43f0-4b33-acdc-5c8f4ccebc43",
+      "distance": 0.5319796800613403,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1904060959815979,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Skip to content Get your care needs assessed You may need help in your daily life because you're elderly and/or you have an illness or disability. To help you find the right care and support, you can: Visit our Locate - care and support in County Durham website.\u00a0You can browse the site to find a range of information and advice including organisations to help you live as independently as you can. Contact Social Care Direct , where you will speak to a trained contact officer. They will ask you some questions about your situation and help guide you to help and support, and let you know if you are eligible for care and support from us",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.durham.gov.uk_article_5655_Get-your-care-needs-assessed.txt",
+        "level": "level_1",
+        "source": "https://www.durham.gov.uk/article/5655/Get-your-care-needs-assessed",
+        "source_url": "https://www.durham.gov.uk/article/5655/Get-your-care-needs-assessed",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "67be4fe6-6705-4e79-a520-f121fe6fff84",
+      "distance": 0.5404142329604187,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.18787573011187442,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Care and support can include help with things like getting out of bed, washing, dressing and meal preparation. It may also include emotional support at times of difficulty or stress. Decisions about care and support will usually be made by the individual concerned. This places them in control of the help they receive which enables people to remain well and independent for longer. This information is intended as a guide, to help you if you are looking for care and support services. The information will also assist you if you are considering future care and support needs, including how you will be able to pay for the services you may need in the future. Finding out about care and support If you live in County Durham and think you need care and support, your first step should be to visit our Locate - care and support in County Durham website Locate - care and support in County Durham hosts a range of information and advice, including organisations to help you live as independently as you can",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.durham.gov.uk_article_5654_Find-care-and-support-services.txt",
+        "level": "level_3",
+        "source": "https://www.durham.gov.uk/article/5654/Find-care-and-support-services",
+        "source_url": "https://www.durham.gov.uk/article/5654/Find-care-and-support-services",
+        "total_chunks": 23,
+        "type": "web_page"
+      },
+      "id": "5e20b4f0-50d4-4352-827b-f213e6558bdd",
+      "distance": 0.5574254393577576,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.18277236819267273,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    }
+  ],
+  "context": "[Document 1] From https://www (web_page) - URL: https://www.durham.gov.uk/article/5690/Care-and-support-for-adults [Retrieved via: semantic_original]:\nSkip to content Care and support for adults Our vision for Adult Social Care is: Ensuring adults and their carers receive the care and support they need, when they need it, to support them to live the lives they want. We provide adult social care services for the most vulnerable people in our community to help keep them safe and to live independently wherever possible. We also work with people who need advice and information to help them stay fit and well in their own homes for as long as possible and prevent or delay them becoming dependent on care services. Our comprehensive directory of services available - Locate - care and support in County Durham - is available to everyone, whether or not you have assessed needs, and regardless of whether you purchase your own care or receive council funding towards it. We work within a number of legal frameworks - the main one is The Care Act (2014) . Our Adult Social Care service has been rated 'good' by the Care Quality Commission (CQC)\n\n[Document 2] From https://www (web_page) - URL: https://www.durham.gov.uk/article/5674/Care-services-outside-your-home [Retrieved via: semantic_original]:\n. Depending on what you choose, benefits can include: learning new skills developing new hobbies and interests meeting new people A meal is sometimes provided. Find details of the many organisations who provide\u00a0day services on our Locate - care and support in County Durham website. Care and Support Pathways for adults with disabilities in County Durham, who are eligible for care and support services, no matter how complex their needs may be. Contact Social Care Direct Email scd@durham.gov.uk Telephone 03000 267 979 \ufeff Offsite links Locate - care and support in County Durham Durham Carers Infopoint Our regulator: The Care Quality Commission \ufeff A to Z A B C D E F G H I J K L M N O P Q R S T U V W X Y Z\n\n[Document 3] From https://www (web_page) - URL: https://www.durham.gov.uk/adultmentalhealthsupport [Retrieved via: semantic_original]:\n. Please click Referral \u2013 Durham Mental Wellbeing Alliance for more information. Stamp It Out Partnership Hub The Stamp It Out Partnership Hub in County Durham works to promote and protect your health, particularly those people living with mental health conditions. It also works to help\u00a0change the way people think and act about mental health. Locate Locate - care and support in County Durham gives details of mental health support groups and other organisations which may be able to help. Talking Changes Talking Changes deliver\u00a0counselling services in County Durham and Darlington. Specialist support teams You may also be able to get help from specialist health and social care teams drawn from a variety of organisations including the council and the NHS. There are teams to support: people with mental illness and their carers mental illnesses associated with ageing, eg dementia or Alzheimer's learning disabilities Contact Social Care Direct to find out if any of these services can offer support\n\n[Document 4] From https://www (web_page) - URL: https://www.durham.gov.uk/article/5647/Mental-health-support-for-adults [Retrieved via: semantic_original]:\n. Please click Referral \u2013 Durham Mental Wellbeing Alliance for more information. Stamp It Out Partnership Hub The Stamp It Out Partnership Hub in County Durham works to promote and protect your health, particularly those people living with mental health conditions. It also works to help\u00a0change the way people think and act about mental health. Locate Locate - care and support in County Durham gives details of mental health support groups and other organisations which may be able to help. Talking Changes Talking Changes deliver\u00a0counselling services in County Durham and Darlington. Specialist support teams You may also be able to get help from specialist health and social care teams drawn from a variety of organisations including the council and the NHS. There are teams to support: people with mental illness and their carers mental illnesses associated with ageing, eg dementia or Alzheimer's learning disabilities Contact Social Care Direct to find out if any of these services can offer support\n\n[Document 5] From https://www (web_page) - URL: https://www.durham.gov.uk/article/5674/Care-services-outside-your-home [Retrieved via: semantic_original]:\nSkip to content Care services outside your home Find out about the many local services which provide short periods of care or support away from the home. These services can help with recovery or rehabilitation, give adults regular activities and/or support sessions to attend, or provide families and carers a break from their caring role. Find details of these services on our Locate - care and support in County Durham website. Support groups Open If you feel cut off, or want to talk about everyday problems with people in similar situations to you, a local support group may be able to help.\u00a0\u200bGroups are often self-run with help and advice from voluntary organisations and our social care staff. You might be a carer, a lone parent, an older person or someone with health problems, there are many\u00a0different groups out there. Visit our Locate - care and support in County Durham website to find support groups near you\n\n[Document 6] From https://www (web_page) - URL: https://www.durham.gov.uk/article/5654/Find-care-and-support-services [Retrieved via: semantic_original]:\nSkip to content Find care and support services Find information about social care and support services for people living in County Durham. Online help and advice If you, or a friend or relative is in need of care and support, visit our website - Locate . Locate is a free online resource offering a wealth of information, advice and services to help you live independently. Emergency situations If you're in urgent need of help, contact Social Care Direct . Adult Care and Support in County Durham What you need to know At some point in our lives, many of us may need help to enable us to live as well as possible with an illness or disability. This help, known as care and support, is the term used to describe assistance given by family and friends, as well as any help provided by other people or organisations including the council. Care and support can include help with things like getting out of bed, washing, dressing and meal preparation. It may also include emotional support at times of difficulty or stress\n\n[Document 7] From https://www (web_page) - URL: https://www.durham.gov.uk/locate [Retrieved via: semantic_original]:\nSkip to content Find care and support services Find information about social care and support services for people living in County Durham. Online help and advice If you, or a friend or relative is in need of care and support, visit our website - Locate . Locate is a free online resource offering a wealth of information, advice and services to help you live independently. Emergency situations If you're in urgent need of help, contact Social Care Direct . Adult Care and Support in County Durham What you need to know At some point in our lives, many of us may need help to enable us to live as well as possible with an illness or disability. This help, known as care and support, is the term used to describe assistance given by family and friends, as well as any help provided by other people or organisations including the council. Care and support can include help with things like getting out of bed, washing, dressing and meal preparation. It may also include emotional support at times of difficulty or stress\n\n[Document 8] From https://www (web_page) - URL: https://www.durham.gov.uk/extracare [Retrieved via: semantic_original]:\n. You will need to arrange for your local social services department to carry out an assessment of your needs and arrange for this to be sent to us. An allocations panel will then consider your application taking into account your assessed needs and your reason for wanting to move into County Durham. They will let you know their decision. Where are the Extra Care schemes? There are schemes based around the county in Barnard Castle, Ouston, Seaham, Consett, Spennymoor, Brandon and Crook. Full details can be found at Locate - care and support in County Durham . How do I apply? You will need to have a Care and Support Assessment. The Care and Support Assessment is a questionnaire which allows you to have the first say in what you think your care and support needs are. You can get a copy from Locate - care and support in County Durham\n\n[Document 9] From https://www (web_page) - URL: https://www.durham.gov.uk/article/5655/Get-your-care-needs-assessed [Retrieved via: semantic_original]:\nSkip to content Get your care needs assessed You may need help in your daily life because you're elderly and/or you have an illness or disability. To help you find the right care and support, you can: Visit our Locate - care and support in County Durham website.\u00a0You can browse the site to find a range of information and advice including organisations to help you live as independently as you can. Contact Social Care Direct , where you will speak to a trained contact officer. They will ask you some questions about your situation and help guide you to help and support, and let you know if you are eligible for care and support from us\n\n[Document 10] From https://www (web_page) - URL: https://www.durham.gov.uk/article/5654/Find-care-and-support-services [Retrieved via: semantic_original]:\n. Care and support can include help with things like getting out of bed, washing, dressing and meal preparation. It may also include emotional support at times of difficulty or stress. Decisions about care and support will usually be made by the individual concerned. This places them in control of the help they receive which enables people to remain well and independent for longer. This information is intended as a guide, to help you if you are looking for care and support services. The information will also assist you if you are considering future care and support needs, including how you will be able to pay for the services you may need in the future. Finding out about care and support If you live in County Durham and think you need care and support, your first step should be to visit our Locate - care and support in County Durham website Locate - care and support in County Durham hosts a range of information and advice, including organisations to help you live as independently as you can\n",
+  "answer": "In County Durham, social care users have access to a variety of resources and support services, including advocacy and complaints services. The **Locate - care and support in County Durham** website is a comprehensive resource for finding information and services related to care and support.\n\n- **Advocacy Services**: While specific advocacy services are not detailed in the documents, users can explore the Locate website for organizations that might offer advocacy support.\n- **Complaints Services**: For any concerns or complaints about social care services, contacting **Social Care Direct** is recommended. They can be reached via email at **scd@durham.gov.uk** or by phone at **03000 267 979**.\n\nAdditional support services include:\n- **Mental Health Support**: The Stamp It Out Partnership Hub and Talking Changes provide mental health support and counseling services. Specialist support teams are available for people with mental illnesses, dementia, Alzheimer's, and learning disabilities.\n- **Day Services and Support Groups**: Various organizations offer day services and support groups to help individuals learn new skills, meet new people, and engage in regular activities. These can be found on the Locate website.\n- **Emergency Assistance**: In urgent situations, contacting Social Care Direct is advised for immediate help.\n\nFor further information and to explore available services, visit the **Locate - care and support in County Durham** website: [https://www.durham.gov.uk/locate](https://www.durham.gov.uk/locate).",
+  "metrics": {
+    "duration_seconds": 14.649972915649414,
+    "retrieved_docs_count": 10,
+    "query_length": 137,
+    "answer_length": 1536,
+    "retrieval_method": "enhanced",
+    "context_utilization": 0.1836734693877551,
+    "citations_count": 1,
+    "has_citations": true,
+    "query_relevance": 0.9230769230769231,
+    "unique_retrieval_methods": 1,
+    "budget_documents_retrieved": 0,
+    "retrieval_methods_used": [
+      "semantic_original"
+    ],
+    "retrieval_method_distribution": {
+      "semantic_original": 10
+    }
+  },
+  "local_authority": "durham",
+  "query_id": "std_4",
+  "retrieval_method": "enhanced",
+  "run_id": "cf2ec1e7-9b11-4cfe-aa5a-ba1bc48dd881",
+  "trace": {
+    "run_id": "cf2ec1e7-9b11-4cfe-aa5a-ba1bc48dd881",
+    "project": "social_care_rag",
+    "url": "https://eu.smith.langchain.com/o/me/runs/cf2ec1e7-9b11-4cfe-aa5a-ba1bc48dd881"
+  },
+  "test_metadata": {
+    "local_authority": "durham",
+    "query_id": "std_4",
+    "query_category": "service_standard",
+    "prompt_variation": "optimized",
+    "prompt_template": "\nPlease answer the following question about social care services in UK local authorities based only on the information in the provided documents.\n\nQuestion: {query}\n\nContext from relevant documents:\n{context}\n\nInstructions:\n1. Provide a clear, direct answer that would help someone needing this information. If information isn't available, state: \"The available documents don't provide specific information about [aspect].\"\n\n2. Synthesize information from ALL relevant documents to provide the most complete answer rather than analyzing documents individually.\n\n3. Structure your response with:\n   - A concise 1-2 sentence summary first\n   - Relevant details organized in short, clear paragraphs\n   - Bullet points for lists or step-by-step information\n   - Bold text for key information the user should notice\n\n4. For financial information:\n   - Include exact figures, time periods, and what the funding covers\n   - Present financial data clearly: \"The adult social care budget is **\u00a3X million** for [time period]\"\n\n5. Always include practical next steps or resources:\n   - Provide contact information, URLs, or application methods mentioned in the documents\n   - Suggest where the person could find more information\n\n6. When citing sources, use a simple format: \"According to [document name/description]\" or include URLs where available.\n\nAnswer:\n",
+    "processing_time": 14.652791023254395,
+    "timestamp": "2025-08-19T13:36:47.207471",
+    "top_k": 10
+  }
+}

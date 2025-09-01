@@ -1,0 +1,281 @@
+{
+  "query": "I'm moving from durham to Southampton. Will I need a new care needs assessment or can my current care package transfer?",
+  "retrieved_documents": [
+    {
+      "content": ". You will need to arrange for your local social services department to carry out an assessment of your needs and arrange for this to be sent to us. An allocations panel will then consider your application taking into account your assessed needs and your reason for wanting to move into County Durham. They will let you know their decision. Where are the Extra Care schemes? There are schemes based around the county in Barnard Castle, Ouston, Seaham, Consett, Spennymoor, Brandon and Crook. Full details can be found at Locate - care and support in County Durham . How do I apply? You will need to have a Care and Support Assessment. The Care and Support Assessment is a questionnaire which allows you to have the first say in what you think your care and support needs are. You can get a copy from Locate - care and support in County Durham",
+      "metadata": {
+        "chunk_id": 4,
+        "filename": "www.durham.gov.uk_extracare.txt",
+        "level": "level_3",
+        "source": "https://www.durham.gov.uk/extracare",
+        "source_url": "https://www.durham.gov.uk/extracare",
+        "total_chunks": 6,
+        "type": "web_page"
+      },
+      "id": "e4cbb706-43f0-4b33-acdc-5c8f4ccebc43",
+      "distance": 0.6708833575248718,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.14873499274253846,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". They will discuss how they will provide care for you. The care you receive can range from helping you with mobility to helping you with personal care. Is Extra Care a home for the rest of my life? Due to the special design of the flats, the level of support available and the range of equipment that can be accessed, some people will be able to remain in Extra Care for the rest of their lives. However there may be circumstances that occur which result in you needing to move into a different environment for your needs to be met. This may be as a result of medical needs, which can only be met in a specialist medical facility. What if I do not live in County Durham? You can still apply for Extra Care if you live outside of County Durham. You will need to arrange for your local social services department to carry out an assessment of your needs and arrange for this to be sent to us",
+      "metadata": {
+        "chunk_id": 3,
+        "filename": "www.durham.gov.uk_extracare.txt",
+        "level": "level_3",
+        "source": "https://www.durham.gov.uk/extracare",
+        "source_url": "https://www.durham.gov.uk/extracare",
+        "total_chunks": 6,
+        "type": "web_page"
+      },
+      "id": "e98fcc58-924d-4679-be54-8872dec9307c",
+      "distance": 0.7179400324821472,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.13461799025535584,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". They will ask you questions about your situation. We will decide whether we are able to help you. For further information on this see our Get your care needs assessed page. If we are unable to help you we will advise you if there are other sources of help available. Contact Social Care Direct Email scd@durham.gov.uk Telephone 03000 267 979 \ufeff Offsite links Our regulator: The Care Quality Commission \ufeff A to Z A B C D E F G H I J K L M N O P Q R S T U V W X Y Z",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.durham.gov.uk_socialcaredirect.txt",
+        "level": "level_2",
+        "source": "https://www.durham.gov.uk/socialcaredirect",
+        "source_url": "https://www.durham.gov.uk/socialcaredirect",
+        "total_chunks": 3,
+        "type": "web_page"
+      },
+      "id": "77d67c00-aee4-4afd-9202-ea3e3e8fa9a8",
+      "distance": 0.705714225769043,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1345857322692871,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". If your income and savings are between \u00a314,250 and \u00a323,250 you will need to make a contribution. If you have less than \u00a314,250 you may not have to pay anything. Understanding your care charges Depending on the type of care and support you're eligible for, different charges may apply: Advice if you are considering long term care in County Durham Choice of residential care and third party top-ups The Deferred Payment Agreement (DPA) Paying for extra care services Paying for Non-Residential Services Paying for residential and nursing care Paying your own care home fees Our charging policies: Charging policy for non residential services ( PDF, 545 KB ) Charging policy for residential care services ( PDF, 494 KB ) Deferred Payment Agreement Policy Residential Care ( PDF, 345 KB ) Help and advice with your benefits Contact Welfare Rights for\u00a0help and advice about any problems",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.durham.gov.uk_article_5765_How-much-you-will-have-to-pay-for-care-and-support-services.txt",
+        "level": "level_2",
+        "source": "https://www.durham.gov.uk/article/5765/How-much-you-will-have-to-pay-for-care-and-support-services",
+        "source_url": "https://www.durham.gov.uk/article/5765/How-much-you-will-have-to-pay-for-care-and-support-services",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "964471fe-ed91-40a1-9cdb-8a900f8fbfe7",
+      "distance": 0.7661678791046143,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.12014963626861572,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". If you want to apply for help with the cost, you'll need to complete a financial assessment (means test). Find out more about paying for your care and support . Carer's assessments If you are a carer over the age of 18 years old and looking after someone who is elderly, ill or disabled then you\u00a0can get your needs assessed to help you get support for your caring role. Contact Social Care Direct Email scd@durham.gov.uk Telephone 03000 267 979 Related information How much you will have to pay for care and support services \ufeff Offsite links Locate - care and support in County Durham Durham Carers Infopoint: get a carers assessment Our regulator: The Care Quality Commission \ufeff A to Z A B C D E F G H I J K L M N O P Q R S T U V W X Y Z",
+      "metadata": {
+        "chunk_id": 3,
+        "filename": "www.durham.gov.uk_article_5655_Get-your-care-needs-assessed.txt",
+        "level": "level_1",
+        "source": "https://www.durham.gov.uk/article/5655/Get-your-care-needs-assessed",
+        "source_url": "https://www.durham.gov.uk/article/5655/Get-your-care-needs-assessed",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "0256d796-99cd-4b94-a9ab-a11697c99130",
+      "distance": 0.7727731525982873,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.11816805422051382,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Skip to content Our Local Offer for care leavers Our local offer tells you about all the support that we have in County Durham for you as a care leaver. Just because you are leaving care, or have already left care, we haven't stopped caring\u00a0about you. We want to make sure that you feel safe and supported and know where and\u00a0who to go to for advice and help. Did you know, that as a care leaver: you can get up to \u00a33,000 to set up home you will get a discount on council tax and you might not have to pay any at all you can get \u00a32,000 to help you with going to university you can get \u00a31,200 if you go to sixth form or college you can get \u00a3500 towards driving lessons you can get a Durham Children in Care Council: Freedom Card which is a leisure and activity pass Your Young Person's Advisor (YPA) will talk with you about the information on these web pages. We also have this information available in a leaflet - Contact Young People's Service for a copy",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.durham.gov.uk_article_19443_Our-Local-Offer-for-care-leavers.txt",
+        "level": "level_3",
+        "source": "https://www.durham.gov.uk/article/19443/Our-Local-Offer-for-care-leavers",
+        "source_url": "https://www.durham.gov.uk/article/19443/Our-Local-Offer-for-care-leavers",
+        "total_chunks": 5,
+        "type": "web_page"
+      },
+      "id": "4cdaf1b6-ff59-413b-9dad-92a6cf91d010",
+      "distance": 0.7737962603569031,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.11786112189292908,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 4 - FINANCIAL/BUDGET INFORMATION]\n4 \n \u2022 Aftercare services/support provided under Section 117 of the \nMental Health Act 1983  \n \n\u2022 Any service or part of service which the NHS is under a duty to \nprovide. This includes  Continuing Healthcare and the NHS \ncontribution to Registered Nursing Care.  Where Health funding is \npaid only towards your registered nursing care you will still be \nrequired to pay for the residential social care element of your care \ncosts, and these will be backdated to the date of admission.  \n \n\u2022 Any services which the Council is under a duty to provide through \nother legislation.  \n \n3. Care Needs Assessment  \n \n3.1  Where a person has the appearance of a need for care and support, a needs \nassessment under the Care Act will be carried out by the Council in accordance \nwith care management and care co -ordination policy and procedures, regardless \nof whether or not the Cou ncil thinks the individual has eligible needs or of their \nfinancial situation.",
+      "metadata": {
+        "chunk_id": 8,
+        "contains_financial_info": true,
+        "download_url": "https://www.durham.gov.uk/media/6426/Charging-policy-for-residential-care-services/pdf/ResidentialCareChargingPolicy.pdf?m=1746100373793",
+        "extraction_method": "PyPDF2",
+        "filename": "ResidentialCareChargingPolicy.pdf",
+        "financial_pages": "[2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]",
+        "level": "level_2",
+        "page_count": 17,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]",
+        "source": "https://www.durham.gov.uk/article/5765/How-much-you-will-have-to-pay-for-care-and-support-services",
+        "source_url": "https://www.durham.gov.uk/article/5765/How-much-you-will-have-to-pay-for-care-and-support-services",
+        "total_chunks": 50,
+        "type": "pdf"
+      },
+      "id": "00ebbc28-e0f3-49fc-8fe0-41ffc2342b02",
+      "distance": 0.7992079257965088,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.11023762226104736,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 4,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "--\n\nSkip to content Care and support for moving into adulthood At the age of 18, if you need care and support, you will move from child to adult care. Planning ahead Lots of things can change about your care and support arrangements during this time. We can help you plan your move. We will complete a Care Act assessment with you to determine if you are eligible to receive commissioned services. The following information is available on eligibility for care and support: Eligibility criteria for adults with care and support needs Eligibility criteria for carers with support needs Useful information Get your care needs assessed Care and support for adults Equipment and services in your home Contact Social Care Direct Email scd@durham.gov.uk Telephone 03000 267 979 \ufeff A to Z A B C D E F G H I J K L M N O P Q R S T U V W X Y Z",
+      "metadata": {
+        "chunk_id": 0,
+        "filename": "www.durham.gov.uk_transition14plus.txt",
+        "level": "level_3",
+        "source": "https://www.durham.gov.uk/transition14plus",
+        "source_url": "https://www.durham.gov.uk/transition14plus",
+        "total_chunks": 1,
+        "type": "web_page"
+      },
+      "id": "c5474eae-7177-4656-b896-0956bc249caf",
+      "distance": 0.8048666715621948,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.10853999853134155,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "--\n\nSkip to content Care and support for moving into adulthood At the age of 18, if you need care and support, you will move from child to adult care. Planning ahead Lots of things can change about your care and support arrangements during this time. We can help you plan your move. We will complete a Care Act assessment with you to determine if you are eligible to receive commissioned services. The following information is available on eligibility for care and support: Eligibility criteria for adults with care and support needs Eligibility criteria for carers with support needs Useful information Get your care needs assessed Care and support for adults Equipment and services in your home Contact Social Care Direct Email scd@durham.gov.uk Telephone 03000 267 979 \ufeff A to Z A B C D E F G H I J K L M N O P Q R S T U V W X Y Z",
+      "metadata": {
+        "chunk_id": 0,
+        "filename": "www.durham.gov.uk_article_3616_Care-and-support-for-moving-into-adulthood.txt",
+        "level": "level_2",
+        "source": "https://www.durham.gov.uk/article/3616/Care-and-support-for-moving-into-adulthood",
+        "source_url": "https://www.durham.gov.uk/article/3616/Care-and-support-for-moving-into-adulthood",
+        "total_chunks": 1,
+        "type": "web_page"
+      },
+      "id": "fcb0c89e-ffb6-4d1e-a0af-f62df134ebc4",
+      "distance": 0.8048668503761292,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.10853994488716126,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Note: we will not pay for meals, or their delivery, even if you are eligible for care and support. Sitting and visiting Some organisations and charities provide sitting and visiting services for companionship, support and/or personal care for adults who need care at home.\u00a0These services can also give carers the opportunity to take a break from their caring role. Contact Social Care Direct Email scd@durham.gov.uk Telephone 03000 267 979 Related information Get your care needs assessed \ufeff Offsite links Durham Carers Infopoint Healthwatch County Durham: Home Care Services Report Our regulator: The Care Quality Commission \ufeff A to Z A B C D E F G H I J K L M N O P Q R S T U V W X Y Z",
+      "metadata": {
+        "chunk_id": 5,
+        "filename": "www.durham.gov.uk_article_5660_Equipment-and-services-in-your-home.txt",
+        "level": "level_3",
+        "source": "https://www.durham.gov.uk/article/5660/Equipment-and-services-in-your-home",
+        "source_url": "https://www.durham.gov.uk/article/5660/Equipment-and-services-in-your-home",
+        "total_chunks": 6,
+        "type": "web_page"
+      },
+      "id": "3d530906-f97e-4378-adcc-c6a5c76342c9",
+      "distance": 0.8049694895744324,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.10850915312767029,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    }
+  ],
+  "context": "[Document 1] From https://www (web_page) - URL: https://www.durham.gov.uk/extracare [Retrieved via: semantic_original]:\n. You will need to arrange for your local social services department to carry out an assessment of your needs and arrange for this to be sent to us. An allocations panel will then consider your application taking into account your assessed needs and your reason for wanting to move into County Durham. They will let you know their decision. Where are the Extra Care schemes? There are schemes based around the county in Barnard Castle, Ouston, Seaham, Consett, Spennymoor, Brandon and Crook. Full details can be found at Locate - care and support in County Durham . How do I apply? You will need to have a Care and Support Assessment. The Care and Support Assessment is a questionnaire which allows you to have the first say in what you think your care and support needs are. You can get a copy from Locate - care and support in County Durham\n\n[Document 2] From https://www (web_page) - URL: https://www.durham.gov.uk/extracare [Retrieved via: semantic_original]:\n. They will discuss how they will provide care for you. The care you receive can range from helping you with mobility to helping you with personal care. Is Extra Care a home for the rest of my life? Due to the special design of the flats, the level of support available and the range of equipment that can be accessed, some people will be able to remain in Extra Care for the rest of their lives. However there may be circumstances that occur which result in you needing to move into a different environment for your needs to be met. This may be as a result of medical needs, which can only be met in a specialist medical facility. What if I do not live in County Durham? You can still apply for Extra Care if you live outside of County Durham. You will need to arrange for your local social services department to carry out an assessment of your needs and arrange for this to be sent to us\n\n[Document 3] From https://www (web_page) - URL: https://www.durham.gov.uk/socialcaredirect [Retrieved via: semantic_original]:\n. They will ask you questions about your situation. We will decide whether we are able to help you. For further information on this see our Get your care needs assessed page. If we are unable to help you we will advise you if there are other sources of help available. Contact Social Care Direct Email scd@durham.gov.uk Telephone 03000 267 979 \ufeff Offsite links Our regulator: The Care Quality Commission \ufeff A to Z A B C D E F G H I J K L M N O P Q R S T U V W X Y Z\n\n[Document 4] From https://www (web_page) - URL: https://www.durham.gov.uk/article/5765/How-much-you-will-have-to-pay-for-care-and-support-services [Retrieved via: semantic_original]:\n. If your income and savings are between \u00a314,250 and \u00a323,250 you will need to make a contribution. If you have less than \u00a314,250 you may not have to pay anything. Understanding your care charges Depending on the type of care and support you're eligible for, different charges may apply: Advice if you are considering long term care in County Durham Choice of residential care and third party top-ups The Deferred Payment Agreement (DPA) Paying for extra care services Paying for Non-Residential Services Paying for residential and nursing care Paying your own care home fees Our charging policies: Charging policy for non residential services ( PDF, 545 KB ) Charging policy for residential care services ( PDF, 494 KB ) Deferred Payment Agreement Policy Residential Care ( PDF, 345 KB ) Help and advice with your benefits Contact Welfare Rights for\u00a0help and advice about any problems\n\n[Document 5] From https://www (web_page) - URL: https://www.durham.gov.uk/article/5655/Get-your-care-needs-assessed [Retrieved via: semantic_original]:\n. If you want to apply for help with the cost, you'll need to complete a financial assessment (means test). Find out more about paying for your care and support . Carer's assessments If you are a carer over the age of 18 years old and looking after someone who is elderly, ill or disabled then you\u00a0can get your needs assessed to help you get support for your caring role. Contact Social Care Direct Email scd@durham.gov.uk Telephone 03000 267 979 Related information How much you will have to pay for care and support services \ufeff Offsite links Locate - care and support in County Durham Durham Carers Infopoint: get a carers assessment Our regulator: The Care Quality Commission \ufeff A to Z A B C D E F G H I J K L M N O P Q R S T U V W X Y Z\n\n[Document 6] From https://www (web_page) - URL: https://www.durham.gov.uk/article/19443/Our-Local-Offer-for-care-leavers [Retrieved via: semantic_original]:\nSkip to content Our Local Offer for care leavers Our local offer tells you about all the support that we have in County Durham for you as a care leaver. Just because you are leaving care, or have already left care, we haven't stopped caring\u00a0about you. We want to make sure that you feel safe and supported and know where and\u00a0who to go to for advice and help. Did you know, that as a care leaver: you can get up to \u00a33,000 to set up home you will get a discount on council tax and you might not have to pay any at all you can get \u00a32,000 to help you with going to university you can get \u00a31,200 if you go to sixth form or college you can get \u00a3500 towards driving lessons you can get a Durham Children in Care Council: Freedom Card which is a leisure and activity pass Your Young Person's Advisor (YPA) will talk with you about the information on these web pages. We also have this information available in a leaflet - Contact Young People's Service for a copy\n\n[Document 7] From https://www (pdf) - URL: https://www.durham.gov.uk/article/5765/How-much-you-will-have-to-pay-for-care-and-support-services - 17 pages [Retrieved via: semantic_original]:\n[Page 4 - FINANCIAL/BUDGET INFORMATION]\n4 \n \u2022 Aftercare services/support provided under Section 117 of the \nMental Health Act 1983  \n \n\u2022 Any service or part of service which the NHS is under a duty to \nprovide. This includes  Continuing Healthcare and the NHS \ncontribution to Registered Nursing Care.  Where Health funding is \npaid only towards your registered nursing care you will still be \nrequired to pay for the residential social care element of your care \ncosts, and these will be backdated to the date of admission.  \n \n\u2022 Any services which the Council is under a duty to provide through \nother legislation.  \n \n3. Care Needs Assessment  \n \n3.1  Where a person has the appearance of a need for care and support, a needs \nassessment under the Care Act will be carried out by the Council in accordance \nwith care management and care co -ordination policy and procedures, regardless \nof whether or not the Cou ncil thinks the individual has eligible needs or of their \nfinancial situation.\n\n[Document 8] From https://www (web_page) - URL: https://www.durham.gov.uk/transition14plus [Retrieved via: semantic_original]:\n--\n\nSkip to content Care and support for moving into adulthood At the age of 18, if you need care and support, you will move from child to adult care. Planning ahead Lots of things can change about your care and support arrangements during this time. We can help you plan your move. We will complete a Care Act assessment with you to determine if you are eligible to receive commissioned services. The following information is available on eligibility for care and support: Eligibility criteria for adults with care and support needs Eligibility criteria for carers with support needs Useful information Get your care needs assessed Care and support for adults Equipment and services in your home Contact Social Care Direct Email scd@durham.gov.uk Telephone 03000 267 979 \ufeff A to Z A B C D E F G H I J K L M N O P Q R S T U V W X Y Z\n\n[Document 9] From https://www (web_page) - URL: https://www.durham.gov.uk/article/3616/Care-and-support-for-moving-into-adulthood [Retrieved via: semantic_original]:\n--\n\nSkip to content Care and support for moving into adulthood At the age of 18, if you need care and support, you will move from child to adult care. Planning ahead Lots of things can change about your care and support arrangements during this time. We can help you plan your move. We will complete a Care Act assessment with you to determine if you are eligible to receive commissioned services. The following information is available on eligibility for care and support: Eligibility criteria for adults with care and support needs Eligibility criteria for carers with support needs Useful information Get your care needs assessed Care and support for adults Equipment and services in your home Contact Social Care Direct Email scd@durham.gov.uk Telephone 03000 267 979 \ufeff A to Z A B C D E F G H I J K L M N O P Q R S T U V W X Y Z\n\n[Document 10] From https://www (web_page) - URL: https://www.durham.gov.uk/article/5660/Equipment-and-services-in-your-home [Retrieved via: semantic_original]:\n. Note: we will not pay for meals, or their delivery, even if you are eligible for care and support. Sitting and visiting Some organisations and charities provide sitting and visiting services for companionship, support and/or personal care for adults who need care at home.\u00a0These services can also give carers the opportunity to take a break from their caring role. Contact Social Care Direct Email scd@durham.gov.uk Telephone 03000 267 979 Related information Get your care needs assessed \ufeff Offsite links Durham Carers Infopoint Healthwatch County Durham: Home Care Services Report Our regulator: The Care Quality Commission \ufeff A to Z A B C D E F G H I J K L M N O P Q R S T U V W X Y Z\n",
+  "answer": "You will need a new care needs assessment when moving from Durham to Southampton. Care needs assessments are specific to the local authority where you reside, and each local authority is responsible for assessing and meeting the care needs of its residents.\n\n- **New Assessment Requirement**: When you move to a new area, such as from Durham to Southampton, the local authority in Southampton will need to conduct its own assessment of your care needs. This is because care needs assessments are tailored to the services and resources available in each specific area.\n\n- **Process**: You should contact the social services department in Southampton to arrange for a new Care and Support Assessment. This assessment will determine what services you are eligible for in your new location.\n\n- **Contact Information**: To start this process, you can reach out to the social services department in Southampton for guidance on how to proceed with your assessment.\n\nFor further assistance, you may want to contact Social Care Direct in Durham at scd@durham.gov.uk or by phone at 03000 267 979 to discuss your current care needs and get advice on transitioning your care to a new location.",
+  "metrics": {
+    "duration_seconds": 6.664333820343018,
+    "retrieved_docs_count": 10,
+    "query_length": 119,
+    "answer_length": 1181,
+    "retrieval_method": "enhanced",
+    "context_utilization": 0.11678832116788321,
+    "citations_count": 0,
+    "has_citations": false,
+    "query_relevance": 0.8235294117647058,
+    "unique_retrieval_methods": 1,
+    "budget_documents_retrieved": 1,
+    "retrieval_methods_used": [
+      "semantic_original"
+    ],
+    "retrieval_method_distribution": {
+      "semantic_original": 10
+    }
+  },
+  "local_authority": "durham",
+  "query_id": "scn_24",
+  "retrieval_method": "enhanced",
+  "run_id": "92f978d6-d686-4a88-9e43-8b6244b38e82",
+  "trace": {
+    "run_id": "92f978d6-d686-4a88-9e43-8b6244b38e82",
+    "project": "social_care_rag",
+    "url": "https://eu.smith.langchain.com/o/me/runs/92f978d6-d686-4a88-9e43-8b6244b38e82"
+  },
+  "test_metadata": {
+    "local_authority": "durham",
+    "query_id": "scn_24",
+    "query_category": "assessment_scenarios",
+    "prompt_variation": "optimized",
+    "prompt_template": "\nPlease answer the following question about social care services in UK local authorities based only on the information in the provided documents.\n\nQuestion: {query}\n\nContext from relevant documents:\n{context}\n\nInstructions:\n1. Provide a clear, direct answer that would help someone needing this information. If information isn't available, state: \"The available documents don't provide specific information about [aspect].\"\n\n2. Synthesize information from ALL relevant documents to provide the most complete answer rather than analyzing documents individually.\n\n3. Structure your response with:\n   - A concise 1-2 sentence summary first\n   - Relevant details organized in short, clear paragraphs\n   - Bullet points for lists or step-by-step information\n   - Bold text for key information the user should notice\n\n4. For financial information:\n   - Include exact figures, time periods, and what the funding covers\n   - Present financial data clearly: \"The adult social care budget is **\u00a3X million** for [time period]\"\n\n5. Always include practical next steps or resources:\n   - Provide contact information, URLs, or application methods mentioned in the documents\n   - Suggest where the person could find more information\n\n6. When citing sources, use a simple format: \"According to [document name/description]\" or include URLs where available.\n\nAnswer:\n",
+    "processing_time": 6.667356967926025,
+    "timestamp": "2025-08-19T13:40:28.285697",
+    "top_k": 10
+  }
+}

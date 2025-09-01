@@ -1,0 +1,486 @@
+{
+  "query": "What is Birmingham's total annual budget?",
+  "retrieved_documents": [
+    {
+      "content": "CURRENT RESOURCES  \nThe financial sust ainability of the social care system is a nationally recognised and widely reported \nissue , for which there has been much lobbying from the local government sector. The Government \nhas set out a range of reform s, albeit the funding has yet to be confirmed fo r all aspects of change.   \nThe Council continues to face financial challenges and has set out a Financial Plan confirms that sets \nout the expenditure, income and savings the Council expects to face for 2022 and beyond.  Based on \ncurrent spend and expected increases in demand it is estimated that \u00a33 57m will be spent on adult \nsocial care by Birmingham City Council in 20 22/2023, which comprises 4 7% of the Council\u2019s overall \nnet budget.   \nA further \u00a3 4.3m of savings are required in 20 22/23, with a further \u00a3 7m in 2023/24.  Many of these \nsavings plans are very challenging and there are limited opportunities for alternative plans, however",
+      "metadata": {
+        "chunk_id": 28,
+        "contains_financial_info": true,
+        "download_url": "https://www.birmingham.gov.uk/downloads/file/10284/appendix_1_-_commissioning_strategy",
+        "extraction_method": "PyPDF2",
+        "filename": "appendix_1_-_commissioning_strategy.pdf",
+        "financial_pages": "[4, 6, 9, 11, 12, 14, 15, 21, 22, 23, 24, 25, 26]",
+        "level": "level_2",
+        "page_count": 27,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27]",
+        "source": "https://www.birmingham.gov.uk/info/50173/providers_of_care_services",
+        "source_url": "https://www.birmingham.gov.uk/info/50173/providers_of_care_services",
+        "total_chunks": 82,
+        "type": "pdf"
+      },
+      "id": "c12c8e5d-5eed-400c-bfdd-8c9cd52e6bbf",
+      "distance": 0.8994868993759155,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.5288718789051741,
+      "scoring_details": {
+        "query_type": "total_budget",
+        "financial_indicators_found": 6,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "CURRENT RESOURCES  \nThe financial sust ainability of the social care system is a nationally recognised and widely reported \nissue , for which there has been much lobbying from the local government sector. The Government \nhas set out a range of reform s, albeit the funding has yet to be confirmed fo r all aspects of change.   \nThe Council continues to face financial challenges and has set out a Financial Plan confirms that sets \nout the expenditure, income and savings the Council expects to face for 2022 and beyond.  Based on \ncurrent spend and expected increases in demand it is estimated that \u00a33 57m will be spent on adult \nsocial care by Birmingham City Council in 20 22/2023, which comprises 4 7% of the Council\u2019s overall \nnet budget.   \nA further \u00a3 4.3m of savings are required in 20 22/23, with a further \u00a3 7m in 2023/24.  Many of these \nsavings plans are very challenging and there are limited opportunities for alternative plans, however",
+      "metadata": {
+        "chunk_id": 28,
+        "contains_financial_info": true,
+        "download_url": "https://www.birmingham.gov.uk/downloads/file/10284/appendix_1_-_commissioning_strategy",
+        "extraction_method": "PyPDF2",
+        "filename": "appendix_1_-_commissioning_strategy.pdf",
+        "financial_pages": "[4, 6, 9, 11, 12, 14, 15, 21, 22, 23, 24, 25, 26]",
+        "level": "level_2",
+        "page_count": 27,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27]",
+        "source": "https://www.birmingham.gov.uk/info/50173/providers_of_care_services",
+        "source_url": "https://www.birmingham.gov.uk/info/50173/providers_of_care_services",
+        "total_chunks": 82,
+        "type": "pdf"
+      },
+      "id": "507309ae-eb07-4517-8fb5-537b1593f2ae",
+      "distance": 0.8994868993759155,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.5288718789051741,
+      "scoring_details": {
+        "query_type": "total_budget",
+        "financial_indicators_found": 6,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 23 - FINANCIAL/BUDGET INFORMATION]\n23 \n \nOFFICIAL   \n13.3 Where there are any doubts about reporting an incident then guidance \nshould be sought from the relevant Commissioner on a case -by-case basis.    \n \n14. Personal Budget  \n14.1 Following an assessment this is the amount of money determined as \nsufficient to meet the eligible care and support needs a person has.  These \nare care and support needs not already being met in other ways (e.g. by a \ncarer).    \n \n14.2 Once the amount is agreed planning on how to spend it can begin. The \nCity Council will help by using experience to agree a plan which meets a \nperson\u2019s care and support needs.  \n \n14.3 How can a personal budget be used ? \nThere are a number of ways a personal budget can be used to meet unmet \neligible care needs .  \n \n14.3.1 There is the option to take a Personal Budget as a Direct Payment. \nThis will give the best possible  choice and control over how  care and support",
+      "metadata": {
+        "chunk_id": 60,
+        "contains_financial_info": true,
+        "download_url": "https://www.birmingham.gov.uk/downloads/file/30181/service_specification_for_the_home_support_2024_contract",
+        "extraction_method": "PyPDF2",
+        "filename": "service_specification_for_the_home_support_2024_contract.pdf",
+        "financial_pages": "[4, 8, 11, 21, 22, 23, 24, 26, 51, 58]",
+        "level": "level_2",
+        "page_count": 79,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79]",
+        "source": "https://www.birmingham.gov.uk/info/50173/providers_of_care_services",
+        "source_url": "https://www.birmingham.gov.uk/info/50173/providers_of_care_services",
+        "total_chunks": 156,
+        "type": "pdf"
+      },
+      "id": "7ce10ba5-ac28-4fc0-9563-2feac6d3b440",
+      "distance": 1.0126729011535645,
+      "retrieval_method": "financial_enhanced",
+      "combined_score": 0.4876923076923077,
+      "scoring_details": {
+        "query_type": "total_budget",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "financial_enhanced"
+      }
+    },
+    {
+      "content": "[Page 23 - FINANCIAL/BUDGET INFORMATION]\n23 \n \nOFFICIAL   \n13.3 Where there are any doubts about reporting an incident then guidance \nshould be sought from the relevant Commissioner on a case -by-case basis.    \n \n14. Personal Budget  \n14.1 Following an assessment this is the amount of money determined as \nsufficient to meet the eligible care and support needs a person has.  These \nare care and support needs not already being met in other ways (e.g. by a \ncarer).    \n \n14.2 Once the amount is agreed planning on how to spend it can begin. The \nCity Council will help by using experience to agree a plan which meets a \nperson\u2019s care and support needs.  \n \n14.3 How can a personal budget be used ? \nThere are a number of ways a personal budget can be used to meet unmet \neligible care needs .  \n \n14.3.1 There is the option to take a Personal Budget as a Direct Payment. \nThis will give the best possible  choice and control over how  care and support",
+      "metadata": {
+        "chunk_id": 60,
+        "contains_financial_info": true,
+        "download_url": "https://www.birmingham.gov.uk/downloads/file/30181/service_specification_for_the_home_support_2024_contract",
+        "extraction_method": "PyPDF2",
+        "filename": "service_specification_for_the_home_support_2024_contract.pdf",
+        "financial_pages": "[4, 8, 11, 21, 22, 23, 24, 26, 51, 58]",
+        "level": "level_2",
+        "page_count": 79,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79]",
+        "source": "https://www.birmingham.gov.uk/info/50173/providers_of_care_services",
+        "source_url": "https://www.birmingham.gov.uk/info/50173/providers_of_care_services",
+        "total_chunks": 156,
+        "type": "pdf"
+      },
+      "id": "d543c41b-6592-49f8-943f-aa40fbefe268",
+      "distance": 1.0126729011535645,
+      "retrieval_method": "financial_enhanced",
+      "combined_score": 0.4876923076923077,
+      "scoring_details": {
+        "query_type": "total_budget",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "financial_enhanced"
+      }
+    },
+    {
+      "content": "What is included with the guide  price?  \nThe guide price must ensure that the terms and conditions of contract, including the relevant \nservice specification are met, as well as the individual needs of the service user as detailed in their \nsupport plan.   \n \nAll nursing related costs must be met through the Funded Nursing Care (FNC) or Continuing Health \nCare (CHC) contributions and shall not be payable by Birmingham City Council.  \nProvider s must pay all employees (regardless of age) the Birmingham Care Wage .  This will be \nequivalent to the National Living Wage (\u00a3 10.42 /hour from 1 Ap ril 20 23). \n \nWhen a person needing care - or their family - have specifically requested accommodation that is \nmore expensive or are getting a genuine upgrade in the services they are receiving , a Third Party \nTop Up may  be required.",
+      "metadata": {
+        "chunk_id": 13,
+        "contains_financial_info": true,
+        "download_url": "https://www.birmingham.gov.uk/downloads/file/9108/information_for_younger_adults_care_providers",
+        "extraction_method": "PyPDF2",
+        "filename": "information_for_younger_adults_care_providers.pdf",
+        "financial_pages": "[1, 2, 3, 4, 7, 9, 11, 13, 15, 17, 19]",
+        "level": "level_2",
+        "page_count": 20,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]",
+        "source": "https://www.birmingham.gov.uk/info/50173/providers_of_care_services",
+        "source_url": "https://www.birmingham.gov.uk/info/50173/providers_of_care_services",
+        "total_chunks": 58,
+        "type": "pdf"
+      },
+      "id": "9a133b5d-a9f8-41c8-bb15-99a7fa4ecfc8",
+      "distance": 0.9346687197685242,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.4080609225309812,
+      "scoring_details": {
+        "query_type": "total_budget",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "What is included with the guide  price?  \nThe guide price must ensure that the terms and conditions of contract, including the relevant \nservice specification are met, as well as the individual needs of the service user as detailed in their \nsupport plan.   \n \nAll nursing related costs must be met through the Funded Nursing Care (FNC) or Continuing Health \nCare (CHC) contributions and shall not be payable by Birmingham City Council.  \nProvider s must pay all employees (regardless of age) the Birmingham Care Wage .  This will be \nequivalent to the National Living Wage (\u00a3 10.42 /hour from 1 Ap ril 20 23). \n \nWhen a person needing care - or their family - have specifically requested accommodation that is \nmore expensive or are getting a genuine upgrade in the services they are receiving , a Third Party \nTop Up may  be required.",
+      "metadata": {
+        "chunk_id": 13,
+        "contains_financial_info": true,
+        "download_url": "https://www.birmingham.gov.uk/downloads/file/9108/information_for_younger_adults_care_providers",
+        "extraction_method": "PyPDF2",
+        "filename": "information_for_younger_adults_care_providers.pdf",
+        "financial_pages": "[1, 2, 3, 4, 7, 9, 11, 13, 15, 17, 19]",
+        "level": "level_2",
+        "page_count": 20,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]",
+        "source": "https://www.birmingham.gov.uk/info/50173/providers_of_care_services",
+        "source_url": "https://www.birmingham.gov.uk/info/50173/providers_of_care_services",
+        "total_chunks": 58,
+        "type": "pdf"
+      },
+      "id": "95ca6837-67e7-448e-aee0-b35c8ef911b9",
+      "distance": 0.9346687197685242,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.4080609225309812,
+      "scoring_details": {
+        "query_type": "total_budget",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 26 - FINANCIAL/BUDGET INFORMATION]\n26 \n \u2022 mandates that a ll quality issues, serious incidents and safeguard ing incidents will be \nreportable  \n\u2022 ensures s ustainable improvements in quality and information sharing . \n \nOPEN BOOK ACCOUNTING  \nTransparency of operational and financial performance will be a fundamental condition of doing \nbusiness with the Council .  The Council require all providers to regularly submit details of the cost o f \ntheir service.    Reporting standards and tools will be proportionate and recognise the size of some of \nthe organisations that deliver adult social care across the city.  This will be at least an annual data \ncollection exercise.  \n \n \n \nOUT OF CITY PLACEMENTS  \nFor \u2018out of city\u2019 care home placements for people over 65 years old, the Council will pay the usual \nrate set by the host local authority in which the Provider is located, where that usual rate is higher \nthan the Birmingham City Council\u2019s standar d residential fee and/or standard nursing fee. In",
+      "metadata": {
+        "chunk_id": 79,
+        "contains_financial_info": true,
+        "download_url": "https://www.birmingham.gov.uk/downloads/file/10284/appendix_1_-_commissioning_strategy",
+        "extraction_method": "PyPDF2",
+        "filename": "appendix_1_-_commissioning_strategy.pdf",
+        "financial_pages": "[4, 6, 9, 11, 12, 14, 15, 21, 22, 23, 24, 25, 26]",
+        "level": "level_2",
+        "page_count": 27,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27]",
+        "source": "https://www.birmingham.gov.uk/info/50173/providers_of_care_services",
+        "source_url": "https://www.birmingham.gov.uk/info/50173/providers_of_care_services",
+        "total_chunks": 82,
+        "type": "pdf"
+      },
+      "id": "1bdb6ad6-b1a8-4e40-b2e0-bc8d53e64839",
+      "distance": 1.0788806676864624,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.4076923076923077,
+      "scoring_details": {
+        "query_type": "total_budget",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 26 - FINANCIAL/BUDGET INFORMATION]\n26 \n \u2022 mandates that a ll quality issues, serious incidents and safeguard ing incidents will be \nreportable  \n\u2022 ensures s ustainable improvements in quality and information sharing . \n \nOPEN BOOK ACCOUNTING  \nTransparency of operational and financial performance will be a fundamental condition of doing \nbusiness with the Council .  The Council require all providers to regularly submit details of the cost o f \ntheir service.    Reporting standards and tools will be proportionate and recognise the size of some of \nthe organisations that deliver adult social care across the city.  This will be at least an annual data \ncollection exercise.  \n \n \n \nOUT OF CITY PLACEMENTS  \nFor \u2018out of city\u2019 care home placements for people over 65 years old, the Council will pay the usual \nrate set by the host local authority in which the Provider is located, where that usual rate is higher \nthan the Birmingham City Council\u2019s standar d residential fee and/or standard nursing fee. In",
+      "metadata": {
+        "chunk_id": 79,
+        "contains_financial_info": true,
+        "download_url": "https://www.birmingham.gov.uk/downloads/file/10284/appendix_1_-_commissioning_strategy",
+        "extraction_method": "PyPDF2",
+        "filename": "appendix_1_-_commissioning_strategy.pdf",
+        "financial_pages": "[4, 6, 9, 11, 12, 14, 15, 21, 22, 23, 24, 25, 26]",
+        "level": "level_2",
+        "page_count": 27,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27]",
+        "source": "https://www.birmingham.gov.uk/info/50173/providers_of_care_services",
+        "source_url": "https://www.birmingham.gov.uk/info/50173/providers_of_care_services",
+        "total_chunks": 82,
+        "type": "pdf"
+      },
+      "id": "c362b63e-5fe4-439e-86d1-7daf7cec1b5c",
+      "distance": 1.0788806676864624,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.4076923076923077,
+      "scoring_details": {
+        "query_type": "total_budget",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 6 - FINANCIAL/BUDGET INFORMATION]\n6 \n \nOFFICIAL  Population  \nThe latest estimate of Birmingham\u2019s population is the 2021 population census estimate. There \nare 1,144,900 people living in Birmingham according to the census.  This is an increase of 6.7% \n(71,900) compared with 2011.  This population change between censuses is moderately higher \nthan the rat e seen in England (6.6%).  You can find more information on the Census in \nBirmingham here: Population and Census information for Birmingham  \n \n\u2022 51.1% of Birmingham \u2019s population identify as  female, 48.9% as male.  \no 22.3% of the population is  aged between 0 and 15 years  (255,295 people)  \no 42.4% are aged between 16 and 44 years  (485802 people)  \no 22.1% are aged between 45 and 64 years  (253,334 people)  \no 11.3% are aged between 65 and 84 years (128,959 people)  \no 1.9% are aged 85 and over (21,527 people)  \n \n \n\u2022 8.5% of the Birmingham population aged over 16 are classed as unemployed on the 20 21",
+      "metadata": {
+        "chunk_id": 11,
+        "contains_financial_info": true,
+        "download_url": "https://www.birmingham.gov.uk/downloads/file/26634/market_position_statement_-_may_2023",
+        "extraction_method": "PyPDF2",
+        "filename": "market_position_statement_-_may_2023.pdf",
+        "financial_pages": "[2, 3, 6, 7, 8, 9, 10, 11, 12, 13, 16, 17, 18, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 37, 38, 39]",
+        "level": "level_2",
+        "page_count": 39,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39]",
+        "source": "https://www.birmingham.gov.uk/info/50284/strategies_feedback_and_complaints",
+        "source_url": "https://www.birmingham.gov.uk/info/50284/strategies_feedback_and_complaints",
+        "total_chunks": 112,
+        "type": "pdf"
+      },
+      "id": "4bef3993-58f5-4e99-91e2-a0aaf7b0478c",
+      "distance": 0.9456674456596375,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.40476130476364724,
+      "scoring_details": {
+        "query_type": "total_budget",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 6 - FINANCIAL/BUDGET INFORMATION]\n6 \n \nOFFICIAL  Population  \nThe latest estimate of Birmingham\u2019s population is the 2021 population census estimate. There \nare 1,144,900 people living in Birmingham according to the census.  This is an increase of 6.7% \n(71,900) compared with 2011.  This population change between censuses is moderately higher \nthan the rat e seen in England (6.6%).  You can find more information on the Census in \nBirmingham here: Population and Census information for Birmingham  \n \n\u2022 51.1% of Birmingham \u2019s population identify as  female, 48.9% as male.  \no 22.3% of the population is  aged between 0 and 15 years  (255,295 people)  \no 42.4% are aged between 16 and 44 years  (485802 people)  \no 22.1% are aged between 45 and 64 years  (253,334 people)  \no 11.3% are aged between 65 and 84 years (128,959 people)  \no 1.9% are aged 85 and over (21,527 people)  \n \n \n\u2022 8.5% of the Birmingham population aged over 16 are classed as unemployed on the 20 21",
+      "metadata": {
+        "chunk_id": 11,
+        "contains_financial_info": true,
+        "download_url": "https://www.birmingham.gov.uk/downloads/file/26634/market_position_statement_-_may_2023",
+        "extraction_method": "PyPDF2",
+        "filename": "market_position_statement_-_may_2023.pdf",
+        "financial_pages": "[2, 3, 6, 7, 8, 9, 10, 11, 12, 13, 16, 17, 18, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 37, 38, 39]",
+        "level": "level_2",
+        "page_count": 39,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39]",
+        "source": "https://www.birmingham.gov.uk/info/50284/strategies_feedback_and_complaints",
+        "source_url": "https://www.birmingham.gov.uk/info/50284/strategies_feedback_and_complaints",
+        "total_chunks": 112,
+        "type": "pdf"
+      },
+      "id": "6976d5de-9ba0-41a3-bb45-3117aa38c0b2",
+      "distance": 0.9456674456596375,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.40476130476364724,
+      "scoring_details": {
+        "query_type": "total_budget",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 17 - FINANCIAL/BUDGET INFORMATION]\n17 \n \nOFFICIAL  Health and Care Services in Birmingham: An Overview  \nPublic organisations in Birmingham are committed to working together, more than ever before, \nto improve the lives of people in the city and to make sure that our serv ices are more joined -up, \nthat our strategies and goals are aligned, and that we make sure that every pound of public \nmoney spent delivers the best value for money.  \nBirmingham City Council Adult Social Care Directorate, the Birmingham and Solihull NHS ICB, \nBirmingham Childrens Trust, Education and Skills Directorate and Birmingham Public Health are \nworking together on strategies and joi nt commissioning initiatives  covering health and social \ncare . \nInitial work has been carried out to look at  what types of services each partner commissions, \nand how commissioned services  can and should align.  At present, around 28% of commissioned",
+      "metadata": {
+        "chunk_id": 41,
+        "contains_financial_info": true,
+        "download_url": "https://www.birmingham.gov.uk/downloads/file/26634/market_position_statement_-_may_2023",
+        "extraction_method": "PyPDF2",
+        "filename": "market_position_statement_-_may_2023.pdf",
+        "financial_pages": "[2, 3, 6, 7, 8, 9, 10, 11, 12, 13, 16, 17, 18, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 37, 38, 39]",
+        "level": "level_2",
+        "page_count": 39,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39]",
+        "source": "https://www.birmingham.gov.uk/info/50284/strategies_feedback_and_complaints",
+        "source_url": "https://www.birmingham.gov.uk/info/50284/strategies_feedback_and_complaints",
+        "total_chunks": 112,
+        "type": "pdf"
+      },
+      "id": "227d50a5-38e6-40a1-a973-aba7ca584f75",
+      "distance": 1.004042148590088,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.3884615384615384,
+      "scoring_details": {
+        "query_type": "total_budget",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 17 - FINANCIAL/BUDGET INFORMATION]\n17 \n \nOFFICIAL  Health and Care Services in Birmingham: An Overview  \nPublic organisations in Birmingham are committed to working together, more than ever before, \nto improve the lives of people in the city and to make sure that our serv ices are more joined -up, \nthat our strategies and goals are aligned, and that we make sure that every pound of public \nmoney spent delivers the best value for money.  \nBirmingham City Council Adult Social Care Directorate, the Birmingham and Solihull NHS ICB, \nBirmingham Childrens Trust, Education and Skills Directorate and Birmingham Public Health are \nworking together on strategies and joi nt commissioning initiatives  covering health and social \ncare . \nInitial work has been carried out to look at  what types of services each partner commissions, \nand how commissioned services  can and should align.  At present, around 28% of commissioned",
+      "metadata": {
+        "chunk_id": 41,
+        "contains_financial_info": true,
+        "download_url": "https://www.birmingham.gov.uk/downloads/file/26634/market_position_statement_-_may_2023",
+        "extraction_method": "PyPDF2",
+        "filename": "market_position_statement_-_may_2023.pdf",
+        "financial_pages": "[2, 3, 6, 7, 8, 9, 10, 11, 12, 13, 16, 17, 18, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 37, 38, 39]",
+        "level": "level_2",
+        "page_count": 39,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39]",
+        "source": "https://www.birmingham.gov.uk/info/50284/strategies_feedback_and_complaints",
+        "source_url": "https://www.birmingham.gov.uk/info/50284/strategies_feedback_and_complaints",
+        "total_chunks": 112,
+        "type": "pdf"
+      },
+      "id": "772172e0-ea88-4b31-aec7-8f3aa533bede",
+      "distance": 1.004042148590088,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.3884615384615384,
+      "scoring_details": {
+        "query_type": "total_budget",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Birmingham CrossCity \nCCG  bhamcrosscity.seriousincidents@nhs.net   - SI \ninbox  \nbccccg.qualitychc@nhs.net   - Quality CHC inbox  \nBirmingham South Central \nCCG  Bsccg.seriousincidents@nhs.net  \n \nSandwell CCG  sandwell.incidents@nhs.net  \nSolihull CCG  solihul lccg.seriousincidents@nhs.net  \n \n14.3 Where there are any doubts about reporting an incident then guidance \nshould be sought from the relevant Commissioner on a case -by-case basis.    \n \n15. Personal Budget    \n15.1 Following an assessment a personal budget  is the amount of money \ndetermined as sufficient to meet the eligible  care and support needs a citizen  \nhas.  These are care and support needs not already being met in other ways \n(e.g. by a carer).    \n \n15.2 Once the amount is agreed the citizen may require support with planning \nwhat extra care and support needs can be purchased . The City Council will \nhelp by using experience to a gree a plan which meets a citizen \u2019s care and \nsupport needs.  \n \n15.3 How can a personal budget be used?",
+      "metadata": {
+        "chunk_id": 75,
+        "contains_financial_info": true,
+        "download_url": "",
+        "extraction_method": "PyPDF2",
+        "filename": "schedule_3_-_service_specification_for_care_and_support_supported_living.pdf",
+        "financial_pages": "[2, 4, 5, 6, 7, 11, 14, 15, 16, 17, 23, 24, 25, 26, 27, 29, 31, 32, 33, 67, 74]",
+        "level": "level_2",
+        "page_count": 96,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96]",
+        "source": "schedule_3_-_service_specification_for_care_and_support_supported_living.pdf",
+        "source_url": "",
+        "total_chunks": 205,
+        "type": "pdf"
+      },
+      "id": "41b07ecc-39d7-4ebe-84e0-42578ee9779c",
+      "distance": 1.0167067050933838,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.36923076923076925,
+      "scoring_details": {
+        "query_type": "total_budget",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Birmingham CrossCity \nCCG  bhamcrosscity.seriousincidents@nhs.net   - SI \ninbox  \nbccccg.qualitychc@nhs.net   - Quality CHC inbox  \nBirmingham South Central \nCCG  Bsccg.seriousincidents@nhs.net  \n \nSandwell CCG  sandwell.incidents@nhs.net  \nSolihull CCG  solihul lccg.seriousincidents@nhs.net  \n \n14.3 Where there are any doubts about reporting an incident then guidance \nshould be sought from the relevant Commissioner on a case -by-case basis.    \n \n15. Personal Budget    \n15.1 Following an assessment a personal budget  is the amount of money \ndetermined as sufficient to meet the eligible  care and support needs a citizen  \nhas.  These are care and support needs not already being met in other ways \n(e.g. by a carer).    \n \n15.2 Once the amount is agreed the citizen may require support with planning \nwhat extra care and support needs can be purchased . The City Council will \nhelp by using experience to a gree a plan which meets a citizen \u2019s care and \nsupport needs.  \n \n15.3 How can a personal budget be used?",
+      "metadata": {
+        "chunk_id": 75,
+        "contains_financial_info": true,
+        "download_url": "",
+        "extraction_method": "PyPDF2",
+        "filename": "schedule_3_-_service_specification_for_care_and_support_supported_living.pdf",
+        "financial_pages": "[2, 4, 5, 6, 7, 11, 14, 15, 16, 17, 23, 24, 25, 26, 27, 29, 31, 32, 33, 67, 74]",
+        "level": "level_2",
+        "page_count": 96,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96]",
+        "source": "schedule_3_-_service_specification_for_care_and_support_supported_living.pdf",
+        "source_url": "",
+        "total_chunks": 205,
+        "type": "pdf"
+      },
+      "id": "d79a9564-f75f-4327-a65a-229f1ca8ecae",
+      "distance": 1.0167067050933838,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.36923076923076925,
+      "scoring_details": {
+        "query_type": "total_budget",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "business and quality.   \n \n   PRICING  \nThe Council undertook a range of comparison, benchmarking and consultation to develop its fee \nstructure in 2017 and to further understand the costs of care in Birmingham.  In 2019 and 2021 the \nCouncil undertook Open Book cost of care exercises across the s ector and used the results in the \nsetting of fees and increasing commissioner understanding of provider costs/pressures.  In 2022 the \nCouncil undertook a mandated Fair Cost of Care exercise as required by the Market Sustainability \nand Fair Cost of Care Fun d grant.  \nThe Birmingham Fair Cost of Care and findings, outputs and all associated reports and analysis, \nincluding the Market Sustainability Plan will be published on the Council\u2019s website in due course:  \nInformation for care providers   \nHaving considered the above exercises, t he Council will continue to operate a fixed fee  approach  for \nthe following services:  \n\u2022 Home support Sensory Loss (adults ages)  \n\u2022 Supported Living (adults)",
+      "metadata": {
+        "chunk_id": 63,
+        "contains_financial_info": true,
+        "download_url": "https://www.birmingham.gov.uk/downloads/file/10284/appendix_1_-_commissioning_strategy",
+        "extraction_method": "PyPDF2",
+        "filename": "appendix_1_-_commissioning_strategy.pdf",
+        "financial_pages": "[4, 6, 9, 11, 12, 14, 15, 21, 22, 23, 24, 25, 26]",
+        "level": "level_2",
+        "page_count": 27,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27]",
+        "source": "https://www.birmingham.gov.uk/info/50173/providers_of_care_services",
+        "source_url": "https://www.birmingham.gov.uk/info/50173/providers_of_care_services",
+        "total_chunks": 82,
+        "type": "pdf"
+      },
+      "id": "e6ffe894-38d2-4130-bfcb-5395a4bbb80d",
+      "distance": 1.0653449296951294,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.36923076923076925,
+      "scoring_details": {
+        "query_type": "total_budget",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    }
+  ],
+  "context": "[Document 1] From https://www (pdf) - URL: https://www.birmingham.gov.uk/info/50173/providers_of_care_services - 27 pages [Retrieved via: semantic_original]:\nCURRENT RESOURCES  \nThe financial sust ainability of the social care system is a nationally recognised and widely reported \nissue , for which there has been much lobbying from the local government sector. The Government \nhas set out a range of reform s, albeit the funding has yet to be confirmed fo r all aspects of change.   \nThe Council continues to face financial challenges and has set out a Financial Plan confirms that sets \nout the expenditure, income and savings the Council expects to face for 2022 and beyond.  Based on \ncurrent spend and expected increases in demand it is estimated that \u00a33 57m will be spent on adult \nsocial care by Birmingham City Council in 20 22/2023, which comprises 4 7% of the Council\u2019s overall \nnet budget.   \nA further \u00a3 4.3m of savings are required in 20 22/23, with a further \u00a3 7m in 2023/24.  Many of these \nsavings plans are very challenging and there are limited opportunities for alternative plans, however\n\n[Document 2] From https://www (pdf) - URL: https://www.birmingham.gov.uk/info/50173/providers_of_care_services - 27 pages [Retrieved via: semantic_original]:\nCURRENT RESOURCES  \nThe financial sust ainability of the social care system is a nationally recognised and widely reported \nissue , for which there has been much lobbying from the local government sector. The Government \nhas set out a range of reform s, albeit the funding has yet to be confirmed fo r all aspects of change.   \nThe Council continues to face financial challenges and has set out a Financial Plan confirms that sets \nout the expenditure, income and savings the Council expects to face for 2022 and beyond.  Based on \ncurrent spend and expected increases in demand it is estimated that \u00a33 57m will be spent on adult \nsocial care by Birmingham City Council in 20 22/2023, which comprises 4 7% of the Council\u2019s overall \nnet budget.   \nA further \u00a3 4.3m of savings are required in 20 22/23, with a further \u00a3 7m in 2023/24.  Many of these \nsavings plans are very challenging and there are limited opportunities for alternative plans, however\n\n[Document 3] From https://www (pdf) - URL: https://www.birmingham.gov.uk/info/50173/providers_of_care_services - 79 pages [Retrieved via: financial_enhanced]:\n[Page 23 - FINANCIAL/BUDGET INFORMATION]\n23 \n \nOFFICIAL   \n13.3 Where there are any doubts about reporting an incident then guidance \nshould be sought from the relevant Commissioner on a case -by-case basis.    \n \n14. Personal Budget  \n14.1 Following an assessment this is the amount of money determined as \nsufficient to meet the eligible care and support needs a person has.  These \nare care and support needs not already being met in other ways (e.g. by a \ncarer).    \n \n14.2 Once the amount is agreed planning on how to spend it can begin. The \nCity Council will help by using experience to agree a plan which meets a \nperson\u2019s care and support needs.  \n \n14.3 How can a personal budget be used ? \nThere are a number of ways a personal budget can be used to meet unmet \neligible care needs .  \n \n14.3.1 There is the option to take a Personal Budget as a Direct Payment. \nThis will give the best possible  choice and control over how  care and support\n\n[Document 4] From https://www (pdf) - URL: https://www.birmingham.gov.uk/info/50173/providers_of_care_services - 79 pages [Retrieved via: financial_enhanced]:\n[Page 23 - FINANCIAL/BUDGET INFORMATION]\n23 \n \nOFFICIAL   \n13.3 Where there are any doubts about reporting an incident then guidance \nshould be sought from the relevant Commissioner on a case -by-case basis.    \n \n14. Personal Budget  \n14.1 Following an assessment this is the amount of money determined as \nsufficient to meet the eligible care and support needs a person has.  These \nare care and support needs not already being met in other ways (e.g. by a \ncarer).    \n \n14.2 Once the amount is agreed planning on how to spend it can begin. The \nCity Council will help by using experience to agree a plan which meets a \nperson\u2019s care and support needs.  \n \n14.3 How can a personal budget be used ? \nThere are a number of ways a personal budget can be used to meet unmet \neligible care needs .  \n \n14.3.1 There is the option to take a Personal Budget as a Direct Payment. \nThis will give the best possible  choice and control over how  care and support\n\n[Document 5] From https://www (pdf) - URL: https://www.birmingham.gov.uk/info/50173/providers_of_care_services - 20 pages [Retrieved via: semantic_original]:\nWhat is included with the guide  price?  \nThe guide price must ensure that the terms and conditions of contract, including the relevant \nservice specification are met, as well as the individual needs of the service user as detailed in their \nsupport plan.   \n \nAll nursing related costs must be met through the Funded Nursing Care (FNC) or Continuing Health \nCare (CHC) contributions and shall not be payable by Birmingham City Council.  \nProvider s must pay all employees (regardless of age) the Birmingham Care Wage .  This will be \nequivalent to the National Living Wage (\u00a3 10.42 /hour from 1 Ap ril 20 23). \n \nWhen a person needing care - or their family - have specifically requested accommodation that is \nmore expensive or are getting a genuine upgrade in the services they are receiving , a Third Party \nTop Up may  be required.\n\n[Document 6] From https://www (pdf) - URL: https://www.birmingham.gov.uk/info/50173/providers_of_care_services - 20 pages [Retrieved via: semantic_original]:\nWhat is included with the guide  price?  \nThe guide price must ensure that the terms and conditions of contract, including the relevant \nservice specification are met, as well as the individual needs of the service user as detailed in their \nsupport plan.   \n \nAll nursing related costs must be met through the Funded Nursing Care (FNC) or Continuing Health \nCare (CHC) contributions and shall not be payable by Birmingham City Council.  \nProvider s must pay all employees (regardless of age) the Birmingham Care Wage .  This will be \nequivalent to the National Living Wage (\u00a3 10.42 /hour from 1 Ap ril 20 23). \n \nWhen a person needing care - or their family - have specifically requested accommodation that is \nmore expensive or are getting a genuine upgrade in the services they are receiving , a Third Party \nTop Up may  be required.\n\n[Document 7] From https://www (pdf) - URL: https://www.birmingham.gov.uk/info/50173/providers_of_care_services - 27 pages [Retrieved via: semantic_original]:\n[Page 26 - FINANCIAL/BUDGET INFORMATION]\n26 \n \u2022 mandates that a ll quality issues, serious incidents and safeguard ing incidents will be \nreportable  \n\u2022 ensures s ustainable improvements in quality and information sharing . \n \nOPEN BOOK ACCOUNTING  \nTransparency of operational and financial performance will be a fundamental condition of doing \nbusiness with the Council .  The Council require all providers to regularly submit details of the cost o f \ntheir service.    Reporting standards and tools will be proportionate and recognise the size of some of \nthe organisations that deliver adult social care across the city.  This will be at least an annual data \ncollection exercise.  \n \n \n \nOUT OF CITY PLACEMENTS  \nFor \u2018out of city\u2019 care home placements for people over 65 years old, the Council will pay the usual \nrate set by the host local authority in which the Provider is located, where that usual rate is higher \nthan the Birmingham City Council\u2019s standar d residential fee and/or standard nursing fee. In\n\n[Document 8] From https://www (pdf) - URL: https://www.birmingham.gov.uk/info/50173/providers_of_care_services - 27 pages [Retrieved via: semantic_original]:\n[Page 26 - FINANCIAL/BUDGET INFORMATION]\n26 \n \u2022 mandates that a ll quality issues, serious incidents and safeguard ing incidents will be \nreportable  \n\u2022 ensures s ustainable improvements in quality and information sharing . \n \nOPEN BOOK ACCOUNTING  \nTransparency of operational and financial performance will be a fundamental condition of doing \nbusiness with the Council .  The Council require all providers to regularly submit details of the cost o f \ntheir service.    Reporting standards and tools will be proportionate and recognise the size of some of \nthe organisations that deliver adult social care across the city.  This will be at least an annual data \ncollection exercise.  \n \n \n \nOUT OF CITY PLACEMENTS  \nFor \u2018out of city\u2019 care home placements for people over 65 years old, the Council will pay the usual \nrate set by the host local authority in which the Provider is located, where that usual rate is higher \nthan the Birmingham City Council\u2019s standar d residential fee and/or standard nursing fee. In\n\n[Document 9] From https://www (pdf) - URL: https://www.birmingham.gov.uk/info/50284/strategies_feedback_and_complaints - 39 pages [Retrieved via: semantic_original]:\n[Page 6 - FINANCIAL/BUDGET INFORMATION]\n6 \n \nOFFICIAL  Population  \nThe latest estimate of Birmingham\u2019s population is the 2021 population census estimate. There \nare 1,144,900 people living in Birmingham according to the census.  This is an increase of 6.7% \n(71,900) compared with 2011.  This population change between censuses is moderately higher \nthan the rat e seen in England (6.6%).  You can find more information on the Census in \nBirmingham here: Population and Census information for Birmingham  \n \n\u2022 51.1% of Birmingham \u2019s population identify as  female, 48.9% as male.  \no 22.3% of the population is  aged between 0 and 15 years  (255,295 people)  \no 42.4% are aged between 16 and 44 years  (485802 people)  \no 22.1% are aged between 45 and 64 years  (253,334 people)  \no 11.3% are aged between 65 and 84 years (128,959 people)  \no 1.9% are aged 85 and over (21,527 people)  \n \n \n\u2022 8.5% of the Birmingham population aged over 16 are classed as unemployed on the 20 21\n\n[Document 10] From https://www (pdf) - URL: https://www.birmingham.gov.uk/info/50284/strategies_feedback_and_complaints - 39 pages [Retrieved via: semantic_original]:\n[Page 6 - FINANCIAL/BUDGET INFORMATION]\n6 \n \nOFFICIAL  Population  \nThe latest estimate of Birmingham\u2019s population is the 2021 population census estimate. There \nare 1,144,900 people living in Birmingham according to the census.  This is an increase of 6.7% \n(71,900) compared with 2011.  This population change between censuses is moderately higher \nthan the rat e seen in England (6.6%).  You can find more information on the Census in \nBirmingham here: Population and Census information for Birmingham  \n \n\u2022 51.1% of Birmingham \u2019s population identify as  female, 48.9% as male.  \no 22.3% of the population is  aged between 0 and 15 years  (255,295 people)  \no 42.4% are aged between 16 and 44 years  (485802 people)  \no 22.1% are aged between 45 and 64 years  (253,334 people)  \no 11.3% are aged between 65 and 84 years (128,959 people)  \no 1.9% are aged 85 and over (21,527 people)  \n \n \n\u2022 8.5% of the Birmingham population aged over 16 are classed as unemployed on the 20 21\n\n[Document 11] From https://www (pdf) - URL: https://www.birmingham.gov.uk/info/50284/strategies_feedback_and_complaints - 39 pages [Retrieved via: semantic_original]:\n[Page 17 - FINANCIAL/BUDGET INFORMATION]\n17 \n \nOFFICIAL  Health and Care Services in Birmingham: An Overview  \nPublic organisations in Birmingham are committed to working together, more than ever before, \nto improve the lives of people in the city and to make sure that our serv ices are more joined -up, \nthat our strategies and goals are aligned, and that we make sure that every pound of public \nmoney spent delivers the best value for money.  \nBirmingham City Council Adult Social Care Directorate, the Birmingham and Solihull NHS ICB, \nBirmingham Childrens Trust, Education and Skills Directorate and Birmingham Public Health are \nworking together on strategies and joi nt commissioning initiatives  covering health and social \ncare . \nInitial work has been carried out to look at  what types of services each partner commissions, \nand how commissioned services  can and should align.  At present, around 28% of commissioned\n\n[Document 12] From https://www (pdf) - URL: https://www.birmingham.gov.uk/info/50284/strategies_feedback_and_complaints - 39 pages [Retrieved via: semantic_original]:\n[Page 17 - FINANCIAL/BUDGET INFORMATION]\n17 \n \nOFFICIAL  Health and Care Services in Birmingham: An Overview  \nPublic organisations in Birmingham are committed to working together, more than ever before, \nto improve the lives of people in the city and to make sure that our serv ices are more joined -up, \nthat our strategies and goals are aligned, and that we make sure that every pound of public \nmoney spent delivers the best value for money.  \nBirmingham City Council Adult Social Care Directorate, the Birmingham and Solihull NHS ICB, \nBirmingham Childrens Trust, Education and Skills Directorate and Birmingham Public Health are \nworking together on strategies and joi nt commissioning initiatives  covering health and social \ncare . \nInitial work has been carried out to look at  what types of services each partner commissions, \nand how commissioned services  can and should align.  At present, around 28% of commissioned\n\n[Document 13] From schedule 3   service specification for care and support supported living (pdf) - 96 pages [Retrieved via: semantic_original]:\nBirmingham CrossCity \nCCG  bhamcrosscity.seriousincidents@nhs.net   - SI \ninbox  \nbccccg.qualitychc@nhs.net   - Quality CHC inbox  \nBirmingham South Central \nCCG  Bsccg.seriousincidents@nhs.net  \n \nSandwell CCG  sandwell.incidents@nhs.net  \nSolihull CCG  solihul lccg.seriousincidents@nhs.net  \n \n14.3 Where there are any doubts about reporting an incident then guidance \nshould be sought from the relevant Commissioner on a case -by-case basis.    \n \n15. Personal Budget    \n15.1 Following an assessment a personal budget  is the amount of money \ndetermined as sufficient to meet the eligible  care and support needs a citizen  \nhas.  These are care and support needs not already being met in other ways \n(e.g. by a carer).    \n \n15.2 Once the amount is agreed the citizen may require support with planning \nwhat extra care and support needs can be purchased . The City Council will \nhelp by using experience to a gree a plan which meets a citizen \u2019s care and \nsupport needs.  \n \n15.3 How can a personal budget be used?\n\n[Document 14] From schedule 3   service specification for care and support supported living (pdf) - 96 pages [Retrieved via: semantic_original]:\nBirmingham CrossCity \nCCG  bhamcrosscity.seriousincidents@nhs.net   - SI \ninbox  \nbccccg.qualitychc@nhs.net   - Quality CHC inbox  \nBirmingham South Central \nCCG  Bsccg.seriousincidents@nhs.net  \n \nSandwell CCG  sandwell.incidents@nhs.net  \nSolihull CCG  solihul lccg.seriousincidents@nhs.net  \n \n14.3 Where there are any doubts about reporting an incident then guidance \nshould be sought from the relevant Commissioner on a case -by-case basis.    \n \n15. Personal Budget    \n15.1 Following an assessment a personal budget  is the amount of money \ndetermined as sufficient to meet the eligible  care and support needs a citizen  \nhas.  These are care and support needs not already being met in other ways \n(e.g. by a carer).    \n \n15.2 Once the amount is agreed the citizen may require support with planning \nwhat extra care and support needs can be purchased . The City Council will \nhelp by using experience to a gree a plan which meets a citizen \u2019s care and \nsupport needs.  \n \n15.3 How can a personal budget be used?\n\n[Document 15] From https://www (pdf) - URL: https://www.birmingham.gov.uk/info/50173/providers_of_care_services - 27 pages [Retrieved via: semantic_original]:\nbusiness and quality.   \n \n   PRICING  \nThe Council undertook a range of comparison, benchmarking and consultation to develop its fee \nstructure in 2017 and to further understand the costs of care in Birmingham.  In 2019 and 2021 the \nCouncil undertook Open Book cost of care exercises across the s ector and used the results in the \nsetting of fees and increasing commissioner understanding of provider costs/pressures.  In 2022 the \nCouncil undertook a mandated Fair Cost of Care exercise as required by the Market Sustainability \nand Fair Cost of Care Fun d grant.  \nThe Birmingham Fair Cost of Care and findings, outputs and all associated reports and analysis, \nincluding the Market Sustainability Plan will be published on the Council\u2019s website in due course:  \nInformation for care providers   \nHaving considered the above exercises, t he Council will continue to operate a fixed fee  approach  for \nthe following services:  \n\u2022 Home support Sensory Loss (adults ages)  \n\u2022 Supported Living (adults)\n",
+  "answer": "**Direct Answer**: No specific figure for Birmingham's total annual budget is provided in the available documents.\n\n**Available Information**: The documents mention that Birmingham City Council is estimated to spend \u00a3357 million on adult social care for the year 2022/2023. This amount comprises 47% of the Council\u2019s overall net budget. However, the total annual budget for Birmingham City Council as a whole is not explicitly stated.\n\n**Context**: The information comes from documents related to Birmingham City Council's financial planning and social care services, specifically focusing on the budget for adult social care. The documents discuss financial challenges, expected expenditures, and savings requirements but do not provide a comprehensive figure for the entire council's budget.",
+  "metrics": {
+    "duration_seconds": 6.691040992736816,
+    "retrieved_docs_count": 15,
+    "query_length": 41,
+    "answer_length": 793,
+    "retrieval_method": "enhanced",
+    "retrieval_strategy": "hybrid",
+    "context_utilization": 0.07112970711297072,
+    "citations_count": 1,
+    "has_citations": true,
+    "query_relevance": 0.8333333333333334,
+    "unique_retrieval_methods": 2,
+    "budget_documents_retrieved": 15,
+    "retrieval_methods_used": [
+      "semantic_original",
+      "financial_enhanced"
+    ],
+    "retrieval_method_distribution": {
+      "semantic_original": 13,
+      "financial_enhanced": 2
+    }
+  },
+  "local_authority": "Birmingham",
+  "query_id": "std_6",
+  "retrieval_method": "enhanced",
+  "run_id": "76bc26bc-b3f8-46db-9d87-08d094d2823e",
+  "trace": {
+    "run_id": "76bc26bc-b3f8-46db-9d87-08d094d2823e",
+    "project": "social_care_rag",
+    "url": "https://eu.smith.langchain.com/o/me/runs/76bc26bc-b3f8-46db-9d87-08d094d2823e"
+  },
+  "test_metadata": {
+    "local_authority": "Birmingham",
+    "query_id": "std_6",
+    "query_type": "budget",
+    "expected_info_type": "budget_total",
+    "prompt_variation": "optimized_budget",
+    "prompt_template": "\n        Please answer the following question about social care services in UK local authorities based only on the information in the provided documents.\n\n        Question: {query}\n\n        Context from relevant documents:\n        {context}\n\n        Instructions:\n        1. For BUDGET QUESTIONS specifically:\n           - Search the context for ANY financial figures, even if terminology differs\n           - Look for terms like: \"net revenue expenditure\", \"gross expenditure\", \"total spending\", \"council budget\", \"annual budget\"\n           - For social care budgets, look for: \"adult social care\", \"social services\", \"community care\", \"care allocation\"\n           - If you find budget figures, present them clearly with the exact amount and time period\n           - If no specific figures are found, describe what budget information IS available\n\n        2. Structure your response:\n           - **Direct Answer**: State the specific figure if found, or \"No specific figure provided in available documents\"\n           - **Available Information**: Describe what budget-related information is present\n           - **Context**: Explain what document types and sources the information comes from\n\n        3. For financial information:\n           - Include exact figures, time periods, and what the funding covers\n           - Present financial data clearly: \"The budget is **\u00a3X million** for [time period]\"\n           - Note if figures represent gross vs net amounts, or include/exclude specific items\n\n        4. Always cite sources using format: \"According to [document name/description]\"\n\n        5. For non-budget questions, provide clear, direct answers following standard best practices:\n           - Synthesize information from all relevant documents\n           - Use bullet points for lists and step-by-step information\n           - Include practical next steps or contact information when available\n\n        Answer:\n        ",
+    "processing_time": 6.694584608078003,
+    "timestamp": "2025-08-17T17:42:03.020170",
+    "top_k": 15,
+    "enhanced_retrieval_used": true,
+    "retrieval_strategy": "hybrid"
+  }
+}

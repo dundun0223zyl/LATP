@@ -1,0 +1,281 @@
+{
+  "query": "I'm experiencing domestic abuse in liverpool and need to leave with my children. What emergency social care and housing support can I access?",
+  "retrieved_documents": [
+    {
+      "content": ". An OT assessment will help them to live more independently at home. Adults in an unpaid caring role If an adult looks after someone with support needs, you can refer them for a carer's assessment. This will look at what support they need in their role as carer and how we can help. Find out more about carer's assessments and how to refer . Adults with eligible support needs If an adult is eligible for support from adult social care a support enquiry will help us decide what the next steps should be. You can submit a support enquiry online below. You can only refer adults within the Liverpool local authority area. If they live outside the Liverpool area, please refer to the appropriate local authority. Before you start a support enquiry If you don\u2019t already have an online social care portal account, you must register first before submitting a referral. As part of the registration process, we will send a security authentication code to your email address \u2013 we will do this each time you sign in",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.liverpool.gov.uk_adult-social-care_professional-referrals_request-support-for-an-adult_.txt",
+        "level": "level_2",
+        "source": "https://www.liverpool.gov.uk/adult-social-care/professional-referrals/request-support-for-an-adult/",
+        "source_url": "https://www.liverpool.gov.uk/adult-social-care/professional-referrals/request-support-for-an-adult/",
+        "total_chunks": 5,
+        "type": "web_page"
+      },
+      "id": "8850466d-e8db-44dd-9fc1-636e64ac9fa1",
+      "distance": 0.6352920532226562,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.15941238403320312,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Housing and care home enquiries Choose a topic I need to find a care home - what do I do? You can find all residential homes in Liverpool via the Care Quality Commission website . You can search for residential homes according to your needs, by location or whether you require nursing care. You can also view our housing and care homes section for more information. My home doesn't meet my needs due to mobility problems An occupational therapy (OT) assessment will look at what aids or adaptations will help you to live more independently at home, and other options if more major works are required. Find out how what help is available and how to access the OT service . How do I apply for sheltered housing? You must join the Property Pool Plus housing register before you can apply for sheltered accommodation. See 'sheltered housing' for more information and how to register . I'm homeless - how do I get support? The Housing Options service may be able to help if you are legally homeless",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.liverpool.gov.uk_adult-social-care_who-we-support_contact-adult-social-care_housing-and-care-hom.txt",
+        "level": "level_3",
+        "source": "https://www.liverpool.gov.uk/adult-social-care/who-we-support/contact-adult-social-care/housing-and-care-home-enquiries/",
+        "source_url": "https://www.liverpool.gov.uk/adult-social-care/who-we-support/contact-adult-social-care/housing-and-care-home-enquiries/",
+        "total_chunks": 3,
+        "type": "web_page"
+      },
+      "id": "6ab25243-2e35-4ed5-a88f-9bba87fef376",
+      "distance": 0.6777486801147461,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.14667539596557616,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". There is a range of advice, support and activities in the Liverpool City Region that are open to everyone. There may be something you can access that will mean you do not need a formal assessment or support from adult social care. How to request an assessment If you or someone you know is eligible under the Care Act you can complete an assessment online . This will ask you some questions to find out a bit more about your circumstances. What happens next? Depending on your circumstances, we may decide to carry out a full care needs assessment. This gives us an opportunity to ask what will help you to improve your wellbeing and live how you want to live. We will ask what's important to you and make sure the plan is tailored to help achieve your specified outcomes. If we don't feel a full care needs assessment is appropriate we will discuss other options with you",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.liverpool.gov.uk_adult-social-care_who-we-support_assessing-care-and-support-needs_care-act-elig.txt",
+        "level": "level_3",
+        "source": "https://www.liverpool.gov.uk/adult-social-care/who-we-support/assessing-care-and-support-needs/care-act-eligibility/",
+        "source_url": "https://www.liverpool.gov.uk/adult-social-care/who-we-support/assessing-care-and-support-needs/care-act-eligibility/",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "b1b690c9-661b-49cd-af32-46892e0713b5",
+      "distance": 0.6871311068534851,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.14386066794395447,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Search the Live Well Directory A directory of care and support services, activities and information in the Liverpool City Region. In this section Being independent Being active Staying connected Getting out and about Staying safe at home Money matters The Live Well Directory Equipment for your home Information for professionals making a referral Information for adults already receiving care Adult social care  - who we support",
+      "metadata": {
+        "chunk_id": 4,
+        "filename": "www.liverpool.gov.uk_adult-social-care_staying-connected_.txt",
+        "level": "level_1",
+        "source": "https://www.liverpool.gov.uk/adult-social-care/staying-connected/",
+        "source_url": "https://www.liverpool.gov.uk/adult-social-care/staying-connected/",
+        "total_chunks": 5,
+        "type": "web_page"
+      },
+      "id": "79eb23db-7918-4dc9-a281-3343489b7be5",
+      "distance": 0.6886363991025495,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.13650908026923514,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Book a video appointment If you have a smartphone, you can book a video appointment for help with benefits and council tax issues. Help in a crisis Support for vulnerable people and struggling families in Liverpool through local hardship schemes. Liverpool Citizens Support Scheme Help for vulnerable residents on a low income in urgent need. Foodbanks Find foodbanks, get help accessing food and find local businesses and organisations offering support. Short-term benefit advance If you\u2019re waiting for your first benefit payment and don\u2019t have enough money for bills and essentials you can ask your local Job Centre for an advance. Household Support Fund The government's Household Support Fund (HSF) helps support some groups with essential living costs such as food and fuel support.",
+      "metadata": {
+        "chunk_id": 3,
+        "filename": "www.liverpool.gov.uk_benefits_.txt",
+        "level": "level_2",
+        "source": "https://www.liverpool.gov.uk/benefits/",
+        "source_url": "https://www.liverpool.gov.uk/benefits/",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "5d07705d-17a3-463b-9fc0-f33f6ff5344b",
+      "distance": 0.7172932624816895,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.13481202125549316,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "information please go to: https://liverpool.gov.uk/benefits/advice -and-support/benefits -advice/  \n \n2. Liverpo ol Citizens Support Scheme  \n \nIf you find yourself in crisis you can apply for support to get food and necessities for you and your \nfamily including gas and electric vouchers (urgent needs) and furniture and household essentials \n(home needs).   \nYou may need support in an emergency or crisis such as a fire or flood, or you have had to move \ndue to violence or fear of violence. We can also help if you are leaving care or prison, and need \nsupport to stay in the community.  We may also be able to provide suppo rt if you are struggling \nfinancially and unable to pay the council's green waste collection charge.  For more information \nplease go to: https://liverpool.g ov.uk/benefits/help -in-a-crisis/liverpool -citizens -support -scheme/  \n \n3. Help with money and debt problems  \n \nFor independent money and debt advice contact The Money Advisor Network via their website:",
+      "metadata": {
+        "chunk_id": 58,
+        "contains_financial_info": true,
+        "download_url": "https://www.liverpool.gov.uk/media/zoipq0kl/council-debt-policy-19-12-23.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "council-debt-policy-19-12-23.pdf",
+        "financial_pages": "[1, 3, 4, 6, 7, 8, 9, 10, 11, 12, 13, 14, 16, 17, 18, 19, 20, 21, 22]",
+        "level": "level_3",
+        "page_count": 22,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22]",
+        "source": "https://www.liverpool.gov.uk/adult-social-care/who-we-support/care-charges/financial-assessments/",
+        "source_url": "https://www.liverpool.gov.uk/adult-social-care/who-we-support/care-charges/financial-assessments/",
+        "total_chunks": 61,
+        "type": "pdf"
+      },
+      "id": "c75e0d45-772b-432d-ad53-95cf67de391c",
+      "distance": 0.7273791432380676,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1317862570285797,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Or, you can email benefits.service@liverpool.gov.uk with the 18 or 19 digit payment reference number and name of the person who is requesting the standing order, or call 0151 233 3051.\u00a0Any overpayments will be refunded. At a Post Office To pay at the Post Office you will need to take your 18 or 19 digit payment reference number so that your account can be credited. By cheque Make cheques payable to Liverpool City Council. Include your name, address and a covering letter and your 18 or 19 digit payment reference number. Send to either: Non-Residential Social Care Charging Team or Residential Social Care Charging Team Cunard Building Water Street Liverpool L3 1AH In this section Tell us about a change How to pay care charges Make a care payment enquiry Direct payments Deferred payment agreements (DPA) Disabled facilities grant Appeals Support from an advocate Access your social care records",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.liverpool.gov.uk_adult-social-care_already-receiving-care-services_how-to-pay-care-charges_.txt",
+        "level": "level_1",
+        "source": "https://www.liverpool.gov.uk/adult-social-care/already-receiving-care-services/how-to-pay-care-charges/",
+        "source_url": "https://www.liverpool.gov.uk/adult-social-care/already-receiving-care-services/how-to-pay-care-charges/",
+        "total_chunks": 3,
+        "type": "web_page"
+      },
+      "id": "858439be-764c-428a-8c48-9b6ab27b8506",
+      "distance": 0.7726330910935714,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1182100726719286,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Liverpool Citizens Support Scheme If you find yourself in crisis you can apply for support to get food and necessities for you and your family including gas and electric vouchers (urgent needs) and furniture and household essentials (home needs). You may need support in an emergency or crisis such as a fire or flood, or you have had to move due to violence or fear of violence. We can also help if you are leaving care or prison, and need support to stay in the community. Funding for the scheme is limited and we need to consider the number of people applying for home needs and urgent needs, and what funds are available. If you are struggling financially, you may also be eligible for the green bin waiver. This is a separate process to the Liverpool Citizen Support Scheme. Go to the green bin waiver page to check eligibility and apply",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.liverpool.gov.uk_benefits_help-in-a-crisis_liverpool-citizens-support-scheme_.txt",
+        "level": "level_3",
+        "source": "https://www.liverpool.gov.uk/benefits/help-in-a-crisis/liverpool-citizens-support-scheme/",
+        "source_url": "https://www.liverpool.gov.uk/benefits/help-in-a-crisis/liverpool-citizens-support-scheme/",
+        "total_chunks": 8,
+        "type": "web_page"
+      },
+      "id": "9f63f665-e9ab-4094-8443-74e4384b0d1a",
+      "distance": 0.7814125418663025,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.11557623744010925,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". How to get an advocate Our advocates are provided by the Liverpool Advocacy Hub . If you would like to get an advocate for yourself or someone else you can: call them on 0300 303 0629 email referral@liverpooladvocacyhub.org.uk complete the referral form online at Liverpool Advocacy Hub . You can also find out more about advocacy on Healthwatch Liverpool and the Live Well Directory . In this section Tell us about a change How to pay care charges Make a care payment enquiry Direct payments Deferred payment agreements (DPA) Disabled facilities grant Appeals Support from an advocate Access your social care records",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.liverpool.gov.uk_adult-social-care_already-receiving-care-services_support-from-an-advocate_.txt",
+        "level": "level_2",
+        "source": "https://www.liverpool.gov.uk/adult-social-care/already-receiving-care-services/support-from-an-advocate/",
+        "source_url": "https://www.liverpool.gov.uk/adult-social-care/already-receiving-care-services/support-from-an-advocate/",
+        "total_chunks": 3,
+        "type": "web_page"
+      },
+      "id": "e614fa18-d359-4bc8-a9d7-252ca8c0ad21",
+      "distance": 0.7818295359611511,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.11545113921165466,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Residential homes All residential homes in Liverpool are run privately. The council no longer runs any residential homes. Types of residential home There are two types of residential home: Care homes have trained staff offering similar care to that you would receive from relatives and friends in your own home. Nursing homes provide the same level of care as care homes but also have trained nurses on duty to provide nursing care when you need it. I am thinking of moving into a residential home If you or someone you care for is thinking about making a residential home your permanent place of residence, complete an adult social care assessment . If you are already known to us and receive support services at home, we can arrange a review of your needs. If you are not already known to us and do not receive support services at home we will arrange a full care needs assessment. In both instances, we can talk you through the assessment process and how to choose a home",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.liverpool.gov.uk_adult-social-care_who-we-support_housing-and-care-homes_residential-homes_.txt",
+        "level": "level_3",
+        "source": "https://www.liverpool.gov.uk/adult-social-care/who-we-support/housing-and-care-homes/residential-homes/",
+        "source_url": "https://www.liverpool.gov.uk/adult-social-care/who-we-support/housing-and-care-homes/residential-homes/",
+        "total_chunks": 3,
+        "type": "web_page"
+      },
+      "id": "035cd071-3c21-4991-98ad-297823d9341d",
+      "distance": 0.7888579368591309,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.11334261894226075,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    }
+  ],
+  "context": "[Document 1] From https://www (web_page) - URL: https://www.liverpool.gov.uk/adult-social-care/professional-referrals/request-support-for-an-adult/ [Retrieved via: semantic_original]:\n. An OT assessment will help them to live more independently at home. Adults in an unpaid caring role If an adult looks after someone with support needs, you can refer them for a carer's assessment. This will look at what support they need in their role as carer and how we can help. Find out more about carer's assessments and how to refer . Adults with eligible support needs If an adult is eligible for support from adult social care a support enquiry will help us decide what the next steps should be. You can submit a support enquiry online below. You can only refer adults within the Liverpool local authority area. If they live outside the Liverpool area, please refer to the appropriate local authority. Before you start a support enquiry If you don\u2019t already have an online social care portal account, you must register first before submitting a referral. As part of the registration process, we will send a security authentication code to your email address \u2013 we will do this each time you sign in\n\n[Document 2] From https://www (web_page) - URL: https://www.liverpool.gov.uk/adult-social-care/who-we-support/contact-adult-social-care/housing-and-care-home-enquiries/ [Retrieved via: semantic_original]:\nHousing and care home enquiries Choose a topic I need to find a care home - what do I do? You can find all residential homes in Liverpool via the Care Quality Commission website . You can search for residential homes according to your needs, by location or whether you require nursing care. You can also view our housing and care homes section for more information. My home doesn't meet my needs due to mobility problems An occupational therapy (OT) assessment will look at what aids or adaptations will help you to live more independently at home, and other options if more major works are required. Find out how what help is available and how to access the OT service . How do I apply for sheltered housing? You must join the Property Pool Plus housing register before you can apply for sheltered accommodation. See 'sheltered housing' for more information and how to register . I'm homeless - how do I get support? The Housing Options service may be able to help if you are legally homeless\n\n[Document 3] From https://www (web_page) - URL: https://www.liverpool.gov.uk/adult-social-care/who-we-support/assessing-care-and-support-needs/care-act-eligibility/ [Retrieved via: semantic_original]:\n. There is a range of advice, support and activities in the Liverpool City Region that are open to everyone. There may be something you can access that will mean you do not need a formal assessment or support from adult social care. How to request an assessment If you or someone you know is eligible under the Care Act you can complete an assessment online . This will ask you some questions to find out a bit more about your circumstances. What happens next? Depending on your circumstances, we may decide to carry out a full care needs assessment. This gives us an opportunity to ask what will help you to improve your wellbeing and live how you want to live. We will ask what's important to you and make sure the plan is tailored to help achieve your specified outcomes. If we don't feel a full care needs assessment is appropriate we will discuss other options with you\n\n[Document 4] From https://www (web_page) - URL: https://www.liverpool.gov.uk/adult-social-care/staying-connected/ [Retrieved via: semantic_original]:\n. Search the Live Well Directory A directory of care and support services, activities and information in the Liverpool City Region. In this section Being independent Being active Staying connected Getting out and about Staying safe at home Money matters The Live Well Directory Equipment for your home Information for professionals making a referral Information for adults already receiving care Adult social care  - who we support\n\n[Document 5] From https://www (web_page) - URL: https://www.liverpool.gov.uk/benefits/ [Retrieved via: semantic_original]:\n. Book a video appointment If you have a smartphone, you can book a video appointment for help with benefits and council tax issues. Help in a crisis Support for vulnerable people and struggling families in Liverpool through local hardship schemes. Liverpool Citizens Support Scheme Help for vulnerable residents on a low income in urgent need. Foodbanks Find foodbanks, get help accessing food and find local businesses and organisations offering support. Short-term benefit advance If you\u2019re waiting for your first benefit payment and don\u2019t have enough money for bills and essentials you can ask your local Job Centre for an advance. Household Support Fund The government's Household Support Fund (HSF) helps support some groups with essential living costs such as food and fuel support.\n\n[Document 6] From https://www (pdf) - URL: https://www.liverpool.gov.uk/adult-social-care/who-we-support/care-charges/financial-assessments/ - 22 pages [Retrieved via: semantic_original]:\ninformation please go to: https://liverpool.gov.uk/benefits/advice -and-support/benefits -advice/  \n \n2. Liverpo ol Citizens Support Scheme  \n \nIf you find yourself in crisis you can apply for support to get food and necessities for you and your \nfamily including gas and electric vouchers (urgent needs) and furniture and household essentials \n(home needs).   \nYou may need support in an emergency or crisis such as a fire or flood, or you have had to move \ndue to violence or fear of violence. We can also help if you are leaving care or prison, and need \nsupport to stay in the community.  We may also be able to provide suppo rt if you are struggling \nfinancially and unable to pay the council's green waste collection charge.  For more information \nplease go to: https://liverpool.g ov.uk/benefits/help -in-a-crisis/liverpool -citizens -support -scheme/  \n \n3. Help with money and debt problems  \n \nFor independent money and debt advice contact The Money Advisor Network via their website:\n\n[Document 7] From https://www (web_page) - URL: https://www.liverpool.gov.uk/adult-social-care/already-receiving-care-services/how-to-pay-care-charges/ [Retrieved via: semantic_original]:\n. Or, you can email benefits.service@liverpool.gov.uk with the 18 or 19 digit payment reference number and name of the person who is requesting the standing order, or call 0151 233 3051.\u00a0Any overpayments will be refunded. At a Post Office To pay at the Post Office you will need to take your 18 or 19 digit payment reference number so that your account can be credited. By cheque Make cheques payable to Liverpool City Council. Include your name, address and a covering letter and your 18 or 19 digit payment reference number. Send to either: Non-Residential Social Care Charging Team or Residential Social Care Charging Team Cunard Building Water Street Liverpool L3 1AH In this section Tell us about a change How to pay care charges Make a care payment enquiry Direct payments Deferred payment agreements (DPA) Disabled facilities grant Appeals Support from an advocate Access your social care records\n\n[Document 8] From https://www (web_page) - URL: https://www.liverpool.gov.uk/benefits/help-in-a-crisis/liverpool-citizens-support-scheme/ [Retrieved via: semantic_original]:\nLiverpool Citizens Support Scheme If you find yourself in crisis you can apply for support to get food and necessities for you and your family including gas and electric vouchers (urgent needs) and furniture and household essentials (home needs). You may need support in an emergency or crisis such as a fire or flood, or you have had to move due to violence or fear of violence. We can also help if you are leaving care or prison, and need support to stay in the community. Funding for the scheme is limited and we need to consider the number of people applying for home needs and urgent needs, and what funds are available. If you are struggling financially, you may also be eligible for the green bin waiver. This is a separate process to the Liverpool Citizen Support Scheme. Go to the green bin waiver page to check eligibility and apply\n\n[Document 9] From https://www (web_page) - URL: https://www.liverpool.gov.uk/adult-social-care/already-receiving-care-services/support-from-an-advocate/ [Retrieved via: semantic_original]:\n. How to get an advocate Our advocates are provided by the Liverpool Advocacy Hub . If you would like to get an advocate for yourself or someone else you can: call them on 0300 303 0629 email referral@liverpooladvocacyhub.org.uk complete the referral form online at Liverpool Advocacy Hub . You can also find out more about advocacy on Healthwatch Liverpool and the Live Well Directory . In this section Tell us about a change How to pay care charges Make a care payment enquiry Direct payments Deferred payment agreements (DPA) Disabled facilities grant Appeals Support from an advocate Access your social care records\n\n[Document 10] From https://www (web_page) - URL: https://www.liverpool.gov.uk/adult-social-care/who-we-support/housing-and-care-homes/residential-homes/ [Retrieved via: semantic_original]:\nResidential homes All residential homes in Liverpool are run privately. The council no longer runs any residential homes. Types of residential home There are two types of residential home: Care homes have trained staff offering similar care to that you would receive from relatives and friends in your own home. Nursing homes provide the same level of care as care homes but also have trained nurses on duty to provide nursing care when you need it. I am thinking of moving into a residential home If you or someone you care for is thinking about making a residential home your permanent place of residence, complete an adult social care assessment . If you are already known to us and receive support services at home, we can arrange a review of your needs. If you are not already known to us and do not receive support services at home we will arrange a full care needs assessment. In both instances, we can talk you through the assessment process and how to choose a home\n",
+  "answer": "If you are experiencing domestic abuse in Liverpool and need emergency social care and housing support, you can access several resources to help you and your children.\n\n**Emergency Housing Support:**\n- **Housing Options Service:** If you are legally homeless due to domestic abuse, the Housing Options service may be able to assist you. They can help you find temporary accommodation and guide you through the process of securing more permanent housing. More information can be found on the Liverpool City Council website under housing and care home enquiries.\n\n**Financial and Practical Support:**\n- **Liverpool Citizens Support Scheme:** This scheme provides support in crisis situations, including if you have to move due to violence or fear of violence. They can offer food, necessities, gas and electric vouchers, and furniture and household essentials. You can apply for this support through the Liverpool City Council's benefits section.\n\n**Next Steps:**\n- **Contact the Housing Options Service** for immediate housing assistance if you are homeless.\n- **Apply for the Liverpool Citizens Support Scheme** for financial and practical support in your crisis situation. Visit the Liverpool City Council's benefits page for more details: [Liverpool Citizens Support Scheme](https://www.liverpool.gov.uk/benefits/help-in-a-crisis/liverpool-citizens-support-scheme/).\n\nThese resources are designed to provide immediate relief and support to help you and your children find safety and stability.",
+  "metrics": {
+    "duration_seconds": 11.245833158493042,
+    "retrieved_docs_count": 10,
+    "query_length": 141,
+    "answer_length": 1495,
+    "retrieval_method": "enhanced",
+    "context_utilization": 0.1554524361948956,
+    "citations_count": 0,
+    "has_citations": false,
+    "query_relevance": 0.7894736842105263,
+    "unique_retrieval_methods": 1,
+    "budget_documents_retrieved": 1,
+    "retrieval_methods_used": [
+      "semantic_original"
+    ],
+    "retrieval_method_distribution": {
+      "semantic_original": 10
+    }
+  },
+  "local_authority": "liverpool",
+  "query_id": "scn_27",
+  "retrieval_method": "enhanced",
+  "run_id": "4ef2aa6c-8a03-4c27-a5f4-efe63b0ebf41",
+  "trace": {
+    "run_id": "4ef2aa6c-8a03-4c27-a5f4-efe63b0ebf41",
+    "project": "social_care_rag",
+    "url": "https://eu.smith.langchain.com/o/me/runs/4ef2aa6c-8a03-4c27-a5f4-efe63b0ebf41"
+  },
+  "test_metadata": {
+    "local_authority": "liverpool",
+    "query_id": "scn_27",
+    "query_category": "emergency_scenarios",
+    "prompt_variation": "optimized",
+    "prompt_template": "\nPlease answer the following question about social care services in UK local authorities based only on the information in the provided documents.\n\nQuestion: {query}\n\nContext from relevant documents:\n{context}\n\nInstructions:\n1. Provide a clear, direct answer that would help someone needing this information. If information isn't available, state: \"The available documents don't provide specific information about [aspect].\"\n\n2. Synthesize information from ALL relevant documents to provide the most complete answer rather than analyzing documents individually.\n\n3. Structure your response with:\n   - A concise 1-2 sentence summary first\n   - Relevant details organized in short, clear paragraphs\n   - Bullet points for lists or step-by-step information\n   - Bold text for key information the user should notice\n\n4. For financial information:\n   - Include exact figures, time periods, and what the funding covers\n   - Present financial data clearly: \"The adult social care budget is **\u00a3X million** for [time period]\"\n\n5. Always include practical next steps or resources:\n   - Provide contact information, URLs, or application methods mentioned in the documents\n   - Suggest where the person could find more information\n\n6. When citing sources, use a simple format: \"According to [document name/description]\" or include URLs where available.\n\nAnswer:\n",
+    "processing_time": 11.251539945602417,
+    "timestamp": "2025-08-19T13:56:29.357700",
+    "top_k": 10
+  }
+}

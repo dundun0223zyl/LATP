@@ -1,0 +1,293 @@
+{
+  "query": "I've been told I need a financial assessment for care in oxfordshire. What documents should I prepare and how is my contribution calculated?",
+  "retrieved_documents": [
+    {
+      "content": "Start your financial assessment Our online form, (OFA) will tell you how much you are likely to have to contribute towards your care and support. It also allows you to submit your details securely to us. The guidance below should help you fill out the form, but if you need further assistance, you can contact our Financial Assessment Team, who will be happy to assist. You can call them on 01865 323642 or email the team financialassessments@oxfordshire.gov.uk . Whilst you are encouraged to read all the information below before starting your form, here is a quick visual guide (pdf format, 1 MB) to the form and process. Contact us , if you are not currently receiving care or support arranged by Oxfordshire County Council and you would like to know whether you are eligible for care and support. Start your online financial assessment Completing the assessment You may be expected to contribute towards the cost of the care you receive. Most people have to pay something towards the cost of their care",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.oxfordshire.gov.uk_online-financial-assessment.txt",
+        "level": "level_3",
+        "source": "https://www.oxfordshire.gov.uk/online-financial-assessment",
+        "source_url": "https://www.oxfordshire.gov.uk/online-financial-assessment",
+        "total_chunks": 29,
+        "type": "web_page"
+      },
+      "id": "23442480-3309-4c2c-b2f8-b5db1304ac10",
+      "distance": 0.3761391341686249,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.23715825974941251,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Start your financial assessment Our online form, (OFA) will tell you how much you are likely to have to contribute towards your care and support. It also allows you to submit your details securely to us. The guidance below should help you fill out the form, but if you need further assistance, you can contact our Financial Assessment Team, who will be happy to assist. You can call them on 01865 323642 or email the team financialassessments@oxfordshire.gov.uk . Whilst you are encouraged to read all the information below before starting your form, here is a quick visual guide (pdf format, 1 MB) to the form and process. Contact us , if you are not currently receiving care or support arranged by Oxfordshire County Council and you would like to know whether you are eligible for care and support. Start your online financial assessment Completing the assessment You may be expected to contribute towards the cost of the care you receive. Most people have to pay something towards the cost of their care",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.oxfordshire.gov.uk_residents_social-and-health-care_adult-social-care_paying-social-care_online-.txt",
+        "level": "level_2",
+        "source": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/paying-social-care/online-financial-assessment",
+        "source_url": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/paying-social-care/online-financial-assessment",
+        "total_chunks": 29,
+        "type": "web_page"
+      },
+      "id": "6b54e861-76ad-4b9b-b63d-312e6b4f2a25",
+      "distance": 0.3761391341686249,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.23715825974941251,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Non-residential financial assessment Video transcript Step 1: If you are receiving a non-residential service from Oxfordshire County Council, select this option on the first section of the OFA. Step 2: Enter your date of birth, then click continue. Then tick Yes or No to indicate whether you have capital over or under the limit stated. Step 3: Next, you will have five sub-sections to complete within section 2. Go through each section and indicate your items by entering an amount in the amount box. Where applicable, indicate the payment frequency using the dropdown and add comments where necessary. Step 4: Once you have completed section 2, you will be given an estimated contribution amount and a calculation summary. At this point, you can review and amend these details or submit them to us. At the bottom of the page is a button to submit your details. You can also download the information by clicking on the download button",
+      "metadata": {
+        "chunk_id": 19,
+        "filename": "www.oxfordshire.gov.uk_online-financial-assessment.txt",
+        "level": "level_3",
+        "source": "https://www.oxfordshire.gov.uk/online-financial-assessment",
+        "source_url": "https://www.oxfordshire.gov.uk/online-financial-assessment",
+        "total_chunks": 29,
+        "type": "web_page"
+      },
+      "id": "0b3277c8-4f7a-496f-968a-c5ee13876fd9",
+      "distance": 0.4804295599460602,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.20587113201618196,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Non-residential financial assessment Video transcript Step 1: If you are receiving a non-residential service from Oxfordshire County Council, select this option on the first section of the OFA. Step 2: Enter your date of birth, then click continue. Then tick Yes or No to indicate whether you have capital over or under the limit stated. Step 3: Next, you will have five sub-sections to complete within section 2. Go through each section and indicate your items by entering an amount in the amount box. Where applicable, indicate the payment frequency using the dropdown and add comments where necessary. Step 4: Once you have completed section 2, you will be given an estimated contribution amount and a calculation summary. At this point, you can review and amend these details or submit them to us. At the bottom of the page is a button to submit your details. You can also download the information by clicking on the download button",
+      "metadata": {
+        "chunk_id": 19,
+        "filename": "www.oxfordshire.gov.uk_residents_social-and-health-care_adult-social-care_paying-social-care_online-.txt",
+        "level": "level_2",
+        "source": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/paying-social-care/online-financial-assessment",
+        "source_url": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/paying-social-care/online-financial-assessment",
+        "total_chunks": 29,
+        "type": "web_page"
+      },
+      "id": "925531b2-e12d-49bd-8b6c-2528cc526452",
+      "distance": 0.4804295599460602,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.20587113201618196,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 1 - FINANCIAL/BUDGET INFORMATION]\nOnline Financial \nAssessment\nVisual Guidance\n\n\n[Page 2]\nLanding Page\nCreate an account first \u2013 \nif you want to submit  your \nform  or be able to save  your \nform and come back to it\n\n[Page 3]\nVerify email \naddress first\u2026\n\u2026then create a \npassword for \nyour account\n\n\n[Page 4 - FINANCIAL/BUDGET INFORMATION]\nWhat you will need:\n\uf0a8 Your national insurance number\n\uf0a8 Details of your savings, income, benefits and \nexpenditure\n\uf0a8 Evidence of your savings, income, benefits \nand expenditure\nOnline financial assessment Guidance | \nOxfordshire County Council\n\n\n[Page 5]\nChoose the assessment \ntype based on the care / \nsupport you are \nreceiving\n\n\n[Page 6 - FINANCIAL/BUDGET INFORMATION]\nYou will then have 5 \nsub sections to \ncompleteEnter your Date of Birth \nand confirm whether \nyour capital is under or \nover the government set \nlimit\nIf you choose to supply \nyour financial details at \nthe end of the form, then \nwe will ask for person \ndetails",
+      "metadata": {
+        "chunk_id": 0,
+        "contains_financial_info": true,
+        "download_url": "https://www.oxfordshire.gov.uk/sites/default/files/file/adult-social-and-health-care/OnlineFinancialAssessment-VisualGuidance.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "OnlineFinancialAssessment-VisualGuidance.pdf",
+        "financial_pages": "[1, 4, 6, 7, 9, 15]",
+        "level": "level_3",
+        "page_count": 19,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 9, 10, 11, 12, 13, 14, 15, 17, 19]",
+        "source": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/paying-social-care/online-financial-assessment",
+        "source_url": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/paying-social-care/online-financial-assessment",
+        "total_chunks": 5,
+        "type": "pdf"
+      },
+      "id": "821dce1a-885f-4181-bc21-c50a1425f033",
+      "distance": 0.4855274260044098,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.20434177219867705,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 1 - FINANCIAL/BUDGET INFORMATION]\nOnline Financial \nAssessment\nVisual Guidance\n\n\n[Page 2]\nLanding Page\nCreate an account first \u2013 \nif you want to submit  your \nform  or be able to save  your \nform and come back to it\n\n[Page 3]\nVerify email \naddress first\u2026\n\u2026then create a \npassword for \nyour account\n\n\n[Page 4 - FINANCIAL/BUDGET INFORMATION]\nWhat you will need:\n\uf0a8 Your national insurance number\n\uf0a8 Details of your savings, income, benefits and \nexpenditure\n\uf0a8 Evidence of your savings, income, benefits \nand expenditure\nOnline financial assessment Guidance | \nOxfordshire County Council\n\n\n[Page 5]\nChoose the assessment \ntype based on the care / \nsupport you are \nreceiving\n\n\n[Page 6 - FINANCIAL/BUDGET INFORMATION]\nYou will then have 5 \nsub sections to \ncompleteEnter your Date of Birth \nand confirm whether \nyour capital is under or \nover the government set \nlimit\nIf you choose to supply \nyour financial details at \nthe end of the form, then \nwe will ask for person \ndetails",
+      "metadata": {
+        "chunk_id": 0,
+        "contains_financial_info": true,
+        "download_url": "https://www.oxfordshire.gov.uk/sites/default/files/file/adult-social-and-health-care/OnlineFinancialAssessment-VisualGuidance.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "OnlineFinancialAssessment-VisualGuidance.pdf",
+        "financial_pages": "[1, 4, 6, 7, 9, 15]",
+        "level": "level_2",
+        "page_count": 19,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 9, 10, 11, 12, 13, 14, 15, 17, 19]",
+        "source": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/paying-social-care/online-financial-assessment",
+        "source_url": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/paying-social-care/online-financial-assessment",
+        "total_chunks": 5,
+        "type": "pdf"
+      },
+      "id": "936b1f7d-634f-46ce-ae6a-b9b5270b843d",
+      "distance": 0.4855274260044098,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.20434177219867705,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Adult social care policies Read our policies to find out more about how we deliver adult social care services in Oxfordshire. Read our policies Back to top Funding your care The amount you pay will depend on the level of care you need and how much money and property you have. This could include the value of your house if you need to move into a care home. If you feel that you might be entitled to financial support to help you access care, you can ask for a financial assessment. We will use this to calculate if you need to contribute to the cost of your care and how much. To get your financial assessment, you'll need to provide us with information about your finances and income. You can do this using our financial assessment form . If you are unable to fill out our online form or do not have someone who can help you, please contact us . When we receive your form and supporting documents, we will write to you to tell you the outcome of your assessment",
+      "metadata": {
+        "chunk_id": 6,
+        "filename": "www.oxfordshire.gov.uk_node_9243.txt",
+        "level": "level_2",
+        "source": "https://www.oxfordshire.gov.uk/node/9243",
+        "source_url": "https://www.oxfordshire.gov.uk/node/9243",
+        "total_chunks": 8,
+        "type": "web_page"
+      },
+      "id": "02997752-a6c6-49a7-a6f9-a070f32f90c5",
+      "distance": 0.4856073260307312,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.20431780219078066,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Financial Assessment team or your Social Worker as so on as possible.  \n \nFinancial Assessment  \nDuring the Property Disregard period, Oxfordshire County Council will disregard the \nvalue of your only or main home but will financially assess you taking into account \nyour income and any other non -housing capital. We  will then send you written \nconfirmation of your financial assessment and an agreement to pay this amount for \nyou to sign and return to the Financial Assessment team.  \n \nTop-up   \nYour chosen care home may require a higher fee than the amount which Oxfordshire \nCounty Council considers is necessary to pay for the care you need (this amount is \nyour Personal Budget as established by your Social Worker).  \n \nIf so, you will have to pay th e difference (often known as the top -up) between the fee \nrequired by your chosen care home and the amount the council considers necessary \nto pay for your care",
+      "metadata": {
+        "chunk_id": 5,
+        "contains_financial_info": true,
+        "download_url": "https://www.oxfordshire.gov.uk/sites/default/files/file/adult-social-and-health-care/12weekpropertydisregard.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "12weekpropertydisregard.pdf",
+        "financial_pages": "[1, 2, 3, 4, 5]",
+        "level": "level_2",
+        "page_count": 5,
+        "pages_with_content": "[1, 2, 3, 4, 5]",
+        "source": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/paying-social-care/care-residential-home",
+        "source_url": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/paying-social-care/care-residential-home",
+        "total_chunks": 16,
+        "type": "pdf"
+      },
+      "id": "796c2aad-d846-42a0-bd41-0ff684553580",
+      "distance": 0.5034270286560059,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.19897189140319826,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". You\u00a0can choose to: buy your care privately have a direct payment have services that are provided or arranged by Oxfordshire County Council have a mixture of direct payment and services the council can offer or arrange If we determine that you are not eligible for a personal budget, you will have to pay the full cost of your care. Changes to your financial or personal circumstances You must contact the Financial Assessment Team with any changes in your financial or personal circumstances so we can ensure the charges we ask you are correct. You will be charged at a later date if you don't tell us about changes that affect your financial circumstances, such as: a change to any benefits you receive a change in property ownership a substantial increase in your savings Giving away or transferring money or assets You may be thinking of giving away or transferring some of your savings or other assets, including your property (also known as disposal of assets)",
+      "metadata": {
+        "chunk_id": 4,
+        "filename": "www.oxfordshire.gov.uk_residents_social-and-health-care_adult-social-care_paying-social-care_guide-p.txt",
+        "level": "level_2",
+        "source": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/paying-social-care/guide-paying-your-care",
+        "source_url": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/paying-social-care/guide-paying-your-care",
+        "total_chunks": 8,
+        "type": "web_page"
+      },
+      "id": "640d7ab0-32cb-405b-8141-239081317e11",
+      "distance": 0.5224137306213379,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.19327588081359864,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Contact us when your remaining savings and assets have been reduced to about \u00a335,000 or are only sufficient to pay for your following three-month care home fees. Savings or other capital assets under \u00a323,250 If you have less than \u00a323,250, we will complete a free financial assessment to determine how much you can afford to contribute towards the cost of your care. Back to top How we calculate your contribution Simply put, the calculation is savings and assets\u00a0+\u00a0income\u00a0\u2013\u00a0allowance\u00a0=\u00a0your assessed contribution . We calculate our financial assessment by looking at your: income savings capital assets personal expenses allowance You'll need to tell us about your finances and income to have the financial assessment.\u00a0You can complete\u00a0our online financial assessment form . If you cannot fill out our online form or do not have anyone to assist you with it, contact the Financial Assessment Team . We can assess you over the telephone or face-to-face",
+      "metadata": {
+        "chunk_id": 3,
+        "filename": "www.oxfordshire.gov.uk_residents_social-and-health-care_adult-social-care_paying-social-care_care-re.txt",
+        "level": "level_2",
+        "source": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/paying-social-care/care-residential-home",
+        "source_url": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/paying-social-care/care-residential-home",
+        "total_chunks": 14,
+        "type": "web_page"
+      },
+      "id": "ac32e8a9-61c6-49f4-b10c-ca4c3e188ec9",
+      "distance": 0.5526002049446106,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.18421993851661683,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    }
+  ],
+  "context": "[Document 1] From https://www (web_page) - URL: https://www.oxfordshire.gov.uk/online-financial-assessment [Retrieved via: semantic_original]:\nStart your financial assessment Our online form, (OFA) will tell you how much you are likely to have to contribute towards your care and support. It also allows you to submit your details securely to us. The guidance below should help you fill out the form, but if you need further assistance, you can contact our Financial Assessment Team, who will be happy to assist. You can call them on 01865 323642 or email the team financialassessments@oxfordshire.gov.uk . Whilst you are encouraged to read all the information below before starting your form, here is a quick visual guide (pdf format, 1 MB) to the form and process. Contact us , if you are not currently receiving care or support arranged by Oxfordshire County Council and you would like to know whether you are eligible for care and support. Start your online financial assessment Completing the assessment You may be expected to contribute towards the cost of the care you receive. Most people have to pay something towards the cost of their care\n\n[Document 2] From https://www (web_page) - URL: https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/paying-social-care/online-financial-assessment [Retrieved via: semantic_original]:\nStart your financial assessment Our online form, (OFA) will tell you how much you are likely to have to contribute towards your care and support. It also allows you to submit your details securely to us. The guidance below should help you fill out the form, but if you need further assistance, you can contact our Financial Assessment Team, who will be happy to assist. You can call them on 01865 323642 or email the team financialassessments@oxfordshire.gov.uk . Whilst you are encouraged to read all the information below before starting your form, here is a quick visual guide (pdf format, 1 MB) to the form and process. Contact us , if you are not currently receiving care or support arranged by Oxfordshire County Council and you would like to know whether you are eligible for care and support. Start your online financial assessment Completing the assessment You may be expected to contribute towards the cost of the care you receive. Most people have to pay something towards the cost of their care\n\n[Document 3] From https://www (web_page) - URL: https://www.oxfordshire.gov.uk/online-financial-assessment [Retrieved via: semantic_original]:\n. Non-residential financial assessment Video transcript Step 1: If you are receiving a non-residential service from Oxfordshire County Council, select this option on the first section of the OFA. Step 2: Enter your date of birth, then click continue. Then tick Yes or No to indicate whether you have capital over or under the limit stated. Step 3: Next, you will have five sub-sections to complete within section 2. Go through each section and indicate your items by entering an amount in the amount box. Where applicable, indicate the payment frequency using the dropdown and add comments where necessary. Step 4: Once you have completed section 2, you will be given an estimated contribution amount and a calculation summary. At this point, you can review and amend these details or submit them to us. At the bottom of the page is a button to submit your details. You can also download the information by clicking on the download button\n\n[Document 4] From https://www (web_page) - URL: https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/paying-social-care/online-financial-assessment [Retrieved via: semantic_original]:\n. Non-residential financial assessment Video transcript Step 1: If you are receiving a non-residential service from Oxfordshire County Council, select this option on the first section of the OFA. Step 2: Enter your date of birth, then click continue. Then tick Yes or No to indicate whether you have capital over or under the limit stated. Step 3: Next, you will have five sub-sections to complete within section 2. Go through each section and indicate your items by entering an amount in the amount box. Where applicable, indicate the payment frequency using the dropdown and add comments where necessary. Step 4: Once you have completed section 2, you will be given an estimated contribution amount and a calculation summary. At this point, you can review and amend these details or submit them to us. At the bottom of the page is a button to submit your details. You can also download the information by clicking on the download button\n\n[Document 5] From https://www (pdf) - URL: https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/paying-social-care/online-financial-assessment - 19 pages [Retrieved via: semantic_original]:\n[Page 1 - FINANCIAL/BUDGET INFORMATION]\nOnline Financial \nAssessment\nVisual Guidance\n\n\n[Page 2]\nLanding Page\nCreate an account first \u2013 \nif you want to submit  your \nform  or be able to save  your \nform and come back to it\n\n[Page 3]\nVerify email \naddress first\u2026\n\u2026then create a \npassword for \nyour account\n\n\n[Page 4 - FINANCIAL/BUDGET INFORMATION]\nWhat you will need:\n\uf0a8 Your national insurance number\n\uf0a8 Details of your savings, income, benefits and \nexpenditure\n\uf0a8 Evidence of your savings, income, benefits \nand expenditure\nOnline financial assessment Guidance | \nOxfordshire County Council\n\n\n[Page 5]\nChoose the assessment \ntype based on the care / \nsupport you are \nreceiving\n\n\n[Page 6 - FINANCIAL/BUDGET INFORMATION]\nYou will then have 5 \nsub sections to \ncompleteEnter your Date of Birth \nand confirm whether \nyour capital is under or \nover the government set \nlimit\nIf you choose to supply \nyour financial details at \nthe end of the form, then \nwe will ask for person \ndetails\n\n[Document 6] From https://www (pdf) - URL: https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/paying-social-care/online-financial-assessment - 19 pages [Retrieved via: semantic_original]:\n[Page 1 - FINANCIAL/BUDGET INFORMATION]\nOnline Financial \nAssessment\nVisual Guidance\n\n\n[Page 2]\nLanding Page\nCreate an account first \u2013 \nif you want to submit  your \nform  or be able to save  your \nform and come back to it\n\n[Page 3]\nVerify email \naddress first\u2026\n\u2026then create a \npassword for \nyour account\n\n\n[Page 4 - FINANCIAL/BUDGET INFORMATION]\nWhat you will need:\n\uf0a8 Your national insurance number\n\uf0a8 Details of your savings, income, benefits and \nexpenditure\n\uf0a8 Evidence of your savings, income, benefits \nand expenditure\nOnline financial assessment Guidance | \nOxfordshire County Council\n\n\n[Page 5]\nChoose the assessment \ntype based on the care / \nsupport you are \nreceiving\n\n\n[Page 6 - FINANCIAL/BUDGET INFORMATION]\nYou will then have 5 \nsub sections to \ncompleteEnter your Date of Birth \nand confirm whether \nyour capital is under or \nover the government set \nlimit\nIf you choose to supply \nyour financial details at \nthe end of the form, then \nwe will ask for person \ndetails\n\n[Document 7] From https://www (web_page) - URL: https://www.oxfordshire.gov.uk/node/9243 [Retrieved via: semantic_original]:\n. Adult social care policies Read our policies to find out more about how we deliver adult social care services in Oxfordshire. Read our policies Back to top Funding your care The amount you pay will depend on the level of care you need and how much money and property you have. This could include the value of your house if you need to move into a care home. If you feel that you might be entitled to financial support to help you access care, you can ask for a financial assessment. We will use this to calculate if you need to contribute to the cost of your care and how much. To get your financial assessment, you'll need to provide us with information about your finances and income. You can do this using our financial assessment form . If you are unable to fill out our online form or do not have someone who can help you, please contact us . When we receive your form and supporting documents, we will write to you to tell you the outcome of your assessment\n\n[Document 8] From https://www (pdf) - URL: https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/paying-social-care/care-residential-home - 5 pages [Retrieved via: semantic_original]:\nFinancial Assessment team or your Social Worker as so on as possible.  \n \nFinancial Assessment  \nDuring the Property Disregard period, Oxfordshire County Council will disregard the \nvalue of your only or main home but will financially assess you taking into account \nyour income and any other non -housing capital. We  will then send you written \nconfirmation of your financial assessment and an agreement to pay this amount for \nyou to sign and return to the Financial Assessment team.  \n \nTop-up   \nYour chosen care home may require a higher fee than the amount which Oxfordshire \nCounty Council considers is necessary to pay for the care you need (this amount is \nyour Personal Budget as established by your Social Worker).  \n \nIf so, you will have to pay th e difference (often known as the top -up) between the fee \nrequired by your chosen care home and the amount the council considers necessary \nto pay for your care\n\n[Document 9] From https://www (web_page) - URL: https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/paying-social-care/guide-paying-your-care [Retrieved via: semantic_original]:\n. You\u00a0can choose to: buy your care privately have a direct payment have services that are provided or arranged by Oxfordshire County Council have a mixture of direct payment and services the council can offer or arrange If we determine that you are not eligible for a personal budget, you will have to pay the full cost of your care. Changes to your financial or personal circumstances You must contact the Financial Assessment Team with any changes in your financial or personal circumstances so we can ensure the charges we ask you are correct. You will be charged at a later date if you don't tell us about changes that affect your financial circumstances, such as: a change to any benefits you receive a change in property ownership a substantial increase in your savings Giving away or transferring money or assets You may be thinking of giving away or transferring some of your savings or other assets, including your property (also known as disposal of assets)\n\n[Document 10] From https://www (web_page) - URL: https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/paying-social-care/care-residential-home [Retrieved via: semantic_original]:\n. Contact us when your remaining savings and assets have been reduced to about \u00a335,000 or are only sufficient to pay for your following three-month care home fees. Savings or other capital assets under \u00a323,250 If you have less than \u00a323,250, we will complete a free financial assessment to determine how much you can afford to contribute towards the cost of your care. Back to top How we calculate your contribution Simply put, the calculation is savings and assets\u00a0+\u00a0income\u00a0\u2013\u00a0allowance\u00a0=\u00a0your assessed contribution . We calculate our financial assessment by looking at your: income savings capital assets personal expenses allowance You'll need to tell us about your finances and income to have the financial assessment.\u00a0You can complete\u00a0our online financial assessment form . If you cannot fill out our online form or do not have anyone to assist you with it, contact the Financial Assessment Team . We can assess you over the telephone or face-to-face\n",
+  "answer": "To prepare for a financial assessment for care in Oxfordshire, you will need to gather specific documents and information about your finances. Your contribution towards care is calculated based on your savings, income, and capital assets minus an allowance.\n\n**Documents and Information to Prepare:**\n- **National Insurance Number**\n- **Details and evidence of your savings, income, benefits, and expenditure**\n\n**How Your Contribution is Calculated:**\n- The formula used is: **savings and assets + income \u2013 allowance = your assessed contribution**.\n- If your savings or capital assets are under \u00a323,250, Oxfordshire County Council will complete a free financial assessment to determine your contribution.\n\n**Practical Steps:**\n1. **Start Your Financial Assessment:** You can complete the online financial assessment form on the Oxfordshire County Council website [here](https://www.oxfordshire.gov.uk/online-financial-assessment).\n2. **Contact for Assistance:** If you need help, contact the Financial Assessment Team at 01865 323642 or email financialassessments@oxfordshire.gov.uk.\n\nFor more detailed guidance, you can refer to the visual guide provided by the council or contact them directly for personalized assistance.",
+  "metrics": {
+    "duration_seconds": 11.628270149230957,
+    "retrieved_docs_count": 10,
+    "query_length": 140,
+    "answer_length": 1225,
+    "retrieval_method": "enhanced",
+    "context_utilization": 0.18518518518518517,
+    "citations_count": 0,
+    "has_citations": false,
+    "query_relevance": 0.6470588235294118,
+    "unique_retrieval_methods": 1,
+    "budget_documents_retrieved": 3,
+    "retrieval_methods_used": [
+      "semantic_original"
+    ],
+    "retrieval_method_distribution": {
+      "semantic_original": 10
+    }
+  },
+  "local_authority": "oxfordshire",
+  "query_id": "scn_22",
+  "retrieval_method": "enhanced",
+  "run_id": "d9cdb39b-55d0-4656-9fe2-aa03a7ba7271",
+  "trace": {
+    "run_id": "d9cdb39b-55d0-4656-9fe2-aa03a7ba7271",
+    "project": "social_care_rag",
+    "url": "https://eu.smith.langchain.com/o/me/runs/d9cdb39b-55d0-4656-9fe2-aa03a7ba7271"
+  },
+  "test_metadata": {
+    "local_authority": "oxfordshire",
+    "query_id": "scn_22",
+    "query_category": "assessment_scenarios",
+    "prompt_variation": "optimized",
+    "prompt_template": "\nPlease answer the following question about social care services in UK local authorities based only on the information in the provided documents.\n\nQuestion: {query}\n\nContext from relevant documents:\n{context}\n\nInstructions:\n1. Provide a clear, direct answer that would help someone needing this information. If information isn't available, state: \"The available documents don't provide specific information about [aspect].\"\n\n2. Synthesize information from ALL relevant documents to provide the most complete answer rather than analyzing documents individually.\n\n3. Structure your response with:\n   - A concise 1-2 sentence summary first\n   - Relevant details organized in short, clear paragraphs\n   - Bullet points for lists or step-by-step information\n   - Bold text for key information the user should notice\n\n4. For financial information:\n   - Include exact figures, time periods, and what the funding covers\n   - Present financial data clearly: \"The adult social care budget is **\u00a3X million** for [time period]\"\n\n5. Always include practical next steps or resources:\n   - Provide contact information, URLs, or application methods mentioned in the documents\n   - Suggest where the person could find more information\n\n6. When citing sources, use a simple format: \"According to [document name/description]\" or include URLs where available.\n\nAnswer:\n",
+    "processing_time": 11.631916046142578,
+    "timestamp": "2025-08-19T14:15:59.004007",
+    "top_k": 10
+  }
+}

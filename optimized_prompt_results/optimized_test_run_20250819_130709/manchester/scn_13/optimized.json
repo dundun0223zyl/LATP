@@ -1,0 +1,275 @@
+{
+  "query": "I work full-time but also care for my elderly father with Parkinson's in manchester. What respite care options exist so I can have occasional breaks?",
+  "retrieved_documents": [
+    {
+      "content": "People and communities Help for older people What you are entitled to when you retire Other support Other support Winterwise Winterwise is a guide to keeping well during the winter. Created by The Greater Manchester Ageing Hub and Independent Age, it has three key themes: Stay warm: financial support older people can get to help with energy costs Stay safe: home safety advice for older people (such as fire safety, how to spot and report scams and what to do if you fall) Stay well: tips and advice on mental health and wellbeing, eating well and keeping active You can access the Winterwise guide online. Or call 0800 319 6789 (quote 'free guide 338'). Winter health The NHS website has health and wellbeing advice about how to stay well in winter. Manchester care and repair Manchester care and repair is a charity that helps to maintain homes for older people. And they help people to get the support they need in later life or after an illness. They also help with emergency home repairs (such as no heating)",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.manchester.gov.uk_info_200091_life_over_50_8417_help_for_older_people_2.txt",
+        "level": "level_3",
+        "source": "https://www.manchester.gov.uk/info/200091/life_over_50/8417/help_for_older_people/2",
+        "source_url": "https://www.manchester.gov.uk/info/200091/life_over_50/8417/help_for_older_people/2",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "f8f332f6-713f-480d-99cb-3199d25a2e0c",
+      "distance": 0.7469456195831299,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.12591631412506105,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Health and wellbeing Care homes If you're starting to think about finding a care home for yourself or a friend or family member, speak to our contact service first as we can look at all your needs in one go, and there might be other alternatives to help you stay in your own home. There are also several other options for housing for older people , which can be suitable when you can't manage in your own home, but don't need the round-the-clock support offered by care or\u00a0nursing homes. You can find out about care homes and the services they offer by searching on Help and Support Manchester .\u00a0This includes\u00a0their latest assessment by the Care Quality Commission ,\u00a0a national organisation charged with monitoring the quality of all care services",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.manchester.gov.uk_info_200048_health_and_wellbeing_4520_choosing_and_paying_for_a_care_home.txt",
+        "level": "level_1",
+        "source": "http://www.manchester.gov.uk/info/200048/health_and_wellbeing/4520/choosing_and_paying_for_a_care_home",
+        "source_url": "http://www.manchester.gov.uk/info/200048/health_and_wellbeing/4520/choosing_and_paying_for_a_care_home",
+        "total_chunks": 3,
+        "type": "web_page"
+      },
+      "id": "58bc450b-3521-400a-ae44-a80e4c307d81",
+      "distance": 0.7500477163665943,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.12498568509002171,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". For most young people Personal Advisers have a duty to keep in touch regularly until the age of 21 years and this is something that you can ask to continue after this age also. We will consider the support needs of all Manchester care leavers in the city when offering support and assistance to achieve and succeed involving all relevant services and professionals. What you're entitled to ask for Health and wellbeing Recognition of your care experience in your adult health records so this can be supported in appointments or when you are accessing support. Access to Manchester MIND counselling via the Community Hub. Access to 42nd Street emotional health and wellbeing support via the Community Hub. Access to all health records and a final health plan when your turn 18 years. Support to access to leisure activities and local clubs. Dedicated support for young adults 18+ to keep healthy and active as part of the Community Hub. Housing Access to funds to support setting up your first home",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.manchester.gov.uk_info_500319_care_leavers_8927_rights_and_entitlements.txt",
+        "level": "level_2",
+        "source": "https://www.manchester.gov.uk/info/500319/care_leavers/8927/rights_and_entitlements",
+        "source_url": "https://www.manchester.gov.uk/info/500319/care_leavers/8927/rights_and_entitlements",
+        "total_chunks": 7,
+        "type": "web_page"
+      },
+      "id": "638961e4-1f3c-4a34-b78a-506a09f2a551",
+      "distance": 0.805769681930542,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1082690954208374,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". You can apply for a cash grant of between \u00a330 and \u00a360 if you are in crisis or have an emergency that's out of your control. To be eligible you must: live in the area covered by Manchester City Council ; and be 16 or over; and have no capital or savings; and get one of the following benefits; Income Support, Jobseeker's Allowance, Employment and Support Allowance, Universal Credit\u00a0or Guaranteed Pension Credit not be experiencing hardship because of a decision by the Department of Work and Pensions (if you are, visit the DWP website or call 0345 608 8545); and not have already received a cash grant within the last 12 months, or We are also temporarily offering support\u00a0to carers, including households where a child or young person is the carer. The carer does not need to meet the eligibility criteria",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.manchester.gov.uk_info_200008_benefits_and_support_6302_apply_for_a_loan_if_you_are_in_financial.txt",
+        "level": "level_3",
+        "source": "https://www.manchester.gov.uk/info/200008/benefits_and_support/6302/apply_for_a_loan_if_you_are_in_financial_crisis",
+        "source_url": "https://www.manchester.gov.uk/info/200008/benefits_and_support/6302/apply_for_a_loan_if_you_are_in_financial_crisis",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "c8c16500-8980-4675-b10a-277f1f30cdba",
+      "distance": 0.8446657061576843,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.0966002881526947,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Support for Young Parents: Additional resources if you\u2019re a young parent. Ongoing Support: Continued assistance beyond age 18, involving Adult Social Care if needed. Leisure Facilities: Free or discounted entry to select leisure facilities in Manchester. Community Events: Access social and community events to keep you active and connected with others. Trauma-Informed Support: Opportunities to build skills and reflect on your journey using a trauma-informed approach. A member of our Leaving Care team can also accompany you to medical appointments to ensure you receive the support and advice you need. Useful Contacts and Services for Health and Wellbeing If you need assistance with your health and wellbeing, the following services are available to you: Leaving Care - Duty Support If your Personal Advisor (PA) is unavailable and you need urgent support, call the duty line at 0161 227 3030",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.manchester.gov.uk_info_500319_care_leavers_8899_managing_your_health_and_well_being.txt",
+        "level": "level_2",
+        "source": "https://www.manchester.gov.uk/info/500319/care_leavers/8899/managing_your_health_and_well_being",
+        "source_url": "https://www.manchester.gov.uk/info/500319/care_leavers/8899/managing_your_health_and_well_being",
+        "total_chunks": 6,
+        "type": "web_page"
+      },
+      "id": "50821870-259f-437e-b0a8-31bbec9ce3fb",
+      "distance": 0.8495325446128845,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.09514023661613465,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". We understand the challenges faced by young people who care, and our specialist workers can give you advice and support as well as putting you in touch with other young carers. Make contact Manchester City Council and the NHS work in partnership with \u2018 Carers Manchester \u2019 a network of local Carers organisations, and we encourage all people with a caring responsibility to make contact with the Carers Manchester Contact Point , to find out what support would be helpful to you, now or in the future. You can also join the Carers Register so that we can keep in touch about local services and support. Learn more and\u00a0get in touch: visit www.carersmanchester.org.uk for information speak to one our specialist Carers Contact Advisors on 0161 543 8000 (Monday to\u00a0Friday 10am to\u00a04pm except bank holidays)",
+      "metadata": {
+        "chunk_id": 3,
+        "filename": "www.manchester.gov.uk_info_200015_advice_for_carers_3649_caring_for_someone.txt",
+        "level": "level_2",
+        "source": "http://www.manchester.gov.uk/info/200015/advice_for_carers/3649/caring_for_someone",
+        "source_url": "http://www.manchester.gov.uk/info/200015/advice_for_carers/3649/caring_for_someone",
+        "total_chunks": 5,
+        "type": "web_page"
+      },
+      "id": "3c2ab6a8-b82d-48c0-82b6-ab5c54d35fa0",
+      "distance": 0.864147424697876,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.09075577259063722,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". We understand the challenges faced by young people who care, and our specialist workers can give you advice and support as well as putting you in touch with other young carers. Make contact Manchester City Council and the NHS work in partnership with \u2018 Carers Manchester \u2019 a network of local Carers organisations, and we encourage all people with a caring responsibility to make contact with the Carers Manchester Contact Point , to find out what support would be helpful to you, now or in the future. You can also join the Carers Register so that we can keep in touch about local services and support. Learn more and\u00a0get in touch: visit www.carersmanchester.org.uk for information speak to one our specialist Carers Contact Advisors on 0161 543 8000 (Monday to\u00a0Friday 10am to\u00a04pm except bank holidays)",
+      "metadata": {
+        "chunk_id": 3,
+        "filename": "www.manchester.gov.uk_info_200015_carers_3649_caring_for_someone.txt",
+        "level": "level_2",
+        "source": "http://www.manchester.gov.uk/info/200015/carers/3649/caring_for_someone",
+        "source_url": "http://www.manchester.gov.uk/info/200015/carers/3649/caring_for_someone",
+        "total_chunks": 5,
+        "type": "web_page"
+      },
+      "id": "1c9dd39b-a2fe-4661-b5c8-131b18e6c7f0",
+      "distance": 0.8641474843025208,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.09075575470924377,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Grants for Care Leavers: Help accessing financial grants available to care leavers. Important: Keep all your important documents safe. We cannot fund replacements if they are lost. Financial Support for Young People Leaving Care We have a comprehensive financial support package for young people leaving care, which is detailed in our Leaving Care Financial Policy . Manchester Leaving Care Financial Entitlements Money Management Advice: Guidance on managing your finances and budgeting for education, employment, and independent living. Maintenance Allowance: Receive \u00a358.90 per week if you are 16 or 17 years old, or a relevant care leaver living independently or semi-independently. Clothing Allowance: For 16 and 17-year-olds living in semi-independent accommodation. Benefits Support: Assistance in claiming eligible benefits up to six weeks before your 18th birthday if you are in education or have a low income. Bridging payments may be available",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.manchester.gov.uk_info_500319_care_leavers_8897_money_matters.txt",
+        "level": "level_2",
+        "source": "https://www.manchester.gov.uk/info/500319/care_leavers/8897/money_matters",
+        "source_url": "https://www.manchester.gov.uk/info/500319/care_leavers/8897/money_matters",
+        "total_chunks": 6,
+        "type": "web_page"
+      },
+      "id": "d928812e-585e-46cc-ae02-0b05e5a884e3",
+      "distance": 0.8701502084732056,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.08895493745803834,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Social services Caring for someone Covid-19 Additional guidance and support is available through the Carers Manchester website. Ongoing support for carers Caring can take on many forms, including preparing meals, doing shopping, taking someone to appointments, managing finances, bathing or toileting, giving medication or emotional support, or doing laundry.\u00a0\u00a0People of all ages can become carers, including children and young people. If you support a relative, friend or neighbour, because of their age, physical or learning disability, mental illness or substance misuse (drugs or alcohol) and you are not paid for the support you provide, then you can get advice, support and training to help you in your caring role. Support from us We know caring brings many rewards, but it can also be stressful and may affect your own health",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.manchester.gov.uk_info_200015_carers_3649_caring_for_someone.txt",
+        "level": "level_2",
+        "source": "http://www.manchester.gov.uk/info/200015/carers/3649/caring_for_someone",
+        "source_url": "http://www.manchester.gov.uk/info/200015/carers/3649/caring_for_someone",
+        "total_chunks": 5,
+        "type": "web_page"
+      },
+      "id": "4ab3a5d1-bb0e-4e41-87be-45c31113bfb2",
+      "distance": 0.886677622795105,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.0839967131614685,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Social services Caring for someone Covid-19 Additional guidance and support is available through the Carers Manchester website. Ongoing support for carers Caring can take on many forms, including preparing meals, doing shopping, taking someone to appointments, managing finances, bathing or toileting, giving medication or emotional support, or doing laundry.\u00a0\u00a0People of all ages can become carers, including children and young people. If you support a relative, friend or neighbour, because of their age, physical or learning disability, mental illness or substance misuse (drugs or alcohol) and you are not paid for the support you provide, then you can get advice, support and training to help you in your caring role. Support from us We know caring brings many rewards, but it can also be stressful and may affect your own health",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.manchester.gov.uk_info_200015_advice_for_carers_3649_caring_for_someone.txt",
+        "level": "level_2",
+        "source": "http://www.manchester.gov.uk/info/200015/advice_for_carers/3649/caring_for_someone",
+        "source_url": "http://www.manchester.gov.uk/info/200015/advice_for_carers/3649/caring_for_someone",
+        "total_chunks": 5,
+        "type": "web_page"
+      },
+      "id": "b69891df-332a-4fe7-91f6-f3d06519ccc4",
+      "distance": 0.8866779208183289,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.08399662375450134,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    }
+  ],
+  "context": "[Document 1] From https://www (web_page) - URL: https://www.manchester.gov.uk/info/200091/life_over_50/8417/help_for_older_people/2 [Retrieved via: semantic_original]:\nPeople and communities Help for older people What you are entitled to when you retire Other support Other support Winterwise Winterwise is a guide to keeping well during the winter. Created by The Greater Manchester Ageing Hub and Independent Age, it has three key themes: Stay warm: financial support older people can get to help with energy costs Stay safe: home safety advice for older people (such as fire safety, how to spot and report scams and what to do if you fall) Stay well: tips and advice on mental health and wellbeing, eating well and keeping active You can access the Winterwise guide online. Or call 0800 319 6789 (quote 'free guide 338'). Winter health The NHS website has health and wellbeing advice about how to stay well in winter. Manchester care and repair Manchester care and repair is a charity that helps to maintain homes for older people. And they help people to get the support they need in later life or after an illness. They also help with emergency home repairs (such as no heating)\n\n[Document 2] From http://www (web_page) - URL: http://www.manchester.gov.uk/info/200048/health_and_wellbeing/4520/choosing_and_paying_for_a_care_home [Retrieved via: semantic_original]:\nHealth and wellbeing Care homes If you're starting to think about finding a care home for yourself or a friend or family member, speak to our contact service first as we can look at all your needs in one go, and there might be other alternatives to help you stay in your own home. There are also several other options for housing for older people , which can be suitable when you can't manage in your own home, but don't need the round-the-clock support offered by care or\u00a0nursing homes. You can find out about care homes and the services they offer by searching on Help and Support Manchester .\u00a0This includes\u00a0their latest assessment by the Care Quality Commission ,\u00a0a national organisation charged with monitoring the quality of all care services\n\n[Document 3] From https://www (web_page) - URL: https://www.manchester.gov.uk/info/500319/care_leavers/8927/rights_and_entitlements [Retrieved via: semantic_original]:\n. For most young people Personal Advisers have a duty to keep in touch regularly until the age of 21 years and this is something that you can ask to continue after this age also. We will consider the support needs of all Manchester care leavers in the city when offering support and assistance to achieve and succeed involving all relevant services and professionals. What you're entitled to ask for Health and wellbeing Recognition of your care experience in your adult health records so this can be supported in appointments or when you are accessing support. Access to Manchester MIND counselling via the Community Hub. Access to 42nd Street emotional health and wellbeing support via the Community Hub. Access to all health records and a final health plan when your turn 18 years. Support to access to leisure activities and local clubs. Dedicated support for young adults 18+ to keep healthy and active as part of the Community Hub. Housing Access to funds to support setting up your first home\n\n[Document 4] From https://www (web_page) - URL: https://www.manchester.gov.uk/info/200008/benefits_and_support/6302/apply_for_a_loan_if_you_are_in_financial_crisis [Retrieved via: semantic_original]:\n. You can apply for a cash grant of between \u00a330 and \u00a360 if you are in crisis or have an emergency that's out of your control. To be eligible you must: live in the area covered by Manchester City Council ; and be 16 or over; and have no capital or savings; and get one of the following benefits; Income Support, Jobseeker's Allowance, Employment and Support Allowance, Universal Credit\u00a0or Guaranteed Pension Credit not be experiencing hardship because of a decision by the Department of Work and Pensions (if you are, visit the DWP website or call 0345 608 8545); and not have already received a cash grant within the last 12 months, or We are also temporarily offering support\u00a0to carers, including households where a child or young person is the carer. The carer does not need to meet the eligibility criteria\n\n[Document 5] From https://www (web_page) - URL: https://www.manchester.gov.uk/info/500319/care_leavers/8899/managing_your_health_and_well_being [Retrieved via: semantic_original]:\n. Support for Young Parents: Additional resources if you\u2019re a young parent. Ongoing Support: Continued assistance beyond age 18, involving Adult Social Care if needed. Leisure Facilities: Free or discounted entry to select leisure facilities in Manchester. Community Events: Access social and community events to keep you active and connected with others. Trauma-Informed Support: Opportunities to build skills and reflect on your journey using a trauma-informed approach. A member of our Leaving Care team can also accompany you to medical appointments to ensure you receive the support and advice you need. Useful Contacts and Services for Health and Wellbeing If you need assistance with your health and wellbeing, the following services are available to you: Leaving Care - Duty Support If your Personal Advisor (PA) is unavailable and you need urgent support, call the duty line at 0161 227 3030\n\n[Document 6] From http://www (web_page) - URL: http://www.manchester.gov.uk/info/200015/advice_for_carers/3649/caring_for_someone [Retrieved via: semantic_original]:\n. We understand the challenges faced by young people who care, and our specialist workers can give you advice and support as well as putting you in touch with other young carers. Make contact Manchester City Council and the NHS work in partnership with \u2018 Carers Manchester \u2019 a network of local Carers organisations, and we encourage all people with a caring responsibility to make contact with the Carers Manchester Contact Point , to find out what support would be helpful to you, now or in the future. You can also join the Carers Register so that we can keep in touch about local services and support. Learn more and\u00a0get in touch: visit www.carersmanchester.org.uk for information speak to one our specialist Carers Contact Advisors on 0161 543 8000 (Monday to\u00a0Friday 10am to\u00a04pm except bank holidays)\n\n[Document 7] From http://www (web_page) - URL: http://www.manchester.gov.uk/info/200015/carers/3649/caring_for_someone [Retrieved via: semantic_original]:\n. We understand the challenges faced by young people who care, and our specialist workers can give you advice and support as well as putting you in touch with other young carers. Make contact Manchester City Council and the NHS work in partnership with \u2018 Carers Manchester \u2019 a network of local Carers organisations, and we encourage all people with a caring responsibility to make contact with the Carers Manchester Contact Point , to find out what support would be helpful to you, now or in the future. You can also join the Carers Register so that we can keep in touch about local services and support. Learn more and\u00a0get in touch: visit www.carersmanchester.org.uk for information speak to one our specialist Carers Contact Advisors on 0161 543 8000 (Monday to\u00a0Friday 10am to\u00a04pm except bank holidays)\n\n[Document 8] From https://www (web_page) - URL: https://www.manchester.gov.uk/info/500319/care_leavers/8897/money_matters [Retrieved via: semantic_original]:\n. Grants for Care Leavers: Help accessing financial grants available to care leavers. Important: Keep all your important documents safe. We cannot fund replacements if they are lost. Financial Support for Young People Leaving Care We have a comprehensive financial support package for young people leaving care, which is detailed in our Leaving Care Financial Policy . Manchester Leaving Care Financial Entitlements Money Management Advice: Guidance on managing your finances and budgeting for education, employment, and independent living. Maintenance Allowance: Receive \u00a358.90 per week if you are 16 or 17 years old, or a relevant care leaver living independently or semi-independently. Clothing Allowance: For 16 and 17-year-olds living in semi-independent accommodation. Benefits Support: Assistance in claiming eligible benefits up to six weeks before your 18th birthday if you are in education or have a low income. Bridging payments may be available\n\n[Document 9] From http://www (web_page) - URL: http://www.manchester.gov.uk/info/200015/carers/3649/caring_for_someone [Retrieved via: semantic_original]:\nSocial services Caring for someone Covid-19 Additional guidance and support is available through the Carers Manchester website. Ongoing support for carers Caring can take on many forms, including preparing meals, doing shopping, taking someone to appointments, managing finances, bathing or toileting, giving medication or emotional support, or doing laundry.\u00a0\u00a0People of all ages can become carers, including children and young people. If you support a relative, friend or neighbour, because of their age, physical or learning disability, mental illness or substance misuse (drugs or alcohol) and you are not paid for the support you provide, then you can get advice, support and training to help you in your caring role. Support from us We know caring brings many rewards, but it can also be stressful and may affect your own health\n\n[Document 10] From http://www (web_page) - URL: http://www.manchester.gov.uk/info/200015/advice_for_carers/3649/caring_for_someone [Retrieved via: semantic_original]:\nSocial services Caring for someone Covid-19 Additional guidance and support is available through the Carers Manchester website. Ongoing support for carers Caring can take on many forms, including preparing meals, doing shopping, taking someone to appointments, managing finances, bathing or toileting, giving medication or emotional support, or doing laundry.\u00a0\u00a0People of all ages can become carers, including children and young people. If you support a relative, friend or neighbour, because of their age, physical or learning disability, mental illness or substance misuse (drugs or alcohol) and you are not paid for the support you provide, then you can get advice, support and training to help you in your caring role. Support from us We know caring brings many rewards, but it can also be stressful and may affect your own health\n",
+  "answer": "If you are caring for your elderly father with Parkinson's in Manchester and need respite care options, you can contact **Carers Manchester** for support and advice tailored to your needs. They work in partnership with Manchester City Council and the NHS to provide a network of local carers' organizations.\n\n- **Contact Carers Manchester**: You can reach them by visiting [www.carersmanchester.org.uk](http://www.carersmanchester.org.uk) or by calling their Contact Advisors at **0161 543 8000** (Monday to Friday, 10 am to 4 pm, except bank holidays).\n\n- **Join the Carers Register**: This will allow you to stay informed about local services and support that may be beneficial to you now or in the future.\n\n- **Explore Respite Care Options**: While specific respite care services are not detailed in the documents, contacting Carers Manchester will help you explore available options, including short-term care facilities or in-home respite services.\n\nFor more detailed information and to discuss your specific situation, reaching out to Carers Manchester is a practical next step.",
+  "metrics": {
+    "duration_seconds": 9.798794984817505,
+    "retrieved_docs_count": 10,
+    "query_length": 149,
+    "answer_length": 1084,
+    "retrieval_method": "enhanced",
+    "context_utilization": 0.145610278372591,
+    "citations_count": 1,
+    "has_citations": true,
+    "query_relevance": 0.5909090909090909,
+    "unique_retrieval_methods": 1,
+    "budget_documents_retrieved": 0,
+    "retrieval_methods_used": [
+      "semantic_original"
+    ],
+    "retrieval_method_distribution": {
+      "semantic_original": 10
+    }
+  },
+  "local_authority": "manchester",
+  "query_id": "scn_13",
+  "retrieval_method": "enhanced",
+  "run_id": "c938b950-05e5-4598-9e78-be4643903d01",
+  "trace": {
+    "run_id": "c938b950-05e5-4598-9e78-be4643903d01",
+    "project": "social_care_rag",
+    "url": "https://eu.smith.langchain.com/o/me/runs/c938b950-05e5-4598-9e78-be4643903d01"
+  },
+  "test_metadata": {
+    "local_authority": "manchester",
+    "query_id": "scn_13",
+    "query_category": "carer_support_scenarios",
+    "prompt_variation": "optimized",
+    "prompt_template": "\nPlease answer the following question about social care services in UK local authorities based only on the information in the provided documents.\n\nQuestion: {query}\n\nContext from relevant documents:\n{context}\n\nInstructions:\n1. Provide a clear, direct answer that would help someone needing this information. If information isn't available, state: \"The available documents don't provide specific information about [aspect].\"\n\n2. Synthesize information from ALL relevant documents to provide the most complete answer rather than analyzing documents individually.\n\n3. Structure your response with:\n   - A concise 1-2 sentence summary first\n   - Relevant details organized in short, clear paragraphs\n   - Bullet points for lists or step-by-step information\n   - Bold text for key information the user should notice\n\n4. For financial information:\n   - Include exact figures, time periods, and what the funding covers\n   - Present financial data clearly: \"The adult social care budget is **\u00a3X million** for [time period]\"\n\n5. Always include practical next steps or resources:\n   - Provide contact information, URLs, or application methods mentioned in the documents\n   - Suggest where the person could find more information\n\n6. When citing sources, use a simple format: \"According to [document name/description]\" or include URLs where available.\n\nAnswer:\n",
+    "processing_time": 9.800482034683228,
+    "timestamp": "2025-08-19T14:06:49.532811",
+    "top_k": 10
+  }
+}

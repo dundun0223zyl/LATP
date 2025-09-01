@@ -1,0 +1,275 @@
+{
+  "query": "What is the process for requesting a social care assessment in leeds?",
+  "retrieved_documents": [
+    {
+      "content": "Get a carer's assessment If you take care of someone who couldn't manage without your help, you are entitled to a carer's assessment. Asking for help If you care for someone and feel like you need support or a rest, you can ask the adult social care team for a carer's assessment. This is a chance for you to have a conversation about how your caring responsibilities affect your wellbeing and quality of life. It is not to judge the care that you provide, but to see how we can help make your life easier. You can ask for an assessment at any time by calling the adult social care team on: 0113 222 4401 (weekdays 9am to 5pm, except Wednesdays from 10am) If you have a social worker, you can ask them to arrange it\u00a0for you. For information, advice and support on preparing for a carer's assessment, visit Carer's Leeds or call 0113 380 4300",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.leeds.gov.uk_adult-social-care_looking-after-someone_get-a-carers-assessment.txt",
+        "level": "level_2",
+        "source": "https://www.leeds.gov.uk/adult-social-care/looking-after-someone/get-a-carers-assessment",
+        "source_url": "https://www.leeds.gov.uk/adult-social-care/looking-after-someone/get-a-carers-assessment",
+        "total_chunks": 3,
+        "type": "web_page"
+      },
+      "id": "4ac702fa-fe50-418f-a1e2-374fd5ef5c2f",
+      "distance": 0.5064908266067505,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.19805275201797484,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Needs assessments Find out what to expect when you have a needs assessment, including where it happens and what you'll talk about. What it is and how to get one When you contact us for help, we may arrange for you to speak with a social worker, wellbeing worker or occupational therapist. They\u2019ll have a conversation with you to find out what kind of support\u00a0will help you best. This is called a needs assessment. Get a needs assessment You can call us to talk about getting your need assessed. Find out how to contact us on how to get help . Where you\u2019ll be assessed The assessment can be in your own home or we may offer you an appointment at a talking point. Talking points\u00a0are sessions held all over Leeds in places like community hubs and One Stop Centres. If you can travel, it\u2019s often easier to get a talking point appointment than it is to get a home appointment. Bringing someone with you You can have someone with you for support during your assessment. This could be a carer, friend or family member",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.leeds.gov.uk_adult-social-care_how-to-get-adult-social-care-and-support_needs-assessments.txt",
+        "level": "level_2",
+        "source": "https://www.leeds.gov.uk/adult-social-care/how-to-get-adult-social-care-and-support/needs-assessments",
+        "source_url": "https://www.leeds.gov.uk/adult-social-care/how-to-get-adult-social-care-and-support/needs-assessments",
+        "total_chunks": 6,
+        "type": "web_page"
+      },
+      "id": "d19a9927-41fe-4da9-9500-e16f5456da51",
+      "distance": 0.5411392450332642,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.18765822649002073,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". How to get support You will need a social worker to make a direct referral to us. Or you can contact us for a conversation about your needs. Contact us For a referral to the service, please call the Leeds City Council contact centre. Phone 0113 222 4401 Our three schemes: Cardinal Court Cardinal Walk, Beeston, LS11 8HP 0113 535 2506 cardinal.courtenquiries@leeds.gov.uk Rossefield Manor Rossefield Lawn, Bramley, LS13 3TG 0113 535 2129 Woodview Eastwood Drive, LS14 5HU 0113 535 2122 Find more information on other Leeds City Council extra care housing developments . Give feedback and let us know if this page was helpful",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.leeds.gov.uk_adult-social-care_care-delivery-service_extra-care-service.txt",
+        "level": "level_2",
+        "source": "https://www.leeds.gov.uk/adult-social-care/care-delivery-service/extra-care-service",
+        "source_url": "https://www.leeds.gov.uk/adult-social-care/care-delivery-service/extra-care-service",
+        "total_chunks": 3,
+        "type": "web_page"
+      },
+      "id": "50203c26-9f3c-495c-8b8f-5cf39854b5b7",
+      "distance": 0.6421430110931396,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1573570966720581,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Find out more about arranging your care with direct payments . Direct payment support We can support, advise and provide information about employing a PA, however you fund your\u00a0support. Leeds Direct Payment and PA Support Hub\u00a0offer the following services: help with PA recruitment (including our PA register) support planning service support for employers access to training for PA's and Employers To use our service, you can complete the online referral form , or contact us by: Email: LeedsDPandPAsupporthub@leeds.gov.uk Phone: 0113 378 3936 Social workers or professionals involved in your support can also make a referral for you. You will need to sign a service agreement and agree to the terms and conditions of the service before the service starts. These documents will be sent to you once a referral has been accepted. If you are supported by Leeds Social Care (Adults or Children's) or the NHS, then our services are paid for by them. If you fund your own care, you can also use the service as a self-funder",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.leeds.gov.uk_adult-social-care_help-at-home_get-a-personal-assistant.txt",
+        "level": "level_2",
+        "source": "https://www.leeds.gov.uk/adult-social-care/help-at-home/get-a-personal-assistant",
+        "source_url": "https://www.leeds.gov.uk/adult-social-care/help-at-home/get-a-personal-assistant",
+        "total_chunks": 13,
+        "type": "web_page"
+      },
+      "id": "0c689a48-d6bf-4236-9e52-f3effdd2bdb8",
+      "distance": 0.6461809277534485,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.15614572167396545,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". During the call, we will ask questions about the person who needs support \u2013 whether it\u2019s you or someone else. Conversations can take up to 30 minutes. Tell us as much as you can, including: name date of birth address doctor\u2019s contact details next of kin contact details accessibility needs, if they have any We may also ask about: what has changed what a typical day looks like who is around to help, including friends, family and neighbours what you are hoping to get from us Phone 0113 222 4401 (Weekdays 9am to 5pm\u200b\u200b, except Wednesdays when we're open from 10am.) Call with SignVideo live BSL interpretation Urgent out of hours: social care emergency contacts Email: leedsadults@leeds.gov.uk What happens next We can give help and advice over the phone, and we might make a referral for\u00a0a needs assessment with a member of our team. They will have a conversation with the person who needs support to make a plan to help them live well. Find out what happens in a needs assessment",
+      "metadata": {
+        "chunk_id": 4,
+        "filename": "www.leeds.gov.uk_adult-social-care_how-to-get-adult-social-care-and-support_how-to-get-help-from-adu.txt",
+        "level": "level_2",
+        "source": "https://www.leeds.gov.uk/adult-social-care/how-to-get-adult-social-care-and-support/how-to-get-help-from-adult-social-care",
+        "source_url": "https://www.leeds.gov.uk/adult-social-care/how-to-get-adult-social-care-and-support/how-to-get-help-from-adult-social-care",
+        "total_chunks": 7,
+        "type": "web_page"
+      },
+      "id": "4a12ecca-4354-4407-9c00-d5b9c971828c",
+      "distance": 0.6955349445343018,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.14133951663970948,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Adult social care Adult social care is also known as social services. We help adults who need support to live well. It can be long term or just until they are doing better, our aim is to always support people to be as independent as possible. In Leeds, we want every person with care and support needs to be able to live the life they want to live, doing what\u2019s important to them in good homes and in caring communities. Increase your independence and keep living safely in your home, find out about community groups and organisations, services, equipment and general information on Leeds Directory",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.leeds.gov.uk_adult-social-care.txt",
+        "level": "level_0",
+        "source": "https://www.leeds.gov.uk/adult-social-care",
+        "source_url": "https://www.leeds.gov.uk/adult-social-care",
+        "total_chunks": 6,
+        "type": "web_page"
+      },
+      "id": "96a66e8e-1501-4e77-86d7-b1959aa9c4b4",
+      "distance": 0.6968200206756592,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.14095399379730225,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Find out how we can help you to maintain good health and wellbeing Mental health support (Care Delivery Service) Find information on temporary housing and support for people with mental health needs Recovery hubs Support for adults who need temporary care to promote faster recovery from illness, prevent unnecessary hospital admission and maximise independent living Living with dementia Find help and support if you or someone you know is living with dementia The community wellbeing hub Health, wellbeing and happiness for over 50s in the Black, Asian, minority ethnic community Moving from children's to adult's social care Support for young people moving into adulthood and adult social services Age friendly Leeds Read what we're doing to make Leeds a great city to grow old in Compliments and complaints Let us know about something we have done well or when you are not happy with us Have your say Get involved in shaping care and health developments in Leeds CQC ratings Find out how our services are rated by the",
+      "metadata": {
+        "chunk_id": 4,
+        "filename": "www.leeds.gov.uk_adult-social-care.txt",
+        "level": "level_0",
+        "source": "https://www.leeds.gov.uk/adult-social-care",
+        "source_url": "https://www.leeds.gov.uk/adult-social-care",
+        "total_chunks": 6,
+        "type": "web_page"
+      },
+      "id": "fea7c1e0-d2f5-4a21-838e-9a8c5f61fc9a",
+      "distance": 0.7075371742248535,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.13773884773254394,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Make sure you select 'Adult social care' when asked 'What does this relate to?'. Make a compliment or complaint Phone 0113 222 4405 (Monday, Wednesday and\u00a0Friday, 9am to 5pm) Email Complaints.SOCS@leeds.gov.uk Post The Complaints Manager Leeds City Council Adults and Health Complaints 5th Floor East Merrion House 110 Merrion Centre Leeds LS2 8BB BSL interpretation Use SignVideo live In person Visit one of our offices at a community hub . Alternative formats Easy Read We have produced an Easy Read leaflet that tells you how to tell us your thoughts about health and social care services in Leeds. Please email Complaints.SOCS@leeds.gov.uk or call 0113 222 4405 if you would like to receive an Easy Read leaflet electronically as a PDF file or a printed copy in the post. Other available formats Let us know if you need information in: braille large print audio tape an alternative language Give feedback and let us know if this page was helpful",
+      "metadata": {
+        "chunk_id": 5,
+        "filename": "www.leeds.gov.uk_adult-social-care_adults-and-health-compliments-and-complaints.txt",
+        "level": "level_1",
+        "source": "https://www.leeds.gov.uk/adult-social-care/adults-and-health-compliments-and-complaints",
+        "source_url": "https://www.leeds.gov.uk/adult-social-care/adults-and-health-compliments-and-complaints",
+        "total_chunks": 6,
+        "type": "web_page"
+      },
+      "id": "7269a934-c37c-48d6-b637-fed6637b649b",
+      "distance": 0.7083043456077576,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.13750869631767274,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". How to get support If you have a social worker, they can make a direct referral to us. Or you can contact us for a conversation about your needs by phone or social media. Contact us Phone 0113 378 4892 Email Communityinfo@leeds.gov.uk Post Reginald Terrace Chapeltown Leeds LS7 3EZ View on Google maps \u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b Give feedback and let us know if this page was helpful",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.leeds.gov.uk_adult-social-care_community-wellbeing-hub.txt",
+        "level": "level_1",
+        "source": "https://www.leeds.gov.uk/adult-social-care/community-wellbeing-hub",
+        "source_url": "https://www.leeds.gov.uk/adult-social-care/community-wellbeing-hub",
+        "total_chunks": 3,
+        "type": "web_page"
+      },
+      "id": "deef356e-9a49-4cbe-a21b-af88b6f1c2a5",
+      "distance": 0.6934419274330139,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.12886742177009583,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". One Service User, who was a wheelchair was discharged to a care home, but the doors were too narrow which resulted in them being confined to their room. Poor care was also a recurring theme. Complaints were made about the lack of rehabilitation due to demands on Occupational Therapists and Physiotherapy. One family member pointed out that if the mobility of a patient can be improved, they would require less support when they are discharged. Next steps The group continues to work on developing a system which can draw together lessons learned from people\u2019s experiences of health and social care across Leeds which should: Highlight more clearly the trends in city wide complaints and develop a process to draw together and share lessons learned from the people\u2019s experience of health and social care across Leeds. To continue to challenge that learning is not done in \u2018silos\u2019. This means greater drawing out of actions and recommendations for improvement which relate to improving systems across Leeds",
+      "metadata": {
+        "chunk_id": 40,
+        "filename": "www.leeds.gov.uk_adult-social-care_adults-and-health-compliments-and-complaints_adult-social-care-co.txt",
+        "level": "level_2",
+        "source": "https://www.leeds.gov.uk/adult-social-care/adults-and-health-compliments-and-complaints/adult-social-care-compliments-and-complaints-annual-report",
+        "source_url": "https://www.leeds.gov.uk/adult-social-care/adults-and-health-compliments-and-complaints/adult-social-care-compliments-and-complaints-annual-report",
+        "total_chunks": 113,
+        "type": "web_page"
+      },
+      "id": "61dc788e-2f91-4cec-abba-35db078d8a06",
+      "distance": 0.7402601838111877,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.12792194485664368,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    }
+  ],
+  "context": "[Document 1] From https://www (web_page) - URL: https://www.leeds.gov.uk/adult-social-care/looking-after-someone/get-a-carers-assessment [Retrieved via: semantic_original]:\nGet a carer's assessment If you take care of someone who couldn't manage without your help, you are entitled to a carer's assessment. Asking for help If you care for someone and feel like you need support or a rest, you can ask the adult social care team for a carer's assessment. This is a chance for you to have a conversation about how your caring responsibilities affect your wellbeing and quality of life. It is not to judge the care that you provide, but to see how we can help make your life easier. You can ask for an assessment at any time by calling the adult social care team on: 0113 222 4401 (weekdays 9am to 5pm, except Wednesdays from 10am) If you have a social worker, you can ask them to arrange it\u00a0for you. For information, advice and support on preparing for a carer's assessment, visit Carer's Leeds or call 0113 380 4300\n\n[Document 2] From https://www (web_page) - URL: https://www.leeds.gov.uk/adult-social-care/how-to-get-adult-social-care-and-support/needs-assessments [Retrieved via: semantic_original]:\nNeeds assessments Find out what to expect when you have a needs assessment, including where it happens and what you'll talk about. What it is and how to get one When you contact us for help, we may arrange for you to speak with a social worker, wellbeing worker or occupational therapist. They\u2019ll have a conversation with you to find out what kind of support\u00a0will help you best. This is called a needs assessment. Get a needs assessment You can call us to talk about getting your need assessed. Find out how to contact us on how to get help . Where you\u2019ll be assessed The assessment can be in your own home or we may offer you an appointment at a talking point. Talking points\u00a0are sessions held all over Leeds in places like community hubs and One Stop Centres. If you can travel, it\u2019s often easier to get a talking point appointment than it is to get a home appointment. Bringing someone with you You can have someone with you for support during your assessment. This could be a carer, friend or family member\n\n[Document 3] From https://www (web_page) - URL: https://www.leeds.gov.uk/adult-social-care/care-delivery-service/extra-care-service [Retrieved via: semantic_original]:\n. How to get support You will need a social worker to make a direct referral to us. Or you can contact us for a conversation about your needs. Contact us For a referral to the service, please call the Leeds City Council contact centre. Phone 0113 222 4401 Our three schemes: Cardinal Court Cardinal Walk, Beeston, LS11 8HP 0113 535 2506 cardinal.courtenquiries@leeds.gov.uk Rossefield Manor Rossefield Lawn, Bramley, LS13 3TG 0113 535 2129 Woodview Eastwood Drive, LS14 5HU 0113 535 2122 Find more information on other Leeds City Council extra care housing developments . Give feedback and let us know if this page was helpful\n\n[Document 4] From https://www (web_page) - URL: https://www.leeds.gov.uk/adult-social-care/help-at-home/get-a-personal-assistant [Retrieved via: semantic_original]:\n. Find out more about arranging your care with direct payments . Direct payment support We can support, advise and provide information about employing a PA, however you fund your\u00a0support. Leeds Direct Payment and PA Support Hub\u00a0offer the following services: help with PA recruitment (including our PA register) support planning service support for employers access to training for PA's and Employers To use our service, you can complete the online referral form , or contact us by: Email: LeedsDPandPAsupporthub@leeds.gov.uk Phone: 0113 378 3936 Social workers or professionals involved in your support can also make a referral for you. You will need to sign a service agreement and agree to the terms and conditions of the service before the service starts. These documents will be sent to you once a referral has been accepted. If you are supported by Leeds Social Care (Adults or Children's) or the NHS, then our services are paid for by them. If you fund your own care, you can also use the service as a self-funder\n\n[Document 5] From https://www (web_page) - URL: https://www.leeds.gov.uk/adult-social-care/how-to-get-adult-social-care-and-support/how-to-get-help-from-adult-social-care [Retrieved via: semantic_original]:\n. During the call, we will ask questions about the person who needs support \u2013 whether it\u2019s you or someone else. Conversations can take up to 30 minutes. Tell us as much as you can, including: name date of birth address doctor\u2019s contact details next of kin contact details accessibility needs, if they have any We may also ask about: what has changed what a typical day looks like who is around to help, including friends, family and neighbours what you are hoping to get from us Phone 0113 222 4401 (Weekdays 9am to 5pm\u200b\u200b, except Wednesdays when we're open from 10am.) Call with SignVideo live BSL interpretation Urgent out of hours: social care emergency contacts Email: leedsadults@leeds.gov.uk What happens next We can give help and advice over the phone, and we might make a referral for\u00a0a needs assessment with a member of our team. They will have a conversation with the person who needs support to make a plan to help them live well. Find out what happens in a needs assessment\n\n[Document 6] From https://www (web_page) - URL: https://www.leeds.gov.uk/adult-social-care [Retrieved via: semantic_original]:\nAdult social care Adult social care is also known as social services. We help adults who need support to live well. It can be long term or just until they are doing better, our aim is to always support people to be as independent as possible. In Leeds, we want every person with care and support needs to be able to live the life they want to live, doing what\u2019s important to them in good homes and in caring communities. Increase your independence and keep living safely in your home, find out about community groups and organisations, services, equipment and general information on Leeds Directory\n\n[Document 7] From https://www (web_page) - URL: https://www.leeds.gov.uk/adult-social-care [Retrieved via: semantic_original]:\n. Find out how we can help you to maintain good health and wellbeing Mental health support (Care Delivery Service) Find information on temporary housing and support for people with mental health needs Recovery hubs Support for adults who need temporary care to promote faster recovery from illness, prevent unnecessary hospital admission and maximise independent living Living with dementia Find help and support if you or someone you know is living with dementia The community wellbeing hub Health, wellbeing and happiness for over 50s in the Black, Asian, minority ethnic community Moving from children's to adult's social care Support for young people moving into adulthood and adult social services Age friendly Leeds Read what we're doing to make Leeds a great city to grow old in Compliments and complaints Let us know about something we have done well or when you are not happy with us Have your say Get involved in shaping care and health developments in Leeds CQC ratings Find out how our services are rated by the\n\n[Document 8] From https://www (web_page) - URL: https://www.leeds.gov.uk/adult-social-care/adults-and-health-compliments-and-complaints [Retrieved via: semantic_original]:\n. Make sure you select 'Adult social care' when asked 'What does this relate to?'. Make a compliment or complaint Phone 0113 222 4405 (Monday, Wednesday and\u00a0Friday, 9am to 5pm) Email Complaints.SOCS@leeds.gov.uk Post The Complaints Manager Leeds City Council Adults and Health Complaints 5th Floor East Merrion House 110 Merrion Centre Leeds LS2 8BB BSL interpretation Use SignVideo live In person Visit one of our offices at a community hub . Alternative formats Easy Read We have produced an Easy Read leaflet that tells you how to tell us your thoughts about health and social care services in Leeds. Please email Complaints.SOCS@leeds.gov.uk or call 0113 222 4405 if you would like to receive an Easy Read leaflet electronically as a PDF file or a printed copy in the post. Other available formats Let us know if you need information in: braille large print audio tape an alternative language Give feedback and let us know if this page was helpful\n\n[Document 9] From https://www (web_page) - URL: https://www.leeds.gov.uk/adult-social-care/community-wellbeing-hub [Retrieved via: semantic_original]:\n. How to get support If you have a social worker, they can make a direct referral to us. Or you can contact us for a conversation about your needs by phone or social media. Contact us Phone 0113 378 4892 Email Communityinfo@leeds.gov.uk Post Reginald Terrace Chapeltown Leeds LS7 3EZ View on Google maps \u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b Give feedback and let us know if this page was helpful\n\n[Document 10] From https://www (web_page) - URL: https://www.leeds.gov.uk/adult-social-care/adults-and-health-compliments-and-complaints/adult-social-care-compliments-and-complaints-annual-report [Retrieved via: semantic_original]:\n. One Service User, who was a wheelchair was discharged to a care home, but the doors were too narrow which resulted in them being confined to their room. Poor care was also a recurring theme. Complaints were made about the lack of rehabilitation due to demands on Occupational Therapists and Physiotherapy. One family member pointed out that if the mobility of a patient can be improved, they would require less support when they are discharged. Next steps The group continues to work on developing a system which can draw together lessons learned from people\u2019s experiences of health and social care across Leeds which should: Highlight more clearly the trends in city wide complaints and develop a process to draw together and share lessons learned from the people\u2019s experience of health and social care across Leeds. To continue to challenge that learning is not done in \u2018silos\u2019. This means greater drawing out of actions and recommendations for improvement which relate to improving systems across Leeds\n",
+  "answer": "To request a social care assessment in Leeds, you should contact the Leeds City Council's adult social care team. This process involves having a conversation with a social worker, wellbeing worker, or occupational therapist to determine the kind of support that will best help you.\n\n**Steps to Request a Social Care Assessment:**\n\n- **Contact the Adult Social Care Team:** You can call them at **0113 222 4401** during weekdays from 9 am to 5 pm (except Wednesdays when they open at 10 am). Alternatively, you can email them at **leedsadults@leeds.gov.uk**.\n\n- **Provide Necessary Information:** During the call, be prepared to provide details such as the name, date of birth, address, doctor\u2019s contact details, next of kin contact details, and any accessibility needs of the person requiring support.\n\n- **Assessment Locations:** The assessment can take place in your home or at a \"talking point\" session in community hubs or One Stop Centres across Leeds. If you can travel, a talking point appointment might be easier to arrange.\n\n- **Support During Assessment:** You can bring someone with you for support during the assessment, such as a carer, friend, or family member.\n\nFor more detailed information, you can visit the Leeds City Council's website on adult social care: [Leeds Adult Social Care](https://www.leeds.gov.uk/adult-social-care/how-to-get-adult-social-care-and-support/needs-assessments).",
+  "metrics": {
+    "duration_seconds": 14.28004503250122,
+    "retrieved_docs_count": 10,
+    "query_length": 69,
+    "answer_length": 1406,
+    "retrieval_method": "enhanced",
+    "context_utilization": 0.19583333333333333,
+    "citations_count": 0,
+    "has_citations": false,
+    "query_relevance": 0.7142857142857143,
+    "unique_retrieval_methods": 1,
+    "budget_documents_retrieved": 0,
+    "retrieval_methods_used": [
+      "semantic_original"
+    ],
+    "retrieval_method_distribution": {
+      "semantic_original": 10
+    }
+  },
+  "local_authority": "leeds",
+  "query_id": "std_2",
+  "retrieval_method": "enhanced",
+  "run_id": "cf29d2b2-bc96-44ef-874b-53773f07108d",
+  "trace": {
+    "run_id": "cf29d2b2-bc96-44ef-874b-53773f07108d",
+    "project": "social_care_rag",
+    "url": "https://eu.smith.langchain.com/o/me/runs/cf29d2b2-bc96-44ef-874b-53773f07108d"
+  },
+  "test_metadata": {
+    "local_authority": "leeds",
+    "query_id": "std_2",
+    "query_category": "service_standard",
+    "prompt_variation": "optimized",
+    "prompt_template": "\nPlease answer the following question about social care services in UK local authorities based only on the information in the provided documents.\n\nQuestion: {query}\n\nContext from relevant documents:\n{context}\n\nInstructions:\n1. Provide a clear, direct answer that would help someone needing this information. If information isn't available, state: \"The available documents don't provide specific information about [aspect].\"\n\n2. Synthesize information from ALL relevant documents to provide the most complete answer rather than analyzing documents individually.\n\n3. Structure your response with:\n   - A concise 1-2 sentence summary first\n   - Relevant details organized in short, clear paragraphs\n   - Bullet points for lists or step-by-step information\n   - Bold text for key information the user should notice\n\n4. For financial information:\n   - Include exact figures, time periods, and what the funding covers\n   - Present financial data clearly: \"The adult social care budget is **\u00a3X million** for [time period]\"\n\n5. Always include practical next steps or resources:\n   - Provide contact information, URLs, or application methods mentioned in the documents\n   - Suggest where the person could find more information\n\n6. When citing sources, use a simple format: \"According to [document name/description]\" or include URLs where available.\n\nAnswer:\n",
+    "processing_time": 14.284511089324951,
+    "timestamp": "2025-08-19T13:50:22.318060",
+    "top_k": 10
+  }
+}

@@ -1,0 +1,281 @@
+{
+  "query": "I've been told I need a financial assessment for care in durham. What documents should I prepare and how is my contribution calculated?",
+  "retrieved_documents": [
+    {
+      "content": ". To enable us to do this, we will need to carry out a financial assessment. If you have savings or capital over \u00a323,250 you will need to pay the full cost of your care. If you do not want to give us your full financial information, you will be asked to sign a form to say that you do not want a financial assessment and you will need to pay the full cost of your care. The cost will depend on how much care you receive, but the most you will be asked to pay is \u00a3618.14 per week. Arranging a Financial Assessment The Financial Assessment Team will contact you to arrange an appointment to undertake a financial assessment.\u00a0You may be contacted by a member of the financial assessment team by telephone or by our outbound telephone service which is an electronic messaging service.\u00a0 Calls from this service will display the number 0191 313 0650. A financial assessment is the way that we work out whether we can help you with the cost of your care and what the cost will be to you",
+      "metadata": {
+        "chunk_id": 5,
+        "filename": "www.durham.gov.uk_article_29752_Paying-for-extra-care-services.txt",
+        "level": "level_3",
+        "source": "https://www.durham.gov.uk/article/29752/Paying-for-extra-care-services",
+        "source_url": "https://www.durham.gov.uk/article/29752/Paying-for-extra-care-services",
+        "total_chunks": 40,
+        "type": "web_page"
+      },
+      "id": "04fb1e9b-7229-4bbe-8d4f-1056c2e7e905",
+      "distance": 0.6134717464447021,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.16595847606658937,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". If you receive residential care and non-residential care services in the same week, you will pay for both services.\u00a0 However, the most you will have to pay will be no more than the higher of the two contributions. If you pay the full cost of your services, you will pay the full cost of both the respite and non-residential services received. The outcome of your Financial Assessment Where your financial assessment takes place over the telephone, in most cases we will be able to tell you how much you will have to pay on the day of your financial assessment. The Financial Assessment Team will always confirm your contribution in writing and send a copy of the financial assessment form and calculation sheet to you. All contributions will be backdated to the start of your service. If you have a query regarding your contribution you should get in touch with the Financial Assessment Team by telephone on 03000 268 232 or by email at finance.assistants.fateam@durham.gov.uk",
+      "metadata": {
+        "chunk_id": 33,
+        "filename": "www.durham.gov.uk_article_29752_Paying-for-extra-care-services.txt",
+        "level": "level_3",
+        "source": "https://www.durham.gov.uk/article/29752/Paying-for-extra-care-services",
+        "source_url": "https://www.durham.gov.uk/article/29752/Paying-for-extra-care-services",
+        "total_chunks": 40,
+        "type": "web_page"
+      },
+      "id": "5a024742-be79-4fbe-96dc-df3512742391",
+      "distance": 0.6359790563583374,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1592062830924988,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". They will ask you some questions about your situation and help guide you to help and support, and let you know if you are eligible for care and support from us. Eligibility for care and support from us The national eligibility criteria set a minimum threshold for adult care and support.\u00a0The following information may help you understand eligibility for care and support.: Eligibility criteria for adults with care and support needs Eligibility criteria for carers with support needs If you're not eligible If your assessment shows that you are not eligible for support we can support you to find local services and organisations who may be able to help you. Financial support You may be eligible for financial support via Durham County Council to pay towards the cost of your care, however this will depend on the level of care you require and how much you can afford to pay. If you want to apply for help with the cost, you'll need to complete a financial assessment (means test)",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.durham.gov.uk_article_5655_Get-your-care-needs-assessed.txt",
+        "level": "level_1",
+        "source": "https://www.durham.gov.uk/article/5655/Get-your-care-needs-assessed",
+        "source_url": "https://www.durham.gov.uk/article/5655/Get-your-care-needs-assessed",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "dfe05f9d-bdf3-426a-889c-fc8c41e80506",
+      "distance": 0.638426322053326,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.15847210338400222,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". If you want to apply for help with the cost, you'll need to complete a financial assessment (means test). Find out more about paying for your care and support . Carer's assessments If you are a carer over the age of 18 years old and looking after someone who is elderly, ill or disabled then you\u00a0can get your needs assessed to help you get support for your caring role. Contact Social Care Direct Email scd@durham.gov.uk Telephone 03000 267 979 Related information How much you will have to pay for care and support services \ufeff Offsite links Locate - care and support in County Durham Durham Carers Infopoint: get a carers assessment Our regulator: The Care Quality Commission \ufeff A to Z A B C D E F G H I J K L M N O P Q R S T U V W X Y Z",
+      "metadata": {
+        "chunk_id": 3,
+        "filename": "www.durham.gov.uk_article_5655_Get-your-care-needs-assessed.txt",
+        "level": "level_1",
+        "source": "https://www.durham.gov.uk/article/5655/Get-your-care-needs-assessed",
+        "source_url": "https://www.durham.gov.uk/article/5655/Get-your-care-needs-assessed",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "0256d796-99cd-4b94-a9ab-a11697c99130",
+      "distance": 0.6528501747303346,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.15414494758089964,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". The cost will depend on how much care you receive, but the most you will be asked to pay is \u00a3618.14 per week. Arranging a Financial Assessment The Financial Assessment Team will contact you to arrange an appointment to undertake a financial assessment.\u00a0 You may be contacted by a member of the financial assessment team by telephone or by our outbound telephone service which is an electronic messaging service.\u00a0 Calls from this service will display the number 0191 313 0650. A financial assessment is the way that we work out whether we can help you with the cost of your care and what the cost will be to you",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.durham.gov.uk_article_29753_Paying-for-Non-Residential-Services.txt",
+        "level": "level_3",
+        "source": "https://www.durham.gov.uk/article/29753/Paying-for-Non-Residential-Services",
+        "source_url": "https://www.durham.gov.uk/article/29753/Paying-for-Non-Residential-Services",
+        "total_chunks": 40,
+        "type": "web_page"
+      },
+      "id": "35ffc84b-cd4f-46d8-b541-2df4cf4729ae",
+      "distance": 0.680172860622406,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1459481418132782,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". If your income and savings are between \u00a314,250 and \u00a323,250 you will need to make a contribution. If you have less than \u00a314,250 you may not have to pay anything. Understanding your care charges Depending on the type of care and support you're eligible for, different charges may apply: Advice if you are considering long term care in County Durham Choice of residential care and third party top-ups The Deferred Payment Agreement (DPA) Paying for extra care services Paying for Non-Residential Services Paying for residential and nursing care Paying your own care home fees Our charging policies: Charging policy for non residential services ( PDF, 545 KB ) Charging policy for residential care services ( PDF, 494 KB ) Deferred Payment Agreement Policy Residential Care ( PDF, 345 KB ) Help and advice with your benefits Contact Welfare Rights for\u00a0help and advice about any problems",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.durham.gov.uk_article_5765_How-much-you-will-have-to-pay-for-care-and-support-services.txt",
+        "level": "level_2",
+        "source": "https://www.durham.gov.uk/article/5765/How-much-you-will-have-to-pay-for-care-and-support-services",
+        "source_url": "https://www.durham.gov.uk/article/5765/How-much-you-will-have-to-pay-for-care-and-support-services",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "964471fe-ed91-40a1-9cdb-8a900f8fbfe7",
+      "distance": 0.6806309223175049,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.14581072330474854,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". A financial assessment is the way that we work out whether we can help you with the cost of your care and what the cost will be to you. The financial assessment takes place either over the telephone at a time pre-arranged with you or you can choose to complete an on-line financial assessment form.\u00a0\u00a0If you decide you would like to complete an on-line financial assessment form, a member of our Financial Assessment Team will create an on-line account for you on the Council's customer portal.\u00a0 You will then be issued with a link which will enable you to access and complete the on-line financial assessment form. As part of the financial assessment, we will also check to see if there are any other benefits you can apply for.\u00a0 If you want us to, we can either help you to claim these benefits or we can pass your details on to someone else who can help you. During the financial assessment, you can have a member of your family or a friend present if you wish, or you can arrange for someone else to support you",
+      "metadata": {
+        "chunk_id": 3,
+        "filename": "www.durham.gov.uk_article_29753_Paying-for-Non-Residential-Services.txt",
+        "level": "level_3",
+        "source": "https://www.durham.gov.uk/article/29753/Paying-for-Non-Residential-Services",
+        "source_url": "https://www.durham.gov.uk/article/29753/Paying-for-Non-Residential-Services",
+        "total_chunks": 40,
+        "type": "web_page"
+      },
+      "id": "f2ad9bc9-7c4a-4184-a482-763e4d435b04",
+      "distance": 0.6949509978294373,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.14151470065116883,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 9 - FINANCIAL/BUDGET INFORMATION]\n9 \n 10.8  A person considering entering residential care will be advised that they can be \nsupported by a relative, friend or other representative, or by formal support from \nan advocate.  \n \n10.9  The financial assessment process will include a welfare benefit check to ensure \nfull entitlement is being claimed. This will include guidance for making claims. A \nlight touch financial assessment may be undertaken when:  \n \n\u2022  A person\u2019s income and capital can be verified using information \nfrom the Department for Work and Pensions  \n \n\u2022  It has been established they have significant financial resources \nand do not wish to undergo a full financial assessment for personal \nreasons but want to access advice and support from the Council in \nmeeting their needs  \n \n10.10  A reassessment will be carried out each year to recalculate charges. If requested, \nsavings/capital can be reassessed on an ad -hoc basis.  \n \n \n11. Treatment of Income",
+      "metadata": {
+        "chunk_id": 23,
+        "contains_financial_info": true,
+        "download_url": "https://www.durham.gov.uk/media/6426/Charging-policy-for-residential-care-services/pdf/ResidentialCareChargingPolicy.pdf?m=1746100373793",
+        "extraction_method": "PyPDF2",
+        "filename": "ResidentialCareChargingPolicy.pdf",
+        "financial_pages": "[2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]",
+        "level": "level_2",
+        "page_count": 17,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]",
+        "source": "https://www.durham.gov.uk/article/5765/How-much-you-will-have-to-pay-for-care-and-support-services",
+        "source_url": "https://www.durham.gov.uk/article/5765/How-much-you-will-have-to-pay-for-care-and-support-services",
+        "total_chunks": 50,
+        "type": "pdf"
+      },
+      "id": "7f6d5f2c-1bd3-434e-b509-e6053e4a08f8",
+      "distance": 0.7062074542045593,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1381377637386322,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Skip to content Paying for Non-Residential Services If you are receiving non-residential services and we arrange these services for you, you may be entitled to help towards the cost of your care from us. How the cost of your care is calculated The Government has set down very detailed regulations and guidance to calculate an individual's contribution towards the cost of your care, which the council must follow. To enable us to do this, we will need to carry out a financial assessment. If you have savings or capital over \u00a323,250 you will need to pay the full cost of your care. If you do not want to give us your full financial information, you will be asked to sign a form to say that you do not want a financial assessment and you will need to pay the full cost of your care. The cost will depend on how much care you receive, but the most you will be asked to pay is \u00a3618.14 per week",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.durham.gov.uk_article_29753_Paying-for-Non-Residential-Services.txt",
+        "level": "level_3",
+        "source": "https://www.durham.gov.uk/article/29753/Paying-for-Non-Residential-Services",
+        "source_url": "https://www.durham.gov.uk/article/29753/Paying-for-Non-Residential-Services",
+        "total_chunks": 40,
+        "type": "web_page"
+      },
+      "id": "3e3c177e-8682-4162-9f1e-a3115d274e60",
+      "distance": 0.7112757563591003,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1366172730922699,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". If you have a query regarding your contribution you should get in touch with the Financial Assessment Team by telephone on 03000 268 232 or by email at finance.assistants.fateam@durham.gov.uk . If you are unhappy with the outcome of your financial assessment, you may appeal in writing to the Financial Assessment Team. If you are unhappy with the outcome of your appeal, you can use our Corporate \u00a0Complaints Procedure. You can obtain a copy of this procedure from your Care Co-ordinator or by visiting our complaint's page . If you are unhappy with the outcome of your formal complaint, you can contact the Local Government and Social Care Ombudsman . Ways to pay your care costs We will collect your contribution every four weeks",
+      "metadata": {
+        "chunk_id": 34,
+        "filename": "www.durham.gov.uk_article_29752_Paying-for-extra-care-services.txt",
+        "level": "level_3",
+        "source": "https://www.durham.gov.uk/article/29752/Paying-for-extra-care-services",
+        "source_url": "https://www.durham.gov.uk/article/29752/Paying-for-extra-care-services",
+        "total_chunks": 40,
+        "type": "web_page"
+      },
+      "id": "2aaa3bda-bc19-4cae-aa4c-44e564f9167e",
+      "distance": 0.7116448283195496,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.13650655150413513,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    }
+  ],
+  "context": "[Document 1] From https://www (web_page) - URL: https://www.durham.gov.uk/article/29752/Paying-for-extra-care-services [Retrieved via: semantic_original]:\n. To enable us to do this, we will need to carry out a financial assessment. If you have savings or capital over \u00a323,250 you will need to pay the full cost of your care. If you do not want to give us your full financial information, you will be asked to sign a form to say that you do not want a financial assessment and you will need to pay the full cost of your care. The cost will depend on how much care you receive, but the most you will be asked to pay is \u00a3618.14 per week. Arranging a Financial Assessment The Financial Assessment Team will contact you to arrange an appointment to undertake a financial assessment.\u00a0You may be contacted by a member of the financial assessment team by telephone or by our outbound telephone service which is an electronic messaging service.\u00a0 Calls from this service will display the number 0191 313 0650. A financial assessment is the way that we work out whether we can help you with the cost of your care and what the cost will be to you\n\n[Document 2] From https://www (web_page) - URL: https://www.durham.gov.uk/article/29752/Paying-for-extra-care-services [Retrieved via: semantic_original]:\n. If you receive residential care and non-residential care services in the same week, you will pay for both services.\u00a0 However, the most you will have to pay will be no more than the higher of the two contributions. If you pay the full cost of your services, you will pay the full cost of both the respite and non-residential services received. The outcome of your Financial Assessment Where your financial assessment takes place over the telephone, in most cases we will be able to tell you how much you will have to pay on the day of your financial assessment. The Financial Assessment Team will always confirm your contribution in writing and send a copy of the financial assessment form and calculation sheet to you. All contributions will be backdated to the start of your service. If you have a query regarding your contribution you should get in touch with the Financial Assessment Team by telephone on 03000 268 232 or by email at finance.assistants.fateam@durham.gov.uk\n\n[Document 3] From https://www (web_page) - URL: https://www.durham.gov.uk/article/5655/Get-your-care-needs-assessed [Retrieved via: semantic_original]:\n. They will ask you some questions about your situation and help guide you to help and support, and let you know if you are eligible for care and support from us. Eligibility for care and support from us The national eligibility criteria set a minimum threshold for adult care and support.\u00a0The following information may help you understand eligibility for care and support.: Eligibility criteria for adults with care and support needs Eligibility criteria for carers with support needs If you're not eligible If your assessment shows that you are not eligible for support we can support you to find local services and organisations who may be able to help you. Financial support You may be eligible for financial support via Durham County Council to pay towards the cost of your care, however this will depend on the level of care you require and how much you can afford to pay. If you want to apply for help with the cost, you'll need to complete a financial assessment (means test)\n\n[Document 4] From https://www (web_page) - URL: https://www.durham.gov.uk/article/5655/Get-your-care-needs-assessed [Retrieved via: semantic_original]:\n. If you want to apply for help with the cost, you'll need to complete a financial assessment (means test). Find out more about paying for your care and support . Carer's assessments If you are a carer over the age of 18 years old and looking after someone who is elderly, ill or disabled then you\u00a0can get your needs assessed to help you get support for your caring role. Contact Social Care Direct Email scd@durham.gov.uk Telephone 03000 267 979 Related information How much you will have to pay for care and support services \ufeff Offsite links Locate - care and support in County Durham Durham Carers Infopoint: get a carers assessment Our regulator: The Care Quality Commission \ufeff A to Z A B C D E F G H I J K L M N O P Q R S T U V W X Y Z\n\n[Document 5] From https://www (web_page) - URL: https://www.durham.gov.uk/article/29753/Paying-for-Non-Residential-Services [Retrieved via: semantic_original]:\n. The cost will depend on how much care you receive, but the most you will be asked to pay is \u00a3618.14 per week. Arranging a Financial Assessment The Financial Assessment Team will contact you to arrange an appointment to undertake a financial assessment.\u00a0 You may be contacted by a member of the financial assessment team by telephone or by our outbound telephone service which is an electronic messaging service.\u00a0 Calls from this service will display the number 0191 313 0650. A financial assessment is the way that we work out whether we can help you with the cost of your care and what the cost will be to you\n\n[Document 6] From https://www (web_page) - URL: https://www.durham.gov.uk/article/5765/How-much-you-will-have-to-pay-for-care-and-support-services [Retrieved via: semantic_original]:\n. If your income and savings are between \u00a314,250 and \u00a323,250 you will need to make a contribution. If you have less than \u00a314,250 you may not have to pay anything. Understanding your care charges Depending on the type of care and support you're eligible for, different charges may apply: Advice if you are considering long term care in County Durham Choice of residential care and third party top-ups The Deferred Payment Agreement (DPA) Paying for extra care services Paying for Non-Residential Services Paying for residential and nursing care Paying your own care home fees Our charging policies: Charging policy for non residential services ( PDF, 545 KB ) Charging policy for residential care services ( PDF, 494 KB ) Deferred Payment Agreement Policy Residential Care ( PDF, 345 KB ) Help and advice with your benefits Contact Welfare Rights for\u00a0help and advice about any problems\n\n[Document 7] From https://www (web_page) - URL: https://www.durham.gov.uk/article/29753/Paying-for-Non-Residential-Services [Retrieved via: semantic_original]:\n. A financial assessment is the way that we work out whether we can help you with the cost of your care and what the cost will be to you. The financial assessment takes place either over the telephone at a time pre-arranged with you or you can choose to complete an on-line financial assessment form.\u00a0\u00a0If you decide you would like to complete an on-line financial assessment form, a member of our Financial Assessment Team will create an on-line account for you on the Council's customer portal.\u00a0 You will then be issued with a link which will enable you to access and complete the on-line financial assessment form. As part of the financial assessment, we will also check to see if there are any other benefits you can apply for.\u00a0 If you want us to, we can either help you to claim these benefits or we can pass your details on to someone else who can help you. During the financial assessment, you can have a member of your family or a friend present if you wish, or you can arrange for someone else to support you\n\n[Document 8] From https://www (pdf) - URL: https://www.durham.gov.uk/article/5765/How-much-you-will-have-to-pay-for-care-and-support-services - 17 pages [Retrieved via: semantic_original]:\n[Page 9 - FINANCIAL/BUDGET INFORMATION]\n9 \n 10.8  A person considering entering residential care will be advised that they can be \nsupported by a relative, friend or other representative, or by formal support from \nan advocate.  \n \n10.9  The financial assessment process will include a welfare benefit check to ensure \nfull entitlement is being claimed. This will include guidance for making claims. A \nlight touch financial assessment may be undertaken when:  \n \n\u2022  A person\u2019s income and capital can be verified using information \nfrom the Department for Work and Pensions  \n \n\u2022  It has been established they have significant financial resources \nand do not wish to undergo a full financial assessment for personal \nreasons but want to access advice and support from the Council in \nmeeting their needs  \n \n10.10  A reassessment will be carried out each year to recalculate charges. If requested, \nsavings/capital can be reassessed on an ad -hoc basis.  \n \n \n11. Treatment of Income\n\n[Document 9] From https://www (web_page) - URL: https://www.durham.gov.uk/article/29753/Paying-for-Non-Residential-Services [Retrieved via: semantic_original]:\nSkip to content Paying for Non-Residential Services If you are receiving non-residential services and we arrange these services for you, you may be entitled to help towards the cost of your care from us. How the cost of your care is calculated The Government has set down very detailed regulations and guidance to calculate an individual's contribution towards the cost of your care, which the council must follow. To enable us to do this, we will need to carry out a financial assessment. If you have savings or capital over \u00a323,250 you will need to pay the full cost of your care. If you do not want to give us your full financial information, you will be asked to sign a form to say that you do not want a financial assessment and you will need to pay the full cost of your care. The cost will depend on how much care you receive, but the most you will be asked to pay is \u00a3618.14 per week\n\n[Document 10] From https://www (web_page) - URL: https://www.durham.gov.uk/article/29752/Paying-for-extra-care-services [Retrieved via: semantic_original]:\n. If you have a query regarding your contribution you should get in touch with the Financial Assessment Team by telephone on 03000 268 232 or by email at finance.assistants.fateam@durham.gov.uk . If you are unhappy with the outcome of your financial assessment, you may appeal in writing to the Financial Assessment Team. If you are unhappy with the outcome of your appeal, you can use our Corporate \u00a0Complaints Procedure. You can obtain a copy of this procedure from your Care Co-ordinator or by visiting our complaint's page . If you are unhappy with the outcome of your formal complaint, you can contact the Local Government and Social Care Ombudsman . Ways to pay your care costs We will collect your contribution every four weeks\n",
+  "answer": "To prepare for a financial assessment for care in Durham, you should gather information about your income, savings, and capital. Your contribution towards care costs will depend on these financial details.\n\n**Key Details:**\n\n- **Savings and Capital:** If you have savings or capital over **\u00a323,250**, you will need to pay the full cost of your care. If your savings are between **\u00a314,250 and \u00a323,250**, you will need to make a contribution. If your savings are below **\u00a314,250**, you may not have to pay anything.\n  \n- **Maximum Cost:** The most you will be asked to pay for care is **\u00a3618.14 per week**, depending on the amount of care you receive.\n\n- **Financial Assessment Process:** The Financial Assessment Team will contact you to arrange an appointment for the assessment, which can be conducted over the phone or online. They will also check if you are eligible for any additional benefits and help you apply for them if needed.\n\n**Practical Steps:**\n\n1. **Prepare Documents:** Gather documents related to your income, savings, and capital.\n   \n2. **Contact Information:** If you have questions or need assistance, contact the Financial Assessment Team at **03000 268 232** or email **finance.assistants.fateam@durham.gov.uk**.\n\n3. **Assessment Outcome:** You will receive a written confirmation of your contribution along with a financial assessment form and calculation sheet. Contributions will be backdated to the start of your service.\n\nFor more detailed information, you can visit the Durham County Council's website on paying for extra care services: [Durham County Council - Paying for Extra Care Services](https://www.durham.gov.uk/article/29752/Paying-for-extra-care-services).",
+  "metrics": {
+    "duration_seconds": 19.754942178726196,
+    "retrieved_docs_count": 10,
+    "query_length": 135,
+    "answer_length": 1695,
+    "retrieval_method": "enhanced",
+    "context_utilization": 0.23308270676691728,
+    "citations_count": 0,
+    "has_citations": false,
+    "query_relevance": 0.6470588235294118,
+    "unique_retrieval_methods": 1,
+    "budget_documents_retrieved": 1,
+    "retrieval_methods_used": [
+      "semantic_original"
+    ],
+    "retrieval_method_distribution": {
+      "semantic_original": 10
+    }
+  },
+  "local_authority": "durham",
+  "query_id": "scn_22",
+  "retrieval_method": "enhanced",
+  "run_id": "bb6810e4-262a-4638-8953-6b73ee58a599",
+  "trace": {
+    "run_id": "bb6810e4-262a-4638-8953-6b73ee58a599",
+    "project": "social_care_rag",
+    "url": "https://eu.smith.langchain.com/o/me/runs/bb6810e4-262a-4638-8953-6b73ee58a599"
+  },
+  "test_metadata": {
+    "local_authority": "durham",
+    "query_id": "scn_22",
+    "query_category": "assessment_scenarios",
+    "prompt_variation": "optimized",
+    "prompt_template": "\nPlease answer the following question about social care services in UK local authorities based only on the information in the provided documents.\n\nQuestion: {query}\n\nContext from relevant documents:\n{context}\n\nInstructions:\n1. Provide a clear, direct answer that would help someone needing this information. If information isn't available, state: \"The available documents don't provide specific information about [aspect].\"\n\n2. Synthesize information from ALL relevant documents to provide the most complete answer rather than analyzing documents individually.\n\n3. Structure your response with:\n   - A concise 1-2 sentence summary first\n   - Relevant details organized in short, clear paragraphs\n   - Bullet points for lists or step-by-step information\n   - Bold text for key information the user should notice\n\n4. For financial information:\n   - Include exact figures, time periods, and what the funding covers\n   - Present financial data clearly: \"The adult social care budget is **\u00a3X million** for [time period]\"\n\n5. Always include practical next steps or resources:\n   - Provide contact information, URLs, or application methods mentioned in the documents\n   - Suggest where the person could find more information\n\n6. When citing sources, use a simple format: \"According to [document name/description]\" or include URLs where available.\n\nAnswer:\n",
+    "processing_time": 19.75803279876709,
+    "timestamp": "2025-08-19T13:39:53.271885",
+    "top_k": 10
+  }
+}

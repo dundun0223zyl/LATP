@@ -1,0 +1,275 @@
+{
+  "query": "My care needs assessment in durham says I need 20 hours of home care weekly, but I'm worried about costs. What financial help is available?",
+  "retrieved_documents": [
+    {
+      "content": ". You will have your own flat in a specially designed housing complex with 24-hour care and support available on site. You can decorate your flat to your own taste. You will have a tenancy agreement and will need to contribute towards your care costs. Residential care If your needs can no longer be met in your own home, then residential care may be appropriate for you. There are lots of residential homes in County Durham, which offer a variety of services tailored to you. If you cannot fund your own care but think you need residential care, you will need an assessment by a social worker. More information can be found on Locate - care and support in County Durham . Nursing homes Nursing homes provide nursing care 24 hours a day. They have professionally qualified nurses among their staff. If you cannot fund your own care but think you need nursing care, you will need an assessment by a social worker and a registered nurse. Your social worker will help you find a home which meets your care needs",
+      "metadata": {
+        "chunk_id": 15,
+        "filename": "www.durham.gov.uk_article_5654_Find-care-and-support-services.txt",
+        "level": "level_3",
+        "source": "https://www.durham.gov.uk/article/5654/Find-care-and-support-services",
+        "source_url": "https://www.durham.gov.uk/article/5654/Find-care-and-support-services",
+        "total_chunks": 23,
+        "type": "web_page"
+      },
+      "id": "61a10d1d-afb0-4a03-b27f-1a3c5604e5ee",
+      "distance": 0.5265646576881409,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.19203060269355776,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". You will have your own flat in a specially designed housing complex with 24-hour care and support available on site. You can decorate your flat to your own taste. You will have a tenancy agreement and will need to contribute towards your care costs. Residential care If your needs can no longer be met in your own home, then residential care may be appropriate for you. There are lots of residential homes in County Durham, which offer a variety of services tailored to you. If you cannot fund your own care but think you need residential care, you will need an assessment by a social worker. More information can be found on Locate - care and support in County Durham . Nursing homes Nursing homes provide nursing care 24 hours a day. They have professionally qualified nurses among their staff. If you cannot fund your own care but think you need nursing care, you will need an assessment by a social worker and a registered nurse. Your social worker will help you find a home which meets your care needs",
+      "metadata": {
+        "chunk_id": 15,
+        "filename": "www.durham.gov.uk_locate.txt",
+        "level": "level_3",
+        "source": "https://www.durham.gov.uk/locate",
+        "source_url": "https://www.durham.gov.uk/locate",
+        "total_chunks": 23,
+        "type": "web_page"
+      },
+      "id": "8ee0b79f-e249-47ca-ac4c-e9fcaabee65a",
+      "distance": 0.5265646576881409,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.19203060269355776,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Note: we will not pay for meals, or their delivery, even if you are eligible for care and support. Sitting and visiting Some organisations and charities provide sitting and visiting services for companionship, support and/or personal care for adults who need care at home.\u00a0These services can also give carers the opportunity to take a break from their caring role. Contact Social Care Direct Email scd@durham.gov.uk Telephone 03000 267 979 Related information Get your care needs assessed \ufeff Offsite links Durham Carers Infopoint Healthwatch County Durham: Home Care Services Report Our regulator: The Care Quality Commission \ufeff A to Z A B C D E F G H I J K L M N O P Q R S T U V W X Y Z",
+      "metadata": {
+        "chunk_id": 5,
+        "filename": "www.durham.gov.uk_article_5660_Equipment-and-services-in-your-home.txt",
+        "level": "level_3",
+        "source": "https://www.durham.gov.uk/article/5660/Equipment-and-services-in-your-home",
+        "source_url": "https://www.durham.gov.uk/article/5660/Equipment-and-services-in-your-home",
+        "total_chunks": 6,
+        "type": "web_page"
+      },
+      "id": "3d530906-f97e-4378-adcc-c6a5c76342c9",
+      "distance": 0.5831541419029236,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.17505375742912294,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". You might also need to learn new skills to help you keep your independence. See Reablement for further information. Home care These are services which are provided in your home. You can get help with personal care including: washing and bathing eating and drinking getting up and going to bed help with preparing meals, laundry and shopping. You can find home care services listed on our Locate - care and support in County Durham website. Note: subsidised home care is only provided to those assessed as having eligible social care needs - see Eligibility criteria for adults with care and support needs . Meals to your home You'll find lots of meal providers on our Locate - care and support in County Durham website - some of these will deliver to your home. Note: we will not pay for meals, or their delivery, even if you are eligible for care and support",
+      "metadata": {
+        "chunk_id": 4,
+        "filename": "www.durham.gov.uk_article_5660_Equipment-and-services-in-your-home.txt",
+        "level": "level_3",
+        "source": "https://www.durham.gov.uk/article/5660/Equipment-and-services-in-your-home",
+        "source_url": "https://www.durham.gov.uk/article/5660/Equipment-and-services-in-your-home",
+        "total_chunks": 6,
+        "type": "web_page"
+      },
+      "id": "4699f7ec-2571-4fe9-81dc-cc92985ee778",
+      "distance": 0.585308849811554,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.17440734505653382,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Effectively this agreement offers you a loan from\u00a0Durham County Council, from which you would be required to pay your care home fees. A\u00a0legal charge would be placed on your property. If you do not wish to sign up to a Deferred Payment Agreement you will not be able to access this support. Alternatively, you may choose to rent out your property, which together with your other income and savings could give you enough income to cover the full cost of your care. There are various equity release products which may be suitable for your personal circumstances. You would need to discuss this with a financial advisor. A family member may choose to pay some of the costs of your care for you. You may decide to put your house up for sale in which case you will need to either apply for a loan under a Deferred Payment Agreement until it is sold or contact the care home to make private arrangements. Please note that the care home fees may be higher than the council's contracted rate",
+      "metadata": {
+        "chunk_id": 11,
+        "filename": "www.durham.gov.uk_article_32870_Paying-your-own-care-home-fees.txt",
+        "level": "level_3",
+        "source": "https://www.durham.gov.uk/article/32870/Paying-your-own-care-home-fees",
+        "source_url": "https://www.durham.gov.uk/article/32870/Paying-your-own-care-home-fees",
+        "total_chunks": 14,
+        "type": "web_page"
+      },
+      "id": "7a49a5ea-fe34-43fe-8305-ce87ebe3f755",
+      "distance": 0.606676459312439,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1679970622062683,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Care can involve help in your own home as well as residential or nursing care homes. You may be considering long-term care because you: Are an older person considering getting help with care and support for yourself Have a need to fund care immediately Are a family member, a carer or have Power of Attorney of somebody needing to fund their care Have a child, over 18 or approaching adulthood with disabilities and want to ensure they have financial security after you die Have a disability and want to plan your financial future to make the best use of compensation payments, or if you think your ability to work and support yourself financially may lessen over time Finding care and support If you live in County Durham and think you need care and support, your first step should be to visit Locate - care and support in County Durham . Locate hosts a range of information and advice, including organisations to help you live as independently as you can",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.durham.gov.uk_article_28413_Advice-if-you-are-considering-long-term-care-in-County-Durham.txt",
+        "level": "level_3",
+        "source": "https://www.durham.gov.uk/article/28413/Advice-if-you-are-considering-long-term-care-in-County-Durham",
+        "source_url": "https://www.durham.gov.uk/article/28413/Advice-if-you-are-considering-long-term-care-in-County-Durham",
+        "total_chunks": 13,
+        "type": "web_page"
+      },
+      "id": "55416921-a1a7-4dd4-9439-6f7e885d88e5",
+      "distance": 0.6076305508613586,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1677108347415924,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". If your income and savings are between \u00a314,250 and \u00a323,250 you will need to make a contribution. If you have less than \u00a314,250 you may not have to pay anything. Understanding your care charges Depending on the type of care and support you're eligible for, different charges may apply: Advice if you are considering long term care in County Durham Choice of residential care and third party top-ups The Deferred Payment Agreement (DPA) Paying for extra care services Paying for Non-Residential Services Paying for residential and nursing care Paying your own care home fees Our charging policies: Charging policy for non residential services ( PDF, 545 KB ) Charging policy for residential care services ( PDF, 494 KB ) Deferred Payment Agreement Policy Residential Care ( PDF, 345 KB ) Help and advice with your benefits Contact Welfare Rights for\u00a0help and advice about any problems",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.durham.gov.uk_article_5765_How-much-you-will-have-to-pay-for-care-and-support-services.txt",
+        "level": "level_2",
+        "source": "https://www.durham.gov.uk/article/5765/How-much-you-will-have-to-pay-for-care-and-support-services",
+        "source_url": "https://www.durham.gov.uk/article/5765/How-much-you-will-have-to-pay-for-care-and-support-services",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "964471fe-ed91-40a1-9cdb-8a900f8fbfe7",
+      "distance": 0.6190981268882751,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.16427056193351747,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". If you want to apply for help with the cost, you'll need to complete a financial assessment (means test). Find out more about paying for your care and support . Carer's assessments If you are a carer over the age of 18 years old and looking after someone who is elderly, ill or disabled then you\u00a0can get your needs assessed to help you get support for your caring role. Contact Social Care Direct Email scd@durham.gov.uk Telephone 03000 267 979 Related information How much you will have to pay for care and support services \ufeff Offsite links Locate - care and support in County Durham Durham Carers Infopoint: get a carers assessment Our regulator: The Care Quality Commission \ufeff A to Z A B C D E F G H I J K L M N O P Q R S T U V W X Y Z",
+      "metadata": {
+        "chunk_id": 3,
+        "filename": "www.durham.gov.uk_article_5655_Get-your-care-needs-assessed.txt",
+        "level": "level_1",
+        "source": "https://www.durham.gov.uk/article/5655/Get-your-care-needs-assessed",
+        "source_url": "https://www.durham.gov.uk/article/5655/Get-your-care-needs-assessed",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "0256d796-99cd-4b94-a9ab-a11697c99130",
+      "distance": 0.6202695581242424,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.16391913256272728,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Skip to content Paying for Non-Residential Services If you are receiving non-residential services and we arrange these services for you, you may be entitled to help towards the cost of your care from us. How the cost of your care is calculated The Government has set down very detailed regulations and guidance to calculate an individual's contribution towards the cost of your care, which the council must follow. To enable us to do this, we will need to carry out a financial assessment. If you have savings or capital over \u00a323,250 you will need to pay the full cost of your care. If you do not want to give us your full financial information, you will be asked to sign a form to say that you do not want a financial assessment and you will need to pay the full cost of your care. The cost will depend on how much care you receive, but the most you will be asked to pay is \u00a3618.14 per week",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.durham.gov.uk_article_29753_Paying-for-Non-Residential-Services.txt",
+        "level": "level_3",
+        "source": "https://www.durham.gov.uk/article/29753/Paying-for-Non-Residential-Services",
+        "source_url": "https://www.durham.gov.uk/article/29753/Paying-for-Non-Residential-Services",
+        "total_chunks": 40,
+        "type": "web_page"
+      },
+      "id": "3e3c177e-8682-4162-9f1e-a3115d274e60",
+      "distance": 0.6212239861488342,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.16363280415534973,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Find details of care homes on our Locate - care and support in County Durham website. Nursing homes Nursing homes are similar to care homes but also provide 24 hour professional nursing care.\u00a0If you cannot fund your own care and think you need nursing care, you will need an assessment by a social worker and a registered nurse. Your social worker will help you find a nursing home which meets your care needs.\u00a0Find details of nursing homes on our Locate - care and support in County Durham website. Extra Care housing Extra Care offers an alternative to moving into a care home.\u00a0If you're eligible, you can have your own flat, in a specially designed housing complex, with 24 hour care and support on site. You will have a tenancy agreement and will need to contribute towards your care costs.\u00a0Find details of Extra Care housing on our Locate - care and support in County Durham website. See Extra Care for further information",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.durham.gov.uk_article_5670_Accommodation-choosing-somewhere-to-live.txt",
+        "level": "level_2",
+        "source": "https://www.durham.gov.uk/article/5670/Accommodation-choosing-somewhere-to-live",
+        "source_url": "https://www.durham.gov.uk/article/5670/Accommodation-choosing-somewhere-to-live",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "551142bb-3da5-4db3-b504-2bef00edd3ef",
+      "distance": 0.6222886443138123,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1633134067058563,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    }
+  ],
+  "context": "[Document 1] From https://www (web_page) - URL: https://www.durham.gov.uk/article/5654/Find-care-and-support-services [Retrieved via: semantic_original]:\n. You will have your own flat in a specially designed housing complex with 24-hour care and support available on site. You can decorate your flat to your own taste. You will have a tenancy agreement and will need to contribute towards your care costs. Residential care If your needs can no longer be met in your own home, then residential care may be appropriate for you. There are lots of residential homes in County Durham, which offer a variety of services tailored to you. If you cannot fund your own care but think you need residential care, you will need an assessment by a social worker. More information can be found on Locate - care and support in County Durham . Nursing homes Nursing homes provide nursing care 24 hours a day. They have professionally qualified nurses among their staff. If you cannot fund your own care but think you need nursing care, you will need an assessment by a social worker and a registered nurse. Your social worker will help you find a home which meets your care needs\n\n[Document 2] From https://www (web_page) - URL: https://www.durham.gov.uk/locate [Retrieved via: semantic_original]:\n. You will have your own flat in a specially designed housing complex with 24-hour care and support available on site. You can decorate your flat to your own taste. You will have a tenancy agreement and will need to contribute towards your care costs. Residential care If your needs can no longer be met in your own home, then residential care may be appropriate for you. There are lots of residential homes in County Durham, which offer a variety of services tailored to you. If you cannot fund your own care but think you need residential care, you will need an assessment by a social worker. More information can be found on Locate - care and support in County Durham . Nursing homes Nursing homes provide nursing care 24 hours a day. They have professionally qualified nurses among their staff. If you cannot fund your own care but think you need nursing care, you will need an assessment by a social worker and a registered nurse. Your social worker will help you find a home which meets your care needs\n\n[Document 3] From https://www (web_page) - URL: https://www.durham.gov.uk/article/5660/Equipment-and-services-in-your-home [Retrieved via: semantic_original]:\n. Note: we will not pay for meals, or their delivery, even if you are eligible for care and support. Sitting and visiting Some organisations and charities provide sitting and visiting services for companionship, support and/or personal care for adults who need care at home.\u00a0These services can also give carers the opportunity to take a break from their caring role. Contact Social Care Direct Email scd@durham.gov.uk Telephone 03000 267 979 Related information Get your care needs assessed \ufeff Offsite links Durham Carers Infopoint Healthwatch County Durham: Home Care Services Report Our regulator: The Care Quality Commission \ufeff A to Z A B C D E F G H I J K L M N O P Q R S T U V W X Y Z\n\n[Document 4] From https://www (web_page) - URL: https://www.durham.gov.uk/article/5660/Equipment-and-services-in-your-home [Retrieved via: semantic_original]:\n. You might also need to learn new skills to help you keep your independence. See Reablement for further information. Home care These are services which are provided in your home. You can get help with personal care including: washing and bathing eating and drinking getting up and going to bed help with preparing meals, laundry and shopping. You can find home care services listed on our Locate - care and support in County Durham website. Note: subsidised home care is only provided to those assessed as having eligible social care needs - see Eligibility criteria for adults with care and support needs . Meals to your home You'll find lots of meal providers on our Locate - care and support in County Durham website - some of these will deliver to your home. Note: we will not pay for meals, or their delivery, even if you are eligible for care and support\n\n[Document 5] From https://www (web_page) - URL: https://www.durham.gov.uk/article/32870/Paying-your-own-care-home-fees [Retrieved via: semantic_original]:\n. Effectively this agreement offers you a loan from\u00a0Durham County Council, from which you would be required to pay your care home fees. A\u00a0legal charge would be placed on your property. If you do not wish to sign up to a Deferred Payment Agreement you will not be able to access this support. Alternatively, you may choose to rent out your property, which together with your other income and savings could give you enough income to cover the full cost of your care. There are various equity release products which may be suitable for your personal circumstances. You would need to discuss this with a financial advisor. A family member may choose to pay some of the costs of your care for you. You may decide to put your house up for sale in which case you will need to either apply for a loan under a Deferred Payment Agreement until it is sold or contact the care home to make private arrangements. Please note that the care home fees may be higher than the council's contracted rate\n\n[Document 6] From https://www (web_page) - URL: https://www.durham.gov.uk/article/28413/Advice-if-you-are-considering-long-term-care-in-County-Durham [Retrieved via: semantic_original]:\n. Care can involve help in your own home as well as residential or nursing care homes. You may be considering long-term care because you: Are an older person considering getting help with care and support for yourself Have a need to fund care immediately Are a family member, a carer or have Power of Attorney of somebody needing to fund their care Have a child, over 18 or approaching adulthood with disabilities and want to ensure they have financial security after you die Have a disability and want to plan your financial future to make the best use of compensation payments, or if you think your ability to work and support yourself financially may lessen over time Finding care and support If you live in County Durham and think you need care and support, your first step should be to visit Locate - care and support in County Durham . Locate hosts a range of information and advice, including organisations to help you live as independently as you can\n\n[Document 7] From https://www (web_page) - URL: https://www.durham.gov.uk/article/5765/How-much-you-will-have-to-pay-for-care-and-support-services [Retrieved via: semantic_original]:\n. If your income and savings are between \u00a314,250 and \u00a323,250 you will need to make a contribution. If you have less than \u00a314,250 you may not have to pay anything. Understanding your care charges Depending on the type of care and support you're eligible for, different charges may apply: Advice if you are considering long term care in County Durham Choice of residential care and third party top-ups The Deferred Payment Agreement (DPA) Paying for extra care services Paying for Non-Residential Services Paying for residential and nursing care Paying your own care home fees Our charging policies: Charging policy for non residential services ( PDF, 545 KB ) Charging policy for residential care services ( PDF, 494 KB ) Deferred Payment Agreement Policy Residential Care ( PDF, 345 KB ) Help and advice with your benefits Contact Welfare Rights for\u00a0help and advice about any problems\n\n[Document 8] From https://www (web_page) - URL: https://www.durham.gov.uk/article/5655/Get-your-care-needs-assessed [Retrieved via: semantic_original]:\n. If you want to apply for help with the cost, you'll need to complete a financial assessment (means test). Find out more about paying for your care and support . Carer's assessments If you are a carer over the age of 18 years old and looking after someone who is elderly, ill or disabled then you\u00a0can get your needs assessed to help you get support for your caring role. Contact Social Care Direct Email scd@durham.gov.uk Telephone 03000 267 979 Related information How much you will have to pay for care and support services \ufeff Offsite links Locate - care and support in County Durham Durham Carers Infopoint: get a carers assessment Our regulator: The Care Quality Commission \ufeff A to Z A B C D E F G H I J K L M N O P Q R S T U V W X Y Z\n\n[Document 9] From https://www (web_page) - URL: https://www.durham.gov.uk/article/29753/Paying-for-Non-Residential-Services [Retrieved via: semantic_original]:\nSkip to content Paying for Non-Residential Services If you are receiving non-residential services and we arrange these services for you, you may be entitled to help towards the cost of your care from us. How the cost of your care is calculated The Government has set down very detailed regulations and guidance to calculate an individual's contribution towards the cost of your care, which the council must follow. To enable us to do this, we will need to carry out a financial assessment. If you have savings or capital over \u00a323,250 you will need to pay the full cost of your care. If you do not want to give us your full financial information, you will be asked to sign a form to say that you do not want a financial assessment and you will need to pay the full cost of your care. The cost will depend on how much care you receive, but the most you will be asked to pay is \u00a3618.14 per week\n\n[Document 10] From https://www (web_page) - URL: https://www.durham.gov.uk/article/5670/Accommodation-choosing-somewhere-to-live [Retrieved via: semantic_original]:\n. Find details of care homes on our Locate - care and support in County Durham website. Nursing homes Nursing homes are similar to care homes but also provide 24 hour professional nursing care.\u00a0If you cannot fund your own care and think you need nursing care, you will need an assessment by a social worker and a registered nurse. Your social worker will help you find a nursing home which meets your care needs.\u00a0Find details of nursing homes on our Locate - care and support in County Durham website. Extra Care housing Extra Care offers an alternative to moving into a care home.\u00a0If you're eligible, you can have your own flat, in a specially designed housing complex, with 24 hour care and support on site. You will have a tenancy agreement and will need to contribute towards your care costs.\u00a0Find details of Extra Care housing on our Locate - care and support in County Durham website. See Extra Care for further information\n",
+  "answer": "If you're worried about the costs of your 20 hours of weekly home care in Durham, there are financial assistance options available. You may be eligible for help with the cost of your care through a financial assessment conducted by Durham County Council.\n\n- **Financial Assessment**: To determine your eligibility for financial assistance, you need to undergo a financial assessment (means test). If your savings and capital are below \u00a323,250, you might qualify for some financial support. If they are below \u00a314,250, you may not have to pay anything.\n\n- **Contribution Limits**: If you have savings or capital over \u00a323,250, you will need to pay the full cost of your care. However, the maximum you would be asked to pay for non-residential services is **\u00a3618.14 per week**.\n\n- **Next Steps**: Contact Social Care Direct for more information and to arrange a financial assessment. You can reach them via email at scd@durham.gov.uk or by phone at 03000 267 979.\n\nFor more detailed information, you can visit the Durham County Council's website on paying for non-residential services: [Durham County Council - Paying for Non-Residential Services](https://www.durham.gov.uk/article/29753/Paying-for-Non-Residential-Services).",
+  "metrics": {
+    "duration_seconds": 11.565399885177612,
+    "retrieved_docs_count": 10,
+    "query_length": 139,
+    "answer_length": 1221,
+    "retrieval_method": "enhanced",
+    "context_utilization": 0.1864406779661017,
+    "citations_count": 0,
+    "has_citations": false,
+    "query_relevance": 0.8095238095238095,
+    "unique_retrieval_methods": 1,
+    "budget_documents_retrieved": 0,
+    "retrieval_methods_used": [
+      "semantic_original"
+    ],
+    "retrieval_method_distribution": {
+      "semantic_original": 10
+    }
+  },
+  "local_authority": "durham",
+  "query_id": "scn_16",
+  "retrieval_method": "enhanced",
+  "run_id": "309b0420-1838-4f41-9d82-f1a20b802566",
+  "trace": {
+    "run_id": "309b0420-1838-4f41-9d82-f1a20b802566",
+    "project": "social_care_rag",
+    "url": "https://eu.smith.langchain.com/o/me/runs/309b0420-1838-4f41-9d82-f1a20b802566"
+  },
+  "test_metadata": {
+    "local_authority": "durham",
+    "query_id": "scn_16",
+    "query_category": "financial_scenarios",
+    "prompt_variation": "optimized",
+    "prompt_template": "\nPlease answer the following question about social care services in UK local authorities based only on the information in the provided documents.\n\nQuestion: {query}\n\nContext from relevant documents:\n{context}\n\nInstructions:\n1. Provide a clear, direct answer that would help someone needing this information. If information isn't available, state: \"The available documents don't provide specific information about [aspect].\"\n\n2. Synthesize information from ALL relevant documents to provide the most complete answer rather than analyzing documents individually.\n\n3. Structure your response with:\n   - A concise 1-2 sentence summary first\n   - Relevant details organized in short, clear paragraphs\n   - Bullet points for lists or step-by-step information\n   - Bold text for key information the user should notice\n\n4. For financial information:\n   - Include exact figures, time periods, and what the funding covers\n   - Present financial data clearly: \"The adult social care budget is **\u00a3X million** for [time period]\"\n\n5. Always include practical next steps or resources:\n   - Provide contact information, URLs, or application methods mentioned in the documents\n   - Suggest where the person could find more information\n\n6. When citing sources, use a simple format: \"According to [document name/description]\" or include URLs where available.\n\nAnswer:\n",
+    "processing_time": 11.568079233169556,
+    "timestamp": "2025-08-19T13:38:16.250354",
+    "top_k": 10
+  }
+}

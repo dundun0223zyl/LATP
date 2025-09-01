@@ -1,0 +1,333 @@
+{
+  "query": "My wife's needs have changed significantly since her last assessment in gloucestershire. How do we request a reassessment and how long will it take?",
+  "retrieved_documents": [
+    {
+      "content": "assessing need, supporting people to live healthier lives, equity in experience and outcomes, \ncare provision, partnership, and communities, safeguarding, safe systems, go vernance and \nmanagement, and improvement and innovation. The self -assessment asks:  \n1. What are our strengths and our ambition?  \n2. How are we performing and how do we know?  \n3. What are our plans to maintain or improve?  \n \nThe content is drawn from the last two years. All data is accurate as of end March 2024 .  Any \nnames referenced in case studies have been changed.  \nFurther detail is available on our  Gloucestershire County Council Preparation for CQC \nAssessment webpage s https://www.gloucestershire.gov.uk/health -and-social-care/cqc-\nassessment -of-gloucestershire -adult-social-care/  \nContents  \nIntroductory  Note  ................................ ................................ ................................ ............  2",
+      "metadata": {
+        "chunk_id": 2,
+        "contains_financial_info": true,
+        "download_url": "https://www.gloucestershire.gov.uk/media/1fknazpw/gcc-asc-self-assessment-for-cqc-assessment-v61-april-2024-approved-links-updated-260724.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "gcc-asc-self-assessment-for-cqc-assessment-v61-april-2024-approved-links-updated-260724.pdf",
+        "financial_pages": "[6, 7, 9, 10, 11, 12, 14, 15, 16, 19, 20, 21, 22, 23, 24, 25, 26, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41]",
+        "level": "level_3",
+        "page_count": 42,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42]",
+        "source": "https://www.gloucestershire.gov.uk/health-and-social-care/cqc-assessment-of-gloucestershire-adult-social-care/",
+        "source_url": "https://www.gloucestershire.gov.uk/health-and-social-care/cqc-assessment-of-gloucestershire-adult-social-care/",
+        "total_chunks": 179,
+        "type": "pdf"
+      },
+      "id": "3fa7811e-365f-4cda-ad30-da78563b5b92",
+      "distance": 0.803268551826477,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.10901943445205689,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 14 - FINANCIAL/BUDGET INFORMATION]\nGloucestershire County Council Adult Social Care   \nComplaints Annual Report 2023 - 2024  \nVersion 2.2: 27th August  2024  \n  \n14 \nTeam  Reasons for complaint by team  \n\u2022 Communication,  interested  parties  not being  kept informed  of \ndevelopments  \n\u2022 Assessment  outcome  was wrong,  and subsequent  care \noffered  was not appropriate  to the need  \nForest  8 complaints received  \nIn summary  the themes  were;  \n\u2022 Assessment  took too long / took too long to resolve  funding  \nissue  \n\u2022 Assessment  outcome  was wrong,  and subsequent  care \noffered  was not appropriate  to the need  \n\u2022 Funding  not made  clear , including  \u201cTop Up\u201d arrangements  \n\u2022 Request  for Capacity  Assessment  denied  \n\u2022 General  conduct  of staff,  including  lack of empathy  / \ndismissive  approach  \n\u2022 Challenge  to Mental  Capacity  assessment  \nTewkesbury  7 complaints received  \nIn summary  the themes  were;  \n\u2022 Care  pathway  and subsequent  funding  not made  clear",
+      "metadata": {
+        "chunk_id": 25,
+        "contains_financial_info": true,
+        "download_url": "https://www.gloucestershire.gov.uk/media/ex2fitgj/annual-complaint-report-for-adult-care-2023-2024-v22-approved.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "annual-complaint-report-for-adult-care-2023-2024-v22-approved.pdf",
+        "financial_pages": "[4, 5, 9, 12, 13, 14, 15, 16, 17, 18, 20, 23, 24, 25, 26, 27, 28, 30]",
+        "level": "level_2",
+        "page_count": 32,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32]",
+        "source": "https://www.gloucestershire.gov.uk/council-and-democracy/complaints-and-feedback/complaints-about-adult-social-care/",
+        "source_url": "https://www.gloucestershire.gov.uk/council-and-democracy/complaints-and-feedback/complaints-about-adult-social-care/",
+        "total_chunks": 75,
+        "type": "pdf"
+      },
+      "id": "3c0da71f-5c5e-41b5-8696-ca5b99352a38",
+      "distance": 0.8329953551292419,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.10010139346122743,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 29]\n  \n  \n \nChange \nChange \nAny \nquestions? If you are paying for your care but \nthink you will run out of money, you should contact us. \nWe will do a \ufb01nancial assessment to see if we can help you pay for your care.  \nIf we help you to pay for your care, \nyou might ha\nve to change the care \nyou get. \nYou might have to move to a different \ncar\ne home. \nIf you have any questions about anything in this booklet, y\nou should \ntalk to your social worker.  \n29 \n\n[Page 30]\n \n \n \n \n Find out more \nYou can look at our website here:  \nhttps://www.gloucestershire.gov.uk/ \nhealth-and-social-care/adults-and-older-people/ \nYou can contact us by: \n\u2022 Post: \nAdult Social Care Gloucestershire County Council Shire Hall Westgate Street Gloucester GL1 2TG \n@ \n\u2022 Phone: 01452 426868 \n\u2022 Email: \nsocialcare.enq@gloucestershire.gov.uk \nThis Easy Read booklet was produced by easy-read-online.co.uk \n30",
+      "metadata": {
+        "chunk_id": 12,
+        "contains_financial_info": true,
+        "download_url": "https://www.gloucestershire.gov.uk/media/s0qopej0/paying-for-your-care-booklet-v4-web.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "paying-for-your-care-booklet-v4-web.pdf",
+        "financial_pages": "[7, 8, 15, 16, 20, 27]",
+        "level": "level_3",
+        "page_count": 30,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30]",
+        "source": "https://www.gloucestershire.gov.uk/health-and-social-care/adult-social-care/paying-for-adult-social-care/paying-for-your-social-care/",
+        "source_url": "https://www.gloucestershire.gov.uk/health-and-social-care/adult-social-care/paying-for-adult-social-care/paying-for-your-social-care/",
+        "total_chunks": 13,
+        "type": "pdf"
+      },
+      "id": "06695966-601b-4387-94f1-3da61c47d514",
+      "distance": 0.8516808152198792,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.09449575543403627,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 29]\n  \n  \n \nChange \nChange \nAny \nquestions? If you are paying for your care but \nthink you will run out of money, you should contact us. \nWe will do a \ufb01nancial assessment to see if we can help you pay for your care.  \nIf we help you to pay for your care, \nyou might ha\nve to change the care \nyou get. \nYou might have to move to a different \ncar\ne home. \nIf you have any questions about anything in this booklet, y\nou should \ntalk to your social worker.  \n29 \n\n[Page 30]\n \n \n \n \n Find out more \nYou can look at our website here:  \nhttps://www.gloucestershire.gov.uk/ \nhealth-and-social-care/adults-and-older-people/ \nYou can contact us by: \n\u2022 Post: \nAdult Social Care Gloucestershire County Council Shire Hall Westgate Street Gloucester GL1 2TG \n@ \n\u2022 Phone: 01452 426868 \n\u2022 Email: \nsocialcare.enq@gloucestershire.gov.uk \nThis Easy Read booklet was produced by easy-read-online.co.uk \n30",
+      "metadata": {
+        "chunk_id": 12,
+        "contains_financial_info": true,
+        "download_url": "https://www.gloucestershire.gov.uk/media/s0qopej0/paying-for-your-care-booklet-v4-web.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "paying-for-your-care-booklet-v4-web.pdf",
+        "financial_pages": "[7, 8, 15, 16, 20, 27]",
+        "level": "level_2",
+        "page_count": 30,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30]",
+        "source": "https://www.gloucestershire.gov.uk/health-and-social-care/adult-social-care/paying-for-adult-social-care/paying-for-your-social-care/",
+        "source_url": "https://www.gloucestershire.gov.uk/health-and-social-care/adult-social-care/paying-for-adult-social-care/paying-for-your-social-care/",
+        "total_chunks": 13,
+        "type": "pdf"
+      },
+      "id": "d7533cd7-4619-4d61-8c93-d4fa70f043d1",
+      "distance": 0.8516808152198792,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.09449575543403627,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 3 - FINANCIAL/BUDGET INFORMATION]\n3\nGloucestershire Strategy for people with ASCs            2018-21\u2022 A needs assessment was undertaken in 2012\n\u2022 An on line consultation with members of Gloucestershire\u2019s ASCs Network Group \nand Parent \u2013 Carer Network was undertaken in August 2016 \n\u2022 A self assessment framework was completed for the Department of Health in \nOctober 2016\n\u2022 A listening day took place on 13th September 2017 where groups and individuals \nwith an interest in ASCs in Gloucestershire shared their perspectives on what needs \nto be in this strategy \n\u2022 A consultation day took place on 17th October 2017. There, people with ASCs and \ntheir families, as well as professionals and organisational representatives worked \ntogether to review the messages from all of the work that\u2019s been done and co-\nproductively identified the strategic priorities set out in this paper.1Introduction\nGloucestershire County Council, Gloucestershire Clinical Commissioning Group and",
+      "metadata": {
+        "chunk_id": 3,
+        "contains_financial_info": true,
+        "download_url": "https://www.gloucestershire.gov.uk/media/2086394/gloucestershire-autism-strategy-2018-2021.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "gloucestershire-autism-strategy-2018-2021.pdf",
+        "financial_pages": "[3, 4, 5, 9, 15, 16, 20, 22, 23, 25, 30, 31, 32, 33, 36, 38, 39]",
+        "level": "level_3",
+        "page_count": 40,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40]",
+        "source": "https://www.gloucestershire.gov.uk/health-and-social-care/disabilities/autism-and-neurodivergence-partnership-board/",
+        "source_url": "https://www.gloucestershire.gov.uk/health-and-social-care/disabilities/autism-and-neurodivergence-partnership-board/",
+        "total_chunks": 109,
+        "type": "pdf"
+      },
+      "id": "8d4238e5-63aa-4266-a12c-a98ea049eb4f",
+      "distance": 0.8589040040969849,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.09232879877090455,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 16 - FINANCIAL/BUDGET INFORMATION]\nGloucestershire County Council Adult Social Care   \nComplaints Annual Report 2023 - 2024  \nVersion 2.2: 27th August  2024  \n  \n16 \nTeam  Reasons for complaint by team  \n\u2022 Factual  errors  in the financial  assessment  / time taken  to \ncomplete  \n\u2022 Incorrect  invoice s consistently  issued  \n\u2022 Challenge  to deprivation  of assets  decision  \n\u2022 Multiple  handoffs  when  trying  to resolve  issue  (relates  to FAB,  \nFinance  and Brokerage)  \n\u2022 DRE  process  took too long to provide  resolution  \nSafeguarding and DoLS  1 complaint received  \n\u2022 Incorrect  decisions  when  proceeding  with a section  42 enquiry  \nClient Affairs  1 complaint received  \n\u2022 Communication  poor,  entered  property  without  legal  right  \nTelecare  2 complaints received  \nIn summary  the themes  were;  \n\u2022 Service  unable  to programm e equipment  to complete  test calls \non weekends  \n\u2022 Too long for engineer  to carry  our urgent  repairs   \nIn House \nServices/Support",
+      "metadata": {
+        "chunk_id": 31,
+        "contains_financial_info": true,
+        "download_url": "https://www.gloucestershire.gov.uk/media/ex2fitgj/annual-complaint-report-for-adult-care-2023-2024-v22-approved.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "annual-complaint-report-for-adult-care-2023-2024-v22-approved.pdf",
+        "financial_pages": "[4, 5, 9, 12, 13, 14, 15, 16, 17, 18, 20, 23, 24, 25, 26, 27, 28, 30]",
+        "level": "level_2",
+        "page_count": 32,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32]",
+        "source": "https://www.gloucestershire.gov.uk/council-and-democracy/complaints-and-feedback/complaints-about-adult-social-care/",
+        "source_url": "https://www.gloucestershire.gov.uk/council-and-democracy/complaints-and-feedback/complaints-about-adult-social-care/",
+        "total_chunks": 75,
+        "type": "pdf"
+      },
+      "id": "498575ce-939e-4a0e-8b52-f4701cc4146f",
+      "distance": 0.8857117891311646,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.08428646326065065,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "You can request support online  \n \nwww.gloucestershire.gov.uk/gloucestershires -community -help-hub/use   (not for social care referrals)   \n \nExample s of support they can help organise are:  \n \nFood  delivery, dog walking , picking up prescriptions, putting out bins, staying connected calls, \nhelpin g sort out appointments etc, Requests will be sent to district council locality hubs  to organise \nhelp.  \n \nIf you cannot use online forms call 01452 583519 Mon -Fr 8.30am -5pm Sat -Sun 9am -4pm",
+      "metadata": {
+        "chunk_id": 18,
+        "contains_financial_info": true,
+        "download_url": "https://www.gloucestershire.gov.uk/media/u0yfmh10/dementia-coronavirus-family-and-friends-version-3-pdf-9313-kb.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "dementia-coronavirus-family-and-friends-version-3-pdf-9313-kb.pdf",
+        "financial_pages": "[2, 4]",
+        "level": "level_3",
+        "page_count": 8,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8]",
+        "source": "https://www.gloucestershire.gov.uk/health-and-social-care/training-for-health-and-social-care-professionals/multi-agency-training/dementia-training-and-education-strategy-for-gloucestershire/",
+        "source_url": "https://www.gloucestershire.gov.uk/health-and-social-care/training-for-health-and-social-care-professionals/multi-agency-training/dementia-training-and-education-strategy-for-gloucestershire/",
+        "total_chunks": 24,
+        "type": "pdf"
+      },
+      "id": "ae643237-d821-43a7-94fe-ddd6effa8cdf",
+      "distance": 0.8892463445663452,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.08302609663009644,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 40 - FINANCIAL/BUDGET INFORMATION]\nGloucestershire County Council Adult Social Care   \nCQC Self -Assessment  \nVersion 6.1: April 2024   \nLinks updated July 2024  \nPage 40 of 42 \n \nRefer ences  \n \n1 JSNA https://www.gloucestershire.gov.uk/media/3jzcmzvv/mid -2022 -report.pdf    \n2 https://www.gloucestershire.gov.uk/inform/   \n3 Gloucestershire Integrated Care Partnership Strategy \nhttps://glostext.gloucestershire.gov.uk/documents/s54835/GCC_2596%20Joint%20Health%20and%2\n0Wellbeing%20Strategy_Dev5.pdf   \n4 Gloucestershire County Council, Vision 2050 https://www.gloucestershire.gov.uk/glos2050/what -is-\nthe-vision/   \n5 LGA Corporate Peer Challenge Final Report (gloucestershire.gov.uk)  \n6 FPR Reporting  \u2013 Cabinet report \nhttps://glostext.gloucestershire.gov.uk/ieDecisionDetails.aspx?ID=2106   \n7 https://www.gloucestershire.gov.uk/council -and-democracy/performance -and-spending/council -\nperformance/   \n8 Gloucestershire County Council, Health Inequalities Programmes",
+      "metadata": {
+        "chunk_id": 166,
+        "contains_financial_info": true,
+        "download_url": "https://www.gloucestershire.gov.uk/media/1fknazpw/gcc-asc-self-assessment-for-cqc-assessment-v61-april-2024-approved-links-updated-260724.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "gcc-asc-self-assessment-for-cqc-assessment-v61-april-2024-approved-links-updated-260724.pdf",
+        "financial_pages": "[6, 7, 9, 10, 11, 12, 14, 15, 16, 19, 20, 21, 22, 23, 24, 25, 26, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41]",
+        "level": "level_3",
+        "page_count": 42,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42]",
+        "source": "https://www.gloucestershire.gov.uk/health-and-social-care/cqc-assessment-of-gloucestershire-adult-social-care/",
+        "source_url": "https://www.gloucestershire.gov.uk/health-and-social-care/cqc-assessment-of-gloucestershire-adult-social-care/",
+        "total_chunks": 179,
+        "type": "pdf"
+      },
+      "id": "387534d2-5a61-4a3a-8723-751a747adf71",
+      "distance": 0.8912824988365173,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.0826152503490448,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 28 - FINANCIAL/BUDGET INFORMATION]\nGloucestershire County Council Adult Social Care   \nComplaints Annual Report 2023 - 2024  \nVersion 2.2: 27th August  2024  \n  \n28 \n \n \n \n \n \nUnwelcome  or \ndisputed  decision  Decision  to not fund Shared  Lives  carer  at fostering  rate 0  \n \n \n \n \n \n6 Decision  to not re-imburse  costs  0 \nOutcome  of Safeguarding  enquiry  1 \nIndividual\u2019s  request  for additional  funds  refused  2 \nAdditional  funding  not agreed  for nursing  placement  1 \nDecision  to place  SU at different  home  or respite  0 \nInappropriate  DOLs  or Best Interest  decision  2 \nDecision  to move  person  back  into their own home  rather  than with relatives  0 \nDecision  to move  SU from or to residential  placement  0 \n \n \n \n \n \n \n \n \n \n \n \nQuality  or \nappropriateness  of a \nservice  \n Quality  of charging  process  4  \n \n \n \n \n \n \n \n \n \n \n40 Errors  made  in assessment,  letters,  statements,  minutes  3 \nPerson\u2019s  wishes  overlooked  by decision  6",
+      "metadata": {
+        "chunk_id": 66,
+        "contains_financial_info": true,
+        "download_url": "https://www.gloucestershire.gov.uk/media/ex2fitgj/annual-complaint-report-for-adult-care-2023-2024-v22-approved.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "annual-complaint-report-for-adult-care-2023-2024-v22-approved.pdf",
+        "financial_pages": "[4, 5, 9, 12, 13, 14, 15, 16, 17, 18, 20, 23, 24, 25, 26, 27, 28, 30]",
+        "level": "level_2",
+        "page_count": 32,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32]",
+        "source": "https://www.gloucestershire.gov.uk/council-and-democracy/complaints-and-feedback/complaints-about-adult-social-care/",
+        "source_url": "https://www.gloucestershire.gov.uk/council-and-democracy/complaints-and-feedback/complaints-about-adult-social-care/",
+        "total_chunks": 75,
+        "type": "pdf"
+      },
+      "id": "fcd5af22-2dae-43c4-8917-43c7cb35f0ae",
+      "distance": 0.8998949193731143,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.08003152418806572,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 4,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 1]\nGloucestershire County Council Adult Social Care  \nCQC Self -Assessment  \nStatements from Exe cutive Officers  \nVersion 1: 20th March 2024  \nPage 1 of 1 \n \nStatement from Executive Director Adult Social \nCare, Wellbeing and Communities  \n\u201cOur self-assessment report has been co -produced with our \nstaff, partners and more importantly with people we serve. It is a \nfair representation of what we do well, and where we need to \nimprove. We are committed to working together to improve the \nlives of all people who require our help, their family, carers, and \nthe organisations that support them.  \n \nWe welcome this assessment  process and hold the insight, \nguidance and challenge received in the highest regard as a way \nto strengthen and embed continuous improvement across Adult Social Care in \nGloucestershire. As a Council and a service, we are committed to striving to ensure we can \nmake the best possible support offer to those that need us.  That means in terms of value for",
+      "metadata": {
+        "chunk_id": 0,
+        "download_url": "https://www.gloucestershire.gov.uk/media/35hp5g5o/statement-from-executive-director-professor-sarah-scott.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "statement-from-executive-director-professor-sarah-scott.pdf",
+        "level": "level_3",
+        "page_count": 1,
+        "pages_with_content": "[1]",
+        "source": "https://www.gloucestershire.gov.uk/health-and-social-care/cqc-assessment-of-gloucestershire-adult-social-care/",
+        "source_url": "https://www.gloucestershire.gov.uk/health-and-social-care/cqc-assessment-of-gloucestershire-adult-social-care/",
+        "total_chunks": 2,
+        "type": "pdf"
+      },
+      "id": "248edd84-ff9f-43b3-bbd7-b3cd6e644a95",
+      "distance": 0.9013489484786987,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.07959531545639038,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    }
+  ],
+  "context": "[Document 1] From https://www (pdf) - URL: https://www.gloucestershire.gov.uk/health-and-social-care/cqc-assessment-of-gloucestershire-adult-social-care/ - 42 pages [Retrieved via: semantic_original]:\nassessing need, supporting people to live healthier lives, equity in experience and outcomes, \ncare provision, partnership, and communities, safeguarding, safe systems, go vernance and \nmanagement, and improvement and innovation. The self -assessment asks:  \n1. What are our strengths and our ambition?  \n2. How are we performing and how do we know?  \n3. What are our plans to maintain or improve?  \n \nThe content is drawn from the last two years. All data is accurate as of end March 2024 .  Any \nnames referenced in case studies have been changed.  \nFurther detail is available on our  Gloucestershire County Council Preparation for CQC \nAssessment webpage s https://www.gloucestershire.gov.uk/health -and-social-care/cqc-\nassessment -of-gloucestershire -adult-social-care/  \nContents  \nIntroductory  Note  ................................ ................................ ................................ ............  2\n\n[Document 2] From https://www (pdf) - URL: https://www.gloucestershire.gov.uk/council-and-democracy/complaints-and-feedback/complaints-about-adult-social-care/ - 32 pages [Retrieved via: semantic_original]:\n[Page 14 - FINANCIAL/BUDGET INFORMATION]\nGloucestershire County Council Adult Social Care   \nComplaints Annual Report 2023 - 2024  \nVersion 2.2: 27th August  2024  \n  \n14 \nTeam  Reasons for complaint by team  \n\u2022 Communication,  interested  parties  not being  kept informed  of \ndevelopments  \n\u2022 Assessment  outcome  was wrong,  and subsequent  care \noffered  was not appropriate  to the need  \nForest  8 complaints received  \nIn summary  the themes  were;  \n\u2022 Assessment  took too long / took too long to resolve  funding  \nissue  \n\u2022 Assessment  outcome  was wrong,  and subsequent  care \noffered  was not appropriate  to the need  \n\u2022 Funding  not made  clear , including  \u201cTop Up\u201d arrangements  \n\u2022 Request  for Capacity  Assessment  denied  \n\u2022 General  conduct  of staff,  including  lack of empathy  / \ndismissive  approach  \n\u2022 Challenge  to Mental  Capacity  assessment  \nTewkesbury  7 complaints received  \nIn summary  the themes  were;  \n\u2022 Care  pathway  and subsequent  funding  not made  clear\n\n[Document 3] From https://www (pdf) - URL: https://www.gloucestershire.gov.uk/health-and-social-care/adult-social-care/paying-for-adult-social-care/paying-for-your-social-care/ - 30 pages [Retrieved via: semantic_original]:\n[Page 29]\n  \n  \n \nChange \nChange \nAny \nquestions? If you are paying for your care but \nthink you will run out of money, you should contact us. \nWe will do a \ufb01nancial assessment to see if we can help you pay for your care.  \nIf we help you to pay for your care, \nyou might ha\nve to change the care \nyou get. \nYou might have to move to a different \ncar\ne home. \nIf you have any questions about anything in this booklet, y\nou should \ntalk to your social worker.  \n29 \n\n[Page 30]\n \n \n \n \n Find out more \nYou can look at our website here:  \nhttps://www.gloucestershire.gov.uk/ \nhealth-and-social-care/adults-and-older-people/ \nYou can contact us by: \n\u2022 Post: \nAdult Social Care Gloucestershire County Council Shire Hall Westgate Street Gloucester GL1 2TG \n@ \n\u2022 Phone: 01452 426868 \n\u2022 Email: \nsocialcare.enq@gloucestershire.gov.uk \nThis Easy Read booklet was produced by easy-read-online.co.uk \n30\n\n[Document 4] From https://www (pdf) - URL: https://www.gloucestershire.gov.uk/health-and-social-care/adult-social-care/paying-for-adult-social-care/paying-for-your-social-care/ - 30 pages [Retrieved via: semantic_original]:\n[Page 29]\n  \n  \n \nChange \nChange \nAny \nquestions? If you are paying for your care but \nthink you will run out of money, you should contact us. \nWe will do a \ufb01nancial assessment to see if we can help you pay for your care.  \nIf we help you to pay for your care, \nyou might ha\nve to change the care \nyou get. \nYou might have to move to a different \ncar\ne home. \nIf you have any questions about anything in this booklet, y\nou should \ntalk to your social worker.  \n29 \n\n[Page 30]\n \n \n \n \n Find out more \nYou can look at our website here:  \nhttps://www.gloucestershire.gov.uk/ \nhealth-and-social-care/adults-and-older-people/ \nYou can contact us by: \n\u2022 Post: \nAdult Social Care Gloucestershire County Council Shire Hall Westgate Street Gloucester GL1 2TG \n@ \n\u2022 Phone: 01452 426868 \n\u2022 Email: \nsocialcare.enq@gloucestershire.gov.uk \nThis Easy Read booklet was produced by easy-read-online.co.uk \n30\n\n[Document 5] From https://www (pdf) - URL: https://www.gloucestershire.gov.uk/health-and-social-care/disabilities/autism-and-neurodivergence-partnership-board/ - 40 pages [Retrieved via: semantic_original]:\n[Page 3 - FINANCIAL/BUDGET INFORMATION]\n3\nGloucestershire Strategy for people with ASCs            2018-21\u2022 A needs assessment was undertaken in 2012\n\u2022 An on line consultation with members of Gloucestershire\u2019s ASCs Network Group \nand Parent \u2013 Carer Network was undertaken in August 2016 \n\u2022 A self assessment framework was completed for the Department of Health in \nOctober 2016\n\u2022 A listening day took place on 13th September 2017 where groups and individuals \nwith an interest in ASCs in Gloucestershire shared their perspectives on what needs \nto be in this strategy \n\u2022 A consultation day took place on 17th October 2017. There, people with ASCs and \ntheir families, as well as professionals and organisational representatives worked \ntogether to review the messages from all of the work that\u2019s been done and co-\nproductively identified the strategic priorities set out in this paper.1Introduction\nGloucestershire County Council, Gloucestershire Clinical Commissioning Group and\n\n[Document 6] From https://www (pdf) - URL: https://www.gloucestershire.gov.uk/council-and-democracy/complaints-and-feedback/complaints-about-adult-social-care/ - 32 pages [Retrieved via: semantic_original]:\n[Page 16 - FINANCIAL/BUDGET INFORMATION]\nGloucestershire County Council Adult Social Care   \nComplaints Annual Report 2023 - 2024  \nVersion 2.2: 27th August  2024  \n  \n16 \nTeam  Reasons for complaint by team  \n\u2022 Factual  errors  in the financial  assessment  / time taken  to \ncomplete  \n\u2022 Incorrect  invoice s consistently  issued  \n\u2022 Challenge  to deprivation  of assets  decision  \n\u2022 Multiple  handoffs  when  trying  to resolve  issue  (relates  to FAB,  \nFinance  and Brokerage)  \n\u2022 DRE  process  took too long to provide  resolution  \nSafeguarding and DoLS  1 complaint received  \n\u2022 Incorrect  decisions  when  proceeding  with a section  42 enquiry  \nClient Affairs  1 complaint received  \n\u2022 Communication  poor,  entered  property  without  legal  right  \nTelecare  2 complaints received  \nIn summary  the themes  were;  \n\u2022 Service  unable  to programm e equipment  to complete  test calls \non weekends  \n\u2022 Too long for engineer  to carry  our urgent  repairs   \nIn House \nServices/Support\n\n[Document 7] From https://www (pdf) - URL: https://www.gloucestershire.gov.uk/health-and-social-care/training-for-health-and-social-care-professionals/multi-agency-training/dementia-training-and-education-strategy-for-gloucestershire/ - 8 pages [Retrieved via: semantic_original]:\nYou can request support online  \n \nwww.gloucestershire.gov.uk/gloucestershires -community -help-hub/use   (not for social care referrals)   \n \nExample s of support they can help organise are:  \n \nFood  delivery, dog walking , picking up prescriptions, putting out bins, staying connected calls, \nhelpin g sort out appointments etc, Requests will be sent to district council locality hubs  to organise \nhelp.  \n \nIf you cannot use online forms call 01452 583519 Mon -Fr 8.30am -5pm Sat -Sun 9am -4pm\n\n[Document 8] From https://www (pdf) - URL: https://www.gloucestershire.gov.uk/health-and-social-care/cqc-assessment-of-gloucestershire-adult-social-care/ - 42 pages [Retrieved via: semantic_original]:\n[Page 40 - FINANCIAL/BUDGET INFORMATION]\nGloucestershire County Council Adult Social Care   \nCQC Self -Assessment  \nVersion 6.1: April 2024   \nLinks updated July 2024  \nPage 40 of 42 \n \nRefer ences  \n \n1 JSNA https://www.gloucestershire.gov.uk/media/3jzcmzvv/mid -2022 -report.pdf    \n2 https://www.gloucestershire.gov.uk/inform/   \n3 Gloucestershire Integrated Care Partnership Strategy \nhttps://glostext.gloucestershire.gov.uk/documents/s54835/GCC_2596%20Joint%20Health%20and%2\n0Wellbeing%20Strategy_Dev5.pdf   \n4 Gloucestershire County Council, Vision 2050 https://www.gloucestershire.gov.uk/glos2050/what -is-\nthe-vision/   \n5 LGA Corporate Peer Challenge Final Report (gloucestershire.gov.uk)  \n6 FPR Reporting  \u2013 Cabinet report \nhttps://glostext.gloucestershire.gov.uk/ieDecisionDetails.aspx?ID=2106   \n7 https://www.gloucestershire.gov.uk/council -and-democracy/performance -and-spending/council -\nperformance/   \n8 Gloucestershire County Council, Health Inequalities Programmes\n\n[Document 9] From https://www (pdf) - URL: https://www.gloucestershire.gov.uk/council-and-democracy/complaints-and-feedback/complaints-about-adult-social-care/ - 32 pages [Retrieved via: semantic_original]:\n[Page 28 - FINANCIAL/BUDGET INFORMATION]\nGloucestershire County Council Adult Social Care   \nComplaints Annual Report 2023 - 2024  \nVersion 2.2: 27th August  2024  \n  \n28 \n \n \n \n \n \nUnwelcome  or \ndisputed  decision  Decision  to not fund Shared  Lives  carer  at fostering  rate 0  \n \n \n \n \n \n6 Decision  to not re-imburse  costs  0 \nOutcome  of Safeguarding  enquiry  1 \nIndividual\u2019s  request  for additional  funds  refused  2 \nAdditional  funding  not agreed  for nursing  placement  1 \nDecision  to place  SU at different  home  or respite  0 \nInappropriate  DOLs  or Best Interest  decision  2 \nDecision  to move  person  back  into their own home  rather  than with relatives  0 \nDecision  to move  SU from or to residential  placement  0 \n \n \n \n \n \n \n \n \n \n \n \nQuality  or \nappropriateness  of a \nservice  \n Quality  of charging  process  4  \n \n \n \n \n \n \n \n \n \n \n40 Errors  made  in assessment,  letters,  statements,  minutes  3 \nPerson\u2019s  wishes  overlooked  by decision  6\n\n[Document 10] From https://www (pdf) - URL: https://www.gloucestershire.gov.uk/health-and-social-care/cqc-assessment-of-gloucestershire-adult-social-care/ - 1 pages [Retrieved via: semantic_original]:\n[Page 1]\nGloucestershire County Council Adult Social Care  \nCQC Self -Assessment  \nStatements from Exe cutive Officers  \nVersion 1: 20th March 2024  \nPage 1 of 1 \n \nStatement from Executive Director Adult Social \nCare, Wellbeing and Communities  \n\u201cOur self-assessment report has been co -produced with our \nstaff, partners and more importantly with people we serve. It is a \nfair representation of what we do well, and where we need to \nimprove. We are committed to working together to improve the \nlives of all people who require our help, their family, carers, and \nthe organisations that support them.  \n \nWe welcome this assessment  process and hold the insight, \nguidance and challenge received in the highest regard as a way \nto strengthen and embed continuous improvement across Adult Social Care in \nGloucestershire. As a Council and a service, we are committed to striving to ensure we can \nmake the best possible support offer to those that need us.  That means in terms of value for\n",
+  "answer": "To request a reassessment of your wife's needs in Gloucestershire, you should contact the Adult Social Care department directly. You can do this by phone at **01452 426868** or by email at **socialcare.enq@gloucestershire.gov.uk**. Unfortunately, the available documents do not specify how long the reassessment process will take.\n\n**Steps to Request a Reassessment:**\n- **Contact Adult Social Care:** Use the provided phone number or email to initiate the request.\n- **Provide Details:** Be prepared to explain how your wife's needs have changed since her last assessment.\n\n**Additional Resources:**\n- For more information, you can visit the Gloucestershire County Council's adult social care webpage: [Gloucestershire Adult Social Care](https://www.gloucestershire.gov.uk/health-and-social-care/adults-and-older-people/).\n\nIf you encounter any issues or delays, you might consider looking into the complaints process as outlined in the Gloucestershire County Council Adult Social Care Complaints Annual Report.",
+  "metrics": {
+    "duration_seconds": 5.27906608581543,
+    "retrieved_docs_count": 10,
+    "query_length": 148,
+    "answer_length": 1012,
+    "retrieval_method": "enhanced",
+    "context_utilization": 0.11683168316831684,
+    "citations_count": 0,
+    "has_citations": false,
+    "query_relevance": 0.9047619047619048,
+    "unique_retrieval_methods": 1,
+    "budget_documents_retrieved": 9,
+    "retrieval_methods_used": [
+      "semantic_original"
+    ],
+    "retrieval_method_distribution": {
+      "semantic_original": 10
+    }
+  },
+  "local_authority": "gloucestershire",
+  "query_id": "scn_23",
+  "retrieval_method": "enhanced",
+  "run_id": "b7872da1-6fa7-4e17-920e-0730f1b4a6dd",
+  "trace": {
+    "run_id": "b7872da1-6fa7-4e17-920e-0730f1b4a6dd",
+    "project": "social_care_rag",
+    "url": "https://eu.smith.langchain.com/o/me/runs/b7872da1-6fa7-4e17-920e-0730f1b4a6dd"
+  },
+  "test_metadata": {
+    "local_authority": "gloucestershire",
+    "query_id": "scn_23",
+    "query_category": "assessment_scenarios",
+    "prompt_variation": "optimized",
+    "prompt_template": "\nPlease answer the following question about social care services in UK local authorities based only on the information in the provided documents.\n\nQuestion: {query}\n\nContext from relevant documents:\n{context}\n\nInstructions:\n1. Provide a clear, direct answer that would help someone needing this information. If information isn't available, state: \"The available documents don't provide specific information about [aspect].\"\n\n2. Synthesize information from ALL relevant documents to provide the most complete answer rather than analyzing documents individually.\n\n3. Structure your response with:\n   - A concise 1-2 sentence summary first\n   - Relevant details organized in short, clear paragraphs\n   - Bullet points for lists or step-by-step information\n   - Bold text for key information the user should notice\n\n4. For financial information:\n   - Include exact figures, time periods, and what the funding covers\n   - Present financial data clearly: \"The adult social care budget is **\u00a3X million** for [time period]\"\n\n5. Always include practical next steps or resources:\n   - Provide contact information, URLs, or application methods mentioned in the documents\n   - Suggest where the person could find more information\n\n6. When citing sources, use a simple format: \"According to [document name/description]\" or include URLs where available.\n\nAnswer:\n",
+    "processing_time": 5.2812700271606445,
+    "timestamp": "2025-08-19T13:44:51.040544",
+    "top_k": 10
+  }
+}

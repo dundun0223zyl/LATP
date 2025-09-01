@@ -1,0 +1,275 @@
+{
+  "query": "I'm concerned about an elderly neighbor in leeds who seems confused and isn't eating properly. How do I report adult safeguarding concerns?",
+  "retrieved_documents": [
+    {
+      "content": "Report neglect or abuse of an adult Find out what to do if you're worried that an adult is being neglected or abused. If you suspect someone over 18 years old\u00a0is being mistreated, contact\u00a0us on: Phone: 0113 222 4401 (Monday to Friday 9am \u2013 5pm, except Wednesdays when we're open from 10am) Call with SignVideo live BSL interpretation Out of hours phone: 0113 378 0644 Email: leedsadults@leeds.gov.uk If you think someone is in immediate danger, call the police on 999. What you need to tell us We will need enough information to investigate and make sure that the person you're worried about is safe. If possible, try to speak to the person you are worried about before calling us to try to include them in the decision to seek help",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.leeds.gov.uk_adult-social-care_worried-about-someone_report-neglect-or-abuse-of-an-adult.txt",
+        "level": "level_2",
+        "source": "https://www.leeds.gov.uk/adult-social-care/worried-about-someone/report-neglect-or-abuse-of-an-adult",
+        "source_url": "https://www.leeds.gov.uk/adult-social-care/worried-about-someone/report-neglect-or-abuse-of-an-adult",
+        "total_chunks": 5,
+        "type": "web_page"
+      },
+      "id": "0305d3be-4955-4aee-8b9c-5fda1f4995db",
+      "distance": 0.6841830015182495,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.14474509954452514,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Tell us about a vulnerable person Find out what to do if you\u2019re worried about a vulnerable adult, including elderly neighbours, friends or relatives. If someone's had a fall or they are in immediate danger, call 999. If you think someone is being treated badly, you can: report abuse or neglect of an adult report a child protection concern Contact us about someone who might need support You can contact us about a vulnerable person who is 18 or older and seems like they are having difficulty coping. This could be someone who: is not looking after themselves or their home as well as they used to is being exploited or abused seems to have mental health problems seems frail or unsteady on their feet has signs of injury or mobility problems seems confused You can call anonymously if you want to",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.leeds.gov.uk_adult-social-care_worried-about-someone_tell-us-about-a-vulnerable-person.txt",
+        "level": "level_2",
+        "source": "https://www.leeds.gov.uk/adult-social-care/worried-about-someone/tell-us-about-a-vulnerable-person",
+        "source_url": "https://www.leeds.gov.uk/adult-social-care/worried-about-someone/tell-us-about-a-vulnerable-person",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "6581c1e6-945f-4966-b7a7-64c299f72e05",
+      "distance": 0.7555135488510132,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.12334593534469604,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Professionals: Adult social care referrals and safeguarding concerns Make an adult social care referral or report a safeguarding concern if you\u2019re a professional such as a doctor, nurse, social worker, police officer or housing officer. Make an adult social care referral Report a safeguarding concern Mental health act assessments To request an assessment under the mental health act, call: 0113 535 0003 (8:30am to 5pm, Monday to Friday) 0113 378 0644 (for emergencies on weekends, nights and bank holidays) Make an adult social care referral First, if you can, speak to the person to ensure they want help from us. We may not be able to help someone who does not want it. What we will need to know Please provide as much information as you can",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.leeds.gov.uk_adult-social-care_professionals-referrals-and-resources_professionals-care-referral.txt",
+        "level": "level_2",
+        "source": "https://www.leeds.gov.uk/adult-social-care/professionals-referrals-and-resources/professionals-care-referrals-and-safeguarding-reports",
+        "source_url": "https://www.leeds.gov.uk/adult-social-care/professionals-referrals-and-resources/professionals-care-referrals-and-safeguarding-reports",
+        "total_chunks": 7,
+        "type": "web_page"
+      },
+      "id": "b1ed0228-c493-404a-be29-c3b3a2001a5d",
+      "distance": 0.8081328272819519,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.10756015181541442,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". We will think about what the person being abused or neglected wants to happen and support them to stay safe in the future. We will also think about whether anyone else is at risk. We will work to make sure that the person you're concerned about is safe and well.\u00a0We may call you to ask for more information if we need it. We are not able to share people's personal details so we will not be able to keep you updated about any actions we take. Contact us Phone 0113 222 4401 (Monday to Friday 9am \u2013 5pm, except Wednesday when we are open from 10am) 0113 378 0644\u00a0(nights, weekends\u00a0and bank holidays) Call with SignVideo live BSL interpretation Email leedsadults@leeds.gov.uk Give feedback and let us know if this page was helpful",
+      "metadata": {
+        "chunk_id": 4,
+        "filename": "www.leeds.gov.uk_adult-social-care_worried-about-someone_report-neglect-or-abuse-of-an-adult.txt",
+        "level": "level_2",
+        "source": "https://www.leeds.gov.uk/adult-social-care/worried-about-someone/report-neglect-or-abuse-of-an-adult",
+        "source_url": "https://www.leeds.gov.uk/adult-social-care/worried-about-someone/report-neglect-or-abuse-of-an-adult",
+        "total_chunks": 5,
+        "type": "web_page"
+      },
+      "id": "63eaf442-b4f7-495c-aa66-5edcfb1bb0d3",
+      "distance": 0.8932681679725647,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.0820195496082306,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Worried about someone Get help for a friend or relative See how to get social care and support for your friend or family member so they can live well and be safe Tell us about a vulnerable adult Tell us about someone who might need care and support, including elderly neighbours Report abuse or neglect Tell us if you think an adult is being neglected, abused or exploited Concern about a care worker Tell us if you are concerned about the behaviour of a person in a position of trust Professionals: safeguarding and referrals For doctors, social workers and emergency services contacting adult social care Emergency social care contacts Who to contact in an adult social care emergency, including weekends, nights and bank holidays Mental health support Get support for someone with mental health needs Change someone's care See how to make changes to someone's care or tell us about a change in their address or situation Looking after a friend or relative We can support you to care for a friend or family member by",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.leeds.gov.uk_adult-social-care_worried-about-someone.txt",
+        "level": "level_1",
+        "source": "https://www.leeds.gov.uk/adult-social-care/worried-about-someone",
+        "source_url": "https://www.leeds.gov.uk/adult-social-care/worried-about-someone",
+        "total_chunks": 3,
+        "type": "web_page"
+      },
+      "id": "31439a1a-8003-4a83-b8ae-8e1a957d027d",
+      "distance": 0.8937067488009485,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.08188797535971545,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". If possible, try to speak to the person you are worried about before calling us to try to include them in the decision to seek help. You should tell us: their name why you're worried about them their address their date of birth any other information that could help us identify them details of their\u00a0family details of the person you suspect of mistreating them Don't worry if you do not have all of the information\u00a0above, you can still report your concerns to us. When you call, we\u2019ll ask for your details but you don\u2019t have to tell us if you want to remain anonymous. If you\u2019re worried about a child If you want to tell us about\u00a0someone aged under 18, see our page on reporting a child protection concern. When you should make a report to us You should let us know if you think that someone is being mistreated. The abuse or neglect could come from anyone including family members, friends or professionals",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.leeds.gov.uk_adult-social-care_worried-about-someone_report-neglect-or-abuse-of-an-adult.txt",
+        "level": "level_2",
+        "source": "https://www.leeds.gov.uk/adult-social-care/worried-about-someone/report-neglect-or-abuse-of-an-adult",
+        "source_url": "https://www.leeds.gov.uk/adult-social-care/worried-about-someone/report-neglect-or-abuse-of-an-adult",
+        "total_chunks": 5,
+        "type": "web_page"
+      },
+      "id": "b6de80ee-786d-47af-968d-22329bc19076",
+      "distance": 0.9062312841415405,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.07813061475753784,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". World Health Organisation (WHO) Age Friendly Cities: established to foster the exchange of experience and mutual learning between communities worldwide. How to get involved There are lots of ways for individuals, businesses and organisations to get involved with making Leeds an age-friendly city. Keep in touch by receiving our Age Friendly e-bulletin and get a copy of our Age Friendly Strategy and Action Plan. Email agefriendly@leeds.gov.uk Take a look at the Leeds Older People\u2019s Forum website to see how you can join the Age Friendly Steering Group or get involved with initiatives such as \u2018Come in and Rest\u2019. Get involved with your local neighbourhood network . Contact us Email: agefriendly@leeds.gov.uk Twitter: @AgeFriendlyLDS Give feedback and let us know if this page was helpful",
+      "metadata": {
+        "chunk_id": 17,
+        "filename": "www.leeds.gov.uk_age-friendly-leeds.txt",
+        "level": "level_1",
+        "source": "https://www.leeds.gov.uk/age-friendly-leeds",
+        "source_url": "https://www.leeds.gov.uk/age-friendly-leeds",
+        "total_chunks": 18,
+        "type": "web_page"
+      },
+      "id": "8e4de652-a891-417a-a7a8-29d1eb08341f",
+      "distance": 0.9158411622047424,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.07524765133857728,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Make sure you select 'Adult social care' when asked 'What does this relate to?'. Make a compliment or complaint Phone 0113 222 4405 (Monday, Wednesday and\u00a0Friday, 9am to 5pm) Email Complaints.SOCS@leeds.gov.uk Post The Complaints Manager Leeds City Council Adults and Health Complaints 5th Floor East Merrion House 110 Merrion Centre Leeds LS2 8BB BSL interpretation Use SignVideo live In person Visit one of our offices at a community hub . Alternative formats Easy Read We have produced an Easy Read leaflet that tells you how to tell us your thoughts about health and social care services in Leeds. Please email Complaints.SOCS@leeds.gov.uk or call 0113 222 4405 if you would like to receive an Easy Read leaflet electronically as a PDF file or a printed copy in the post. Other available formats Let us know if you need information in: braille large print audio tape an alternative language Give feedback and let us know if this page was helpful",
+      "metadata": {
+        "chunk_id": 5,
+        "filename": "www.leeds.gov.uk_adult-social-care_adults-and-health-compliments-and-complaints.txt",
+        "level": "level_1",
+        "source": "https://www.leeds.gov.uk/adult-social-care/adults-and-health-compliments-and-complaints",
+        "source_url": "https://www.leeds.gov.uk/adult-social-care/adults-and-health-compliments-and-complaints",
+        "total_chunks": 6,
+        "type": "web_page"
+      },
+      "id": "7269a934-c37c-48d6-b637-fed6637b649b",
+      "distance": 0.9169504642486572,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.07491486072540283,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". If you want to change someone's care because you're worried they are being treated badly, we can take action to make sure they're safe. Report abuse or neglect of an adult . Contact us Phone 0113 222 4401 (Weekdays, 9am to 5pm\u200b\u200b, except Wednesdays when we're open from 10am) Email leedsadults@leeds.gov.uk Urgent out of hours See social care emergency contacts British Sign Language interpretation Call using SignVideo live BSL interpretation Give feedback and let us know if this page was helpful",
+      "metadata": {
+        "chunk_id": 3,
+        "filename": "www.leeds.gov.uk_adult-social-care_changes-to-your-care.txt",
+        "level": "level_1",
+        "source": "https://www.leeds.gov.uk/adult-social-care/changes-to-your-care",
+        "source_url": "https://www.leeds.gov.uk/adult-social-care/changes-to-your-care",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "242e9ae0-4896-4631-9e6e-0790f5217bba",
+      "distance": 0.9299209713935852,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.07092370858192444,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". They're open for longer hours and can put you in touch with local services. Carers Leeds, Dementia Care If you look after someone with dementia, get help with 1 to 1 support, carers groups, training and benefits advice. Visit the Carers Leeds website for more information . If you're worried someone might go missing We are a partner in The Herbert Protocol. This is a way to help find loved ones who go missing. It encourages carers, friends and relatives of people to provide information about their loved ones which could help authorities find them quicker in the event of them going missing. You can complete a form on the Herbert Protocol webpage on the West Yorkshire Police website . The council You can get help with: council tax discounts for\u00a0carers and people with dementia looking after a family member or friend applying for an assisted bin collection You may also\u00a0need extra help with daily activities, such as washing or dressing",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.leeds.gov.uk_adult-social-care_dementia.txt",
+        "level": "level_1",
+        "source": "https://www.leeds.gov.uk/adult-social-care/dementia",
+        "source_url": "https://www.leeds.gov.uk/adult-social-care/dementia",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "d13f7a9e-5951-4629-af83-25431d16380d",
+      "distance": 0.9418063163757324,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.06745810508728027,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    }
+  ],
+  "context": "[Document 1] From https://www (web_page) - URL: https://www.leeds.gov.uk/adult-social-care/worried-about-someone/report-neglect-or-abuse-of-an-adult [Retrieved via: semantic_original]:\nReport neglect or abuse of an adult Find out what to do if you're worried that an adult is being neglected or abused. If you suspect someone over 18 years old\u00a0is being mistreated, contact\u00a0us on: Phone: 0113 222 4401 (Monday to Friday 9am \u2013 5pm, except Wednesdays when we're open from 10am) Call with SignVideo live BSL interpretation Out of hours phone: 0113 378 0644 Email: leedsadults@leeds.gov.uk If you think someone is in immediate danger, call the police on 999. What you need to tell us We will need enough information to investigate and make sure that the person you're worried about is safe. If possible, try to speak to the person you are worried about before calling us to try to include them in the decision to seek help\n\n[Document 2] From https://www (web_page) - URL: https://www.leeds.gov.uk/adult-social-care/worried-about-someone/tell-us-about-a-vulnerable-person [Retrieved via: semantic_original]:\nTell us about a vulnerable person Find out what to do if you\u2019re worried about a vulnerable adult, including elderly neighbours, friends or relatives. If someone's had a fall or they are in immediate danger, call 999. If you think someone is being treated badly, you can: report abuse or neglect of an adult report a child protection concern Contact us about someone who might need support You can contact us about a vulnerable person who is 18 or older and seems like they are having difficulty coping. This could be someone who: is not looking after themselves or their home as well as they used to is being exploited or abused seems to have mental health problems seems frail or unsteady on their feet has signs of injury or mobility problems seems confused You can call anonymously if you want to\n\n[Document 3] From https://www (web_page) - URL: https://www.leeds.gov.uk/adult-social-care/professionals-referrals-and-resources/professionals-care-referrals-and-safeguarding-reports [Retrieved via: semantic_original]:\nProfessionals: Adult social care referrals and safeguarding concerns Make an adult social care referral or report a safeguarding concern if you\u2019re a professional such as a doctor, nurse, social worker, police officer or housing officer. Make an adult social care referral Report a safeguarding concern Mental health act assessments To request an assessment under the mental health act, call: 0113 535 0003 (8:30am to 5pm, Monday to Friday) 0113 378 0644 (for emergencies on weekends, nights and bank holidays) Make an adult social care referral First, if you can, speak to the person to ensure they want help from us. We may not be able to help someone who does not want it. What we will need to know Please provide as much information as you can\n\n[Document 4] From https://www (web_page) - URL: https://www.leeds.gov.uk/adult-social-care/worried-about-someone/report-neglect-or-abuse-of-an-adult [Retrieved via: semantic_original]:\n. We will think about what the person being abused or neglected wants to happen and support them to stay safe in the future. We will also think about whether anyone else is at risk. We will work to make sure that the person you're concerned about is safe and well.\u00a0We may call you to ask for more information if we need it. We are not able to share people's personal details so we will not be able to keep you updated about any actions we take. Contact us Phone 0113 222 4401 (Monday to Friday 9am \u2013 5pm, except Wednesday when we are open from 10am) 0113 378 0644\u00a0(nights, weekends\u00a0and bank holidays) Call with SignVideo live BSL interpretation Email leedsadults@leeds.gov.uk Give feedback and let us know if this page was helpful\n\n[Document 5] From https://www (web_page) - URL: https://www.leeds.gov.uk/adult-social-care/worried-about-someone [Retrieved via: semantic_original]:\nWorried about someone Get help for a friend or relative See how to get social care and support for your friend or family member so they can live well and be safe Tell us about a vulnerable adult Tell us about someone who might need care and support, including elderly neighbours Report abuse or neglect Tell us if you think an adult is being neglected, abused or exploited Concern about a care worker Tell us if you are concerned about the behaviour of a person in a position of trust Professionals: safeguarding and referrals For doctors, social workers and emergency services contacting adult social care Emergency social care contacts Who to contact in an adult social care emergency, including weekends, nights and bank holidays Mental health support Get support for someone with mental health needs Change someone's care See how to make changes to someone's care or tell us about a change in their address or situation Looking after a friend or relative We can support you to care for a friend or family member by\n\n[Document 6] From https://www (web_page) - URL: https://www.leeds.gov.uk/adult-social-care/worried-about-someone/report-neglect-or-abuse-of-an-adult [Retrieved via: semantic_original]:\n. If possible, try to speak to the person you are worried about before calling us to try to include them in the decision to seek help. You should tell us: their name why you're worried about them their address their date of birth any other information that could help us identify them details of their\u00a0family details of the person you suspect of mistreating them Don't worry if you do not have all of the information\u00a0above, you can still report your concerns to us. When you call, we\u2019ll ask for your details but you don\u2019t have to tell us if you want to remain anonymous. If you\u2019re worried about a child If you want to tell us about\u00a0someone aged under 18, see our page on reporting a child protection concern. When you should make a report to us You should let us know if you think that someone is being mistreated. The abuse or neglect could come from anyone including family members, friends or professionals\n\n[Document 7] From https://www (web_page) - URL: https://www.leeds.gov.uk/age-friendly-leeds [Retrieved via: semantic_original]:\n. World Health Organisation (WHO) Age Friendly Cities: established to foster the exchange of experience and mutual learning between communities worldwide. How to get involved There are lots of ways for individuals, businesses and organisations to get involved with making Leeds an age-friendly city. Keep in touch by receiving our Age Friendly e-bulletin and get a copy of our Age Friendly Strategy and Action Plan. Email agefriendly@leeds.gov.uk Take a look at the Leeds Older People\u2019s Forum website to see how you can join the Age Friendly Steering Group or get involved with initiatives such as \u2018Come in and Rest\u2019. Get involved with your local neighbourhood network . Contact us Email: agefriendly@leeds.gov.uk Twitter: @AgeFriendlyLDS Give feedback and let us know if this page was helpful\n\n[Document 8] From https://www (web_page) - URL: https://www.leeds.gov.uk/adult-social-care/adults-and-health-compliments-and-complaints [Retrieved via: semantic_original]:\n. Make sure you select 'Adult social care' when asked 'What does this relate to?'. Make a compliment or complaint Phone 0113 222 4405 (Monday, Wednesday and\u00a0Friday, 9am to 5pm) Email Complaints.SOCS@leeds.gov.uk Post The Complaints Manager Leeds City Council Adults and Health Complaints 5th Floor East Merrion House 110 Merrion Centre Leeds LS2 8BB BSL interpretation Use SignVideo live In person Visit one of our offices at a community hub . Alternative formats Easy Read We have produced an Easy Read leaflet that tells you how to tell us your thoughts about health and social care services in Leeds. Please email Complaints.SOCS@leeds.gov.uk or call 0113 222 4405 if you would like to receive an Easy Read leaflet electronically as a PDF file or a printed copy in the post. Other available formats Let us know if you need information in: braille large print audio tape an alternative language Give feedback and let us know if this page was helpful\n\n[Document 9] From https://www (web_page) - URL: https://www.leeds.gov.uk/adult-social-care/changes-to-your-care [Retrieved via: semantic_original]:\n. If you want to change someone's care because you're worried they are being treated badly, we can take action to make sure they're safe. Report abuse or neglect of an adult . Contact us Phone 0113 222 4401 (Weekdays, 9am to 5pm\u200b\u200b, except Wednesdays when we're open from 10am) Email leedsadults@leeds.gov.uk Urgent out of hours See social care emergency contacts British Sign Language interpretation Call using SignVideo live BSL interpretation Give feedback and let us know if this page was helpful\n\n[Document 10] From https://www (web_page) - URL: https://www.leeds.gov.uk/adult-social-care/dementia [Retrieved via: semantic_original]:\n. They're open for longer hours and can put you in touch with local services. Carers Leeds, Dementia Care If you look after someone with dementia, get help with 1 to 1 support, carers groups, training and benefits advice. Visit the Carers Leeds website for more information . If you're worried someone might go missing We are a partner in The Herbert Protocol. This is a way to help find loved ones who go missing. It encourages carers, friends and relatives of people to provide information about their loved ones which could help authorities find them quicker in the event of them going missing. You can complete a form on the Herbert Protocol webpage on the West Yorkshire Police website . The council You can get help with: council tax discounts for\u00a0carers and people with dementia looking after a family member or friend applying for an assisted bin collection You may also\u00a0need extra help with daily activities, such as washing or dressing\n",
+  "answer": "If you're concerned about your elderly neighbor in Leeds who seems confused and isn't eating properly, you can report adult safeguarding concerns to the Leeds City Council. **Contact them by phone at 0113 222 4401** during weekdays from 9am to 5pm (except Wednesdays when they open at 10am). For out-of-hours concerns, call **0113 378 0644**. You can also email them at **leedsadults@leeds.gov.uk**.\n\nBefore making a report, if possible, try to speak with your neighbor to include them in the decision to seek help. When you contact the council, provide as much information as you can, such as their name, address, and why you're worried about them. You can choose to remain anonymous if you prefer.\n\nIf your neighbor is in immediate danger, call the police at 999. For more details, visit the Leeds City Council's page on reporting neglect or abuse of an adult: [Leeds Council Adult Social Care](https://www.leeds.gov.uk/adult-social-care/worried-about-someone/report-neglect-or-abuse-of-an-adult).",
+  "metrics": {
+    "duration_seconds": 8.944538116455078,
+    "retrieved_docs_count": 10,
+    "query_length": 139,
+    "answer_length": 999,
+    "retrieval_method": "enhanced",
+    "context_utilization": 0.21339950372208435,
+    "citations_count": 0,
+    "has_citations": false,
+    "query_relevance": 0.9,
+    "unique_retrieval_methods": 1,
+    "budget_documents_retrieved": 0,
+    "retrieval_methods_used": [
+      "semantic_original"
+    ],
+    "retrieval_method_distribution": {
+      "semantic_original": 10
+    }
+  },
+  "local_authority": "leeds",
+  "query_id": "scn_25",
+  "retrieval_method": "enhanced",
+  "run_id": "a1953796-d7cb-464b-9b70-1f7330d2af23",
+  "trace": {
+    "run_id": "a1953796-d7cb-464b-9b70-1f7330d2af23",
+    "project": "social_care_rag",
+    "url": "https://eu.smith.langchain.com/o/me/runs/a1953796-d7cb-464b-9b70-1f7330d2af23"
+  },
+  "test_metadata": {
+    "local_authority": "leeds",
+    "query_id": "scn_25",
+    "query_category": "emergency_scenarios",
+    "prompt_variation": "optimized",
+    "prompt_template": "\nPlease answer the following question about social care services in UK local authorities based only on the information in the provided documents.\n\nQuestion: {query}\n\nContext from relevant documents:\n{context}\n\nInstructions:\n1. Provide a clear, direct answer that would help someone needing this information. If information isn't available, state: \"The available documents don't provide specific information about [aspect].\"\n\n2. Synthesize information from ALL relevant documents to provide the most complete answer rather than analyzing documents individually.\n\n3. Structure your response with:\n   - A concise 1-2 sentence summary first\n   - Relevant details organized in short, clear paragraphs\n   - Bullet points for lists or step-by-step information\n   - Bold text for key information the user should notice\n\n4. For financial information:\n   - Include exact figures, time periods, and what the funding covers\n   - Present financial data clearly: \"The adult social care budget is **\u00a3X million** for [time period]\"\n\n5. Always include practical next steps or resources:\n   - Provide contact information, URLs, or application methods mentioned in the documents\n   - Suggest where the person could find more information\n\n6. When citing sources, use a simple format: \"According to [document name/description]\" or include URLs where available.\n\nAnswer:\n",
+    "processing_time": 8.947995901107788,
+    "timestamp": "2025-08-19T13:51:32.100537",
+    "top_k": 10
+  }
+}

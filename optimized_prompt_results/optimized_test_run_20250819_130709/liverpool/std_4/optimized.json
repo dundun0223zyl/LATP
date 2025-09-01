@@ -1,0 +1,293 @@
+{
+  "query": "What additional resources and support services are available for social care users in liverpool, including advocacy and complaints services?",
+  "retrieved_documents": [
+    {
+      "content": ". An OT assessment will help them to live more independently at home. Adults in an unpaid caring role If an adult looks after someone with support needs, you can refer them for a carer's assessment. This will look at what support they need in their role as carer and how we can help. Find out more about carer's assessments and how to refer . Adults with eligible support needs If an adult is eligible for support from adult social care a support enquiry will help us decide what the next steps should be. You can submit a support enquiry online below. You can only refer adults within the Liverpool local authority area. If they live outside the Liverpool area, please refer to the appropriate local authority. Before you start a support enquiry If you don\u2019t already have an online social care portal account, you must register first before submitting a referral. As part of the registration process, we will send a security authentication code to your email address \u2013 we will do this each time you sign in",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.liverpool.gov.uk_adult-social-care_professional-referrals_request-support-for-an-adult_.txt",
+        "level": "level_2",
+        "source": "https://www.liverpool.gov.uk/adult-social-care/professional-referrals/request-support-for-an-adult/",
+        "source_url": "https://www.liverpool.gov.uk/adult-social-care/professional-referrals/request-support-for-an-adult/",
+        "total_chunks": 5,
+        "type": "web_page"
+      },
+      "id": "8850466d-e8db-44dd-9fc1-636e64ac9fa1",
+      "distance": 0.5176293849945068,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.19471118450164793,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". How to get an advocate Our advocates are provided by the Liverpool Advocacy Hub . If you would like to get an advocate for yourself or someone else you can: call them on 0300 303 0629 email referral@liverpooladvocacyhub.org.uk complete the referral form online at Liverpool Advocacy Hub . You can also find out more about advocacy on Healthwatch Liverpool and the Live Well Directory . In this section Tell us about a change How to pay care charges Make a care payment enquiry Direct payments Deferred payment agreements (DPA) Disabled facilities grant Appeals Support from an advocate Access your social care records",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.liverpool.gov.uk_adult-social-care_already-receiving-care-services_support-from-an-advocate_.txt",
+        "level": "level_2",
+        "source": "https://www.liverpool.gov.uk/adult-social-care/already-receiving-care-services/support-from-an-advocate/",
+        "source_url": "https://www.liverpool.gov.uk/adult-social-care/already-receiving-care-services/support-from-an-advocate/",
+        "total_chunks": 3,
+        "type": "web_page"
+      },
+      "id": "e614fa18-d359-4bc8-a9d7-252ca8c0ad21",
+      "distance": 0.520785391330719,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.19376438260078432,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Equipment for your home Care technology Professional referrals and existing service users Referral processes for professionals, and information for people already receiving support services. Information for professionals making a referral Information for adults already receiving care Information for adults and carers we support Information on the statutory services we provide and how we assess care and support needs. Adult social care  - who we support Information for adults with eligible care and support needs and their carers. The Live Well Directory Search for local care and support services across the Liverpool City Region. The Live Well Directory The Live Well Directory brings together information about groups and organisations across the Liverpool City Region, offering services to people of all ages with various needs. Elsewhere on the web Wellbeing Liverpool A service designed to help you find activities, groups and organisations that can help you live the life you want to live",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.liverpool.gov.uk_adult-social-care_.txt",
+        "level": "level_0",
+        "source": "https://www.liverpool.gov.uk/adult-social-care/",
+        "source_url": "https://www.liverpool.gov.uk/adult-social-care/",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "50569cee-db84-44c0-9224-2a1f9c064de3",
+      "distance": 0.5248406848264531,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.19254779455206406,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Support for carers Caring for someone can be demanding and isolating, which is why it is so important to get support \u2013 whether from other carers or organisations. Liverpool Carers Centre The carers centre provides information, advice and support to unpaid carers. We offer carers activities and training and the opportunity to meet other carers in similar situations. If you would like to find out more about the support we offer or register as a carer, please contact us at: Local Solutions, Liverpool Carers Centre 99 Edge Lane Liverpool L7 2PE Telephone: 0151 705 2307. Email: carerscentre@localsolutions.org.uk . Visit the Local Solutions website . Carers UK An online resource for unpaid carers with expert information, advice and support, and also campaign to make life better for carers. Visit the Carers UK website",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.liverpool.gov.uk_adult-social-care_who-we-support_looking-after-someone_support-for-carers_.txt",
+        "level": "level_3",
+        "source": "https://www.liverpool.gov.uk/adult-social-care/who-we-support/looking-after-someone/support-for-carers/",
+        "source_url": "https://www.liverpool.gov.uk/adult-social-care/who-we-support/looking-after-someone/support-for-carers/",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "d770e501-649f-4588-93fc-d222099137db",
+      "distance": 0.5806208252906799,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.175813752412796,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Search the Live Well Directory A directory of care and support services, activities and information in the Liverpool City Region. In this section Being independent Being active Staying connected Getting out and about Staying safe at home Money matters The Live Well Directory Equipment for your home Information for professionals making a referral Information for adults already receiving care Adult social care  - who we support",
+      "metadata": {
+        "chunk_id": 4,
+        "filename": "www.liverpool.gov.uk_adult-social-care_staying-connected_.txt",
+        "level": "level_1",
+        "source": "https://www.liverpool.gov.uk/adult-social-care/staying-connected/",
+        "source_url": "https://www.liverpool.gov.uk/adult-social-care/staying-connected/",
+        "total_chunks": 5,
+        "type": "web_page"
+      },
+      "id": "79eb23db-7918-4dc9-a281-3343489b7be5",
+      "distance": 0.6415128310810775,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.15064615067567677,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 3]\nLiverpool City Council \u2013 ASC Customer Feedback and Complaints Procedure  \nPage 2 of 14 1 Introduction  \nWe welcome a ll forms of feedback about Adult Social Care  and operate a fair and \naccessible procedure for people to do this . We do not want customers  keeping their \nconcerns to themselves or complaining to other customers  about our services. We \nneed  customers to tell us what is not working and what is working wel l so we can \nimprove our services . Customers  do not have to pay to make a complaint or share \ntheir feedback with us  \u2013 this service is free . \nWe cannot have one complaints policy to cover all council services because some of \nour services are subject to specif ic legislation. This complaints procedure is to \nexplain how we deal with complaints about Adult Social Care and only applies to \ncomplaints about this service.  This procedure has been written in line with the \nstatutory framework for dealing with complaints  set out in the Local Authority Social",
+      "metadata": {
+        "chunk_id": 3,
+        "contains_financial_info": true,
+        "download_url": "https://www.liverpool.gov.uk/media/c5ee5j1c/adult-services-customer-feedback-and-complaints-procedure-april-2024-accessibility-checked.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "adult-services-customer-feedback-and-complaints-procedure-april-2024-accessibility-checked.pdf",
+        "financial_pages": "[4, 8, 10]",
+        "level": "level_2",
+        "page_count": 14,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]",
+        "source": "https://www.liverpool.gov.uk/contact-us/complaints-and-feedback/make-a-complaint-about-adult-social-care-services/",
+        "source_url": "https://www.liverpool.gov.uk/contact-us/complaints-and-feedback/make-a-complaint-about-adult-social-care-services/",
+        "total_chunks": 30,
+        "type": "pdf"
+      },
+      "id": "8db3f43c-2bf2-4c10-a58b-149ae344a039",
+      "distance": 0.6715803146362305,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.14852590560913087,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 5]\nLiverpool City Council \u2013 ASC Customer Feedback and Complaints Procedure  \nPage 4 of 14 2. Good Communication  \n3. Timeliness  \n4. Fairness  \n5. Accountability  \n3 Scope  \n3.1 Who can complain?  \nA customer  who is receiving, or has received, Adult Social Care services can \ncomplain.  We can also consider compla ints from individuals who have been affected \nby Adult Social Care services.  \nIf a customer  would like someone to complain on their behalf  and has provided \nconsent for them to do this, we can consider the complaint.  We will usually ask for \nwritten consent t o be provided so we know that the customer  is aware of the \ncomplaint and that progressing with the complaint will include accessing their social \ncare records and information from these records will likely be shared with their \nrepresentative.  \nWe must be sat isfied that a representative is acting in the best interest of a customer  \nif the representative wants to complain on behalf of a  someone who is unable to",
+      "metadata": {
+        "chunk_id": 8,
+        "contains_financial_info": true,
+        "download_url": "https://www.liverpool.gov.uk/media/c5ee5j1c/adult-services-customer-feedback-and-complaints-procedure-april-2024-accessibility-checked.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "adult-services-customer-feedback-and-complaints-procedure-april-2024-accessibility-checked.pdf",
+        "financial_pages": "[4, 8, 10]",
+        "level": "level_2",
+        "page_count": 14,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]",
+        "source": "https://www.liverpool.gov.uk/contact-us/complaints-and-feedback/make-a-complaint-about-adult-social-care-services/",
+        "source_url": "https://www.liverpool.gov.uk/contact-us/complaints-and-feedback/make-a-complaint-about-adult-social-care-services/",
+        "total_chunks": 30,
+        "type": "pdf"
+      },
+      "id": "eb03c599-3997-4ae0-8328-9f572aa2b1e5",
+      "distance": 0.6777374744415283,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.14667875766754152,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Ensure that if you need the help of an advocate that this is available to you. We work in partnership with the Liverpool Advocacy Rights Hub. The Advocacy Rights Hub provides independent information and advice and can signpost you to appropriate services and support. Assessment We will: Make sure that you are always involved in any discussion about your care and we will respect your privacy and dignity at times. Always support and promote your independence when planning or providing care. Handle your personal information in line with legislation and with due regard for your confidentiality. Undertake to ensure that your assessment is completed within four weeks of you first contacting us - in exceptional circumstance this may not be possible but we will contact you and tell you the reasons for this. Advise you if assessment is not the right option for you and you will be signposted to appropriate services or given relevant information. Tell you about the assessment process and who is involved in it",
+      "metadata": {
+        "chunk_id": 5,
+        "filename": "www.liverpool.gov.uk_adult-social-care_who-we-support_assessing-care-and-support-needs_adult-social-.txt",
+        "level": "level_3",
+        "source": "https://www.liverpool.gov.uk/adult-social-care/who-we-support/assessing-care-and-support-needs/adult-social-care-service-standards/",
+        "source_url": "https://www.liverpool.gov.uk/adult-social-care/who-we-support/assessing-care-and-support-needs/adult-social-care-service-standards/",
+        "total_chunks": 11,
+        "type": "web_page"
+      },
+      "id": "3c2f4695-0b08-4143-8b1f-399271fb3556",
+      "distance": 0.6777895092964172,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.14666314721107482,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "The Live Well Directory The Live Well Directory brings together information about groups and organisations across the Liverpool City Region, offering services to people of all ages with various needs. Search for services The directory provides information on a range of local care and support services. You can search the directory or view the range of categories including: Advice and guidance Staying safe Living independently Community, leisure and learning Looking after someone Housing and accommodation with care Your health and wellbeing Getting active Children and families The directory is also useful if you are looking for help with gardening or cleaning, or to find a handyperson to do some simple jobs in the home. You can search for information and explore a range of options such as\u00a0help to stop smoking, local care and\u00a0support as well as social activities, clubs and health and wellbeing services",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.liverpool.gov.uk_adult-social-care_live-well-directory_.txt",
+        "level": "level_1",
+        "source": "https://www.liverpool.gov.uk/adult-social-care/live-well-directory/",
+        "source_url": "https://www.liverpool.gov.uk/adult-social-care/live-well-directory/",
+        "total_chunks": 3,
+        "type": "web_page"
+      },
+      "id": "4d258295-e195-4552-8859-9ee0a7f67525",
+      "distance": 0.6796476177877809,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.14610571466366573,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "overseeing any works undertaken. Works undertaken in these \ncircumstances must be completed to the satisfaction of Liverpool City \nCouncil prior to the release of a ny grant funding.  \n3.5 Liverpool City Council will charge a 15% fee on all adaptations which is \ncommensurate with most other local authorities, and to use this money to \nbuild capacity within the team, to facilitate a greater volume of client \ncases.   In additi on (subject to available funding) Liverpool City Council \nmay also fund ancillary services, which address the housing, social care, \nand health needs of their clients, for example, Handyperson Service.  \n4 The Role of Adult Social Care   \n4.1 Requests for a DFG aris e as a result of an assessment by Adult Social \nServices. In these instances, following the assessment of the client, Adult \nSocial Services shall advise if adaptations are considered necessary and \nsend to Agency Services a written recommendation of their as sessment",
+      "metadata": {
+        "chunk_id": 11,
+        "contains_financial_info": true,
+        "download_url": "https://www.liverpool.gov.uk/media/k4tnix0w/disabled-facilities-grant-policy-2023.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "disabled-facilities-grant-policy-2023.pdf",
+        "financial_pages": "[3, 4, 5, 6, 7, 8, 9, 10, 11, 17, 18, 19, 20]",
+        "level": "level_2",
+        "page_count": 20,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]",
+        "source": "https://www.liverpool.gov.uk/adult-social-care/already-receiving-care-services/disabled-facilities-grant/",
+        "source_url": "https://www.liverpool.gov.uk/adult-social-care/already-receiving-care-services/disabled-facilities-grant/",
+        "total_chunks": 42,
+        "type": "pdf"
+      },
+      "id": "786600c4-873f-43fb-84c4-92750cfda338",
+      "distance": 0.6859655380249023,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1442103385925293,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    }
+  ],
+  "context": "[Document 1] From https://www (web_page) - URL: https://www.liverpool.gov.uk/adult-social-care/professional-referrals/request-support-for-an-adult/ [Retrieved via: semantic_original]:\n. An OT assessment will help them to live more independently at home. Adults in an unpaid caring role If an adult looks after someone with support needs, you can refer them for a carer's assessment. This will look at what support they need in their role as carer and how we can help. Find out more about carer's assessments and how to refer . Adults with eligible support needs If an adult is eligible for support from adult social care a support enquiry will help us decide what the next steps should be. You can submit a support enquiry online below. You can only refer adults within the Liverpool local authority area. If they live outside the Liverpool area, please refer to the appropriate local authority. Before you start a support enquiry If you don\u2019t already have an online social care portal account, you must register first before submitting a referral. As part of the registration process, we will send a security authentication code to your email address \u2013 we will do this each time you sign in\n\n[Document 2] From https://www (web_page) - URL: https://www.liverpool.gov.uk/adult-social-care/already-receiving-care-services/support-from-an-advocate/ [Retrieved via: semantic_original]:\n. How to get an advocate Our advocates are provided by the Liverpool Advocacy Hub . If you would like to get an advocate for yourself or someone else you can: call them on 0300 303 0629 email referral@liverpooladvocacyhub.org.uk complete the referral form online at Liverpool Advocacy Hub . You can also find out more about advocacy on Healthwatch Liverpool and the Live Well Directory . In this section Tell us about a change How to pay care charges Make a care payment enquiry Direct payments Deferred payment agreements (DPA) Disabled facilities grant Appeals Support from an advocate Access your social care records\n\n[Document 3] From https://www (web_page) - URL: https://www.liverpool.gov.uk/adult-social-care/ [Retrieved via: semantic_original]:\n. Equipment for your home Care technology Professional referrals and existing service users Referral processes for professionals, and information for people already receiving support services. Information for professionals making a referral Information for adults already receiving care Information for adults and carers we support Information on the statutory services we provide and how we assess care and support needs. Adult social care  - who we support Information for adults with eligible care and support needs and their carers. The Live Well Directory Search for local care and support services across the Liverpool City Region. The Live Well Directory The Live Well Directory brings together information about groups and organisations across the Liverpool City Region, offering services to people of all ages with various needs. Elsewhere on the web Wellbeing Liverpool A service designed to help you find activities, groups and organisations that can help you live the life you want to live\n\n[Document 4] From https://www (web_page) - URL: https://www.liverpool.gov.uk/adult-social-care/who-we-support/looking-after-someone/support-for-carers/ [Retrieved via: semantic_original]:\nSupport for carers Caring for someone can be demanding and isolating, which is why it is so important to get support \u2013 whether from other carers or organisations. Liverpool Carers Centre The carers centre provides information, advice and support to unpaid carers. We offer carers activities and training and the opportunity to meet other carers in similar situations. If you would like to find out more about the support we offer or register as a carer, please contact us at: Local Solutions, Liverpool Carers Centre 99 Edge Lane Liverpool L7 2PE Telephone: 0151 705 2307. Email: carerscentre@localsolutions.org.uk . Visit the Local Solutions website . Carers UK An online resource for unpaid carers with expert information, advice and support, and also campaign to make life better for carers. Visit the Carers UK website\n\n[Document 5] From https://www (web_page) - URL: https://www.liverpool.gov.uk/adult-social-care/staying-connected/ [Retrieved via: semantic_original]:\n. Search the Live Well Directory A directory of care and support services, activities and information in the Liverpool City Region. In this section Being independent Being active Staying connected Getting out and about Staying safe at home Money matters The Live Well Directory Equipment for your home Information for professionals making a referral Information for adults already receiving care Adult social care  - who we support\n\n[Document 6] From https://www (pdf) - URL: https://www.liverpool.gov.uk/contact-us/complaints-and-feedback/make-a-complaint-about-adult-social-care-services/ - 14 pages [Retrieved via: semantic_original]:\n[Page 3]\nLiverpool City Council \u2013 ASC Customer Feedback and Complaints Procedure  \nPage 2 of 14 1 Introduction  \nWe welcome a ll forms of feedback about Adult Social Care  and operate a fair and \naccessible procedure for people to do this . We do not want customers  keeping their \nconcerns to themselves or complaining to other customers  about our services. We \nneed  customers to tell us what is not working and what is working wel l so we can \nimprove our services . Customers  do not have to pay to make a complaint or share \ntheir feedback with us  \u2013 this service is free . \nWe cannot have one complaints policy to cover all council services because some of \nour services are subject to specif ic legislation. This complaints procedure is to \nexplain how we deal with complaints about Adult Social Care and only applies to \ncomplaints about this service.  This procedure has been written in line with the \nstatutory framework for dealing with complaints  set out in the Local Authority Social\n\n[Document 7] From https://www (pdf) - URL: https://www.liverpool.gov.uk/contact-us/complaints-and-feedback/make-a-complaint-about-adult-social-care-services/ - 14 pages [Retrieved via: semantic_original]:\n[Page 5]\nLiverpool City Council \u2013 ASC Customer Feedback and Complaints Procedure  \nPage 4 of 14 2. Good Communication  \n3. Timeliness  \n4. Fairness  \n5. Accountability  \n3 Scope  \n3.1 Who can complain?  \nA customer  who is receiving, or has received, Adult Social Care services can \ncomplain.  We can also consider compla ints from individuals who have been affected \nby Adult Social Care services.  \nIf a customer  would like someone to complain on their behalf  and has provided \nconsent for them to do this, we can consider the complaint.  We will usually ask for \nwritten consent t o be provided so we know that the customer  is aware of the \ncomplaint and that progressing with the complaint will include accessing their social \ncare records and information from these records will likely be shared with their \nrepresentative.  \nWe must be sat isfied that a representative is acting in the best interest of a customer  \nif the representative wants to complain on behalf of a  someone who is unable to\n\n[Document 8] From https://www (web_page) - URL: https://www.liverpool.gov.uk/adult-social-care/who-we-support/assessing-care-and-support-needs/adult-social-care-service-standards/ [Retrieved via: semantic_original]:\n. Ensure that if you need the help of an advocate that this is available to you. We work in partnership with the Liverpool Advocacy Rights Hub. The Advocacy Rights Hub provides independent information and advice and can signpost you to appropriate services and support. Assessment We will: Make sure that you are always involved in any discussion about your care and we will respect your privacy and dignity at times. Always support and promote your independence when planning or providing care. Handle your personal information in line with legislation and with due regard for your confidentiality. Undertake to ensure that your assessment is completed within four weeks of you first contacting us - in exceptional circumstance this may not be possible but we will contact you and tell you the reasons for this. Advise you if assessment is not the right option for you and you will be signposted to appropriate services or given relevant information. Tell you about the assessment process and who is involved in it\n\n[Document 9] From https://www (web_page) - URL: https://www.liverpool.gov.uk/adult-social-care/live-well-directory/ [Retrieved via: semantic_original]:\nThe Live Well Directory The Live Well Directory brings together information about groups and organisations across the Liverpool City Region, offering services to people of all ages with various needs. Search for services The directory provides information on a range of local care and support services. You can search the directory or view the range of categories including: Advice and guidance Staying safe Living independently Community, leisure and learning Looking after someone Housing and accommodation with care Your health and wellbeing Getting active Children and families The directory is also useful if you are looking for help with gardening or cleaning, or to find a handyperson to do some simple jobs in the home. You can search for information and explore a range of options such as\u00a0help to stop smoking, local care and\u00a0support as well as social activities, clubs and health and wellbeing services\n\n[Document 10] From https://www (pdf) - URL: https://www.liverpool.gov.uk/adult-social-care/already-receiving-care-services/disabled-facilities-grant/ - 20 pages [Retrieved via: semantic_original]:\noverseeing any works undertaken. Works undertaken in these \ncircumstances must be completed to the satisfaction of Liverpool City \nCouncil prior to the release of a ny grant funding.  \n3.5 Liverpool City Council will charge a 15% fee on all adaptations which is \ncommensurate with most other local authorities, and to use this money to \nbuild capacity within the team, to facilitate a greater volume of client \ncases.   In additi on (subject to available funding) Liverpool City Council \nmay also fund ancillary services, which address the housing, social care, \nand health needs of their clients, for example, Handyperson Service.  \n4 The Role of Adult Social Care   \n4.1 Requests for a DFG aris e as a result of an assessment by Adult Social \nServices. In these instances, following the assessment of the client, Adult \nSocial Services shall advise if adaptations are considered necessary and \nsend to Agency Services a written recommendation of their as sessment\n",
+  "answer": "In Liverpool, social care users have access to a variety of additional resources and support services, including advocacy and complaints services.\n\n**Advocacy Services:**\n- **Liverpool Advocacy Hub** provides advocates to assist individuals in understanding their rights and accessing services. You can contact them by calling **0300 303 0629**, emailing **referral@liverpooladvocacyhub.org.uk**, or completing the referral form online at the Liverpool Advocacy Hub. More information can also be found on Healthwatch Liverpool and the Live Well Directory (Document 2).\n\n**Complaints Services:**\n- Liverpool City Council operates a **free and accessible complaints procedure** for Adult Social Care services. Customers can provide feedback or make complaints about the services they receive. This process is designed to improve services based on customer input. For more details, visit the Liverpool City Council's complaints page (Document 6).\n\n**Additional Resources:**\n- **The Live Well Directory** offers a comprehensive list of local care and support services, including advice, guidance, and activities to support living independently and staying connected. It covers a wide range of categories such as health and wellbeing, community activities, and support for carers (Documents 3 and 9).\n- **Liverpool Carers Centre** provides support specifically for unpaid carers, offering information, advice, and opportunities to connect with other carers. They can be contacted at **0151 705 2307** or via email at **carerscentre@localsolutions.org.uk** (Document 4).\n\nFor further assistance or to explore more services, you can visit the Liverpool City Council's adult social care webpage at [Liverpool Adult Social Care](https://www.liverpool.gov.uk/adult-social-care/).",
+  "metrics": {
+    "duration_seconds": 16.367595911026,
+    "retrieved_docs_count": 10,
+    "query_length": 140,
+    "answer_length": 1769,
+    "retrieval_method": "enhanced",
+    "context_utilization": 0.22935779816513763,
+    "citations_count": 0,
+    "has_citations": false,
+    "query_relevance": 0.8461538461538461,
+    "unique_retrieval_methods": 1,
+    "budget_documents_retrieved": 3,
+    "retrieval_methods_used": [
+      "semantic_original"
+    ],
+    "retrieval_method_distribution": {
+      "semantic_original": 10
+    }
+  },
+  "local_authority": "liverpool",
+  "query_id": "std_4",
+  "retrieval_method": "enhanced",
+  "run_id": "4e1b9d74-2dd6-4f25-b3be-5d2c6adf6e54",
+  "trace": {
+    "run_id": "4e1b9d74-2dd6-4f25-b3be-5d2c6adf6e54",
+    "project": "social_care_rag",
+    "url": "https://eu.smith.langchain.com/o/me/runs/4e1b9d74-2dd6-4f25-b3be-5d2c6adf6e54"
+  },
+  "test_metadata": {
+    "local_authority": "liverpool",
+    "query_id": "std_4",
+    "query_category": "service_standard",
+    "prompt_variation": "optimized",
+    "prompt_template": "\nPlease answer the following question about social care services in UK local authorities based only on the information in the provided documents.\n\nQuestion: {query}\n\nContext from relevant documents:\n{context}\n\nInstructions:\n1. Provide a clear, direct answer that would help someone needing this information. If information isn't available, state: \"The available documents don't provide specific information about [aspect].\"\n\n2. Synthesize information from ALL relevant documents to provide the most complete answer rather than analyzing documents individually.\n\n3. Structure your response with:\n   - A concise 1-2 sentence summary first\n   - Relevant details organized in short, clear paragraphs\n   - Bullet points for lists or step-by-step information\n   - Bold text for key information the user should notice\n\n4. For financial information:\n   - Include exact figures, time periods, and what the funding covers\n   - Present financial data clearly: \"The adult social care budget is **\u00a3X million** for [time period]\"\n\n5. Always include practical next steps or resources:\n   - Provide contact information, URLs, or application methods mentioned in the documents\n   - Suggest where the person could find more information\n\n6. When citing sources, use a simple format: \"According to [document name/description]\" or include URLs where available.\n\nAnswer:\n",
+    "processing_time": 16.372945070266724,
+    "timestamp": "2025-08-19T13:55:04.707234",
+    "top_k": 10
+  }
+}

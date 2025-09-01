@@ -1,0 +1,305 @@
+{
+  "query": "I've been told I need a financial assessment for care in york. What documents should I prepare and how is my contribution calculated?",
+  "retrieved_documents": [
+    {
+      "content": ". Completing a carer's assessment yourself You can download a Carer's Assessment Form and an \u2018Assessment of Need factsheet\u2019 from the York Carers Centre website - return your completed from to our Carer's Assessment Team. Completing a carer's assessment with help Our adult social care team can help you to complete your carer's assessment. your assessment can be completed at the same time as an assessment for the person you care for alternatively it can be done separately and privately you may bring along another family member or friend (advocate) You can have an assessment even if the person you care for does not currently have any formal care arrangements in place. After a carer's assessment When you've completed an assessment (either by yourself or with help), we'll contact you to discuss your situation and what support may be available to help you",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.york.gov.uk_CarersAssessment.txt",
+        "level": "level_2",
+        "source": "https://www.york.gov.uk/CarersAssessment",
+        "source_url": "https://www.york.gov.uk/CarersAssessment",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "68512281-efa9-4f5e-b148-99a1660b2245",
+      "distance": 0.7397714257240295,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.12806857228279114,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". It's therefore important that you provide as much information as possible with your application. We recommend gathering the required information and documentation ahead of completing the form. You'll need to provide details of your household and income, including supporting documents for evidence. You can use these resources to help you list your income and expenses for your application: budget planner from MoneyHelper budget sheet from Citizens Advice You can provide the information needed to support your application, including bank statements, budget information and background information by: uploading PDF or JPG / GIF photos of your documents, when you complete the online form email to yfas@york.gov.uk post to YFAS, West Offices, Station Rise, York, YO1 6GA an in person appointment at West Offices (please book an appointment first) Complete an online YFAS form Help to apply If you are unable to complete the form online, you can call for assistance for free on telephone: 0808 168 5238",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.york.gov.uk_benefits_york-financial-assistance-scheme-yfas_5.txt",
+        "level": "level_2",
+        "source": "https://www.york.gov.uk/benefits/york-financial-assistance-scheme-yfas/5",
+        "source_url": "https://www.york.gov.uk/benefits/york-financial-assistance-scheme-yfas/5",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "f957a2ca-c0e3-4a76-84b1-32140d11e540",
+      "distance": 0.7856268882751465,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.11431193351745605,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 4 - FINANCIAL/BUDGET INFORMATION]\n4\nAssessments\nBefore we can offer you care and support services we will need to find \nout more about your circumstances. To help us do this we\u2019ll complete \nan assessment to look at your needs. \nIf your assessment identifies that you\u2019re eligible we\u2019ll help to arrange \nyour social care services. If your needs are less severe we will offer \nyou advice about other services and organisations which may help you \nin your daily life, including:\n\u2022 benefits advice\n\u2022  local services, care providers and groups, such as \n www.connecttosupport.org/york\nChoosing your care and support\nYou can choose the services which suit your needs, so that you\u2019re in \ncontrol of your care and support.\nFirst tell us about your needs; we\u2019ll discuss how any disability, illness \nor impairment affects your life during an assessment and work out the \ncost of helping you. \nWe\u2019ll also let you know if we can help with paying for your support",
+      "metadata": {
+        "chunk_id": 5,
+        "contains_financial_info": true,
+        "download_url": "",
+        "extraction_method": "PyPDF2",
+        "filename": "a-quick-guide-to-adult-social-care.pdf",
+        "financial_pages": "[4, 5, 6, 7, 8]",
+        "level": "level_2",
+        "page_count": 12,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]",
+        "source": "a-quick-guide-to-adult-social-care.pdf",
+        "source_url": "",
+        "total_chunks": 17,
+        "type": "pdf"
+      },
+      "id": "e14f8d34-2d26-49ec-a8ae-67ffeab5b16a",
+      "distance": 0.7930189967155457,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1120943009853363,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 4 - FINANCIAL/BUDGET INFORMATION]\n4\nAssessments\nBefore we can offer you care and support services we will need to find \nout more about your circumstances. To help us do this we\u2019ll complete \nan assessment to look at your needs. \nIf your assessment identifies that you\u2019re eligible we\u2019ll help to arrange \nyour social care services. If your needs are less severe we will offer \nyou advice about other services and organisations which may help you \nin your daily life, including:\n\u2022 benefits advice\n\u2022  local services, care providers and groups, such as \n www.connecttosupport.org/york\nChoosing your care and support\nYou can choose the services which suit your needs, so that you\u2019re in \ncontrol of your care and support.\nFirst tell us about your needs; we\u2019ll discuss how any disability, illness \nor impairment affects your life during an assessment and work out the \ncost of helping you. \nWe\u2019ll also let you know if we can help with paying for your support",
+      "metadata": {
+        "chunk_id": 5,
+        "contains_financial_info": true,
+        "download_url": "",
+        "extraction_method": "PyPDF2",
+        "filename": "a-quick-guide-to-adult-social-care.pdf",
+        "financial_pages": "[4, 5, 6, 7, 8]",
+        "level": "level_1",
+        "page_count": 12,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]",
+        "source": "a-quick-guide-to-adult-social-care.pdf",
+        "source_url": "",
+        "total_chunks": 17,
+        "type": "pdf"
+      },
+      "id": "60558248-4cbe-4c89-a07b-af8276c148f9",
+      "distance": 0.7930189967155457,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1120943009853363,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". For general enquiries about care and support finances contact our Customer Centre on telephone: 01904 551550 or use our British Sign Language interpreting service . For funding applications, financial assessments, and benefit applications, you can email: benefitscontributions@york.gov.uk or telephone: 01904 552044 For personal budgets, direct payments and charging, you can email: incomeservices@york.gov.uk or telephone: 01904 554684 For deferred payments, invoicing and payment plans, you can email: customeraccounts@york.gov.uk or telephone: 01904 555115 For court of protection queries, you can email: clientaffairsteam@york.gov.uk or\u00a0telephone: 01904 552337 GOV.UK provides more information regarding Power of Attorney or Court of Protection Deputyship , alternatively, telephone: 0300 456 0300",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.york.gov.uk_personalisation-care_paying-care_5.txt",
+        "level": "level_2",
+        "source": "https://www.york.gov.uk/personalisation-care/paying-care/5",
+        "source_url": "https://www.york.gov.uk/personalisation-care/paying-care/5",
+        "total_chunks": 7,
+        "type": "web_page"
+      },
+      "id": "04d4711d-68cb-40d9-9e93-b21969363deb",
+      "distance": 0.7967504262924194,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.11097487211227416,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 2 - FINANCIAL/BUDGET INFORMATION]\n  \n4.   Write down your decisions, choices and ideas . \n \n  \n5.   Put all of this information into your Support Plan.  \n \n \nWhat if I don\u2019t agree with the amount of mone y in my \nPersonal Budget?  \n \n \n \n Your Care Manager will look at your Support Plan. They \nwill check that you are being given the correct amount \nof money to meet your care needs. Your Care Manager \nwill make sure that your Personal Budget is fair.  \n \n \nFor furthe r information please look at the other Fact \nsheets in this series and our website: \nwww.york.gov.uk",
+      "metadata": {
+        "chunk_id": 1,
+        "contains_financial_info": true,
+        "download_url": "",
+        "extraction_method": "PyPDF2",
+        "filename": "how-to-get-a-personal-budget.pdf",
+        "financial_pages": "[1, 2]",
+        "level": "level_2",
+        "page_count": 2,
+        "pages_with_content": "[1, 2]",
+        "source": "how-to-get-a-personal-budget.pdf",
+        "source_url": "",
+        "total_chunks": 2,
+        "type": "pdf"
+      },
+      "id": "70c0f436-138c-418e-b138-251c475f3f4f",
+      "distance": 0.8018485307693481,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.10944544076919556,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 2 - FINANCIAL/BUDGET INFORMATION]\n  \n4.   Write down your decisions, choices and ideas . \n \n  \n5.   Put all of this information into your Support Plan.  \n \n \nWhat if I don\u2019t agree with the amount of mone y in my \nPersonal Budget?  \n \n \n \n Your Care Manager will look at your Support Plan. They \nwill check that you are being given the correct amount \nof money to meet your care needs. Your Care Manager \nwill make sure that your Personal Budget is fair.  \n \n \nFor furthe r information please look at the other Fact \nsheets in this series and our website: \nwww.york.gov.uk",
+      "metadata": {
+        "chunk_id": 1,
+        "contains_financial_info": true,
+        "download_url": "",
+        "extraction_method": "PyPDF2",
+        "filename": "how-to-get-a-personal-budget.pdf",
+        "financial_pages": "[1, 2]",
+        "level": "level_1",
+        "page_count": 2,
+        "pages_with_content": "[1, 2]",
+        "source": "how-to-get-a-personal-budget.pdf",
+        "source_url": "",
+        "total_chunks": 2,
+        "type": "pdf"
+      },
+      "id": "680f865f-8ba6-417e-8adf-26ba01238308",
+      "distance": 0.8018485903739929,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.10944542288780212,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 3 - FINANCIAL/BUDGET INFORMATION]\nDirect  Payments  Guide  | 3   \n1. Personal budgets and \ndirect  payments  - the basics  \nWhat i s a personal  budget?  \nCity of York Council gives financial support to people who need assistance to meet their social \ncare goals.To do this, we carry out a social care and a financial assessment.  \nThe amount we work out we need to pay a person is called a pe rsonal budget. In the personal \nbudget, we say what we, the council, will pay and what (if any) you need to pay towards the \ncost of your care, as agreed in your support plan.  \nEvery adult or carer who is eligible for care and support has a personal budget.   \n \nThe aim behind personal budgets and direct payments is to give people choice and control \nover how they meet their social care goals.  \nThis guide explains what these payments are, and how they work in York.  \nIt\u2019s been written  for anyone  considerin g applying  for a direct  payment,  their carers,  friends  or",
+      "metadata": {
+        "chunk_id": 3,
+        "contains_financial_info": true,
+        "download_url": "",
+        "extraction_method": "PyPDF2",
+        "filename": "direct-payments-march-2021.pdf",
+        "financial_pages": "[2, 3, 4, 6, 7, 10, 11, 12, 13, 14]",
+        "level": "level_2",
+        "page_count": 15,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]",
+        "source": "direct-payments-march-2021.pdf",
+        "source_url": "",
+        "total_chunks": 31,
+        "type": "pdf"
+      },
+      "id": "f32010d7-b45f-4ca1-a015-d5cfd27e2527",
+      "distance": 0.8059991598129272,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.10820025205612183,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Once a personal budget has been agreed, we combine it with your assessed contribution in a personal account for care and support which pays for the needs identified in your support plan. Direct payments Direct payments are a way of giving you your personal budget so that you can buy services directly yourself rather than the council doing this on your behalf. The aim behind personal budgets and direct payments is to give people choice and control over how they meet their social care goals. The Direct Payments Guide explains what direct payments are, and how they work in York. It\u2019s been written for anyone considering applying for a direct payment, their carers, friends or family and people working in the care and support sector",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.york.gov.uk_PersonalBudgets.txt",
+        "level": "level_2",
+        "source": "https://www.york.gov.uk/PersonalBudgets",
+        "source_url": "https://www.york.gov.uk/PersonalBudgets",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "a24f975e-d23a-41d1-a94a-558c6db0fc89",
+      "distance": 0.8109118342399597,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.10672644972801208,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "The council has a duty to provide information and advice. This is not limited to care and support. We can help you get advice relating to: financial management budgeting planning and paying for care If you're having difficulties managing your finances, then we can help you prepare budgets and if necessary, signpost you for debt management and counselling support if required. When you have a financial assessment, your benefit entitlement is checked. We will help you to understand the benefits that you may be entitled to claim, and if necessary, support you to make claims. We're unable to complete applications for some benefits, such as Universal Credit, but we can assist and guide you through the claims process. The Benefits and Contributions Advisors can help you with all aspects of understanding your financial assessment. This applies if your benefits change, and you need to have your assessment re-calculated",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.york.gov.uk_SocialCareFinancialAdvice.txt",
+        "level": "level_2",
+        "source": "https://www.york.gov.uk/SocialCareFinancialAdvice",
+        "source_url": "https://www.york.gov.uk/SocialCareFinancialAdvice",
+        "total_chunks": 10,
+        "type": "web_page"
+      },
+      "id": "459289ba-7628-4657-ad30-1cfabe280a75",
+      "distance": 0.8273645639419556,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.10179063081741332,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    }
+  ],
+  "context": "[Document 1] From https://www (web_page) - URL: https://www.york.gov.uk/CarersAssessment [Retrieved via: semantic_original]:\n. Completing a carer's assessment yourself You can download a Carer's Assessment Form and an \u2018Assessment of Need factsheet\u2019 from the York Carers Centre website - return your completed from to our Carer's Assessment Team. Completing a carer's assessment with help Our adult social care team can help you to complete your carer's assessment. your assessment can be completed at the same time as an assessment for the person you care for alternatively it can be done separately and privately you may bring along another family member or friend (advocate) You can have an assessment even if the person you care for does not currently have any formal care arrangements in place. After a carer's assessment When you've completed an assessment (either by yourself or with help), we'll contact you to discuss your situation and what support may be available to help you\n\n[Document 2] From https://www (web_page) - URL: https://www.york.gov.uk/benefits/york-financial-assistance-scheme-yfas/5 [Retrieved via: semantic_original]:\n. It's therefore important that you provide as much information as possible with your application. We recommend gathering the required information and documentation ahead of completing the form. You'll need to provide details of your household and income, including supporting documents for evidence. You can use these resources to help you list your income and expenses for your application: budget planner from MoneyHelper budget sheet from Citizens Advice You can provide the information needed to support your application, including bank statements, budget information and background information by: uploading PDF or JPG / GIF photos of your documents, when you complete the online form email to yfas@york.gov.uk post to YFAS, West Offices, Station Rise, York, YO1 6GA an in person appointment at West Offices (please book an appointment first) Complete an online YFAS form Help to apply If you are unable to complete the form online, you can call for assistance for free on telephone: 0808 168 5238\n\n[Document 3] From a quick guide to adult social care (pdf) - 12 pages [Retrieved via: semantic_original]:\n[Page 4 - FINANCIAL/BUDGET INFORMATION]\n4\nAssessments\nBefore we can offer you care and support services we will need to find \nout more about your circumstances. To help us do this we\u2019ll complete \nan assessment to look at your needs. \nIf your assessment identifies that you\u2019re eligible we\u2019ll help to arrange \nyour social care services. If your needs are less severe we will offer \nyou advice about other services and organisations which may help you \nin your daily life, including:\n\u2022 benefits advice\n\u2022  local services, care providers and groups, such as \n www.connecttosupport.org/york\nChoosing your care and support\nYou can choose the services which suit your needs, so that you\u2019re in \ncontrol of your care and support.\nFirst tell us about your needs; we\u2019ll discuss how any disability, illness \nor impairment affects your life during an assessment and work out the \ncost of helping you. \nWe\u2019ll also let you know if we can help with paying for your support\n\n[Document 4] From a quick guide to adult social care (pdf) - 12 pages [Retrieved via: semantic_original]:\n[Page 4 - FINANCIAL/BUDGET INFORMATION]\n4\nAssessments\nBefore we can offer you care and support services we will need to find \nout more about your circumstances. To help us do this we\u2019ll complete \nan assessment to look at your needs. \nIf your assessment identifies that you\u2019re eligible we\u2019ll help to arrange \nyour social care services. If your needs are less severe we will offer \nyou advice about other services and organisations which may help you \nin your daily life, including:\n\u2022 benefits advice\n\u2022  local services, care providers and groups, such as \n www.connecttosupport.org/york\nChoosing your care and support\nYou can choose the services which suit your needs, so that you\u2019re in \ncontrol of your care and support.\nFirst tell us about your needs; we\u2019ll discuss how any disability, illness \nor impairment affects your life during an assessment and work out the \ncost of helping you. \nWe\u2019ll also let you know if we can help with paying for your support\n\n[Document 5] From https://www (web_page) - URL: https://www.york.gov.uk/personalisation-care/paying-care/5 [Retrieved via: semantic_original]:\n. For general enquiries about care and support finances contact our Customer Centre on telephone: 01904 551550 or use our British Sign Language interpreting service . For funding applications, financial assessments, and benefit applications, you can email: benefitscontributions@york.gov.uk or telephone: 01904 552044 For personal budgets, direct payments and charging, you can email: incomeservices@york.gov.uk or telephone: 01904 554684 For deferred payments, invoicing and payment plans, you can email: customeraccounts@york.gov.uk or telephone: 01904 555115 For court of protection queries, you can email: clientaffairsteam@york.gov.uk or\u00a0telephone: 01904 552337 GOV.UK provides more information regarding Power of Attorney or Court of Protection Deputyship , alternatively, telephone: 0300 456 0300\n\n[Document 6] From how to get a personal budget (pdf) - 2 pages [Retrieved via: semantic_original]:\n[Page 2 - FINANCIAL/BUDGET INFORMATION]\n  \n4.   Write down your decisions, choices and ideas . \n \n  \n5.   Put all of this information into your Support Plan.  \n \n \nWhat if I don\u2019t agree with the amount of mone y in my \nPersonal Budget?  \n \n \n \n Your Care Manager will look at your Support Plan. They \nwill check that you are being given the correct amount \nof money to meet your care needs. Your Care Manager \nwill make sure that your Personal Budget is fair.  \n \n \nFor furthe r information please look at the other Fact \nsheets in this series and our website: \nwww.york.gov.uk\n\n[Document 7] From how to get a personal budget (pdf) - 2 pages [Retrieved via: semantic_original]:\n[Page 2 - FINANCIAL/BUDGET INFORMATION]\n  \n4.   Write down your decisions, choices and ideas . \n \n  \n5.   Put all of this information into your Support Plan.  \n \n \nWhat if I don\u2019t agree with the amount of mone y in my \nPersonal Budget?  \n \n \n \n Your Care Manager will look at your Support Plan. They \nwill check that you are being given the correct amount \nof money to meet your care needs. Your Care Manager \nwill make sure that your Personal Budget is fair.  \n \n \nFor furthe r information please look at the other Fact \nsheets in this series and our website: \nwww.york.gov.uk\n\n[Document 8] From direct payments march 2021 (pdf) - 15 pages [Retrieved via: semantic_original]:\n[Page 3 - FINANCIAL/BUDGET INFORMATION]\nDirect  Payments  Guide  | 3   \n1. Personal budgets and \ndirect  payments  - the basics  \nWhat i s a personal  budget?  \nCity of York Council gives financial support to people who need assistance to meet their social \ncare goals.To do this, we carry out a social care and a financial assessment.  \nThe amount we work out we need to pay a person is called a pe rsonal budget. In the personal \nbudget, we say what we, the council, will pay and what (if any) you need to pay towards the \ncost of your care, as agreed in your support plan.  \nEvery adult or carer who is eligible for care and support has a personal budget.   \n \nThe aim behind personal budgets and direct payments is to give people choice and control \nover how they meet their social care goals.  \nThis guide explains what these payments are, and how they work in York.  \nIt\u2019s been written  for anyone  considerin g applying  for a direct  payment,  their carers,  friends  or\n\n[Document 9] From https://www (web_page) - URL: https://www.york.gov.uk/PersonalBudgets [Retrieved via: semantic_original]:\n. Once a personal budget has been agreed, we combine it with your assessed contribution in a personal account for care and support which pays for the needs identified in your support plan. Direct payments Direct payments are a way of giving you your personal budget so that you can buy services directly yourself rather than the council doing this on your behalf. The aim behind personal budgets and direct payments is to give people choice and control over how they meet their social care goals. The Direct Payments Guide explains what direct payments are, and how they work in York. It\u2019s been written for anyone considering applying for a direct payment, their carers, friends or family and people working in the care and support sector\n\n[Document 10] From https://www (web_page) - URL: https://www.york.gov.uk/SocialCareFinancialAdvice [Retrieved via: semantic_original]:\nThe council has a duty to provide information and advice. This is not limited to care and support. We can help you get advice relating to: financial management budgeting planning and paying for care If you're having difficulties managing your finances, then we can help you prepare budgets and if necessary, signpost you for debt management and counselling support if required. When you have a financial assessment, your benefit entitlement is checked. We will help you to understand the benefits that you may be entitled to claim, and if necessary, support you to make claims. We're unable to complete applications for some benefits, such as Universal Credit, but we can assist and guide you through the claims process. The Benefits and Contributions Advisors can help you with all aspects of understanding your financial assessment. This applies if your benefits change, and you need to have your assessment re-calculated\n",
+  "answer": "To prepare for a financial assessment for care in York, you should gather detailed information about your household and income, including supporting documents such as bank statements and budget information. Your contribution towards care costs will be calculated based on this financial assessment, which considers your income and benefits.\n\n**Documents to Prepare:**\n- **Bank Statements**: Recent statements to show your financial transactions.\n- **Income Details**: Information about your income, including any benefits you receive.\n- **Budget Information**: Use resources like a budget planner from MoneyHelper or a budget sheet from Citizens Advice to list your income and expenses.\n\n**How Your Contribution is Calculated:**\n- The financial assessment will determine your ability to contribute to care costs by evaluating your income and benefits. The council will help you understand the benefits you may be entitled to claim and assist you in the claims process if necessary.\n\n**Practical Steps:**\n- **Upload Documents**: You can upload PDF or JPG/GIF photos of your documents when completing the online form.\n- **Contact Information**: For assistance, you can email benefitscontributions@york.gov.uk or call 01904 552044.\n- **More Information**: Visit [York Council's Social Care Financial Advice page](https://www.york.gov.uk/SocialCareFinancialAdvice) for further guidance.\n\nAccording to the documents, the financial assessment is crucial to determine what you need to pay towards your care, and the council will inform you if they can assist with these costs.",
+  "metrics": {
+    "duration_seconds": 14.909666061401367,
+    "retrieved_docs_count": 10,
+    "query_length": 133,
+    "answer_length": 1569,
+    "retrieval_method": "enhanced",
+    "context_utilization": 0.22340425531914893,
+    "citations_count": 2,
+    "has_citations": true,
+    "query_relevance": 0.8235294117647058,
+    "unique_retrieval_methods": 1,
+    "budget_documents_retrieved": 5,
+    "retrieval_methods_used": [
+      "semantic_original"
+    ],
+    "retrieval_method_distribution": {
+      "semantic_original": 10
+    }
+  },
+  "local_authority": "york",
+  "query_id": "scn_22",
+  "retrieval_method": "enhanced",
+  "run_id": "e2e94b5e-8a29-425e-bca4-c117becc7f2f",
+  "trace": {
+    "run_id": "e2e94b5e-8a29-425e-bca4-c117becc7f2f",
+    "project": "social_care_rag",
+    "url": "https://eu.smith.langchain.com/o/me/runs/e2e94b5e-8a29-425e-bca4-c117becc7f2f"
+  },
+  "test_metadata": {
+    "local_authority": "york",
+    "query_id": "scn_22",
+    "query_category": "assessment_scenarios",
+    "prompt_variation": "optimized",
+    "prompt_template": "\nPlease answer the following question about social care services in UK local authorities based only on the information in the provided documents.\n\nQuestion: {query}\n\nContext from relevant documents:\n{context}\n\nInstructions:\n1. Provide a clear, direct answer that would help someone needing this information. If information isn't available, state: \"The available documents don't provide specific information about [aspect].\"\n\n2. Synthesize information from ALL relevant documents to provide the most complete answer rather than analyzing documents individually.\n\n3. Structure your response with:\n   - A concise 1-2 sentence summary first\n   - Relevant details organized in short, clear paragraphs\n   - Bullet points for lists or step-by-step information\n   - Bold text for key information the user should notice\n\n4. For financial information:\n   - Include exact figures, time periods, and what the funding covers\n   - Present financial data clearly: \"The adult social care budget is **\u00a3X million** for [time period]\"\n\n5. Always include practical next steps or resources:\n   - Provide contact information, URLs, or application methods mentioned in the documents\n   - Suggest where the person could find more information\n\n6. When citing sources, use a simple format: \"According to [document name/description]\" or include URLs where available.\n\nAnswer:\n",
+    "processing_time": 14.913547039031982,
+    "timestamp": "2025-08-19T14:24:22.092803",
+    "top_k": 10
+  }
+}

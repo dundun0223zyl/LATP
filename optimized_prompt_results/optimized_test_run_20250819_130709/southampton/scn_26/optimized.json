@@ -1,0 +1,293 @@
+{
+  "query": "My son with learning disabilities is displaying challenging behavior that I can no longer manage at home in southampton. What emergency support is available?",
+  "retrieved_documents": [
+    {
+      "content": "--\n\nHome Someone is experiencing harm, abuse or neglect Our Adult Social Care self-help page directs you to the most relevant information. Find out how adult social care services in Southampton are improving . Staying independent at home Housing Financial support Support for carers Living with a health condition or disability Support after a hospital stay or illness Safety in the home Getting out and about Help in a crisis Getting my voice heard Can\u2019t find what you\u2019re looking for? You can: Visit the Adult Social Care homepage Search our directory for services that might be able to help Get impartial advice about tools and equipment to make daily living easier with EquipMe",
+      "metadata": {
+        "chunk_id": 0,
+        "filename": "www.southampton.gov.uk_self-assessment-tool_.txt",
+        "level": "level_1",
+        "source": "https://www.southampton.gov.uk/self-assessment-tool/",
+        "source_url": "https://www.southampton.gov.uk/self-assessment-tool/",
+        "total_chunks": 1,
+        "type": "web_page"
+      },
+      "id": "488916f7-79e2-4dc9-a63d-3c43447a785e",
+      "distance": 0.7131496071815491,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.13605511784553528,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "In this section Where to get support Adult care eligibility - who can get care and support? Independent living Help to stay at home Home care providers (current) Housing support for older people Southampton Day Service Summary of support available Provision : Home Care Providers Location: Own home Type of provision: Domiciliary (in home) respite Suitable for ages : 18 plus Telephone: 023 8083 2900 Description There are a small number of domiciliary care providers that have learning disabilities expertise that can offer short break services in a personalised way for people with learning disabilities and autism, providing support in people\u2019s own homes and their community. The support is tailored around individual needs, providing bespoke packages, and also covers crisis or emergency support. All home care providers are registered and inspected by the Care Quality Commission. If you are interested in finding out more, then speak to your social worker",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.southampton.gov.uk_adult-social-care_home-living_where-to-get-support_home-care-providers_.txt",
+        "level": "level_3",
+        "source": "https://www.southampton.gov.uk/adult-social-care/home-living/where-to-get-support/home-care-providers/",
+        "source_url": "https://www.southampton.gov.uk/adult-social-care/home-living/where-to-get-support/home-care-providers/",
+        "total_chunks": 3,
+        "type": "web_page"
+      },
+      "id": "0a7dea1f-bf73-491f-a47b-8fa686312a47",
+      "distance": 0.714139461517334,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1357581615447998,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". This new policy aims to prevent unnecessary hospital admissions for people with a learning disability and autistic people. The policy includes new guidance on the implementation of dynamic support registers and updates to the Care (Education) and treatment reviews. The easy read and plain English versions of the policy have been co-produced with people with a learning disability and autistic people. If you need this information in an alternative format please email england.CTRDSR@nhs.net . View the policy . Southampton local offer annual report SHOW The Children and Families Act 2014 requires that the Local Authority must publish an annual report on Special Educational Needs and Disability (SEND). This annual report details feedback, about the Local Offer, from children, young people and parent carers, what progress we have made, what we have learnt and our next steps",
+      "metadata": {
+        "chunk_id": 12,
+        "filename": "www.southampton.gov.uk_schools-learning_send-local-offer_send-document-hub_.txt",
+        "level": "level_2",
+        "source": "https://www.southampton.gov.uk/schools-learning/send-local-offer/send-document-hub/",
+        "source_url": "https://www.southampton.gov.uk/schools-learning/send-local-offer/send-document-hub/",
+        "total_chunks": 18,
+        "type": "web_page"
+      },
+      "id": "bbbd606c-8417-42cc-a78e-cdafc07a177b",
+      "distance": 0.7447050213813782,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.12658849358558655,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". You can also ask for an assessment of your needs by contacting Children's Resource Service . Unpaid Carers Support Southampton can also provide support to parent carers or other adults caring for a child who has Special Educational Needs and Disabilities (SEND). Our Carer Aware e-learning course may also be of interest to you. I'm a carer of an adult SHOW If you are a carer of someone over the age of 18 years old and would like support for yourself, please contact Unpaid Carers Support Southampton (UCSS) who have a dedicated team of staff to help you. To identify solutions to your support needs you can request a Carer\u2019s Assessment through UCSS\u00a0which can completed with the help of one of their staff. Our Carer Aware e-learning course , and the I\u2019m looking after someone and Self-help support for carers pages may also be of interest to you",
+      "metadata": {
+        "chunk_id": 4,
+        "filename": "www.southampton.gov.uk_adult-social-care_support-carers-away-home_carers_.txt",
+        "level": "level_2",
+        "source": "https://www.southampton.gov.uk/adult-social-care/support-carers-away-home/carers/",
+        "source_url": "https://www.southampton.gov.uk/adult-social-care/support-carers-away-home/carers/",
+        "total_chunks": 7,
+        "type": "web_page"
+      },
+      "id": "97e97333-770f-408d-a7d4-cda6d07b0ee0",
+      "distance": 0.7475841641426086,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1257247507572174,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "In this section Your abilities and needs Support for those with different abilities Hearing impairment Visual impairment Dual sensory loss Cancer and social care Local autism support Learning disability (current) Support for people who hoard This page provides information on services for adults with learning disabilities living in Southampton. Who are the Southampton Community Learning Disability teams? We are two teams based in two locations. Health Team The Health Team consists of: Learning disability nurses Physiotherapy Occupational therapy Art therapy Psychology and psychiatry Speech and language therapy Adult Services Team The Adult Services team consists of social workers and care managers. We also have an intensive support team who help people with complex health and behavioural needs. We work with adults who have a learning disability and need adapted healthcare which cannot be met by other services",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.southampton.gov.uk_adult-social-care_needs-abilities_southampton-community-learning-disability-t.txt",
+        "level": "level_2",
+        "source": "https://www.southampton.gov.uk/adult-social-care/needs-abilities/southampton-community-learning-disability-team/",
+        "source_url": "https://www.southampton.gov.uk/adult-social-care/needs-abilities/southampton-community-learning-disability-team/",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "d06f45de-ecd9-4b19-9485-7f7bfedc9c12",
+      "distance": 0.7507784962654114,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.12476645112037658,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "to physical outbursts or \u2022 Recognise that behaviour is a form of communication and understand the \nbehaviours that challenge C/YP unmet needs \n\u2022 Understand the frequency and location of triggers \n\u2022 Communicate with families about what might be happening at home (e.g. divorce, bereavement, illness), strategies that work/don\u2019t work and relaying this information to staff \n\u2022 Put preventative strategies in place \n\u2022 Have a safe area/reflection room \n\u2022 Use appropriate de-escalation and regulation strategies in place \u2022 Follow a risk management plan \u2022 Use strong reintegration plans \u2022 Follow a clear plan of action, agreed with parents/carers with regard to \nphysical intervention \n\u2022 See SEMH section \nVisit for more resources, tools and training \nwww.southampton.gov.uk/schools-learning/send-local-offer/professionals/ \ninclusive-education-audit/support/ordinarily-available-provision-guidance/ \n12",
+      "metadata": {
+        "chunk_id": 29,
+        "contains_financial_info": true,
+        "download_url": "https://www.southampton.gov.uk/media/cjvna3eh/322-6-ordinarily-available-provision-guidance.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "322-6-ordinarily-available-provision-guidance.pdf",
+        "financial_pages": "[2, 3, 4, 7, 8, 9, 11, 13, 16, 22, 24]",
+        "level": "level_2",
+        "page_count": 26,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26]",
+        "source": "https://www.southampton.gov.uk/schools-learning/send-local-offer/send-document-hub/",
+        "source_url": "https://www.southampton.gov.uk/schools-learning/send-local-offer/send-document-hub/",
+        "total_chunks": 72,
+        "type": "pdf"
+      },
+      "id": "11f8239d-3272-4f13-b42f-29054a5d18ef",
+      "distance": 0.7788671255111694,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.11633986234664917,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "through direct payments.\n\u2022 A mixture of more than one of these options\nHow can I access this?\nA referral can be made by a Parent/Carer or professionals working with the child via the Southampton\nChildren\u2019s Resource Service team, with the consent of the child\u2019s parent. If eligible, an assessment of needs\nwill be carried out by a social worker. This assessment will consider the impact of the child\u2019s disability on them\nand their parent/carer and siblings. This could result in an assessed need for additional support or respite. \nSouthampton Directory  |  Children\u2019s Resource Service\nTelephone (office hours): 023 8083 3004\nOut of hours: 023 8023 3344\nWhat is the Complex Tier of Support?\nFamilies open to the JIGSAW Children with Disabilities Team will have an assessment of needs and if eligible \nwill receive an individualised Short Breaks package of support through a Personal Budget. This might be \nthrough;\n\u2022 Individual support in the home or community (e.g. outreach)\n\u2022 Family based overnight and day care",
+      "metadata": {
+        "chunk_id": 18,
+        "contains_financial_info": true,
+        "download_url": "https://www.southampton.gov.uk/media/zcgm0mni/short-breaks-statement-updated-15-06-23.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "short-breaks-statement-updated-15-06-23.pdf",
+        "financial_pages": "[2, 4, 5, 6, 7, 8, 9, 10, 12]",
+        "level": "level_2",
+        "page_count": 12,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]",
+        "source": "https://www.southampton.gov.uk/schools-learning/send-local-offer/send-document-hub/",
+        "source_url": "https://www.southampton.gov.uk/schools-learning/send-local-offer/send-document-hub/",
+        "total_chunks": 31,
+        "type": "pdf"
+      },
+      "id": "b499b286-264d-4ebc-91e4-1cfb13797d46",
+      "distance": 0.7961024045944214,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.11116927862167358,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". There is also an option to purchase these via the app. EquipMe, which is available to all residents, their families and carers, provides information, advice and support on a range of topics, including health and wellbeing, daily activities, support in the home, and even support for your children. The online tool also provides impartial, detailed reports written by occupational therapists which offer easy-to-understand tips and guidance for health and care support. Councillor Lorna Fielker, Cabinet Member for Adults, Health and Housing, said: \u201cMany people don\u2019t know where to go to for advice and support in Southampton, or how to access the equipment they may need. I\u2019m really pleased we\u2019re now able to give residents greater control over their lives by enabling them to have a choice about the support they can access from organisations and agencies across Southampton",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.southampton.gov.uk_news_article_scc-new-access-info-advice-support_.txt",
+        "level": "level_2",
+        "source": "https://www.southampton.gov.uk/news/article/scc-new-access-info-advice-support/",
+        "source_url": "https://www.southampton.gov.uk/news/article/scc-new-access-info-advice-support/",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "55d4a876-5e74-4e19-b272-c37e2ad7be48",
+      "distance": 0.8056808710098267,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.108295738697052,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "In this section News Archive O2 Guildhall Southampton Leader's Corner Devolution and Local Government Reorganisation Residents who need to find information, advice, guidance and equipment in Southampton will benefit from new and improved ways to live healthily, well and independently for as long as possible 30/08/2023 Support is now available through a new online self-assessment tool which enables residents to find information on a range of topics, including: Staying independent at home Support with finances Safety in the home Support for carers Help in a crisis Southampton City Council has also launched EquipMe, a new online tool that helps residents to find tools and equipment to make tasks at home, and moving around, easier. There is also an option to purchase these via the app",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.southampton.gov.uk_news_article_scc-new-access-info-advice-support_.txt",
+        "level": "level_2",
+        "source": "https://www.southampton.gov.uk/news/article/scc-new-access-info-advice-support/",
+        "source_url": "https://www.southampton.gov.uk/news/article/scc-new-access-info-advice-support/",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "bebad0ae-26b3-44be-879d-a5da1800ce4d",
+      "distance": 0.81606525182724,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.10518042445182801,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 8 - FINANCIAL/BUDGET INFORMATION]\n8 www.southampton.gov.ukWhat is the Substantial Tier of Support? \nSubstantial support services are for disabled children, young people and their parent/carers who require \nmore support than is available through Low or Medium support services.\nFamily\u2019s needs who are assessed to be substantial will be supported through the relevant social care team. \nThese teams will be able to complete a short breaks assessment and if eligible the family will receive an \nindividual package of support through a Personal Budget. This might include: \n\u2022 Individual support in the home or community (e.g. outreach)\n\u2022 Direct Payments - to purchase individual support in line with the personal budget and direct payment \npolicy.\n\u2022 They may also be able to access the non-assessed short break activities at a subsidised rate, purchased \nthrough direct payments.\n\u2022 A mixture of more than one of these options\nHow can I access this?",
+      "metadata": {
+        "chunk_id": 17,
+        "contains_financial_info": true,
+        "download_url": "https://www.southampton.gov.uk/media/zcgm0mni/short-breaks-statement-updated-15-06-23.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "short-breaks-statement-updated-15-06-23.pdf",
+        "financial_pages": "[2, 4, 5, 6, 7, 8, 9, 10, 12]",
+        "level": "level_2",
+        "page_count": 12,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]",
+        "source": "https://www.southampton.gov.uk/schools-learning/send-local-offer/send-document-hub/",
+        "source_url": "https://www.southampton.gov.uk/schools-learning/send-local-offer/send-document-hub/",
+        "total_chunks": 31,
+        "type": "pdf"
+      },
+      "id": "3d21820f-06fc-4441-ab92-622b6df9683c",
+      "distance": 0.824613094329834,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1026160717010498,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    }
+  ],
+  "context": "[Document 1] From https://www (web_page) - URL: https://www.southampton.gov.uk/self-assessment-tool/ [Retrieved via: semantic_original]:\n--\n\nHome Someone is experiencing harm, abuse or neglect Our Adult Social Care self-help page directs you to the most relevant information. Find out how adult social care services in Southampton are improving . Staying independent at home Housing Financial support Support for carers Living with a health condition or disability Support after a hospital stay or illness Safety in the home Getting out and about Help in a crisis Getting my voice heard Can\u2019t find what you\u2019re looking for? You can: Visit the Adult Social Care homepage Search our directory for services that might be able to help Get impartial advice about tools and equipment to make daily living easier with EquipMe\n\n[Document 2] From https://www (web_page) - URL: https://www.southampton.gov.uk/adult-social-care/home-living/where-to-get-support/home-care-providers/ [Retrieved via: semantic_original]:\nIn this section Where to get support Adult care eligibility - who can get care and support? Independent living Help to stay at home Home care providers (current) Housing support for older people Southampton Day Service Summary of support available Provision : Home Care Providers Location: Own home Type of provision: Domiciliary (in home) respite Suitable for ages : 18 plus Telephone: 023 8083 2900 Description There are a small number of domiciliary care providers that have learning disabilities expertise that can offer short break services in a personalised way for people with learning disabilities and autism, providing support in people\u2019s own homes and their community. The support is tailored around individual needs, providing bespoke packages, and also covers crisis or emergency support. All home care providers are registered and inspected by the Care Quality Commission. If you are interested in finding out more, then speak to your social worker\n\n[Document 3] From https://www (web_page) - URL: https://www.southampton.gov.uk/schools-learning/send-local-offer/send-document-hub/ [Retrieved via: semantic_original]:\n. This new policy aims to prevent unnecessary hospital admissions for people with a learning disability and autistic people. The policy includes new guidance on the implementation of dynamic support registers and updates to the Care (Education) and treatment reviews. The easy read and plain English versions of the policy have been co-produced with people with a learning disability and autistic people. If you need this information in an alternative format please email england.CTRDSR@nhs.net . View the policy . Southampton local offer annual report SHOW The Children and Families Act 2014 requires that the Local Authority must publish an annual report on Special Educational Needs and Disability (SEND). This annual report details feedback, about the Local Offer, from children, young people and parent carers, what progress we have made, what we have learnt and our next steps\n\n[Document 4] From https://www (web_page) - URL: https://www.southampton.gov.uk/adult-social-care/support-carers-away-home/carers/ [Retrieved via: semantic_original]:\n. You can also ask for an assessment of your needs by contacting Children's Resource Service . Unpaid Carers Support Southampton can also provide support to parent carers or other adults caring for a child who has Special Educational Needs and Disabilities (SEND). Our Carer Aware e-learning course may also be of interest to you. I'm a carer of an adult SHOW If you are a carer of someone over the age of 18 years old and would like support for yourself, please contact Unpaid Carers Support Southampton (UCSS) who have a dedicated team of staff to help you. To identify solutions to your support needs you can request a Carer\u2019s Assessment through UCSS\u00a0which can completed with the help of one of their staff. Our Carer Aware e-learning course , and the I\u2019m looking after someone and Self-help support for carers pages may also be of interest to you\n\n[Document 5] From https://www (web_page) - URL: https://www.southampton.gov.uk/adult-social-care/needs-abilities/southampton-community-learning-disability-team/ [Retrieved via: semantic_original]:\nIn this section Your abilities and needs Support for those with different abilities Hearing impairment Visual impairment Dual sensory loss Cancer and social care Local autism support Learning disability (current) Support for people who hoard This page provides information on services for adults with learning disabilities living in Southampton. Who are the Southampton Community Learning Disability teams? We are two teams based in two locations. Health Team The Health Team consists of: Learning disability nurses Physiotherapy Occupational therapy Art therapy Psychology and psychiatry Speech and language therapy Adult Services Team The Adult Services team consists of social workers and care managers. We also have an intensive support team who help people with complex health and behavioural needs. We work with adults who have a learning disability and need adapted healthcare which cannot be met by other services\n\n[Document 6] From https://www (pdf) - URL: https://www.southampton.gov.uk/schools-learning/send-local-offer/send-document-hub/ - 26 pages [Retrieved via: semantic_original]:\nto physical outbursts or \u2022 Recognise that behaviour is a form of communication and understand the \nbehaviours that challenge C/YP unmet needs \n\u2022 Understand the frequency and location of triggers \n\u2022 Communicate with families about what might be happening at home (e.g. divorce, bereavement, illness), strategies that work/don\u2019t work and relaying this information to staff \n\u2022 Put preventative strategies in place \n\u2022 Have a safe area/reflection room \n\u2022 Use appropriate de-escalation and regulation strategies in place \u2022 Follow a risk management plan \u2022 Use strong reintegration plans \u2022 Follow a clear plan of action, agreed with parents/carers with regard to \nphysical intervention \n\u2022 See SEMH section \nVisit for more resources, tools and training \nwww.southampton.gov.uk/schools-learning/send-local-offer/professionals/ \ninclusive-education-audit/support/ordinarily-available-provision-guidance/ \n12\n\n[Document 7] From https://www (pdf) - URL: https://www.southampton.gov.uk/schools-learning/send-local-offer/send-document-hub/ - 12 pages [Retrieved via: semantic_original]:\nthrough direct payments.\n\u2022 A mixture of more than one of these options\nHow can I access this?\nA referral can be made by a Parent/Carer or professionals working with the child via the Southampton\nChildren\u2019s Resource Service team, with the consent of the child\u2019s parent. If eligible, an assessment of needs\nwill be carried out by a social worker. This assessment will consider the impact of the child\u2019s disability on them\nand their parent/carer and siblings. This could result in an assessed need for additional support or respite. \nSouthampton Directory  |  Children\u2019s Resource Service\nTelephone (office hours): 023 8083 3004\nOut of hours: 023 8023 3344\nWhat is the Complex Tier of Support?\nFamilies open to the JIGSAW Children with Disabilities Team will have an assessment of needs and if eligible \nwill receive an individualised Short Breaks package of support through a Personal Budget. This might be \nthrough;\n\u2022 Individual support in the home or community (e.g. outreach)\n\u2022 Family based overnight and day care\n\n[Document 8] From https://www (web_page) - URL: https://www.southampton.gov.uk/news/article/scc-new-access-info-advice-support/ [Retrieved via: semantic_original]:\n. There is also an option to purchase these via the app. EquipMe, which is available to all residents, their families and carers, provides information, advice and support on a range of topics, including health and wellbeing, daily activities, support in the home, and even support for your children. The online tool also provides impartial, detailed reports written by occupational therapists which offer easy-to-understand tips and guidance for health and care support. Councillor Lorna Fielker, Cabinet Member for Adults, Health and Housing, said: \u201cMany people don\u2019t know where to go to for advice and support in Southampton, or how to access the equipment they may need. I\u2019m really pleased we\u2019re now able to give residents greater control over their lives by enabling them to have a choice about the support they can access from organisations and agencies across Southampton\n\n[Document 9] From https://www (web_page) - URL: https://www.southampton.gov.uk/news/article/scc-new-access-info-advice-support/ [Retrieved via: semantic_original]:\nIn this section News Archive O2 Guildhall Southampton Leader's Corner Devolution and Local Government Reorganisation Residents who need to find information, advice, guidance and equipment in Southampton will benefit from new and improved ways to live healthily, well and independently for as long as possible 30/08/2023 Support is now available through a new online self-assessment tool which enables residents to find information on a range of topics, including: Staying independent at home Support with finances Safety in the home Support for carers Help in a crisis Southampton City Council has also launched EquipMe, a new online tool that helps residents to find tools and equipment to make tasks at home, and moving around, easier. There is also an option to purchase these via the app\n\n[Document 10] From https://www (pdf) - URL: https://www.southampton.gov.uk/schools-learning/send-local-offer/send-document-hub/ - 12 pages [Retrieved via: semantic_original]:\n[Page 8 - FINANCIAL/BUDGET INFORMATION]\n8 www.southampton.gov.ukWhat is the Substantial Tier of Support? \nSubstantial support services are for disabled children, young people and their parent/carers who require \nmore support than is available through Low or Medium support services.\nFamily\u2019s needs who are assessed to be substantial will be supported through the relevant social care team. \nThese teams will be able to complete a short breaks assessment and if eligible the family will receive an \nindividual package of support through a Personal Budget. This might include: \n\u2022 Individual support in the home or community (e.g. outreach)\n\u2022 Direct Payments - to purchase individual support in line with the personal budget and direct payment \npolicy.\n\u2022 They may also be able to access the non-assessed short break activities at a subsidised rate, purchased \nthrough direct payments.\n\u2022 A mixture of more than one of these options\nHow can I access this?\n",
+  "answer": "If your son with learning disabilities is displaying challenging behavior that you can no longer manage at home in Southampton, there are emergency support options available to you.\n\n**Emergency Support Options:**\n- **Domiciliary Care Providers:** There are domiciliary care providers in Southampton with expertise in learning disabilities that offer crisis or emergency support. These providers can offer short break services tailored to individual needs. For more information, contact them at **023 8083 2900**. (Document 2)\n- **Southampton Community Learning Disability Team:** This team includes an intensive support team for people with complex health and behavioral needs. They can provide specialized support for adults with learning disabilities. (Document 5)\n- **Children\u2019s Resource Service:** For immediate support, you can contact the Children\u2019s Resource Service. They can assess your needs and potentially provide additional support or respite. Contact them during office hours at **023 8083 3004** or out of hours at **023 8023 3344**. (Document 7)\n\n**Next Steps:**\n1. **Contact the Domiciliary Care Providers** at the provided phone number to discuss emergency support options.\n2. **Reach out to the Southampton Community Learning Disability Team** for specialized support.\n3. **Call the Children\u2019s Resource Service** to request an assessment of needs and explore respite options.\n\nFor further information and resources, you can visit the Southampton City Council's Adult Social Care homepage or use their self-assessment tool available online.",
+  "metrics": {
+    "duration_seconds": 13.237606763839722,
+    "retrieved_docs_count": 10,
+    "query_length": 157,
+    "answer_length": 1558,
+    "retrieval_method": "enhanced",
+    "context_utilization": 0.1732776617954071,
+    "citations_count": 0,
+    "has_citations": false,
+    "query_relevance": 0.9,
+    "unique_retrieval_methods": 1,
+    "budget_documents_retrieved": 3,
+    "retrieval_methods_used": [
+      "semantic_original"
+    ],
+    "retrieval_method_distribution": {
+      "semantic_original": 10
+    }
+  },
+  "local_authority": "southampton",
+  "query_id": "scn_26",
+  "retrieval_method": "enhanced",
+  "run_id": "9e5a360d-eb7b-476e-8564-be22dede27cc",
+  "trace": {
+    "run_id": "9e5a360d-eb7b-476e-8564-be22dede27cc",
+    "project": "social_care_rag",
+    "url": "https://eu.smith.langchain.com/o/me/runs/9e5a360d-eb7b-476e-8564-be22dede27cc"
+  },
+  "test_metadata": {
+    "local_authority": "southampton",
+    "query_id": "scn_26",
+    "query_category": "emergency_scenarios",
+    "prompt_variation": "optimized",
+    "prompt_template": "\nPlease answer the following question about social care services in UK local authorities based only on the information in the provided documents.\n\nQuestion: {query}\n\nContext from relevant documents:\n{context}\n\nInstructions:\n1. Provide a clear, direct answer that would help someone needing this information. If information isn't available, state: \"The available documents don't provide specific information about [aspect].\"\n\n2. Synthesize information from ALL relevant documents to provide the most complete answer rather than analyzing documents individually.\n\n3. Structure your response with:\n   - A concise 1-2 sentence summary first\n   - Relevant details organized in short, clear paragraphs\n   - Bullet points for lists or step-by-step information\n   - Bold text for key information the user should notice\n\n4. For financial information:\n   - Include exact figures, time periods, and what the funding covers\n   - Present financial data clearly: \"The adult social care budget is **\u00a3X million** for [time period]\"\n\n5. Always include practical next steps or resources:\n   - Provide contact information, URLs, or application methods mentioned in the documents\n   - Suggest where the person could find more information\n\n6. When citing sources, use a simple format: \"According to [document name/description]\" or include URLs where available.\n\nAnswer:\n",
+    "processing_time": 13.241939067840576,
+    "timestamp": "2025-08-19T14:18:26.675434",
+    "top_k": 10
+  }
+}

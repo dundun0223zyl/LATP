@@ -1,0 +1,317 @@
+{
+  "query": "I'm moving from Brighton-hove to Southampton. Will I need a new care needs assessment or can my current care package transfer?",
+  "retrieved_documents": [
+    {
+      "content": "[Page 13 - FINANCIAL/BUDGET INFORMATION]\nBrighton & Hove Market Sustainability Plan  \nThere are several established services in place, but we are keen to develop new partnerships with \nproviders that may not have delivered this service to date to ensure the right care for people leaving \nhospital . We would like to hear from providers that may be able to offer these services, particularly \nthose who are able to provide nursing care for older adults with dementia, including those who walk \nwith purpose  \n \nWorkforce Development  \nBrighton & Hove City Council recognise the importance of a well -trained and supported workforce in \nthe delivery of excellent adult social care services for our residents.   Significant funding is allocated to \nprovide a full annual training programme to meet the needs of our in -house services and \nindependent and voluntary providers working with Brighton & Hove City Council across the city.",
+      "metadata": {
+        "chunk_id": 39,
+        "contains_financial_info": true,
+        "download_url": "https://www.brighton-hove.gov.uk/sites/default/files/2023-03/BHCC%20Market%20Sustainability%20Plan_0.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "BHCC%20Market%20Sustainability%20Plan_0.pdf",
+        "financial_pages": "[1, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 16]",
+        "level": "level_2",
+        "page_count": 16,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]",
+        "source": "https://www.brighton-hove.gov.uk/adult-social-care/about-adult-social-care/annex-c-final-market-sustainability-plan",
+        "source_url": "https://www.brighton-hove.gov.uk/adult-social-care/about-adult-social-care/annex-c-final-market-sustainability-plan",
+        "total_chunks": 49,
+        "type": "pdf"
+      },
+      "id": "1ec2385a-fdb7-492c-8e94-e0d4c7b4939b",
+      "distance": 0.7546690106391907,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1235992968082428,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 4 - FINANCIAL/BUDGET INFORMATION]\nthe council\u2019s Housing \nAdaptations Service.  \n2. Property to remain in \nowner -occupation for \nfive years following the  \nmove. ( Not applicable for \nprivate tenants)  \n necessary utility \nand service set up \ncosts  \nminor adaptations \nto make the \nproperty suitable  \nHospital \nDischarge  Grants  \nto support any \nolder or disabled \nperson being \ndischarged from \nhospital or  \nintermediate  \ncare to home  \n Any older person aged \n65 or over or disabled \nperson being discharged \nfrom hospital or \nintermediate care to \nhome - owner -occupier, \nprivate tenant,  or \nhousing association \ntenant.  \n \nConditions  \n1. referral from the \ndedicated Early \nResponse Worker \nwithin the Help \nAfter Hospital \nteam supporting \nBrighton & \nSussex University \nHospital Trust \n(BSUHT) \ndischarge teams, \nhospital \nrehabilitation/  \n2. care teams, \nHealth and Social \nCare teams or the \nPatient Liaison  \nService (PALS)   \n3. excludes \npackages of care \nfunded by NHS \ncontinuing \nhealthcare",
+      "metadata": {
+        "chunk_id": 10,
+        "contains_financial_info": true,
+        "download_url": "https://www.brighton-hove.gov.uk/sites/default/files/2024-01/Disabled%20Facilities%20Grant%20Housing%20Policy.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Disabled%20Facilities%20Grant%20Housing%20Policy.pdf",
+        "financial_pages": "[1, 2, 3, 4, 5, 6, 7]",
+        "level": "level_3",
+        "page_count": 8,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8]",
+        "source": "https://www.brighton-hove.gov.uk/adult-social-care/care-and-support-adults/disabled-facilities-grant-housing-policy-2022-2025",
+        "source_url": "https://www.brighton-hove.gov.uk/adult-social-care/care-and-support-adults/disabled-facilities-grant-housing-policy-2022-2025",
+        "total_chunks": 22,
+        "type": "pdf"
+      },
+      "id": "bef9b7b6-b1ec-4d03-b746-17acade4c449",
+      "distance": 0.7824280858039856,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.11527157425880433,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 4 - FINANCIAL/BUDGET INFORMATION]\nthe council\u2019s Housing \nAdaptations Service.  \n2. Property to remain in \nowner -occupation for \nfive years following the  \nmove. ( Not applicable for \nprivate tenants)  \n necessary utility \nand service set up \ncosts  \nminor adaptations \nto make the \nproperty suitable  \nHospital \nDischarge  Grants  \nto support any \nolder or disabled \nperson being \ndischarged from \nhospital or  \nintermediate  \ncare to home  \n Any older person aged \n65 or over or disabled \nperson being discharged \nfrom hospital or \nintermediate care to \nhome - owner -occupier, \nprivate tenant,  or \nhousing association \ntenant.  \n \nConditions  \n1. referral from the \ndedicated Early \nResponse Worker \nwithin the Help \nAfter Hospital \nteam supporting \nBrighton & \nSussex University \nHospital Trust \n(BSUHT) \ndischarge teams, \nhospital \nrehabilitation/  \n2. care teams, \nHealth and Social \nCare teams or the \nPatient Liaison  \nService (PALS)   \n3. excludes \npackages of care \nfunded by NHS \ncontinuing \nhealthcare",
+      "metadata": {
+        "chunk_id": 10,
+        "contains_financial_info": true,
+        "download_url": "https://www.brighton-hove.gov.uk/sites/default/files/2024-01/Disabled%20Facilities%20Grant%20Housing%20Policy.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Disabled%20Facilities%20Grant%20Housing%20Policy.pdf",
+        "financial_pages": "[1, 2, 3, 4, 5, 6, 7]",
+        "level": "level_2",
+        "page_count": 8,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8]",
+        "source": "https://www.brighton-hove.gov.uk/adult-social-care/care-and-support-adults/disabled-facilities-grant-housing-policy-2022-2025",
+        "source_url": "https://www.brighton-hove.gov.uk/adult-social-care/care-and-support-adults/disabled-facilities-grant-housing-policy-2022-2025",
+        "total_chunks": 22,
+        "type": "pdf"
+      },
+      "id": "46c8ef27-746e-40f1-96ec-0e1cf3949244",
+      "distance": 0.7824280858039856,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.11527157425880433,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 14 - FINANCIAL/BUDGET INFORMATION]\nBrighton & Hove Market Sustainability Plan  \ncontract has been developed top provide a sustainable  model of delivery and to support health and \ncare system pressures.  The new contract will commence in July 2023 and will operate for 5 years \nwith the option to extend for a further 3 years. The commission will focus on a strengths -based \napproach to care delivery and not on traditional time and task duties, in line with Care Act guidance.   \n \nThe main changes required to transition from the current contracting arrangements to the new \nmodel are:  \n\u2022 an end to 15 -minute calls in the community unless expressly commissioned. (Extra Care \nsettings are approved for this duration due to the on -site nature of provision).  \n\u2022 establishing a strengths -based approach to care delivery  \n\u2022 working with assessment colleagues so that Care and Support plans are less prescriptive with \ntimes of care delivery with the intent ion, with some exceptions, that  Brighton & Hove City",
+      "metadata": {
+        "chunk_id": 43,
+        "contains_financial_info": true,
+        "download_url": "https://www.brighton-hove.gov.uk/sites/default/files/2023-03/BHCC%20Market%20Sustainability%20Plan_0.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "BHCC%20Market%20Sustainability%20Plan_0.pdf",
+        "financial_pages": "[1, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 16]",
+        "level": "level_2",
+        "page_count": 16,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]",
+        "source": "https://www.brighton-hove.gov.uk/adult-social-care/about-adult-social-care/annex-c-final-market-sustainability-plan",
+        "source_url": "https://www.brighton-hove.gov.uk/adult-social-care/about-adult-social-care/annex-c-final-market-sustainability-plan",
+        "total_chunks": 49,
+        "type": "pdf"
+      },
+      "id": "3df7433d-fbdc-4f13-bd3e-71c1ddfce194",
+      "distance": 0.7839931845664978,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.11480204463005066,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Brighton & Hove City Council is seeking providers that are able to: Facilitate safe, same day admissions for residents from community and hospital settings Make important equipment such as profiling beds, syringe drivers and hoists available for timely admission Make admissions in the evening over seven days per week Work within a trusted assessment process, as appropriate Complete the NHS capacity tracker daily\u00a0(beyond mandatory requirements) Spot purchasing and block contracts The vast majority of long stay residential and nursing placements in Brighton & Hove are made by spot purchase. Whilst this is largely successful, the council faces increasing pressures in sourcing certain types of residential care in the city at a sustainable cost. To address this, the Council will increase the number of block contract arrangements with providers where our ability to manage supply and cost is proving difficult",
+      "metadata": {
+        "chunk_id": 33,
+        "filename": "www.brighton-hove.gov.uk_adult-social-care_about-adult-social-care_annex-c-final-market-sustainabili.txt",
+        "level": "level_2",
+        "source": "https://www.brighton-hove.gov.uk/adult-social-care/about-adult-social-care/annex-c-final-market-sustainability-plan",
+        "source_url": "https://www.brighton-hove.gov.uk/adult-social-care/about-adult-social-care/annex-c-final-market-sustainability-plan",
+        "total_chunks": 44,
+        "type": "web_page"
+      },
+      "id": "7a69ba8a-2834-4e9a-a9fb-05c82a0efdf2",
+      "distance": 0.7936732172966003,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1118980348110199,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 7 - FINANCIAL/BUDGET INFORMATION]\nBrighton & Hove Market Sustainability Plan  \nWe will be reviewing our published set rates alongside our commissioning of residential provision \nover the next few years and consideration to the Cost of Care exercise outputs will be part of this \nprocess.   This will be one of many areas of consideration when reviewing fee rates going forward and \nother factors such as current rates being paid , and affordability will also need to be considered.  \nb) Assessment of current sustainability of the 18+ domiciliary care market  \n \nHome Care Market in Brighton & Hove  \nThere are a total of 37 providers of domiciliary  care across  Brighton & Hove who employ 1600 staff \nsupporting 2000 people within the city . 22 of these providers hold contracts with the local authority . \n \nCurrent challenges around this market are similar to the residential care market with workforce \nissues being a significant concern alongside the rates currently affordable  by the local au thority.  This",
+      "metadata": {
+        "chunk_id": 17,
+        "contains_financial_info": true,
+        "download_url": "https://www.brighton-hove.gov.uk/sites/default/files/2023-03/BHCC%20Market%20Sustainability%20Plan_0.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "BHCC%20Market%20Sustainability%20Plan_0.pdf",
+        "financial_pages": "[1, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 16]",
+        "level": "level_2",
+        "page_count": 16,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]",
+        "source": "https://www.brighton-hove.gov.uk/adult-social-care/about-adult-social-care/annex-c-final-market-sustainability-plan",
+        "source_url": "https://www.brighton-hove.gov.uk/adult-social-care/about-adult-social-care/annex-c-final-market-sustainability-plan",
+        "total_chunks": 49,
+        "type": "pdf"
+      },
+      "id": "4c318a26-8ae4-495f-af7e-e2ab38ea4ee5",
+      "distance": 0.8000000715255737,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.10999997854232788,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "\u2022 paying providers based on their rostered care \u2013 bringing about an end to minute by minute \npayments \u2013 and Home Care workers to be paid as rostered including travel time and the real \nliving wage as minimum.   This is a significant change and has required increased investment \nto support this.  \n\u2022 client contribution collections will revert to being a provider task . \n \nBrighton & Hove is currently split into 10 geographic areas across the city, but this will reduce to 4 for \nthe new contract. The areas of the city will be organised as East, West, North and Central and they \nwill align with the locality -based assessment tea ms postcode areas. For each of these areas, there \nwill be a single provider designated as a lead, and a further provider designated as back -up. Care \noffered under this contract will be delivered at a fixed hourly rate.",
+      "metadata": {
+        "chunk_id": 45,
+        "contains_financial_info": true,
+        "download_url": "https://www.brighton-hove.gov.uk/sites/default/files/2023-03/BHCC%20Market%20Sustainability%20Plan_0.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "BHCC%20Market%20Sustainability%20Plan_0.pdf",
+        "financial_pages": "[1, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 16]",
+        "level": "level_2",
+        "page_count": 16,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]",
+        "source": "https://www.brighton-hove.gov.uk/adult-social-care/about-adult-social-care/annex-c-final-market-sustainability-plan",
+        "source_url": "https://www.brighton-hove.gov.uk/adult-social-care/about-adult-social-care/annex-c-final-market-sustainability-plan",
+        "total_chunks": 49,
+        "type": "pdf"
+      },
+      "id": "e7fe5ed1-3c0d-4823-a873-7c82a29ef17f",
+      "distance": 0.8031005263328552,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.10906984210014344,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Home Care continues and these plans are set out  below.  \n \nRecommissioning of the care home contract  \nThe current care home contract, which ran from 2016 -2020 has been extended twice to allow \ncommissioners to respond to the pandemic. As the situation has eased recommissioning work has \nbegun in earnest. We will go out to tender in Summer 2023, with the new contract in place by 31st \nMarch 2024.  \nAs described above, the commissioning of good quality nursing/high frailty dementia nursing care \ncontinues to be a high priority  and t he MPS in development  will be ex pressing this as an area of \ndevelopment within the city .  Brighton & Hove City Council is seeking providers that:  \n \n1)    Can facilitate safe, same day admissions for residents from community and hospital settings.  \n2)    Can make important equipment such as profiling beds, syringe drivers and hoists available for \ntimely admission.  \n3)    Are able to make admissions in the evening over seven days per week.",
+      "metadata": {
+        "chunk_id": 36,
+        "contains_financial_info": true,
+        "download_url": "https://www.brighton-hove.gov.uk/sites/default/files/2023-03/BHCC%20Market%20Sustainability%20Plan_0.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "BHCC%20Market%20Sustainability%20Plan_0.pdf",
+        "financial_pages": "[1, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 16]",
+        "level": "level_2",
+        "page_count": 16,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]",
+        "source": "https://www.brighton-hove.gov.uk/adult-social-care/about-adult-social-care/annex-c-final-market-sustainability-plan",
+        "source_url": "https://www.brighton-hove.gov.uk/adult-social-care/about-adult-social-care/annex-c-final-market-sustainability-plan",
+        "total_chunks": 49,
+        "type": "pdf"
+      },
+      "id": "46a5e133-b869-4dff-9b08-077dd0e100dc",
+      "distance": 0.8036575317382812,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.10890274047851563,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "1. Purpose and approach Purpose 1.1 The purpose of this Policy is to clarify the process which Brighton & Hove City Council (the \u201cCouncil\u201d) will follow when considering the accommodation and care and support needs of residents within the community. This includes when the Council is responsible for funding care and accommodation in residential or nursing home care and complies with the Care Act 2014. Also included within scope of this policy are people living in their own homes and people who were previously self-funding their own care arrangements. 1.2 In summary, an assessment under the auspices of the Care Act 2014 will determine whether a person has eligible care and support needs. The assessment will include whether a person is eligible for care and support needs to be funded by the Council. The Council will listen and take account of the service user's preferences as to how those needs are met",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.brighton-hove.gov.uk_adult-social-care_pay-your-care-and-support_adult-social-care-choice-policy.txt",
+        "level": "level_3",
+        "source": "https://www.brighton-hove.gov.uk/adult-social-care/pay-your-care-and-support/adult-social-care-choice-policy",
+        "source_url": "https://www.brighton-hove.gov.uk/adult-social-care/pay-your-care-and-support/adult-social-care-choice-policy",
+        "total_chunks": 14,
+        "type": "web_page"
+      },
+      "id": "38273231-0267-4bb1-a57b-fba876904131",
+      "distance": 0.8132060766220093,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.10603817701339721,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "1. Purpose and approach Purpose 1.1 The purpose of this Policy is to clarify the process which Brighton & Hove City Council (the \u201cCouncil\u201d) will follow when considering the accommodation and care and support needs of residents within the community. This includes when the Council is responsible for funding care and accommodation in residential or nursing home care and complies with the Care Act 2014. Also included within scope of this policy are people living in their own homes and people who were previously self-funding their own care arrangements. 1.2 In summary, an assessment under the auspices of the Care Act 2014 will determine whether a person has eligible care and support needs. The assessment will include whether a person is eligible for care and support needs to be funded by the Council. The Council will listen and take account of the service user's preferences as to how those needs are met",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.brighton-hove.gov.uk_adult-social-care-hub_documents-adult-social-care_choice-policy-adult-socia.txt",
+        "level": "level_2",
+        "source": "https://www.brighton-hove.gov.uk/adult-social-care-hub/documents-adult-social-care/choice-policy-adult-social-care",
+        "source_url": "https://www.brighton-hove.gov.uk/adult-social-care-hub/documents-adult-social-care/choice-policy-adult-social-care",
+        "total_chunks": 14,
+        "type": "web_page"
+      },
+      "id": "b75734d6-51f9-4fa2-857e-16dfea3567c3",
+      "distance": 0.8132060766220093,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.10603817701339721,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    }
+  ],
+  "context": "[Document 1] From https://www (pdf) - URL: https://www.brighton-hove.gov.uk/adult-social-care/about-adult-social-care/annex-c-final-market-sustainability-plan - 16 pages [Retrieved via: semantic_original]:\n[Page 13 - FINANCIAL/BUDGET INFORMATION]\nBrighton & Hove Market Sustainability Plan  \nThere are several established services in place, but we are keen to develop new partnerships with \nproviders that may not have delivered this service to date to ensure the right care for people leaving \nhospital . We would like to hear from providers that may be able to offer these services, particularly \nthose who are able to provide nursing care for older adults with dementia, including those who walk \nwith purpose  \n \nWorkforce Development  \nBrighton & Hove City Council recognise the importance of a well -trained and supported workforce in \nthe delivery of excellent adult social care services for our residents.   Significant funding is allocated to \nprovide a full annual training programme to meet the needs of our in -house services and \nindependent and voluntary providers working with Brighton & Hove City Council across the city.\n\n[Document 2] From https://www (pdf) - URL: https://www.brighton-hove.gov.uk/adult-social-care/care-and-support-adults/disabled-facilities-grant-housing-policy-2022-2025 - 8 pages [Retrieved via: semantic_original]:\n[Page 4 - FINANCIAL/BUDGET INFORMATION]\nthe council\u2019s Housing \nAdaptations Service.  \n2. Property to remain in \nowner -occupation for \nfive years following the  \nmove. ( Not applicable for \nprivate tenants)  \n necessary utility \nand service set up \ncosts  \nminor adaptations \nto make the \nproperty suitable  \nHospital \nDischarge  Grants  \nto support any \nolder or disabled \nperson being \ndischarged from \nhospital or  \nintermediate  \ncare to home  \n Any older person aged \n65 or over or disabled \nperson being discharged \nfrom hospital or \nintermediate care to \nhome - owner -occupier, \nprivate tenant,  or \nhousing association \ntenant.  \n \nConditions  \n1. referral from the \ndedicated Early \nResponse Worker \nwithin the Help \nAfter Hospital \nteam supporting \nBrighton & \nSussex University \nHospital Trust \n(BSUHT) \ndischarge teams, \nhospital \nrehabilitation/  \n2. care teams, \nHealth and Social \nCare teams or the \nPatient Liaison  \nService (PALS)   \n3. excludes \npackages of care \nfunded by NHS \ncontinuing \nhealthcare\n\n[Document 3] From https://www (pdf) - URL: https://www.brighton-hove.gov.uk/adult-social-care/care-and-support-adults/disabled-facilities-grant-housing-policy-2022-2025 - 8 pages [Retrieved via: semantic_original]:\n[Page 4 - FINANCIAL/BUDGET INFORMATION]\nthe council\u2019s Housing \nAdaptations Service.  \n2. Property to remain in \nowner -occupation for \nfive years following the  \nmove. ( Not applicable for \nprivate tenants)  \n necessary utility \nand service set up \ncosts  \nminor adaptations \nto make the \nproperty suitable  \nHospital \nDischarge  Grants  \nto support any \nolder or disabled \nperson being \ndischarged from \nhospital or  \nintermediate  \ncare to home  \n Any older person aged \n65 or over or disabled \nperson being discharged \nfrom hospital or \nintermediate care to \nhome - owner -occupier, \nprivate tenant,  or \nhousing association \ntenant.  \n \nConditions  \n1. referral from the \ndedicated Early \nResponse Worker \nwithin the Help \nAfter Hospital \nteam supporting \nBrighton & \nSussex University \nHospital Trust \n(BSUHT) \ndischarge teams, \nhospital \nrehabilitation/  \n2. care teams, \nHealth and Social \nCare teams or the \nPatient Liaison  \nService (PALS)   \n3. excludes \npackages of care \nfunded by NHS \ncontinuing \nhealthcare\n\n[Document 4] From https://www (pdf) - URL: https://www.brighton-hove.gov.uk/adult-social-care/about-adult-social-care/annex-c-final-market-sustainability-plan - 16 pages [Retrieved via: semantic_original]:\n[Page 14 - FINANCIAL/BUDGET INFORMATION]\nBrighton & Hove Market Sustainability Plan  \ncontract has been developed top provide a sustainable  model of delivery and to support health and \ncare system pressures.  The new contract will commence in July 2023 and will operate for 5 years \nwith the option to extend for a further 3 years. The commission will focus on a strengths -based \napproach to care delivery and not on traditional time and task duties, in line with Care Act guidance.   \n \nThe main changes required to transition from the current contracting arrangements to the new \nmodel are:  \n\u2022 an end to 15 -minute calls in the community unless expressly commissioned. (Extra Care \nsettings are approved for this duration due to the on -site nature of provision).  \n\u2022 establishing a strengths -based approach to care delivery  \n\u2022 working with assessment colleagues so that Care and Support plans are less prescriptive with \ntimes of care delivery with the intent ion, with some exceptions, that  Brighton & Hove City\n\n[Document 5] From https://www (web_page) - URL: https://www.brighton-hove.gov.uk/adult-social-care/about-adult-social-care/annex-c-final-market-sustainability-plan [Retrieved via: semantic_original]:\n. Brighton & Hove City Council is seeking providers that are able to: Facilitate safe, same day admissions for residents from community and hospital settings Make important equipment such as profiling beds, syringe drivers and hoists available for timely admission Make admissions in the evening over seven days per week Work within a trusted assessment process, as appropriate Complete the NHS capacity tracker daily\u00a0(beyond mandatory requirements) Spot purchasing and block contracts The vast majority of long stay residential and nursing placements in Brighton & Hove are made by spot purchase. Whilst this is largely successful, the council faces increasing pressures in sourcing certain types of residential care in the city at a sustainable cost. To address this, the Council will increase the number of block contract arrangements with providers where our ability to manage supply and cost is proving difficult\n\n[Document 6] From https://www (pdf) - URL: https://www.brighton-hove.gov.uk/adult-social-care/about-adult-social-care/annex-c-final-market-sustainability-plan - 16 pages [Retrieved via: semantic_original]:\n[Page 7 - FINANCIAL/BUDGET INFORMATION]\nBrighton & Hove Market Sustainability Plan  \nWe will be reviewing our published set rates alongside our commissioning of residential provision \nover the next few years and consideration to the Cost of Care exercise outputs will be part of this \nprocess.   This will be one of many areas of consideration when reviewing fee rates going forward and \nother factors such as current rates being paid , and affordability will also need to be considered.  \nb) Assessment of current sustainability of the 18+ domiciliary care market  \n \nHome Care Market in Brighton & Hove  \nThere are a total of 37 providers of domiciliary  care across  Brighton & Hove who employ 1600 staff \nsupporting 2000 people within the city . 22 of these providers hold contracts with the local authority . \n \nCurrent challenges around this market are similar to the residential care market with workforce \nissues being a significant concern alongside the rates currently affordable  by the local au thority.  This\n\n[Document 7] From https://www (pdf) - URL: https://www.brighton-hove.gov.uk/adult-social-care/about-adult-social-care/annex-c-final-market-sustainability-plan - 16 pages [Retrieved via: semantic_original]:\n\u2022 paying providers based on their rostered care \u2013 bringing about an end to minute by minute \npayments \u2013 and Home Care workers to be paid as rostered including travel time and the real \nliving wage as minimum.   This is a significant change and has required increased investment \nto support this.  \n\u2022 client contribution collections will revert to being a provider task . \n \nBrighton & Hove is currently split into 10 geographic areas across the city, but this will reduce to 4 for \nthe new contract. The areas of the city will be organised as East, West, North and Central and they \nwill align with the locality -based assessment tea ms postcode areas. For each of these areas, there \nwill be a single provider designated as a lead, and a further provider designated as back -up. Care \noffered under this contract will be delivered at a fixed hourly rate.\n\n[Document 8] From https://www (pdf) - URL: https://www.brighton-hove.gov.uk/adult-social-care/about-adult-social-care/annex-c-final-market-sustainability-plan - 16 pages [Retrieved via: semantic_original]:\nHome Care continues and these plans are set out  below.  \n \nRecommissioning of the care home contract  \nThe current care home contract, which ran from 2016 -2020 has been extended twice to allow \ncommissioners to respond to the pandemic. As the situation has eased recommissioning work has \nbegun in earnest. We will go out to tender in Summer 2023, with the new contract in place by 31st \nMarch 2024.  \nAs described above, the commissioning of good quality nursing/high frailty dementia nursing care \ncontinues to be a high priority  and t he MPS in development  will be ex pressing this as an area of \ndevelopment within the city .  Brighton & Hove City Council is seeking providers that:  \n \n1)    Can facilitate safe, same day admissions for residents from community and hospital settings.  \n2)    Can make important equipment such as profiling beds, syringe drivers and hoists available for \ntimely admission.  \n3)    Are able to make admissions in the evening over seven days per week.\n\n[Document 9] From https://www (web_page) - URL: https://www.brighton-hove.gov.uk/adult-social-care/pay-your-care-and-support/adult-social-care-choice-policy [Retrieved via: semantic_original]:\n1. Purpose and approach Purpose 1.1 The purpose of this Policy is to clarify the process which Brighton & Hove City Council (the \u201cCouncil\u201d) will follow when considering the accommodation and care and support needs of residents within the community. This includes when the Council is responsible for funding care and accommodation in residential or nursing home care and complies with the Care Act 2014. Also included within scope of this policy are people living in their own homes and people who were previously self-funding their own care arrangements. 1.2 In summary, an assessment under the auspices of the Care Act 2014 will determine whether a person has eligible care and support needs. The assessment will include whether a person is eligible for care and support needs to be funded by the Council. The Council will listen and take account of the service user's preferences as to how those needs are met\n\n[Document 10] From https://www (web_page) - URL: https://www.brighton-hove.gov.uk/adult-social-care-hub/documents-adult-social-care/choice-policy-adult-social-care [Retrieved via: semantic_original]:\n1. Purpose and approach Purpose 1.1 The purpose of this Policy is to clarify the process which Brighton & Hove City Council (the \u201cCouncil\u201d) will follow when considering the accommodation and care and support needs of residents within the community. This includes when the Council is responsible for funding care and accommodation in residential or nursing home care and complies with the Care Act 2014. Also included within scope of this policy are people living in their own homes and people who were previously self-funding their own care arrangements. 1.2 In summary, an assessment under the auspices of the Care Act 2014 will determine whether a person has eligible care and support needs. The assessment will include whether a person is eligible for care and support needs to be funded by the Council. The Council will listen and take account of the service user's preferences as to how those needs are met\n",
+  "answer": "**Summary:** When moving from Brighton & Hove to Southampton, you will likely need a new care needs assessment for your care package, as care arrangements typically do not transfer between local authorities.\n\n**Details:**\n\n- **Care Needs Assessment:** According to the Care Act 2014, each local authority is responsible for assessing and meeting the care needs of its residents. This means that when you move to a new area, such as from Brighton & Hove to Southampton, the new local authority (Southampton City Council) will need to conduct its own assessment to determine your eligibility and the specifics of your care package.\n\n- **Local Authority Responsibility:** The documents indicate that Brighton & Hove City Council follows the Care Act 2014 to assess and fund care needs. This process is specific to each local authority, so a new assessment is necessary when you relocate to ensure your needs are met according to the policies and resources of the new area.\n\n**Practical Next Steps:**\n\n- **Contact Southampton City Council:** Reach out to Southampton City Council's Adult Social Care team to initiate a new care needs assessment. You can find contact information on their official website.\n\n- **Prepare Documentation:** Gather any relevant documentation from your current care package and assessment in Brighton & Hove to provide to Southampton City Council, which may help streamline the assessment process.\n\n- **Further Information:** For more details on the assessment process in Southampton, visit their official website or contact their Adult Social Care services directly.",
+  "metrics": {
+    "duration_seconds": 8.792937994003296,
+    "retrieved_docs_count": 10,
+    "query_length": 126,
+    "answer_length": 1590,
+    "retrieval_method": "enhanced",
+    "context_utilization": 0.1160337552742616,
+    "citations_count": 2,
+    "has_citations": true,
+    "query_relevance": 0.9444444444444444,
+    "unique_retrieval_methods": 1,
+    "budget_documents_retrieved": 7,
+    "retrieval_methods_used": [
+      "semantic_original"
+    ],
+    "retrieval_method_distribution": {
+      "semantic_original": 10
+    }
+  },
+  "local_authority": "Brighton-hove",
+  "query_id": "scn_24",
+  "retrieval_method": "enhanced",
+  "run_id": "9ea25784-ee4f-4846-8fcc-1725515f3995",
+  "trace": {
+    "run_id": "9ea25784-ee4f-4846-8fcc-1725515f3995",
+    "project": "social_care_rag",
+    "url": "https://eu.smith.langchain.com/o/me/runs/9ea25784-ee4f-4846-8fcc-1725515f3995"
+  },
+  "test_metadata": {
+    "local_authority": "Brighton-hove",
+    "query_id": "scn_24",
+    "query_category": "assessment_scenarios",
+    "prompt_variation": "optimized",
+    "prompt_template": "\nPlease answer the following question about social care services in UK local authorities based only on the information in the provided documents.\n\nQuestion: {query}\n\nContext from relevant documents:\n{context}\n\nInstructions:\n1. Provide a clear, direct answer that would help someone needing this information. If information isn't available, state: \"The available documents don't provide specific information about [aspect].\"\n\n2. Synthesize information from ALL relevant documents to provide the most complete answer rather than analyzing documents individually.\n\n3. Structure your response with:\n   - A concise 1-2 sentence summary first\n   - Relevant details organized in short, clear paragraphs\n   - Bullet points for lists or step-by-step information\n   - Bold text for key information the user should notice\n\n4. For financial information:\n   - Include exact figures, time periods, and what the funding covers\n   - Present financial data clearly: \"The adult social care budget is **\u00a3X million** for [time period]\"\n\n5. Always include practical next steps or resources:\n   - Provide contact information, URLs, or application methods mentioned in the documents\n   - Suggest where the person could find more information\n\n6. When citing sources, use a simple format: \"According to [document name/description]\" or include URLs where available.\n\nAnswer:\n",
+    "processing_time": 8.795544862747192,
+    "timestamp": "2025-08-17T22:35:36.477802",
+    "top_k": 10
+  }
+}

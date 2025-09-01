@@ -1,0 +1,275 @@
+{
+  "query": "My care needs assessment in leeds says I need 20 hours of home care weekly, but I'm worried about costs. What financial help is available?",
+  "retrieved_documents": [
+    {
+      "content": ". You will find the typical costs for the financial year 2025 to 2026 on this page. Services that may be free If they are available, some things in your plan might be free. For example: getting help from volunteers in your community equipment that costs less than \u00a31,000 a temporary stay in a care home while you recover from a hospital stay (known as an NHS funded community bed) someone to help with your confidence and improving your abilities (known as reablement support) Services you might get help to pay for Care homes If you get a care home through the council, you may be offered a place in a Leeds council care home or an independent care home. If you qualify for help to pay for your care home, it can be used for both types",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.leeds.gov.uk_adult-social-care_how-to-get-adult-social-care-and-support_how-much-it-costs.txt",
+        "level": "level_2",
+        "source": "https://www.leeds.gov.uk/adult-social-care/how-to-get-adult-social-care-and-support/how-much-it-costs",
+        "source_url": "https://www.leeds.gov.uk/adult-social-care/how-to-get-adult-social-care-and-support/how-much-it-costs",
+        "total_chunks": 7,
+        "type": "web_page"
+      },
+      "id": "43cd7f18-f1c5-4290-a31e-704234aeee79",
+      "distance": 0.43956664204597473,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.21813000738620758,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Find out more about getting help to pay for care . Services you will need to pay for There are some things that you will probably have to pay for yourself. Respite care (weekly breaks in a care home) Age of person Typical cost Under 25 \u00a3140.20 per week Between 25 and state pension age \u00a3159.40 per week State pension age and over \u00a3196.45 per week Respite care can also be for less than a week \u2013 for a few days or an overnight stay. Read more about how we can help you take a break from caring on: looking after a family member or friend . Meal charges Meals provided at a Leeds City Council-owned day centre: Meal Typical cost Main meal including dessert \u00a37.40 per meal Second meal (teatime) \u00a34.20 per meal Personal safety alarm (telecare) The alarm itself is free, but there is a weekly cost to have it monitored. Find full details on our page about help and safety alarms in the home . How to get help To talk to us about your needs and plan your support, find out how to get help",
+      "metadata": {
+        "chunk_id": 5,
+        "filename": "www.leeds.gov.uk_adult-social-care_how-to-get-adult-social-care-and-support_how-much-it-costs.txt",
+        "level": "level_2",
+        "source": "https://www.leeds.gov.uk/adult-social-care/how-to-get-adult-social-care-and-support/how-much-it-costs",
+        "source_url": "https://www.leeds.gov.uk/adult-social-care/how-to-get-adult-social-care-and-support/how-much-it-costs",
+        "total_chunks": 7,
+        "type": "web_page"
+      },
+      "id": "9d813fd2-c7af-482c-a2f8-ce6c8120f57e",
+      "distance": 0.4765893518924713,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.20702319443225858,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". This is flexible and can be for: short overnight stays a weekend or a few days weekly stays two weeks or more This is a way to give you or your usual carer a break. Or it can help if there's an emergency. For example, if your usual carer is unwell or in a crisis. Cost of respite care The cost of Shared Lives respite care depends on your age. You cannot get help to pay for it from the council. Age of person Cost Under 25 \u00a378.80 a week 25 to pensionable age \u00a394.40 a week People of pensionable age \u00a3172.80 a week Who can get it You will need to have an assessment to see if you can get a Shared Lives carer. To give you an idea, you may be offered a Shared Lives carer if: you are aged 18 or older you live in Leeds you have a needs assessment that shows you have care needs you usually get care from a family member or informal carer you or your carer need a break How to get it You must have an assessment with adult social care to decide if a Shared Lives carer is right for you",
+      "metadata": {
+        "chunk_id": 3,
+        "filename": "www.leeds.gov.uk_adult-social-care_looking-after-someone_shared-lives-respite-care-and-day-support.txt",
+        "level": "level_2",
+        "source": "https://www.leeds.gov.uk/adult-social-care/looking-after-someone/shared-lives-respite-care-and-day-support",
+        "source_url": "https://www.leeds.gov.uk/adult-social-care/looking-after-someone/shared-lives-respite-care-and-day-support",
+        "total_chunks": 5,
+        "type": "web_page"
+      },
+      "id": "fbc4f7da-4a1d-4a90-b76a-9cffd349ef5c",
+      "distance": 0.5217760801315308,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.19346717596054075,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". If you qualify for help to pay for your care home, it can be used for both types. The cost of a care home varies and depends on: which care home you choose (some decide to charge more than others) how much care you need (for example, nursing care costs more) the type of room you have (for example, larger rooms cost more) if it's a specialist care home You may find it useful to read examples of how much people pay for care homes . Get more information about our care homes. Mental health services Service type Typical cost Staff led group session \u00a314.30 per session One to one support \u00a328.40 per hour Care in your home Service type Typical cost Home care From \u00a324.30 per hour per carer Respite care at home (short breaks for carers) \u00a312.60 per hour Find out more about getting a paid carer, including home respite care, on: care in your home",
+      "metadata": {
+        "chunk_id": 3,
+        "filename": "www.leeds.gov.uk_adult-social-care_how-to-get-adult-social-care-and-support_how-much-it-costs.txt",
+        "level": "level_2",
+        "source": "https://www.leeds.gov.uk/adult-social-care/how-to-get-adult-social-care-and-support/how-much-it-costs",
+        "source_url": "https://www.leeds.gov.uk/adult-social-care/how-to-get-adult-social-care-and-support/how-much-it-costs",
+        "total_chunks": 7,
+        "type": "web_page"
+      },
+      "id": "f3a568e7-edf4-43d3-8fb9-917c58ce3d83",
+      "distance": 0.5830574631690979,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.17508276104927062,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Help paying for care homes Find out how to get help to pay for your residential care. Part of Help paying for care homes How it works If you've had a needs assessment that shows you need to live in a care home or nursing home, you might get help to pay for it. If your savings and investments are less than \u00a323,250, you could qualify for help to pay. Check if you are likely to qualify . If you have been arranging care privately and your savings and investments will fall below \u00a323,250 within three months, you should contact us . How to qualify To see if you qualify for help to pay, you will need a financial assessment . The financial assessment will work out how much you can afford to pay towards your care each week. If this amount is not enough, you may qualify for help to pay for your care. See examples of how we work out what people pay",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.leeds.gov.uk_adult-social-care_how-to-get-adult-social-care-and-support_help-to-pay-for-care_hel.txt",
+        "level": "level_2",
+        "source": "https://www.leeds.gov.uk/adult-social-care/how-to-get-adult-social-care-and-support/help-to-pay-for-care/help-paying-for-care-homes",
+        "source_url": "https://www.leeds.gov.uk/adult-social-care/how-to-get-adult-social-care-and-support/help-to-pay-for-care/help-paying-for-care-homes",
+        "total_chunks": 6,
+        "type": "web_page"
+      },
+      "id": "cc854e8b-911d-4af4-bc06-97930571470a",
+      "distance": 0.5893433094024658,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.17319700717926023,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Help through the council We offer different types of support, depending on your needs. This can include: Community based short breaks - care workers visiting the person you care for once or twice a week, for up to 8 hours per week. Leeds Shared Lives scheme - getting day support or respite in someone else's home for the person you care for. Find out more about Shared Lives respite care and day support Complex needs day services - supporting people who live with dementia or have complex needs Physical impairment and older people's service - helping older people and adults living with a physical impairment who need support Peer support service - helping people living with dementia and people in their support network Find the current costs of services from adult social care . To find out more about short breaks, call the adult social care team on 0113 222 4401 (weekdays 9am to 5pm, except Wednesday from 10am). You can also find out more about becoming a Shared Lives carer",
+      "metadata": {
+        "chunk_id": 7,
+        "filename": "www.leeds.gov.uk_adult-social-care_looking-after-someone_looking-after-a-family-member-or-friend.txt",
+        "level": "level_2",
+        "source": "https://www.leeds.gov.uk/adult-social-care/looking-after-someone/looking-after-a-family-member-or-friend",
+        "source_url": "https://www.leeds.gov.uk/adult-social-care/looking-after-someone/looking-after-a-family-member-or-friend",
+        "total_chunks": 14,
+        "type": "web_page"
+      },
+      "id": "a937aa4e-25e1-41d0-8c6c-b3f249ed8719",
+      "distance": 0.5985793471336365,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.17042619585990904,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". You can also find out more about becoming a Shared Lives carer. Help from other local organisations If you need immediate help, you can also find local organisations on Leeds Directory . Help to pay for a short break You can get a one off payment of up to \u00a3250 to help towards the cost of taking a break or holiday from looking after someone. This is know as the Time for Carers scheme. The scheme is funded by us and administered by Carers Leeds . To apply for the scheme, call 0113\u00a0246\u00a08338. Installing help alarms in the home To help give you peace of mind when you're away from the person you care for, an alarm system can be fitted into their home to detect any problems. Find out more about help alarms and safety in the home . Help with money If you need urgent help with money you should call our local welfare support team on 0113 868 9808. If your caring duties are affecting your finances, you may be able to increase your income or reduce your outgoings",
+      "metadata": {
+        "chunk_id": 8,
+        "filename": "www.leeds.gov.uk_adult-social-care_looking-after-someone_looking-after-a-family-member-or-friend.txt",
+        "level": "level_2",
+        "source": "https://www.leeds.gov.uk/adult-social-care/looking-after-someone/looking-after-a-family-member-or-friend",
+        "source_url": "https://www.leeds.gov.uk/adult-social-care/looking-after-someone/looking-after-a-family-member-or-friend",
+        "total_chunks": 14,
+        "type": "web_page"
+      },
+      "id": "55a70ded-7ca5-44ae-b698-db7cd308a30d",
+      "distance": 0.6015804409980774,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.16952586770057676,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". You could get one or both of them. 1. Day support You can visit your Shared Lives carer for a day or a few hours. It can be once every week or every so often. You may spend time in their home or they could take you out to activities and groups. This could be a way for you to: enjoy a change of scene meet people and make friends find new interests and develop skills get support with physical, social, emotional and cultural needs give your usual carer a break Cost of day support Daytime support costs \u00a39.90 an hour, but you may get help to pay for it from the council. You will need to have a financial assessment to work out how much help you will get to pay for it. Find out more about the cost of care and support services . 2. Short breaks (respite care) You can stay in the home of your Shared Lives carer while they look after you. This is flexible and can be for: short overnight stays a weekend or a few days weekly stays two weeks or more This is a way to give you or your usual carer a break",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.leeds.gov.uk_adult-social-care_looking-after-someone_shared-lives-respite-care-and-day-support.txt",
+        "level": "level_2",
+        "source": "https://www.leeds.gov.uk/adult-social-care/looking-after-someone/shared-lives-respite-care-and-day-support",
+        "source_url": "https://www.leeds.gov.uk/adult-social-care/looking-after-someone/shared-lives-respite-care-and-day-support",
+        "total_chunks": 5,
+        "type": "web_page"
+      },
+      "id": "68a1d4c2-fb79-4e4a-a08e-283e0af0d5d3",
+      "distance": 0.6035404801368713,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1689378559589386,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 4,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". If something changes and you no longer qualify for NHS Continuing Health Care Funding, you will need to start paying for your care, and you will need a financial assessment review. Contact us Phone 0113 378 8559 Monday to Friday, 9am to 4:30pm Email contacts.ccf@leeds.gov.uk Post Adults Operational Services Community Care Finance 5th Floor East Leeds City Council Merrion House 110 Merrion Centre Leeds LS2 8BB Part of Help paying for care homes Show summaries Help paying for care homes Find out how to get help to pay for your residential care. Getting a financial assessment You will need a financial assessment to see if you can get help to pay your care fees. Find out how to get one and what to expect. How we look at your money How we look at your finances and decide if you get help to pay your care home fees Examples: how much people pay for care homes See how much people pay for their care homes and how we work out the amount of financial help they get",
+      "metadata": {
+        "chunk_id": 4,
+        "filename": "www.leeds.gov.uk_adult-social-care_how-to-get-adult-social-care-and-support_help-to-pay-for-care_hel.txt",
+        "level": "level_2",
+        "source": "https://www.leeds.gov.uk/adult-social-care/how-to-get-adult-social-care-and-support/help-to-pay-for-care/help-paying-for-care-homes",
+        "source_url": "https://www.leeds.gov.uk/adult-social-care/how-to-get-adult-social-care-and-support/help-to-pay-for-care/help-paying-for-care-homes",
+        "total_chunks": 6,
+        "type": "web_page"
+      },
+      "id": "4797f8da-e8c4-4cf6-af12-00e2536ed494",
+      "distance": 0.6247233748435974,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.16258298754692077,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Find out more and how to get support . Home care We might arrange for a trusted home care agency to support you. They will have a team of care workers, so you may not get the same person every time. You can talk to us to see if home care is right for you. To get started, find out how to contact us for help . Cost of home care through the council Home care through the council costs from \u00a324.30 an hour per carer, but you may get help to pay for it. Find out more about the cost of services . Personal assistant We may suggest you employ a personal assistant and you pay their wages with the help of direct payments from the council. Many people like this option because it means they can choose their assistant and it will always be the same person. You could ask them to support you with: getting dressed and washed making meals taking your medication tidying up your home helping with work or education going out, such as shopping or doing social activities Talk to us to see if a personal assistant is right for you",
+      "metadata": {
+        "chunk_id": 4,
+        "filename": "www.leeds.gov.uk_adult-social-care_help-at-home_care-in-your-home.txt",
+        "level": "level_2",
+        "source": "https://www.leeds.gov.uk/adult-social-care/help-at-home/care-in-your-home",
+        "source_url": "https://www.leeds.gov.uk/adult-social-care/help-at-home/care-in-your-home",
+        "total_chunks": 7,
+        "type": "web_page"
+      },
+      "id": "06ee4ba8-0603-4cf2-82f4-af9e23c34b85",
+      "distance": 0.6357932686805725,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.15926201939582824,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    }
+  ],
+  "context": "[Document 1] From https://www (web_page) - URL: https://www.leeds.gov.uk/adult-social-care/how-to-get-adult-social-care-and-support/how-much-it-costs [Retrieved via: semantic_original]:\n. You will find the typical costs for the financial year 2025 to 2026 on this page. Services that may be free If they are available, some things in your plan might be free. For example: getting help from volunteers in your community equipment that costs less than \u00a31,000 a temporary stay in a care home while you recover from a hospital stay (known as an NHS funded community bed) someone to help with your confidence and improving your abilities (known as reablement support) Services you might get help to pay for Care homes If you get a care home through the council, you may be offered a place in a Leeds council care home or an independent care home. If you qualify for help to pay for your care home, it can be used for both types\n\n[Document 2] From https://www (web_page) - URL: https://www.leeds.gov.uk/adult-social-care/how-to-get-adult-social-care-and-support/how-much-it-costs [Retrieved via: semantic_original]:\n. Find out more about getting help to pay for care . Services you will need to pay for There are some things that you will probably have to pay for yourself. Respite care (weekly breaks in a care home) Age of person Typical cost Under 25 \u00a3140.20 per week Between 25 and state pension age \u00a3159.40 per week State pension age and over \u00a3196.45 per week Respite care can also be for less than a week \u2013 for a few days or an overnight stay. Read more about how we can help you take a break from caring on: looking after a family member or friend . Meal charges Meals provided at a Leeds City Council-owned day centre: Meal Typical cost Main meal including dessert \u00a37.40 per meal Second meal (teatime) \u00a34.20 per meal Personal safety alarm (telecare) The alarm itself is free, but there is a weekly cost to have it monitored. Find full details on our page about help and safety alarms in the home . How to get help To talk to us about your needs and plan your support, find out how to get help\n\n[Document 3] From https://www (web_page) - URL: https://www.leeds.gov.uk/adult-social-care/looking-after-someone/shared-lives-respite-care-and-day-support [Retrieved via: semantic_original]:\n. This is flexible and can be for: short overnight stays a weekend or a few days weekly stays two weeks or more This is a way to give you or your usual carer a break. Or it can help if there's an emergency. For example, if your usual carer is unwell or in a crisis. Cost of respite care The cost of Shared Lives respite care depends on your age. You cannot get help to pay for it from the council. Age of person Cost Under 25 \u00a378.80 a week 25 to pensionable age \u00a394.40 a week People of pensionable age \u00a3172.80 a week Who can get it You will need to have an assessment to see if you can get a Shared Lives carer. To give you an idea, you may be offered a Shared Lives carer if: you are aged 18 or older you live in Leeds you have a needs assessment that shows you have care needs you usually get care from a family member or informal carer you or your carer need a break How to get it You must have an assessment with adult social care to decide if a Shared Lives carer is right for you\n\n[Document 4] From https://www (web_page) - URL: https://www.leeds.gov.uk/adult-social-care/how-to-get-adult-social-care-and-support/how-much-it-costs [Retrieved via: semantic_original]:\n. If you qualify for help to pay for your care home, it can be used for both types. The cost of a care home varies and depends on: which care home you choose (some decide to charge more than others) how much care you need (for example, nursing care costs more) the type of room you have (for example, larger rooms cost more) if it's a specialist care home You may find it useful to read examples of how much people pay for care homes . Get more information about our care homes. Mental health services Service type Typical cost Staff led group session \u00a314.30 per session One to one support \u00a328.40 per hour Care in your home Service type Typical cost Home care From \u00a324.30 per hour per carer Respite care at home (short breaks for carers) \u00a312.60 per hour Find out more about getting a paid carer, including home respite care, on: care in your home\n\n[Document 5] From https://www (web_page) - URL: https://www.leeds.gov.uk/adult-social-care/how-to-get-adult-social-care-and-support/help-to-pay-for-care/help-paying-for-care-homes [Retrieved via: semantic_original]:\nHelp paying for care homes Find out how to get help to pay for your residential care. Part of Help paying for care homes How it works If you've had a needs assessment that shows you need to live in a care home or nursing home, you might get help to pay for it. If your savings and investments are less than \u00a323,250, you could qualify for help to pay. Check if you are likely to qualify . If you have been arranging care privately and your savings and investments will fall below \u00a323,250 within three months, you should contact us . How to qualify To see if you qualify for help to pay, you will need a financial assessment . The financial assessment will work out how much you can afford to pay towards your care each week. If this amount is not enough, you may qualify for help to pay for your care. See examples of how we work out what people pay\n\n[Document 6] From https://www (web_page) - URL: https://www.leeds.gov.uk/adult-social-care/looking-after-someone/looking-after-a-family-member-or-friend [Retrieved via: semantic_original]:\n. Help through the council We offer different types of support, depending on your needs. This can include: Community based short breaks - care workers visiting the person you care for once or twice a week, for up to 8 hours per week. Leeds Shared Lives scheme - getting day support or respite in someone else's home for the person you care for. Find out more about Shared Lives respite care and day support Complex needs day services - supporting people who live with dementia or have complex needs Physical impairment and older people's service - helping older people and adults living with a physical impairment who need support Peer support service - helping people living with dementia and people in their support network Find the current costs of services from adult social care . To find out more about short breaks, call the adult social care team on 0113 222 4401 (weekdays 9am to 5pm, except Wednesday from 10am). You can also find out more about becoming a Shared Lives carer\n\n[Document 7] From https://www (web_page) - URL: https://www.leeds.gov.uk/adult-social-care/looking-after-someone/looking-after-a-family-member-or-friend [Retrieved via: semantic_original]:\n. You can also find out more about becoming a Shared Lives carer. Help from other local organisations If you need immediate help, you can also find local organisations on Leeds Directory . Help to pay for a short break You can get a one off payment of up to \u00a3250 to help towards the cost of taking a break or holiday from looking after someone. This is know as the Time for Carers scheme. The scheme is funded by us and administered by Carers Leeds . To apply for the scheme, call 0113\u00a0246\u00a08338. Installing help alarms in the home To help give you peace of mind when you're away from the person you care for, an alarm system can be fitted into their home to detect any problems. Find out more about help alarms and safety in the home . Help with money If you need urgent help with money you should call our local welfare support team on 0113 868 9808. If your caring duties are affecting your finances, you may be able to increase your income or reduce your outgoings\n\n[Document 8] From https://www (web_page) - URL: https://www.leeds.gov.uk/adult-social-care/looking-after-someone/shared-lives-respite-care-and-day-support [Retrieved via: semantic_original]:\n. You could get one or both of them. 1. Day support You can visit your Shared Lives carer for a day or a few hours. It can be once every week or every so often. You may spend time in their home or they could take you out to activities and groups. This could be a way for you to: enjoy a change of scene meet people and make friends find new interests and develop skills get support with physical, social, emotional and cultural needs give your usual carer a break Cost of day support Daytime support costs \u00a39.90 an hour, but you may get help to pay for it from the council. You will need to have a financial assessment to work out how much help you will get to pay for it. Find out more about the cost of care and support services . 2. Short breaks (respite care) You can stay in the home of your Shared Lives carer while they look after you. This is flexible and can be for: short overnight stays a weekend or a few days weekly stays two weeks or more This is a way to give you or your usual carer a break\n\n[Document 9] From https://www (web_page) - URL: https://www.leeds.gov.uk/adult-social-care/how-to-get-adult-social-care-and-support/help-to-pay-for-care/help-paying-for-care-homes [Retrieved via: semantic_original]:\n. If something changes and you no longer qualify for NHS Continuing Health Care Funding, you will need to start paying for your care, and you will need a financial assessment review. Contact us Phone 0113 378 8559 Monday to Friday, 9am to 4:30pm Email contacts.ccf@leeds.gov.uk Post Adults Operational Services Community Care Finance 5th Floor East Leeds City Council Merrion House 110 Merrion Centre Leeds LS2 8BB Part of Help paying for care homes Show summaries Help paying for care homes Find out how to get help to pay for your residential care. Getting a financial assessment You will need a financial assessment to see if you can get help to pay your care fees. Find out how to get one and what to expect. How we look at your money How we look at your finances and decide if you get help to pay your care home fees Examples: how much people pay for care homes See how much people pay for their care homes and how we work out the amount of financial help they get\n\n[Document 10] From https://www (web_page) - URL: https://www.leeds.gov.uk/adult-social-care/help-at-home/care-in-your-home [Retrieved via: semantic_original]:\n. Find out more and how to get support . Home care We might arrange for a trusted home care agency to support you. They will have a team of care workers, so you may not get the same person every time. You can talk to us to see if home care is right for you. To get started, find out how to contact us for help . Cost of home care through the council Home care through the council costs from \u00a324.30 an hour per carer, but you may get help to pay for it. Find out more about the cost of services . Personal assistant We may suggest you employ a personal assistant and you pay their wages with the help of direct payments from the council. Many people like this option because it means they can choose their assistant and it will always be the same person. You could ask them to support you with: getting dressed and washed making meals taking your medication tidying up your home helping with work or education going out, such as shopping or doing social activities Talk to us to see if a personal assistant is right for you\n",
+  "answer": "You may be eligible for financial assistance to help cover the cost of your home care in Leeds. To determine your eligibility, you will need to undergo a financial assessment.\n\n- **Home Care Costs**: Home care through the council costs from **\u00a324.30 per hour per carer**. Since you require 20 hours of home care weekly, this would typically cost around **\u00a3486 per week**.\n\n- **Financial Assessment**: To see if you qualify for help to pay for your home care, you will need a financial assessment. This assessment will evaluate your savings, investments, and income to determine how much you can afford to contribute towards your care. If your savings and investments are less than **\u00a323,250**, you may qualify for assistance.\n\n- **Contact Information**: To arrange a financial assessment or to get more information, you can contact the Leeds City Council's adult social care team. You can reach them by phone at **0113 222 4401** (weekdays 9am to 5pm, except Wednesday from 10am).\n\n- **Additional Resources**: For more details on the cost of services and potential financial assistance, you can visit the Leeds City Council's website at [https://www.leeds.gov.uk/adult-social-care/how-to-get-adult-social-care-and-support/how-much-it-costs](https://www.leeds.gov.uk/adult-social-care/how-to-get-adult-social-care-and-support/how-much-it-costs).\n\nBy following these steps, you can explore the financial help available to manage the costs of your home care needs.",
+  "metrics": {
+    "duration_seconds": 18.488003969192505,
+    "retrieved_docs_count": 10,
+    "query_length": 138,
+    "answer_length": 1461,
+    "retrieval_method": "enhanced",
+    "context_utilization": 0.18246445497630331,
+    "citations_count": 0,
+    "has_citations": false,
+    "query_relevance": 0.7619047619047619,
+    "unique_retrieval_methods": 1,
+    "budget_documents_retrieved": 0,
+    "retrieval_methods_used": [
+      "semantic_original"
+    ],
+    "retrieval_method_distribution": {
+      "semantic_original": 10
+    }
+  },
+  "local_authority": "leeds",
+  "query_id": "scn_16",
+  "retrieval_method": "enhanced",
+  "run_id": "9b550157-1612-40a1-ae3a-d8d0ac89a6c7",
+  "trace": {
+    "run_id": "9b550157-1612-40a1-ae3a-d8d0ac89a6c7",
+    "project": "social_care_rag",
+    "url": "https://eu.smith.langchain.com/o/me/runs/9b550157-1612-40a1-ae3a-d8d0ac89a6c7"
+  },
+  "test_metadata": {
+    "local_authority": "leeds",
+    "query_id": "scn_16",
+    "query_category": "financial_scenarios",
+    "prompt_variation": "optimized",
+    "prompt_template": "\nPlease answer the following question about social care services in UK local authorities based only on the information in the provided documents.\n\nQuestion: {query}\n\nContext from relevant documents:\n{context}\n\nInstructions:\n1. Provide a clear, direct answer that would help someone needing this information. If information isn't available, state: \"The available documents don't provide specific information about [aspect].\"\n\n2. Synthesize information from ALL relevant documents to provide the most complete answer rather than analyzing documents individually.\n\n3. Structure your response with:\n   - A concise 1-2 sentence summary first\n   - Relevant details organized in short, clear paragraphs\n   - Bullet points for lists or step-by-step information\n   - Bold text for key information the user should notice\n\n4. For financial information:\n   - Include exact figures, time periods, and what the funding covers\n   - Present financial data clearly: \"The adult social care budget is **\u00a3X million** for [time period]\"\n\n5. Always include practical next steps or resources:\n   - Provide contact information, URLs, or application methods mentioned in the documents\n   - Suggest where the person could find more information\n\n6. When citing sources, use a simple format: \"According to [document name/description]\" or include URLs where available.\n\nAnswer:\n",
+    "processing_time": 18.491401195526123,
+    "timestamp": "2025-08-19T13:52:16.796934",
+    "top_k": 10
+  }
+}

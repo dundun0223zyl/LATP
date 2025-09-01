@@ -1,0 +1,339 @@
+{
+  "query": "What specific savings targets has Barnet set in its budget plans?",
+  "retrieved_documents": [
+    {
+      "content": "[Page 30 - FINANCIAL/BUDGET INFORMATION]\nBarnet Care Leaver\u2019s Housing Protocol 2023 - 2026    30\n    Section 4:   About your household income and outgoings \u2013 Please note: You MUST supply \nsupporting evidence for any items marked with a * and your last 2 months \nbank statements\nINCOME How \nmuch (\u00a3)How \noftenOUTGOINGS How \nmuch (\u00a3)How \noften\nNet wages (For you) Mortgage / Rent *\nNet wages (For your partner) Rent arrears*\nSelf-employed earnings Council Tax\nWorking Tax Credit Council Tax arrears*\nChild Tax Credit Electricity *\nChild Benefit Gas*\nJSA (Conts) Arrears of fuel bills*\nJSA (IB) Water rates\nIncome Support Child minding *\nPension credit (guarantee) Food\nPension credit (savings) School meals\nState retirement pension Housekeeping\nOccupational / private pension Clothing\nMaintenance received (for children) Laundry\nMaintenance received (for self or \npartner)Telephone / internet\nIncapacity Benefit TV licence / rental\nEmployment and Support \nAllowanceSatellite / Cable TV",
+      "metadata": {
+        "chunk_id": 74,
+        "contains_financial_info": true,
+        "download_url": "https://www.barnet.gov.uk/sites/default/files/barnet_care_leavers_joint_housing_digital_file.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "barnet_care_leavers_joint_housing_digital_file.pdf",
+        "financial_pages": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36]",
+        "level": "level_4",
+        "page_count": 36,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36]",
+        "source": "https://www.barnet.gov.uk/children-and-families/key-strategic-documents-and-plans",
+        "source_url": "https://www.barnet.gov.uk/children-and-families/key-strategic-documents-and-plans",
+        "total_chunks": 88,
+        "type": "pdf"
+      },
+      "id": "7089a836-5079-471d-bb4f-7fa05aabd0e1",
+      "distance": 0.9028090238571167,
+      "retrieval_method": "semantic_expanded_1",
+      "expanded_query": "what specific savings targets has barnet set in its savings plans?",
+      "combined_score": 0.5768496005351728,
+      "scoring_details": {
+        "query_type": "savings_targets",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_expanded_1"
+      }
+    },
+    {
+      "content": "[Page 30 - FINANCIAL/BUDGET INFORMATION]\nBarnet Care Leaver\u2019s Housing Protocol 2023 - 2026    30\n    Section 4:   About your household income and outgoings \u2013 Please note: You MUST supply \nsupporting evidence for any items marked with a * and your last 2 months \nbank statements\nINCOME How \nmuch (\u00a3)How \noftenOUTGOINGS How \nmuch (\u00a3)How \noften\nNet wages (For you) Mortgage / Rent *\nNet wages (For your partner) Rent arrears*\nSelf-employed earnings Council Tax\nWorking Tax Credit Council Tax arrears*\nChild Tax Credit Electricity *\nChild Benefit Gas*\nJSA (Conts) Arrears of fuel bills*\nJSA (IB) Water rates\nIncome Support Child minding *\nPension credit (guarantee) Food\nPension credit (savings) School meals\nState retirement pension Housekeeping\nOccupational / private pension Clothing\nMaintenance received (for children) Laundry\nMaintenance received (for self or \npartner)Telephone / internet\nIncapacity Benefit TV licence / rental\nEmployment and Support \nAllowanceSatellite / Cable TV",
+      "metadata": {
+        "chunk_id": 74,
+        "contains_financial_info": true,
+        "download_url": "https://www.barnet.gov.uk/sites/default/files/barnet_care_leavers_joint_housing_digital_file.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "barnet_care_leavers_joint_housing_digital_file.pdf",
+        "financial_pages": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36]",
+        "level": "level_3",
+        "page_count": 36,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36]",
+        "source": "https://www.barnet.gov.uk/children-and-families/key-strategic-documents-and-plans",
+        "source_url": "https://www.barnet.gov.uk/children-and-families/key-strategic-documents-and-plans",
+        "total_chunks": 88,
+        "type": "pdf"
+      },
+      "id": "29ff3c02-ec0a-4ec5-aaae-df4f76d32f52",
+      "distance": 0.9028090238571167,
+      "retrieval_method": "semantic_expanded_1",
+      "expanded_query": "what specific savings targets has barnet set in its savings plans?",
+      "combined_score": 0.5768496005351728,
+      "scoring_details": {
+        "query_type": "savings_targets",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_expanded_1"
+      }
+    },
+    {
+      "content": "[Page 15 - FINANCIAL/BUDGET INFORMATION]\nOur plan for Barnet   2023-2026 15",
+      "metadata": {
+        "chunk_id": 25,
+        "contains_financial_info": true,
+        "download_url": "https://admin.barnet.gov.uk/sites/default/files/2023-02/Barnet%20Corporate%20Plan%202023-26.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Barnet%20Corporate%20Plan%202023-26.pdf",
+        "financial_pages": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46]",
+        "level": "level_3",
+        "page_count": 46,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46]",
+        "source": "https://www.barnet.gov.uk/node/6132",
+        "source_url": "https://www.barnet.gov.uk/node/6132",
+        "total_chunks": 112,
+        "type": "pdf"
+      },
+      "id": "eaf34796-3ce0-4e53-b813-5b2d44c830e5",
+      "distance": 0.5385033488273621,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.48441053381332977,
+      "scoring_details": {
+        "query_type": "savings_targets",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 10 - FINANCIAL/BUDGET INFORMATION]\nOur plan for Barnet   2023-2026 10",
+      "metadata": {
+        "chunk_id": 14,
+        "contains_financial_info": true,
+        "download_url": "https://admin.barnet.gov.uk/sites/default/files/2023-02/Barnet%20Corporate%20Plan%202023-26.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Barnet%20Corporate%20Plan%202023-26.pdf",
+        "financial_pages": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46]",
+        "level": "level_3",
+        "page_count": 46,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46]",
+        "source": "https://www.barnet.gov.uk/node/6132",
+        "source_url": "https://www.barnet.gov.uk/node/6132",
+        "total_chunks": 112,
+        "type": "pdf"
+      },
+      "id": "3af06290-3d64-47bf-a58d-e489f665d429",
+      "distance": 0.5420210957527161,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.48335520973572366,
+      "scoring_details": {
+        "query_type": "savings_targets",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 29 - FINANCIAL/BUDGET INFORMATION]\nImage:  Computer-generated image of new homes at Brent Cross Town. All the \nenergy for the 6,700 planned homes will come from 100% renewable sources.During 2023 we will adopt our new Local Plan and refresh our key \nhousing-related strategies and policies. This includes updating our \nHousing Allocations Scheme to ensure those in greatest need are \ngiven priority in accessing affordable housing.\nOur plan for Barnet   2023-2026 29",
+      "metadata": {
+        "chunk_id": 65,
+        "contains_financial_info": true,
+        "download_url": "https://admin.barnet.gov.uk/sites/default/files/2023-02/Barnet%20Corporate%20Plan%202023-26.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Barnet%20Corporate%20Plan%202023-26.pdf",
+        "financial_pages": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46]",
+        "level": "level_3",
+        "page_count": 46,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46]",
+        "source": "https://www.barnet.gov.uk/node/6132",
+        "source_url": "https://www.barnet.gov.uk/node/6132",
+        "total_chunks": 112,
+        "type": "pdf"
+      },
+      "id": "a440a546-c14c-4b76-b4ec-421d3a4328f2",
+      "distance": 0.8188968300819397,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.4592232586677258,
+      "scoring_details": {
+        "query_type": "savings_targets",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 46 - FINANCIAL/BUDGET INFORMATION]\nwww.barnet.gov.ukCaring  for people , our places  and the planet\nOur plan for Barnet  2023-2026",
+      "metadata": {
+        "chunk_id": 111,
+        "contains_financial_info": true,
+        "download_url": "https://admin.barnet.gov.uk/sites/default/files/2023-02/Barnet%20Corporate%20Plan%202023-26.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Barnet%20Corporate%20Plan%202023-26.pdf",
+        "financial_pages": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46]",
+        "level": "level_3",
+        "page_count": 46,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46]",
+        "source": "https://www.barnet.gov.uk/node/6132",
+        "source_url": "https://www.barnet.gov.uk/node/6132",
+        "total_chunks": 112,
+        "type": "pdf"
+      },
+      "id": "9d0b5b71-af04-4cda-a812-a508918dbe15",
+      "distance": 0.6656050086021423,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.4523800358808957,
+      "scoring_details": {
+        "query_type": "savings_targets",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 6 - FINANCIAL/BUDGET INFORMATION]\n6Our Plan for Adult Social Care\n2024 - 2029This plan fits in with other strategies and plans that shape the work we do in Barnet. Some of these are shown below and \nyou can find out more by clicking on the links.  \nOur Plan for Barnet: Caring for people, \nour places and the planet (2023-26)\nBarnet Joint Health and Wellbeing \nStrategy 2021-2025\nTogether: Barnet Community \nParticipation Strategy (published 2022)\nEngagement and Co-Production \nStrategy and Charter for Adult  \nSocial Care\nBarnet Joint Strategic Needs \nAssessment \nBarnet Market Position Statement \n(2024)Barnet Dementia strategy (2023-28) \nBarnet Carers and young carers \nstrategy (2023-28)\nBarnet Safeguarding Adults Board \nStrategic Plan (2023-26)\nBarnet Housing Strategy (2023-28)\nAge Friendly Barnet action plan\nCurrently being finalised: Equalities \nStrategy\nResident Experience and Digital \nStrategy CLICK LINK\nCLICK LINK\nCLICK LINK\nCLICK LINK\nCLICK LINK\nCLICK LINK\nCLICK LINK\nCLICK LINKCLICK LINK\nCLICK LINK",
+      "metadata": {
+        "chunk_id": 7,
+        "contains_financial_info": true,
+        "download_url": "",
+        "extraction_method": "PyPDF2",
+        "filename": "024155%20-%20BC4278%20-%20BARNET%20-%20ASC%20Strategy%202024%20%E2%80%93%202029%20%5BFINAL%203%5D.pdf",
+        "financial_pages": "[1, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 17, 18, 19, 20, 21, 23, 24, 26]",
+        "level": "level_2",
+        "page_count": 26,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26]",
+        "source": "024155%20-%20BC4278%20-%20BARNET%20-%20ASC%20Strategy%202024%20%E2%80%93%202029%20%5BFINAL%203%5D.pdf",
+        "source_url": "",
+        "total_chunks": 61,
+        "type": "pdf"
+      },
+      "id": "893a2505-829a-4c63-82e7-e1cc6c689aef",
+      "distance": 0.8066980838775635,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.4464521132982694,
+      "scoring_details": {
+        "query_type": "savings_targets",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 7 - FINANCIAL/BUDGET INFORMATION]\nImage:  Colindale Park Our plan for Barnet   2023-2026 7",
+      "metadata": {
+        "chunk_id": 9,
+        "contains_financial_info": true,
+        "download_url": "https://admin.barnet.gov.uk/sites/default/files/2023-02/Barnet%20Corporate%20Plan%202023-26.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Barnet%20Corporate%20Plan%202023-26.pdf",
+        "financial_pages": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46]",
+        "level": "level_3",
+        "page_count": 46,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46]",
+        "source": "https://www.barnet.gov.uk/node/6132",
+        "source_url": "https://www.barnet.gov.uk/node/6132",
+        "total_chunks": 112,
+        "type": "pdf"
+      },
+      "id": "76787e4a-7c54-41ea-b52c-a57e43eb9058",
+      "distance": 0.7303268313407898,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.4289634890593015,
+      "scoring_details": {
+        "query_type": "savings_targets",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 40 - FINANCIAL/BUDGET INFORMATION]\nemail: DAVAWG@Barnet.gov.uk  \nor visit: www.barnet.gov.uk/domesticabuse",
+      "metadata": {
+        "chunk_id": 169,
+        "contains_financial_info": true,
+        "download_url": "https://www.barnet.gov.uk/sites/default/files/Barnet%20VAWG%20strategy%20DIGITAL%20FINAL.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Barnet%20VAWG%20strategy%20DIGITAL%20FINAL.pdf",
+        "financial_pages": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40]",
+        "level": "level_4",
+        "page_count": 40,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40]",
+        "source": "https://www.barnet.gov.uk/children-and-families/domestic-abuse/domestic-abuse-and-violence-against-women-and-girls-strategy",
+        "source_url": "https://www.barnet.gov.uk/children-and-families/domestic-abuse/domestic-abuse-and-violence-against-women-and-girls-strategy",
+        "total_chunks": 170,
+        "type": "pdf"
+      },
+      "id": "99dcb305-6716-485a-9062-8c07e8b9dcb4",
+      "distance": 0.7794874906539917,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.41581529126534095,
+      "scoring_details": {
+        "query_type": "savings_targets",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 40 - FINANCIAL/BUDGET INFORMATION]\nemail: DAVAWG@Barnet.gov.uk  \nor visit: www.barnet.gov.uk/domesticabuse",
+      "metadata": {
+        "chunk_id": 169,
+        "contains_financial_info": true,
+        "download_url": "https://www.barnet.gov.uk/sites/default/files/Barnet%20VAWG%20strategy%20DIGITAL%20FINAL.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Barnet%20VAWG%20strategy%20DIGITAL%20FINAL.pdf",
+        "financial_pages": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40]",
+        "level": "level_3",
+        "page_count": 40,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40]",
+        "source": "https://www.barnet.gov.uk/children-and-families/domestic-abuse/domestic-abuse-and-violence-against-women-and-girls-strategy",
+        "source_url": "https://www.barnet.gov.uk/children-and-families/domestic-abuse/domestic-abuse-and-violence-against-women-and-girls-strategy",
+        "total_chunks": 170,
+        "type": "pdf"
+      },
+      "id": "7d962bd8-e950-4ef5-a2f9-ce29421be1f0",
+      "distance": 0.7794874906539917,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.41581529126534095,
+      "scoring_details": {
+        "query_type": "savings_targets",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    }
+  ],
+  "context": "[Document 1] From https://www (pdf) - URL: https://www.barnet.gov.uk/children-and-families/key-strategic-documents-and-plans - 36 pages [Retrieved via: semantic_expanded_1]:\n[Page 30 - FINANCIAL/BUDGET INFORMATION]\nBarnet Care Leaver\u2019s Housing Protocol 2023 - 2026    30\n    Section 4:   About your household income and outgoings \u2013 Please note: You MUST supply \nsupporting evidence for any items marked with a * and your last 2 months \nbank statements\nINCOME How \nmuch (\u00a3)How \noftenOUTGOINGS How \nmuch (\u00a3)How \noften\nNet wages (For you) Mortgage / Rent *\nNet wages (For your partner) Rent arrears*\nSelf-employed earnings Council Tax\nWorking Tax Credit Council Tax arrears*\nChild Tax Credit Electricity *\nChild Benefit Gas*\nJSA (Conts) Arrears of fuel bills*\nJSA (IB) Water rates\nIncome Support Child minding *\nPension credit (guarantee) Food\nPension credit (savings) School meals\nState retirement pension Housekeeping\nOccupational / private pension Clothing\nMaintenance received (for children) Laundry\nMaintenance received (for self or \npartner)Telephone / internet\nIncapacity Benefit TV licence / rental\nEmployment and Support \nAllowanceSatellite / Cable TV\n\n[Document 2] From https://www (pdf) - URL: https://www.barnet.gov.uk/children-and-families/key-strategic-documents-and-plans - 36 pages [Retrieved via: semantic_expanded_1]:\n[Page 30 - FINANCIAL/BUDGET INFORMATION]\nBarnet Care Leaver\u2019s Housing Protocol 2023 - 2026    30\n    Section 4:   About your household income and outgoings \u2013 Please note: You MUST supply \nsupporting evidence for any items marked with a * and your last 2 months \nbank statements\nINCOME How \nmuch (\u00a3)How \noftenOUTGOINGS How \nmuch (\u00a3)How \noften\nNet wages (For you) Mortgage / Rent *\nNet wages (For your partner) Rent arrears*\nSelf-employed earnings Council Tax\nWorking Tax Credit Council Tax arrears*\nChild Tax Credit Electricity *\nChild Benefit Gas*\nJSA (Conts) Arrears of fuel bills*\nJSA (IB) Water rates\nIncome Support Child minding *\nPension credit (guarantee) Food\nPension credit (savings) School meals\nState retirement pension Housekeeping\nOccupational / private pension Clothing\nMaintenance received (for children) Laundry\nMaintenance received (for self or \npartner)Telephone / internet\nIncapacity Benefit TV licence / rental\nEmployment and Support \nAllowanceSatellite / Cable TV\n\n[Document 3] From https://www (pdf) - URL: https://www.barnet.gov.uk/node/6132 - 46 pages [Retrieved via: semantic_original]:\n[Page 15 - FINANCIAL/BUDGET INFORMATION]\nOur plan for Barnet   2023-2026 15\n\n[Document 4] From https://www (pdf) - URL: https://www.barnet.gov.uk/node/6132 - 46 pages [Retrieved via: semantic_original]:\n[Page 10 - FINANCIAL/BUDGET INFORMATION]\nOur plan for Barnet   2023-2026 10\n\n[Document 5] From https://www (pdf) - URL: https://www.barnet.gov.uk/node/6132 - 46 pages [Retrieved via: semantic_original]:\n[Page 29 - FINANCIAL/BUDGET INFORMATION]\nImage:  Computer-generated image of new homes at Brent Cross Town. All the \nenergy for the 6,700 planned homes will come from 100% renewable sources.During 2023 we will adopt our new Local Plan and refresh our key \nhousing-related strategies and policies. This includes updating our \nHousing Allocations Scheme to ensure those in greatest need are \ngiven priority in accessing affordable housing.\nOur plan for Barnet   2023-2026 29\n\n[Document 6] From https://www (pdf) - URL: https://www.barnet.gov.uk/node/6132 - 46 pages [Retrieved via: semantic_original]:\n[Page 46 - FINANCIAL/BUDGET INFORMATION]\nwww.barnet.gov.ukCaring  for people , our places  and the planet\nOur plan for Barnet  2023-2026\n\n[Document 7] From 024155%20 %20BC4278%20 %20BARNET%20 %20ASC%20Strategy%202024%20%E2%80%93%202029%20%5BFINAL%203%5D (pdf) - 26 pages [Retrieved via: semantic_original]:\n[Page 6 - FINANCIAL/BUDGET INFORMATION]\n6Our Plan for Adult Social Care\n2024 - 2029This plan fits in with other strategies and plans that shape the work we do in Barnet. Some of these are shown below and \nyou can find out more by clicking on the links.  \nOur Plan for Barnet: Caring for people, \nour places and the planet (2023-26)\nBarnet Joint Health and Wellbeing \nStrategy 2021-2025\nTogether: Barnet Community \nParticipation Strategy (published 2022)\nEngagement and Co-Production \nStrategy and Charter for Adult  \nSocial Care\nBarnet Joint Strategic Needs \nAssessment \nBarnet Market Position Statement \n(2024)Barnet Dementia strategy (2023-28) \nBarnet Carers and young carers \nstrategy (2023-28)\nBarnet Safeguarding Adults Board \nStrategic Plan (2023-26)\nBarnet Housing Strategy (2023-28)\nAge Friendly Barnet action plan\nCurrently being finalised: Equalities \nStrategy\nResident Experience and Digital \nStrategy CLICK LINK\nCLICK LINK\nCLICK LINK\nCLICK LINK\nCLICK LINK\nCLICK LINK\nCLICK LINK\nCLICK LINKCLICK LINK\nCLICK LINK\n\n[Document 8] From https://www (pdf) - URL: https://www.barnet.gov.uk/node/6132 - 46 pages [Retrieved via: semantic_original]:\n[Page 7 - FINANCIAL/BUDGET INFORMATION]\nImage:  Colindale Park Our plan for Barnet   2023-2026 7\n\n[Document 9] From https://www (pdf) - URL: https://www.barnet.gov.uk/children-and-families/domestic-abuse/domestic-abuse-and-violence-against-women-and-girls-strategy - 40 pages [Retrieved via: semantic_original]:\n[Page 40 - FINANCIAL/BUDGET INFORMATION]\nemail: DAVAWG@Barnet.gov.uk  \nor visit: www.barnet.gov.uk/domesticabuse\n\n[Document 10] From https://www (pdf) - URL: https://www.barnet.gov.uk/children-and-families/domestic-abuse/domestic-abuse-and-violence-against-women-and-girls-strategy - 40 pages [Retrieved via: semantic_original]:\n[Page 40 - FINANCIAL/BUDGET INFORMATION]\nemail: DAVAWG@Barnet.gov.uk  \nor visit: www.barnet.gov.uk/domesticabuse\n",
+  "answer": "The available documents don't provide specific information about the savings targets set by Barnet in its budget plans.\n\nFor more detailed financial information or specific budgetary targets, you may want to visit Barnet's official website or contact their financial department directly. You can explore their strategic documents and plans at [Barnet's Key Strategic Documents and Plans](https://www.barnet.gov.uk/children-and-families/key-strategic-documents-and-plans) for further insights.",
+  "metrics": {
+    "duration_seconds": 3.0816938877105713,
+    "retrieved_docs_count": 10,
+    "query_length": 65,
+    "answer_length": 492,
+    "retrieval_method": "enhanced",
+    "context_utilization": 0.08494208494208494,
+    "citations_count": 0,
+    "has_citations": false,
+    "query_relevance": 0.8,
+    "unique_retrieval_methods": 2,
+    "budget_documents_retrieved": 10,
+    "retrieval_methods_used": [
+      "semantic_expanded_1",
+      "semantic_original"
+    ],
+    "retrieval_method_distribution": {
+      "semantic_expanded_1": 2,
+      "semantic_original": 8
+    }
+  },
+  "local_authority": "Barnet",
+  "query_id": "std_7",
+  "retrieval_method": "enhanced",
+  "run_id": "5c5eea4f-66b9-46fe-bb1c-fb29271df877",
+  "trace": {
+    "run_id": "5c5eea4f-66b9-46fe-bb1c-fb29271df877",
+    "project": "social_care_rag",
+    "url": "https://eu.smith.langchain.com/o/me/runs/5c5eea4f-66b9-46fe-bb1c-fb29271df877"
+  },
+  "test_metadata": {
+    "local_authority": "Barnet",
+    "query_id": "std_7",
+    "query_category": "financial_standard",
+    "prompt_variation": "optimized",
+    "prompt_template": "\nPlease answer the following question about social care services in UK local authorities based only on the information in the provided documents.\n\nQuestion: {query}\n\nContext from relevant documents:\n{context}\n\nInstructions:\n1. Provide a clear, direct answer that would help someone needing this information. If information isn't available, state: \"The available documents don't provide specific information about [aspect].\"\n\n2. Synthesize information from ALL relevant documents to provide the most complete answer rather than analyzing documents individually.\n\n3. Structure your response with:\n   - A concise 1-2 sentence summary first\n   - Relevant details organized in short, clear paragraphs\n   - Bullet points for lists or step-by-step information\n   - Bold text for key information the user should notice\n\n4. For financial information:\n   - Include exact figures, time periods, and what the funding covers\n   - Present financial data clearly: \"The adult social care budget is **\u00a3X million** for [time period]\"\n\n5. Always include practical next steps or resources:\n   - Provide contact information, URLs, or application methods mentioned in the documents\n   - Suggest where the person could find more information\n\n6. When citing sources, use a simple format: \"According to [document name/description]\" or include URLs where available.\n\nAnswer:\n",
+    "processing_time": 3.083299160003662,
+    "timestamp": "2025-08-17T22:27:19.710328",
+    "top_k": 10
+  }
+}

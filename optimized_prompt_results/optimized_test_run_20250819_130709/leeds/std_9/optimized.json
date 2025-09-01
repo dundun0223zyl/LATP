@@ -1,0 +1,302 @@
+{
+  "query": "What is the current budget allocation for Adult Social Care in leeds?",
+  "retrieved_documents": [
+    {
+      "content": "[Page 5 - FINANCIAL/BUDGET INFORMATION]\n5\nThe State of Ageing in Leeds (2021) report has highlighted some of the key data in Leeds demonstrating \nwhat life is like for people aged 50 and above living in the city and comparing this to the national data.  \nThe report shows that around one in three people living in Leeds is aged 50 and above. We have a \ngrowing older population where in the next twenty years the number of people aged 80 and above living \nin the city will increase by 50%. A number of key aspects related to our Age Friendly framework are \nexplored:Why is it Important?\nLife \nexpectancy for \nmales in the city is \n78 and females can \nexpect to live to \nage 82.Around \n70% of people \naged over 50 live in \nowner occupied homes, \nwith the remaining living in \nsocial housing and private \nrented sector. The majority of \npeople aged 65 and above \nwould like to stay in \ntheir own home.1 in 4  \nworkers in \nLeeds are aged \n50 and above.\nData shows in West \nYorkshire more than \n50% of people aged 65",
+      "metadata": {
+        "chunk_id": 9,
+        "contains_financial_info": true,
+        "download_url": "https://www.leeds.gov.uk/sites/default/files/docs/age%20friendly%20leeds%20strategy%20action%20plan%202022-25.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "age%20friendly%20leeds%20strategy%20action%20plan%202022-25.pdf",
+        "financial_pages": "[5, 6, 10, 12, 13, 14, 15, 16, 18, 19, 22, 23, 24, 25, 27, 29, 30, 32, 35]",
+        "level": "level_2",
+        "page_count": 36,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36]",
+        "source": "https://www.leeds.gov.uk/plans-and-strategies/age-friendly-leeds-strategy-and-action-plan-2022-2025",
+        "source_url": "https://www.leeds.gov.uk/plans-and-strategies/age-friendly-leeds-strategy-and-action-plan-2022-2025",
+        "total_chunks": 78,
+        "type": "pdf"
+      },
+      "id": "cddd7ad5-b434-402d-a5aa-730b8a33ea9a",
+      "distance": 0.8778687715530396,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.4251009069956266,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "and Wellbeing Board and it belongs to everyone.\nLeeds has a plan to tackle climate change as \nan important part of our best city ambition. This \nincludes plans to reduce our own carbon footprint; \nreduce pollution and noise; reduce the level of \ngreenhouse gas emissions from buildings in the \ncity; promote cycling, walking and the use of public \ntransport; promote a less wasteful, low carbon \neconomy; reduce flooding and other risks from \nthe impact of climate change; build sustainable \ninfrastructure; to help residents reduce their own \ncarbon footprints.\nThe Joint Strategic Assessment 2021 brings \ntogether data and intelligence to look at the current \nand future health and social care needs of people \nliving in Leeds. Its purpose is to shape priorities \nand guide health commissioning, wellbeing and \nsocial care services and service strategies. It helps \nus to better understand the wider determinants \nof health and \u2018post\u2019 pandemic needs and \nopportunities enabling planning for the future. Context",
+      "metadata": {
+        "chunk_id": 3,
+        "contains_financial_info": true,
+        "download_url": "https://www.leeds.gov.uk/sites/default/files/docs/age%20friendly%20leeds%20strategy%20action%20plan%202022-25.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "age%20friendly%20leeds%20strategy%20action%20plan%202022-25.pdf",
+        "financial_pages": "[5, 6, 10, 12, 13, 14, 15, 16, 18, 19, 22, 23, 24, 25, 27, 29, 30, 32, 35]",
+        "level": "level_2",
+        "page_count": 36,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36]",
+        "source": "https://www.leeds.gov.uk/plans-and-strategies/age-friendly-leeds-strategy-and-action-plan-2022-2025",
+        "source_url": "https://www.leeds.gov.uk/plans-and-strategies/age-friendly-leeds-strategy-and-action-plan-2022-2025",
+        "total_chunks": 78,
+        "type": "pdf"
+      },
+      "id": "db62f097-59e1-4662-94d4-c221948d89da",
+      "distance": 0.8723084926605225,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.42467108856547964,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 6 - FINANCIAL/BUDGET INFORMATION]\n6\nOur Approach\nOur approach to achieving our ambition to be the \nbest city to grow old in is a citizenship approach, \napplying to the entire population. This approach:\n\u2022Places older people at the heart of the strategy.\n\u2022Ensures that there is a strong focus on social \nnetworks within neighbourhoods and the city.\n\u2022Promotes social capital and participation.\n\u2022Age-proofs and develops universal services.\n\u2022Tackles inequalities and reduces social \nexclusion.\n\u2022Aims to change social structure and attitudes.\n\u2022Responds to data, intelligence and \nrecommendations made in relevant local and \nnational reports such as the State of Ageing in \nLeeds report to ensure actions are evidence \nbased and respond to new and emerging needs \nof what matters to older people.\n\u2022Recognises the impact that Covid has had on \nolder people and the support that is needed for \nphysical and mental wellbeing as we recover \nfrom the pandemic.\n\u2022Ensures the views and needs of older people",
+      "metadata": {
+        "chunk_id": 12,
+        "contains_financial_info": true,
+        "download_url": "https://www.leeds.gov.uk/sites/default/files/docs/age%20friendly%20leeds%20strategy%20action%20plan%202022-25.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "age%20friendly%20leeds%20strategy%20action%20plan%202022-25.pdf",
+        "financial_pages": "[5, 6, 10, 12, 13, 14, 15, 16, 18, 19, 22, 23, 24, 25, 27, 29, 30, 32, 35]",
+        "level": "level_2",
+        "page_count": 36,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36]",
+        "source": "https://www.leeds.gov.uk/plans-and-strategies/age-friendly-leeds-strategy-and-action-plan-2022-2025",
+        "source_url": "https://www.leeds.gov.uk/plans-and-strategies/age-friendly-leeds-strategy-and-action-plan-2022-2025",
+        "total_chunks": 78,
+        "type": "pdf"
+      },
+      "id": "3847c8ac-5102-4b3e-9b99-736a6b45f1fb",
+      "distance": 0.8811221122741699,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.42412490477928744,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "about getting a personal assistant to support you to live independently A helper to live with you If you have a spare room, Leeds Homeshare can find someone to share your home and help with household tasks like shopping and cleaning Help to pay for care and support services Get help paying for support at home, read about financial assessments, personal budgets and direct payments The community wellbeing hub Support for the over 50s in Black, Asian, minority ethnic  communities in Leeds Care Delivery Service Our Care Delivery Service is a group of Leeds City Council services providing care and support for adults Give feedback and let us know if this page was helpful",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.leeds.gov.uk_adult-social-care_help-at-home.txt",
+        "level": "level_1",
+        "source": "https://www.leeds.gov.uk/adult-social-care/help-at-home",
+        "source_url": "https://www.leeds.gov.uk/adult-social-care/help-at-home",
+        "total_chunks": 3,
+        "type": "web_page"
+      },
+      "id": "3caca197-7f35-4bb5-9ed6-e09b9326a921",
+      "distance": 0.6816025376319885,
+      "retrieval_method": "semantic_expanded_3",
+      "expanded_query": "what is the current care services allocation for adult social care in leeds?",
+      "combined_score": 0.2839807771719419,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_expanded_3"
+      }
+    },
+    {
+      "content": ". Summary: This double-sided postcard,-sized leaflet promotes the Leeds Directory service, which can support you to live well by connecting you to checked and vetted local services and tradespeople as well as local activities and events. Subject areas: Healthy lifestyle, Community based services. Services in Leeds that could help and support your service users (P751) ID: P751 Corporate author: Leeds City Council Publication information: Leeds: Leeds City Council, 2023 Physical description: 1 poster, 42x30cm. Summary: This A3 poster provides information and contact details for 12 support services in Leeds, including Citizens Advice, MindWell, Money Information Centre, Adult Social Care, Home Plus, Leeds Directory, Leeds Housing Options, Enhance Programme, Leeds Food Aid Network, and Linking Leeds. This poster is also available in A4: P752. Subject areas: Support services, Housing, Poverty",
+      "metadata": {
+        "chunk_id": 186,
+        "filename": "www.leeds.gov.uk_phrc_resources_leaflets-and-posters.txt",
+        "level": "level_3",
+        "source": "https://www.leeds.gov.uk/phrc/resources/leaflets-and-posters",
+        "source_url": "https://www.leeds.gov.uk/phrc/resources/leaflets-and-posters",
+        "total_chunks": 257,
+        "type": "web_page"
+      },
+      "id": "a4ef1d4a-3681-4e72-937c-fc6044ebb8c8",
+      "distance": 0.6977590322494507,
+      "retrieval_method": "semantic_expanded_3",
+      "expanded_query": "what is the current care services allocation for adult social care in leeds?",
+      "combined_score": 0.27703592668880117,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_expanded_3"
+      }
+    },
+    {
+      "content": "Cost of services from adult social care See how much social care and support services cost, including care homes. You will be responsible for the cost of your care and support plan, but you might qualify for help to pay for it. If your savings and investments are less than \u00a323,250, you could qualify for help to pay. Check if you're likely to qualify . Cost of services After we have assessed your needs we may suggest a mixture of care services. There are some that are free, some you can get help to pay for, and some that you will need to pay for yourself. The cost of services changes every year. You will find the typical costs for the financial year 2025 to 2026 on this page. Services that may be free If they are available, some things in your plan might be free",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.leeds.gov.uk_adult-social-care_how-to-get-adult-social-care-and-support_how-much-it-costs.txt",
+        "level": "level_2",
+        "source": "https://www.leeds.gov.uk/adult-social-care/how-to-get-adult-social-care-and-support/how-much-it-costs",
+        "source_url": "https://www.leeds.gov.uk/adult-social-care/how-to-get-adult-social-care-and-support/how-much-it-costs",
+        "total_chunks": 7,
+        "type": "web_page"
+      },
+      "id": "df1e4372-3022-4b6e-a89b-28a096a4410f",
+      "distance": 0.7309314608573914,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.26114014216236303,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Extra care service Find out about supported living in an extra care scheme. Who we help We support older people who want to remain independent but also require some support with day to day living and security at home. What we do Our extra care service works in partnership with housing organisations to provide care and support to people living at three extra care schemes. The schemes: are available to residents of Leeds who are over 55 years of age and have a housing and care need are staffed 24 hours a day provide individualised support to people who live in their flats offer strength-based support \u2013 we help people achieve the things they want to do in their everyday lives work with carers, family and friends to offer support, shared care, information and advice Read our care rating report by the Care Quality Commission . How to get support You will need a social worker to make a direct referral to us. Or you can contact us for a conversation about your needs",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.leeds.gov.uk_adult-social-care_care-delivery-service_extra-care-service.txt",
+        "level": "level_2",
+        "source": "https://www.leeds.gov.uk/adult-social-care/care-delivery-service/extra-care-service",
+        "source_url": "https://www.leeds.gov.uk/adult-social-care/care-delivery-service/extra-care-service",
+        "total_chunks": 3,
+        "type": "web_page"
+      },
+      "id": "9b228f0e-b5d6-49d2-9c86-47c17adf0497",
+      "distance": 0.7153511643409729,
+      "retrieval_method": "semantic_expanded_1",
+      "expanded_query": "what is the current adult social care allocation for adult social care in leeds?",
+      "combined_score": 0.23539465069770815,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_expanded_1"
+      }
+    },
+    {
+      "content": "Adult social care Adult social care is also known as social services. We help adults who need support to live well. It can be long term or just until they are doing better, our aim is to always support people to be as independent as possible. In Leeds, we want every person with care and support needs to be able to live the life they want to live, doing what\u2019s important to them in good homes and in caring communities. Increase your independence and keep living safely in your home, find out about community groups and organisations, services, equipment and general information on Leeds Directory",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.leeds.gov.uk_adult-social-care.txt",
+        "level": "level_0",
+        "source": "https://www.leeds.gov.uk/adult-social-care",
+        "source_url": "https://www.leeds.gov.uk/adult-social-care",
+        "total_chunks": 6,
+        "type": "web_page"
+      },
+      "id": "96a66e8e-1501-4e77-86d7-b1959aa9c4b4",
+      "distance": 0.678614616394043,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.21914288780905983,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". You are not responsible for care costs, and will not need a financial assessment, if: your care has been arranged and provided under Section 117 of the Mental Health Act 1983 (and your care fees are within the negotiated rate) you are temporarily put in a community bed funded by the NHS your stay in a care home is transitional and will not last for more than four weeks (and your care fees are within the negotiated rate) you qualify for full NHS Continuing Health Care Funding What is the negotiated rate? The council will have negotiated with your care home and agreed a special rate for the cost of your care. The council will only help to pay for fees up to this amount. If something changes and you no longer qualify for NHS Continuing Health Care Funding, you will need to start paying for your care, and you will need a financial assessment review",
+      "metadata": {
+        "chunk_id": 3,
+        "filename": "www.leeds.gov.uk_adult-social-care_how-to-get-adult-social-care-and-support_help-to-pay-for-care_hel.txt",
+        "level": "level_2",
+        "source": "https://www.leeds.gov.uk/adult-social-care/how-to-get-adult-social-care-and-support/help-to-pay-for-care/help-paying-for-care-homes",
+        "source_url": "https://www.leeds.gov.uk/adult-social-care/how-to-get-adult-social-care-and-support/help-to-pay-for-care/help-paying-for-care-homes",
+        "total_chunks": 6,
+        "type": "web_page"
+      },
+      "id": "acb07fed-a0bf-4960-a0f4-9150dda65f90",
+      "distance": 0.9264318346977234,
+      "retrieval_method": "financial_enhanced",
+      "combined_score": 0.20976275728299065,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "financial_enhanced"
+      }
+    },
+    {
+      "content": ". This is flexible and can be for: short overnight stays a weekend or a few days weekly stays two weeks or more This is a way to give you or your usual carer a break. Or it can help if there's an emergency. For example, if your usual carer is unwell or in a crisis. Cost of respite care The cost of Shared Lives respite care depends on your age. You cannot get help to pay for it from the council. Age of person Cost Under 25 \u00a378.80 a week 25 to pensionable age \u00a394.40 a week People of pensionable age \u00a3172.80 a week Who can get it You will need to have an assessment to see if you can get a Shared Lives carer. To give you an idea, you may be offered a Shared Lives carer if: you are aged 18 or older you live in Leeds you have a needs assessment that shows you have care needs you usually get care from a family member or informal carer you or your carer need a break How to get it You must have an assessment with adult social care to decide if a Shared Lives carer is right for you",
+      "metadata": {
+        "chunk_id": 3,
+        "filename": "www.leeds.gov.uk_adult-social-care_looking-after-someone_shared-lives-respite-care-and-day-support.txt",
+        "level": "level_2",
+        "source": "https://www.leeds.gov.uk/adult-social-care/looking-after-someone/shared-lives-respite-care-and-day-support",
+        "source_url": "https://www.leeds.gov.uk/adult-social-care/looking-after-someone/shared-lives-respite-care-and-day-support",
+        "total_chunks": 5,
+        "type": "web_page"
+      },
+      "id": "fbc4f7da-4a1d-4a90-b76a-9cffd349ef5c",
+      "distance": 0.7605351805686951,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1966646206545663,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    }
+  ],
+  "context": "[Document 1] From https://www (pdf) - URL: https://www.leeds.gov.uk/plans-and-strategies/age-friendly-leeds-strategy-and-action-plan-2022-2025 - 36 pages [Retrieved via: semantic_original]:\n[Page 5 - FINANCIAL/BUDGET INFORMATION]\n5\nThe State of Ageing in Leeds (2021) report has highlighted some of the key data in Leeds demonstrating \nwhat life is like for people aged 50 and above living in the city and comparing this to the national data.  \nThe report shows that around one in three people living in Leeds is aged 50 and above. We have a \ngrowing older population where in the next twenty years the number of people aged 80 and above living \nin the city will increase by 50%. A number of key aspects related to our Age Friendly framework are \nexplored:Why is it Important?\nLife \nexpectancy for \nmales in the city is \n78 and females can \nexpect to live to \nage 82.Around \n70% of people \naged over 50 live in \nowner occupied homes, \nwith the remaining living in \nsocial housing and private \nrented sector. The majority of \npeople aged 65 and above \nwould like to stay in \ntheir own home.1 in 4  \nworkers in \nLeeds are aged \n50 and above.\nData shows in West \nYorkshire more than \n50% of people aged 65\n\n[Document 2] From https://www (pdf) - URL: https://www.leeds.gov.uk/plans-and-strategies/age-friendly-leeds-strategy-and-action-plan-2022-2025 - 36 pages [Retrieved via: semantic_original]:\nand Wellbeing Board and it belongs to everyone.\nLeeds has a plan to tackle climate change as \nan important part of our best city ambition. This \nincludes plans to reduce our own carbon footprint; \nreduce pollution and noise; reduce the level of \ngreenhouse gas emissions from buildings in the \ncity; promote cycling, walking and the use of public \ntransport; promote a less wasteful, low carbon \neconomy; reduce flooding and other risks from \nthe impact of climate change; build sustainable \ninfrastructure; to help residents reduce their own \ncarbon footprints.\nThe Joint Strategic Assessment 2021 brings \ntogether data and intelligence to look at the current \nand future health and social care needs of people \nliving in Leeds. Its purpose is to shape priorities \nand guide health commissioning, wellbeing and \nsocial care services and service strategies. It helps \nus to better understand the wider determinants \nof health and \u2018post\u2019 pandemic needs and \nopportunities enabling planning for the future. Context\n\n[Document 3] From https://www (pdf) - URL: https://www.leeds.gov.uk/plans-and-strategies/age-friendly-leeds-strategy-and-action-plan-2022-2025 - 36 pages [Retrieved via: semantic_original]:\n[Page 6 - FINANCIAL/BUDGET INFORMATION]\n6\nOur Approach\nOur approach to achieving our ambition to be the \nbest city to grow old in is a citizenship approach, \napplying to the entire population. This approach:\n\u2022Places older people at the heart of the strategy.\n\u2022Ensures that there is a strong focus on social \nnetworks within neighbourhoods and the city.\n\u2022Promotes social capital and participation.\n\u2022Age-proofs and develops universal services.\n\u2022Tackles inequalities and reduces social \nexclusion.\n\u2022Aims to change social structure and attitudes.\n\u2022Responds to data, intelligence and \nrecommendations made in relevant local and \nnational reports such as the State of Ageing in \nLeeds report to ensure actions are evidence \nbased and respond to new and emerging needs \nof what matters to older people.\n\u2022Recognises the impact that Covid has had on \nolder people and the support that is needed for \nphysical and mental wellbeing as we recover \nfrom the pandemic.\n\u2022Ensures the views and needs of older people\n\n[Document 4] From https://www (web_page) - URL: https://www.leeds.gov.uk/adult-social-care/help-at-home [Retrieved via: semantic_expanded_3]:\nabout getting a personal assistant to support you to live independently A helper to live with you If you have a spare room, Leeds Homeshare can find someone to share your home and help with household tasks like shopping and cleaning Help to pay for care and support services Get help paying for support at home, read about financial assessments, personal budgets and direct payments The community wellbeing hub Support for the over 50s in Black, Asian, minority ethnic  communities in Leeds Care Delivery Service Our Care Delivery Service is a group of Leeds City Council services providing care and support for adults Give feedback and let us know if this page was helpful\n\n[Document 5] From https://www (web_page) - URL: https://www.leeds.gov.uk/phrc/resources/leaflets-and-posters [Retrieved via: semantic_expanded_3]:\n. Summary: This double-sided postcard,-sized leaflet promotes the Leeds Directory service, which can support you to live well by connecting you to checked and vetted local services and tradespeople as well as local activities and events. Subject areas: Healthy lifestyle, Community based services. Services in Leeds that could help and support your service users (P751) ID: P751 Corporate author: Leeds City Council Publication information: Leeds: Leeds City Council, 2023 Physical description: 1 poster, 42x30cm. Summary: This A3 poster provides information and contact details for 12 support services in Leeds, including Citizens Advice, MindWell, Money Information Centre, Adult Social Care, Home Plus, Leeds Directory, Leeds Housing Options, Enhance Programme, Leeds Food Aid Network, and Linking Leeds. This poster is also available in A4: P752. Subject areas: Support services, Housing, Poverty\n\n[Document 6] From https://www (web_page) - URL: https://www.leeds.gov.uk/adult-social-care/how-to-get-adult-social-care-and-support/how-much-it-costs [Retrieved via: semantic_original]:\nCost of services from adult social care See how much social care and support services cost, including care homes. You will be responsible for the cost of your care and support plan, but you might qualify for help to pay for it. If your savings and investments are less than \u00a323,250, you could qualify for help to pay. Check if you're likely to qualify . Cost of services After we have assessed your needs we may suggest a mixture of care services. There are some that are free, some you can get help to pay for, and some that you will need to pay for yourself. The cost of services changes every year. You will find the typical costs for the financial year 2025 to 2026 on this page. Services that may be free If they are available, some things in your plan might be free\n\n[Document 7] From https://www (web_page) - URL: https://www.leeds.gov.uk/adult-social-care/care-delivery-service/extra-care-service [Retrieved via: semantic_expanded_1]:\nExtra care service Find out about supported living in an extra care scheme. Who we help We support older people who want to remain independent but also require some support with day to day living and security at home. What we do Our extra care service works in partnership with housing organisations to provide care and support to people living at three extra care schemes. The schemes: are available to residents of Leeds who are over 55 years of age and have a housing and care need are staffed 24 hours a day provide individualised support to people who live in their flats offer strength-based support \u2013 we help people achieve the things they want to do in their everyday lives work with carers, family and friends to offer support, shared care, information and advice Read our care rating report by the Care Quality Commission . How to get support You will need a social worker to make a direct referral to us. Or you can contact us for a conversation about your needs\n\n[Document 8] From https://www (web_page) - URL: https://www.leeds.gov.uk/adult-social-care [Retrieved via: semantic_original]:\nAdult social care Adult social care is also known as social services. We help adults who need support to live well. It can be long term or just until they are doing better, our aim is to always support people to be as independent as possible. In Leeds, we want every person with care and support needs to be able to live the life they want to live, doing what\u2019s important to them in good homes and in caring communities. Increase your independence and keep living safely in your home, find out about community groups and organisations, services, equipment and general information on Leeds Directory\n\n[Document 9] From https://www (web_page) - URL: https://www.leeds.gov.uk/adult-social-care/how-to-get-adult-social-care-and-support/help-to-pay-for-care/help-paying-for-care-homes [Retrieved via: financial_enhanced]:\n. You are not responsible for care costs, and will not need a financial assessment, if: your care has been arranged and provided under Section 117 of the Mental Health Act 1983 (and your care fees are within the negotiated rate) you are temporarily put in a community bed funded by the NHS your stay in a care home is transitional and will not last for more than four weeks (and your care fees are within the negotiated rate) you qualify for full NHS Continuing Health Care Funding What is the negotiated rate? The council will have negotiated with your care home and agreed a special rate for the cost of your care. The council will only help to pay for fees up to this amount. If something changes and you no longer qualify for NHS Continuing Health Care Funding, you will need to start paying for your care, and you will need a financial assessment review\n\n[Document 10] From https://www (web_page) - URL: https://www.leeds.gov.uk/adult-social-care/looking-after-someone/shared-lives-respite-care-and-day-support [Retrieved via: semantic_original]:\n. This is flexible and can be for: short overnight stays a weekend or a few days weekly stays two weeks or more This is a way to give you or your usual carer a break. Or it can help if there's an emergency. For example, if your usual carer is unwell or in a crisis. Cost of respite care The cost of Shared Lives respite care depends on your age. You cannot get help to pay for it from the council. Age of person Cost Under 25 \u00a378.80 a week 25 to pensionable age \u00a394.40 a week People of pensionable age \u00a3172.80 a week Who can get it You will need to have an assessment to see if you can get a Shared Lives carer. To give you an idea, you may be offered a Shared Lives carer if: you are aged 18 or older you live in Leeds you have a needs assessment that shows you have care needs you usually get care from a family member or informal carer you or your carer need a break How to get it You must have an assessment with adult social care to decide if a Shared Lives carer is right for you\n",
+  "answer": "The available documents don't provide specific information about the current budget allocation for Adult Social Care in Leeds.\n\nFor further details, you might consider visiting the Leeds City Council's official website or contacting their Adult Social Care department directly. You can find more information and resources at [Leeds Adult Social Care](https://www.leeds.gov.uk/adult-social-care).",
+  "metrics": {
+    "duration_seconds": 5.065043926239014,
+    "retrieved_docs_count": 10,
+    "query_length": 69,
+    "answer_length": 395,
+    "retrieval_method": "enhanced",
+    "context_utilization": 0.048355899419729204,
+    "citations_count": 0,
+    "has_citations": false,
+    "query_relevance": 0.875,
+    "unique_retrieval_methods": 4,
+    "budget_documents_retrieved": 3,
+    "retrieval_methods_used": [
+      "financial_enhanced",
+      "semantic_original",
+      "semantic_expanded_1",
+      "semantic_expanded_3"
+    ],
+    "retrieval_method_distribution": {
+      "semantic_original": 6,
+      "semantic_expanded_3": 2,
+      "semantic_expanded_1": 1,
+      "financial_enhanced": 1
+    }
+  },
+  "local_authority": "leeds",
+  "query_id": "std_9",
+  "retrieval_method": "enhanced",
+  "run_id": "278447a8-18f4-4862-9c71-7f80e8c9d1ae",
+  "trace": {
+    "run_id": "278447a8-18f4-4862-9c71-7f80e8c9d1ae",
+    "project": "social_care_rag",
+    "url": "https://eu.smith.langchain.com/o/me/runs/278447a8-18f4-4862-9c71-7f80e8c9d1ae"
+  },
+  "test_metadata": {
+    "local_authority": "leeds",
+    "query_id": "std_9",
+    "query_category": "financial_standard",
+    "prompt_variation": "optimized",
+    "prompt_template": "\nPlease answer the following question about social care services in UK local authorities based only on the information in the provided documents.\n\nQuestion: {query}\n\nContext from relevant documents:\n{context}\n\nInstructions:\n1. Provide a clear, direct answer that would help someone needing this information. If information isn't available, state: \"The available documents don't provide specific information about [aspect].\"\n\n2. Synthesize information from ALL relevant documents to provide the most complete answer rather than analyzing documents individually.\n\n3. Structure your response with:\n   - A concise 1-2 sentence summary first\n   - Relevant details organized in short, clear paragraphs\n   - Bullet points for lists or step-by-step information\n   - Bold text for key information the user should notice\n\n4. For financial information:\n   - Include exact figures, time periods, and what the funding covers\n   - Present financial data clearly: \"The adult social care budget is **\u00a3X million** for [time period]\"\n\n5. Always include practical next steps or resources:\n   - Provide contact information, URLs, or application methods mentioned in the documents\n   - Suggest where the person could find more information\n\n6. When citing sources, use a simple format: \"According to [document name/description]\" or include URLs where available.\n\nAnswer:\n",
+    "processing_time": 5.0682759284973145,
+    "timestamp": "2025-08-19T13:51:21.426297",
+    "top_k": 10
+  }
+}

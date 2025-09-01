@@ -1,0 +1,40 @@
+2025-08-17 20:32:19,929 - main - ERROR - Error loading config: [Errno 2] No such file or directory: 'config.json'
+2025-08-17 20:32:19,933 - information_extractor - INFO - Loaded source information for 0 files
+2025-08-17 20:32:19,933 - information_extractor - INFO - Initialized extractor with directory: ../data
+2025-08-17 20:32:19,935 - information_extractor - INFO - Saved extraction report to ../extraction_report.json
+2025-08-17 20:32:19,935 - information_extractor - INFO - Completed extraction. Total documents: 0
+2025-08-17 20:32:19,936 - text_chunker - INFO - Initialized chunker with size=1024, overlap=200
+2025-08-17 20:32:19,936 - text_chunker - INFO - Completed chunking. Total chunks created: 0
+2025-08-17 20:32:19,938 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-08-17 20:32:22,244 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-08-17 20:32:22,666 - embedding_generator - INFO - Initialized embedding model: all-MiniLM-L6-v2
+2025-08-17 20:32:22,671 - embedding_generator - INFO - Completed embedding generation. Total embedded chunks: 0
+2025-08-17 20:32:22,690 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-08-17 20:32:22,784 - vector_database - INFO - Initialized vector database at ../output
+2025-08-17 20:32:22,784 - vector_database - INFO - Successfully added 0 documents to vector database
+2025-08-17 20:33:12,604 - information_extractor - INFO - Loaded source information for 0 files
+2025-08-17 20:33:12,604 - information_extractor - INFO - Initialized extractor with directory: ../data
+2025-08-17 20:33:12,605 - information_extractor - INFO - Saved extraction report to ../extraction_report.json
+2025-08-17 20:33:12,605 - information_extractor - INFO - Completed extraction. Total documents: 0
+2025-08-17 20:33:12,606 - text_chunker - INFO - Initialized chunker with size=1024, overlap=200
+2025-08-17 20:33:12,606 - text_chunker - INFO - Completed chunking. Total chunks created: 0
+2025-08-17 20:33:12,607 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-08-17 20:33:15,284 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-08-17 20:33:15,763 - embedding_generator - INFO - Initialized embedding model: all-MiniLM-L6-v2
+2025-08-17 20:33:15,766 - embedding_generator - INFO - Completed embedding generation. Total embedded chunks: 0
+2025-08-17 20:33:15,779 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-08-17 20:33:15,840 - vector_database - INFO - Initialized vector database at ../output
+2025-08-17 20:33:15,840 - vector_database - INFO - Successfully added 0 documents to vector database
+2025-08-17 20:37:11,837 - information_extractor - INFO - Loaded source information for 0 files
+2025-08-17 20:37:11,837 - information_extractor - INFO - Initialized extractor with directory: ./data
+2025-08-17 20:37:11,837 - information_extractor - INFO - Saved extraction report to extraction_report.json
+2025-08-17 20:37:11,837 - information_extractor - INFO - Completed extraction. Total documents: 0
+2025-08-17 20:37:11,840 - text_chunker - INFO - Initialized chunker with size=1024, overlap=200
+2025-08-17 20:37:11,840 - text_chunker - INFO - Completed chunking. Total chunks created: 0
+2025-08-17 20:37:11,842 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-08-17 20:37:15,602 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-08-17 20:37:16,140 - embedding_generator - INFO - Initialized embedding model: all-MiniLM-L6-v2
+2025-08-17 20:37:16,283 - embedding_generator - INFO - Completed embedding generation. Total embedded chunks: 0
+2025-08-17 20:37:16,301 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-08-17 20:37:16,369 - vector_database - INFO - Initialized vector database at output
+2025-08-17 20:37:16,369 - vector_database - INFO - Successfully added 0 documents to vector database

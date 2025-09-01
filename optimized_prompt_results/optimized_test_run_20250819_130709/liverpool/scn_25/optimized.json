@@ -1,0 +1,299 @@
+{
+  "query": "I'm concerned about an elderly neighbor in liverpool who seems confused and isn't eating properly. How do I report adult safeguarding concerns?",
+  "retrieved_documents": [
+    {
+      "content": "Welfare and safety enquiries Choose a topic I think an adult is at risk of abuse or neglect If you think the person is in immediate danger, call 999. Find out when you should report your concerns to us and how . If you are a professional reporting a concern, please follow the safeguarding process for professionals . I think someone might need support If you're concerned that a vulnerable adult, such as a friend, elderly neighbour or someone you don't know well, is finding it difficult to cope, you should tell us. Find out how to report a concern about an adult who might need support . If the person is in immediate danger, call 999. How to get help for a relative or friend We help adults who have eligible needs under the Care Act . See how to get help for a relative or friend if you know the person well and have discussed the possibility of getting support",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.liverpool.gov.uk_adult-social-care_who-we-support_contact-adult-social-care_welfare-and-safety-e.txt",
+        "level": "level_3",
+        "source": "https://www.liverpool.gov.uk/adult-social-care/who-we-support/contact-adult-social-care/welfare-and-safety-enquiries/",
+        "source_url": "https://www.liverpool.gov.uk/adult-social-care/who-we-support/contact-adult-social-care/welfare-and-safety-enquiries/",
+        "total_chunks": 3,
+        "type": "web_page"
+      },
+      "id": "61e0d5e5-6866-4a1f-bcec-e399ef69ee7f",
+      "distance": 0.6952172517776489,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.14143482446670533,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 10]\nLiverpool City Council  \nInter-agency safegua rding adults procedures January 2021  \npg. 9 \n 3. What to do if you suspect abuse or neglect and how to \nreport a safeguarding  concern                                               \n \n    \n    \n           \n           \n            \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nPrinciples  \nEmpowerment \nPrevention \nProportionate \nProtection  \nPartnership  \nAccountability  \n \n \nAbuse or neglect \ndiscovered or suspected?  \nContact your line manager . \nIf your line manager is \nimplicated contact your  \nsenior manager without \ndelay.  \nHave a conversation  with the \nadult on their desired \noutcomes where this is safe \nto do so.  \n Making a referral to Careline.  \n  \nRing Careline on  0151 233 3800  \nfor urgent referral . If not \nurgent complete  the online  \nsafeguarding referral form  \nhttps://forms.liverpool.gov.uk/c\nontour -forms/liverpool -\nsafeguarding -adult -referral -\nform / \nWith\u2026  \nDetails  of the person  \nYour details",
+      "metadata": {
+        "chunk_id": 19,
+        "contains_financial_info": true,
+        "download_url": "https://www.liverpool.gov.uk/media/22zokusr/liverpool-inter-agency-safeguarding-adults-procedures-2021.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "liverpool-inter-agency-safeguarding-adults-procedures-2021.pdf",
+        "financial_pages": "[7, 15, 22, 24, 28, 31, 32, 34, 35, 36, 37, 38, 40, 41, 42, 45, 49, 50, 51, 56, 58, 65, 71]",
+        "level": "level_3",
+        "page_count": 73,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73]",
+        "source": "https://www.liverpool.gov.uk/adult-social-care/professional-referrals/safeguarding-adults/safeguarding-adults-procedure/",
+        "source_url": "https://www.liverpool.gov.uk/adult-social-care/professional-referrals/safeguarding-adults/safeguarding-adults-procedure/",
+        "total_chunks": 192,
+        "type": "pdf"
+      },
+      "id": "039ce971-c76c-46a1-89e7-845877224628",
+      "distance": 0.7515572905540466,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.124532812833786,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Professionals: Report an adult safeguarding concern This process is for professionals such as care providers, GPs or clinicians to report a safeguarding concern for an adult who you believe has care and support needs, is at risk of harm and who you feel is unable to protect themselves because of those needs. In an emergency If a person is at immediate risk of harm and an urgent response is required please contact the police on 709 6010. Dial 999 in an emergency or where there is any indication a criminal act has occurred. If you need to report an urgent safeguarding concern and believe that an individual is at serious risk of harm which will require a response within 48 hours, please call adult social care on 459 2606. Other concerns For all other concerns please use the adult safeguarding form below as soon as possible after the concern is identified, and where possible, after you have notified the individual of the actions you are intending to take.\u00a0 We will respond within 5 days",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.liverpool.gov.uk_adult-social-care_professional-referrals_safeguarding-adults_report-an-adult-sa.txt",
+        "level": "level_2",
+        "source": "https://www.liverpool.gov.uk/adult-social-care/professional-referrals/safeguarding-adults/report-an-adult-safeguarding-concern/",
+        "source_url": "https://www.liverpool.gov.uk/adult-social-care/professional-referrals/safeguarding-adults/report-an-adult-safeguarding-concern/",
+        "total_chunks": 12,
+        "type": "web_page"
+      },
+      "id": "7d4c0b46-f4ab-441b-98ea-dbc0317e0484",
+      "distance": 0.7532586455345154,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.12402240633964538,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "existing relevant information, as they would for any other information or \nreferral received.  This should include, where appropriate, checks w ith the \npolice, and checks with health p artners, specifically Mersey C are NHS Trust if \nthere is information to suggest that the adult has mental ill health .  \n \nIf the information received and / or identified through the se initial basic checks \nappears  to indicate the adult affected meets the criteria below, then the \ninformatio n shoul d be treated as a safeguarding concern  and the loca l \nauthori ty\u2019s duty to undertake an  enquiry or cause others to do  so is triggered . \nThis could range from a conversation with the adult or if they have substantial \ndifficulty understanding  the enquiry their representative or advocate  to a more \nformal multi -agency plan or course of action.   \n \n \n \n \n \n \n \nIf the safeguarding concern can be dealt w ith at the point of contact  in line  \nwith the requirement s of the Care Act and Making Safeguarding P ersonal",
+      "metadata": {
+        "chunk_id": 50,
+        "contains_financial_info": true,
+        "download_url": "https://www.liverpool.gov.uk/media/22zokusr/liverpool-inter-agency-safeguarding-adults-procedures-2021.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "liverpool-inter-agency-safeguarding-adults-procedures-2021.pdf",
+        "financial_pages": "[7, 15, 22, 24, 28, 31, 32, 34, 35, 36, 37, 38, 40, 41, 42, 45, 49, 50, 51, 56, 58, 65, 71]",
+        "level": "level_3",
+        "page_count": 73,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73]",
+        "source": "https://www.liverpool.gov.uk/adult-social-care/professional-referrals/safeguarding-adults/safeguarding-adults-procedure/",
+        "source_url": "https://www.liverpool.gov.uk/adult-social-care/professional-referrals/safeguarding-adults/safeguarding-adults-procedure/",
+        "total_chunks": 192,
+        "type": "pdf"
+      },
+      "id": "d110c4d4-7873-4c93-a82d-316916c0f852",
+      "distance": 0.777858316898346,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.11664250493049622,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". If you cannot provide much detail or wish to remain anonymous, you can call us on 0151 459 2606 to report your concerns. The form should take no longer than 10 minutes to complete. You can complete this yourself, or a family member or friend can do this for you. Report an adult at risk Read our privacy notice which tells you how we use your data What happens next? When we receive your report we will get the right services involved. This may include talking to the police and a social worker. We will talk to the person being abused or neglected about what help they might need and ask what they want to happen. If they are unable to make an informed choice we will support and protect them to make sure they are safe and well. In this section Tell us about a vulnerable adult who might need support Report an adult at risk of abuse or neglect Get help for a relative or friend",
+      "metadata": {
+        "chunk_id": 3,
+        "filename": "www.liverpool.gov.uk_adult-social-care_who-we-support_worried-about-someone_report-an-adult-at-risk_.txt",
+        "level": "level_1",
+        "source": "https://www.liverpool.gov.uk/adult-social-care/who-we-support/worried-about-someone/report-an-adult-at-risk/",
+        "source_url": "https://www.liverpool.gov.uk/adult-social-care/who-we-support/worried-about-someone/report-an-adult-at-risk/",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "bece7bb7-65a9-405b-a916-ed6b0f80b0f3",
+      "distance": 0.7896608829939968,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.11310173510180095,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 12]\nLiverpool City Council  \nInter-agency safegua rding adults procedures January 2021  \npg. 11 \n There will be occasions where speaking to the adult could put them at further \nor increased risk of harm. This could be, for example, due to retaliation, or a \nrisk of fleeing or removal of the adult from the local area, or an increase in \nthreatening or controlling behaviour if the person causing the risk of harm \nwere to know that the adult had told someone about the abuse or neglect, or \nthat someone else was aware of it.  \n \nThe adult\u2019s safety and the potential for increasing the risk should always be \nconsidered when planning to speak to the person. Any such situations where \nthere is the potential for endangering safety or increasing risk should be \nassessed carefully and advice taken from your line mana ger. \n \n \n3.5 When an adult does not want information shared and there is a \nprofessional r esponsibility to do so  \n \nWhere an adult with mental capacity to make an informed decision about their",
+      "metadata": {
+        "chunk_id": 26,
+        "contains_financial_info": true,
+        "download_url": "https://www.liverpool.gov.uk/media/22zokusr/liverpool-inter-agency-safeguarding-adults-procedures-2021.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "liverpool-inter-agency-safeguarding-adults-procedures-2021.pdf",
+        "financial_pages": "[7, 15, 22, 24, 28, 31, 32, 34, 35, 36, 37, 38, 40, 41, 42, 45, 49, 50, 51, 56, 58, 65, 71]",
+        "level": "level_3",
+        "page_count": 73,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73]",
+        "source": "https://www.liverpool.gov.uk/adult-social-care/professional-referrals/safeguarding-adults/safeguarding-adults-procedure/",
+        "source_url": "https://www.liverpool.gov.uk/adult-social-care/professional-referrals/safeguarding-adults/safeguarding-adults-procedure/",
+        "total_chunks": 192,
+        "type": "pdf"
+      },
+      "id": "8d91708d-0f23-4623-8a77-8ee21d101cff",
+      "distance": 0.793924868106842,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.11182253956794738,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Report an adult at risk of abuse or neglect If you think someone over 18 is being mistreated, you should tell us. A person may be more vulnerable to abuse or neglect if they have care and support needs. This process is for members of the public to raise a concern about suspected abuse or neglect. If you are a healthcare worker, GP or other professional raising a concern, follow the safeguarding process for professionals . If the person is at immediate risk of harm and an urgent response is required please contact the police on 0151 709 6010. Dial 999 in an emergency or where there is any indication a criminal act has occurred. When you should report it to us The abuse or neglect could come from anyone - including family members, friends or professionals",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.liverpool.gov.uk_adult-social-care_who-we-support_worried-about-someone_report-an-adult-at-risk_.txt",
+        "level": "level_1",
+        "source": "https://www.liverpool.gov.uk/adult-social-care/who-we-support/worried-about-someone/report-an-adult-at-risk/",
+        "source_url": "https://www.liverpool.gov.uk/adult-social-care/who-we-support/worried-about-someone/report-an-adult-at-risk/",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "8849c7ee-3503-459a-9d91-5ae92b5a8772",
+      "distance": 0.8123136098159239,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.10630591705522283,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 17]\nLiverpool City Council  \nInter-agency safegua rding adults procedures January 2021  \npg. 16 \n 3.12 Making a referral to Careline  \n \nThe person responsi ble for making the referral to C areline to raise a \nsafeguarding concern should  wherever possible  provide  the following \ninformation:  \n \nAllegation /c oncern  \n \n\u2022 details of the person  \n\u2022 details of the person raising the c oncern  \n\u2022 reason for concern , has any harm occurred and  has medical attention \nbeen soug ht \n\u2022 date / time / location of any incident  \n\u2022 location of victim  \n\u2022 details of the person\u2019s views and wishes if known/what the person \nwants to happen  and if they have given consent for you to contact adult \nsocial care. If you do no t know the adult \u2019s views, the reason you were \nnot able to talk to them  (this should only be if there was a concern that \nthis might put them or others or you at risk)  \n\u2022 does the person have substantial difficulty understanding the enquiry \nyes/no?",
+      "metadata": {
+        "chunk_id": 39,
+        "contains_financial_info": true,
+        "download_url": "https://www.liverpool.gov.uk/media/22zokusr/liverpool-inter-agency-safeguarding-adults-procedures-2021.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "liverpool-inter-agency-safeguarding-adults-procedures-2021.pdf",
+        "financial_pages": "[7, 15, 22, 24, 28, 31, 32, 34, 35, 36, 37, 38, 40, 41, 42, 45, 49, 50, 51, 56, 58, 65, 71]",
+        "level": "level_3",
+        "page_count": 73,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73]",
+        "source": "https://www.liverpool.gov.uk/adult-social-care/professional-referrals/safeguarding-adults/safeguarding-adults-procedure/",
+        "source_url": "https://www.liverpool.gov.uk/adult-social-care/professional-referrals/safeguarding-adults/safeguarding-adults-procedure/",
+        "total_chunks": 192,
+        "type": "pdf"
+      },
+      "id": "6073110f-56d8-4e52-bfd9-f826b91c4f99",
+      "distance": 0.8159693479537964,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.10520919561386108,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Tell us about a vulnerable adult who might need support What to do if you're concerned about a vulnerable adult, such as a friend or elderly neighbour. If someone has had a fall or is in immediate danger, call 999. If you think someone is being treated badly, report abuse or neglect of an adult . You might be concerned if a vulnerable person over 18 is finding it difficult to cope if: they are not looking after themselves or their home as they normally would they seem frail or confused there are signs of injury or mobility problems they are being exploited or abused they seem to have mental health problems What to do If you don't know the person well: speak to them first and ask if they are OK and if they want help ask if they have family or friends in the area who can help and if you can call them In most cases you won't need to contact us as their family and friends will be able to help",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.liverpool.gov.uk_adult-social-care_who-we-support_worried-about-someone_vulnerable-adults_.txt",
+        "level": "level_2",
+        "source": "https://www.liverpool.gov.uk/adult-social-care/who-we-support/worried-about-someone/vulnerable-adults/",
+        "source_url": "https://www.liverpool.gov.uk/adult-social-care/who-we-support/worried-about-someone/vulnerable-adults/",
+        "total_chunks": 3,
+        "type": "web_page"
+      },
+      "id": "26862586-cfd4-45af-b5c1-b78c4b4dfe12",
+      "distance": 0.8164565563201904,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.10506303310394288,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "--\n\nWorried about someone Tell us about a vulnerable adult who might need support What to do if you're concerned that a vulnerable adult is finding it difficult to cope. Report an adult at risk of abuse or neglect What to do if you're worried that an adult is being abused, neglected or at risk. Get help for a relative or friend If a family member or friend has eligible support needs, you can ask for help. Related pages Professionals: Safeguarding adults",
+      "metadata": {
+        "chunk_id": 0,
+        "filename": "www.liverpool.gov.uk_adult-social-care_who-we-support_worried-about-someone_.txt",
+        "level": "level_1",
+        "source": "https://www.liverpool.gov.uk/adult-social-care/who-we-support/worried-about-someone/",
+        "source_url": "https://www.liverpool.gov.uk/adult-social-care/who-we-support/worried-about-someone/",
+        "total_chunks": 1,
+        "type": "web_page"
+      },
+      "id": "ce59fae4-abc0-4411-93a8-ca17d32ed8c6",
+      "distance": 0.8120118666402334,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.10209644000792997,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    }
+  ],
+  "context": "[Document 1] From https://www (web_page) - URL: https://www.liverpool.gov.uk/adult-social-care/who-we-support/contact-adult-social-care/welfare-and-safety-enquiries/ [Retrieved via: semantic_original]:\nWelfare and safety enquiries Choose a topic I think an adult is at risk of abuse or neglect If you think the person is in immediate danger, call 999. Find out when you should report your concerns to us and how . If you are a professional reporting a concern, please follow the safeguarding process for professionals . I think someone might need support If you're concerned that a vulnerable adult, such as a friend, elderly neighbour or someone you don't know well, is finding it difficult to cope, you should tell us. Find out how to report a concern about an adult who might need support . If the person is in immediate danger, call 999. How to get help for a relative or friend We help adults who have eligible needs under the Care Act . See how to get help for a relative or friend if you know the person well and have discussed the possibility of getting support\n\n[Document 2] From https://www (pdf) - URL: https://www.liverpool.gov.uk/adult-social-care/professional-referrals/safeguarding-adults/safeguarding-adults-procedure/ - 73 pages [Retrieved via: semantic_original]:\n[Page 10]\nLiverpool City Council  \nInter-agency safegua rding adults procedures January 2021  \npg. 9 \n 3. What to do if you suspect abuse or neglect and how to \nreport a safeguarding  concern                                               \n \n    \n    \n           \n           \n            \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nPrinciples  \nEmpowerment \nPrevention \nProportionate \nProtection  \nPartnership  \nAccountability  \n \n \nAbuse or neglect \ndiscovered or suspected?  \nContact your line manager . \nIf your line manager is \nimplicated contact your  \nsenior manager without \ndelay.  \nHave a conversation  with the \nadult on their desired \noutcomes where this is safe \nto do so.  \n Making a referral to Careline.  \n  \nRing Careline on  0151 233 3800  \nfor urgent referral . If not \nurgent complete  the online  \nsafeguarding referral form  \nhttps://forms.liverpool.gov.uk/c\nontour -forms/liverpool -\nsafeguarding -adult -referral -\nform / \nWith\u2026  \nDetails  of the person  \nYour details\n\n[Document 3] From https://www (web_page) - URL: https://www.liverpool.gov.uk/adult-social-care/professional-referrals/safeguarding-adults/report-an-adult-safeguarding-concern/ [Retrieved via: semantic_original]:\nProfessionals: Report an adult safeguarding concern This process is for professionals such as care providers, GPs or clinicians to report a safeguarding concern for an adult who you believe has care and support needs, is at risk of harm and who you feel is unable to protect themselves because of those needs. In an emergency If a person is at immediate risk of harm and an urgent response is required please contact the police on 709 6010. Dial 999 in an emergency or where there is any indication a criminal act has occurred. If you need to report an urgent safeguarding concern and believe that an individual is at serious risk of harm which will require a response within 48 hours, please call adult social care on 459 2606. Other concerns For all other concerns please use the adult safeguarding form below as soon as possible after the concern is identified, and where possible, after you have notified the individual of the actions you are intending to take.\u00a0 We will respond within 5 days\n\n[Document 4] From https://www (pdf) - URL: https://www.liverpool.gov.uk/adult-social-care/professional-referrals/safeguarding-adults/safeguarding-adults-procedure/ - 73 pages [Retrieved via: semantic_original]:\nexisting relevant information, as they would for any other information or \nreferral received.  This should include, where appropriate, checks w ith the \npolice, and checks with health p artners, specifically Mersey C are NHS Trust if \nthere is information to suggest that the adult has mental ill health .  \n \nIf the information received and / or identified through the se initial basic checks \nappears  to indicate the adult affected meets the criteria below, then the \ninformatio n shoul d be treated as a safeguarding concern  and the loca l \nauthori ty\u2019s duty to undertake an  enquiry or cause others to do  so is triggered . \nThis could range from a conversation with the adult or if they have substantial \ndifficulty understanding  the enquiry their representative or advocate  to a more \nformal multi -agency plan or course of action.   \n \n \n \n \n \n \n \nIf the safeguarding concern can be dealt w ith at the point of contact  in line  \nwith the requirement s of the Care Act and Making Safeguarding P ersonal\n\n[Document 5] From https://www (web_page) - URL: https://www.liverpool.gov.uk/adult-social-care/who-we-support/worried-about-someone/report-an-adult-at-risk/ [Retrieved via: semantic_original]:\n. If you cannot provide much detail or wish to remain anonymous, you can call us on 0151 459 2606 to report your concerns. The form should take no longer than 10 minutes to complete. You can complete this yourself, or a family member or friend can do this for you. Report an adult at risk Read our privacy notice which tells you how we use your data What happens next? When we receive your report we will get the right services involved. This may include talking to the police and a social worker. We will talk to the person being abused or neglected about what help they might need and ask what they want to happen. If they are unable to make an informed choice we will support and protect them to make sure they are safe and well. In this section Tell us about a vulnerable adult who might need support Report an adult at risk of abuse or neglect Get help for a relative or friend\n\n[Document 6] From https://www (pdf) - URL: https://www.liverpool.gov.uk/adult-social-care/professional-referrals/safeguarding-adults/safeguarding-adults-procedure/ - 73 pages [Retrieved via: semantic_original]:\n[Page 12]\nLiverpool City Council  \nInter-agency safegua rding adults procedures January 2021  \npg. 11 \n There will be occasions where speaking to the adult could put them at further \nor increased risk of harm. This could be, for example, due to retaliation, or a \nrisk of fleeing or removal of the adult from the local area, or an increase in \nthreatening or controlling behaviour if the person causing the risk of harm \nwere to know that the adult had told someone about the abuse or neglect, or \nthat someone else was aware of it.  \n \nThe adult\u2019s safety and the potential for increasing the risk should always be \nconsidered when planning to speak to the person. Any such situations where \nthere is the potential for endangering safety or increasing risk should be \nassessed carefully and advice taken from your line mana ger. \n \n \n3.5 When an adult does not want information shared and there is a \nprofessional r esponsibility to do so  \n \nWhere an adult with mental capacity to make an informed decision about their\n\n[Document 7] From https://www (web_page) - URL: https://www.liverpool.gov.uk/adult-social-care/who-we-support/worried-about-someone/report-an-adult-at-risk/ [Retrieved via: semantic_original]:\nReport an adult at risk of abuse or neglect If you think someone over 18 is being mistreated, you should tell us. A person may be more vulnerable to abuse or neglect if they have care and support needs. This process is for members of the public to raise a concern about suspected abuse or neglect. If you are a healthcare worker, GP or other professional raising a concern, follow the safeguarding process for professionals . If the person is at immediate risk of harm and an urgent response is required please contact the police on 0151 709 6010. Dial 999 in an emergency or where there is any indication a criminal act has occurred. When you should report it to us The abuse or neglect could come from anyone - including family members, friends or professionals\n\n[Document 8] From https://www (pdf) - URL: https://www.liverpool.gov.uk/adult-social-care/professional-referrals/safeguarding-adults/safeguarding-adults-procedure/ - 73 pages [Retrieved via: semantic_original]:\n[Page 17]\nLiverpool City Council  \nInter-agency safegua rding adults procedures January 2021  \npg. 16 \n 3.12 Making a referral to Careline  \n \nThe person responsi ble for making the referral to C areline to raise a \nsafeguarding concern should  wherever possible  provide  the following \ninformation:  \n \nAllegation /c oncern  \n \n\u2022 details of the person  \n\u2022 details of the person raising the c oncern  \n\u2022 reason for concern , has any harm occurred and  has medical attention \nbeen soug ht \n\u2022 date / time / location of any incident  \n\u2022 location of victim  \n\u2022 details of the person\u2019s views and wishes if known/what the person \nwants to happen  and if they have given consent for you to contact adult \nsocial care. If you do no t know the adult \u2019s views, the reason you were \nnot able to talk to them  (this should only be if there was a concern that \nthis might put them or others or you at risk)  \n\u2022 does the person have substantial difficulty understanding the enquiry \nyes/no?\n\n[Document 9] From https://www (web_page) - URL: https://www.liverpool.gov.uk/adult-social-care/who-we-support/worried-about-someone/vulnerable-adults/ [Retrieved via: semantic_original]:\nTell us about a vulnerable adult who might need support What to do if you're concerned about a vulnerable adult, such as a friend or elderly neighbour. If someone has had a fall or is in immediate danger, call 999. If you think someone is being treated badly, report abuse or neglect of an adult . You might be concerned if a vulnerable person over 18 is finding it difficult to cope if: they are not looking after themselves or their home as they normally would they seem frail or confused there are signs of injury or mobility problems they are being exploited or abused they seem to have mental health problems What to do If you don't know the person well: speak to them first and ask if they are OK and if they want help ask if they have family or friends in the area who can help and if you can call them In most cases you won't need to contact us as their family and friends will be able to help\n\n[Document 10] From https://www (web_page) - URL: https://www.liverpool.gov.uk/adult-social-care/who-we-support/worried-about-someone/ [Retrieved via: semantic_original]:\n--\n\nWorried about someone Tell us about a vulnerable adult who might need support What to do if you're concerned that a vulnerable adult is finding it difficult to cope. Report an adult at risk of abuse or neglect What to do if you're worried that an adult is being abused, neglected or at risk. Get help for a relative or friend If a family member or friend has eligible support needs, you can ask for help. Related pages Professionals: Safeguarding adults\n",
+  "answer": "If you're concerned about your elderly neighbor in Liverpool who seems confused and isn't eating properly, you can report your concerns to Liverpool City Council's adult social care services.\n\n**Steps to Report a Safeguarding Concern:**\n\n- **Immediate Danger:** If you believe your neighbor is in immediate danger, call **999**.\n- **Urgent Concerns:** For urgent safeguarding concerns where the individual is at serious risk and requires a response within 48 hours, call **0151 233 3800** for an urgent referral to Careline.\n- **Non-Urgent Concerns:** For non-urgent concerns, you can complete the online safeguarding referral form available at [Liverpool Safeguarding Adult Referral Form](https://forms.liverpool.gov.uk/contour-forms/liverpool-safeguarding-adult-referral-form/).\n- **General Concerns:** If you wish to remain anonymous or cannot provide much detail, call **0151 459 2606** to report your concerns.\n\n**Additional Information:**\n\n- When reporting, provide as much detail as possible, including the person's details, your contact information, and the reason for your concern.\n- Liverpool City Council will involve the appropriate services, which may include discussions with the police and social workers, to ensure the individual's safety and well-being.\n\nFor more information, you can visit the Liverpool City Council's website on adult social care: [Liverpool Adult Social Care](https://www.liverpool.gov.uk/adult-social-care/who-we-support/contact-adult-social-care/welfare-and-safety-enquiries/).",
+  "metrics": {
+    "duration_seconds": 14.111848831176758,
+    "retrieved_docs_count": 10,
+    "query_length": 143,
+    "answer_length": 1516,
+    "retrieval_method": "enhanced",
+    "context_utilization": 0.1995249406175772,
+    "citations_count": 0,
+    "has_citations": false,
+    "query_relevance": 0.9,
+    "unique_retrieval_methods": 1,
+    "budget_documents_retrieved": 4,
+    "retrieval_methods_used": [
+      "semantic_original"
+    ],
+    "retrieval_method_distribution": {
+      "semantic_original": 10
+    }
+  },
+  "local_authority": "liverpool",
+  "query_id": "scn_25",
+  "retrieval_method": "enhanced",
+  "run_id": "b7ebb2c3-fbba-4216-9948-d84f66b7a6b0",
+  "trace": {
+    "run_id": "b7ebb2c3-fbba-4216-9948-d84f66b7a6b0",
+    "project": "social_care_rag",
+    "url": "https://eu.smith.langchain.com/o/me/runs/b7ebb2c3-fbba-4216-9948-d84f66b7a6b0"
+  },
+  "test_metadata": {
+    "local_authority": "liverpool",
+    "query_id": "scn_25",
+    "query_category": "emergency_scenarios",
+    "prompt_variation": "optimized",
+    "prompt_template": "\nPlease answer the following question about social care services in UK local authorities based only on the information in the provided documents.\n\nQuestion: {query}\n\nContext from relevant documents:\n{context}\n\nInstructions:\n1. Provide a clear, direct answer that would help someone needing this information. If information isn't available, state: \"The available documents don't provide specific information about [aspect].\"\n\n2. Synthesize information from ALL relevant documents to provide the most complete answer rather than analyzing documents individually.\n\n3. Structure your response with:\n   - A concise 1-2 sentence summary first\n   - Relevant details organized in short, clear paragraphs\n   - Bullet points for lists or step-by-step information\n   - Bold text for key information the user should notice\n\n4. For financial information:\n   - Include exact figures, time periods, and what the funding covers\n   - Present financial data clearly: \"The adult social care budget is **\u00a3X million** for [time period]\"\n\n5. Always include practical next steps or resources:\n   - Provide contact information, URLs, or application methods mentioned in the documents\n   - Suggest where the person could find more information\n\n6. When citing sources, use a simple format: \"According to [document name/description]\" or include URLs where available.\n\nAnswer:\n",
+    "processing_time": 14.114423036575317,
+    "timestamp": "2025-08-19T13:56:01.442091",
+    "top_k": 10
+  }
+}

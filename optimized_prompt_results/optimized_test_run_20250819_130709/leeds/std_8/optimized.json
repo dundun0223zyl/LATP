@@ -1,0 +1,295 @@
+{
+  "query": "How much of leeds's planned savings are targeted to come from social care services?",
+  "retrieved_documents": [
+    {
+      "content": "and Wellbeing Board and it belongs to everyone.\nLeeds has a plan to tackle climate change as \nan important part of our best city ambition. This \nincludes plans to reduce our own carbon footprint; \nreduce pollution and noise; reduce the level of \ngreenhouse gas emissions from buildings in the \ncity; promote cycling, walking and the use of public \ntransport; promote a less wasteful, low carbon \neconomy; reduce flooding and other risks from \nthe impact of climate change; build sustainable \ninfrastructure; to help residents reduce their own \ncarbon footprints.\nThe Joint Strategic Assessment 2021 brings \ntogether data and intelligence to look at the current \nand future health and social care needs of people \nliving in Leeds. Its purpose is to shape priorities \nand guide health commissioning, wellbeing and \nsocial care services and service strategies. It helps \nus to better understand the wider determinants \nof health and \u2018post\u2019 pandemic needs and \nopportunities enabling planning for the future. Context",
+      "metadata": {
+        "chunk_id": 3,
+        "contains_financial_info": true,
+        "download_url": "https://www.leeds.gov.uk/sites/default/files/docs/age%20friendly%20leeds%20strategy%20action%20plan%202022-25.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "age%20friendly%20leeds%20strategy%20action%20plan%202022-25.pdf",
+        "financial_pages": "[5, 6, 10, 12, 13, 14, 15, 16, 18, 19, 22, 23, 24, 25, 27, 29, 30, 32, 35]",
+        "level": "level_2",
+        "page_count": 36,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36]",
+        "source": "https://www.leeds.gov.uk/plans-and-strategies/age-friendly-leeds-strategy-and-action-plan-2022-2025",
+        "source_url": "https://www.leeds.gov.uk/plans-and-strategies/age-friendly-leeds-strategy-and-action-plan-2022-2025",
+        "total_chunks": 78,
+        "type": "pdf"
+      },
+      "id": "db62f097-59e1-4662-94d4-c221948d89da",
+      "distance": 0.8136170506477356,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.39227852116931566,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Moving from children\u2019s social care to adult social care Find help\u00a0and support for young people moving into\u00a0adulthood and adult social services. How we can help Until the age of 18, services for young people with long-term health conditions and disabilities\u00a0are provided by child health and social care services. Between the ages of 16 and 18,\u00a0plans will start to be made with\u00a0the young person\u00a0to prepare them to move to\u00a0adult services. This is known as a transition. This should involve all the services that support areas like: health and social care mental health education financial benefits for the young person and their family work housing To\u00a0make sure we can provide the support needed in this time, we'll do\u00a0a social care transition\u00a0assessment with the young person and their family. This will help us to see what support a young person\u00a0will need as they approach adulthood and help them to make plans for their future care arrangements",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.leeds.gov.uk_adult-social-care_moving-from-children%E2%80%99s-social-care-to-adult-social-care.txt",
+        "level": "level_1",
+        "source": "https://www.leeds.gov.uk/adult-social-care/moving-from-children%E2%80%99s-social-care-to-adult-social-care",
+        "source_url": "https://www.leeds.gov.uk/adult-social-care/moving-from-children%E2%80%99s-social-care-to-adult-social-care",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "03d4c073-e0a7-4f75-9729-59732bbc3d1e",
+      "distance": 0.7491578979316799,
+      "retrieval_method": "semantic_expanded_1",
+      "expanded_query": "adult social care",
+      "combined_score": 0.3899379453058108,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_expanded_1"
+      }
+    },
+    {
+      "content": "Professionals: Adult social care referrals and safeguarding concerns Make an adult social care referral or report a safeguarding concern if you\u2019re a professional such as a doctor, nurse, social worker, police officer or housing officer. Make an adult social care referral Report a safeguarding concern Mental health act assessments To request an assessment under the mental health act, call: 0113 535 0003 (8:30am to 5pm, Monday to Friday) 0113 378 0644 (for emergencies on weekends, nights and bank holidays) Make an adult social care referral First, if you can, speak to the person to ensure they want help from us. We may not be able to help someone who does not want it. What we will need to know Please provide as much information as you can",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.leeds.gov.uk_adult-social-care_professionals-referrals-and-resources_professionals-care-referral.txt",
+        "level": "level_2",
+        "source": "https://www.leeds.gov.uk/adult-social-care/professionals-referrals-and-resources/professionals-care-referrals-and-safeguarding-reports",
+        "source_url": "https://www.leeds.gov.uk/adult-social-care/professionals-referrals-and-resources/professionals-care-referrals-and-safeguarding-reports",
+        "total_chunks": 7,
+        "type": "web_page"
+      },
+      "id": "b1ed0228-c493-404a-be29-c3b3a2001a5d",
+      "distance": 0.7333839535713196,
+      "retrieval_method": "semantic_expanded_1",
+      "expanded_query": "adult social care",
+      "combined_score": 0.2663484502922405,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_expanded_1"
+      }
+    },
+    {
+      "content": "How to get help from adult social care See how to get help\u00a0for yourself or another adult, including how to get a care needs assessment from the council. If you are worried that someone is being treated badly, you should report abuse or neglect . Who we help We help adults who need extra support to live well. It can be long term or just until they're doing better",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.leeds.gov.uk_adult-social-care_how-to-get-adult-social-care-and-support_how-to-get-help-from-adu.txt",
+        "level": "level_2",
+        "source": "https://www.leeds.gov.uk/adult-social-care/how-to-get-adult-social-care-and-support/how-to-get-help-from-adult-social-care",
+        "source_url": "https://www.leeds.gov.uk/adult-social-care/how-to-get-adult-social-care-and-support/how-to-get-help-from-adult-social-care",
+        "total_chunks": 7,
+        "type": "web_page"
+      },
+      "id": "6a72c8a7-e624-429d-ac79-28c77e7ac691",
+      "distance": 0.6898919939994812,
+      "retrieval_method": "semantic_expanded_1",
+      "expanded_query": "adult social care",
+      "combined_score": 0.265796038163792,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_expanded_1"
+      }
+    },
+    {
+      "content": "Get a carer's assessment If you take care of someone who couldn't manage without your help, you are entitled to a carer's assessment. Asking for help If you care for someone and feel like you need support or a rest, you can ask the adult social care team for a carer's assessment. This is a chance for you to have a conversation about how your caring responsibilities affect your wellbeing and quality of life. It is not to judge the care that you provide, but to see how we can help make your life easier. You can ask for an assessment at any time by calling the adult social care team on: 0113 222 4401 (weekdays 9am to 5pm, except Wednesdays from 10am) If you have a social worker, you can ask them to arrange it\u00a0for you. For information, advice and support on preparing for a carer's assessment, visit Carer's Leeds or call 0113 380 4300",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.leeds.gov.uk_adult-social-care_looking-after-someone_get-a-carers-assessment.txt",
+        "level": "level_2",
+        "source": "https://www.leeds.gov.uk/adult-social-care/looking-after-someone/get-a-carers-assessment",
+        "source_url": "https://www.leeds.gov.uk/adult-social-care/looking-after-someone/get-a-carers-assessment",
+        "total_chunks": 3,
+        "type": "web_page"
+      },
+      "id": "4ac702fa-fe50-418f-a1e2-374fd5ef5c2f",
+      "distance": 0.738865077495575,
+      "retrieval_method": "semantic_expanded_1",
+      "expanded_query": "adult social care",
+      "combined_score": 0.2647041131149639,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_expanded_1"
+      }
+    },
+    {
+      "content": "Worried about someone Get help for a friend or relative See how to get social care and support for your friend or family member so they can live well and be safe Tell us about a vulnerable adult Tell us about someone who might need care and support, including elderly neighbours Report abuse or neglect Tell us if you think an adult is being neglected, abused or exploited Concern about a care worker Tell us if you are concerned about the behaviour of a person in a position of trust Professionals: safeguarding and referrals For doctors, social workers and emergency services contacting adult social care Emergency social care contacts Who to contact in an adult social care emergency, including weekends, nights and bank holidays Mental health support Get support for someone with mental health needs Change someone's care See how to make changes to someone's care or tell us about a change in their address or situation Looking after a friend or relative We can support you to care for a friend or family member by",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.leeds.gov.uk_adult-social-care_worried-about-someone.txt",
+        "level": "level_1",
+        "source": "https://www.leeds.gov.uk/adult-social-care/worried-about-someone",
+        "source_url": "https://www.leeds.gov.uk/adult-social-care/worried-about-someone",
+        "total_chunks": 3,
+        "type": "web_page"
+      },
+      "id": "31439a1a-8003-4a83-b8ae-8e1a957d027d",
+      "distance": 0.7705804546527756,
+      "retrieval_method": "semantic_expanded_1",
+      "expanded_query": "adult social care",
+      "combined_score": 0.2551894999678037,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_expanded_1"
+      }
+    },
+    {
+      "content": "Relatives and friends of care home residents Organisations that offer help and support for friends and relatives Carers Leeds gives tailored support, advice and information to unpaid carers Healthwatch Leeds provides an information and advice service to help people understand and access health and care services in the Leeds area Care Rights UK support and inform residents, families and friends to find out all they need to know about care and to help them if things go wrong Age UK Leeds runs a local information and advice service that can give you advice on things affecting older people Anne Robson Trust a new helpline for people at end of life (last months, weeks or days) or their families or friends Mindwell Leeds lots of useful information for people living in Leeds about where you can get support (including for bereavement and loss) as well as things you can do to support yourself Visiting a care home Information about what rights you have when visiting someone in care Raising a concern How to raise a",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.leeds.gov.uk_care-quality-team_family-and-friends-of-care-home-residents.txt",
+        "level": "level_3",
+        "source": "https://www.leeds.gov.uk/care-quality-team/family-and-friends-of-care-home-residents",
+        "source_url": "https://www.leeds.gov.uk/care-quality-team/family-and-friends-of-care-home-residents",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "e3d19883-8ccc-4a11-843d-6db594708709",
+      "distance": 0.8026177883148193,
+      "retrieval_method": "semantic_expanded_3",
+      "expanded_query": "care services",
+      "combined_score": 0.24557829986919055,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_expanded_3"
+      }
+    },
+    {
+      "content": ". If your plan includes having\u00a0care and support services,\u00a0you might get\u00a0help to pay for them.\u00a0You will need to have a financial assessment to decide if you qualify and work out how much help you will get. Find out more about: the cost of services getting help to pay for care Appeals If you disagree with the outcome of your needs assessment, you can appeal and ask us to review your case. The best way to do this is by speaking to your social worker. If you are still unhappy, you can make a formal complaint . Give feedback and let us know if this page was helpful",
+      "metadata": {
+        "chunk_id": 5,
+        "filename": "www.leeds.gov.uk_adult-social-care_how-to-get-adult-social-care-and-support_needs-assessments.txt",
+        "level": "level_2",
+        "source": "https://www.leeds.gov.uk/adult-social-care/how-to-get-adult-social-care-and-support/needs-assessments",
+        "source_url": "https://www.leeds.gov.uk/adult-social-care/how-to-get-adult-social-care-and-support/needs-assessments",
+        "total_chunks": 6,
+        "type": "web_page"
+      },
+      "id": "422586cb-86f4-4f38-ab97-4b3a1de4fe7a",
+      "distance": 0.8560813069343567,
+      "retrieval_method": "semantic_expanded_2",
+      "expanded_query": "social care budget",
+      "combined_score": 0.23163714638123145,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_expanded_2"
+      }
+    },
+    {
+      "content": ". See support for carers . Call adult social care You can call about yourself\u00a0or\u00a0about someone else.\u00a0For example, friends, family members\u00a0and\u00a0health professionals\u00a0(like a\u00a0doctor) can call on behalf of someone who needs help. If you're calling about someone who cannot make decisions, you may need the legal right to manage their care. Find out about representing someone who needs help . During the call, we will ask questions about the person who needs support \u2013 whether it\u2019s you or someone else. Conversations can take up to 30 minutes",
+      "metadata": {
+        "chunk_id": 3,
+        "filename": "www.leeds.gov.uk_adult-social-care_how-to-get-adult-social-care-and-support_how-to-get-help-from-adu.txt",
+        "level": "level_2",
+        "source": "https://www.leeds.gov.uk/adult-social-care/how-to-get-adult-social-care-and-support/how-to-get-help-from-adult-social-care",
+        "source_url": "https://www.leeds.gov.uk/adult-social-care/how-to-get-adult-social-care-and-support/how-to-get-help-from-adult-social-care",
+        "total_chunks": 7,
+        "type": "web_page"
+      },
+      "id": "0982b17a-3613-4131-b51b-35c3d8b06d91",
+      "distance": 0.863681972026825,
+      "retrieval_method": "semantic_expanded_1",
+      "expanded_query": "adult social care",
+      "combined_score": 0.2272590447555889,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_expanded_1"
+      }
+    },
+    {
+      "content": "Cost of services from adult social care See how much social care and support services cost, including care homes. You will be responsible for the cost of your care and support plan, but you might qualify for help to pay for it. If your savings and investments are less than \u00a323,250, you could qualify for help to pay. Check if you're likely to qualify . Cost of services After we have assessed your needs we may suggest a mixture of care services. There are some that are free, some you can get help to pay for, and some that you will need to pay for yourself. The cost of services changes every year. You will find the typical costs for the financial year 2025 to 2026 on this page. Services that may be free If they are available, some things in your plan might be free",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.leeds.gov.uk_adult-social-care_how-to-get-adult-social-care-and-support_how-much-it-costs.txt",
+        "level": "level_2",
+        "source": "https://www.leeds.gov.uk/adult-social-care/how-to-get-adult-social-care-and-support/how-much-it-costs",
+        "source_url": "https://www.leeds.gov.uk/adult-social-care/how-to-get-adult-social-care-and-support/how-much-it-costs",
+        "total_chunks": 7,
+        "type": "web_page"
+      },
+      "id": "df1e4372-3022-4b6e-a89b-28a096a4410f",
+      "distance": 0.8490504622459412,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.22570444174579807,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    }
+  ],
+  "context": "[Document 1] From https://www (pdf) - URL: https://www.leeds.gov.uk/plans-and-strategies/age-friendly-leeds-strategy-and-action-plan-2022-2025 - 36 pages [Retrieved via: semantic_original]:\nand Wellbeing Board and it belongs to everyone.\nLeeds has a plan to tackle climate change as \nan important part of our best city ambition. This \nincludes plans to reduce our own carbon footprint; \nreduce pollution and noise; reduce the level of \ngreenhouse gas emissions from buildings in the \ncity; promote cycling, walking and the use of public \ntransport; promote a less wasteful, low carbon \neconomy; reduce flooding and other risks from \nthe impact of climate change; build sustainable \ninfrastructure; to help residents reduce their own \ncarbon footprints.\nThe Joint Strategic Assessment 2021 brings \ntogether data and intelligence to look at the current \nand future health and social care needs of people \nliving in Leeds. Its purpose is to shape priorities \nand guide health commissioning, wellbeing and \nsocial care services and service strategies. It helps \nus to better understand the wider determinants \nof health and \u2018post\u2019 pandemic needs and \nopportunities enabling planning for the future. Context\n\n[Document 2] From https://www (web_page) - URL: https://www.leeds.gov.uk/adult-social-care/moving-from-children%E2%80%99s-social-care-to-adult-social-care [Retrieved via: semantic_expanded_1]:\nMoving from children\u2019s social care to adult social care Find help\u00a0and support for young people moving into\u00a0adulthood and adult social services. How we can help Until the age of 18, services for young people with long-term health conditions and disabilities\u00a0are provided by child health and social care services. Between the ages of 16 and 18,\u00a0plans will start to be made with\u00a0the young person\u00a0to prepare them to move to\u00a0adult services. This is known as a transition. This should involve all the services that support areas like: health and social care mental health education financial benefits for the young person and their family work housing To\u00a0make sure we can provide the support needed in this time, we'll do\u00a0a social care transition\u00a0assessment with the young person and their family. This will help us to see what support a young person\u00a0will need as they approach adulthood and help them to make plans for their future care arrangements\n\n[Document 3] From https://www (web_page) - URL: https://www.leeds.gov.uk/adult-social-care/professionals-referrals-and-resources/professionals-care-referrals-and-safeguarding-reports [Retrieved via: semantic_expanded_1]:\nProfessionals: Adult social care referrals and safeguarding concerns Make an adult social care referral or report a safeguarding concern if you\u2019re a professional such as a doctor, nurse, social worker, police officer or housing officer. Make an adult social care referral Report a safeguarding concern Mental health act assessments To request an assessment under the mental health act, call: 0113 535 0003 (8:30am to 5pm, Monday to Friday) 0113 378 0644 (for emergencies on weekends, nights and bank holidays) Make an adult social care referral First, if you can, speak to the person to ensure they want help from us. We may not be able to help someone who does not want it. What we will need to know Please provide as much information as you can\n\n[Document 4] From https://www (web_page) - URL: https://www.leeds.gov.uk/adult-social-care/how-to-get-adult-social-care-and-support/how-to-get-help-from-adult-social-care [Retrieved via: semantic_expanded_1]:\nHow to get help from adult social care See how to get help\u00a0for yourself or another adult, including how to get a care needs assessment from the council. If you are worried that someone is being treated badly, you should report abuse or neglect . Who we help We help adults who need extra support to live well. It can be long term or just until they're doing better\n\n[Document 5] From https://www (web_page) - URL: https://www.leeds.gov.uk/adult-social-care/looking-after-someone/get-a-carers-assessment [Retrieved via: semantic_expanded_1]:\nGet a carer's assessment If you take care of someone who couldn't manage without your help, you are entitled to a carer's assessment. Asking for help If you care for someone and feel like you need support or a rest, you can ask the adult social care team for a carer's assessment. This is a chance for you to have a conversation about how your caring responsibilities affect your wellbeing and quality of life. It is not to judge the care that you provide, but to see how we can help make your life easier. You can ask for an assessment at any time by calling the adult social care team on: 0113 222 4401 (weekdays 9am to 5pm, except Wednesdays from 10am) If you have a social worker, you can ask them to arrange it\u00a0for you. For information, advice and support on preparing for a carer's assessment, visit Carer's Leeds or call 0113 380 4300\n\n[Document 6] From https://www (web_page) - URL: https://www.leeds.gov.uk/adult-social-care/worried-about-someone [Retrieved via: semantic_expanded_1]:\nWorried about someone Get help for a friend or relative See how to get social care and support for your friend or family member so they can live well and be safe Tell us about a vulnerable adult Tell us about someone who might need care and support, including elderly neighbours Report abuse or neglect Tell us if you think an adult is being neglected, abused or exploited Concern about a care worker Tell us if you are concerned about the behaviour of a person in a position of trust Professionals: safeguarding and referrals For doctors, social workers and emergency services contacting adult social care Emergency social care contacts Who to contact in an adult social care emergency, including weekends, nights and bank holidays Mental health support Get support for someone with mental health needs Change someone's care See how to make changes to someone's care or tell us about a change in their address or situation Looking after a friend or relative We can support you to care for a friend or family member by\n\n[Document 7] From https://www (web_page) - URL: https://www.leeds.gov.uk/care-quality-team/family-and-friends-of-care-home-residents [Retrieved via: semantic_expanded_3]:\nRelatives and friends of care home residents Organisations that offer help and support for friends and relatives Carers Leeds gives tailored support, advice and information to unpaid carers Healthwatch Leeds provides an information and advice service to help people understand and access health and care services in the Leeds area Care Rights UK support and inform residents, families and friends to find out all they need to know about care and to help them if things go wrong Age UK Leeds runs a local information and advice service that can give you advice on things affecting older people Anne Robson Trust a new helpline for people at end of life (last months, weeks or days) or their families or friends Mindwell Leeds lots of useful information for people living in Leeds about where you can get support (including for bereavement and loss) as well as things you can do to support yourself Visiting a care home Information about what rights you have when visiting someone in care Raising a concern How to raise a\n\n[Document 8] From https://www (web_page) - URL: https://www.leeds.gov.uk/adult-social-care/how-to-get-adult-social-care-and-support/needs-assessments [Retrieved via: semantic_expanded_2]:\n. If your plan includes having\u00a0care and support services,\u00a0you might get\u00a0help to pay for them.\u00a0You will need to have a financial assessment to decide if you qualify and work out how much help you will get. Find out more about: the cost of services getting help to pay for care Appeals If you disagree with the outcome of your needs assessment, you can appeal and ask us to review your case. The best way to do this is by speaking to your social worker. If you are still unhappy, you can make a formal complaint . Give feedback and let us know if this page was helpful\n\n[Document 9] From https://www (web_page) - URL: https://www.leeds.gov.uk/adult-social-care/how-to-get-adult-social-care-and-support/how-to-get-help-from-adult-social-care [Retrieved via: semantic_expanded_1]:\n. See support for carers . Call adult social care You can call about yourself\u00a0or\u00a0about someone else.\u00a0For example, friends, family members\u00a0and\u00a0health professionals\u00a0(like a\u00a0doctor) can call on behalf of someone who needs help. If you're calling about someone who cannot make decisions, you may need the legal right to manage their care. Find out about representing someone who needs help . During the call, we will ask questions about the person who needs support \u2013 whether it\u2019s you or someone else. Conversations can take up to 30 minutes\n\n[Document 10] From https://www (web_page) - URL: https://www.leeds.gov.uk/adult-social-care/how-to-get-adult-social-care-and-support/how-much-it-costs [Retrieved via: semantic_original]:\nCost of services from adult social care See how much social care and support services cost, including care homes. You will be responsible for the cost of your care and support plan, but you might qualify for help to pay for it. If your savings and investments are less than \u00a323,250, you could qualify for help to pay. Check if you're likely to qualify . Cost of services After we have assessed your needs we may suggest a mixture of care services. There are some that are free, some you can get help to pay for, and some that you will need to pay for yourself. The cost of services changes every year. You will find the typical costs for the financial year 2025 to 2026 on this page. Services that may be free If they are available, some things in your plan might be free\n",
+  "answer": "The available documents don't provide specific information about how much of Leeds's planned savings are targeted to come from social care services. \n\nFor more detailed financial information regarding Leeds's social care services, you may consider visiting the Leeds City Council's official website or contacting their adult social care department directly. You can reach them at 0113 222 4401 during weekdays or visit [Leeds Adult Social Care](https://www.leeds.gov.uk/adult-social-care) for further assistance.",
+  "metrics": {
+    "duration_seconds": 3.1081972122192383,
+    "retrieved_docs_count": 10,
+    "query_length": 83,
+    "answer_length": 512,
+    "retrieval_method": "enhanced",
+    "context_utilization": 0.08564814814814815,
+    "citations_count": 0,
+    "has_citations": false,
+    "query_relevance": 1.0,
+    "unique_retrieval_methods": 4,
+    "budget_documents_retrieved": 1,
+    "retrieval_methods_used": [
+      "semantic_expanded_2",
+      "semantic_original",
+      "semantic_expanded_1",
+      "semantic_expanded_3"
+    ],
+    "retrieval_method_distribution": {
+      "semantic_original": 2,
+      "semantic_expanded_1": 6,
+      "semantic_expanded_3": 1,
+      "semantic_expanded_2": 1
+    }
+  },
+  "local_authority": "leeds",
+  "query_id": "std_8",
+  "retrieval_method": "enhanced",
+  "run_id": "877676e1-d654-41d9-beda-374598846fc3",
+  "trace": {
+    "run_id": "877676e1-d654-41d9-beda-374598846fc3",
+    "project": "social_care_rag",
+    "url": "https://eu.smith.langchain.com/o/me/runs/877676e1-d654-41d9-beda-374598846fc3"
+  },
+  "test_metadata": {
+    "local_authority": "leeds",
+    "query_id": "std_8",
+    "query_category": "financial_standard",
+    "prompt_variation": "optimized",
+    "prompt_template": "\nPlease answer the following question about social care services in UK local authorities based only on the information in the provided documents.\n\nQuestion: {query}\n\nContext from relevant documents:\n{context}\n\nInstructions:\n1. Provide a clear, direct answer that would help someone needing this information. If information isn't available, state: \"The available documents don't provide specific information about [aspect].\"\n\n2. Synthesize information from ALL relevant documents to provide the most complete answer rather than analyzing documents individually.\n\n3. Structure your response with:\n   - A concise 1-2 sentence summary first\n   - Relevant details organized in short, clear paragraphs\n   - Bullet points for lists or step-by-step information\n   - Bold text for key information the user should notice\n\n4. For financial information:\n   - Include exact figures, time periods, and what the funding covers\n   - Present financial data clearly: \"The adult social care budget is **\u00a3X million** for [time period]\"\n\n5. Always include practical next steps or resources:\n   - Provide contact information, URLs, or application methods mentioned in the documents\n   - Suggest where the person could find more information\n\n6. When citing sources, use a simple format: \"According to [document name/description]\" or include URLs where available.\n\nAnswer:\n",
+    "processing_time": 3.11077880859375,
+    "timestamp": "2025-08-19T13:51:14.817344",
+    "top_k": 10
+  }
+}

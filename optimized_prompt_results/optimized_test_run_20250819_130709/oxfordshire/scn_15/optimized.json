@@ -1,0 +1,297 @@
+{
+  "query": "My husband has advanced dementia and I'm his full-time carer in oxfordshire. I'm exhausted and need support. What are my options?",
+  "retrieved_documents": [
+    {
+      "content": "How to get services Visit Dementia Oxfordshire for\u00a0advice about support services that are available to you.\u00a0You can also call the support line on 01865 410 210. How Dementia Oxfordshire can help you If you have been diagnosed with dementia, are a carer for someone with dementia, or know someone with dementia, we can help you with a wide range of issues, including: information about dementia guidance on how to get a diagnosis how to get help locally awareness and education sessions for people living with dementia and their carers staying independent adaptations for your home benefits and allowances that you may be entitled to benefits, support and respite breaks for carers activities and leisure opportunities planning for the future and legal issues emotional support support for people with Mild Cognitive Impairment Community-based dementia advisers and support\u00a0workers are available across Oxfordshire. They provide\u00a0tailored information, advice, and support to help people\u00a0live well with dementia",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.oxfordshire.gov.uk_residents_social-and-health-care_adult-social-care_living-home_dementia-suppo.txt",
+        "level": "level_2",
+        "source": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/living-home/dementia-support",
+        "source_url": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/living-home/dementia-support",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "ecd01e7d-0f71-4aca-802f-004255186fb6",
+      "distance": 0.5278991460800171,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.19163025617599488,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". There are memory\u00a0caf\u00e9s and clubs, singing groups, training courses for carers, and opportunities to\u00a0socialise. You can find opportunities on Live Well Oxfordshire by searching for \u2018dementia\u2019. Back to top Community support service centres The Community support service supports adults living with dementia and offers various activities, including: computer\u00a0classes lunches exercise groups film clubs The seven centres\u00a0serve as community hubs that provide: social\u00a0care health advice and information valuable breaks for carers Back to top Other dementia services Young Dementia Oxfordshire is the young-onset dementia service provided by Dementia UK . The Alzheimer's Society's Dementia Connect support service is free and easy to access. It connects you with the right support, such as local help and phone or online advice. Back to top Help us improve our website by giving feedback .",
+      "metadata": {
+        "chunk_id": 3,
+        "filename": "www.oxfordshire.gov.uk_residents_social-and-health-care_adult-social-care_living-home_dementia-suppo.txt",
+        "level": "level_2",
+        "source": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/living-home/dementia-support",
+        "source_url": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/living-home/dementia-support",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "fca403da-b4c2-4c21-b864-36b782f594c0",
+      "distance": 0.6436709761619568,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.15689870715141296,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Many people in Oxfordshire face financial challenges related to benefits, housing issues and debt. We have commissioned a specialist information and advice service to meet this need and help people with benefits, debt, budgeting and other financial and welfare matters. The service will start in November 2024 and will focus on prevention, offering pro-active training and advice to help people improve their budgeting skills and money management before they get into a crisis. \n\nDementia\n\nOur population is ageing and the prevalence of dementia roughly doubles with every five-year increase in older age. We estimate the demand for dementia support in Oxfordshire to increase in line with this trend.",
+      "metadata": {
+        "chunk_id": 9,
+        "contains_financial_info": true,
+        "download_url": "https://www.oxfordshire.gov.uk/sites/default/files/file/adult-social-and-health-care/MarketPositionStatement2024.docx",
+        "filename": "MarketPositionStatement2024.docx",
+        "financial_sections": "['Foreword', 'Introduction', 'Our Vision for Adult Social Care: The Oxfordshire Way', 'Prevention', 'Demography: An increasing and ageing population', 'Workforce', 'Our Commissioning Intentions', 'Living Well at Home  ', 'Current Service Provision', 'Our Plans for Future Service Provision', 'Key Messages', 'Care Homes', 'Supporting Working Age Adults with Additional Needs', 'People living with older parents: Embolden Project', 'Out-of-County Placements']",
+        "level": "level_2",
+        "paragraph_count": 341,
+        "section_count": 2,
+        "sections": "['Introduction', 'Foreword', 'Strategic Vision for Oxfordshire', 'Our Vision for Adult Social Care: The Oxfordshire Way', 'Prevention', 'Key Challenges', 'Demography: An increasing and ageing population', 'Workforce', 'Our Commissioning Intentions', 'Living Well at Home  ', 'Current Service Provision', 'Our Plans for Future Service Provision', 'Key Messages', 'Extra Care Housing', 'Care Homes', 'Supporting Working Age Adults with Additional Needs', 'Supported Living', 'Live Well Supported Services Framework', 'New Advocacy and Respite Services ', 'Alternatives to Hospital Admission', 'People living with older parents: Embolden Project', 'Specialist Learning Disability Health Services', 'Mental Health Services', 'Housing Support & Care Beds', 'Homecare', 'Out-of-County Placements']",
+        "source": "https://www.oxfordshire.gov.uk/business/information-providers/adult-social-care-providers/general-information",
+        "source_url": "https://www.oxfordshire.gov.uk/business/information-providers/adult-social-care-providers/general-information",
+        "table_count": 3,
+        "tables_with_financial_info": "[1, 2, 3]",
+        "total_chunks": 50,
+        "type": "docx"
+      },
+      "id": "3bc7bb4b-f32c-4b64-8373-279a2aa9a0b8",
+      "distance": 0.685632050037384,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1443103849887848,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "docx",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". They provide\u00a0tailored information, advice, and support to help people\u00a0live well with dementia. Your doctor, district nurse, memory clinic, or another professional service can refer you to them. Confidential service Our service is confidential. We will not discuss your information with anyone else unless we have your consent to do so or unless you or someone else involved is at risk. If this situation occurs, we will always talk to you about it first. Back to top Memory cafes and training courses A number of services offer support to people living with\u00a0dementia, their families and friends. There are memory\u00a0caf\u00e9s and clubs, singing groups, training courses for carers, and opportunities to\u00a0socialise. You can find opportunities on Live Well Oxfordshire by searching for \u2018dementia\u2019",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.oxfordshire.gov.uk_residents_social-and-health-care_adult-social-care_living-home_dementia-suppo.txt",
+        "level": "level_2",
+        "source": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/living-home/dementia-support",
+        "source_url": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/living-home/dementia-support",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "0518cd65-4a32-40e3-85d1-0a8d096770f6",
+      "distance": 0.6973891854286194,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.14078324437141418,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Our long-standing partnership with Dementia Oxfordshire provides support for everyone in Oxfordshire with a diagnosis of dementia from the point of diagnosis to either end of life or at the end of independent living. The service is currently working with over 70% of people with a diagnosis of dementia living in the community. Recently, the service has also started to work with people with mild cognitive impairment. \n\nCarers\n\nUnpaid carers of all ages make a massive contribution not only to the health and wellbeing of people they care for, but also to the health and care sector. Census 2021 showed that there are 52,674 unpaid carers in Oxfordshire.",
+      "metadata": {
+        "chunk_id": 10,
+        "contains_financial_info": true,
+        "download_url": "https://www.oxfordshire.gov.uk/sites/default/files/file/adult-social-and-health-care/MarketPositionStatement2024.docx",
+        "filename": "MarketPositionStatement2024.docx",
+        "financial_sections": "['Foreword', 'Introduction', 'Our Vision for Adult Social Care: The Oxfordshire Way', 'Prevention', 'Demography: An increasing and ageing population', 'Workforce', 'Our Commissioning Intentions', 'Living Well at Home  ', 'Current Service Provision', 'Our Plans for Future Service Provision', 'Key Messages', 'Care Homes', 'Supporting Working Age Adults with Additional Needs', 'People living with older parents: Embolden Project', 'Out-of-County Placements']",
+        "level": "level_2",
+        "paragraph_count": 341,
+        "section_count": 2,
+        "sections": "['Introduction', 'Foreword', 'Strategic Vision for Oxfordshire', 'Our Vision for Adult Social Care: The Oxfordshire Way', 'Prevention', 'Key Challenges', 'Demography: An increasing and ageing population', 'Workforce', 'Our Commissioning Intentions', 'Living Well at Home  ', 'Current Service Provision', 'Our Plans for Future Service Provision', 'Key Messages', 'Extra Care Housing', 'Care Homes', 'Supporting Working Age Adults with Additional Needs', 'Supported Living', 'Live Well Supported Services Framework', 'New Advocacy and Respite Services ', 'Alternatives to Hospital Admission', 'People living with older parents: Embolden Project', 'Specialist Learning Disability Health Services', 'Mental Health Services', 'Housing Support & Care Beds', 'Homecare', 'Out-of-County Placements']",
+        "source": "https://www.oxfordshire.gov.uk/business/information-providers/adult-social-care-providers/general-information",
+        "source_url": "https://www.oxfordshire.gov.uk/business/information-providers/adult-social-care-providers/general-information",
+        "table_count": 3,
+        "tables_with_financial_info": "[1, 2, 3]",
+        "total_chunks": 50,
+        "type": "docx"
+      },
+      "id": "b9eafde3-ae7e-4b86-abdc-86a5ce546c84",
+      "distance": 0.7339847087860107,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.12980458736419678,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "docx",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "--\n\nInformation and Advice Services/Organisations Please click on the relevant picture below for appropriate information or advice. Age UK Oxfordshire Age UK Oxfordshire provides free information and advice for older people Carers Oxfordshire Carers Oxfordshire is a free service offering information and advice to adult carers living within Oxfordshire Live Well Oxfordshire A free directory developed by Oxfordshire County Council, bringing together information for adults with a variety of needs Oxfordshire Family Support Network Information and advice for family carers of people with learning disabilities, both children and adults Community Links Oxfordshire Providing a free network of support and information services across Oxfordshire Autism UK Helping autistic people in the UK and their families Dementia Oxfordshire Dedicated dementia information, advice and support Mind Offering mental health support when ever you might need it, through information, advice and local services",
+      "metadata": {
+        "chunk_id": 0,
+        "filename": "mycitizenportal.oxfordshire.gov.uk_web_portal_pages_infoservices.txt",
+        "level": "level_3",
+        "source": "https://mycitizenportal.oxfordshire.gov.uk/web/portal/pages/infoservices",
+        "source_url": "https://mycitizenportal.oxfordshire.gov.uk/web/portal/pages/infoservices",
+        "total_chunks": 1,
+        "type": "web_page"
+      },
+      "id": "5ef897e1-3fa3-4fac-955b-636803372fa7",
+      "distance": 0.7401179075241089,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.12796462774276735,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "--\n\nYour Support Needs Please click on the relevant picture below for the appropriate forms, information or advice. Needs Assessment Would you like to complete or request an assessment? Moving into Adulthood Helping young people plan for adulthood Equipment and Adaptations Could equipment and adpatations help you? Assistive Technology Are you or a loved one looking for equipment, software or systems to support you? Arranging Your Own Care Would you like to arrange your own care? Sight and Hearing Difficulties Information and advice for people who are deaf, hard of hearing or visually impaired. Dementia Advice and Support Further information and support about living with dementia Oxfordshire Employment Service Would you or a loved one like support with finding a job?",
+      "metadata": {
+        "chunk_id": 0,
+        "filename": "mycitizenportal.oxfordshire.gov.uk_web_portal_pages_supportneeds.txt",
+        "level": "level_2",
+        "source": "https://mycitizenportal.oxfordshire.gov.uk/web/portal/pages/supportneeds",
+        "source_url": "https://mycitizenportal.oxfordshire.gov.uk/web/portal/pages/supportneeds",
+        "total_chunks": 1,
+        "type": "web_page"
+      },
+      "id": "b9b8dd24-b18b-4a83-b52b-7a6251ce9d17",
+      "distance": 0.7592709064483643,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.12221872806549072,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "--\n\nServices to help you stay living at home Helping you or someone you care for to stay in their own home. In this section Daily living aids Helping you or a loved one to live independently at home. Home First Oxfordshire Home care, extra care housing and specialist support to help residents live well at home. Improving your home We can refer you to your district council for assistance keeping safe, secure, independent and warm. Community Support Service Activities and services to help people stay healthy, independent and engaged. Falls prevention service Advice to help older people avoid falls and to regain confidence if they have fallen. Dementia support Specialist advice is available in Oxfordshire for people living with dementia and their carers. Keeping warm Helping yourself and vulnerable people to stay warm. Supported living For people with a learning disability and/or autism wanting to live in their own home with help.",
+      "metadata": {
+        "chunk_id": 0,
+        "filename": "www.oxfordshire.gov.uk_residents_social-and-health-care_adult-social-care_living-home.txt",
+        "level": "level_2",
+        "source": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/living-home",
+        "source_url": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/living-home",
+        "total_chunks": 1,
+        "type": "web_page"
+      },
+      "id": "99a9c858-8198-49d3-a0f5-577cf1e6a8b9",
+      "distance": 0.7719714641571045,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.11840856075286865,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "--\n\nServices to help you stay living at home Helping you or someone you care for to stay in their own home. In this section Daily living aids Helping you or a loved one to live independently at home. Home First Oxfordshire Home care, extra care housing and specialist support to help residents live well at home. Improving your home We can refer you to your district council for assistance keeping safe, secure, independent and warm. Community Support Service Activities and services to help people stay healthy, independent and engaged. Falls prevention service Advice to help older people avoid falls and to regain confidence if they have fallen. Dementia support Specialist advice is available in Oxfordshire for people living with dementia and their carers. Keeping warm Helping yourself and vulnerable people to stay warm. Supported living For people with a learning disability and/or autism wanting to live in their own home with help.",
+      "metadata": {
+        "chunk_id": 0,
+        "filename": "www.oxfordshire.gov.uk_residents_social-and-health-care_adult-social-care_services-help-you-stay-liv.txt",
+        "level": "level_1",
+        "source": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/services-help-you-stay-living-home",
+        "source_url": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/services-help-you-stay-living-home",
+        "total_chunks": 1,
+        "type": "web_page"
+      },
+      "id": "aea88118-5f71-446e-94a5-d47e46c768b2",
+      "distance": 0.7719714641571045,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.11840856075286865,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "of reablement support, our Occupational Therapists worked with  Dorothy to \nachieve her goals, which included sleeping in her  \nown bed and feeling confident to go out in the car with her husband. \n\u201cI was worried I would \nneed to move out of home \npermanently as I needed \nso much help at first. I am \namazed at the progress \nI\u2019ve made.\u201dOur support\nPeople experience more joined-up support because of effective \ncommunication and \ncoordination between \nproviders and partner \norganisations.\nGlenn  works with  \nDementia Oxfordshire \nand has been involved in devising post-diagnostic education sessions for people who have recently had a diagnosis of dementia.\n\u201cPeople who know most \nabout dementia are \npeople with dementia. \nFour years down the road \nof my own dementia \ndiagnosis, I think it helps \nsomeone still reeling \nfrom their diagnosis to \nhear from someone \nexperiencing it.\u201dPositive support\nPeople experience positive person-centred support which is simple \nfor them, allowing time \nto build relationships and",
+      "metadata": {
+        "chunk_id": 5,
+        "contains_financial_info": true,
+        "download_url": "https://www.oxfordshire.gov.uk/sites/default/files/file/adult-social-and-health-care/TheOxfordshireWayinAdultSocialCare.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "TheOxfordshireWayinAdultSocialCare.pdf",
+        "financial_pages": "[3, 7, 8, 9, 11, 12]",
+        "level": "level_1",
+        "page_count": 12,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]",
+        "source": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/oxfordshire-way",
+        "source_url": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/oxfordshire-way",
+        "total_chunks": 23,
+        "type": "pdf"
+      },
+      "id": "7fd78c16-9bac-42cf-ac87-0b38ecc7d758",
+      "distance": 0.773898720741272,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.11783038377761841,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    }
+  ],
+  "context": "[Document 1] From https://www (web_page) - URL: https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/living-home/dementia-support [Retrieved via: semantic_original]:\nHow to get services Visit Dementia Oxfordshire for\u00a0advice about support services that are available to you.\u00a0You can also call the support line on 01865 410 210. How Dementia Oxfordshire can help you If you have been diagnosed with dementia, are a carer for someone with dementia, or know someone with dementia, we can help you with a wide range of issues, including: information about dementia guidance on how to get a diagnosis how to get help locally awareness and education sessions for people living with dementia and their carers staying independent adaptations for your home benefits and allowances that you may be entitled to benefits, support and respite breaks for carers activities and leisure opportunities planning for the future and legal issues emotional support support for people with Mild Cognitive Impairment Community-based dementia advisers and support\u00a0workers are available across Oxfordshire. They provide\u00a0tailored information, advice, and support to help people\u00a0live well with dementia\n\n[Document 2] From https://www (web_page) - URL: https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/living-home/dementia-support [Retrieved via: semantic_original]:\n. There are memory\u00a0caf\u00e9s and clubs, singing groups, training courses for carers, and opportunities to\u00a0socialise. You can find opportunities on Live Well Oxfordshire by searching for \u2018dementia\u2019. Back to top Community support service centres The Community support service supports adults living with dementia and offers various activities, including: computer\u00a0classes lunches exercise groups film clubs The seven centres\u00a0serve as community hubs that provide: social\u00a0care health advice and information valuable breaks for carers Back to top Other dementia services Young Dementia Oxfordshire is the young-onset dementia service provided by Dementia UK . The Alzheimer's Society's Dementia Connect support service is free and easy to access. It connects you with the right support, such as local help and phone or online advice. Back to top Help us improve our website by giving feedback .\n\n[Document 3] From https://www (docx) - URL: https://www.oxfordshire.gov.uk/business/information-providers/adult-social-care-providers/general-information [Retrieved via: semantic_original]:\nMany people in Oxfordshire face financial challenges related to benefits, housing issues and debt. We have commissioned a specialist information and advice service to meet this need and help people with benefits, debt, budgeting and other financial and welfare matters. The service will start in November 2024 and will focus on prevention, offering pro-active training and advice to help people improve their budgeting skills and money management before they get into a crisis. \n\nDementia\n\nOur population is ageing and the prevalence of dementia roughly doubles with every five-year increase in older age. We estimate the demand for dementia support in Oxfordshire to increase in line with this trend.\n\n[Document 4] From https://www (web_page) - URL: https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/living-home/dementia-support [Retrieved via: semantic_original]:\n. They provide\u00a0tailored information, advice, and support to help people\u00a0live well with dementia. Your doctor, district nurse, memory clinic, or another professional service can refer you to them. Confidential service Our service is confidential. We will not discuss your information with anyone else unless we have your consent to do so or unless you or someone else involved is at risk. If this situation occurs, we will always talk to you about it first. Back to top Memory cafes and training courses A number of services offer support to people living with\u00a0dementia, their families and friends. There are memory\u00a0caf\u00e9s and clubs, singing groups, training courses for carers, and opportunities to\u00a0socialise. You can find opportunities on Live Well Oxfordshire by searching for \u2018dementia\u2019\n\n[Document 5] From https://www (docx) - URL: https://www.oxfordshire.gov.uk/business/information-providers/adult-social-care-providers/general-information [Retrieved via: semantic_original]:\nOur long-standing partnership with Dementia Oxfordshire provides support for everyone in Oxfordshire with a diagnosis of dementia from the point of diagnosis to either end of life or at the end of independent living. The service is currently working with over 70% of people with a diagnosis of dementia living in the community. Recently, the service has also started to work with people with mild cognitive impairment. \n\nCarers\n\nUnpaid carers of all ages make a massive contribution not only to the health and wellbeing of people they care for, but also to the health and care sector. Census 2021 showed that there are 52,674 unpaid carers in Oxfordshire.\n\n[Document 6] From https://mycitizenportal (web_page) - URL: https://mycitizenportal.oxfordshire.gov.uk/web/portal/pages/infoservices [Retrieved via: semantic_original]:\n--\n\nInformation and Advice Services/Organisations Please click on the relevant picture below for appropriate information or advice. Age UK Oxfordshire Age UK Oxfordshire provides free information and advice for older people Carers Oxfordshire Carers Oxfordshire is a free service offering information and advice to adult carers living within Oxfordshire Live Well Oxfordshire A free directory developed by Oxfordshire County Council, bringing together information for adults with a variety of needs Oxfordshire Family Support Network Information and advice for family carers of people with learning disabilities, both children and adults Community Links Oxfordshire Providing a free network of support and information services across Oxfordshire Autism UK Helping autistic people in the UK and their families Dementia Oxfordshire Dedicated dementia information, advice and support Mind Offering mental health support when ever you might need it, through information, advice and local services\n\n[Document 7] From https://mycitizenportal (web_page) - URL: https://mycitizenportal.oxfordshire.gov.uk/web/portal/pages/supportneeds [Retrieved via: semantic_original]:\n--\n\nYour Support Needs Please click on the relevant picture below for the appropriate forms, information or advice. Needs Assessment Would you like to complete or request an assessment? Moving into Adulthood Helping young people plan for adulthood Equipment and Adaptations Could equipment and adpatations help you? Assistive Technology Are you or a loved one looking for equipment, software or systems to support you? Arranging Your Own Care Would you like to arrange your own care? Sight and Hearing Difficulties Information and advice for people who are deaf, hard of hearing or visually impaired. Dementia Advice and Support Further information and support about living with dementia Oxfordshire Employment Service Would you or a loved one like support with finding a job?\n\n[Document 8] From https://www (web_page) - URL: https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/living-home [Retrieved via: semantic_original]:\n--\n\nServices to help you stay living at home Helping you or someone you care for to stay in their own home. In this section Daily living aids Helping you or a loved one to live independently at home. Home First Oxfordshire Home care, extra care housing and specialist support to help residents live well at home. Improving your home We can refer you to your district council for assistance keeping safe, secure, independent and warm. Community Support Service Activities and services to help people stay healthy, independent and engaged. Falls prevention service Advice to help older people avoid falls and to regain confidence if they have fallen. Dementia support Specialist advice is available in Oxfordshire for people living with dementia and their carers. Keeping warm Helping yourself and vulnerable people to stay warm. Supported living For people with a learning disability and/or autism wanting to live in their own home with help.\n\n[Document 9] From https://www (web_page) - URL: https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/services-help-you-stay-living-home [Retrieved via: semantic_original]:\n--\n\nServices to help you stay living at home Helping you or someone you care for to stay in their own home. In this section Daily living aids Helping you or a loved one to live independently at home. Home First Oxfordshire Home care, extra care housing and specialist support to help residents live well at home. Improving your home We can refer you to your district council for assistance keeping safe, secure, independent and warm. Community Support Service Activities and services to help people stay healthy, independent and engaged. Falls prevention service Advice to help older people avoid falls and to regain confidence if they have fallen. Dementia support Specialist advice is available in Oxfordshire for people living with dementia and their carers. Keeping warm Helping yourself and vulnerable people to stay warm. Supported living For people with a learning disability and/or autism wanting to live in their own home with help.\n\n[Document 10] From https://www (pdf) - URL: https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/oxfordshire-way - 12 pages [Retrieved via: semantic_original]:\nof reablement support, our Occupational Therapists worked with  Dorothy to \nachieve her goals, which included sleeping in her  \nown bed and feeling confident to go out in the car with her husband. \n\u201cI was worried I would \nneed to move out of home \npermanently as I needed \nso much help at first. I am \namazed at the progress \nI\u2019ve made.\u201dOur support\nPeople experience more joined-up support because of effective \ncommunication and \ncoordination between \nproviders and partner \norganisations.\nGlenn  works with  \nDementia Oxfordshire \nand has been involved in devising post-diagnostic education sessions for people who have recently had a diagnosis of dementia.\n\u201cPeople who know most \nabout dementia are \npeople with dementia. \nFour years down the road \nof my own dementia \ndiagnosis, I think it helps \nsomeone still reeling \nfrom their diagnosis to \nhear from someone \nexperiencing it.\u201dPositive support\nPeople experience positive person-centred support which is simple \nfor them, allowing time \nto build relationships and\n",
+  "answer": "As a full-time carer for your husband with advanced dementia in Oxfordshire, you have several support options available to help alleviate your exhaustion.\n\n**Key Support Options:**\n- **Dementia Oxfordshire:** This service offers tailored support, advice, and information for carers of people with dementia. You can contact them for guidance on local help, respite breaks, and emotional support. **Call the support line at 01865 410 210** or visit their website for more information.\n- **Community Support Services:** These services provide valuable breaks for carers and offer activities such as exercise groups, film clubs, and lunches. They serve as community hubs for social care and health advice.\n- **Memory Caf\u00e9s and Training Courses:** These are available for socializing and learning, offering a supportive environment for both people with dementia and their carers. Search for opportunities on **Live Well Oxfordshire**.\n- **Carers Oxfordshire:** This free service provides information and advice specifically for carers. They can help you access resources and support networks.\n\n**Practical Steps:**\n1. **Contact Dementia Oxfordshire** at 01865 410 210 to discuss your specific needs and explore respite options.\n2. **Visit Live Well Oxfordshire** to find local activities and support groups by searching for 'dementia'.\n3. **Reach out to Carers Oxfordshire** for additional advice and support tailored to carers.\n\nFor more detailed information, visit the relevant pages on the Oxfordshire County Council website or contact the services directly.",
+  "metrics": {
+    "duration_seconds": 11.314778804779053,
+    "retrieved_docs_count": 10,
+    "query_length": 129,
+    "answer_length": 1556,
+    "retrieval_method": "enhanced",
+    "context_utilization": 0.18981481481481483,
+    "citations_count": 0,
+    "has_citations": false,
+    "query_relevance": 0.7647058823529411,
+    "unique_retrieval_methods": 1,
+    "budget_documents_retrieved": 3,
+    "retrieval_methods_used": [
+      "semantic_original"
+    ],
+    "retrieval_method_distribution": {
+      "semantic_original": 10
+    }
+  },
+  "local_authority": "oxfordshire",
+  "query_id": "scn_15",
+  "retrieval_method": "enhanced",
+  "run_id": "d4694c31-2d03-47eb-813f-dadcf7a38fd1",
+  "trace": {
+    "run_id": "d4694c31-2d03-47eb-813f-dadcf7a38fd1",
+    "project": "social_care_rag",
+    "url": "https://eu.smith.langchain.com/o/me/runs/d4694c31-2d03-47eb-813f-dadcf7a38fd1"
+  },
+  "test_metadata": {
+    "local_authority": "oxfordshire",
+    "query_id": "scn_15",
+    "query_category": "carer_support_scenarios",
+    "prompt_variation": "optimized",
+    "prompt_template": "\nPlease answer the following question about social care services in UK local authorities based only on the information in the provided documents.\n\nQuestion: {query}\n\nContext from relevant documents:\n{context}\n\nInstructions:\n1. Provide a clear, direct answer that would help someone needing this information. If information isn't available, state: \"The available documents don't provide specific information about [aspect].\"\n\n2. Synthesize information from ALL relevant documents to provide the most complete answer rather than analyzing documents individually.\n\n3. Structure your response with:\n   - A concise 1-2 sentence summary first\n   - Relevant details organized in short, clear paragraphs\n   - Bullet points for lists or step-by-step information\n   - Bold text for key information the user should notice\n\n4. For financial information:\n   - Include exact figures, time periods, and what the funding covers\n   - Present financial data clearly: \"The adult social care budget is **\u00a3X million** for [time period]\"\n\n5. Always include practical next steps or resources:\n   - Provide contact information, URLs, or application methods mentioned in the documents\n   - Suggest where the person could find more information\n\n6. When citing sources, use a simple format: \"According to [document name/description]\" or include URLs where available.\n\nAnswer:\n",
+    "processing_time": 11.317161083221436,
+    "timestamp": "2025-08-19T14:15:45.832751",
+    "top_k": 10
+  }
+}

@@ -1,0 +1,293 @@
+{
+  "query": "I receive Attendance Allowance but my care needs have increased in Croydon. Can the council provide additional financial support?",
+  "retrieved_documents": [
+    {
+      "content": ". Important information Croydon Council has a duty to protect the public funds it administers, to do this we: will use any information and records which we request and you provide review what your direct payment is being spent on to ensure it is meeting your care and support needs as outlined in your care and support assessment request repayment of part or all of the money or take legal action including prosecution where the money is not spent in accordance with your support plan may use the information you have provided for the prevention and detection of fraud may share this information with law enforcement agencies and other bodies responsible for auditing or administering public funds for these purposes Eligibility Direct payments can be made to anyone who is entitled to community care services, including: disabled people aged 16 or over older people people with learning disabilities users of mental health services carers aged 16 or over who are eligible for carers' services disabled parents people with",
+      "metadata": {
+        "chunk_id": 4,
+        "filename": "www.croydon.gov.uk_adult-health-and-social-care_paying-adult-social-care_direct-payments-adults.txt",
+        "level": "level_2",
+        "source": "https://www.croydon.gov.uk/adult-health-and-social-care/paying-adult-social-care/direct-payments-adults",
+        "source_url": "https://www.croydon.gov.uk/adult-health-and-social-care/paying-adult-social-care/direct-payments-adults",
+        "total_chunks": 10,
+        "type": "web_page"
+      },
+      "id": "4297b2a8-ab03-4dd4-b9e9-9130d18422be",
+      "distance": 0.5134351253509521,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.19596946239471436,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". This does not pay for your other bills, for example electric, heating, these have to be paid each month. Apply for supported living To apply, make a request for an adult social care assessment . Once your care and support assessment is completed, you will be sent a letter and a financial assessment form to complete and return to us as soon as you can. Additional information Housing regulator fact sheet offering information on how residents can seek support General Croydon housing information NEW Help improve this site by giving feedback Show Hide Feedback Send feedback directly to the content team using our website feedback form You can also join our user research group to receive invites to activities and surveys to help shape future improvements to the site.",
+      "metadata": {
+        "chunk_id": 3,
+        "filename": "www.croydon.gov.uk_adult-health-and-social-care_care-homes-and-housing_supported-living.txt",
+        "level": "level_3",
+        "source": "https://www.croydon.gov.uk/adult-health-and-social-care/care-homes-and-housing/supported-living",
+        "source_url": "https://www.croydon.gov.uk/adult-health-and-social-care/care-homes-and-housing/supported-living",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "ba481a1d-93b3-4654-a10b-c6d143b658b6",
+      "distance": 0.5904873609542847,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1728537917137146,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "underpinned by community led support , \n\u2022 Ensure we provi de proportionate support that makes the best use of our \nresources.  \n\u2022 Commission services that meet the delivery of the core offer and to have a \nsustainable and quality market for residents,  \n\u2022 Integration with health where it makes sense for residents , and,  \n\u2022 Developing an integrated pla n to manage the long -term effects of COVID.  \nOur key financial objective is to manage Croydon's activity and expenditure for Adult \nSocial Care to the London and Eng lish averages by March 2024, whilst fulfilling all our \nstatutory responsibilities and ensuring that our adults are supported and those at risk \nof abuse or neglect are safe.  \nThe Council will have a \u2018Cost of Care Policy\u2019 which will support the Adult Social C are \nStrategy and provide a quality and sustainable provider care market within Croydon. \nEach year the Council will set out what it will pay as a minimum amount for care to",
+      "metadata": {
+        "chunk_id": 10,
+        "contains_financial_info": true,
+        "download_url": "https://www.croydon.gov.uk/sites/default/files/2024-10/croydon_adult_social_careand_health_strategy_november_22.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "croydon_adult_social_careand_health_strategy_november_22.pdf",
+        "financial_pages": "[2, 3, 4, 6, 7, 8, 10, 11, 12, 13, 14, 15, 16, 17, 18]",
+        "level": "level_3",
+        "page_count": 18,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18]",
+        "source": "https://www.croydon.gov.uk/council-and-elections/policies-plans-and-strategies/health-and-social-care-policies-plans-and-strategies/adult-social-care-and-health-strategy",
+        "source_url": "https://www.croydon.gov.uk/council-and-elections/policies-plans-and-strategies/health-and-social-care-policies-plans-and-strategies/adult-social-care-and-health-strategy",
+        "total_chunks": 51,
+        "type": "pdf"
+      },
+      "id": "8d08bdc0-c056-4bcf-b3ec-d165088cb59b",
+      "distance": 0.6110031008720398,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.16669906973838805,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". We will consider: whether we as a council have a responsibility for you your immigration status money you receive where you are\u00a0currently staying if you have\u00a0any urgent needs, such as your physical or mental health your access to food and accommodation Support we provide We can help with: temporary financial support accommodation (this will probably not be in Croydon, London or south east England due to limited space) money for basic needs social care We cannot provide immigration advice. We may be able to provide information from the Home Office regarding your immigration application and status. Contact us Contact Croydon Council's Immigration and Asylum Support service at iass@croydon.gov.uk . If you need urgent help outside of hours call 0208 726 6000. Other support you can get Having NRPF means you cannot get welfare benefits, public housing, or financial support from the Home Office",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.croydon.gov.uk_adult-health-and-social-care_immigration-and-asylum-support.txt",
+        "level": "level_1",
+        "source": "https://www.croydon.gov.uk/adult-health-and-social-care/immigration-and-asylum-support",
+        "source_url": "https://www.croydon.gov.uk/adult-health-and-social-care/immigration-and-asylum-support",
+        "total_chunks": 5,
+        "type": "web_page"
+      },
+      "id": "efb7be3c-4553-43eb-8fc5-fb95ee459d50",
+      "distance": 0.6300793290138245,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.16097620129585266,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Help paying care home fees Once you have chosen your care home, you will need to decide how you are going to pay for\u00a0your care fees. If you\u00a0have been assessed to pay full cost for your residential or nursing care, there are 2 options available to you: Choose to make your own financial arrangements independently of the council Apply to the deferred payments scheme operated by the council You should: speak to your financial assessment officer if you are interested in applying for\u00a0deferred payments always seek independent financial advice Contact us If you have a question about your financial assessment and paying for your care,\u00a0speak with your financial assessment officer direct or call 0208 760 5676.\u00a0You can also email enquiries to deferredpayments@croydon.gov.uk",
+      "metadata": {
+        "chunk_id": 6,
+        "filename": "www.croydon.gov.uk_adult-health-and-social-care_paying-adult-social-care_paying-residential-care-or-.txt",
+        "level": "level_2",
+        "source": "https://www.croydon.gov.uk/adult-health-and-social-care/paying-adult-social-care/paying-residential-care-or-care-home",
+        "source_url": "https://www.croydon.gov.uk/adult-health-and-social-care/paying-adult-social-care/paying-residential-care-or-care-home",
+        "total_chunks": 8,
+        "type": "web_page"
+      },
+      "id": "76f5a7f9-a5dd-4ddf-bd38-b5b4d4d47ad8",
+      "distance": 0.6504129767417908,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.15487610697746276,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Get help with the rising cost of living Guide Navigation Skip Guide Navigation Contents About cost of living support Benefits you might be entitled to Financial support Financial advice Saving energy Help with employment and training Help for households Support for businesses Mental health and wellbeing Help with employment and training Search our money, employment and training directory to find organisations that can help with: looking for employment, education and training your money and debt your benefits Getting online If you need support getting online, you can find more information using our Getting online and Digital Croydon service . Croydon Works Croydon Works is available to all Croydon residents to help them find jobs or get training to help get them into work",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.croydon.gov.uk_get-help-rising-cost-living_help-employment-and-training.txt",
+        "level": "level_4",
+        "source": "https://www.croydon.gov.uk/get-help-rising-cost-living/help-employment-and-training",
+        "source_url": "https://www.croydon.gov.uk/get-help-rising-cost-living/help-employment-and-training",
+        "total_chunks": 3,
+        "type": "web_page"
+      },
+      "id": "4255a097-27e8-450a-9ad8-c95162299609",
+      "distance": 0.6623599529266357,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.15129201412200927,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 3 - FINANCIAL/BUDGET INFORMATION]\n3Foreword\nCroydon Council is pleased to introduce our Adult \nSocial Care & Health Market Position Statement. The \ndevelopment of this document represents the start \nof an ongoing discussion between the Council, our\npartners, people accessing services and providers \nof care and support to ensure we are offering and \ndelivering quality provision and best outcomes  for \nthe people of Croydon.\nDue to an ageing population, people living longer \nwith more complex needs and significant financial \nconstraint across health and social care nationally, \nwe are facing unprecedented challenges across the \nsystem. \nLocally, Croydon Council has also had a couple of \nreally challenging years and continues to work hard \nto be able to deliver financial sustainability. As a result, we need to work differently with providers, \nneed innovation in the models of care available \nand build capacity in our communities to help \nmeet the needs of our residents and enable them",
+      "metadata": {
+        "chunk_id": 1,
+        "contains_financial_info": true,
+        "download_url": "https://www.croydon.gov.uk/sites/default/files/2023-06/Croydon_Council_Adult_Social_Care_and_Health__market_proviosn_statement.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Croydon_Council_Adult_Social_Care_and_Health_market_proviosn_statement.pdf",
+        "financial_pages": "[3, 4, 5, 6, 7, 10, 11, 12, 13, 14, 15, 16, 17, 19, 20, 21, 22, 26]",
+        "level": "level_2",
+        "page_count": 27,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27]",
+        "source": "https://www.croydon.gov.uk/adult-health-and-social-care/policies-and-complaints/croydons-market-position-statement-adult-social-care-and-health-asch",
+        "source_url": "https://www.croydon.gov.uk/adult-health-and-social-care/policies-and-complaints/croydons-market-position-statement-adult-social-care-and-health-asch",
+        "total_chunks": 64,
+        "type": "pdf"
+      },
+      "id": "f3631a7d-434d-471a-a8f5-f2d4d394bf1f",
+      "distance": 0.662410318851471,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1512769043445587,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Some local groups offer a sitting service - contact Croydon Neighbourhood Care to see if this is available locally. View a list of groups on the Croydon Neighbourhood Care Association website . Horizon Care offers a home care respite service with a particular focus on carers of people from a black or ethnic minority background (BME). Contact\u00a0020 8665 0921. Respite via Croydon Council Council-funded respite can be provided in the home, at a day centres for older people or at an adult day care resource centre. For information on respite for carers of a child with special educational needs or disabilities, contact the 0 to 25 SEND Team (020 8726 6400). Paying for respite We have a charging policy for home care and residential care services. The person you care for will be financially assessed for their ability to pay for respite services. How much they will pay will depend on their benefits, savings and/or income. You can request respite via a needs assessment under the Care Act 2014 of the person you care for",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.croydon.gov.uk_adult-health-and-social-care_carers-family-and-friends_respite-care.txt",
+        "level": "level_2",
+        "source": "https://www.croydon.gov.uk/adult-health-and-social-care/carers-family-and-friends/respite-care",
+        "source_url": "https://www.croydon.gov.uk/adult-health-and-social-care/carers-family-and-friends/respite-care",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "30abd14d-9cb0-4815-a78f-d925fd6ea79b",
+      "distance": 0.6632218360900879,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.15103344917297362,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Get help with the rising cost of living Guide Navigation Skip Guide Navigation Contents About cost of living support Benefits you might be entitled to Financial support Financial advice Saving energy Help with employment and training Help for households Support for businesses Mental health and wellbeing Mental health and wellbeing Support for mental health You can find support for mental health, including help with a mental health crisis or emergency . Adult Support Services Adult Support Croydon is designed to help adults find out about local groups, activities and services within the community. There is also an information and advice section to help residents on a range of health and social care topics. Simply Connect Croydon Simply Connect Croydon is a website managed by the CVA and Volunteer Centre Croydon where residents can find out about services and activities in the local area",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.croydon.gov.uk_get-help-rising-cost-living_mental-health-and-wellbeing.txt",
+        "level": "level_4",
+        "source": "https://www.croydon.gov.uk/get-help-rising-cost-living/mental-health-and-wellbeing",
+        "source_url": "https://www.croydon.gov.uk/get-help-rising-cost-living/mental-health-and-wellbeing",
+        "total_chunks": 3,
+        "type": "web_page"
+      },
+      "id": "e1a49bae-cd85-4c74-9be9-ef45224846a1",
+      "distance": 0.6634917259216309,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.15095248222351074,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 3 - FINANCIAL/BUDGET INFORMATION]\nGUIDE TO CHARGES FOR COMMUNITY BASED SERVICES  (Continued)\n\u2022Mortgage\npayments\n\u2022Rent\n\u2022Council Tax\nTypes of disability \nexpenses you may have:\n\u2022Help with\ncleaning\n\u2022Special diet\n\u2022Extra laundry\n\u2022Extra bedding\n\u2022Special clothing\n\u2022Extra heating\ncosts\n\u2022Transport\n\u2022Special\nequipmentIf you choose to have the council arrange \nservices for you we will send you an invoice for \nthe amount which you need to pay at the end \nof every four weeks.\nThe invoice will show how much you need to pay \nand how you can arrange to pay it.\nIf you choose to take a personal budget as a \nDirect Payment and arrange your own services \nthe amount of your assessed contribution will be \ndeducted from the payments you receive from the \nCouncil.  For more information please visit our \nwebsite at https://www.croydon.gov.uk/adult-\nhealth-and-social-care/paying-adult-social-care/\ndirect-payments-adults.\nContact 020 8726 6000 ext. 44080  or email: \nswiftpaymentteam @croydon.gov.uk",
+      "metadata": {
+        "chunk_id": 7,
+        "contains_financial_info": true,
+        "download_url": "https://www.croydon.gov.uk/sites/default/files/2025-03/financial_assessment_form-jan-2025-edited-06.02.25.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "financial_assessment_form-jan-2025-edited-06.02.25.pdf",
+        "financial_pages": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 15]",
+        "level": "level_2",
+        "page_count": 16,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]",
+        "source": "https://www.croydon.gov.uk/adult-health-and-social-care/paying-adult-social-care/financial-assessment",
+        "source_url": "https://www.croydon.gov.uk/adult-health-and-social-care/paying-adult-social-care/financial-assessment",
+        "total_chunks": 34,
+        "type": "pdf"
+      },
+      "id": "2f71e34b-e943-47c9-b45c-023c1582ad22",
+      "distance": 0.6635156869888306,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.15094529390335082,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    }
+  ],
+  "context": "[Document 1] From https://www (web_page) - URL: https://www.croydon.gov.uk/adult-health-and-social-care/paying-adult-social-care/direct-payments-adults [Retrieved via: semantic_original]:\n. Important information Croydon Council has a duty to protect the public funds it administers, to do this we: will use any information and records which we request and you provide review what your direct payment is being spent on to ensure it is meeting your care and support needs as outlined in your care and support assessment request repayment of part or all of the money or take legal action including prosecution where the money is not spent in accordance with your support plan may use the information you have provided for the prevention and detection of fraud may share this information with law enforcement agencies and other bodies responsible for auditing or administering public funds for these purposes Eligibility Direct payments can be made to anyone who is entitled to community care services, including: disabled people aged 16 or over older people people with learning disabilities users of mental health services carers aged 16 or over who are eligible for carers' services disabled parents people with\n\n[Document 2] From https://www (web_page) - URL: https://www.croydon.gov.uk/adult-health-and-social-care/care-homes-and-housing/supported-living [Retrieved via: semantic_original]:\n. This does not pay for your other bills, for example electric, heating, these have to be paid each month. Apply for supported living To apply, make a request for an adult social care assessment . Once your care and support assessment is completed, you will be sent a letter and a financial assessment form to complete and return to us as soon as you can. Additional information Housing regulator fact sheet offering information on how residents can seek support General Croydon housing information NEW Help improve this site by giving feedback Show Hide Feedback Send feedback directly to the content team using our website feedback form You can also join our user research group to receive invites to activities and surveys to help shape future improvements to the site.\n\n[Document 3] From https://www (pdf) - URL: https://www.croydon.gov.uk/council-and-elections/policies-plans-and-strategies/health-and-social-care-policies-plans-and-strategies/adult-social-care-and-health-strategy - 18 pages [Retrieved via: semantic_original]:\nunderpinned by community led support , \n\u2022 Ensure we provi de proportionate support that makes the best use of our \nresources.  \n\u2022 Commission services that meet the delivery of the core offer and to have a \nsustainable and quality market for residents,  \n\u2022 Integration with health where it makes sense for residents , and,  \n\u2022 Developing an integrated pla n to manage the long -term effects of COVID.  \nOur key financial objective is to manage Croydon's activity and expenditure for Adult \nSocial Care to the London and Eng lish averages by March 2024, whilst fulfilling all our \nstatutory responsibilities and ensuring that our adults are supported and those at risk \nof abuse or neglect are safe.  \nThe Council will have a \u2018Cost of Care Policy\u2019 which will support the Adult Social C are \nStrategy and provide a quality and sustainable provider care market within Croydon. \nEach year the Council will set out what it will pay as a minimum amount for care to\n\n[Document 4] From https://www (web_page) - URL: https://www.croydon.gov.uk/adult-health-and-social-care/immigration-and-asylum-support [Retrieved via: semantic_original]:\n. We will consider: whether we as a council have a responsibility for you your immigration status money you receive where you are\u00a0currently staying if you have\u00a0any urgent needs, such as your physical or mental health your access to food and accommodation Support we provide We can help with: temporary financial support accommodation (this will probably not be in Croydon, London or south east England due to limited space) money for basic needs social care We cannot provide immigration advice. We may be able to provide information from the Home Office regarding your immigration application and status. Contact us Contact Croydon Council's Immigration and Asylum Support service at iass@croydon.gov.uk . If you need urgent help outside of hours call 0208 726 6000. Other support you can get Having NRPF means you cannot get welfare benefits, public housing, or financial support from the Home Office\n\n[Document 5] From https://www (web_page) - URL: https://www.croydon.gov.uk/adult-health-and-social-care/paying-adult-social-care/paying-residential-care-or-care-home [Retrieved via: semantic_original]:\n. Help paying care home fees Once you have chosen your care home, you will need to decide how you are going to pay for\u00a0your care fees. If you\u00a0have been assessed to pay full cost for your residential or nursing care, there are 2 options available to you: Choose to make your own financial arrangements independently of the council Apply to the deferred payments scheme operated by the council You should: speak to your financial assessment officer if you are interested in applying for\u00a0deferred payments always seek independent financial advice Contact us If you have a question about your financial assessment and paying for your care,\u00a0speak with your financial assessment officer direct or call 0208 760 5676.\u00a0You can also email enquiries to deferredpayments@croydon.gov.uk\n\n[Document 6] From https://www (web_page) - URL: https://www.croydon.gov.uk/get-help-rising-cost-living/help-employment-and-training [Retrieved via: semantic_original]:\nGet help with the rising cost of living Guide Navigation Skip Guide Navigation Contents About cost of living support Benefits you might be entitled to Financial support Financial advice Saving energy Help with employment and training Help for households Support for businesses Mental health and wellbeing Help with employment and training Search our money, employment and training directory to find organisations that can help with: looking for employment, education and training your money and debt your benefits Getting online If you need support getting online, you can find more information using our Getting online and Digital Croydon service . Croydon Works Croydon Works is available to all Croydon residents to help them find jobs or get training to help get them into work\n\n[Document 7] From https://www (pdf) - URL: https://www.croydon.gov.uk/adult-health-and-social-care/policies-and-complaints/croydons-market-position-statement-adult-social-care-and-health-asch - 27 pages [Retrieved via: semantic_original]:\n[Page 3 - FINANCIAL/BUDGET INFORMATION]\n3Foreword\nCroydon Council is pleased to introduce our Adult \nSocial Care & Health Market Position Statement. The \ndevelopment of this document represents the start \nof an ongoing discussion between the Council, our\npartners, people accessing services and providers \nof care and support to ensure we are offering and \ndelivering quality provision and best outcomes  for \nthe people of Croydon.\nDue to an ageing population, people living longer \nwith more complex needs and significant financial \nconstraint across health and social care nationally, \nwe are facing unprecedented challenges across the \nsystem. \nLocally, Croydon Council has also had a couple of \nreally challenging years and continues to work hard \nto be able to deliver financial sustainability. As a result, we need to work differently with providers, \nneed innovation in the models of care available \nand build capacity in our communities to help \nmeet the needs of our residents and enable them\n\n[Document 8] From https://www (web_page) - URL: https://www.croydon.gov.uk/adult-health-and-social-care/carers-family-and-friends/respite-care [Retrieved via: semantic_original]:\n. Some local groups offer a sitting service - contact Croydon Neighbourhood Care to see if this is available locally. View a list of groups on the Croydon Neighbourhood Care Association website . Horizon Care offers a home care respite service with a particular focus on carers of people from a black or ethnic minority background (BME). Contact\u00a0020 8665 0921. Respite via Croydon Council Council-funded respite can be provided in the home, at a day centres for older people or at an adult day care resource centre. For information on respite for carers of a child with special educational needs or disabilities, contact the 0 to 25 SEND Team (020 8726 6400). Paying for respite We have a charging policy for home care and residential care services. The person you care for will be financially assessed for their ability to pay for respite services. How much they will pay will depend on their benefits, savings and/or income. You can request respite via a needs assessment under the Care Act 2014 of the person you care for\n\n[Document 9] From https://www (web_page) - URL: https://www.croydon.gov.uk/get-help-rising-cost-living/mental-health-and-wellbeing [Retrieved via: semantic_original]:\nGet help with the rising cost of living Guide Navigation Skip Guide Navigation Contents About cost of living support Benefits you might be entitled to Financial support Financial advice Saving energy Help with employment and training Help for households Support for businesses Mental health and wellbeing Mental health and wellbeing Support for mental health You can find support for mental health, including help with a mental health crisis or emergency . Adult Support Services Adult Support Croydon is designed to help adults find out about local groups, activities and services within the community. There is also an information and advice section to help residents on a range of health and social care topics. Simply Connect Croydon Simply Connect Croydon is a website managed by the CVA and Volunteer Centre Croydon where residents can find out about services and activities in the local area\n\n[Document 10] From https://www (pdf) - URL: https://www.croydon.gov.uk/adult-health-and-social-care/paying-adult-social-care/financial-assessment - 16 pages [Retrieved via: semantic_original]:\n[Page 3 - FINANCIAL/BUDGET INFORMATION]\nGUIDE TO CHARGES FOR COMMUNITY BASED SERVICES  (Continued)\n\u2022Mortgage\npayments\n\u2022Rent\n\u2022Council Tax\nTypes of disability \nexpenses you may have:\n\u2022Help with\ncleaning\n\u2022Special diet\n\u2022Extra laundry\n\u2022Extra bedding\n\u2022Special clothing\n\u2022Extra heating\ncosts\n\u2022Transport\n\u2022Special\nequipmentIf you choose to have the council arrange \nservices for you we will send you an invoice for \nthe amount which you need to pay at the end \nof every four weeks.\nThe invoice will show how much you need to pay \nand how you can arrange to pay it.\nIf you choose to take a personal budget as a \nDirect Payment and arrange your own services \nthe amount of your assessed contribution will be \ndeducted from the payments you receive from the \nCouncil.  For more information please visit our \nwebsite at https://www.croydon.gov.uk/adult-\nhealth-and-social-care/paying-adult-social-care/\ndirect-payments-adults.\nContact 020 8726 6000 ext. 44080  or email: \nswiftpaymentteam @croydon.gov.uk\n",
+  "answer": "If your care needs have increased in Croydon, you may be eligible for additional financial support through Croydon Council's adult social care services. **You should request an adult social care assessment** to determine your eligibility for additional support.\n\n- **Direct Payments**: If you are entitled to community care services, you might qualify for direct payments, which allow you to manage your care needs independently. This includes older people and those with disabilities (Document 1).\n\n- **Care and Support Assessment**: To explore additional support, you should apply for an adult social care assessment. Once completed, you will receive a letter and a financial assessment form to determine your eligibility for further assistance (Document 2).\n\n- **Financial Assessment**: The council will conduct a financial assessment to determine your contribution towards care services. This assessment considers your benefits, savings, and income (Document 10).\n\nFor more information or to start the process, you can contact Croydon Council's adult social care services at 020 8726 6000 or visit their website at [Croydon Adult Social Care](https://www.croydon.gov.uk/adult-health-and-social-care/paying-adult-social-care/direct-payments-adults).",
+  "metrics": {
+    "duration_seconds": 5.829906940460205,
+    "retrieved_docs_count": 10,
+    "query_length": 129,
+    "answer_length": 1252,
+    "retrieval_method": "enhanced",
+    "context_utilization": 0.13745019920318724,
+    "citations_count": 0,
+    "has_citations": false,
+    "query_relevance": 0.75,
+    "unique_retrieval_methods": 1,
+    "budget_documents_retrieved": 3,
+    "retrieval_methods_used": [
+      "semantic_original"
+    ],
+    "retrieval_method_distribution": {
+      "semantic_original": 10
+    }
+  },
+  "local_authority": "Croydon",
+  "query_id": "scn_17",
+  "retrieval_method": "enhanced",
+  "run_id": "7f1d7ee8-7dd3-451f-8ae0-be2a9cca51f0",
+  "trace": {
+    "run_id": "7f1d7ee8-7dd3-451f-8ae0-be2a9cca51f0",
+    "project": "social_care_rag",
+    "url": "https://eu.smith.langchain.com/o/me/runs/7f1d7ee8-7dd3-451f-8ae0-be2a9cca51f0"
+  },
+  "test_metadata": {
+    "local_authority": "Croydon",
+    "query_id": "scn_17",
+    "query_category": "financial_scenarios",
+    "prompt_variation": "optimized",
+    "prompt_template": "\nPlease answer the following question about social care services in UK local authorities based only on the information in the provided documents.\n\nQuestion: {query}\n\nContext from relevant documents:\n{context}\n\nInstructions:\n1. Provide a clear, direct answer that would help someone needing this information. If information isn't available, state: \"The available documents don't provide specific information about [aspect].\"\n\n2. Synthesize information from ALL relevant documents to provide the most complete answer rather than analyzing documents individually.\n\n3. Structure your response with:\n   - A concise 1-2 sentence summary first\n   - Relevant details organized in short, clear paragraphs\n   - Bullet points for lists or step-by-step information\n   - Bold text for key information the user should notice\n\n4. For financial information:\n   - Include exact figures, time periods, and what the funding covers\n   - Present financial data clearly: \"The adult social care budget is **\u00a3X million** for [time period]\"\n\n5. Always include practical next steps or resources:\n   - Provide contact information, URLs, or application methods mentioned in the documents\n   - Suggest where the person could find more information\n\n6. When citing sources, use a simple format: \"According to [document name/description]\" or include URLs where available.\n\nAnswer:\n",
+    "processing_time": 5.8323822021484375,
+    "timestamp": "2025-08-17T22:43:32.245959",
+    "top_k": 10
+  }
+}

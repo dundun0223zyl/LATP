@@ -1,0 +1,335 @@
+{
+  "query": "What is Cambridgeshire's total annual budget for the current financial year?",
+  "retrieved_documents": [
+    {
+      "content": "[Page 6 - FINANCIAL/BUDGET INFORMATION]\n6 www.cambridgeshire.gov.uk Spend in Cambridgeshire \nCounty Council \non Adult Social Care 2023/24 \nAnnual expenditure across all services for 9,372 people for 2023/2024 was \u00a3258,000,000.00 \nwhich can be seen in the following data which represents number of people and annual \nexpenditure for each service area (figures are total numbers throughout the year). For the \nauthority\u2019s statutory returns, supported living beds are included in the data for community-\nbased services. The actual number of people in learning disability supported living services, \n(as opposed to residential) as of November 2024 is 621, at an annual cost of \u00a355,165,546: \nService Number of \nPeople Annual \nExpenditure \nOlder People & Physical Disabilities Accommodation based 2177 \u00a369m \nOlder People & Physical Disabilities Community based 3473 \u00a341m \nPhysical Disabilities under 65 age Accommodation based 70 \u00a33m \nPhysical Disabilities under 65 age Community based 726 \u00a310m",
+      "metadata": {
+        "chunk_id": 11,
+        "contains_financial_info": true,
+        "download_url": "https://www.cambridgeshire.gov.uk/asset-library/Adult-social-care-Market-Position-Statement-2024.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Adult-social-care-Market-Position-Statement-2024.pdf",
+        "financial_pages": "[2, 4, 5, 6, 7, 8, 10, 11, 12, 14, 15, 17, 18, 19, 22, 24, 25, 26, 27, 28, 29, 30, 33]",
+        "level": "level_2",
+        "page_count": 34,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34]",
+        "source": "https://www.cambridgeshire.gov.uk/residents/adults/adults-services-strategies-and-policies/adult-social-care-market-position-statement",
+        "source_url": "https://www.cambridgeshire.gov.uk/residents/adults/adults-services-strategies-and-policies/adult-social-care-market-position-statement",
+        "total_chunks": 86,
+        "type": "pdf"
+      },
+      "id": "f9de4921-10f0-447a-9ed6-c8a50b11909a",
+      "distance": 0.6761695146560669,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.5625337609877954,
+      "scoring_details": {
+        "query_type": "total_budget",
+        "financial_indicators_found": 6,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 8 - FINANCIAL/BUDGET INFORMATION]\nHousehold Support Fund data  \nThe Household Support Fund (HSF) was established by the previous government  \nto provide a short-term boost to funding and mitigate the cost-of-living crisis. In  \nCambridgeshire this money has been used to support households experiencing  \nimmediate financial hardship, through the provision of financial vouchers or cash  \npayments to help cover the cost of household energy bills and food. In the year  \nfrom April 2024-March 2025, more than \u00a33.6million was spent on free school meal  \nholiday provisions, whilst more than \u00a3500,000 was split between Citizens Advice  \nBureau, Cambridgeshire Local Assistance Scheme, and Cambridgeshire ACRE.  \nCambridgeshire County Council\u2019s quality of life survey 2024  \nWhilst the quality of life survey results do not inform us directly about poverty, they  \ndo provide an indication of the attitudes and behaviours of Cambridgeshire  \nresidents towards current issues such as the cost-of-living crisis.",
+      "metadata": {
+        "chunk_id": 27,
+        "contains_financial_info": true,
+        "download_url": "https://www.cambridgeshire.gov.uk/asset-library/Cambridgeshire-Poverty-Strategy-Commission-final-report.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Cambridgeshire-Poverty-Strategy-Commission-final-report.pdf",
+        "financial_pages": "[3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 70, 71, 72, 73, 74, 75, 76, 77, 78, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96]",
+        "level": "level_3",
+        "page_count": 98,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98]",
+        "source": "https://www.cambridgeshire.gov.uk/council/communities/poverty-strategy-commission",
+        "source_url": "https://www.cambridgeshire.gov.uk/council/communities/poverty-strategy-commission",
+        "total_chunks": 518,
+        "type": "pdf"
+      },
+      "id": "ef4fd5a2-c58e-43e4-8804-743f310a3997",
+      "distance": 0.7242967486381531,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.5480955907931694,
+      "scoring_details": {
+        "query_type": "total_budget",
+        "financial_indicators_found": 6,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 3 - FINANCIAL/BUDGET INFORMATION]\n \n \n3 | Cambridgeshire County Council \u2013  Paying for care - Easy Read | April  2025  \n Pictures  Words  \n The Financial Assessment works out how much \nyou will pay.  \n \nIt also works out how much the council may pay towards your care and support.  \n The total amount of money needed to meet your agreed eligible  care and support needs is called a \nPersonal Budget . \n You can choose how to spend your Personal \nBudget , as long as  you spend it on things to help \nyou with your agreed eligible care and support needs.  \n Your Personal Budget  can help you arrange \nsupport with activities whilst living at home like:  \n \u2022 washing and dressing  \n\u2022 preparing drinks and meals  \n\u2022 doing activities outside the home",
+      "metadata": {
+        "chunk_id": 2,
+        "contains_financial_info": true,
+        "download_url": "https://www.cambridgeshire.gov.uk/asset-library/Paying-for-Care-Easy-Read.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Paying-for-Care-Easy-Read.pdf",
+        "financial_pages": "[1, 2, 3, 4, 5, 6, 7]",
+        "level": "level_2",
+        "page_count": 7,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7]",
+        "source": "https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets",
+        "source_url": "https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets",
+        "total_chunks": 7,
+        "type": "pdf"
+      },
+      "id": "157fb683-ff1d-448f-b893-7948a1e08e89",
+      "distance": 0.6104616522789001,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.5245538120086376,
+      "scoring_details": {
+        "query_type": "total_budget",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 3 - FINANCIAL/BUDGET INFORMATION]\n \n \n3 | Cambridgeshire County Council \u2013  Paying for care - Easy Read | April  2025  \n Pictures  Words  \n The Financial Assessment works out how much \nyou will pay.  \n \nIt also works out how much the council may pay towards your care and support.  \n The total amount of money needed to meet your agreed eligible  care and support needs is called a \nPersonal Budget . \n You can choose how to spend your Personal \nBudget , as long as  you spend it on things to help \nyou with your agreed eligible care and support needs.  \n Your Personal Budget  can help you arrange \nsupport with activities whilst living at home like:  \n \u2022 washing and dressing  \n\u2022 preparing drinks and meals  \n\u2022 doing activities outside the home",
+      "metadata": {
+        "chunk_id": 2,
+        "contains_financial_info": true,
+        "download_url": "https://www.cambridgeshire.gov.uk/asset-library/Paying-for-Care-Easy-Read.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Paying-for-Care-Easy-Read.pdf",
+        "financial_pages": "[1, 2, 3, 4, 5, 6, 7]",
+        "level": "level_1",
+        "page_count": 7,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7]",
+        "source": "https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets",
+        "source_url": "https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets",
+        "total_chunks": 7,
+        "type": "pdf"
+      },
+      "id": "a1bb39c5-890e-4f23-b000-ac86b2507192",
+      "distance": 0.6104616522789001,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.5245538120086376,
+      "scoring_details": {
+        "query_type": "total_budget",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 2 - FINANCIAL/BUDGET INFORMATION]\n2 www.cambridgeshire.gov.uk Contents Page \nIntroduction \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e 3 \nOur Key Challenges  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  4 \nSpend in Cambridgeshire County Council \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  6 \nCo-production   \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  9 \nWorkforce Capacity   \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  10 \nBed Based Care for Older People \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  12 \nIndependent Living Services   \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  14 \nAccommodation With Care   \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  15",
+      "metadata": {
+        "chunk_id": 1,
+        "contains_financial_info": true,
+        "download_url": "https://www.cambridgeshire.gov.uk/asset-library/Adult-social-care-Market-Position-Statement-2024.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Adult-social-care-Market-Position-Statement-2024.pdf",
+        "financial_pages": "[2, 4, 5, 6, 7, 8, 10, 11, 12, 14, 15, 17, 18, 19, 22, 24, 25, 26, 27, 28, 29, 30, 33]",
+        "level": "level_2",
+        "page_count": 34,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34]",
+        "source": "https://www.cambridgeshire.gov.uk/residents/adults/adults-services-strategies-and-policies/adult-social-care-market-position-statement",
+        "source_url": "https://www.cambridgeshire.gov.uk/residents/adults/adults-services-strategies-and-policies/adult-social-care-market-position-statement",
+        "total_chunks": 86,
+        "type": "pdf"
+      },
+      "id": "cde18727-a28e-4881-bee2-aa5a06c307f4",
+      "distance": 0.6649752259254456,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.5081997399146739,
+      "scoring_details": {
+        "query_type": "total_budget",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Payments for children in Cambridgeshire ) \nWe will carry out a social care needs assessment , to find out what you want \nto achieve. We will then consider , with you , ways your needs could be best \nsupported. This will be written down in a document called a Care and s up port \nplan . \nPersonal budget  \nWe will identify a level of budget that is calculated to be enough to support \nyour assessed and eligible needs as written in your care and support plan.   \nThis is called your Personal Budget. Your Personal Budget will be made up of \nthe amount we financially assess you as being able to cover yourself (your \nclient contribution) plus any contribution the Council might make.  \nExample:  \nWe identify that your assessed and eligible needs can be met with \u00a36,000 per \nyear.  \nYour financial assessment identifies your client contribution is \u00a32,800 a year,  \nYour Personal budget would be made up of your contribution of \u00a32,800 and the council would contribute \u00a33,200 a year, making the full personal budget",
+      "metadata": {
+        "chunk_id": 2,
+        "contains_financial_info": true,
+        "download_url": "https://www.cambridgeshire.gov.uk/asset-library/direct-payments.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "direct-payments.pdf",
+        "financial_pages": "[2, 3, 4, 5, 7, 8]",
+        "level": "level_3",
+        "page_count": 8,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8]",
+        "source": "https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets",
+        "source_url": "https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets",
+        "total_chunks": 18,
+        "type": "pdf"
+      },
+      "id": "6798113a-753b-4907-92f2-e62fe0157ef4",
+      "distance": 0.6732136607170105,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.5057282094772045,
+      "scoring_details": {
+        "query_type": "total_budget",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Payments for children in Cambridgeshire ) \nWe will carry out a social care needs assessment , to find out what you want \nto achieve. We will then consider , with you , ways your needs could be best \nsupported. This will be written down in a document called a Care and s up port \nplan . \nPersonal budget  \nWe will identify a level of budget that is calculated to be enough to support \nyour assessed and eligible needs as written in your care and support plan.   \nThis is called your Personal Budget. Your Personal Budget will be made up of \nthe amount we financially assess you as being able to cover yourself (your \nclient contribution) plus any contribution the Council might make.  \nExample:  \nWe identify that your assessed and eligible needs can be met with \u00a36,000 per \nyear.  \nYour financial assessment identifies your client contribution is \u00a32,800 a year,  \nYour Personal budget would be made up of your contribution of \u00a32,800 and the council would contribute \u00a33,200 a year, making the full personal budget",
+      "metadata": {
+        "chunk_id": 2,
+        "contains_financial_info": true,
+        "download_url": "https://www.cambridgeshire.gov.uk/asset-library/direct-payments.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "direct-payments.pdf",
+        "financial_pages": "[2, 3, 4, 5, 7, 8]",
+        "level": "level_1",
+        "page_count": 8,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8]",
+        "source": "https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets",
+        "source_url": "https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets",
+        "total_chunks": 18,
+        "type": "pdf"
+      },
+      "id": "86e0d1d9-7736-4aa1-8f23-8bd29e32a963",
+      "distance": 0.6732136607170105,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.5057282094772045,
+      "scoring_details": {
+        "query_type": "total_budget",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 8 - FINANCIAL/BUDGET INFORMATION]\n \n \n8 | Cambridgeshire County Council \u2013 Direct Payments  | April 2025  \n Personal Health Budgets  \nA personal health budget is an amount of money to support your health and \nwellbeing needs, which is planned and agreed between you (or someone who \nrepresents you), and your local NHS team.  \nYou can find out more about personal health budgets on NHS.U K website . \nIn Cambridgeshire, you can ask for information and advice on both Personal \nHealth Budgets and Personal Budgets (including Direct Payments)  from \nPurple by contacting them  on cambridgeshire@purple -dpss.co.uk  or 01223 \n679087  \nCarers support  \nIf you are looking after someone, please see our Information on support for \ncarers  w ebpages for help and advice.",
+      "metadata": {
+        "chunk_id": 17,
+        "contains_financial_info": true,
+        "download_url": "https://www.cambridgeshire.gov.uk/asset-library/direct-payments.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "direct-payments.pdf",
+        "financial_pages": "[2, 3, 4, 5, 7, 8]",
+        "level": "level_1",
+        "page_count": 8,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8]",
+        "source": "https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets",
+        "source_url": "https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets",
+        "total_chunks": 18,
+        "type": "pdf"
+      },
+      "id": "4241a819-1cfe-40aa-94ef-f5044e4a6195",
+      "distance": 0.6210968542591351,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.5021324821837979,
+      "scoring_details": {
+        "query_type": "total_budget",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 8 - FINANCIAL/BUDGET INFORMATION]\n \n \n8 | Cambridgeshire County Council \u2013 Direct Payments  | April 2025  \n Personal Health Budgets  \nA personal health budget is an amount of money to support your health and \nwellbeing needs, which is planned and agreed between you (or someone who \nrepresents you), and your local NHS team.  \nYou can find out more about personal health budgets on NHS.U K website . \nIn Cambridgeshire, you can ask for information and advice on both Personal \nHealth Budgets and Personal Budgets (including Direct Payments)  from \nPurple by contacting them  on cambridgeshire@purple -dpss.co.uk  or 01223 \n679087  \nCarers support  \nIf you are looking after someone, please see our Information on support for \ncarers  w ebpages for help and advice.",
+      "metadata": {
+        "chunk_id": 17,
+        "contains_financial_info": true,
+        "download_url": "https://www.cambridgeshire.gov.uk/asset-library/direct-payments.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "direct-payments.pdf",
+        "financial_pages": "[2, 3, 4, 5, 7, 8]",
+        "level": "level_3",
+        "page_count": 8,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8]",
+        "source": "https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets",
+        "source_url": "https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets",
+        "total_chunks": 18,
+        "type": "pdf"
+      },
+      "id": "e6e2292d-ae2c-47a0-9e86-bce432056177",
+      "distance": 0.6210969090461731,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.5021324657476864,
+      "scoring_details": {
+        "query_type": "total_budget",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 8 - FINANCIAL/BUDGET INFORMATION]\n   \n \n8 | Cambridgeshire County Council \u2013 Paying for care  | April  2025 \n More information \nIf you want to find out more about paying for your care visit \nwww.cambridgeshire.gov.uk  and search \u2018paying for care\u2019. \n \nIf you choose not to complete the financial \nassessment  \nYou can choose not to complete a financial assessment or tell us about \nyour financial circumstances. However, we will assume you can pay for \nthe full cost of your care, and we will charge you that amount. If you \ndon\u2019t pay, we will take action to recover any outstanding charges owed \nto us.  \nWe can provide information about services and our assessment and \ncharging processes. However, we cannot give you financial advice. We \nrecommend that you take independent financial advice when making \ndecisions.  \nIf you have a question or concern about your financial assessment,  \nplease contact us : \nTelephone: 0300 126 3003  \nFinancial Assessment Team  \nBox No: SCO2205  \nRoom No: 2nd floor  \nScott House",
+      "metadata": {
+        "chunk_id": 17,
+        "contains_financial_info": true,
+        "download_url": "https://www.cambridgeshire.gov.uk/asset-library/Paying-for-care.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Paying-for-care.pdf",
+        "financial_pages": "[1, 2, 3, 4, 5, 6, 7, 8]",
+        "level": "level_2",
+        "page_count": 8,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8]",
+        "source": "https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets",
+        "source_url": "https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets",
+        "total_chunks": 19,
+        "type": "pdf"
+      },
+      "id": "1a92395d-cfeb-448d-ae3e-f9413f62b8f0",
+      "distance": 0.6925526857376099,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.49992650197102473,
+      "scoring_details": {
+        "query_type": "total_budget",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    }
+  ],
+  "context": "[Document 1] From https://www (pdf) - URL: https://www.cambridgeshire.gov.uk/residents/adults/adults-services-strategies-and-policies/adult-social-care-market-position-statement - 34 pages [Retrieved via: semantic_original]:\n[Page 6 - FINANCIAL/BUDGET INFORMATION]\n6 www.cambridgeshire.gov.uk Spend in Cambridgeshire \nCounty Council \non Adult Social Care 2023/24 \nAnnual expenditure across all services for 9,372 people for 2023/2024 was \u00a3258,000,000.00 \nwhich can be seen in the following data which represents number of people and annual \nexpenditure for each service area (figures are total numbers throughout the year). For the \nauthority\u2019s statutory returns, supported living beds are included in the data for community-\nbased services. The actual number of people in learning disability supported living services, \n(as opposed to residential) as of November 2024 is 621, at an annual cost of \u00a355,165,546: \nService Number of \nPeople Annual \nExpenditure \nOlder People & Physical Disabilities Accommodation based 2177 \u00a369m \nOlder People & Physical Disabilities Community based 3473 \u00a341m \nPhysical Disabilities under 65 age Accommodation based 70 \u00a33m \nPhysical Disabilities under 65 age Community based 726 \u00a310m\n\n[Document 2] From https://www (pdf) - URL: https://www.cambridgeshire.gov.uk/council/communities/poverty-strategy-commission - 98 pages [Retrieved via: semantic_original]:\n[Page 8 - FINANCIAL/BUDGET INFORMATION]\nHousehold Support Fund data  \nThe Household Support Fund (HSF) was established by the previous government  \nto provide a short-term boost to funding and mitigate the cost-of-living crisis. In  \nCambridgeshire this money has been used to support households experiencing  \nimmediate financial hardship, through the provision of financial vouchers or cash  \npayments to help cover the cost of household energy bills and food. In the year  \nfrom April 2024-March 2025, more than \u00a33.6million was spent on free school meal  \nholiday provisions, whilst more than \u00a3500,000 was split between Citizens Advice  \nBureau, Cambridgeshire Local Assistance Scheme, and Cambridgeshire ACRE.  \nCambridgeshire County Council\u2019s quality of life survey 2024  \nWhilst the quality of life survey results do not inform us directly about poverty, they  \ndo provide an indication of the attitudes and behaviours of Cambridgeshire  \nresidents towards current issues such as the cost-of-living crisis.\n\n[Document 3] From https://www (pdf) - URL: https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets - 7 pages [Retrieved via: semantic_original]:\n[Page 3 - FINANCIAL/BUDGET INFORMATION]\n \n \n3 | Cambridgeshire County Council \u2013  Paying for care - Easy Read | April  2025  \n Pictures  Words  \n The Financial Assessment works out how much \nyou will pay.  \n \nIt also works out how much the council may pay towards your care and support.  \n The total amount of money needed to meet your agreed eligible  care and support needs is called a \nPersonal Budget . \n You can choose how to spend your Personal \nBudget , as long as  you spend it on things to help \nyou with your agreed eligible care and support needs.  \n Your Personal Budget  can help you arrange \nsupport with activities whilst living at home like:  \n \u2022 washing and dressing  \n\u2022 preparing drinks and meals  \n\u2022 doing activities outside the home\n\n[Document 4] From https://www (pdf) - URL: https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets - 7 pages [Retrieved via: semantic_original]:\n[Page 3 - FINANCIAL/BUDGET INFORMATION]\n \n \n3 | Cambridgeshire County Council \u2013  Paying for care - Easy Read | April  2025  \n Pictures  Words  \n The Financial Assessment works out how much \nyou will pay.  \n \nIt also works out how much the council may pay towards your care and support.  \n The total amount of money needed to meet your agreed eligible  care and support needs is called a \nPersonal Budget . \n You can choose how to spend your Personal \nBudget , as long as  you spend it on things to help \nyou with your agreed eligible care and support needs.  \n Your Personal Budget  can help you arrange \nsupport with activities whilst living at home like:  \n \u2022 washing and dressing  \n\u2022 preparing drinks and meals  \n\u2022 doing activities outside the home\n\n[Document 5] From https://www (pdf) - URL: https://www.cambridgeshire.gov.uk/residents/adults/adults-services-strategies-and-policies/adult-social-care-market-position-statement - 34 pages [Retrieved via: semantic_original]:\n[Page 2 - FINANCIAL/BUDGET INFORMATION]\n2 www.cambridgeshire.gov.uk Contents Page \nIntroduction \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e 3 \nOur Key Challenges  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  4 \nSpend in Cambridgeshire County Council \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  6 \nCo-production   \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  9 \nWorkforce Capacity   \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  10 \nBed Based Care for Older People \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  12 \nIndependent Living Services   \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  14 \nAccommodation With Care   \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  \ue02e  15\n\n[Document 6] From https://www (pdf) - URL: https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets - 8 pages [Retrieved via: semantic_original]:\nPayments for children in Cambridgeshire ) \nWe will carry out a social care needs assessment , to find out what you want \nto achieve. We will then consider , with you , ways your needs could be best \nsupported. This will be written down in a document called a Care and s up port \nplan . \nPersonal budget  \nWe will identify a level of budget that is calculated to be enough to support \nyour assessed and eligible needs as written in your care and support plan.   \nThis is called your Personal Budget. Your Personal Budget will be made up of \nthe amount we financially assess you as being able to cover yourself (your \nclient contribution) plus any contribution the Council might make.  \nExample:  \nWe identify that your assessed and eligible needs can be met with \u00a36,000 per \nyear.  \nYour financial assessment identifies your client contribution is \u00a32,800 a year,  \nYour Personal budget would be made up of your contribution of \u00a32,800 and the council would contribute \u00a33,200 a year, making the full personal budget\n\n[Document 7] From https://www (pdf) - URL: https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets - 8 pages [Retrieved via: semantic_original]:\nPayments for children in Cambridgeshire ) \nWe will carry out a social care needs assessment , to find out what you want \nto achieve. We will then consider , with you , ways your needs could be best \nsupported. This will be written down in a document called a Care and s up port \nplan . \nPersonal budget  \nWe will identify a level of budget that is calculated to be enough to support \nyour assessed and eligible needs as written in your care and support plan.   \nThis is called your Personal Budget. Your Personal Budget will be made up of \nthe amount we financially assess you as being able to cover yourself (your \nclient contribution) plus any contribution the Council might make.  \nExample:  \nWe identify that your assessed and eligible needs can be met with \u00a36,000 per \nyear.  \nYour financial assessment identifies your client contribution is \u00a32,800 a year,  \nYour Personal budget would be made up of your contribution of \u00a32,800 and the council would contribute \u00a33,200 a year, making the full personal budget\n\n[Document 8] From https://www (pdf) - URL: https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets - 8 pages [Retrieved via: semantic_original]:\n[Page 8 - FINANCIAL/BUDGET INFORMATION]\n \n \n8 | Cambridgeshire County Council \u2013 Direct Payments  | April 2025  \n Personal Health Budgets  \nA personal health budget is an amount of money to support your health and \nwellbeing needs, which is planned and agreed between you (or someone who \nrepresents you), and your local NHS team.  \nYou can find out more about personal health budgets on NHS.U K website . \nIn Cambridgeshire, you can ask for information and advice on both Personal \nHealth Budgets and Personal Budgets (including Direct Payments)  from \nPurple by contacting them  on cambridgeshire@purple -dpss.co.uk  or 01223 \n679087  \nCarers support  \nIf you are looking after someone, please see our Information on support for \ncarers  w ebpages for help and advice.\n\n[Document 9] From https://www (pdf) - URL: https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets - 8 pages [Retrieved via: semantic_original]:\n[Page 8 - FINANCIAL/BUDGET INFORMATION]\n \n \n8 | Cambridgeshire County Council \u2013 Direct Payments  | April 2025  \n Personal Health Budgets  \nA personal health budget is an amount of money to support your health and \nwellbeing needs, which is planned and agreed between you (or someone who \nrepresents you), and your local NHS team.  \nYou can find out more about personal health budgets on NHS.U K website . \nIn Cambridgeshire, you can ask for information and advice on both Personal \nHealth Budgets and Personal Budgets (including Direct Payments)  from \nPurple by contacting them  on cambridgeshire@purple -dpss.co.uk  or 01223 \n679087  \nCarers support  \nIf you are looking after someone, please see our Information on support for \ncarers  w ebpages for help and advice.\n\n[Document 10] From https://www (pdf) - URL: https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets - 8 pages [Retrieved via: semantic_original]:\n[Page 8 - FINANCIAL/BUDGET INFORMATION]\n   \n \n8 | Cambridgeshire County Council \u2013 Paying for care  | April  2025 \n More information \nIf you want to find out more about paying for your care visit \nwww.cambridgeshire.gov.uk  and search \u2018paying for care\u2019. \n \nIf you choose not to complete the financial \nassessment  \nYou can choose not to complete a financial assessment or tell us about \nyour financial circumstances. However, we will assume you can pay for \nthe full cost of your care, and we will charge you that amount. If you \ndon\u2019t pay, we will take action to recover any outstanding charges owed \nto us.  \nWe can provide information about services and our assessment and \ncharging processes. However, we cannot give you financial advice. We \nrecommend that you take independent financial advice when making \ndecisions.  \nIf you have a question or concern about your financial assessment,  \nplease contact us : \nTelephone: 0300 126 3003  \nFinancial Assessment Team  \nBox No: SCO2205  \nRoom No: 2nd floor  \nScott House\n",
+  "answer": "The available documents do not provide specific information about Cambridgeshire's total annual budget for the current financial year. However, they do mention specific budget allocations for adult social care.\n\n- **Adult Social Care Budget**: Cambridgeshire County Council's annual expenditure on adult social care for the financial year 2023/2024 is **\u00a3258 million**. This budget covers services for 9,372 people across various service areas, including accommodation and community-based services for older people, physical disabilities, and learning disabilities.\n\nFor further details or inquiries about Cambridgeshire's overall budget, you may consider visiting the Cambridgeshire County Council's official website or contacting them directly. Here is the URL for more information: [Cambridgeshire County Council](https://www.cambridgeshire.gov.uk).",
+  "metrics": {
+    "duration_seconds": 5.767218112945557,
+    "retrieved_docs_count": 10,
+    "query_length": 76,
+    "answer_length": 852,
+    "retrieval_method": "enhanced",
+    "context_utilization": 0.1452513966480447,
+    "citations_count": 0,
+    "has_citations": false,
+    "query_relevance": 0.8888888888888888,
+    "unique_retrieval_methods": 1,
+    "budget_documents_retrieved": 10,
+    "retrieval_methods_used": [
+      "semantic_original"
+    ],
+    "retrieval_method_distribution": {
+      "semantic_original": 10
+    }
+  },
+  "local_authority": "Cambridgeshire",
+  "query_id": "std_6",
+  "retrieval_method": "enhanced",
+  "run_id": "4eb2794f-2362-4173-97bf-b90e2bbbcefe",
+  "trace": {
+    "run_id": "4eb2794f-2362-4173-97bf-b90e2bbbcefe",
+    "project": "social_care_rag",
+    "url": "https://eu.smith.langchain.com/o/me/runs/4eb2794f-2362-4173-97bf-b90e2bbbcefe"
+  },
+  "test_metadata": {
+    "local_authority": "Cambridgeshire",
+    "query_id": "std_6",
+    "query_category": "financial_standard",
+    "prompt_variation": "optimized",
+    "prompt_template": "\nPlease answer the following question about social care services in UK local authorities based only on the information in the provided documents.\n\nQuestion: {query}\n\nContext from relevant documents:\n{context}\n\nInstructions:\n1. Provide a clear, direct answer that would help someone needing this information. If information isn't available, state: \"The available documents don't provide specific information about [aspect].\"\n\n2. Synthesize information from ALL relevant documents to provide the most complete answer rather than analyzing documents individually.\n\n3. Structure your response with:\n   - A concise 1-2 sentence summary first\n   - Relevant details organized in short, clear paragraphs\n   - Bullet points for lists or step-by-step information\n   - Bold text for key information the user should notice\n\n4. For financial information:\n   - Include exact figures, time periods, and what the funding covers\n   - Present financial data clearly: \"The adult social care budget is **\u00a3X million** for [time period]\"\n\n5. Always include practical next steps or resources:\n   - Provide contact information, URLs, or application methods mentioned in the documents\n   - Suggest where the person could find more information\n\n6. When citing sources, use a simple format: \"According to [document name/description]\" or include URLs where available.\n\nAnswer:\n",
+    "processing_time": 5.769284963607788,
+    "timestamp": "2025-08-17T22:36:36.275890",
+    "top_k": 10
+  }
+}

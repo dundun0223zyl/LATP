@@ -1,0 +1,323 @@
+{
+  "query": "What additional resources and support services are available for social care users in nottingham, including advocacy and complaints services?",
+  "retrieved_documents": [
+    {
+      "content": "[Page 38]\n38our Partners\nNottingham\u2019s health and community providers \ncontribute a significant amount to helping people who might otherwise need support from social care. \nDevelop your ability to signpost people to \ninformation and advice and resolve immediate issues so that people\u2019s needs can be met more quickly and social care can concentrate on \nthose that really need us.nottingham e mployers\nNottingham\u2019s employers can develop and \noffer opportunities for skills development and employment to people who might have care and support needs. \nUnderstand the particular strengths disabled \npeople can bring to the workplace and embed that understanding in your workforce, employees and HR processes. \n\n\n[Page 39]\n39\nWe welcome your  \nfeedback on our \nstrategy. Please email \nbetterlivesbetteroutcomes@\nnottinghamcity.gov.uk  \nwith any comments you have.\n57681",
+      "metadata": {
+        "chunk_id": 94,
+        "contains_financial_info": true,
+        "download_url": "https://www.nottinghamcity.gov.uk/media/0frjip3a/adult-social-care-strategy-full.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "adult-social-care-strategy-full.pdf",
+        "financial_pages": "[2, 3, 4, 7, 8, 9, 10, 12, 13, 15, 16, 17, 18, 19, 20, 21, 25, 27, 28, 29, 30, 31, 32, 35, 36, 37]",
+        "level": "level_1",
+        "page_count": 39,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39]",
+        "source": "https://www.nottinghamcity.gov.uk/information-for-residents/health-and-social-care/adult-social-care/better-lives-better-outcomes/",
+        "source_url": "https://www.nottinghamcity.gov.uk/information-for-residents/health-and-social-care/adult-social-care/better-lives-better-outcomes/",
+        "total_chunks": 95,
+        "type": "pdf"
+      },
+      "id": "da7833a8-fabd-4576-b13a-3b9ccb241290",
+      "distance": 0.5041969418525696,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.19874091744422911,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "--\n\nWelcome to Nottingham City Council's Adult Social Care Hub Your Information Hub for Adult Social Care Accessing my community Information and advice, discover local Nottingham groups and activities available within the community Safeguarding Tell us if you or someone else is at risk of abuse, harm or neglect Your care and support needs Tell us about yourself and what matters to you Professionals and providers For professionals and providers supporting Nottingham City residents Your needs as a carer How we can support you in your role as a carer My finances Information and guidance regarding your finances Adults Hub Help Access user guides to help you use the Adults hub",
+      "metadata": {
+        "chunk_id": 0,
+        "filename": "healthandsocialcareportal.nottinghamcity.gov.uk_web_portal_pages_home_.txt",
+        "level": "level_2",
+        "source": "https://healthandsocialcareportal.nottinghamcity.gov.uk/web/portal/pages/home/",
+        "source_url": "https://healthandsocialcareportal.nottinghamcity.gov.uk/web/portal/pages/home/",
+        "total_chunks": 1,
+        "type": "web_page"
+      },
+      "id": "0c7bfddd-a10f-4f75-9985-68cf97af9a56",
+      "distance": 0.5208370685577393,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1937488794326782,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "--\n\nWelcome to Nottingham City Council's Adult Social Care Hub Your Information Hub for Adult Social Care Accessing my community Information and advice, discover local Nottingham groups and activities available within the community Safeguarding Tell us if you or someone else is at risk of abuse, harm or neglect Your care and support needs Tell us about yourself and what matters to you Professionals and providers For professionals and providers supporting Nottingham City residents Your needs as a carer How we can support you in your role as a carer My finances Information and guidance regarding your finances Adults Hub Help Access user guides to help you use the Adults hub",
+      "metadata": {
+        "chunk_id": 0,
+        "filename": "www.nottinghamcity.gov.uk_information-for-residents_health-and-social-care_adult-social-care_adult-s.txt",
+        "level": "level_1",
+        "source": "https://www.nottinghamcity.gov.uk/information-for-residents/health-and-social-care/adult-social-care/adult-social-carers-hub/",
+        "source_url": "https://www.nottinghamcity.gov.uk/information-for-residents/health-and-social-care/adult-social-care/adult-social-carers-hub/",
+        "total_chunks": 1,
+        "type": "web_page"
+      },
+      "id": "8859e9e3-e707-4667-ae2a-ee2c8afb1fb6",
+      "distance": 0.5208370685577393,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1937488794326782,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 15]\n15 Carers across the Nottingham City and Nottinghamshire County are able to access a number of services to support them \nwith their caring role. Available support may depend on whether the cared for is an adult or a child. All carers can access free information and advice and be referred and supported onwards as appropriate.\nOther forms of support may include:\n\u2022 Support groups for carers or to support them with the condition of the person they care for\n\u2022 Access to health and leisure activities, sometimes at a reduced rate\n\u2022 One to one support and guidance\n\u2022 Access to activities for young carers\n\u2022 A break from the caring role or respite care\n\u2022 Direct payments for the carer to meet their assessed outcomes\nWe also work with a number of organisations and services to:\n\u2022 Identify carers at an early stage in GP practices and schools\n\u2022 Work with GP practices and schools to help them provide appropriate support once carers have been identi\ufb01  ed",
+      "metadata": {
+        "chunk_id": 24,
+        "contains_financial_info": true,
+        "download_url": "https://www.nottinghamcity.gov.uk/media/yaqmzdvl/joint-carers-strategy-2023-2028.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "joint-carers-strategy-2023-2028.pdf",
+        "financial_pages": "[3, 6, 11, 12, 14, 16, 19, 20, 27, 32, 33, 34]",
+        "level": "level_1",
+        "page_count": 36,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36]",
+        "source": "https://www.nottinghamcity.gov.uk/information-for-residents/health-and-social-care/adult-social-care/support-if-you-care-or-look-after-someone/",
+        "source_url": "https://www.nottinghamcity.gov.uk/information-for-residents/health-and-social-care/adult-social-care/support-if-you-care-or-look-after-someone/",
+        "total_chunks": 60,
+        "type": "pdf"
+      },
+      "id": "6d54efa6-ce42-47ad-a769-f10b2937f820",
+      "distance": 0.534076988697052,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.18977690339088438,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "themselves\n\u2022 Helping friends and families to provide the best possible support for each other\n\u2022 Providing connections to others who can help from within Nottingham\u2019s caring communities.\nWhere people do need more support, that support will promote wellness and maximise independence. For those who can pay for and arrange their own services, we will signpost them where necessary.This strategy builds on the work which we are already doing to support citizens in Nottingham. At the heart is the development of a financial strategy to enable a sustainable social care system. Through an improved understanding of demand, we will identify how we can achieve that by:\n\u2022 Identifying potential for greater investment in \ntargeted prevention\n\u2022 Continuing to work with the NHS, integrating services where we can and where this means we can better support citizens with both health and care needs\n\u2022 Developing further understanding of what \ncan be delivered through people in local",
+      "metadata": {
+        "chunk_id": 6,
+        "contains_financial_info": true,
+        "download_url": "https://www.nottinghamcity.gov.uk/media/0frjip3a/adult-social-care-strategy-full.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "adult-social-care-strategy-full.pdf",
+        "financial_pages": "[2, 3, 4, 7, 8, 9, 10, 12, 13, 15, 16, 17, 18, 19, 20, 21, 25, 27, 28, 29, 30, 31, 32, 35, 36, 37]",
+        "level": "level_1",
+        "page_count": 39,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39]",
+        "source": "https://www.nottinghamcity.gov.uk/information-for-residents/health-and-social-care/adult-social-care/better-lives-better-outcomes/",
+        "source_url": "https://www.nottinghamcity.gov.uk/information-for-residents/health-and-social-care/adult-social-care/better-lives-better-outcomes/",
+        "total_chunks": 95,
+        "type": "pdf"
+      },
+      "id": "b233480d-0169-4f79-83b9-d233bceed216",
+      "distance": 0.5427542924880981,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.18717371225357055,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "themselves\n\u2022\t Helping\tfriends\tand\tfamilies\tto\tprovide\tthe\tbest\t\npossible\tsupport\tfor\teach\tother\n\u2022\t Providing\tconnections\tto\tothers\twho\tcan\thelp\t\nfrom\twithin\tNottingham\u2019s\tcaring\tcommunities.\nWhere\tpeople\tdo\tneed\tmore\tsupport,\tthat\tsupport\twill\tpromote\twellness\tand\tmaximise\tindependence.\tFor\tthose\twho\tcan\tpay\tfor\tand\tarrange\ttheir\town\tservices,\twe\twill\tsignpost\tthem\twhere\tnecessary.This\tstrategy\tbuilds\ton\tthe\twork\twhich\twe\tare\talready\tdoing\tto\tsupport\tcitizens\tin\tNottingham.\tAt\tthe\theart\tis\tthe\tdevelopment\tof\ta\tfinancial\tstrategy\tto\tenable\ta\tsustainable\tsocial\tcare\tsystem.\tThrough\tan\timproved\tunderstanding\tof\tdemand,\twe\twill\tidentify\thow\twe\tcan\tachieve\tthat\tby:\n\u2022\t identifying\tpotential\tfor\tgreater\tinvestment\tin\t\ntargeted\tprevention,\n\u2022\t continuing\tto\twork\twith\tthe\tNHS,\tintegrating\t\nservices\twhere\twe\tcan\tand\twhere\tthis\tmeans\t\nwe\tcan\tbetter\tsupport\tcitizens\twith\tboth\thealth\t\nand\tcare\tneeds,\n\u2022\t developing\tfurther\tunderstanding\tof\twhat\t\ncan\tbe\tdelivered\tthrough\tpeople\tin\tlocal",
+      "metadata": {
+        "chunk_id": 2,
+        "contains_financial_info": true,
+        "download_url": "https://www.nottinghamcity.gov.uk/media/tl3nccjv/approved-asc-strategy-summary-final.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "approved-asc-strategy-summary-final.pdf",
+        "financial_pages": "[3, 6, 7, 8, 9]",
+        "level": "level_1",
+        "page_count": 12,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]",
+        "source": "https://www.nottinghamcity.gov.uk/information-for-residents/health-and-social-care/adult-social-care/better-lives-better-outcomes/",
+        "source_url": "https://www.nottinghamcity.gov.uk/information-for-residents/health-and-social-care/adult-social-care/better-lives-better-outcomes/",
+        "total_chunks": 28,
+        "type": "pdf"
+      },
+      "id": "0382fc3a-072d-4292-9d4e-2f371e1736ad",
+      "distance": 0.545252799987793,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.18642416000366213,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 43]\n 43 \nSocial opportunities \nand activities for carers\nThe Carers Hub and Young Carers Notts off  er a wide range of \nsocial opportunities and activities for carers of all ages.\nhttps:/ /carershub.carersfederation.co.uk/support-groups/\nThey also have information about other local support groups \nthat are available.\nhttps:/ /carershub.carersfederation.co.uk/whats-new-in-your-\narea/\nAsk Lion (City) and Nottshelpyourself (County) are \ndirectories of support groups and activities.\nwww.asklion.co.uk/kb5/nottingham/directory/home.page\nwww.nottshelpyourself.org.uk/kb5/nottinghamshire/\ndirectory/home.page",
+      "metadata": {
+        "chunk_id": 57,
+        "contains_financial_info": true,
+        "download_url": "https://www.nottinghamcity.gov.uk/media/i53nn0od/carers-information-booklet-april-2025.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "carers-information-booklet-april-2025.pdf",
+        "financial_pages": "[2, 18, 27, 32, 41, 45]",
+        "level": "level_1",
+        "page_count": 52,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52]",
+        "source": "https://www.nottinghamcity.gov.uk/information-for-residents/health-and-social-care/adult-social-care/support-if-you-care-or-look-after-someone/",
+        "source_url": "https://www.nottinghamcity.gov.uk/information-for-residents/health-and-social-care/adult-social-care/support-if-you-care-or-look-after-someone/",
+        "total_chunks": 67,
+        "type": "pdf"
+      },
+      "id": "745e8917-6016-482f-9e4e-802336abf83a",
+      "distance": 0.548202395439148,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1855392813682556,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 1]\n \n \n \n \nSome people need practical support to do the everyday things t hat most of us take for \ngranted. The social care system provides this support for those who need it, to help \nthem keep their independence and dignity.  Nottingham City Council Adult Social Care \nTeam is responsible for assessing people\u2019s need for social care services in Nottingham \nCity.  \nWhen someone contact s us the first step will be to have an assessment to establish i f \nyou can receive services. There is a national guidance on this but each authority sets \nits own criteria  on eligibility  for services. If you are assessed and told you meet our \nrequirements then the council is obliged by law  to help. If you are not eligible for \nservices we will support you by signposting you to other sources of help and support.  \nAm I eligible?   \nTo find out if you are eligible for adult social care services in Nottingham please call the \nNottingham City Health and Care Point on 0300 300 3333.",
+      "metadata": {
+        "chunk_id": 0,
+        "contains_financial_info": true,
+        "download_url": "https://www.nottinghamcity.gov.uk/media/uufnsfzw/accessing-social-care-services-factsheet.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "accessing-social-care-services-factsheet.pdf",
+        "financial_pages": "[2]",
+        "level": "level_2",
+        "page_count": 2,
+        "pages_with_content": "[1, 2]",
+        "source": "https://www.nottinghamcity.gov.uk/information-for-residents/health-and-social-care/adult-social-care/financial-and-legal-support/social-care-needs-assessment/",
+        "source_url": "https://www.nottinghamcity.gov.uk/information-for-residents/health-and-social-care/adult-social-care/financial-and-legal-support/social-care-needs-assessment/",
+        "total_chunks": 5,
+        "type": "pdf"
+      },
+      "id": "e0dfc6ec-685b-4269-ba1d-9a47f3a105ee",
+      "distance": 0.5685427784919739,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.17943716645240781,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 1]\nInformation \nfor carers\nin Nottingham\nand NottinghamshireDo you \nlook after look after \nsomeone?someone?\n\n\n[Page 2 - FINANCIAL/BUDGET INFORMATION]\nAre you a carer? 4\nHelp and support for the person you care for 7\nWhere to start checklist 10\nRegistering as a carer with your GP 12\nAssessing your needs as a carer 14\nEmergency planning 15\nBene\ufb01  ts advice 16\nManaging the cost of care 18\nInformation, advice and support for carers 19\nSupport for young carers 22\nWorking and caring 24\nAccessing education or training 26\nIf you\u2019re struggling with caring 28\nRaising an issue 30 \nAdvocacy 31\nKeeping people safe 33\nHospital stays and caring 36\nHealth and Wellbeing 38\nBreaks from caring 39 \nSocial opportunities and activities for carers 43\nOnline support for carers 44\nGetting involved and co-production 45\nUseful contacts and links 47\nNotes 50Contents",
+      "metadata": {
+        "chunk_id": 0,
+        "contains_financial_info": true,
+        "download_url": "https://www.nottinghamcity.gov.uk/media/i53nn0od/carers-information-booklet-april-2025.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "carers-information-booklet-april-2025.pdf",
+        "financial_pages": "[2, 18, 27, 32, 41, 45]",
+        "level": "level_1",
+        "page_count": 52,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52]",
+        "source": "https://www.nottinghamcity.gov.uk/information-for-residents/health-and-social-care/adult-social-care/support-if-you-care-or-look-after-someone/",
+        "source_url": "https://www.nottinghamcity.gov.uk/information-for-residents/health-and-social-care/adult-social-care/support-if-you-care-or-look-after-someone/",
+        "total_chunks": 67,
+        "type": "pdf"
+      },
+      "id": "35392554-8eff-4fdf-b62c-a0d752fdf6ee",
+      "distance": 0.5736699104309082,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.17789902687072756,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "formal care services. \nNottingham prides itself on being a city where \ncitizens should be able to fulfil their potential and we think this applies to all stages of life and to all citizens. Our strategy is about the support to older and disabled adults in our city. The council has a key role to play in this, but we also know that families, carers, communities and other organisations make a vital contribution. This is why we see this strategy as creating a vision for outcomes which we can work together to deliver. \nc)  t he demographic context\nIn 2017/18, Nottingham City Council supported over 7,300 older and disabled adults, along with over 1,500 carers, spending in total over \u00a3100m on adult social care. There were over 22,000 contacts with adult social care, with 9,000 of these being new contacts.",
+      "metadata": {
+        "chunk_id": 21,
+        "contains_financial_info": true,
+        "download_url": "https://www.nottinghamcity.gov.uk/media/0frjip3a/adult-social-care-strategy-full.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "adult-social-care-strategy-full.pdf",
+        "financial_pages": "[2, 3, 4, 7, 8, 9, 10, 12, 13, 15, 16, 17, 18, 19, 20, 21, 25, 27, 28, 29, 30, 31, 32, 35, 36, 37]",
+        "level": "level_1",
+        "page_count": 39,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39]",
+        "source": "https://www.nottinghamcity.gov.uk/information-for-residents/health-and-social-care/adult-social-care/better-lives-better-outcomes/",
+        "source_url": "https://www.nottinghamcity.gov.uk/information-for-residents/health-and-social-care/adult-social-care/better-lives-better-outcomes/",
+        "total_chunks": 95,
+        "type": "pdf"
+      },
+      "id": "e1396dba-d61b-4e1d-89ca-9ea5a4bf61ef",
+      "distance": 0.5847104787826538,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.17458685636520385,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    }
+  ],
+  "context": "[Document 1] From https://www (pdf) - URL: https://www.nottinghamcity.gov.uk/information-for-residents/health-and-social-care/adult-social-care/better-lives-better-outcomes/ - 39 pages [Retrieved via: semantic_original]:\n[Page 38]\n38our Partners\nNottingham\u2019s health and community providers \ncontribute a significant amount to helping people who might otherwise need support from social care. \nDevelop your ability to signpost people to \ninformation and advice and resolve immediate issues so that people\u2019s needs can be met more quickly and social care can concentrate on \nthose that really need us.nottingham e mployers\nNottingham\u2019s employers can develop and \noffer opportunities for skills development and employment to people who might have care and support needs. \nUnderstand the particular strengths disabled \npeople can bring to the workplace and embed that understanding in your workforce, employees and HR processes. \n\n\n[Page 39]\n39\nWe welcome your  \nfeedback on our \nstrategy. Please email \nbetterlivesbetteroutcomes@\nnottinghamcity.gov.uk  \nwith any comments you have.\n57681\n\n[Document 2] From https://healthandsocialcareportal (web_page) - URL: https://healthandsocialcareportal.nottinghamcity.gov.uk/web/portal/pages/home/ [Retrieved via: semantic_original]:\n--\n\nWelcome to Nottingham City Council's Adult Social Care Hub Your Information Hub for Adult Social Care Accessing my community Information and advice, discover local Nottingham groups and activities available within the community Safeguarding Tell us if you or someone else is at risk of abuse, harm or neglect Your care and support needs Tell us about yourself and what matters to you Professionals and providers For professionals and providers supporting Nottingham City residents Your needs as a carer How we can support you in your role as a carer My finances Information and guidance regarding your finances Adults Hub Help Access user guides to help you use the Adults hub\n\n[Document 3] From https://www (web_page) - URL: https://www.nottinghamcity.gov.uk/information-for-residents/health-and-social-care/adult-social-care/adult-social-carers-hub/ [Retrieved via: semantic_original]:\n--\n\nWelcome to Nottingham City Council's Adult Social Care Hub Your Information Hub for Adult Social Care Accessing my community Information and advice, discover local Nottingham groups and activities available within the community Safeguarding Tell us if you or someone else is at risk of abuse, harm or neglect Your care and support needs Tell us about yourself and what matters to you Professionals and providers For professionals and providers supporting Nottingham City residents Your needs as a carer How we can support you in your role as a carer My finances Information and guidance regarding your finances Adults Hub Help Access user guides to help you use the Adults hub\n\n[Document 4] From https://www (pdf) - URL: https://www.nottinghamcity.gov.uk/information-for-residents/health-and-social-care/adult-social-care/support-if-you-care-or-look-after-someone/ - 36 pages [Retrieved via: semantic_original]:\n[Page 15]\n15 Carers across the Nottingham City and Nottinghamshire County are able to access a number of services to support them \nwith their caring role. Available support may depend on whether the cared for is an adult or a child. All carers can access free information and advice and be referred and supported onwards as appropriate.\nOther forms of support may include:\n\u2022 Support groups for carers or to support them with the condition of the person they care for\n\u2022 Access to health and leisure activities, sometimes at a reduced rate\n\u2022 One to one support and guidance\n\u2022 Access to activities for young carers\n\u2022 A break from the caring role or respite care\n\u2022 Direct payments for the carer to meet their assessed outcomes\nWe also work with a number of organisations and services to:\n\u2022 Identify carers at an early stage in GP practices and schools\n\u2022 Work with GP practices and schools to help them provide appropriate support once carers have been identi\ufb01  ed\n\n[Document 5] From https://www (pdf) - URL: https://www.nottinghamcity.gov.uk/information-for-residents/health-and-social-care/adult-social-care/better-lives-better-outcomes/ - 39 pages [Retrieved via: semantic_original]:\nthemselves\n\u2022 Helping friends and families to provide the best possible support for each other\n\u2022 Providing connections to others who can help from within Nottingham\u2019s caring communities.\nWhere people do need more support, that support will promote wellness and maximise independence. For those who can pay for and arrange their own services, we will signpost them where necessary.This strategy builds on the work which we are already doing to support citizens in Nottingham. At the heart is the development of a financial strategy to enable a sustainable social care system. Through an improved understanding of demand, we will identify how we can achieve that by:\n\u2022 Identifying potential for greater investment in \ntargeted prevention\n\u2022 Continuing to work with the NHS, integrating services where we can and where this means we can better support citizens with both health and care needs\n\u2022 Developing further understanding of what \ncan be delivered through people in local\n\n[Document 6] From https://www (pdf) - URL: https://www.nottinghamcity.gov.uk/information-for-residents/health-and-social-care/adult-social-care/better-lives-better-outcomes/ - 12 pages [Retrieved via: semantic_original]:\nthemselves\n\u2022\t Helping\tfriends\tand\tfamilies\tto\tprovide\tthe\tbest\t\npossible\tsupport\tfor\teach\tother\n\u2022\t Providing\tconnections\tto\tothers\twho\tcan\thelp\t\nfrom\twithin\tNottingham\u2019s\tcaring\tcommunities.\nWhere\tpeople\tdo\tneed\tmore\tsupport,\tthat\tsupport\twill\tpromote\twellness\tand\tmaximise\tindependence.\tFor\tthose\twho\tcan\tpay\tfor\tand\tarrange\ttheir\town\tservices,\twe\twill\tsignpost\tthem\twhere\tnecessary.This\tstrategy\tbuilds\ton\tthe\twork\twhich\twe\tare\talready\tdoing\tto\tsupport\tcitizens\tin\tNottingham.\tAt\tthe\theart\tis\tthe\tdevelopment\tof\ta\tfinancial\tstrategy\tto\tenable\ta\tsustainable\tsocial\tcare\tsystem.\tThrough\tan\timproved\tunderstanding\tof\tdemand,\twe\twill\tidentify\thow\twe\tcan\tachieve\tthat\tby:\n\u2022\t identifying\tpotential\tfor\tgreater\tinvestment\tin\t\ntargeted\tprevention,\n\u2022\t continuing\tto\twork\twith\tthe\tNHS,\tintegrating\t\nservices\twhere\twe\tcan\tand\twhere\tthis\tmeans\t\nwe\tcan\tbetter\tsupport\tcitizens\twith\tboth\thealth\t\nand\tcare\tneeds,\n\u2022\t developing\tfurther\tunderstanding\tof\twhat\t\ncan\tbe\tdelivered\tthrough\tpeople\tin\tlocal\n\n[Document 7] From https://www (pdf) - URL: https://www.nottinghamcity.gov.uk/information-for-residents/health-and-social-care/adult-social-care/support-if-you-care-or-look-after-someone/ - 52 pages [Retrieved via: semantic_original]:\n[Page 43]\n 43 \nSocial opportunities \nand activities for carers\nThe Carers Hub and Young Carers Notts off  er a wide range of \nsocial opportunities and activities for carers of all ages.\nhttps:/ /carershub.carersfederation.co.uk/support-groups/\nThey also have information about other local support groups \nthat are available.\nhttps:/ /carershub.carersfederation.co.uk/whats-new-in-your-\narea/\nAsk Lion (City) and Nottshelpyourself (County) are \ndirectories of support groups and activities.\nwww.asklion.co.uk/kb5/nottingham/directory/home.page\nwww.nottshelpyourself.org.uk/kb5/nottinghamshire/\ndirectory/home.page\n\n[Document 8] From https://www (pdf) - URL: https://www.nottinghamcity.gov.uk/information-for-residents/health-and-social-care/adult-social-care/financial-and-legal-support/social-care-needs-assessment/ - 2 pages [Retrieved via: semantic_original]:\n[Page 1]\n \n \n \n \nSome people need practical support to do the everyday things t hat most of us take for \ngranted. The social care system provides this support for those who need it, to help \nthem keep their independence and dignity.  Nottingham City Council Adult Social Care \nTeam is responsible for assessing people\u2019s need for social care services in Nottingham \nCity.  \nWhen someone contact s us the first step will be to have an assessment to establish i f \nyou can receive services. There is a national guidance on this but each authority sets \nits own criteria  on eligibility  for services. If you are assessed and told you meet our \nrequirements then the council is obliged by law  to help. If you are not eligible for \nservices we will support you by signposting you to other sources of help and support.  \nAm I eligible?   \nTo find out if you are eligible for adult social care services in Nottingham please call the \nNottingham City Health and Care Point on 0300 300 3333.\n\n[Document 9] From https://www (pdf) - URL: https://www.nottinghamcity.gov.uk/information-for-residents/health-and-social-care/adult-social-care/support-if-you-care-or-look-after-someone/ - 52 pages [Retrieved via: semantic_original]:\n[Page 1]\nInformation \nfor carers\nin Nottingham\nand NottinghamshireDo you \nlook after look after \nsomeone?someone?\n\n\n[Page 2 - FINANCIAL/BUDGET INFORMATION]\nAre you a carer? 4\nHelp and support for the person you care for 7\nWhere to start checklist 10\nRegistering as a carer with your GP 12\nAssessing your needs as a carer 14\nEmergency planning 15\nBene\ufb01  ts advice 16\nManaging the cost of care 18\nInformation, advice and support for carers 19\nSupport for young carers 22\nWorking and caring 24\nAccessing education or training 26\nIf you\u2019re struggling with caring 28\nRaising an issue 30 \nAdvocacy 31\nKeeping people safe 33\nHospital stays and caring 36\nHealth and Wellbeing 38\nBreaks from caring 39 \nSocial opportunities and activities for carers 43\nOnline support for carers 44\nGetting involved and co-production 45\nUseful contacts and links 47\nNotes 50Contents\n\n[Document 10] From https://www (pdf) - URL: https://www.nottinghamcity.gov.uk/information-for-residents/health-and-social-care/adult-social-care/better-lives-better-outcomes/ - 39 pages [Retrieved via: semantic_original]:\nformal care services. \nNottingham prides itself on being a city where \ncitizens should be able to fulfil their potential and we think this applies to all stages of life and to all citizens. Our strategy is about the support to older and disabled adults in our city. The council has a key role to play in this, but we also know that families, carers, communities and other organisations make a vital contribution. This is why we see this strategy as creating a vision for outcomes which we can work together to deliver. \nc)  t he demographic context\nIn 2017/18, Nottingham City Council supported over 7,300 older and disabled adults, along with over 1,500 carers, spending in total over \u00a3100m on adult social care. There were over 22,000 contacts with adult social care, with 9,000 of these being new contacts.\n",
+  "answer": "In Nottingham, social care users have access to a variety of resources and support services, including advocacy and complaints services. These services are designed to help individuals maintain independence and receive the care they need.\n\n**Key Resources and Support Services:**\n\n- **Advocacy Services:** While specific details about advocacy services are not provided in the documents, Nottingham City Council offers support through various community connections and partnerships. For more information, individuals can contact the Nottingham City Health and Care Point at **0300 300 3333**.\n\n- **Complaints Services:** If you have feedback or need to raise an issue regarding social care services, you can email **betterlivesbetteroutcomes@nottinghamcity.gov.uk**. This is part of the council's strategy to improve services and outcomes for residents.\n\n- **Carers Support:** Carers in Nottingham can access a range of services, including support groups, health and leisure activities, one-to-one guidance, and respite care. The Carers Hub and Young Carers Notts provide social opportunities and activities for carers of all ages. More information can be found at [Carers Hub](https://carershub.carersfederation.co.uk/support-groups/).\n\n- **Information and Advice:** The Adult Social Care Hub provides information and advice on accessing community resources, safeguarding, and financial guidance. Visit the [Adult Social Care Hub](https://healthandsocialcareportal.nottinghamcity.gov.uk/web/portal/pages/home) for more details.\n\n- **Directories of Support:** Ask Lion and Nottshelpyourself are online directories where you can find local support groups and activities. Visit [Ask Lion](www.asklion.co.uk/kb5/nottingham/directory/home.page) and [Nottshelpyourself](www.nottshelpyourself.org.uk/kb5/nottinghamshire/directory/home.page) for more information.\n\nFor further assistance or to explore more about the services available, individuals are encouraged to visit the Nottingham City Council's website or contact the relevant departments directly.",
+  "metrics": {
+    "duration_seconds": 15.992205619812012,
+    "retrieved_docs_count": 10,
+    "query_length": 141,
+    "answer_length": 2049,
+    "retrieval_method": "enhanced",
+    "context_utilization": 0.2278177458033573,
+    "citations_count": 1,
+    "has_citations": true,
+    "query_relevance": 0.8461538461538461,
+    "unique_retrieval_methods": 1,
+    "budget_documents_retrieved": 8,
+    "retrieval_methods_used": [
+      "semantic_original"
+    ],
+    "retrieval_method_distribution": {
+      "semantic_original": 10
+    }
+  },
+  "local_authority": "nottingham",
+  "query_id": "std_4",
+  "retrieval_method": "enhanced",
+  "run_id": "6bb48448-6df2-48ad-89c3-25dbc673096f",
+  "trace": {
+    "run_id": "6bb48448-6df2-48ad-89c3-25dbc673096f",
+    "project": "social_care_rag",
+    "url": "https://eu.smith.langchain.com/o/me/runs/6bb48448-6df2-48ad-89c3-25dbc673096f"
+  },
+  "test_metadata": {
+    "local_authority": "nottingham",
+    "query_id": "std_4",
+    "query_category": "service_standard",
+    "prompt_variation": "optimized",
+    "prompt_template": "\nPlease answer the following question about social care services in UK local authorities based only on the information in the provided documents.\n\nQuestion: {query}\n\nContext from relevant documents:\n{context}\n\nInstructions:\n1. Provide a clear, direct answer that would help someone needing this information. If information isn't available, state: \"The available documents don't provide specific information about [aspect].\"\n\n2. Synthesize information from ALL relevant documents to provide the most complete answer rather than analyzing documents individually.\n\n3. Structure your response with:\n   - A concise 1-2 sentence summary first\n   - Relevant details organized in short, clear paragraphs\n   - Bullet points for lists or step-by-step information\n   - Bold text for key information the user should notice\n\n4. For financial information:\n   - Include exact figures, time periods, and what the funding covers\n   - Present financial data clearly: \"The adult social care budget is **\u00a3X million** for [time period]\"\n\n5. Always include practical next steps or resources:\n   - Provide contact information, URLs, or application methods mentioned in the documents\n   - Suggest where the person could find more information\n\n6. When citing sources, use a simple format: \"According to [document name/description]\" or include URLs where available.\n\nAnswer:\n",
+    "processing_time": 15.99497389793396,
+    "timestamp": "2025-08-19T14:08:40.887488",
+    "top_k": 10
+  }
+}

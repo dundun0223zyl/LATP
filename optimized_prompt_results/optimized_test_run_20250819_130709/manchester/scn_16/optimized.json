@@ -1,0 +1,299 @@
+{
+  "query": "My care needs assessment in manchester says I need 20 hours of home care weekly, but I'm worried about costs. What financial help is available?",
+  "retrieved_documents": [
+    {
+      "content": "(Appendix D) and financially assess you after this period (see Section 9),  \nIf you have access to savings and investments that are above \u00a323,250 (not including \nyour main home) :  \n\u2022 You will usually need to arrange to be placed  and pay for the care home yourself . \nIf you choose a care home in Manchester , you can contact us when your savings \nand investments drop below \u00a323,250 . We will then assess your finances to check \nthat there has been no ineligible spending (deprivation of capital, see Appendix \nE). If the care home you choose is in another Council\u2019s area, you will need to \ncontact that Council when your savings drop below \u00a323,250 .",
+      "metadata": {
+        "chunk_id": 12,
+        "contains_financial_info": true,
+        "download_url": "",
+        "extraction_method": "PyPDF2",
+        "filename": "residential_charging_policy_2025-2026.pdf",
+        "financial_pages": "[2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 21]",
+        "level": "level_2",
+        "page_count": 21,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21]",
+        "source": "residential_charging_policy_2025-2026.pdf",
+        "source_url": "",
+        "total_chunks": 51,
+        "type": "pdf"
+      },
+      "id": "9ec5e66e-f822-4e98-94b3-2f9104e6b3ac",
+      "distance": 0.45787230134010315,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.21263830959796903,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Health and wellbeing Care homes If you're starting to think about finding a care home for yourself or a friend or family member, speak to our contact service first as we can look at all your needs in one go, and there might be other alternatives to help you stay in your own home. There are also several other options for housing for older people , which can be suitable when you can't manage in your own home, but don't need the round-the-clock support offered by care or\u00a0nursing homes. You can find out about care homes and the services they offer by searching on Help and Support Manchester .\u00a0This includes\u00a0their latest assessment by the Care Quality Commission ,\u00a0a national organisation charged with monitoring the quality of all care services",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.manchester.gov.uk_info_200048_health_and_wellbeing_4520_choosing_and_paying_for_a_care_home.txt",
+        "level": "level_1",
+        "source": "http://www.manchester.gov.uk/info/200048/health_and_wellbeing/4520/choosing_and_paying_for_a_care_home",
+        "source_url": "http://www.manchester.gov.uk/info/200048/health_and_wellbeing/4520/choosing_and_paying_for_a_care_home",
+        "total_chunks": 3,
+        "type": "web_page"
+      },
+      "id": "58bc450b-3521-400a-ae44-a80e4c307d81",
+      "distance": 0.5530361304774327,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.18408916085677018,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". We\u00a0recommend you check if there are any costs. These\u00a0services are often\u00a0run by charities. They\u00a0provide general financial advice about charging and payment arrangements which may help you to understand your financial options and plan your next steps. Regulated Independent Financial Advice This is a fee-based service for which you will be charged. It is a personalised service provided by the financial services industry. Depending on your circumstances, it may provide access to financial products that\u00a0could support your care plans and financial goals. It is important that you find a suitably qualified independent financial adviser\u00a0and understand how much you will be required to pay for their advice. It\u00a0may be an hourly rate or a set fee. You can find providers of independent financial advice on our service directory - Help and Support Manchester . If you are unhappy with the service received, you can contact the Financial Services Ombudsman",
+      "metadata": {
+        "chunk_id": 3,
+        "filename": "www.manchester.gov.uk_info_100010_social_services_372_paying_for_social_care_and_support_2.txt",
+        "level": "level_2",
+        "source": "https://www.manchester.gov.uk/info/100010/social_services/372/paying_for_social_care_and_support/2",
+        "source_url": "https://www.manchester.gov.uk/info/100010/social_services/372/paying_for_social_care_and_support/2",
+        "total_chunks": 5,
+        "type": "web_page"
+      },
+      "id": "e5a371f7-c707-40e1-a0ac-7711e5bcff78",
+      "distance": 0.5916821956634521,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.17249534130096433,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Shared Lives: Long Term Shared Lives placement: \u00a3402.42 per week Supported Lodgings\u00a0placement: \u00a3314.30 per week Sessional\u00a0support\u00a0in\u00a0the\u00a0community\u00a0or\u00a0customer's\u00a0home\u00a0(Short\u00a0term): Monday to Sunday - 8am to 6pm is \u00a311.44 per hour Mileage is 0.45p per mile Shared Lives Family Short Breaks Overnight rates without Personal care: Total Payment \u00a368.76 Overnight rates with\u00a0Personal care: Shared Lives contribution - Total payment: \u00a3100.40 Shared Lives Link Short Breaks: High rate Provider contribution : \u00a314.00 per night Shared Lives contribution: \u00a386.40\u00a0per night Total payment: \u00a3100.40 Low rate Provider contribution: \u00a314.00 per night Shared Lives\u00a0contribution: \u00a347.99 Total payment: \u00a361.99 per night In addition to the above payments, carers will also receive the following weekly payments: \u00a395 rent \u00a310 household contribution Tax and National Insurance Providers are not employees of Manchester City Council but are viewed as self-employed",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.manchester.gov.uk_info_200015_carers_6601_apply_to_become_a_shared_lives_carer_5.txt",
+        "level": "level_3",
+        "source": "https://www.manchester.gov.uk/info/200015/carers/6601/apply_to_become_a_shared_lives_carer/5",
+        "source_url": "https://www.manchester.gov.uk/info/200015/carers/6601/apply_to_become_a_shared_lives_carer/5",
+        "total_chunks": 5,
+        "type": "web_page"
+      },
+      "id": "ca7a3196-6f57-4474-a93d-f490f2f774e6",
+      "distance": 0.5922176837921143,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.17233469486236572,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "would  also: \n\uf0a7 Consider  any housing or independent living costs  that you may have,  \n\uf0a7 Not count any Attendance Allowance or Disability Living Allowance as eligible income,  \n\uf0a7 Not allow you to enter into a Deferred Payment Agreement.  \nIf you have more than \u00a323,250  (not including the value of your main home)  \n\u2022 Your care assessor will usually advise you to make your own placement \narrangements as a private payer. However , if the Council makes the placement \nand contracts with the residential home, you will be charged for the full cost of the \nplacement . \n Permanent Stay  in a Care Home  \nIf you have less than \u00a323,250 in savings and investments (not including your main \nhome):  \n\u2022 we can charge you a set fee (Light Touch Assessment) for the first four weeks \n(Appendix D) and financially assess you after this period (see Section 9),  \nIf you have access to savings and investments that are above \u00a323,250 (not including \nyour main home) :",
+      "metadata": {
+        "chunk_id": 11,
+        "contains_financial_info": true,
+        "download_url": "",
+        "extraction_method": "PyPDF2",
+        "filename": "residential_charging_policy_2025-2026.pdf",
+        "financial_pages": "[2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 21]",
+        "level": "level_2",
+        "page_count": 21,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21]",
+        "source": "residential_charging_policy_2025-2026.pdf",
+        "source_url": "",
+        "total_chunks": 51,
+        "type": "pdf"
+      },
+      "id": "52082ca1-2538-4da7-9286-8e5d822367e3",
+      "distance": 0.5951122641563416,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.17146632075309753,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Social services Paying for social care and support Working out your contributions Independent financial advice for care charges How to pay your contribution Queries about your statement or problems making payments Deferred payments for residential care Residential Care Top Ups Working out your contributions Social care, unlike health care, is not free, so following on from your Care Needs Assessment, which works out what support you need and how much it will cost to provide, we\u2019ll offer to complete a financial assessment to work out how much of that cost Manchester City Council can cover, and how much you\u2019ll need to pay for yourself. Depending on the amount of\u00a0income, savings or assets you have, you may have to contribute towards some or all of your social care and support services. There are Government guidelines on how much you can have in savings or assets before you will be asked to pay for your support. Like all Local Authorities, we are obliged to follow these rules",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.manchester.gov.uk_info_100010_social_care_and_support_372_paying_for_social_care_and_support.txt",
+        "level": "level_1",
+        "source": "http://www.manchester.gov.uk/info/100010/social_care_and_support/372/paying_for_social_care_and_support",
+        "source_url": "http://www.manchester.gov.uk/info/100010/social_care_and_support/372/paying_for_social_care_and_support",
+        "total_chunks": 6,
+        "type": "web_page"
+      },
+      "id": "e4f0331b-8413-4c89-8f01-9bcd47d06cb6",
+      "distance": 0.5977296047692697,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.17068111856921908,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Social services Paying for social care and support Working out your contributions Independent financial advice for care charges How to pay your contribution Queries about your statement or problems making payments Deferred payments for residential care Residential Care Top Ups Working out your contributions Social care, unlike health care, is not free, so following on from your Care Needs Assessment, which works out what support you need and how much it will cost to provide, we\u2019ll offer to complete a financial assessment to work out how much of that cost Manchester City Council can cover, and how much you\u2019ll need to pay for yourself. Depending on the amount of\u00a0income, savings or assets you have, you may have to contribute towards some or all of your social care and support services. There are Government guidelines on how much you can have in savings or assets before you will be asked to pay for your support. Like all Local Authorities, we are obliged to follow these rules",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.manchester.gov.uk_info_100010_social_services_372_paying_for_social_care_and_support.txt",
+        "level": "level_2",
+        "source": "https://www.manchester.gov.uk/info/100010/social_services/372/paying_for_social_care_and_support",
+        "source_url": "https://www.manchester.gov.uk/info/100010/social_services/372/paying_for_social_care_and_support",
+        "total_chunks": 6,
+        "type": "web_page"
+      },
+      "id": "635bb782-c981-4254-a461-2bd6279d7a24",
+      "distance": 0.5977296233177185,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.17068111300468444,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "cost of any care you may receive.   \nIf you are not eligible for Council Funding because you have capital  over \u00a323,250 \n(excluding, the value of your main or only home)  your care assessor can assist you  with \nfinding a placement . In most cases  they will advise you to make private funding \narrangements with the residential home you choose.  \nIf you have capital over \u00a323,250 but do not have the capacity to deal with your own finances and do not  have a Power of Attorney/Deputy dealing with your affairs, the \nCouncil will arrange the payment of your placement until someone can manage your \nfinances . You will be invoiced for the full cost of the placement  until a Power of Attorney \nor Deputy has been appointed. If you still have capital of over \u00a323,250 once the \noutstanding charges have been paid, you will be advised to make private funding \narrangement s with the residential home,  and we will stop paying the home.  \nIn this policy w hen w e say, \u2018us\u2019 or \u2018we ,\u2019 we mean Manchester City Council. When we",
+      "metadata": {
+        "chunk_id": 5,
+        "contains_financial_info": true,
+        "download_url": "",
+        "extraction_method": "PyPDF2",
+        "filename": "residential_charging_policy_2025-2026.pdf",
+        "financial_pages": "[2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 21]",
+        "level": "level_2",
+        "page_count": 21,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21]",
+        "source": "residential_charging_policy_2025-2026.pdf",
+        "source_url": "",
+        "total_chunks": 51,
+        "type": "pdf"
+      },
+      "id": "613cea60-8370-4edc-b90a-7b850aae8d4e",
+      "distance": 0.6571412682533264,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.15285761952400206,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Grants for Care Leavers: Help accessing financial grants available to care leavers. Important: Keep all your important documents safe. We cannot fund replacements if they are lost. Financial Support for Young People Leaving Care We have a comprehensive financial support package for young people leaving care, which is detailed in our Leaving Care Financial Policy . Manchester Leaving Care Financial Entitlements Money Management Advice: Guidance on managing your finances and budgeting for education, employment, and independent living. Maintenance Allowance: Receive \u00a358.90 per week if you are 16 or 17 years old, or a relevant care leaver living independently or semi-independently. Clothing Allowance: For 16 and 17-year-olds living in semi-independent accommodation. Benefits Support: Assistance in claiming eligible benefits up to six weeks before your 18th birthday if you are in education or have a low income. Bridging payments may be available",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.manchester.gov.uk_info_500319_care_leavers_8897_money_matters.txt",
+        "level": "level_2",
+        "source": "https://www.manchester.gov.uk/info/500319/care_leavers/8897/money_matters",
+        "source_url": "https://www.manchester.gov.uk/info/500319/care_leavers/8897/money_matters",
+        "total_chunks": 6,
+        "type": "web_page"
+      },
+      "id": "d928812e-585e-46cc-ae02-0b05e5a884e3",
+      "distance": 0.6925969123840332,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.14222092628479005,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 9 - FINANCIAL/BUDGET INFORMATION]\n \n \nVersion 1.0        \n9 permanent care (as a private resident for example) you may not be entitled to a \ndisregard for the full 12 weeks  from when we start funding the placement .  \n\u2022 During the disregard period you will still be assessed on your eligible income and \nother capital i.e.  you will still be charged in accordance with your financial \nassessment.  \n\u2022 Once the disregard period has ended, another financial assessment will be \ncalculated based on the property\u2019s value (excluding any outstanding mortgage) \nand your share of it.  \n\u2022 If, this means  your savings and assets  (including the equity in the house)  are \nover \u00a323,250 at that point,  we will ask you to pay the full cost of your care.   \n\u2022 If you cannot immediately meet the full cost of your care, you must apply to join \nthe councils deferred payment scheme.  \n10.1 If you own any additional properties that are not occupied as  your main or only",
+      "metadata": {
+        "chunk_id": 19,
+        "contains_financial_info": true,
+        "download_url": "",
+        "extraction_method": "PyPDF2",
+        "filename": "residential_charging_policy_2025-2026.pdf",
+        "financial_pages": "[2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 21]",
+        "level": "level_2",
+        "page_count": 21,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21]",
+        "source": "residential_charging_policy_2025-2026.pdf",
+        "source_url": "",
+        "total_chunks": 51,
+        "type": "pdf"
+      },
+      "id": "5f6b937f-00b2-44c0-8595-0a200c4034e0",
+      "distance": 0.7002692818641663,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.13991921544075012,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 5,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    }
+  ],
+  "context": "[Document 1] From residential charging policy 2025 2026 (pdf) - 21 pages [Retrieved via: semantic_original]:\n(Appendix D) and financially assess you after this period (see Section 9),  \nIf you have access to savings and investments that are above \u00a323,250 (not including \nyour main home) :  \n\u2022 You will usually need to arrange to be placed  and pay for the care home yourself . \nIf you choose a care home in Manchester , you can contact us when your savings \nand investments drop below \u00a323,250 . We will then assess your finances to check \nthat there has been no ineligible spending (deprivation of capital, see Appendix \nE). If the care home you choose is in another Council\u2019s area, you will need to \ncontact that Council when your savings drop below \u00a323,250 .\n\n[Document 2] From http://www (web_page) - URL: http://www.manchester.gov.uk/info/200048/health_and_wellbeing/4520/choosing_and_paying_for_a_care_home [Retrieved via: semantic_original]:\nHealth and wellbeing Care homes If you're starting to think about finding a care home for yourself or a friend or family member, speak to our contact service first as we can look at all your needs in one go, and there might be other alternatives to help you stay in your own home. There are also several other options for housing for older people , which can be suitable when you can't manage in your own home, but don't need the round-the-clock support offered by care or\u00a0nursing homes. You can find out about care homes and the services they offer by searching on Help and Support Manchester .\u00a0This includes\u00a0their latest assessment by the Care Quality Commission ,\u00a0a national organisation charged with monitoring the quality of all care services\n\n[Document 3] From https://www (web_page) - URL: https://www.manchester.gov.uk/info/100010/social_services/372/paying_for_social_care_and_support/2 [Retrieved via: semantic_original]:\n. We\u00a0recommend you check if there are any costs. These\u00a0services are often\u00a0run by charities. They\u00a0provide general financial advice about charging and payment arrangements which may help you to understand your financial options and plan your next steps. Regulated Independent Financial Advice This is a fee-based service for which you will be charged. It is a personalised service provided by the financial services industry. Depending on your circumstances, it may provide access to financial products that\u00a0could support your care plans and financial goals. It is important that you find a suitably qualified independent financial adviser\u00a0and understand how much you will be required to pay for their advice. It\u00a0may be an hourly rate or a set fee. You can find providers of independent financial advice on our service directory - Help and Support Manchester . If you are unhappy with the service received, you can contact the Financial Services Ombudsman\n\n[Document 4] From https://www (web_page) - URL: https://www.manchester.gov.uk/info/200015/carers/6601/apply_to_become_a_shared_lives_carer/5 [Retrieved via: semantic_original]:\n. Shared Lives: Long Term Shared Lives placement: \u00a3402.42 per week Supported Lodgings\u00a0placement: \u00a3314.30 per week Sessional\u00a0support\u00a0in\u00a0the\u00a0community\u00a0or\u00a0customer's\u00a0home\u00a0(Short\u00a0term): Monday to Sunday - 8am to 6pm is \u00a311.44 per hour Mileage is 0.45p per mile Shared Lives Family Short Breaks Overnight rates without Personal care: Total Payment \u00a368.76 Overnight rates with\u00a0Personal care: Shared Lives contribution - Total payment: \u00a3100.40 Shared Lives Link Short Breaks: High rate Provider contribution : \u00a314.00 per night Shared Lives contribution: \u00a386.40\u00a0per night Total payment: \u00a3100.40 Low rate Provider contribution: \u00a314.00 per night Shared Lives\u00a0contribution: \u00a347.99 Total payment: \u00a361.99 per night In addition to the above payments, carers will also receive the following weekly payments: \u00a395 rent \u00a310 household contribution Tax and National Insurance Providers are not employees of Manchester City Council but are viewed as self-employed\n\n[Document 5] From residential charging policy 2025 2026 (pdf) - 21 pages [Retrieved via: semantic_original]:\nwould  also: \n\uf0a7 Consider  any housing or independent living costs  that you may have,  \n\uf0a7 Not count any Attendance Allowance or Disability Living Allowance as eligible income,  \n\uf0a7 Not allow you to enter into a Deferred Payment Agreement.  \nIf you have more than \u00a323,250  (not including the value of your main home)  \n\u2022 Your care assessor will usually advise you to make your own placement \narrangements as a private payer. However , if the Council makes the placement \nand contracts with the residential home, you will be charged for the full cost of the \nplacement . \n Permanent Stay  in a Care Home  \nIf you have less than \u00a323,250 in savings and investments (not including your main \nhome):  \n\u2022 we can charge you a set fee (Light Touch Assessment) for the first four weeks \n(Appendix D) and financially assess you after this period (see Section 9),  \nIf you have access to savings and investments that are above \u00a323,250 (not including \nyour main home) :\n\n[Document 6] From http://www (web_page) - URL: http://www.manchester.gov.uk/info/100010/social_care_and_support/372/paying_for_social_care_and_support [Retrieved via: semantic_original]:\nSocial services Paying for social care and support Working out your contributions Independent financial advice for care charges How to pay your contribution Queries about your statement or problems making payments Deferred payments for residential care Residential Care Top Ups Working out your contributions Social care, unlike health care, is not free, so following on from your Care Needs Assessment, which works out what support you need and how much it will cost to provide, we\u2019ll offer to complete a financial assessment to work out how much of that cost Manchester City Council can cover, and how much you\u2019ll need to pay for yourself. Depending on the amount of\u00a0income, savings or assets you have, you may have to contribute towards some or all of your social care and support services. There are Government guidelines on how much you can have in savings or assets before you will be asked to pay for your support. Like all Local Authorities, we are obliged to follow these rules\n\n[Document 7] From https://www (web_page) - URL: https://www.manchester.gov.uk/info/100010/social_services/372/paying_for_social_care_and_support [Retrieved via: semantic_original]:\nSocial services Paying for social care and support Working out your contributions Independent financial advice for care charges How to pay your contribution Queries about your statement or problems making payments Deferred payments for residential care Residential Care Top Ups Working out your contributions Social care, unlike health care, is not free, so following on from your Care Needs Assessment, which works out what support you need and how much it will cost to provide, we\u2019ll offer to complete a financial assessment to work out how much of that cost Manchester City Council can cover, and how much you\u2019ll need to pay for yourself. Depending on the amount of\u00a0income, savings or assets you have, you may have to contribute towards some or all of your social care and support services. There are Government guidelines on how much you can have in savings or assets before you will be asked to pay for your support. Like all Local Authorities, we are obliged to follow these rules\n\n[Document 8] From residential charging policy 2025 2026 (pdf) - 21 pages [Retrieved via: semantic_original]:\ncost of any care you may receive.   \nIf you are not eligible for Council Funding because you have capital  over \u00a323,250 \n(excluding, the value of your main or only home)  your care assessor can assist you  with \nfinding a placement . In most cases  they will advise you to make private funding \narrangements with the residential home you choose.  \nIf you have capital over \u00a323,250 but do not have the capacity to deal with your own finances and do not  have a Power of Attorney/Deputy dealing with your affairs, the \nCouncil will arrange the payment of your placement until someone can manage your \nfinances . You will be invoiced for the full cost of the placement  until a Power of Attorney \nor Deputy has been appointed. If you still have capital of over \u00a323,250 once the \noutstanding charges have been paid, you will be advised to make private funding \narrangement s with the residential home,  and we will stop paying the home.  \nIn this policy w hen w e say, \u2018us\u2019 or \u2018we ,\u2019 we mean Manchester City Council. When we\n\n[Document 9] From https://www (web_page) - URL: https://www.manchester.gov.uk/info/500319/care_leavers/8897/money_matters [Retrieved via: semantic_original]:\n. Grants for Care Leavers: Help accessing financial grants available to care leavers. Important: Keep all your important documents safe. We cannot fund replacements if they are lost. Financial Support for Young People Leaving Care We have a comprehensive financial support package for young people leaving care, which is detailed in our Leaving Care Financial Policy . Manchester Leaving Care Financial Entitlements Money Management Advice: Guidance on managing your finances and budgeting for education, employment, and independent living. Maintenance Allowance: Receive \u00a358.90 per week if you are 16 or 17 years old, or a relevant care leaver living independently or semi-independently. Clothing Allowance: For 16 and 17-year-olds living in semi-independent accommodation. Benefits Support: Assistance in claiming eligible benefits up to six weeks before your 18th birthday if you are in education or have a low income. Bridging payments may be available\n\n[Document 10] From residential charging policy 2025 2026 (pdf) - 21 pages [Retrieved via: semantic_original]:\n[Page 9 - FINANCIAL/BUDGET INFORMATION]\n \n \nVersion 1.0        \n9 permanent care (as a private resident for example) you may not be entitled to a \ndisregard for the full 12 weeks  from when we start funding the placement .  \n\u2022 During the disregard period you will still be assessed on your eligible income and \nother capital i.e.  you will still be charged in accordance with your financial \nassessment.  \n\u2022 Once the disregard period has ended, another financial assessment will be \ncalculated based on the property\u2019s value (excluding any outstanding mortgage) \nand your share of it.  \n\u2022 If, this means  your savings and assets  (including the equity in the house)  are \nover \u00a323,250 at that point,  we will ask you to pay the full cost of your care.   \n\u2022 If you cannot immediately meet the full cost of your care, you must apply to join \nthe councils deferred payment scheme.  \n10.1 If you own any additional properties that are not occupied as  your main or only\n",
+  "answer": "If you are concerned about the costs of your home care in Manchester, financial assistance may be available depending on your financial situation. **Manchester City Council will conduct a financial assessment** to determine how much of the care costs they can cover and how much you will need to contribute yourself.\n\n- **Savings and Assets**: If you have savings and investments below **\u00a323,250** (excluding your main home), you may qualify for financial support from the council. If your savings exceed this amount, you will typically be required to pay for your care yourself (Documents 1, 5, 6).\n\n- **Financial Assessment**: The council will offer to complete a financial assessment after your Care Needs Assessment. This assessment will consider your income, savings, and assets to determine your contribution towards the care costs (Document 6).\n\n- **Independent Financial Advice**: You can seek independent financial advice to explore financial products that might support your care plans. This service is fee-based, and you can find providers through the Help and Support Manchester directory (Document 3).\n\nFor more detailed information or to start the financial assessment process, you can visit the Manchester City Council's website on paying for social care and support: [Manchester City Council - Paying for Social Care](https://www.manchester.gov.uk/info/100010/social_services/372/paying_for_social_care_and_support).",
+  "metrics": {
+    "duration_seconds": 18.55399990081787,
+    "retrieved_docs_count": 10,
+    "query_length": 143,
+    "answer_length": 1432,
+    "retrieval_method": "enhanced",
+    "context_utilization": 0.1843817787418655,
+    "citations_count": 1,
+    "has_citations": true,
+    "query_relevance": 0.6666666666666666,
+    "unique_retrieval_methods": 1,
+    "budget_documents_retrieved": 4,
+    "retrieval_methods_used": [
+      "semantic_original"
+    ],
+    "retrieval_method_distribution": {
+      "semantic_original": 10
+    }
+  },
+  "local_authority": "manchester",
+  "query_id": "scn_16",
+  "retrieval_method": "enhanced",
+  "run_id": "d29f0a39-f65e-463b-a474-404675ee40cf",
+  "trace": {
+    "run_id": "d29f0a39-f65e-463b-a474-404675ee40cf",
+    "project": "social_care_rag",
+    "url": "https://eu.smith.langchain.com/o/me/runs/d29f0a39-f65e-463b-a474-404675ee40cf"
+  },
+  "test_metadata": {
+    "local_authority": "manchester",
+    "query_id": "scn_16",
+    "query_category": "financial_scenarios",
+    "prompt_variation": "optimized",
+    "prompt_template": "\nPlease answer the following question about social care services in UK local authorities based only on the information in the provided documents.\n\nQuestion: {query}\n\nContext from relevant documents:\n{context}\n\nInstructions:\n1. Provide a clear, direct answer that would help someone needing this information. If information isn't available, state: \"The available documents don't provide specific information about [aspect].\"\n\n2. Synthesize information from ALL relevant documents to provide the most complete answer rather than analyzing documents individually.\n\n3. Structure your response with:\n   - A concise 1-2 sentence summary first\n   - Relevant details organized in short, clear paragraphs\n   - Bullet points for lists or step-by-step information\n   - Bold text for key information the user should notice\n\n4. For financial information:\n   - Include exact figures, time periods, and what the funding covers\n   - Present financial data clearly: \"The adult social care budget is **\u00a3X million** for [time period]\"\n\n5. Always include practical next steps or resources:\n   - Provide contact information, URLs, or application methods mentioned in the documents\n   - Suggest where the person could find more information\n\n6. When citing sources, use a simple format: \"According to [document name/description]\" or include URLs where available.\n\nAnswer:\n",
+    "processing_time": 18.556766033172607,
+    "timestamp": "2025-08-19T14:06:03.342743",
+    "top_k": 10
+  }
+}

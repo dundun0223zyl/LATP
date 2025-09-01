@@ -1,0 +1,275 @@
+{
+  "query": "I'm experiencing domestic abuse in Birmingham and need to leave with my children. What emergency social care and housing support can I access?",
+  "retrieved_documents": [
+    {
+      "content": ". During the conversation, they will aim to identify your strengths and needs. They will also provide advice and information on services or local community resources that may help you. Contact Adult Social Care services Other support options Birmingham Connect to Support Community Directory Visit our connect to support website community directory . Here you can access a range of groups, activities and local resources that may help you. Birmingham Carer\u2019s HUB The Birmingham Carer\u2019s HUB can offer a wide range of support and services to carers in Birmingham. The HUB is delivered by Forward Carers on behalf of the council. Support for children The Children's Advice and Support Service (CASS) can offer information to help children (from birth to 17 years old)",
+      "metadata": {
+        "chunk_id": 3,
+        "filename": "www.birmingham.gov.uk_info_20061_help_for_people_with_specific_needs_and_disabilities_139_services_f.txt",
+        "level": "level_2",
+        "source": "https://www.birmingham.gov.uk/info/20061/help_for_people_with_specific_needs_and_disabilities/139/services_for_adults_with_sight_or_hearing_loss",
+        "source_url": "https://www.birmingham.gov.uk/info/20061/help_for_people_with_specific_needs_and_disabilities/139/services_for_adults_with_sight_or_hearing_loss",
+        "total_chunks": 5,
+        "type": "web_page"
+      },
+      "id": "4262039f-45fc-44ce-bdef-c8957164e592",
+      "distance": 0.5465716123580933,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.186028516292572,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". During the conversation, they will aim to identify your strengths and needs. They will also provide advice and information on services or local community resources that may help you. Contact Adult Social Care services Other support options Birmingham Connect to Support Community Directory Visit our connect to support website community directory . Here you can access a range of groups, activities and local resources that may help you. Birmingham Carer\u2019s HUB The Birmingham Carer\u2019s HUB can offer a wide range of support and services to carers in Birmingham. The HUB is delivered by Forward Carers on behalf of the council. Support for children The Children's Advice and Support Service (CASS) can offer information to help children (from birth to 17 years old)",
+      "metadata": {
+        "chunk_id": 3,
+        "filename": "www.birmingham.gov.uk_info_20061_help_for_people_with_specific_needs_and_disabilities_139_services_f.txt",
+        "level": "level_2",
+        "source": "https://www.birmingham.gov.uk/info/20061/help_for_people_with_specific_needs_and_disabilities/139/services_for_adults_with_sight_or_hearing_loss",
+        "source_url": "https://www.birmingham.gov.uk/info/20061/help_for_people_with_specific_needs_and_disabilities/139/services_for_adults_with_sight_or_hearing_loss",
+        "total_chunks": 5,
+        "type": "web_page"
+      },
+      "id": "214e32ba-b760-484f-8427-03c403b099d9",
+      "distance": 0.5465716123580933,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.186028516292572,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Adult Social Care Support free access and self-referral support offers Birmingham Adult Social Care works with people to help them stay independent and in their own home and community for as long as possible. One way we do this is to provide free access to a range of offers so that people with low level adult social care needs and those worried about issues can get support to help tackle these things early on. This page brings together all in one place these information, advice and support. Information and Support for Carers If you are caring for someone due to old age, disability, serious illness or addition there is a range of help for you. More Information on support for carers Birmingham Carers Hub Birmingham Connect to Support Birmingham Connect to Support is a website that provides information and advice on social care for adults across a wide range of areas. It also has a directory of hundreds of community and city wide organisations that can provide support, activities and groups in your area",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.birmingham.gov.uk_info_20018_adult_social_care_2808_adult_social_care_support_free_access_and_se.txt",
+        "level": "level_1",
+        "source": "https://www.birmingham.gov.uk/info/20018/adult_social_care/2808/adult_social_care_support_free_access_and_self-referral_support_offers",
+        "source_url": "https://www.birmingham.gov.uk/info/20018/adult_social_care/2808/adult_social_care_support_free_access_and_self-referral_support_offers",
+        "total_chunks": 6,
+        "type": "web_page"
+      },
+      "id": "f9027662-a5dc-4d10-abcf-73202e6719ac",
+      "distance": 0.5657718181610107,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.18026845455169677,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Adult Social Care Support free access and self-referral support offers Birmingham Adult Social Care works with people to help them stay independent and in their own home and community for as long as possible. One way we do this is to provide free access to a range of offers so that people with low level adult social care needs and those worried about issues can get support to help tackle these things early on. This page brings together all in one place these information, advice and support. Information and Support for Carers If you are caring for someone due to old age, disability, serious illness or addition there is a range of help for you. More Information on support for carers Birmingham Carers Hub Birmingham Connect to Support Birmingham Connect to Support is a website that provides information and advice on social care for adults across a wide range of areas. It also has a directory of hundreds of community and city wide organisations that can provide support, activities and groups in your area",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.birmingham.gov.uk_info_20018_adult_social_care_2808_adult_social_care_support_free_access_and_se.txt",
+        "level": "level_1",
+        "source": "https://www.birmingham.gov.uk/info/20018/adult_social_care/2808/adult_social_care_support_free_access_and_self-referral_support_offers",
+        "source_url": "https://www.birmingham.gov.uk/info/20018/adult_social_care/2808/adult_social_care_support_free_access_and_self-referral_support_offers",
+        "total_chunks": 6,
+        "type": "web_page"
+      },
+      "id": "7b2216b9-ba4d-4a03-ba5c-7439e9ef4218",
+      "distance": 0.5657718181610107,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.18026845455169677,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Use our online referral and telephone contact services for support and services. Read more about what we mean by care and support needs . Page last updated: 18 October 2024 Next page What are care and support needs? Adult social care Adult social care - Day opportunities page Blue Badge and travel passes category Help for people with specific needs and disabilities category Help in your own home category How to contact adult social care services category Information for care providers category Information for carers category Other adult care services and support category Paying for adult care and support category Report possible abuse or neglect of an adult with care and support needs page Strategies, CQC assessments, feedback and complaints category The Care Directory - care in Birmingham category Related links Birmingham Safeguarding Adults Board Domestic abuse advice Related information Downloads News Services Blogs Care homes, home support and supported living",
+      "metadata": {
+        "chunk_id": 3,
+        "filename": "www.birmingham.gov.uk_info_20018_adult_social_care_and_health_111_report_possible_abuse_or_neglect_o.txt",
+        "level": "level_2",
+        "source": "https://www.birmingham.gov.uk/info/20018/adult_social_care_and_health/111/report_possible_abuse_or_neglect_of_an_adult_with_care_and_support_needs",
+        "source_url": "https://www.birmingham.gov.uk/info/20018/adult_social_care_and_health/111/report_possible_abuse_or_neglect_of_an_adult_with_care_and_support_needs",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "e4a23031-a0e7-4743-8cb6-e777a0683a49",
+      "distance": 0.5989545583724976,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1703136324882507,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Use our online referral and telephone contact services for support and services. Read more about what we mean by care and support needs . Page last updated: 18 October 2024 Next page What are care and support needs? Adult social care Adult social care - Day opportunities page Blue Badge and travel passes category Help for people with specific needs and disabilities category Help in your own home category How to contact adult social care services category Information for care providers category Information for carers category Other adult care services and support category Paying for adult care and support category Report possible abuse or neglect of an adult with care and support needs page Strategies, CQC assessments, feedback and complaints category The Care Directory - care in Birmingham category Related links Birmingham Safeguarding Adults Board Domestic abuse advice Related information Downloads News Services Blogs Care homes, home support and supported living",
+      "metadata": {
+        "chunk_id": 3,
+        "filename": "www.birmingham.gov.uk_info_20018_adult_social_care_111_report_possible_abuse_or_neglect_of_an_adult_.txt",
+        "level": "level_1",
+        "source": "https://www.birmingham.gov.uk/info/20018/adult_social_care/111/report_possible_abuse_or_neglect_of_an_adult_with_care_and_support_needs",
+        "source_url": "https://www.birmingham.gov.uk/info/20018/adult_social_care/111/report_possible_abuse_or_neglect_of_an_adult_with_care_and_support_needs",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "4e666e42-4b94-40c8-b281-eb0e4aa1131f",
+      "distance": 0.5989545583724976,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1703136324882507,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Use our online referral and telephone contact services for support and services. Read more about what we mean by care and support needs . Page last updated: 18 October 2024 Next page What are care and support needs? Adult social care Adult social care - Day opportunities page Blue Badge and travel passes category Help for people with specific needs and disabilities category Help in your own home category How to contact adult social care services category Information for care providers category Information for carers category Other adult care services and support category Paying for adult care and support category Report possible abuse or neglect of an adult with care and support needs page Strategies, CQC assessments, feedback and complaints category The Care Directory - care in Birmingham category Related links Birmingham Safeguarding Adults Board Domestic abuse advice Related information Downloads News Services Blogs Care homes, home support and supported living",
+      "metadata": {
+        "chunk_id": 3,
+        "filename": "www.birmingham.gov.uk_info_20059_raising_concerns_111_report_possible_abuse_or_neglect_of_a_vulnerab.txt",
+        "level": "level_1",
+        "source": "https://www.birmingham.gov.uk/info/20059/raising_concerns/111/report_possible_abuse_or_neglect_of_a_vulnerable_adult",
+        "source_url": "https://www.birmingham.gov.uk/info/20059/raising_concerns/111/report_possible_abuse_or_neglect_of_a_vulnerable_adult",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "4cfccaa9-6040-4897-b71e-b21d36636afc",
+      "distance": 0.5989545583724976,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1703136324882507,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Use our online referral and telephone contact services for support and services. Read more about what we mean by care and support needs . Page last updated: 18 October 2024 Next page What are care and support needs? Adult social care Adult social care - Day opportunities page Blue Badge and travel passes category Help for people with specific needs and disabilities category Help in your own home category How to contact adult social care services category Information for care providers category Information for carers category Other adult care services and support category Paying for adult care and support category Report possible abuse or neglect of an adult with care and support needs page Strategies, CQC assessments, feedback and complaints category The Care Directory - care in Birmingham category Related links Birmingham Safeguarding Adults Board Domestic abuse advice Related information Downloads News Services Blogs Care homes, home support and supported living",
+      "metadata": {
+        "chunk_id": 3,
+        "filename": "www.birmingham.gov.uk_info_20018_adult_social_care_and_health_111_report_possible_abuse_or_neglect_o.txt",
+        "level": "level_2",
+        "source": "https://www.birmingham.gov.uk/info/20018/adult_social_care_and_health/111/report_possible_abuse_or_neglect_of_an_adult_with_care_and_support_needs",
+        "source_url": "https://www.birmingham.gov.uk/info/20018/adult_social_care_and_health/111/report_possible_abuse_or_neglect_of_an_adult_with_care_and_support_needs",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "101ed713-fe39-46b8-9b80-70e2221a5106",
+      "distance": 0.5989545583724976,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1703136324882507,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Use our online referral and telephone contact services for support and services. Read more about what we mean by care and support needs . Page last updated: 18 October 2024 Next page What are care and support needs? Adult social care Adult social care - Day opportunities page Blue Badge and travel passes category Help for people with specific needs and disabilities category Help in your own home category How to contact adult social care services category Information for care providers category Information for carers category Other adult care services and support category Paying for adult care and support category Report possible abuse or neglect of an adult with care and support needs page Strategies, CQC assessments, feedback and complaints category The Care Directory - care in Birmingham category Related links Birmingham Safeguarding Adults Board Domestic abuse advice Related information Downloads News Services Blogs Care homes, home support and supported living",
+      "metadata": {
+        "chunk_id": 3,
+        "filename": "www.birmingham.gov.uk_info_20059_raising_concerns_111_report_possible_abuse_or_neglect_of_a_vulnerab.txt",
+        "level": "level_1",
+        "source": "https://www.birmingham.gov.uk/info/20059/raising_concerns/111/report_possible_abuse_or_neglect_of_a_vulnerable_adult",
+        "source_url": "https://www.birmingham.gov.uk/info/20059/raising_concerns/111/report_possible_abuse_or_neglect_of_a_vulnerable_adult",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "15429e20-4cbf-4d16-821f-19293f9255ad",
+      "distance": 0.5989545583724976,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1703136324882507,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Use our online referral and telephone contact services for support and services. Read more about what we mean by care and support needs . Page last updated: 18 October 2024 Next page What are care and support needs? Adult social care Adult social care - Day opportunities page Blue Badge and travel passes category Help for people with specific needs and disabilities category Help in your own home category How to contact adult social care services category Information for care providers category Information for carers category Other adult care services and support category Paying for adult care and support category Report possible abuse or neglect of an adult with care and support needs page Strategies, CQC assessments, feedback and complaints category The Care Directory - care in Birmingham category Related links Birmingham Safeguarding Adults Board Domestic abuse advice Related information Downloads News Services Blogs Care homes, home support and supported living",
+      "metadata": {
+        "chunk_id": 3,
+        "filename": "www.birmingham.gov.uk_info_20018_adult_social_care_111_report_possible_abuse_or_neglect_of_an_adult_.txt",
+        "level": "level_1",
+        "source": "https://www.birmingham.gov.uk/info/20018/adult_social_care/111/report_possible_abuse_or_neglect_of_an_adult_with_care_and_support_needs",
+        "source_url": "https://www.birmingham.gov.uk/info/20018/adult_social_care/111/report_possible_abuse_or_neglect_of_an_adult_with_care_and_support_needs",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "8b0adfa5-e963-4102-8a8c-552fe1a27551",
+      "distance": 0.5989545583724976,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1703136324882507,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    }
+  ],
+  "context": "[Document 1] From https://www (web_page) - URL: https://www.birmingham.gov.uk/info/20061/help_for_people_with_specific_needs_and_disabilities/139/services_for_adults_with_sight_or_hearing_loss [Retrieved via: semantic_original]:\n. During the conversation, they will aim to identify your strengths and needs. They will also provide advice and information on services or local community resources that may help you. Contact Adult Social Care services Other support options Birmingham Connect to Support Community Directory Visit our connect to support website community directory . Here you can access a range of groups, activities and local resources that may help you. Birmingham Carer\u2019s HUB The Birmingham Carer\u2019s HUB can offer a wide range of support and services to carers in Birmingham. The HUB is delivered by Forward Carers on behalf of the council. Support for children The Children's Advice and Support Service (CASS) can offer information to help children (from birth to 17 years old)\n\n[Document 2] From https://www (web_page) - URL: https://www.birmingham.gov.uk/info/20061/help_for_people_with_specific_needs_and_disabilities/139/services_for_adults_with_sight_or_hearing_loss [Retrieved via: semantic_original]:\n. During the conversation, they will aim to identify your strengths and needs. They will also provide advice and information on services or local community resources that may help you. Contact Adult Social Care services Other support options Birmingham Connect to Support Community Directory Visit our connect to support website community directory . Here you can access a range of groups, activities and local resources that may help you. Birmingham Carer\u2019s HUB The Birmingham Carer\u2019s HUB can offer a wide range of support and services to carers in Birmingham. The HUB is delivered by Forward Carers on behalf of the council. Support for children The Children's Advice and Support Service (CASS) can offer information to help children (from birth to 17 years old)\n\n[Document 3] From https://www (web_page) - URL: https://www.birmingham.gov.uk/info/20018/adult_social_care/2808/adult_social_care_support_free_access_and_self-referral_support_offers [Retrieved via: semantic_original]:\nAdult Social Care Support free access and self-referral support offers Birmingham Adult Social Care works with people to help them stay independent and in their own home and community for as long as possible. One way we do this is to provide free access to a range of offers so that people with low level adult social care needs and those worried about issues can get support to help tackle these things early on. This page brings together all in one place these information, advice and support. Information and Support for Carers If you are caring for someone due to old age, disability, serious illness or addition there is a range of help for you. More Information on support for carers Birmingham Carers Hub Birmingham Connect to Support Birmingham Connect to Support is a website that provides information and advice on social care for adults across a wide range of areas. It also has a directory of hundreds of community and city wide organisations that can provide support, activities and groups in your area\n\n[Document 4] From https://www (web_page) - URL: https://www.birmingham.gov.uk/info/20018/adult_social_care/2808/adult_social_care_support_free_access_and_self-referral_support_offers [Retrieved via: semantic_original]:\nAdult Social Care Support free access and self-referral support offers Birmingham Adult Social Care works with people to help them stay independent and in their own home and community for as long as possible. One way we do this is to provide free access to a range of offers so that people with low level adult social care needs and those worried about issues can get support to help tackle these things early on. This page brings together all in one place these information, advice and support. Information and Support for Carers If you are caring for someone due to old age, disability, serious illness or addition there is a range of help for you. More Information on support for carers Birmingham Carers Hub Birmingham Connect to Support Birmingham Connect to Support is a website that provides information and advice on social care for adults across a wide range of areas. It also has a directory of hundreds of community and city wide organisations that can provide support, activities and groups in your area\n\n[Document 5] From https://www (web_page) - URL: https://www.birmingham.gov.uk/info/20018/adult_social_care_and_health/111/report_possible_abuse_or_neglect_of_an_adult_with_care_and_support_needs [Retrieved via: semantic_original]:\n. Use our online referral and telephone contact services for support and services. Read more about what we mean by care and support needs . Page last updated: 18 October 2024 Next page What are care and support needs? Adult social care Adult social care - Day opportunities page Blue Badge and travel passes category Help for people with specific needs and disabilities category Help in your own home category How to contact adult social care services category Information for care providers category Information for carers category Other adult care services and support category Paying for adult care and support category Report possible abuse or neglect of an adult with care and support needs page Strategies, CQC assessments, feedback and complaints category The Care Directory - care in Birmingham category Related links Birmingham Safeguarding Adults Board Domestic abuse advice Related information Downloads News Services Blogs Care homes, home support and supported living\n\n[Document 6] From https://www (web_page) - URL: https://www.birmingham.gov.uk/info/20018/adult_social_care/111/report_possible_abuse_or_neglect_of_an_adult_with_care_and_support_needs [Retrieved via: semantic_original]:\n. Use our online referral and telephone contact services for support and services. Read more about what we mean by care and support needs . Page last updated: 18 October 2024 Next page What are care and support needs? Adult social care Adult social care - Day opportunities page Blue Badge and travel passes category Help for people with specific needs and disabilities category Help in your own home category How to contact adult social care services category Information for care providers category Information for carers category Other adult care services and support category Paying for adult care and support category Report possible abuse or neglect of an adult with care and support needs page Strategies, CQC assessments, feedback and complaints category The Care Directory - care in Birmingham category Related links Birmingham Safeguarding Adults Board Domestic abuse advice Related information Downloads News Services Blogs Care homes, home support and supported living\n\n[Document 7] From https://www (web_page) - URL: https://www.birmingham.gov.uk/info/20059/raising_concerns/111/report_possible_abuse_or_neglect_of_a_vulnerable_adult [Retrieved via: semantic_original]:\n. Use our online referral and telephone contact services for support and services. Read more about what we mean by care and support needs . Page last updated: 18 October 2024 Next page What are care and support needs? Adult social care Adult social care - Day opportunities page Blue Badge and travel passes category Help for people with specific needs and disabilities category Help in your own home category How to contact adult social care services category Information for care providers category Information for carers category Other adult care services and support category Paying for adult care and support category Report possible abuse or neglect of an adult with care and support needs page Strategies, CQC assessments, feedback and complaints category The Care Directory - care in Birmingham category Related links Birmingham Safeguarding Adults Board Domestic abuse advice Related information Downloads News Services Blogs Care homes, home support and supported living\n\n[Document 8] From https://www (web_page) - URL: https://www.birmingham.gov.uk/info/20018/adult_social_care_and_health/111/report_possible_abuse_or_neglect_of_an_adult_with_care_and_support_needs [Retrieved via: semantic_original]:\n. Use our online referral and telephone contact services for support and services. Read more about what we mean by care and support needs . Page last updated: 18 October 2024 Next page What are care and support needs? Adult social care Adult social care - Day opportunities page Blue Badge and travel passes category Help for people with specific needs and disabilities category Help in your own home category How to contact adult social care services category Information for care providers category Information for carers category Other adult care services and support category Paying for adult care and support category Report possible abuse or neglect of an adult with care and support needs page Strategies, CQC assessments, feedback and complaints category The Care Directory - care in Birmingham category Related links Birmingham Safeguarding Adults Board Domestic abuse advice Related information Downloads News Services Blogs Care homes, home support and supported living\n\n[Document 9] From https://www (web_page) - URL: https://www.birmingham.gov.uk/info/20059/raising_concerns/111/report_possible_abuse_or_neglect_of_a_vulnerable_adult [Retrieved via: semantic_original]:\n. Use our online referral and telephone contact services for support and services. Read more about what we mean by care and support needs . Page last updated: 18 October 2024 Next page What are care and support needs? Adult social care Adult social care - Day opportunities page Blue Badge and travel passes category Help for people with specific needs and disabilities category Help in your own home category How to contact adult social care services category Information for care providers category Information for carers category Other adult care services and support category Paying for adult care and support category Report possible abuse or neglect of an adult with care and support needs page Strategies, CQC assessments, feedback and complaints category The Care Directory - care in Birmingham category Related links Birmingham Safeguarding Adults Board Domestic abuse advice Related information Downloads News Services Blogs Care homes, home support and supported living\n\n[Document 10] From https://www (web_page) - URL: https://www.birmingham.gov.uk/info/20018/adult_social_care/111/report_possible_abuse_or_neglect_of_an_adult_with_care_and_support_needs [Retrieved via: semantic_original]:\n. Use our online referral and telephone contact services for support and services. Read more about what we mean by care and support needs . Page last updated: 18 October 2024 Next page What are care and support needs? Adult social care Adult social care - Day opportunities page Blue Badge and travel passes category Help for people with specific needs and disabilities category Help in your own home category How to contact adult social care services category Information for care providers category Information for carers category Other adult care services and support category Paying for adult care and support category Report possible abuse or neglect of an adult with care and support needs page Strategies, CQC assessments, feedback and complaints category The Care Directory - care in Birmingham category Related links Birmingham Safeguarding Adults Board Domestic abuse advice Related information Downloads News Services Blogs Care homes, home support and supported living\n",
+  "answer": "If you are experiencing domestic abuse in Birmingham and need to leave with your children, you can access support through several local services. **The Children's Advice and Support Service (CASS)** can provide information and assistance for children from birth to 17 years old. Additionally, **Birmingham Connect to Support** offers a community directory where you can find local resources and support groups that may help you.\n\nFor immediate assistance, you can use the **online referral and telephone contact services** provided by Birmingham City Council to report abuse or seek support. The council's website also includes a link to domestic abuse advice, which may offer further guidance on available services.\n\n**Next Steps:**\n- Visit the **Birmingham Connect to Support Community Directory** for local resources: [Birmingham Connect to Support](https://www.birmingham.gov.uk/info/20061/help_for_people_with_specific_needs_and_disabilities/139/services_for_adults_with_sight_or_hearing_loss)\n- Contact **CASS** for support related to your children.\n- Use the **online referral and telephone contact services** to report abuse and seek immediate help: [Report Abuse or Neglect](https://www.birmingham.gov.uk/info/20018/adult_social_care_and_health/111/report_possible_abuse_or_neglect_of_an_adult_with_care_and_support_needs)\n\nUnfortunately, the documents do not provide specific information about emergency housing support for those experiencing domestic abuse. You may need to contact local services directly or visit the Birmingham City Council website for more detailed guidance.",
+  "metrics": {
+    "duration_seconds": 8.47630786895752,
+    "retrieved_docs_count": 10,
+    "query_length": 142,
+    "answer_length": 1589,
+    "retrieval_method": "enhanced",
+    "context_utilization": 0.3383838383838384,
+    "citations_count": 1,
+    "has_citations": true,
+    "query_relevance": 0.8947368421052632,
+    "unique_retrieval_methods": 1,
+    "budget_documents_retrieved": 0,
+    "retrieval_methods_used": [
+      "semantic_original"
+    ],
+    "retrieval_method_distribution": {
+      "semantic_original": 10
+    }
+  },
+  "local_authority": "Birmingham",
+  "query_id": "scn_27",
+  "retrieval_method": "enhanced",
+  "run_id": "3a2b74f1-c0d3-4f04-a7af-d46182ce5368",
+  "trace": {
+    "run_id": "3a2b74f1-c0d3-4f04-a7af-d46182ce5368",
+    "project": "social_care_rag",
+    "url": "https://eu.smith.langchain.com/o/me/runs/3a2b74f1-c0d3-4f04-a7af-d46182ce5368"
+  },
+  "test_metadata": {
+    "local_authority": "Birmingham",
+    "query_id": "scn_27",
+    "query_category": "emergency_scenarios",
+    "prompt_variation": "optimized",
+    "prompt_template": "\nPlease answer the following question about social care services in UK local authorities based only on the information in the provided documents.\n\nQuestion: {query}\n\nContext from relevant documents:\n{context}\n\nInstructions:\n1. Provide a clear, direct answer that would help someone needing this information. If information isn't available, state: \"The available documents don't provide specific information about [aspect].\"\n\n2. Synthesize information from ALL relevant documents to provide the most complete answer rather than analyzing documents individually.\n\n3. Structure your response with:\n   - A concise 1-2 sentence summary first\n   - Relevant details organized in short, clear paragraphs\n   - Bullet points for lists or step-by-step information\n   - Bold text for key information the user should notice\n\n4. For financial information:\n   - Include exact figures, time periods, and what the funding covers\n   - Present financial data clearly: \"The adult social care budget is **\u00a3X million** for [time period]\"\n\n5. Always include practical next steps or resources:\n   - Provide contact information, URLs, or application methods mentioned in the documents\n   - Suggest where the person could find more information\n\n6. When citing sources, use a simple format: \"According to [document name/description]\" or include URLs where available.\n\nAnswer:\n",
+    "processing_time": 8.478653192520142,
+    "timestamp": "2025-08-17T22:31:05.014919",
+    "top_k": 10
+  }
+}

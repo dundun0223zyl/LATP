@@ -1,0 +1,275 @@
+{
+  "query": "I work full-time but also care for my elderly father with Parkinson's in birmingham. What respite care options exist so I can have occasional breaks?",
+  "retrieved_documents": [
+    {
+      "content": "Services Limited Hill Lodge 1 Holistic Social Care Birmingham Home Heroes Home Heroes Homecare Solutions Ltd Honor Care Limited House of Caring Ltd House of the Flame Lily iCare Living Limited Iconic Care Limited Impacting Lives Care and Support Imperial Breeze Healthcare Ltd Inmind community Support Services Limited Inn Care Ltd Inspire You Care Ltd Integra Supported Housing Isabella?s Home Ltd Ivolve Derbyshire Supported Living Jaffray Domicillary Care Services JLKare and Support Limited Jubilee Citizens UK Just Call 4 Care Services Karva Care Services Limited Kay Healthcare Limited Kelso Care Consortium Limited Supported Living Services Kings Hill Knightsbridge Care Services Limited Knoll House Larkrise Leicester & Stoke Supported Living Leighton House Liberty Support - Midlands LifeSprings Care Services Ltd Lifeways Community Care Limited (Birmingham & Wolverhampton) Lifeways SIL Limited (North East) Lifeways SIL Limited (North West) Like Care Limited Lime Healthcare Support Limited Limitless Home Care",
+      "metadata": {
+        "chunk_id": 6,
+        "filename": "www.birmingham.gov.uk_directory_55_care_homes_home_support_and_supported_living_category_1007.txt",
+        "level": "level_2",
+        "source": "https://www.birmingham.gov.uk/directory/55/care_homes_home_support_and_supported_living/category/1007",
+        "source_url": "https://www.birmingham.gov.uk/directory/55/care_homes_home_support_and_supported_living/category/1007",
+        "total_chunks": 13,
+        "type": "web_page"
+      },
+      "id": "fe8361ed-4d50-4ecf-8e5b-9be5d2128136",
+      "distance": 0.8728914856910706,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.08813255429267883,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Services Limited Hill Lodge 1 Holistic Social Care Birmingham Home Heroes Home Heroes Homecare Solutions Ltd Honor Care Limited House of Caring Ltd House of the Flame Lily iCare Living Limited Iconic Care Limited Impacting Lives Care and Support Imperial Breeze Healthcare Ltd Inmind community Support Services Limited Inn Care Ltd Inspire You Care Ltd Integra Supported Housing Isabella?s Home Ltd Ivolve Derbyshire Supported Living Jaffray Domicillary Care Services JLKare and Support Limited Jubilee Citizens UK Just Call 4 Care Services Karva Care Services Limited Kay Healthcare Limited Kelso Care Consortium Limited Supported Living Services Kings Hill Knightsbridge Care Services Limited Knoll House Larkrise Leicester & Stoke Supported Living Leighton House Liberty Support - Midlands LifeSprings Care Services Ltd Lifeways Community Care Limited (Birmingham & Wolverhampton) Lifeways SIL Limited (North East) Lifeways SIL Limited (North West) Like Care Limited Lime Healthcare Support Limited Limitless Home Care",
+      "metadata": {
+        "chunk_id": 6,
+        "filename": "www.birmingham.gov.uk_directory_55_care_homes_home_support_and_supported_living_category_1007.txt",
+        "level": "level_2",
+        "source": "https://www.birmingham.gov.uk/directory/55/care_homes_home_support_and_supported_living/category/1007",
+        "source_url": "https://www.birmingham.gov.uk/directory/55/care_homes_home_support_and_supported_living/category/1007",
+        "total_chunks": 13,
+        "type": "web_page"
+      },
+      "id": "07e394ac-9059-498d-8739-ed915feea508",
+      "distance": 0.8728914856910706,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.08813255429267883,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Limited The Bromford The Business Centre The Care Workshop Limited The Moat House The New Barn The Nurse International Ltd Thornton Homecare Ltd Three Counties Care Services Ltd Transforming Support (Birmingham) Transparent Care Limited Trident Reach Domiciliary Care - Birmingham Branch Tripple Tee Ltd Trust Care Solutions Ltd Trust We Care Limited TRZ Care - Main Office TS Healthcare Limited Turning Point - Staffordshire Learning Disabilities Supported Living ULTICare Limited Unit 1, Tamebridge Industrial Estate United Response - Spire DCA Unity Care Universal Care Services Uplifting Lives Services Ltd Upward Care Limited Voyage (DCA) Solihull and Birmingham Voyage (DCA) West Midlands Warwickshire Living Ltd Warwickshire Supported Living Watra Care Solihull Wesleycare Limited West Midlands and Wiltshire PBS Service West Midlands Supported Living Service Wisteria Care Agency Ltd WMHC Ltd Xperience Recruitment Limited Your Care Services Brain Injury Specialists Your Support Zanta Healthcare Zion Care Services",
+      "metadata": {
+        "chunk_id": 11,
+        "filename": "www.birmingham.gov.uk_directory_55_care_homes_home_support_and_supported_living_category_1007.txt",
+        "level": "level_2",
+        "source": "https://www.birmingham.gov.uk/directory/55/care_homes_home_support_and_supported_living/category/1007",
+        "source_url": "https://www.birmingham.gov.uk/directory/55/care_homes_home_support_and_supported_living/category/1007",
+        "total_chunks": 13,
+        "type": "web_page"
+      },
+      "id": "ff3071cd-8e15-4eec-87e3-134c3d80cd40",
+      "distance": 0.883468508720398,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.08495944738388062,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Limited The Bromford The Business Centre The Care Workshop Limited The Moat House The New Barn The Nurse International Ltd Thornton Homecare Ltd Three Counties Care Services Ltd Transforming Support (Birmingham) Transparent Care Limited Trident Reach Domiciliary Care - Birmingham Branch Tripple Tee Ltd Trust Care Solutions Ltd Trust We Care Limited TRZ Care - Main Office TS Healthcare Limited Turning Point - Staffordshire Learning Disabilities Supported Living ULTICare Limited Unit 1, Tamebridge Industrial Estate United Response - Spire DCA Unity Care Universal Care Services Uplifting Lives Services Ltd Upward Care Limited Voyage (DCA) Solihull and Birmingham Voyage (DCA) West Midlands Warwickshire Living Ltd Warwickshire Supported Living Watra Care Solihull Wesleycare Limited West Midlands and Wiltshire PBS Service West Midlands Supported Living Service Wisteria Care Agency Ltd WMHC Ltd Xperience Recruitment Limited Your Care Services Brain Injury Specialists Your Support Zanta Healthcare Zion Care Services",
+      "metadata": {
+        "chunk_id": 11,
+        "filename": "www.birmingham.gov.uk_directory_55_care_homes_home_support_and_supported_living_category_1007.txt",
+        "level": "level_2",
+        "source": "https://www.birmingham.gov.uk/directory/55/care_homes_home_support_and_supported_living/category/1007",
+        "source_url": "https://www.birmingham.gov.uk/directory/55/care_homes_home_support_and_supported_living/category/1007",
+        "total_chunks": 13,
+        "type": "web_page"
+      },
+      "id": "cf29d9b2-13c4-4d13-a175-80701fde0ef4",
+      "distance": 0.883468508720398,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.08495944738388062,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "CM Community Care Services Birmingham Cole Bank Road Cole Valley Comfort Homes and Care Ltd Community Living & Support Services Limited Community Living and Support Services Ltd Community Support Service Community Supported living-St Pauls Coney Green Residential Home Conifers Connaught House Connect Nursing Consummate Care (UK) Ltd Coriander Close Cotteridge House Creative Support - Birmingham & Bromsgrove Personalised Services Creative Support - Stockport Supported Living Service Creative Support - Wellingborough Services Cromwell House (West Bromwich) Cromwell House (West Bromwich) CSK Support 24 Ltd CSK Support 24 Ltd CTTM Elmfield Cottage Daily Living Care Ltd Daniel's Special Care Ltd Darwin Court Care Centre Delivering Care Direct Dependable Care LLP Desired Care 4 U Limited Desired Care 4 U Limited Digby Manor Residential Care Home Dimensions Midlands Domiciliary Care Office Dimmingsdale Bank Dingle Meadow Divine Intervention Home Care Limited Divine Intervention Home Care Limited Dohatech",
+      "metadata": {
+        "chunk_id": 7,
+        "filename": "www.birmingham.gov.uk_directory_55_care_homes_home_support_and_supported_living_category_1069.txt",
+        "level": "level_2",
+        "source": "https://www.birmingham.gov.uk/directory/55/care_homes_home_support_and_supported_living/category/1069",
+        "source_url": "https://www.birmingham.gov.uk/directory/55/care_homes_home_support_and_supported_living/category/1069",
+        "total_chunks": 16,
+        "type": "web_page"
+      },
+      "id": "3d99d07c-d40d-4854-a325-6547310d063b",
+      "distance": 0.8852201700210571,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.08443394899368287,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "CM Community Care Services Birmingham Cole Bank Road Cole Valley Comfort Homes and Care Ltd Community Living & Support Services Limited Community Living and Support Services Ltd Community Support Service Community Supported living-St Pauls Coney Green Residential Home Conifers Connaught House Connect Nursing Consummate Care (UK) Ltd Coriander Close Cotteridge House Creative Support - Birmingham & Bromsgrove Personalised Services Creative Support - Stockport Supported Living Service Creative Support - Wellingborough Services Cromwell House (West Bromwich) Cromwell House (West Bromwich) CSK Support 24 Ltd CSK Support 24 Ltd CTTM Elmfield Cottage Daily Living Care Ltd Daniel's Special Care Ltd Darwin Court Care Centre Delivering Care Direct Dependable Care LLP Desired Care 4 U Limited Desired Care 4 U Limited Digby Manor Residential Care Home Dimensions Midlands Domiciliary Care Office Dimmingsdale Bank Dingle Meadow Divine Intervention Home Care Limited Divine Intervention Home Care Limited Dohatech",
+      "metadata": {
+        "chunk_id": 7,
+        "filename": "www.birmingham.gov.uk_directory_55_care_homes_home_support_and_supported_living_category_1069.txt",
+        "level": "level_2",
+        "source": "https://www.birmingham.gov.uk/directory/55/care_homes_home_support_and_supported_living/category/1069",
+        "source_url": "https://www.birmingham.gov.uk/directory/55/care_homes_home_support_and_supported_living/category/1069",
+        "total_chunks": 16,
+        "type": "web_page"
+      },
+      "id": "6fbd7d6b-451a-48f1-a391-6d862ebdb65a",
+      "distance": 0.8852201700210571,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.08443394899368287,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "CareMatch Portal Birmingham City Council uses CareMatch Portal for the following activities; the procurement of, Care Home placements with and without Nursing for adults of all ages, Home Support packages for children and adults, Supported Living for adults of all ages the application of providers to join our contracts for regulated services that are open to tender Visit the Tender opportunities Go to CareMatch Portal Support for providers using CareMatch Portal Download the Provider User Guide for CareMatch Portal Email marketintelligence@birmingham.gov.uk Page last updated: 20 December 2022 Information for care providers Cold weather resources page Cost of care exercises page Good practice resources for care providers page Home Support 2024 Contract \u2013 geographical areas and provider allocations page Home Support Quarterly Market Intelligence Questionnaires page Infection prevention and control page Request for new and further Standard Authorisation for Deprivation of Liberty and DoLS Review page Tender",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.birmingham.gov.uk_info_50173_providers_of_care_services_1792_care_match_implementation_1.txt",
+        "level": "level_2",
+        "source": "https://www.birmingham.gov.uk/info/50173/providers_of_care_services/1792/care_match_implementation/1",
+        "source_url": "https://www.birmingham.gov.uk/info/50173/providers_of_care_services/1792/care_match_implementation/1",
+        "total_chunks": 3,
+        "type": "web_page"
+      },
+      "id": "db86489d-f3bd-44ac-af7b-99f9faf6b70d",
+      "distance": 0.891364574432373,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.08259062767028809,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "CareMatch Portal Birmingham City Council uses CareMatch Portal for the following activities; the procurement of, Care Home placements with and without Nursing for adults of all ages, Home Support packages for children and adults, Supported Living for adults of all ages the application of providers to join our contracts for regulated services that are open to tender Visit the Tender opportunities Go to CareMatch Portal Support for providers using CareMatch Portal Download the Provider User Guide for CareMatch Portal Email marketintelligence@birmingham.gov.uk Page last updated: 20 December 2022 Information for care providers Cold weather resources page Cost of care exercises page Good practice resources for care providers page Home Support 2024 Contract \u2013 geographical areas and provider allocations page Home Support Quarterly Market Intelligence Questionnaires page Infection prevention and control page Request for new and further Standard Authorisation for Deprivation of Liberty and DoLS Review page Tender",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.birmingham.gov.uk_info_50173_providers_of_care_services_1792_care_match_implementation_1.txt",
+        "level": "level_2",
+        "source": "https://www.birmingham.gov.uk/info/50173/providers_of_care_services/1792/care_match_implementation/1",
+        "source_url": "https://www.birmingham.gov.uk/info/50173/providers_of_care_services/1792/care_match_implementation/1",
+        "total_chunks": 3,
+        "type": "web_page"
+      },
+      "id": "1c6c2aaa-1174-4852-83f5-78550294f9d2",
+      "distance": 0.891364574432373,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.08259062767028809,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Other adult care services and support Occupational Therapy Service for Adults Access to adult mental health services in Birmingham Placing vulnerable urban residents in employment (PURE) Help with arranging a funeral when there is no next of kin Help to protect your belongings and property if you go into hospital or a care home Connect to support website Become part of a community of Shared Lives carers in Birmingham Preparing for adulthood Family Group Conferencing Community Network Support Team Useful links Adult social care - Day opportunities Birmingham healthy minds Children and young people's mental health services (CYPMHS) Council tax exemptions and discounts for people with dementia and others who are severely mentally impaired",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.birmingham.gov.uk_info_50287_other_adult_care_services_and_support.txt",
+        "level": "level_1",
+        "source": "https://www.birmingham.gov.uk/info/50287/other_adult_care_services_and_support",
+        "source_url": "https://www.birmingham.gov.uk/info/50287/other_adult_care_services_and_support",
+        "total_chunks": 3,
+        "type": "web_page"
+      },
+      "id": "81d41853-9c29-412d-a625-f25e68e397f9",
+      "distance": 0.9071546457764204,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.0778536062670739,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Other adult care services and support Occupational Therapy Service for Adults Access to adult mental health services in Birmingham Placing vulnerable urban residents in employment (PURE) Help with arranging a funeral when there is no next of kin Help to protect your belongings and property if you go into hospital or a care home Connect to support website Become part of a community of Shared Lives carers in Birmingham Preparing for adulthood Family Group Conferencing Community Network Support Team Useful links Adult social care - Day opportunities Birmingham healthy minds Children and young people's mental health services (CYPMHS) Council tax exemptions and discounts for people with dementia and others who are severely mentally impaired",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.birmingham.gov.uk_info_50287_other_adult_care_services_and_support.txt",
+        "level": "level_1",
+        "source": "https://www.birmingham.gov.uk/info/50287/other_adult_care_services_and_support",
+        "source_url": "https://www.birmingham.gov.uk/info/50287/other_adult_care_services_and_support",
+        "total_chunks": 3,
+        "type": "web_page"
+      },
+      "id": "2ef4a25e-8180-4757-870f-e0bb29f56edf",
+      "distance": 0.9071548581123352,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.07785354256629944,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    }
+  ],
+  "context": "[Document 1] From https://www (web_page) - URL: https://www.birmingham.gov.uk/directory/55/care_homes_home_support_and_supported_living/category/1007 [Retrieved via: semantic_original]:\nServices Limited Hill Lodge 1 Holistic Social Care Birmingham Home Heroes Home Heroes Homecare Solutions Ltd Honor Care Limited House of Caring Ltd House of the Flame Lily iCare Living Limited Iconic Care Limited Impacting Lives Care and Support Imperial Breeze Healthcare Ltd Inmind community Support Services Limited Inn Care Ltd Inspire You Care Ltd Integra Supported Housing Isabella?s Home Ltd Ivolve Derbyshire Supported Living Jaffray Domicillary Care Services JLKare and Support Limited Jubilee Citizens UK Just Call 4 Care Services Karva Care Services Limited Kay Healthcare Limited Kelso Care Consortium Limited Supported Living Services Kings Hill Knightsbridge Care Services Limited Knoll House Larkrise Leicester & Stoke Supported Living Leighton House Liberty Support - Midlands LifeSprings Care Services Ltd Lifeways Community Care Limited (Birmingham & Wolverhampton) Lifeways SIL Limited (North East) Lifeways SIL Limited (North West) Like Care Limited Lime Healthcare Support Limited Limitless Home Care\n\n[Document 2] From https://www (web_page) - URL: https://www.birmingham.gov.uk/directory/55/care_homes_home_support_and_supported_living/category/1007 [Retrieved via: semantic_original]:\nServices Limited Hill Lodge 1 Holistic Social Care Birmingham Home Heroes Home Heroes Homecare Solutions Ltd Honor Care Limited House of Caring Ltd House of the Flame Lily iCare Living Limited Iconic Care Limited Impacting Lives Care and Support Imperial Breeze Healthcare Ltd Inmind community Support Services Limited Inn Care Ltd Inspire You Care Ltd Integra Supported Housing Isabella?s Home Ltd Ivolve Derbyshire Supported Living Jaffray Domicillary Care Services JLKare and Support Limited Jubilee Citizens UK Just Call 4 Care Services Karva Care Services Limited Kay Healthcare Limited Kelso Care Consortium Limited Supported Living Services Kings Hill Knightsbridge Care Services Limited Knoll House Larkrise Leicester & Stoke Supported Living Leighton House Liberty Support - Midlands LifeSprings Care Services Ltd Lifeways Community Care Limited (Birmingham & Wolverhampton) Lifeways SIL Limited (North East) Lifeways SIL Limited (North West) Like Care Limited Lime Healthcare Support Limited Limitless Home Care\n\n[Document 3] From https://www (web_page) - URL: https://www.birmingham.gov.uk/directory/55/care_homes_home_support_and_supported_living/category/1007 [Retrieved via: semantic_original]:\nLimited The Bromford The Business Centre The Care Workshop Limited The Moat House The New Barn The Nurse International Ltd Thornton Homecare Ltd Three Counties Care Services Ltd Transforming Support (Birmingham) Transparent Care Limited Trident Reach Domiciliary Care - Birmingham Branch Tripple Tee Ltd Trust Care Solutions Ltd Trust We Care Limited TRZ Care - Main Office TS Healthcare Limited Turning Point - Staffordshire Learning Disabilities Supported Living ULTICare Limited Unit 1, Tamebridge Industrial Estate United Response - Spire DCA Unity Care Universal Care Services Uplifting Lives Services Ltd Upward Care Limited Voyage (DCA) Solihull and Birmingham Voyage (DCA) West Midlands Warwickshire Living Ltd Warwickshire Supported Living Watra Care Solihull Wesleycare Limited West Midlands and Wiltshire PBS Service West Midlands Supported Living Service Wisteria Care Agency Ltd WMHC Ltd Xperience Recruitment Limited Your Care Services Brain Injury Specialists Your Support Zanta Healthcare Zion Care Services\n\n[Document 4] From https://www (web_page) - URL: https://www.birmingham.gov.uk/directory/55/care_homes_home_support_and_supported_living/category/1007 [Retrieved via: semantic_original]:\nLimited The Bromford The Business Centre The Care Workshop Limited The Moat House The New Barn The Nurse International Ltd Thornton Homecare Ltd Three Counties Care Services Ltd Transforming Support (Birmingham) Transparent Care Limited Trident Reach Domiciliary Care - Birmingham Branch Tripple Tee Ltd Trust Care Solutions Ltd Trust We Care Limited TRZ Care - Main Office TS Healthcare Limited Turning Point - Staffordshire Learning Disabilities Supported Living ULTICare Limited Unit 1, Tamebridge Industrial Estate United Response - Spire DCA Unity Care Universal Care Services Uplifting Lives Services Ltd Upward Care Limited Voyage (DCA) Solihull and Birmingham Voyage (DCA) West Midlands Warwickshire Living Ltd Warwickshire Supported Living Watra Care Solihull Wesleycare Limited West Midlands and Wiltshire PBS Service West Midlands Supported Living Service Wisteria Care Agency Ltd WMHC Ltd Xperience Recruitment Limited Your Care Services Brain Injury Specialists Your Support Zanta Healthcare Zion Care Services\n\n[Document 5] From https://www (web_page) - URL: https://www.birmingham.gov.uk/directory/55/care_homes_home_support_and_supported_living/category/1069 [Retrieved via: semantic_original]:\nCM Community Care Services Birmingham Cole Bank Road Cole Valley Comfort Homes and Care Ltd Community Living & Support Services Limited Community Living and Support Services Ltd Community Support Service Community Supported living-St Pauls Coney Green Residential Home Conifers Connaught House Connect Nursing Consummate Care (UK) Ltd Coriander Close Cotteridge House Creative Support - Birmingham & Bromsgrove Personalised Services Creative Support - Stockport Supported Living Service Creative Support - Wellingborough Services Cromwell House (West Bromwich) Cromwell House (West Bromwich) CSK Support 24 Ltd CSK Support 24 Ltd CTTM Elmfield Cottage Daily Living Care Ltd Daniel's Special Care Ltd Darwin Court Care Centre Delivering Care Direct Dependable Care LLP Desired Care 4 U Limited Desired Care 4 U Limited Digby Manor Residential Care Home Dimensions Midlands Domiciliary Care Office Dimmingsdale Bank Dingle Meadow Divine Intervention Home Care Limited Divine Intervention Home Care Limited Dohatech\n\n[Document 6] From https://www (web_page) - URL: https://www.birmingham.gov.uk/directory/55/care_homes_home_support_and_supported_living/category/1069 [Retrieved via: semantic_original]:\nCM Community Care Services Birmingham Cole Bank Road Cole Valley Comfort Homes and Care Ltd Community Living & Support Services Limited Community Living and Support Services Ltd Community Support Service Community Supported living-St Pauls Coney Green Residential Home Conifers Connaught House Connect Nursing Consummate Care (UK) Ltd Coriander Close Cotteridge House Creative Support - Birmingham & Bromsgrove Personalised Services Creative Support - Stockport Supported Living Service Creative Support - Wellingborough Services Cromwell House (West Bromwich) Cromwell House (West Bromwich) CSK Support 24 Ltd CSK Support 24 Ltd CTTM Elmfield Cottage Daily Living Care Ltd Daniel's Special Care Ltd Darwin Court Care Centre Delivering Care Direct Dependable Care LLP Desired Care 4 U Limited Desired Care 4 U Limited Digby Manor Residential Care Home Dimensions Midlands Domiciliary Care Office Dimmingsdale Bank Dingle Meadow Divine Intervention Home Care Limited Divine Intervention Home Care Limited Dohatech\n\n[Document 7] From https://www (web_page) - URL: https://www.birmingham.gov.uk/info/50173/providers_of_care_services/1792/care_match_implementation/1 [Retrieved via: semantic_original]:\nCareMatch Portal Birmingham City Council uses CareMatch Portal for the following activities; the procurement of, Care Home placements with and without Nursing for adults of all ages, Home Support packages for children and adults, Supported Living for adults of all ages the application of providers to join our contracts for regulated services that are open to tender Visit the Tender opportunities Go to CareMatch Portal Support for providers using CareMatch Portal Download the Provider User Guide for CareMatch Portal Email marketintelligence@birmingham.gov.uk Page last updated: 20 December 2022 Information for care providers Cold weather resources page Cost of care exercises page Good practice resources for care providers page Home Support 2024 Contract \u2013 geographical areas and provider allocations page Home Support Quarterly Market Intelligence Questionnaires page Infection prevention and control page Request for new and further Standard Authorisation for Deprivation of Liberty and DoLS Review page Tender\n\n[Document 8] From https://www (web_page) - URL: https://www.birmingham.gov.uk/info/50173/providers_of_care_services/1792/care_match_implementation/1 [Retrieved via: semantic_original]:\nCareMatch Portal Birmingham City Council uses CareMatch Portal for the following activities; the procurement of, Care Home placements with and without Nursing for adults of all ages, Home Support packages for children and adults, Supported Living for adults of all ages the application of providers to join our contracts for regulated services that are open to tender Visit the Tender opportunities Go to CareMatch Portal Support for providers using CareMatch Portal Download the Provider User Guide for CareMatch Portal Email marketintelligence@birmingham.gov.uk Page last updated: 20 December 2022 Information for care providers Cold weather resources page Cost of care exercises page Good practice resources for care providers page Home Support 2024 Contract \u2013 geographical areas and provider allocations page Home Support Quarterly Market Intelligence Questionnaires page Infection prevention and control page Request for new and further Standard Authorisation for Deprivation of Liberty and DoLS Review page Tender\n\n[Document 9] From https://www (web_page) - URL: https://www.birmingham.gov.uk/info/50287/other_adult_care_services_and_support [Retrieved via: semantic_original]:\nOther adult care services and support Occupational Therapy Service for Adults Access to adult mental health services in Birmingham Placing vulnerable urban residents in employment (PURE) Help with arranging a funeral when there is no next of kin Help to protect your belongings and property if you go into hospital or a care home Connect to support website Become part of a community of Shared Lives carers in Birmingham Preparing for adulthood Family Group Conferencing Community Network Support Team Useful links Adult social care - Day opportunities Birmingham healthy minds Children and young people's mental health services (CYPMHS) Council tax exemptions and discounts for people with dementia and others who are severely mentally impaired\n\n[Document 10] From https://www (web_page) - URL: https://www.birmingham.gov.uk/info/50287/other_adult_care_services_and_support [Retrieved via: semantic_original]:\nOther adult care services and support Occupational Therapy Service for Adults Access to adult mental health services in Birmingham Placing vulnerable urban residents in employment (PURE) Help with arranging a funeral when there is no next of kin Help to protect your belongings and property if you go into hospital or a care home Connect to support website Become part of a community of Shared Lives carers in Birmingham Preparing for adulthood Family Group Conferencing Community Network Support Team Useful links Adult social care - Day opportunities Birmingham healthy minds Children and young people's mental health services (CYPMHS) Council tax exemptions and discounts for people with dementia and others who are severely mentally impaired\n",
+  "answer": "The available documents don't provide specific information about respite care options for carers of elderly individuals with Parkinson's in Birmingham.\n\n**Practical Next Steps:**\n- **Visit the Birmingham City Council's CareMatch Portal**: This portal is used for procuring care home placements and home support packages, which might include respite care options. You can access it at [CareMatch Portal](https://www.birmingham.gov.uk/info/50173/providers_of_care_services/1792/care_match_implementation/1).\n- **Contact Birmingham City Council**: For personalized assistance, you can reach out to Birmingham City Council's adult social care services to inquire about respite care options available for your situation.\n- **Explore the Connect to Support Website**: This platform may offer additional resources and support services for carers in Birmingham. Visit [Connect to Support](https://www.birmingham.gov.uk/info/50287/other_adult_care_services_and_support) for more information.\n\nThese resources can help you find suitable respite care options and provide you with the necessary support to manage your caregiving responsibilities.",
+  "metrics": {
+    "duration_seconds": 9.202609300613403,
+    "retrieved_docs_count": 10,
+    "query_length": 149,
+    "answer_length": 1134,
+    "retrieval_method": "enhanced",
+    "context_utilization": 0.11661807580174927,
+    "citations_count": 0,
+    "has_citations": false,
+    "query_relevance": 0.5,
+    "unique_retrieval_methods": 1,
+    "budget_documents_retrieved": 0,
+    "retrieval_methods_used": [
+      "semantic_original"
+    ],
+    "retrieval_method_distribution": {
+      "semantic_original": 10
+    }
+  },
+  "local_authority": "birmingham",
+  "query_id": "scn_13",
+  "retrieval_method": "enhanced",
+  "run_id": "41e36f06-0183-4aeb-a659-59956dc641df",
+  "trace": {
+    "run_id": "41e36f06-0183-4aeb-a659-59956dc641df",
+    "project": "social_care_rag",
+    "url": "https://eu.smith.langchain.com/o/me/runs/41e36f06-0183-4aeb-a659-59956dc641df"
+  },
+  "test_metadata": {
+    "local_authority": "birmingham",
+    "query_id": "scn_13",
+    "query_category": "carer_support_scenarios",
+    "prompt_variation": "optimized",
+    "prompt_template": "\nPlease answer the following question about social care services in UK local authorities based only on the information in the provided documents.\n\nQuestion: {query}\n\nContext from relevant documents:\n{context}\n\nInstructions:\n1. Provide a clear, direct answer that would help someone needing this information. If information isn't available, state: \"The available documents don't provide specific information about [aspect].\"\n\n2. Synthesize information from ALL relevant documents to provide the most complete answer rather than analyzing documents individually.\n\n3. Structure your response with:\n   - A concise 1-2 sentence summary first\n   - Relevant details organized in short, clear paragraphs\n   - Bullet points for lists or step-by-step information\n   - Bold text for key information the user should notice\n\n4. For financial information:\n   - Include exact figures, time periods, and what the funding covers\n   - Present financial data clearly: \"The adult social care budget is **\u00a3X million** for [time period]\"\n\n5. Always include practical next steps or resources:\n   - Provide contact information, URLs, or application methods mentioned in the documents\n   - Suggest where the person could find more information\n\n6. When citing sources, use a simple format: \"According to [document name/description]\" or include URLs where available.\n\nAnswer:\n",
+    "processing_time": 9.20482087135315,
+    "timestamp": "2025-08-19T13:15:20.372752",
+    "top_k": 10
+  }
+}

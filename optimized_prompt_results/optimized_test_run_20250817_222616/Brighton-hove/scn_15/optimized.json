@@ -1,0 +1,293 @@
+{
+  "query": "My husband has advanced dementia and I'm his full-time carer in Brighton-hove. I'm exhausted and need support. What are my options?",
+  "retrieved_documents": [
+    {
+      "content": ". Your Memory Support Worker will develop your Care Plan in partnership with you. There are local services for people with dementia and their loved ones. You can: get support from Alzheimer\u2019s Society\u2019s dementia advisers who can support you before, during and after diagnosis by phone or face to face, as well as connect you to a range of local services find local dementia friendly activities through the Brighton & Hove Ageing Well service find local organisations and services on our Adult Social Care directory get information and support about Young Onset Dementia on the Dementia UK website get help if you\u2019re a carer from the Carers Hub If you find it difficult to cope at home, ask for an assessment from Adult Social Care .\u00a0They can tell you what care and support is available. If you need help to express your views and wishes, find out how an advocate could help",
+      "metadata": {
+        "chunk_id": 4,
+        "filename": "www.brighton-hove.gov.uk_adult-social-care-hub_safety-adults_dementia-support-brighton-hove.txt",
+        "level": "level_2",
+        "source": "https://www.brighton-hove.gov.uk/adult-social-care-hub/safety-adults/dementia-support-brighton-hove",
+        "source_url": "https://www.brighton-hove.gov.uk/adult-social-care-hub/safety-adults/dementia-support-brighton-hove",
+        "total_chunks": 7,
+        "type": "web_page"
+      },
+      "id": "51620d2c-daec-4f77-91a5-efba11681cad",
+      "distance": 0.5190571546554565,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.19428285360336306,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Where to get support for carers What it means to be a carer, and where you can get support if you look after someone. What a carer is A carer is someone who provides unpaid support to a family member, child, partner or friend who couldn\u2019t manage daily activities without this help. They don\u2019t have to live in the same house as the person they care for. A carer could support someone who: is ill or frail is disabled has a mental health condition has a learning disability has dementia has a substance misuse problem Find out what help is available for the person you care for . Where to get help for yourself The Council and the Clinical Commissioning Group fund the Carers Hub . They list\u00a0a range of services for\u00a0carers that look after someone in Brighton & Hove. Find information about services, and\u00a0request a carers assessment ,\u00a0on the\u00a0Carers Hub. You can also find local services that support carers on the Health and Adult Social Care directory",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.brighton-hove.gov.uk_node_2011.txt",
+        "level": "level_3",
+        "source": "https://www.brighton-hove.gov.uk/node/2011",
+        "source_url": "https://www.brighton-hove.gov.uk/node/2011",
+        "total_chunks": 3,
+        "type": "web_page"
+      },
+      "id": "66e4353f-a9c4-4b53-9f06-fc2705b0ace5",
+      "distance": 0.6500705480575562,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.15497883558273315,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Where to get support for carers What it means to be a carer, and where you can get support if you look after someone. What a carer is A carer is someone who provides unpaid support to a family member, child, partner or friend who couldn\u2019t manage daily activities without this help. They don\u2019t have to live in the same house as the person they care for. A carer could support someone who: is ill or frail is disabled has a mental health condition has a learning disability has dementia has a substance misuse problem Find out what help is available for the person you care for . Where to get help for yourself The Council and the Clinical Commissioning Group fund the Carers Hub . They list\u00a0a range of services for\u00a0carers that look after someone in Brighton & Hove. Find information about services, and\u00a0request a carers assessment ,\u00a0on the\u00a0Carers Hub. You can also find local services that support carers on the Health and Adult Social Care directory",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.brighton-hove.gov.uk_adult-social-care-hub_support-carers_where-get-support-carers.txt",
+        "level": "level_2",
+        "source": "https://www.brighton-hove.gov.uk/adult-social-care-hub/support-carers/where-get-support-carers",
+        "source_url": "https://www.brighton-hove.gov.uk/adult-social-care-hub/support-carers/where-get-support-carers",
+        "total_chunks": 3,
+        "type": "web_page"
+      },
+      "id": "815aff45-e7ee-4cc2-bd71-7af0e85cf3ff",
+      "distance": 0.6500705480575562,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.15497883558273315,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Find out what you can do to reduce your risk of falling over , and where to get support. Support for carers The Carers Hub list a range of services for carers that look after someone in Brighton & Hove . Find information about services, and request a carers assessment , on the Carers Hub website. Get support from Adult social care If you have a physical disability, mental health condition or illness, you could get care and support from Adult Social Care . They can also help with: safety at home transport and getting around the city equipment for\u00a0daily living More information Find local support groups and activitie s\u00a0on the Adult Social Care directory. Find more activities and services that support disabled and older people on the It\u2019s Local Actually directory.",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.brighton-hove.gov.uk_adult-social-care-hub_be-part-your-community_help-age-well.txt",
+        "level": "level_2",
+        "source": "https://www.brighton-hove.gov.uk/adult-social-care-hub/be-part-your-community/help-age-well",
+        "source_url": "https://www.brighton-hove.gov.uk/adult-social-care-hub/be-part-your-community/help-age-well",
+        "total_chunks": 3,
+        "type": "web_page"
+      },
+      "id": "47a5b885-c376-433d-ab6e-0174a21d42fe",
+      "distance": 0.664093017578125,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1507720947265625,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". We can help if you can\u2019t make decisions for yourself, or you have to make decisions for someone else. Mental Health Act assessments What to do if you\u2019re worried that someone is having a mental health crisis or emergency, and they won\u2019t agree to get help. Support with your mental health and wellbeing What you can do to improve your mental health and wellbeing, and where to get help. Dementia support in Brighton & Hove If you or someone close to you is worried about memory loss, confusion, language difficulties or behaviour changes or is living with dementia, find advice and support from the NHS and other organisations across the city. Abuse, domestic violence and crime Help for an adult at risk of abuse or neglect If you're experiencing abuse or neglect, or you're worried about someone else, tell us. This is often referred to as a safeguarding concern and we can help",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.brighton-hove.gov.uk_adult-social-care-hub_safety-adults.txt",
+        "level": "level_1",
+        "source": "https://www.brighton-hove.gov.uk/adult-social-care-hub/safety-adults",
+        "source_url": "https://www.brighton-hove.gov.uk/adult-social-care-hub/safety-adults",
+        "total_chunks": 5,
+        "type": "web_page"
+      },
+      "id": "39a89e5d-1d9c-4177-aea4-99e1a745d185",
+      "distance": 0.7161128520965576,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.13516614437103272,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". We can help if you can\u2019t make decisions for yourself, or you have to make decisions for someone else. Mental Health Act assessments What to do if you\u2019re worried that someone is having a mental health crisis or emergency, and they won\u2019t agree to get help. Support with your mental health and wellbeing What you can do to improve your mental health and wellbeing, and where to get help. Dementia support in Brighton & Hove If you or someone close to you is worried about memory loss, confusion, language difficulties or behaviour changes or is living with dementia, find advice and support from the NHS and other organisations across the city. Abuse, domestic violence and crime Help for an adult at risk of abuse or neglect If you're experiencing abuse or neglect, or you're worried about someone else, tell us. This is often referred to as a safeguarding concern and we can help",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "new.brighton-hove.gov.uk_adult-social-care_help-stay-safe-home.txt",
+        "level": "level_3",
+        "source": "https://new.brighton-hove.gov.uk/adult-social-care/help-stay-safe-home",
+        "source_url": "https://new.brighton-hove.gov.uk/adult-social-care/help-stay-safe-home",
+        "total_chunks": 5,
+        "type": "web_page"
+      },
+      "id": "7c4aa72c-a77b-4140-973c-a48d61bd44bc",
+      "distance": 0.7161130905151367,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.13516607284545898,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". We can help if you can\u2019t make decisions for yourself, or you have to make decisions for someone else. Mental Health Act assessments What to do if you\u2019re worried that someone is having a mental health crisis or emergency, and they won\u2019t agree to get help. Support with your mental health and wellbeing What you can do to improve your mental health and wellbeing, and where to get help. Dementia support in Brighton & Hove If you or someone close to you is worried about memory loss, confusion, language difficulties or behaviour changes or is living with dementia, find advice and support from the NHS and other organisations across the city. Abuse, domestic violence and crime Help for an adult at risk of abuse or neglect If you're experiencing abuse or neglect, or you're worried about someone else, tell us. This is often referred to as a safeguarding concern and we can help",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.brighton-hove.gov.uk_feeling-safe.txt",
+        "level": "level_3",
+        "source": "http://www.brighton-hove.gov.uk/feeling-safe",
+        "source_url": "http://www.brighton-hove.gov.uk/feeling-safe",
+        "total_chunks": 5,
+        "type": "web_page"
+      },
+      "id": "482493e2-cf9b-4fcf-813d-55d6a3cd7b50",
+      "distance": 0.7161130905151367,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.13516607284545898,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 51 - FINANCIAL/BUDGET INFORMATION]\n51 \n Consider the appointment of specialists like dementia care managers/Admiral \nNurses/dementia practice co -ordinator in primary care to provide continuity o f \ncare going forward from the point of diagnosis. At the moment Alzheimer\u2019s \nSociety Dementia Advisers are only available for the first year after diagnosis \nand Alzheimer\u2019s Society dementia support workers have limited capacity.  \n \nOptimise the use of Extra C are Housing so that they are able to support \npeople with higher level needs for longer thus easing the pressure on \nspecialist dementia beds.  \n \nIncrease and develop the capacity of home care to support the increasing \nnumber of people with dementia, and devel op joint working with health to \nreduce social isolation and decrease delayed discharges of care from \nhospital.  \n \nAdult Social Care to consider possible options and financial implications of \ndeveloping planned respite.",
+      "metadata": {
+        "chunk_id": 145,
+        "contains_financial_info": true,
+        "download_url": "https://www.brighton-hove.gov.uk/sites/default/files/adult%20social%20care/Dementia%20needs%20assessment%20-%2013%20Aug%202019.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Dementia%20needs%20assessment%20-%2013%20Aug%202019.pdf",
+        "financial_pages": "[3, 4, 6, 7, 8, 9, 10, 12, 14, 15, 16, 17, 18, 19, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 32, 33, 34, 35, 37, 40, 41, 42, 43, 44, 46, 50, 51, 52, 54, 55, 56, 57, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 74, 75, 76, 77, 78, 79, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96]",
+        "level": "level_1",
+        "page_count": 98,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98]",
+        "source": "https://www.brighton-hove.gov.uk/adult-social-care-hub/memory-loss",
+        "source_url": "https://www.brighton-hove.gov.uk/adult-social-care-hub/memory-loss",
+        "total_chunks": 284,
+        "type": "pdf"
+      },
+      "id": "18575f0e-6a70-415e-89bf-c4d3e7d1253f",
+      "distance": 0.7171005010604858,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.13486984968185425,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 95 - FINANCIAL/BUDGET INFORMATION]\n95 \n \uf0b7 \u201cMore staff \u2013 therefore more money\u201d  \nSummary: Training was the most common request for additional support to \nimprove dementia care in the homes with four managers writing this.  \n \nQuestion 11 .  If there are any other services provided by your establishment \nfor people with dementia or additional comments you would like to make \nplease write them in the space below...  \nFew responses were received to this request for additional comments \nalthough tw o managers stated that the recent funding received for improving \nthe dementia environment would help them to provide a better service for \npeople with dementia in the future.  \n \nHome Care Organisations Dementia Survey  \nIn addition to the care homes survey, a s imilar survey was conducted of the \nhome care providers in the City. There are approximately 36 home care \nproviders in Brighton & Hove and surveys were completed by ten of these at a \nHome Care Forum meeting in September 2013.",
+      "metadata": {
+        "chunk_id": 278,
+        "contains_financial_info": true,
+        "download_url": "https://www.brighton-hove.gov.uk/sites/default/files/adult%20social%20care/Dementia%20needs%20assessment%20-%2013%20Aug%202019.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Dementia%20needs%20assessment%20-%2013%20Aug%202019.pdf",
+        "financial_pages": "[3, 4, 6, 7, 8, 9, 10, 12, 14, 15, 16, 17, 18, 19, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 32, 33, 34, 35, 37, 40, 41, 42, 43, 44, 46, 50, 51, 52, 54, 55, 56, 57, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 74, 75, 76, 77, 78, 79, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96]",
+        "level": "level_1",
+        "page_count": 98,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98]",
+        "source": "https://www.brighton-hove.gov.uk/adult-social-care-hub/memory-loss",
+        "source_url": "https://www.brighton-hove.gov.uk/adult-social-care-hub/memory-loss",
+        "total_chunks": 284,
+        "type": "pdf"
+      },
+      "id": "151dd215-9d74-49d5-879e-41f213d5c09d",
+      "distance": 0.7225454902146573,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.13323635293560282,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "mild cognitive impairment and their families.  \nThere is no one specialist information point to signpost carers to for more \ninformation on local services, once a family member has been di agnosed. \nExisting information and support services such as the Alzheimer\u2019s CrISP \nprogramme will need to increase their capacity if they are to be able to \nsupport the increasing number of people being diagnosed going forward. \nCarers and cared for need educa tion about evidence based activities they \ncan engage in at each stage of the condition, to help delay further \nprogression. Access to counselling and bereavement support is needed to \nhelp support families with the changes and loss arising from the diagnosis . \nNewly diagnosed dementia patients only get the support of a Dementia \nAdvise r for a year.  \n \nThere is no provision for post diagnostic interventions  similar to the East \nSussex model, which includes cognitive stimulation, memory  \nmanagement, reminiscence, mus ic and wellbeing, dance and movement",
+      "metadata": {
+        "chunk_id": 254,
+        "contains_financial_info": true,
+        "download_url": "https://www.brighton-hove.gov.uk/sites/default/files/adult%20social%20care/Dementia%20needs%20assessment%20-%2013%20Aug%202019.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Dementia%20needs%20assessment%20-%2013%20Aug%202019.pdf",
+        "financial_pages": "[3, 4, 6, 7, 8, 9, 10, 12, 14, 15, 16, 17, 18, 19, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 32, 33, 34, 35, 37, 40, 41, 42, 43, 44, 46, 50, 51, 52, 54, 55, 56, 57, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 74, 75, 76, 77, 78, 79, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96]",
+        "level": "level_1",
+        "page_count": 98,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98]",
+        "source": "https://www.brighton-hove.gov.uk/adult-social-care-hub/memory-loss",
+        "source_url": "https://www.brighton-hove.gov.uk/adult-social-care-hub/memory-loss",
+        "total_chunks": 284,
+        "type": "pdf"
+      },
+      "id": "98a29324-3439-4492-820a-fb2eedd3c8ba",
+      "distance": 0.7256249224192137,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.13231252327423587,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    }
+  ],
+  "context": "[Document 1] From https://www (web_page) - URL: https://www.brighton-hove.gov.uk/adult-social-care-hub/safety-adults/dementia-support-brighton-hove [Retrieved via: semantic_original]:\n. Your Memory Support Worker will develop your Care Plan in partnership with you. There are local services for people with dementia and their loved ones. You can: get support from Alzheimer\u2019s Society\u2019s dementia advisers who can support you before, during and after diagnosis by phone or face to face, as well as connect you to a range of local services find local dementia friendly activities through the Brighton & Hove Ageing Well service find local organisations and services on our Adult Social Care directory get information and support about Young Onset Dementia on the Dementia UK website get help if you\u2019re a carer from the Carers Hub If you find it difficult to cope at home, ask for an assessment from Adult Social Care .\u00a0They can tell you what care and support is available. If you need help to express your views and wishes, find out how an advocate could help\n\n[Document 2] From https://www (web_page) - URL: https://www.brighton-hove.gov.uk/node/2011 [Retrieved via: semantic_original]:\nWhere to get support for carers What it means to be a carer, and where you can get support if you look after someone. What a carer is A carer is someone who provides unpaid support to a family member, child, partner or friend who couldn\u2019t manage daily activities without this help. They don\u2019t have to live in the same house as the person they care for. A carer could support someone who: is ill or frail is disabled has a mental health condition has a learning disability has dementia has a substance misuse problem Find out what help is available for the person you care for . Where to get help for yourself The Council and the Clinical Commissioning Group fund the Carers Hub . They list\u00a0a range of services for\u00a0carers that look after someone in Brighton & Hove. Find information about services, and\u00a0request a carers assessment ,\u00a0on the\u00a0Carers Hub. You can also find local services that support carers on the Health and Adult Social Care directory\n\n[Document 3] From https://www (web_page) - URL: https://www.brighton-hove.gov.uk/adult-social-care-hub/support-carers/where-get-support-carers [Retrieved via: semantic_original]:\nWhere to get support for carers What it means to be a carer, and where you can get support if you look after someone. What a carer is A carer is someone who provides unpaid support to a family member, child, partner or friend who couldn\u2019t manage daily activities without this help. They don\u2019t have to live in the same house as the person they care for. A carer could support someone who: is ill or frail is disabled has a mental health condition has a learning disability has dementia has a substance misuse problem Find out what help is available for the person you care for . Where to get help for yourself The Council and the Clinical Commissioning Group fund the Carers Hub . They list\u00a0a range of services for\u00a0carers that look after someone in Brighton & Hove. Find information about services, and\u00a0request a carers assessment ,\u00a0on the\u00a0Carers Hub. You can also find local services that support carers on the Health and Adult Social Care directory\n\n[Document 4] From https://www (web_page) - URL: https://www.brighton-hove.gov.uk/adult-social-care-hub/be-part-your-community/help-age-well [Retrieved via: semantic_original]:\n. Find out what you can do to reduce your risk of falling over , and where to get support. Support for carers The Carers Hub list a range of services for carers that look after someone in Brighton & Hove . Find information about services, and request a carers assessment , on the Carers Hub website. Get support from Adult social care If you have a physical disability, mental health condition or illness, you could get care and support from Adult Social Care . They can also help with: safety at home transport and getting around the city equipment for\u00a0daily living More information Find local support groups and activitie s\u00a0on the Adult Social Care directory. Find more activities and services that support disabled and older people on the It\u2019s Local Actually directory.\n\n[Document 5] From https://www (web_page) - URL: https://www.brighton-hove.gov.uk/adult-social-care-hub/safety-adults [Retrieved via: semantic_original]:\n. We can help if you can\u2019t make decisions for yourself, or you have to make decisions for someone else. Mental Health Act assessments What to do if you\u2019re worried that someone is having a mental health crisis or emergency, and they won\u2019t agree to get help. Support with your mental health and wellbeing What you can do to improve your mental health and wellbeing, and where to get help. Dementia support in Brighton & Hove If you or someone close to you is worried about memory loss, confusion, language difficulties or behaviour changes or is living with dementia, find advice and support from the NHS and other organisations across the city. Abuse, domestic violence and crime Help for an adult at risk of abuse or neglect If you're experiencing abuse or neglect, or you're worried about someone else, tell us. This is often referred to as a safeguarding concern and we can help\n\n[Document 6] From https://new (web_page) - URL: https://new.brighton-hove.gov.uk/adult-social-care/help-stay-safe-home [Retrieved via: semantic_original]:\n. We can help if you can\u2019t make decisions for yourself, or you have to make decisions for someone else. Mental Health Act assessments What to do if you\u2019re worried that someone is having a mental health crisis or emergency, and they won\u2019t agree to get help. Support with your mental health and wellbeing What you can do to improve your mental health and wellbeing, and where to get help. Dementia support in Brighton & Hove If you or someone close to you is worried about memory loss, confusion, language difficulties or behaviour changes or is living with dementia, find advice and support from the NHS and other organisations across the city. Abuse, domestic violence and crime Help for an adult at risk of abuse or neglect If you're experiencing abuse or neglect, or you're worried about someone else, tell us. This is often referred to as a safeguarding concern and we can help\n\n[Document 7] From http://www (web_page) - URL: http://www.brighton-hove.gov.uk/feeling-safe [Retrieved via: semantic_original]:\n. We can help if you can\u2019t make decisions for yourself, or you have to make decisions for someone else. Mental Health Act assessments What to do if you\u2019re worried that someone is having a mental health crisis or emergency, and they won\u2019t agree to get help. Support with your mental health and wellbeing What you can do to improve your mental health and wellbeing, and where to get help. Dementia support in Brighton & Hove If you or someone close to you is worried about memory loss, confusion, language difficulties or behaviour changes or is living with dementia, find advice and support from the NHS and other organisations across the city. Abuse, domestic violence and crime Help for an adult at risk of abuse or neglect If you're experiencing abuse or neglect, or you're worried about someone else, tell us. This is often referred to as a safeguarding concern and we can help\n\n[Document 8] From https://www (pdf) - URL: https://www.brighton-hove.gov.uk/adult-social-care-hub/memory-loss - 98 pages [Retrieved via: semantic_original]:\n[Page 51 - FINANCIAL/BUDGET INFORMATION]\n51 \n Consider the appointment of specialists like dementia care managers/Admiral \nNurses/dementia practice co -ordinator in primary care to provide continuity o f \ncare going forward from the point of diagnosis. At the moment Alzheimer\u2019s \nSociety Dementia Advisers are only available for the first year after diagnosis \nand Alzheimer\u2019s Society dementia support workers have limited capacity.  \n \nOptimise the use of Extra C are Housing so that they are able to support \npeople with higher level needs for longer thus easing the pressure on \nspecialist dementia beds.  \n \nIncrease and develop the capacity of home care to support the increasing \nnumber of people with dementia, and devel op joint working with health to \nreduce social isolation and decrease delayed discharges of care from \nhospital.  \n \nAdult Social Care to consider possible options and financial implications of \ndeveloping planned respite.\n\n[Document 9] From https://www (pdf) - URL: https://www.brighton-hove.gov.uk/adult-social-care-hub/memory-loss - 98 pages [Retrieved via: semantic_original]:\n[Page 95 - FINANCIAL/BUDGET INFORMATION]\n95 \n \uf0b7 \u201cMore staff \u2013 therefore more money\u201d  \nSummary: Training was the most common request for additional support to \nimprove dementia care in the homes with four managers writing this.  \n \nQuestion 11 .  If there are any other services provided by your establishment \nfor people with dementia or additional comments you would like to make \nplease write them in the space below...  \nFew responses were received to this request for additional comments \nalthough tw o managers stated that the recent funding received for improving \nthe dementia environment would help them to provide a better service for \npeople with dementia in the future.  \n \nHome Care Organisations Dementia Survey  \nIn addition to the care homes survey, a s imilar survey was conducted of the \nhome care providers in the City. There are approximately 36 home care \nproviders in Brighton & Hove and surveys were completed by ten of these at a \nHome Care Forum meeting in September 2013.\n\n[Document 10] From https://www (pdf) - URL: https://www.brighton-hove.gov.uk/adult-social-care-hub/memory-loss - 98 pages [Retrieved via: semantic_original]:\nmild cognitive impairment and their families.  \nThere is no one specialist information point to signpost carers to for more \ninformation on local services, once a family member has been di agnosed. \nExisting information and support services such as the Alzheimer\u2019s CrISP \nprogramme will need to increase their capacity if they are to be able to \nsupport the increasing number of people being diagnosed going forward. \nCarers and cared for need educa tion about evidence based activities they \ncan engage in at each stage of the condition, to help delay further \nprogression. Access to counselling and bereavement support is needed to \nhelp support families with the changes and loss arising from the diagnosis . \nNewly diagnosed dementia patients only get the support of a Dementia \nAdvise r for a year.  \n \nThere is no provision for post diagnostic interventions  similar to the East \nSussex model, which includes cognitive stimulation, memory  \nmanagement, reminiscence, mus ic and wellbeing, dance and movement\n",
+  "answer": "If you are a full-time carer for your husband with advanced dementia in Brighton & Hove and need support, there are several options available to you.\n\n**Summary:** You can access support through the Carers Hub, request a carers assessment, and connect with local services and activities designed for carers and people with dementia.\n\n**Details:**\n\n- **Carers Hub:** The Carers Hub, funded by the Council and the Clinical Commissioning Group, offers a range of services for carers in Brighton & Hove. You can find information about available services and request a carers assessment through their website. This assessment can help identify the support you need as a carer.\n\n- **Local Services and Activities:** You can find local dementia-friendly activities through the Brighton & Hove Ageing Well service. Additionally, the Adult Social Care directory lists local organisations and services that might be helpful.\n\n- **Dementia Support:** The Alzheimer\u2019s Society provides dementia advisers who can support you before, during, and after diagnosis. They can connect you to a range of local services.\n\n- **Advocacy and Assessments:** If you find it difficult to cope at home, you can ask for an assessment from Adult Social Care to learn about the care and support available. An advocate can also help you express your views and wishes if needed.\n\n**Practical Next Steps:**\n\n- Visit the [Carers Hub website](https://www.brighton-hove.gov.uk/node/2011) to request a carers assessment and explore available services.\n- Contact the Alzheimer\u2019s Society for support from dementia advisers.\n- Explore the Adult Social Care directory for local services and activities that can provide additional support.\n\nThese resources can help alleviate some of the burdens you face as a full-time carer and provide much-needed support.",
+  "metrics": {
+    "duration_seconds": 9.146993160247803,
+    "retrieved_docs_count": 10,
+    "query_length": 131,
+    "answer_length": 1814,
+    "retrieval_method": "enhanced",
+    "context_utilization": 0.22279792746113988,
+    "citations_count": 0,
+    "has_citations": false,
+    "query_relevance": 0.7777777777777778,
+    "unique_retrieval_methods": 1,
+    "budget_documents_retrieved": 3,
+    "retrieval_methods_used": [
+      "semantic_original"
+    ],
+    "retrieval_method_distribution": {
+      "semantic_original": 10
+    }
+  },
+  "local_authority": "Brighton-hove",
+  "query_id": "scn_15",
+  "retrieval_method": "enhanced",
+  "run_id": "ba2abf88-0812-4bde-af73-3e7b87061649",
+  "trace": {
+    "run_id": "ba2abf88-0812-4bde-af73-3e7b87061649",
+    "project": "social_care_rag",
+    "url": "https://eu.smith.langchain.com/o/me/runs/ba2abf88-0812-4bde-af73-3e7b87061649"
+  },
+  "test_metadata": {
+    "local_authority": "Brighton-hove",
+    "query_id": "scn_15",
+    "query_category": "carer_support_scenarios",
+    "prompt_variation": "optimized",
+    "prompt_template": "\nPlease answer the following question about social care services in UK local authorities based only on the information in the provided documents.\n\nQuestion: {query}\n\nContext from relevant documents:\n{context}\n\nInstructions:\n1. Provide a clear, direct answer that would help someone needing this information. If information isn't available, state: \"The available documents don't provide specific information about [aspect].\"\n\n2. Synthesize information from ALL relevant documents to provide the most complete answer rather than analyzing documents individually.\n\n3. Structure your response with:\n   - A concise 1-2 sentence summary first\n   - Relevant details organized in short, clear paragraphs\n   - Bullet points for lists or step-by-step information\n   - Bold text for key information the user should notice\n\n4. For financial information:\n   - Include exact figures, time periods, and what the funding covers\n   - Present financial data clearly: \"The adult social care budget is **\u00a3X million** for [time period]\"\n\n5. Always include practical next steps or resources:\n   - Provide contact information, URLs, or application methods mentioned in the documents\n   - Suggest where the person could find more information\n\n6. When citing sources, use a simple format: \"According to [document name/description]\" or include URLs where available.\n\nAnswer:\n",
+    "processing_time": 9.149123191833496,
+    "timestamp": "2025-08-17T22:35:11.302988",
+    "top_k": 10
+  }
+}

@@ -1,0 +1,281 @@
+{
+  "query": "My son with learning disabilities is displaying challenging behavior that I can no longer manage at home in barnet. What emergency support is available?",
+  "retrieved_documents": [
+    {
+      "content": "--\n\nContent Close Barnet Council e-newsletter Sign up to Barnet First External link for weekly service updates and news into your inbox. 28 Jun 2025 6:43pm Worried about someone with learning disabilities If it is an emergency, crisis or you need medical attention For medical advice: call NHS Direct on 111. If someone is experiencing a mental health crisis: call 0800 151 0023. Always call 999 if it is an emergency. What to do if you are worried Contact us if you are worried about a person with learning disabilities. This can include someone you care for, have a relationship with or have seen in the community. Our team can help to protect someone with learning disabilities. Contact the Learning Disabilities Team",
+      "metadata": {
+        "chunk_id": 0,
+        "filename": "www.barnet.gov.uk_adult-social-care_barnet-learning-disabilities-service_worried-about-someone-learn.txt",
+        "level": "level_3",
+        "source": "https://www.barnet.gov.uk/adult-social-care/barnet-learning-disabilities-service/worried-about-someone-learning-disabilities",
+        "source_url": "https://www.barnet.gov.uk/adult-social-care/barnet-learning-disabilities-service/worried-about-someone-learning-disabilities",
+        "total_chunks": 1,
+        "type": "web_page"
+      },
+      "id": "e3211d32-03a6-4211-a401-699075f64856",
+      "distance": 0.6155698299407959,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.16532905101776124,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "--\n\nContent Close Barnet Council e-newsletter Sign up to Barnet First External link for weekly service updates and news into your inbox. 29 Jun 2025 5:49am Your Choice Barnet Contact Details Address: 2 Bristol Avenue Colindale Barnet NW9 4EW Telephone: 020 8080 6587 Email: info@yourchoicebarnet.org External link Website: https://yourchoicebarnet.org/ External link + \u2212 Leaflet External link | \u00a9 OpenStreetMap External link Your Choice Barnet is a specialist social care organisation offering support to people with physical and learning disabilities. These range from visual and hearing impairments to autistic spectrum conditions and behaviours that may challenge services. These include a variety of day services, support for people to live independently in their own homes and short breaks (respite) service. Specialism Physical and learning disabilities",
+      "metadata": {
+        "chunk_id": 0,
+        "filename": "www.barnet.gov.uk_directories_hate-crime-reporting-centres_your-choice-barnet.txt",
+        "level": "level_4",
+        "source": "https://www.barnet.gov.uk/directories/hate-crime-reporting-centres/your-choice-barnet",
+        "source_url": "https://www.barnet.gov.uk/directories/hate-crime-reporting-centres/your-choice-barnet",
+        "total_chunks": 1,
+        "type": "web_page"
+      },
+      "id": "50f166b3-be6e-4ae6-a2cd-5f1e8124920a",
+      "distance": 0.6710850596427917,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.14867448210716247,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". If you are an adult over: 55 please call AgeUK Barnet and ask for the Household Support Fund Team on 020 8203 5040 or email Age UK External link 18 but under 54, please call BOOST and ask for Household Support Fund Team on 020 8359 2442 or email BOOST External link Find out how to apply for\u00a0children and families How to find support Further support is also available from the following organisations: Age UK Barnet External link Later life planning service (over 55s), free and confidential information and advice on welfare and benefits, housing or support services as well as how to keep healthy and active. Telephone: 020 8432 1417 (telephone appointments Monday to Thursday, from 10am to 1pm). Email Age UK Barnet External link Barnet Mencap External link A range of support to anyone living with a learning disability/autism and their carers",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.barnet.gov.uk_adult-social-care_money-and-legal-matters_household-support-fund-adults.txt",
+        "level": "level_2",
+        "source": "https://www.barnet.gov.uk/adult-social-care/money-and-legal-matters/household-support-fund-adults",
+        "source_url": "https://www.barnet.gov.uk/adult-social-care/money-and-legal-matters/household-support-fund-adults",
+        "total_chunks": 5,
+        "type": "web_page"
+      },
+      "id": "fd107575-48a6-41ce-b891-464cff712634",
+      "distance": 0.6950792670249939,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.14147621989250184,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Content Close Barnet Council e-newsletter Sign up to Barnet First External link for weekly service updates and news into your inbox. 28 Jun 2025 6:42pm Who can use our learning disabilities service Social care support We provide social care support to people living in Barnet who are over 25 years old. You must have a diagnosed learning disability. Health support Our health teams can provide help for people over 18 years old. Your registered doctor must be in Barnet. You must have a diagnosed learning disability. To use our services, you would need to have: an IQ below 70 challenges with managing your everyday lives a learning disability that started before you were 18 years old. You would also not be able to use mainstream health and social care services. We do not provide services for people with: Dyslexia Dyspraxia Autism without a learning disability traumatic brain injury after the age of 18 learning difficulties",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.barnet.gov.uk_adult-social-care_barnet-learning-disabilities-service_who-can-use-our-learning-di.txt",
+        "level": "level_3",
+        "source": "https://www.barnet.gov.uk/adult-social-care/barnet-learning-disabilities-service/who-can-use-our-learning-disabilities",
+        "source_url": "https://www.barnet.gov.uk/adult-social-care/barnet-learning-disabilities-service/who-can-use-our-learning-disabilities",
+        "total_chunks": 3,
+        "type": "web_page"
+      },
+      "id": "5b0984c1-7ae4-4943-ad16-4a18c0364118",
+      "distance": 0.7463282942771912,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.12610151171684264,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "--\n\nContent Close Barnet Council e-newsletter Sign up to Barnet First External link for weekly service updates and news into your inbox. 28 Jun 2025 6:43pm Make a referral to Barnet Learning Disabilities Service Check if you can use our services First, please check that you can use\u00a0our services. Who can use\u00a0our services How to make a referral Download our Referral form to Barnet Learning Disabilities Service (MS Word, 320KB) Complete it, giving as much information as possible. Email it to bldsintegratedduty@barnet.gov.uk External link Once we have received your referral we will discuss it at our next weekly meeting. The team will then contact you as soon as possible. If you are unsure If you are unsure of who you should contact. Or, if you want to get some support related to learning disabilities you can contact us here. Contact Us",
+      "metadata": {
+        "chunk_id": 0,
+        "filename": "www.barnet.gov.uk_adult-social-care_barnet-learning-disabilities-service_make-referral-barnet-learni.txt",
+        "level": "level_3",
+        "source": "https://www.barnet.gov.uk/adult-social-care/barnet-learning-disabilities-service/make-referral-barnet-learning-disabilities",
+        "source_url": "https://www.barnet.gov.uk/adult-social-care/barnet-learning-disabilities-service/make-referral-barnet-learning-disabilities",
+        "total_chunks": 1,
+        "type": "web_page"
+      },
+      "id": "4df33b1b-f0fb-44d8-89a3-4c8d99b97a26",
+      "distance": 0.7765766978263855,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.11702699065208436,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". If they don't have the funds available, you may be able to qualify for a Disabled Facilities Grant External link contacting Barnet Homes External link to discuss your needs arranging\u00a0for an occupational therapist to\u00a0assess your needs\u00a0and make recommendations about the type of equipment and adaptations you need support from us, this will depend on an assessment of your needs.\u00a0To request an\u00a0assessment, please contact Social Care Direct on email socialcaredirect@barnet.gov.uk External link or phone\u00a0020 8359 5000",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.barnet.gov.uk_adult-social-care_independence-your-home_get-equipment-adaptations-technology-your.txt",
+        "level": "level_3",
+        "source": "https://www.barnet.gov.uk/adult-social-care/independence-your-home/get-equipment-adaptations-technology-your-home/major",
+        "source_url": "https://www.barnet.gov.uk/adult-social-care/independence-your-home/get-equipment-adaptations-technology-your-home/major",
+        "total_chunks": 3,
+        "type": "web_page"
+      },
+      "id": "9026a796-cb6d-4fcb-a83b-44ad37d40e54",
+      "distance": 0.7913346290588379,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.11259961128234863,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "--\n\nContent Close Barnet Council e-newsletter Sign up to Barnet First External link for weekly service updates and news into your inbox. 28 Jun 2025 5:04pm Specialist support Alzheimers/Dementia If you are living with dementia or care for someone with dementia, there is lots of help and support available to help you. Mental health You can find tips to mental health wellbeing, mental health support organisations, therapy and more urgent help here. Learning disabilities If you have a learning disability, then you can find information, support and advice. Deaf and hearing impaired If you're a person who is deaf or hard of hearing, you can get support and advice from the Barnet Sensory Team and local organisations. Visually impaired If you are a person who has a visual impairment, you can get support and advice from the\u00a0Barnet Sensory Team as well as from local organisations. End of life planning How to make sure you have plans for your future care and plans towards the end of your life.",
+      "metadata": {
+        "chunk_id": 0,
+        "filename": "www.barnet.gov.uk_node_5017.txt",
+        "level": "level_1",
+        "source": "https://www.barnet.gov.uk/node/5017",
+        "source_url": "https://www.barnet.gov.uk/node/5017",
+        "total_chunks": 1,
+        "type": "web_page"
+      },
+      "id": "096c8dc7-84f6-4f26-b14b-614efe08a71b",
+      "distance": 0.7997425198554993,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.11007724404335022,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 25 - FINANCIAL/BUDGET INFORMATION]\nLocal Offer | A guide for young people leaving care    24 Local Offer | A guide for young people leaving care    25\n\u2022  A menu of Barnet support services can be found \nat: https://www.barnet.gov.uk/children-and-\nfamilies/early-help-children-young-people-and-\nfamilies/child-and-family-early-help\n\u2022  For advice on all aspects of family life, from \nbonding with your new baby, dealing with \ntantrums, discipline and communicating, \ncontact Family lives on 0808 800 2222 or  \nemail them for support on askus@familylives.\norg.uk. You can visit their website at:  \nhttps://www.familylives.org.uk/advice/\nHousing \n\u2022  Emergency repair contact information for Barnet \nHomes tenants: https://thebarnetgroup.org/bh/\nrepairs/\n\u2022  Information on the Right to Buy Scheme to \npurchase your council home. Visit: https://www.\ngov.uk/right-to-buy-buying-your-council-home\nLGBTQ\n\u2022  METRO: services to support young LGBT people. \nVisit www.metrocentreonline.org",
+      "metadata": {
+        "chunk_id": 81,
+        "contains_financial_info": true,
+        "download_url": "https://www.barnet.gov.uk/sites/default/files/barnet_care_leavers_local_offer_2023.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "barnet_care_leavers_local_offer_2023.pdf",
+        "financial_pages": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27]",
+        "level": "level_4",
+        "page_count": 28,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28]",
+        "source": "https://www.barnet.gov.uk/node/5554",
+        "source_url": "https://www.barnet.gov.uk/node/5554",
+        "total_chunks": 87,
+        "type": "pdf"
+      },
+      "id": "2913c396-78d2-4c5a-b12f-1ae8fedcb4fa",
+      "distance": 0.8003714680671692,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.10988855957984925,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "--\n\nContent Close Barnet Council e-newsletter Sign up to Barnet First External link for weekly service updates and news into your inbox. 28 Jun 2025 6:45pm Learning Disabilities Resources Resources for professionals Documents for professionals such as forms, assessments and documentation Resources for people with learning disabilities Easy read documents to support people with learning difficulties",
+      "metadata": {
+        "chunk_id": 0,
+        "filename": "www.barnet.gov.uk_node_6908.txt",
+        "level": "level_3",
+        "source": "https://www.barnet.gov.uk/node/6908",
+        "source_url": "https://www.barnet.gov.uk/node/6908",
+        "total_chunks": 1,
+        "type": "web_page"
+      },
+      "id": "22129112-6219-4e53-b3db-da9ddf580846",
+      "distance": 0.7700509428977966,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.10908471713066101,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "--\n\nContent Close Barnet Council e-newsletter Sign up to Barnet First External link for weekly service updates and news into your inbox. 29 Jun 2025 5:48am Inclusion Barnet Contact Details Address: Barnet Centre for Independent Living Grahame Park Concourse Colindale NW9 5UX Telephone: 020 8359 6450 Email: info@barnetcil.org.uk External link Website: http://www.barnetcil.org.uk External link + \u2212 Leaflet External link | \u00a9 OpenStreetMap External link Inclusion Barnet is an independent user-led organisation that exists to promote independent living so that disabled people can have choice and control over the way they live their lives. They provide information advice, advocacy and brokerage service for disabled people. Inclusion Barnet supports people with any form of disability living or working in the London Borough of Barnet. Specialism Disabilities (including learning difficulties and mental health issues)",
+      "metadata": {
+        "chunk_id": 0,
+        "filename": "www.barnet.gov.uk_directories_hate-crime-reporting-centres_inclusion-barnet.txt",
+        "level": "level_4",
+        "source": "https://www.barnet.gov.uk/directories/hate-crime-reporting-centres/inclusion-barnet",
+        "source_url": "https://www.barnet.gov.uk/directories/hate-crime-reporting-centres/inclusion-barnet",
+        "total_chunks": 1,
+        "type": "web_page"
+      },
+      "id": "b302340b-d112-4ce2-8566-2457aafa4f94",
+      "distance": 0.8106194138526917,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1068141758441925,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    }
+  ],
+  "context": "[Document 1] From https://www (web_page) - URL: https://www.barnet.gov.uk/adult-social-care/barnet-learning-disabilities-service/worried-about-someone-learning-disabilities [Retrieved via: semantic_original]:\n--\n\nContent Close Barnet Council e-newsletter Sign up to Barnet First External link for weekly service updates and news into your inbox. 28 Jun 2025 6:43pm Worried about someone with learning disabilities If it is an emergency, crisis or you need medical attention For medical advice: call NHS Direct on 111. If someone is experiencing a mental health crisis: call 0800 151 0023. Always call 999 if it is an emergency. What to do if you are worried Contact us if you are worried about a person with learning disabilities. This can include someone you care for, have a relationship with or have seen in the community. Our team can help to protect someone with learning disabilities. Contact the Learning Disabilities Team\n\n[Document 2] From https://www (web_page) - URL: https://www.barnet.gov.uk/directories/hate-crime-reporting-centres/your-choice-barnet [Retrieved via: semantic_original]:\n--\n\nContent Close Barnet Council e-newsletter Sign up to Barnet First External link for weekly service updates and news into your inbox. 29 Jun 2025 5:49am Your Choice Barnet Contact Details Address: 2 Bristol Avenue Colindale Barnet NW9 4EW Telephone: 020 8080 6587 Email: info@yourchoicebarnet.org External link Website: https://yourchoicebarnet.org/ External link + \u2212 Leaflet External link | \u00a9 OpenStreetMap External link Your Choice Barnet is a specialist social care organisation offering support to people with physical and learning disabilities. These range from visual and hearing impairments to autistic spectrum conditions and behaviours that may challenge services. These include a variety of day services, support for people to live independently in their own homes and short breaks (respite) service. Specialism Physical and learning disabilities\n\n[Document 3] From https://www (web_page) - URL: https://www.barnet.gov.uk/adult-social-care/money-and-legal-matters/household-support-fund-adults [Retrieved via: semantic_original]:\n. If you are an adult over: 55 please call AgeUK Barnet and ask for the Household Support Fund Team on 020 8203 5040 or email Age UK External link 18 but under 54, please call BOOST and ask for Household Support Fund Team on 020 8359 2442 or email BOOST External link Find out how to apply for\u00a0children and families How to find support Further support is also available from the following organisations: Age UK Barnet External link Later life planning service (over 55s), free and confidential information and advice on welfare and benefits, housing or support services as well as how to keep healthy and active. Telephone: 020 8432 1417 (telephone appointments Monday to Thursday, from 10am to 1pm). Email Age UK Barnet External link Barnet Mencap External link A range of support to anyone living with a learning disability/autism and their carers\n\n[Document 4] From https://www (web_page) - URL: https://www.barnet.gov.uk/adult-social-care/barnet-learning-disabilities-service/who-can-use-our-learning-disabilities [Retrieved via: semantic_original]:\nContent Close Barnet Council e-newsletter Sign up to Barnet First External link for weekly service updates and news into your inbox. 28 Jun 2025 6:42pm Who can use our learning disabilities service Social care support We provide social care support to people living in Barnet who are over 25 years old. You must have a diagnosed learning disability. Health support Our health teams can provide help for people over 18 years old. Your registered doctor must be in Barnet. You must have a diagnosed learning disability. To use our services, you would need to have: an IQ below 70 challenges with managing your everyday lives a learning disability that started before you were 18 years old. You would also not be able to use mainstream health and social care services. We do not provide services for people with: Dyslexia Dyspraxia Autism without a learning disability traumatic brain injury after the age of 18 learning difficulties\n\n[Document 5] From https://www (web_page) - URL: https://www.barnet.gov.uk/adult-social-care/barnet-learning-disabilities-service/make-referral-barnet-learning-disabilities [Retrieved via: semantic_original]:\n--\n\nContent Close Barnet Council e-newsletter Sign up to Barnet First External link for weekly service updates and news into your inbox. 28 Jun 2025 6:43pm Make a referral to Barnet Learning Disabilities Service Check if you can use our services First, please check that you can use\u00a0our services. Who can use\u00a0our services How to make a referral Download our Referral form to Barnet Learning Disabilities Service (MS Word, 320KB) Complete it, giving as much information as possible. Email it to bldsintegratedduty@barnet.gov.uk External link Once we have received your referral we will discuss it at our next weekly meeting. The team will then contact you as soon as possible. If you are unsure If you are unsure of who you should contact. Or, if you want to get some support related to learning disabilities you can contact us here. Contact Us\n\n[Document 6] From https://www (web_page) - URL: https://www.barnet.gov.uk/adult-social-care/independence-your-home/get-equipment-adaptations-technology-your-home/major [Retrieved via: semantic_original]:\n. If they don't have the funds available, you may be able to qualify for a Disabled Facilities Grant External link contacting Barnet Homes External link to discuss your needs arranging\u00a0for an occupational therapist to\u00a0assess your needs\u00a0and make recommendations about the type of equipment and adaptations you need support from us, this will depend on an assessment of your needs.\u00a0To request an\u00a0assessment, please contact Social Care Direct on email socialcaredirect@barnet.gov.uk External link or phone\u00a0020 8359 5000\n\n[Document 7] From https://www (web_page) - URL: https://www.barnet.gov.uk/node/5017 [Retrieved via: semantic_original]:\n--\n\nContent Close Barnet Council e-newsletter Sign up to Barnet First External link for weekly service updates and news into your inbox. 28 Jun 2025 5:04pm Specialist support Alzheimers/Dementia If you are living with dementia or care for someone with dementia, there is lots of help and support available to help you. Mental health You can find tips to mental health wellbeing, mental health support organisations, therapy and more urgent help here. Learning disabilities If you have a learning disability, then you can find information, support and advice. Deaf and hearing impaired If you're a person who is deaf or hard of hearing, you can get support and advice from the Barnet Sensory Team and local organisations. Visually impaired If you are a person who has a visual impairment, you can get support and advice from the\u00a0Barnet Sensory Team as well as from local organisations. End of life planning How to make sure you have plans for your future care and plans towards the end of your life.\n\n[Document 8] From https://www (pdf) - URL: https://www.barnet.gov.uk/node/5554 - 28 pages [Retrieved via: semantic_original]:\n[Page 25 - FINANCIAL/BUDGET INFORMATION]\nLocal Offer | A guide for young people leaving care    24 Local Offer | A guide for young people leaving care    25\n\u2022  A menu of Barnet support services can be found \nat: https://www.barnet.gov.uk/children-and-\nfamilies/early-help-children-young-people-and-\nfamilies/child-and-family-early-help\n\u2022  For advice on all aspects of family life, from \nbonding with your new baby, dealing with \ntantrums, discipline and communicating, \ncontact Family lives on 0808 800 2222 or  \nemail them for support on askus@familylives.\norg.uk. You can visit their website at:  \nhttps://www.familylives.org.uk/advice/\nHousing \n\u2022  Emergency repair contact information for Barnet \nHomes tenants: https://thebarnetgroup.org/bh/\nrepairs/\n\u2022  Information on the Right to Buy Scheme to \npurchase your council home. Visit: https://www.\ngov.uk/right-to-buy-buying-your-council-home\nLGBTQ\n\u2022  METRO: services to support young LGBT people. \nVisit www.metrocentreonline.org\n\n[Document 9] From https://www (web_page) - URL: https://www.barnet.gov.uk/node/6908 [Retrieved via: semantic_original]:\n--\n\nContent Close Barnet Council e-newsletter Sign up to Barnet First External link for weekly service updates and news into your inbox. 28 Jun 2025 6:45pm Learning Disabilities Resources Resources for professionals Documents for professionals such as forms, assessments and documentation Resources for people with learning disabilities Easy read documents to support people with learning difficulties\n\n[Document 10] From https://www (web_page) - URL: https://www.barnet.gov.uk/directories/hate-crime-reporting-centres/inclusion-barnet [Retrieved via: semantic_original]:\n--\n\nContent Close Barnet Council e-newsletter Sign up to Barnet First External link for weekly service updates and news into your inbox. 29 Jun 2025 5:48am Inclusion Barnet Contact Details Address: Barnet Centre for Independent Living Grahame Park Concourse Colindale NW9 5UX Telephone: 020 8359 6450 Email: info@barnetcil.org.uk External link Website: http://www.barnetcil.org.uk External link + \u2212 Leaflet External link | \u00a9 OpenStreetMap External link Inclusion Barnet is an independent user-led organisation that exists to promote independent living so that disabled people can have choice and control over the way they live their lives. They provide information advice, advocacy and brokerage service for disabled people. Inclusion Barnet supports people with any form of disability living or working in the London Borough of Barnet. Specialism Disabilities (including learning difficulties and mental health issues)\n",
+  "answer": "If your son with learning disabilities is displaying challenging behavior that you can no longer manage at home in Barnet, there are several emergency support options available.\n\n**Emergency Contacts:**\n- **For immediate emergencies, always call 999.**\n- **For medical advice, contact NHS Direct at 111.**\n- **If experiencing a mental health crisis, call 0800 151 0023.**\n\n**Support Services:**\n- **Contact the Barnet Learning Disabilities Team** for assistance. They can help protect and support individuals with learning disabilities. You can reach them through their contact page: [Barnet Learning Disabilities Service](https://www.barnet.gov.uk/adult-social-care/barnet-learning-disabilities-service/worried-about-someone-learning-disabilities).\n- **Your Choice Barnet** offers specialist social care support, including short breaks and support for living independently. You can contact them at 020 8080 6587 or via email at info@yourchoicebarnet.org. More information is available on their website: [Your Choice Barnet](https://yourchoicebarnet.org/).\n\n**Next Steps:**\n- If you need to make a referral for more structured support, download and complete the referral form for the Barnet Learning Disabilities Service and email it to bldsintegratedduty@barnet.gov.uk. More details can be found here: [Make a Referral](https://www.barnet.gov.uk/adult-social-care/barnet-learning-disabilities-service/make-referral-barnet-learning-disabilities).\n\nThese resources should provide you with the necessary support and guidance to manage the situation effectively.",
+  "metrics": {
+    "duration_seconds": 13.654453992843628,
+    "retrieved_docs_count": 10,
+    "query_length": 152,
+    "answer_length": 1559,
+    "retrieval_method": "enhanced",
+    "context_utilization": 0.20638820638820637,
+    "citations_count": 0,
+    "has_citations": false,
+    "query_relevance": 0.9,
+    "unique_retrieval_methods": 1,
+    "budget_documents_retrieved": 1,
+    "retrieval_methods_used": [
+      "semantic_original"
+    ],
+    "retrieval_method_distribution": {
+      "semantic_original": 10
+    }
+  },
+  "local_authority": "barnet",
+  "query_id": "scn_26",
+  "retrieval_method": "enhanced",
+  "run_id": "9d7e66e1-0b3f-4095-ab27-3a7178392a7f",
+  "trace": {
+    "run_id": "9d7e66e1-0b3f-4095-ab27-3a7178392a7f",
+    "project": "social_care_rag",
+    "url": "https://eu.smith.langchain.com/o/me/runs/9d7e66e1-0b3f-4095-ab27-3a7178392a7f"
+  },
+  "test_metadata": {
+    "local_authority": "barnet",
+    "query_id": "scn_26",
+    "query_category": "emergency_scenarios",
+    "prompt_variation": "optimized",
+    "prompt_template": "\nPlease answer the following question about social care services in UK local authorities based only on the information in the provided documents.\n\nQuestion: {query}\n\nContext from relevant documents:\n{context}\n\nInstructions:\n1. Provide a clear, direct answer that would help someone needing this information. If information isn't available, state: \"The available documents don't provide specific information about [aspect].\"\n\n2. Synthesize information from ALL relevant documents to provide the most complete answer rather than analyzing documents individually.\n\n3. Structure your response with:\n   - A concise 1-2 sentence summary first\n   - Relevant details organized in short, clear paragraphs\n   - Bullet points for lists or step-by-step information\n   - Bold text for key information the user should notice\n\n4. For financial information:\n   - Include exact figures, time periods, and what the funding covers\n   - Present financial data clearly: \"The adult social care budget is **\u00a3X million** for [time period]\"\n\n5. Always include practical next steps or resources:\n   - Provide contact information, URLs, or application methods mentioned in the documents\n   - Suggest where the person could find more information\n\n6. When citing sources, use a simple format: \"According to [document name/description]\" or include URLs where available.\n\nAnswer:\n",
+    "processing_time": 13.657140254974365,
+    "timestamp": "2025-08-19T13:09:31.696028",
+    "top_k": 10
+  }
+}

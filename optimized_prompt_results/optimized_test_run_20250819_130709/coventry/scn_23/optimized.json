@@ -1,0 +1,329 @@
+{
+  "query": "My wife's needs have changed significantly since her last assessment in coventry. How do we request a reassessment and how long will it take?",
+  "retrieved_documents": [
+    {
+      "content": "[Page 8 - FINANCIAL/BUDGET INFORMATION]\n8By 2016 Coventry City Council will have had its government funding cut by nearly a half since \n2010. This means significant savings need to be made to help the Council balance its budget. Adult Social Care will be required to make savings too. We must use these diminishing resources in the best way we can to support Coventry citizens and deliver the objectives set out in the City Council 10-year plan. This is at a time when we know there will be more older people, more people living with long-term health conditions and more people needing support from family and friends. \nTo support the delivery of change, an Adult Social Care Commissioning and Personalisation Plan \nhas been developed which includes an action plan on what changes we propose to make, how these changes will be delivered, and most importantly what improvement we will expect to see as a result over the next two years. The plan is available at\nwww.coventry.gov.uk/adultsocialcarecpp2014",
+      "metadata": {
+        "chunk_id": 10,
+        "contains_financial_info": true,
+        "download_url": "",
+        "extraction_method": "PyPDF2",
+        "filename": "coventry-adult-social-care-annual-report-2013-14-summary.pdf",
+        "financial_pages": "[3, 6, 8, 9, 10, 12]",
+        "level": "level_2",
+        "page_count": 14,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]",
+        "source": "coventry-adult-social-care-annual-report-2013-14-summary.pdf",
+        "source_url": "",
+        "total_chunks": 21,
+        "type": "pdf"
+      },
+      "id": "60ac0e59-d8f7-4bb0-9426-2de877a38448",
+      "distance": 0.6669207215309143,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.14992378354072572,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 39]\nAdult Social Care Annual Report 2012/13    39     Contact Us\nYou can contact us about this report at: \ncomcare.consult@coventry.gov.uk\n \nYou can contact Adults Social Care at:  \ne-mail: coventrydirect@coventry.gov.uk \nor Tel: 0500 834 333 \nAny comments, compliments or complaints can be made by contacting Coventry Direct on 0500 834 333, in person at any of the Council\u2019s reception or enquiry areas, or by filling in an online form here.\nhttp://www.coventry.gov.uk/speakup \nYou can visit the Opal Assessment and Demonstration Centre:\nMonday-Thursday: 9:30am \u2013 4:30 pm, Friday 9:30am \u2013 4:00pmUnit 17-18, Bishopsgate Business Park, Widdrington Road, Coventry , CV1 4NA\nTel: 024 7678 5252\nMore information about Adult Social Care can be found here.\nIf you need this information in another format or langauge please contact:\nTel: 0500 834 333",
+      "metadata": {
+        "chunk_id": 93,
+        "contains_financial_info": true,
+        "download_url": "",
+        "extraction_method": "PyPDF2",
+        "filename": "coventry-local-account-for-adult-social-care-2012-13.pdf",
+        "financial_pages": "[2, 3, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 21, 22, 23, 25, 26, 30, 31, 32, 35, 36, 37, 38]",
+        "level": "level_2",
+        "page_count": 39,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39]",
+        "source": "coventry-local-account-for-adult-social-care-2012-13.pdf",
+        "source_url": "",
+        "total_chunks": 94,
+        "type": "pdf"
+      },
+      "id": "c8dd65b3-28b6-4e25-81e9-a87e26fa802e",
+      "distance": 0.7404546141624451,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.12786361575126648,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "but we continue to face financial pressures and have \nseen an increasing complexity in people\u2019s needs. We \ncontinue to work hard to find new and innovative \nways to enable people to get the right support \nthat meets their needs.  One of our key objectives \nis to look at things from a different perspective, \nrecognising and growing the immense strength and \nassets of Coventry residents and communities.  \nPlease do get in touch if you would like to provide \nfeedback on the Annual Report by emailing  \nabpd@coventry.gov.uk.\n2",
+      "metadata": {
+        "chunk_id": 7,
+        "contains_financial_info": true,
+        "download_url": "",
+        "extraction_method": "PyPDF2",
+        "filename": "adult-social-care-annual-report-2018-19.pdf",
+        "financial_pages": "[3, 5, 6, 7, 8, 9, 10, 11, 12, 13, 17, 20, 21, 24, 26, 28, 30, 31, 32, 33, 34, 35, 36]",
+        "level": "level_2",
+        "page_count": 38,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38]",
+        "source": "adult-social-care-annual-report-2018-19.pdf",
+        "source_url": "",
+        "total_chunks": 92,
+        "type": "pdf"
+      },
+      "id": "b33e9c2a-2365-4ac8-bcb6-9b26e5cdad62",
+      "distance": 0.7416300773620605,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.12751097679138185,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 33]\n33\nAdult Social Care Annual Report 13/14If you need this information in another language or format please contact:\nTelephone: 0500 834 333.You can contact us about this report at: abpd@coventry.gov.uk\nYou can contact Adult Social Care Direct at:\ne-mail: ascdirect@coventry.gov.uk \nor Tel: 024 7683 3003\nAny comments, compliments or complaints can be made by contacting Coventry Direct on 0500 834 333, \nor in person at any of the Council\u2019s reception or enquiry areas, or by filling in an online form.\nYou can visit the Opal Assessment and Demonstration Centre:\nMonday-Thursday 9:30am \u2013 4:30 pm, \nFriday 9:30am \u2013 4:00pm\nUnit 17-18, Bishopsgate Business Park, Widdrington Road, Coventry , CV1 4NA\nTel: 024 7678 5252More information about Adult Social Care can be found at\nwww.coventry.gov.uk/adultsocialcareContact us:",
+      "metadata": {
+        "chunk_id": 105,
+        "contains_financial_info": true,
+        "download_url": "",
+        "extraction_method": "PyPDF2",
+        "filename": "coventry-local-account-for-adult-social-care-2013-14.pdf",
+        "financial_pages": "[2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 24, 25, 26, 28, 29, 30, 31, 32]",
+        "level": "level_2",
+        "page_count": 38,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38]",
+        "source": "coventry-local-account-for-adult-social-care-2013-14.pdf",
+        "source_url": "",
+        "total_chunks": 114,
+        "type": "pdf"
+      },
+      "id": "79b174b0-917d-4117-b81f-412776e03597",
+      "distance": 0.7510003447532654,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.12469989657402039,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 34]\nContact Us     \nYou can contact us about this report at: abpd@coventry. gov.uk\nYou can contact Adult Social Care Direct at:\nEmail: ascdirect@coventry.gov.uk\nTelephone: 024 7683 3003 \nAny comments, compliments or complaints can be made by \ncontacting Coventry Direct on 0500 834 333, or in person at any \nof the Council\u2019s reception or enquiry areas, or by filling in an \nonline form.\nMore information about Adult Social Care can be found at: \nwww.coventry.gov.uk/adultsocialcare\nIf you need this information in another format or language \nplease contact us:\nTelephone: 0500 834 333\n34\n\n[Page 35]\n35",
+      "metadata": {
+        "chunk_id": 71,
+        "contains_financial_info": true,
+        "download_url": "",
+        "extraction_method": "PyPDF2",
+        "filename": "coventry-adult-social-care-annual-report-2014-15.pdf",
+        "financial_pages": "[4, 5, 6, 7, 8, 9, 10, 13, 14, 15, 16, 17, 20, 23, 24, 27, 28, 31, 32, 33]",
+        "level": "level_2",
+        "page_count": 36,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35]",
+        "source": "coventry-adult-social-care-annual-report-2014-15.pdf",
+        "source_url": "",
+        "total_chunks": 72,
+        "type": "pdf"
+      },
+      "id": "ca1115c6-e3e9-4fb2-b2ba-d81eb8156fa2",
+      "distance": 0.7688488960266113,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1193453311920166,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 36]\n36     Adult Social Care Annual Report 2011 /12Contact Us\nYou can contact us about this report at: \ncomcare.consult@coventry.gov.uk\n \nYou can contact Adults Social Care at: E-mail: coventrydirect@coventry.gov.uk \nOrT el: 0500 834 333 \nAny comments, compliments or complaints can be made by contacting Coventry Direct on 0500 834 333, in person at any of the Council\u2019s reception or enquiry areas, or by filling in an online form at:\nhttp://www.coventry.gov.uk/speakup More information can be found here",
+      "metadata": {
+        "chunk_id": 76,
+        "contains_financial_info": true,
+        "download_url": "",
+        "extraction_method": "PyPDF2",
+        "filename": "coventry-local-account-for-adult-social-care-2011-12.pdf",
+        "financial_pages": "[2, 4, 5, 6, 7, 9, 10, 11, 12, 13, 16, 17, 19, 20, 21, 23, 24, 27, 30, 31, 32, 34, 35]",
+        "level": "level_2",
+        "page_count": 36,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36]",
+        "source": "coventry-local-account-for-adult-social-care-2011-12.pdf",
+        "source_url": "",
+        "total_chunks": 77,
+        "type": "pdf"
+      },
+      "id": "531ae9fa-11ff-411f-ac92-67113ee44efc",
+      "distance": 0.7817133665084839,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.11548599004745483,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "(please allow 10 working days for an initial response)  \n \n \nCommissioning  \n \nCommissioning  inquiries: socialcarecommissioning@coventry.gov.uk  \n \nDigital support: Lindon.LaytonBest@coventry.gov.uk  \n \nRecruitment: Mae.Fletcher@coventry.gov.uk  / Simon.Veasey@coventry.gov.uk  \n \n \nFor other escalations, contact your contract officer directly",
+      "metadata": {
+        "chunk_id": 1,
+        "contains_financial_info": true,
+        "download_url": "",
+        "extraction_method": "PyPDF2",
+        "filename": "key-contacts.pdf",
+        "financial_pages": "[1]",
+        "level": "level_2",
+        "page_count": 1,
+        "pages_with_content": "[1]",
+        "source": "key-contacts.pdf",
+        "source_url": "",
+        "total_chunks": 2,
+        "type": "pdf"
+      },
+      "id": "542c4986-34d0-4a53-b129-5ff2e696634d",
+      "distance": 0.7332618236541748,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.11452145290374756,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 14 - FINANCIAL/BUDGET INFORMATION]\nCoventry City Council\u2019s Adult Social Care Self Assessment 2023/2024|    13\nCare, support planning and reviews\nWe aim to co-produce assessments, care, and support plans with \nindividuals and their informal carers. As part of the support planning \nprocess we discuss with people the part they wish to play in organising \nthe support required, whether this is via Direct Payment or City Council \narranged support or a combination of both. Wherever appropriate family \nmembers and unpaid carers are engaged in this process.\nSupport is co-ordinated across different agencies and service and therefore \ndecisions and outcomes are transparent.\nOur priority for reviews is ensuring that all people in receipt of ongoing \ncare and support do not have an interval of more than two years between \nreviews. During 2023/24 we completed 55.6% of reviews for everyone who \nhad been open for over 12 months. We approach reviews as opportunity",
+      "metadata": {
+        "chunk_id": 36,
+        "contains_financial_info": true,
+        "download_url": "",
+        "extraction_method": "PyPDF2",
+        "filename": "coventry-adult-social-care-self-assessment-2023-24.pdf",
+        "financial_pages": "[4, 5, 6, 7, 9, 10, 13, 14, 15, 16, 19, 20, 21, 23, 24, 25, 28, 30, 31, 32, 33, 34, 35, 36, 37, 38, 40, 41, 42, 44, 45, 46, 48, 50, 52, 54, 55, 57, 60]",
+        "level": "level_2",
+        "page_count": 60,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60]",
+        "source": "coventry-adult-social-care-self-assessment-2023-24.pdf",
+        "source_url": "",
+        "total_chunks": 206,
+        "type": "pdf"
+      },
+      "id": "cde9a209-a493-4d8b-9de5-a0f270bcdb98",
+      "distance": 0.7878443002700806,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.11364670991897582,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "will be reviewed every year to decide if the plan is still right for you. If you think your \nneeds have changed, you can call us at any time to request a review. \nIf you disagree with any part of the process, you should discuss this first with your \nassessor. You can also make a complaint via our Adult Social Care complaints process:  \nwww.coventry.gov.uk/socialcarecomplaint\u0007",
+      "metadata": {
+        "chunk_id": 10,
+        "contains_financial_info": true,
+        "download_url": "",
+        "extraction_method": "PyPDF2",
+        "filename": "adult_social_care_assessment_and_eligibility_printable_leaflet.pdf",
+        "financial_pages": "[2, 3]",
+        "level": "level_2",
+        "page_count": 5,
+        "pages_with_content": "[1, 2, 3, 4, 5]",
+        "source": "adult_social_care_assessment_and_eligibility_printable_leaflet.pdf",
+        "source_url": "",
+        "total_chunks": 12,
+        "type": "pdf"
+      },
+      "id": "1bebbbf6-90d3-4da8-9f7f-c655ff7b5118",
+      "distance": 0.7475011944770813,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1135496416568756,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Once you have completed the form you will be given an evidence checklist that lists documents we need to assess your claim. You can upload the evidence required when you submit your application. Should you need to send further information you can email the evidence to benefits@coventry.gov.uk quoting your reference number in the subject header. Please note all benefit claims may take up to 6\u00a0weeks to process, please avoid contacting the team for an update before this time has passed",
+      "metadata": {
+        "chunk_id": 3,
+        "filename": "www.coventry.gov.uk_benefits-1_housing-benefit-council-tax-support.txt",
+        "level": "level_2",
+        "source": "https://www.coventry.gov.uk/benefits-1/housing-benefit-council-tax-support",
+        "source_url": "https://www.coventry.gov.uk/benefits-1/housing-benefit-council-tax-support",
+        "total_chunks": 6,
+        "type": "web_page"
+      },
+      "id": "9cfd7ab3-3755-47f4-97b8-b940d2abb46e",
+      "distance": 0.7904837727546692,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.11175486817359924,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    }
+  ],
+  "context": "[Document 1] From coventry adult social care annual report 2013 14 summary (pdf) - 14 pages [Retrieved via: semantic_original]:\n[Page 8 - FINANCIAL/BUDGET INFORMATION]\n8By 2016 Coventry City Council will have had its government funding cut by nearly a half since \n2010. This means significant savings need to be made to help the Council balance its budget. Adult Social Care will be required to make savings too. We must use these diminishing resources in the best way we can to support Coventry citizens and deliver the objectives set out in the City Council 10-year plan. This is at a time when we know there will be more older people, more people living with long-term health conditions and more people needing support from family and friends. \nTo support the delivery of change, an Adult Social Care Commissioning and Personalisation Plan \nhas been developed which includes an action plan on what changes we propose to make, how these changes will be delivered, and most importantly what improvement we will expect to see as a result over the next two years. The plan is available at\nwww.coventry.gov.uk/adultsocialcarecpp2014\n\n[Document 2] From coventry local account for adult social care 2012 13 (pdf) - 39 pages [Retrieved via: semantic_original]:\n[Page 39]\nAdult Social Care Annual Report 2012/13    39     Contact Us\nYou can contact us about this report at: \ncomcare.consult@coventry.gov.uk\n \nYou can contact Adults Social Care at:  \ne-mail: coventrydirect@coventry.gov.uk \nor Tel: 0500 834 333 \nAny comments, compliments or complaints can be made by contacting Coventry Direct on 0500 834 333, in person at any of the Council\u2019s reception or enquiry areas, or by filling in an online form here.\nhttp://www.coventry.gov.uk/speakup \nYou can visit the Opal Assessment and Demonstration Centre:\nMonday-Thursday: 9:30am \u2013 4:30 pm, Friday 9:30am \u2013 4:00pmUnit 17-18, Bishopsgate Business Park, Widdrington Road, Coventry , CV1 4NA\nTel: 024 7678 5252\nMore information about Adult Social Care can be found here.\nIf you need this information in another format or langauge please contact:\nTel: 0500 834 333\n\n[Document 3] From adult social care annual report 2018 19 (pdf) - 38 pages [Retrieved via: semantic_original]:\nbut we continue to face financial pressures and have \nseen an increasing complexity in people\u2019s needs. We \ncontinue to work hard to find new and innovative \nways to enable people to get the right support \nthat meets their needs.  One of our key objectives \nis to look at things from a different perspective, \nrecognising and growing the immense strength and \nassets of Coventry residents and communities.  \nPlease do get in touch if you would like to provide \nfeedback on the Annual Report by emailing  \nabpd@coventry.gov.uk.\n2\n\n[Document 4] From coventry local account for adult social care 2013 14 (pdf) - 38 pages [Retrieved via: semantic_original]:\n[Page 33]\n33\nAdult Social Care Annual Report 13/14If you need this information in another language or format please contact:\nTelephone: 0500 834 333.You can contact us about this report at: abpd@coventry.gov.uk\nYou can contact Adult Social Care Direct at:\ne-mail: ascdirect@coventry.gov.uk \nor Tel: 024 7683 3003\nAny comments, compliments or complaints can be made by contacting Coventry Direct on 0500 834 333, \nor in person at any of the Council\u2019s reception or enquiry areas, or by filling in an online form.\nYou can visit the Opal Assessment and Demonstration Centre:\nMonday-Thursday 9:30am \u2013 4:30 pm, \nFriday 9:30am \u2013 4:00pm\nUnit 17-18, Bishopsgate Business Park, Widdrington Road, Coventry , CV1 4NA\nTel: 024 7678 5252More information about Adult Social Care can be found at\nwww.coventry.gov.uk/adultsocialcareContact us:\n\n[Document 5] From coventry adult social care annual report 2014 15 (pdf) - 36 pages [Retrieved via: semantic_original]:\n[Page 34]\nContact Us     \nYou can contact us about this report at: abpd@coventry. gov.uk\nYou can contact Adult Social Care Direct at:\nEmail: ascdirect@coventry.gov.uk\nTelephone: 024 7683 3003 \nAny comments, compliments or complaints can be made by \ncontacting Coventry Direct on 0500 834 333, or in person at any \nof the Council\u2019s reception or enquiry areas, or by filling in an \nonline form.\nMore information about Adult Social Care can be found at: \nwww.coventry.gov.uk/adultsocialcare\nIf you need this information in another format or language \nplease contact us:\nTelephone: 0500 834 333\n34\n\n[Page 35]\n35\n\n[Document 6] From coventry local account for adult social care 2011 12 (pdf) - 36 pages [Retrieved via: semantic_original]:\n[Page 36]\n36     Adult Social Care Annual Report 2011 /12Contact Us\nYou can contact us about this report at: \ncomcare.consult@coventry.gov.uk\n \nYou can contact Adults Social Care at: E-mail: coventrydirect@coventry.gov.uk \nOrT el: 0500 834 333 \nAny comments, compliments or complaints can be made by contacting Coventry Direct on 0500 834 333, in person at any of the Council\u2019s reception or enquiry areas, or by filling in an online form at:\nhttp://www.coventry.gov.uk/speakup More information can be found here\n\n[Document 7] From key contacts (pdf) - 1 pages [Retrieved via: semantic_original]:\n(please allow 10 working days for an initial response)  \n \n \nCommissioning  \n \nCommissioning  inquiries: socialcarecommissioning@coventry.gov.uk  \n \nDigital support: Lindon.LaytonBest@coventry.gov.uk  \n \nRecruitment: Mae.Fletcher@coventry.gov.uk  / Simon.Veasey@coventry.gov.uk  \n \n \nFor other escalations, contact your contract officer directly\n\n[Document 8] From coventry adult social care self assessment 2023 24 (pdf) - 60 pages [Retrieved via: semantic_original]:\n[Page 14 - FINANCIAL/BUDGET INFORMATION]\nCoventry City Council\u2019s Adult Social Care Self Assessment 2023/2024|    13\nCare, support planning and reviews\nWe aim to co-produce assessments, care, and support plans with \nindividuals and their informal carers. As part of the support planning \nprocess we discuss with people the part they wish to play in organising \nthe support required, whether this is via Direct Payment or City Council \narranged support or a combination of both. Wherever appropriate family \nmembers and unpaid carers are engaged in this process.\nSupport is co-ordinated across different agencies and service and therefore \ndecisions and outcomes are transparent.\nOur priority for reviews is ensuring that all people in receipt of ongoing \ncare and support do not have an interval of more than two years between \nreviews. During 2023/24 we completed 55.6% of reviews for everyone who \nhad been open for over 12 months. We approach reviews as opportunity\n\n[Document 9] From adult social care assessment and eligibility printable leaflet (pdf) - 5 pages [Retrieved via: semantic_original]:\nwill be reviewed every year to decide if the plan is still right for you. If you think your \nneeds have changed, you can call us at any time to request a review. \nIf you disagree with any part of the process, you should discuss this first with your \nassessor. You can also make a complaint via our Adult Social Care complaints process:  \nwww.coventry.gov.uk/socialcarecomplaint\u0007\n\n[Document 10] From https://www (web_page) - URL: https://www.coventry.gov.uk/benefits-1/housing-benefit-council-tax-support [Retrieved via: semantic_original]:\n. Once you have completed the form you will be given an evidence checklist that lists documents we need to assess your claim. You can upload the evidence required when you submit your application. Should you need to send further information you can email the evidence to benefits@coventry.gov.uk quoting your reference number in the subject header. Please note all benefit claims may take up to 6\u00a0weeks to process, please avoid contacting the team for an update before this time has passed\n",
+  "answer": "To request a reassessment for your wife's changed needs in Coventry, you should contact Adult Social Care directly. **You can call them at 024 7683 3003 or email ascdirect@coventry.gov.uk** to initiate the process. \n\n- If you believe your wife's needs have changed, you can request a review at any time by contacting the Adult Social Care team. \n- According to the documents, there is no specific timeframe mentioned for how long a reassessment will take, but you should allow for an initial response time of **10 working days**.\n\nFor further assistance or to provide feedback, you can also visit the Opal Assessment and Demonstration Centre or contact Coventry Direct at 0500 834 333. More information can be found at [Coventry Adult Social Care](http://www.coventry.gov.uk/adultsocialcare).",
+  "metrics": {
+    "duration_seconds": 11.182500123977661,
+    "retrieved_docs_count": 10,
+    "query_length": 141,
+    "answer_length": 792,
+    "retrieval_method": "enhanced",
+    "context_utilization": 0.1636828644501279,
+    "citations_count": 2,
+    "has_citations": true,
+    "query_relevance": 0.7619047619047619,
+    "unique_retrieval_methods": 1,
+    "budget_documents_retrieved": 9,
+    "retrieval_methods_used": [
+      "semantic_original"
+    ],
+    "retrieval_method_distribution": {
+      "semantic_original": 10
+    }
+  },
+  "local_authority": "coventry",
+  "query_id": "scn_23",
+  "retrieval_method": "enhanced",
+  "run_id": "887b5177-4b43-4265-9826-06151fee11c4",
+  "trace": {
+    "run_id": "887b5177-4b43-4265-9826-06151fee11c4",
+    "project": "social_care_rag",
+    "url": "https://eu.smith.langchain.com/o/me/runs/887b5177-4b43-4265-9826-06151fee11c4"
+  },
+  "test_metadata": {
+    "local_authority": "coventry",
+    "query_id": "scn_23",
+    "query_category": "assessment_scenarios",
+    "prompt_variation": "optimized",
+    "prompt_template": "\nPlease answer the following question about social care services in UK local authorities based only on the information in the provided documents.\n\nQuestion: {query}\n\nContext from relevant documents:\n{context}\n\nInstructions:\n1. Provide a clear, direct answer that would help someone needing this information. If information isn't available, state: \"The available documents don't provide specific information about [aspect].\"\n\n2. Synthesize information from ALL relevant documents to provide the most complete answer rather than analyzing documents individually.\n\n3. Structure your response with:\n   - A concise 1-2 sentence summary first\n   - Relevant details organized in short, clear paragraphs\n   - Bullet points for lists or step-by-step information\n   - Bold text for key information the user should notice\n\n4. For financial information:\n   - Include exact figures, time periods, and what the funding covers\n   - Present financial data clearly: \"The adult social care budget is **\u00a3X million** for [time period]\"\n\n5. Always include practical next steps or resources:\n   - Provide contact information, URLs, or application methods mentioned in the documents\n   - Suggest where the person could find more information\n\n6. When citing sources, use a simple format: \"According to [document name/description]\" or include URLs where available.\n\nAnswer:\n",
+    "processing_time": 11.185534000396729,
+    "timestamp": "2025-08-19T13:29:34.375268",
+    "top_k": 10
+  }
+}

@@ -1,0 +1,313 @@
+{
+  "query": "I'm concerned about an elderly neighbor in Coventry who seems confused and isn't eating properly. How do I report adult safeguarding concerns?",
+  "retrieved_documents": [
+    {
+      "content": "[Page 1]\nAs a member of staff or volunteer you have a duty to:\n\uf0a3\tensure all adults you work with or meet are protected from abuse or neglect\n\uf0a3\tensure that your own behaviour does not cause distress, harm or neglect to    \n any adult\n\uf0a3\treport any abuse or suspicion of abuse or neglect immediately to the   \n relevant social work or mental health team\nSafeguarding Adults \nAt Risk in Coventry\nAn adult with care and support needs is \nsomeone 18 years or over who has a learning \nor physical disability, a mental health issue or \nis an older person.\nFor more information about safeguarding adults visit\nwww.coventry.gov.uk/safeguardingadultsGuidance for staff who suspect abuse, \nneglect or self-neglect of an adult\nIf you are unsure which team to contact call\n024 7683 3003  or email ascdirect@coventry.gov.uk\n\uf0a3\tmake a written record of what the individual and witnesses say in their own  \n words giving dates and times which must be countersigned by your   \n manager",
+      "metadata": {
+        "chunk_id": 0,
+        "download_url": "",
+        "extraction_method": "PyPDF2",
+        "filename": "adult-safeguarding-guidance-for-staff-poster.pdf",
+        "level": "level_1",
+        "page_count": 1,
+        "pages_with_content": "[1]",
+        "source": "adult-safeguarding-guidance-for-staff-poster.pdf",
+        "source_url": "",
+        "total_chunks": 2,
+        "type": "pdf"
+      },
+      "id": "1beeb8d8-bb7d-4d12-ad51-476b1a86d697",
+      "distance": 0.5862556099891663,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.17412331700325012,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 1]\nAre you, or\nsomeone you know being \nabused or neglected?\nIf you, or the person you are worried \nabout, is aged 18 or over and have a \nlearning or physical disability, a mental \nhealth issue or are an older person, you \ncan get support and advice.\nFor more information about safeguarding adults visit\nwww.coventry.gov.uk/safeguardingadultsContact\nAdult Social Care on  024 7683 3003\nor email  ascdirect@coventry.gov.uk  \nIn an emergency dial 999 or urgent \nsituations report it to the police, call 101.\nWorried that someone you \nknow is being harmed or \nneglected? Report it here\nYour views on Adult \nSafeguarding are\nimportant to us.\nHave your say here",
+      "metadata": {
+        "chunk_id": 0,
+        "download_url": "",
+        "extraction_method": "PyPDF2",
+        "filename": "adult-safeguarding-public-information-poster-english.pdf",
+        "level": "level_1",
+        "page_count": 1,
+        "pages_with_content": "[1]",
+        "source": "adult-safeguarding-public-information-poster-english.pdf",
+        "source_url": "",
+        "total_chunks": 1,
+        "type": "pdf"
+      },
+      "id": "dd0682f3-51c2-4736-8753-aa973b181530",
+      "distance": 0.5938175916671753,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1718547224998474,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". If you are still unhappy, or wish to share your views with the local authority, you can do this by contacting the Council . If you need help to do this then you can ask a friend or family member to help, or talk to one of our information and advice services in Coventry. We have\u00a0to follow a legal process when investigating a complaint about adult social care. These pages explain what that process is, and what you can do if you don\u2019t think we\u2019ve done all we can to help. You can also download and print our Listen to me leaflet for a quick guide to complaints, compliments and comments procedure. View a print version Comments, compliments and complaints - ASC Address: Adult Social Care Complaints Customer Service Centre Broadgate House Coventry CV1 5FS Telephone: 08085 834 333 Email: adultsocialcarecustomerrelations@coventry.gov.uk Find out how to change the look, colours, font or language of this website. Next page : Things you may want to complain about",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.coventry.gov.uk_info_194_health_and_social_care_-_having_your_say_and_getting_involved_562_adult.txt",
+        "level": "level_2",
+        "source": "https://www.coventry.gov.uk/info/194/health_and_social_care_-_having_your_say_and_getting_involved/562/adult_social_care_-_comments_compliments_and_complaints",
+        "source_url": "https://www.coventry.gov.uk/info/194/health_and_social_care_-_having_your_say_and_getting_involved/562/adult_social_care_-_comments_compliments_and_complaints",
+        "total_chunks": 3,
+        "type": "web_page"
+      },
+      "id": "f7924fbc-3cb4-4edc-a91e-90ca626af0aa",
+      "distance": 0.6063526272773743,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.16809421181678771,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 17 - FINANCIAL/BUDGET INFORMATION]\nYou can contact us about this report at:  \nabpd@coventry.gov.uk\nYou can contact Adult Social Care Direct at:\nEmail: ascdirect@coventry.gov.uk \nTelephone: 024 7683 3003 \nAny comments, compliments or complaints can be made by contacting Coventry Direct on 0500 834 333, or in person at any of the Council\u2019s reception or enquiry areas, or by filling in an online form.\nMore information about Adult Social Care can be found at:  \nwww.coventry.gov.uk/adultsocialcare\nIf you need this information in another format or language please contact us: \nTelephone: 0500 834 333Contact Us\nMaking \nSafeguarding \nPersonal (MSP)  \n(page 26) Engaging the person in a conversation about how best \nto respond to their safeguarding situation in a way that \nenhances involvement, choice and control as well as \nimproving quality of life, wellbeing and safety.\nSafeguarding concern \n \n(page 26)Report of a suspicion or allegation of abuse or neglect of an \nadult.\nSerious Case \nReview",
+      "metadata": {
+        "chunk_id": 60,
+        "contains_financial_info": true,
+        "download_url": "",
+        "extraction_method": "PyPDF2",
+        "filename": "coventry-adult-social-care-annual-report-2015-16.pdf",
+        "financial_pages": "[2, 4, 6, 7, 8, 9, 11, 13, 14, 15, 16, 17]",
+        "level": "level_2",
+        "page_count": 17,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]",
+        "source": "coventry-adult-social-care-annual-report-2015-16.pdf",
+        "source_url": "",
+        "total_chunks": 63,
+        "type": "pdf"
+      },
+      "id": "279b3c91-1aba-463e-b49e-471a1b5e24c6",
+      "distance": 0.6080214381217957,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1675935685634613,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 36]\n36     Adult Social Care Annual Report 2011 /12Contact Us\nYou can contact us about this report at: \ncomcare.consult@coventry.gov.uk\n \nYou can contact Adults Social Care at: E-mail: coventrydirect@coventry.gov.uk \nOrT el: 0500 834 333 \nAny comments, compliments or complaints can be made by contacting Coventry Direct on 0500 834 333, in person at any of the Council\u2019s reception or enquiry areas, or by filling in an online form at:\nhttp://www.coventry.gov.uk/speakup More information can be found here",
+      "metadata": {
+        "chunk_id": 76,
+        "contains_financial_info": true,
+        "download_url": "",
+        "extraction_method": "PyPDF2",
+        "filename": "coventry-local-account-for-adult-social-care-2011-12.pdf",
+        "financial_pages": "[2, 4, 5, 6, 7, 9, 10, 11, 12, 13, 16, 17, 19, 20, 21, 23, 24, 27, 30, 31, 32, 34, 35]",
+        "level": "level_2",
+        "page_count": 36,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36]",
+        "source": "coventry-local-account-for-adult-social-care-2011-12.pdf",
+        "source_url": "",
+        "total_chunks": 77,
+        "type": "pdf"
+      },
+      "id": "531ae9fa-11ff-411f-ac92-67113ee44efc",
+      "distance": 0.6311492323875427,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.16065523028373718,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "--\n\nReport a concern How to report an adult safeguarding concern Have your say: adult safeguarding survey Safeguarding Adults Board Safeguarding adults reviews Safeguarding adults resources Policies and procedures Abuse and neglect of adults Quality assurance One minute guides Workforce development Strategic plan and annual report Newsletters Making Safeguarding Personal Show more Services Coventry Safeguarding Adults Board (CSAB) This team cannot take calls related to individuals or families. To discuss an individual or a case please contact Adult Social Care Direct on 024 7683 3003 or email ascdirect@coventry.gov.uk. Remember, if it's an emergency, dial 999. Address: Coventry City Council PO Box 7097 Coventry CV6 9SL Telephone: 024 7697 5477 Email: CoventrySAB@coventry.gov.uk Sign up to the Safeguarding Adults Board newsletter",
+      "metadata": {
+        "chunk_id": 0,
+        "filename": "www.coventry.gov.uk_csab.txt",
+        "level": "level_2",
+        "source": "https://www.coventry.gov.uk/csab",
+        "source_url": "https://www.coventry.gov.uk/csab",
+        "total_chunks": 1,
+        "type": "web_page"
+      },
+      "id": "d6095106-96ff-4323-a4f6-290200cc9c59",
+      "distance": 0.6347429752349854,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1595771074295044,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "--\n\nReport a concern How to report an adult safeguarding concern Have your say: adult safeguarding survey Safeguarding Adults Board Safeguarding adults reviews Safeguarding adults resources Policies and procedures Abuse and neglect of adults Quality assurance One minute guides Workforce development Strategic plan and annual report Newsletters Making Safeguarding Personal Show more Services Coventry Safeguarding Adults Board (CSAB) This team cannot take calls related to individuals or families. To discuss an individual or a case please contact Adult Social Care Direct on 024 7683 3003 or email ascdirect@coventry.gov.uk. Remember, if it's an emergency, dial 999. Address: Coventry City Council PO Box 7097 Coventry CV6 9SL Telephone: 024 7697 5477 Email: CoventrySAB@coventry.gov.uk Sign up to the Safeguarding Adults Board newsletter",
+      "metadata": {
+        "chunk_id": 0,
+        "filename": "www.coventry.gov.uk_coventry-safeguarding-adults-board.txt",
+        "level": "level_2",
+        "source": "https://www.coventry.gov.uk/coventry-safeguarding-adults-board",
+        "source_url": "https://www.coventry.gov.uk/coventry-safeguarding-adults-board",
+        "total_chunks": 1,
+        "type": "web_page"
+      },
+      "id": "4edb18fc-5f42-4ef2-92f2-c1d9a4a3fcce",
+      "distance": 0.6347429752349854,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1595771074295044,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "what everyone else is doing to meet the \nneeds of the organization and no t doing \nanything individual  \nNeglect & \nActs of \nOmission  Ignoring medical, emotional or physical needs  such as food and \nheating and failing to provide access to appropriate health care and \nsupport  weight loss, cold house, inappropriate \nclothing, no mobility aids, not enough food \nin the cupboards, untreated medical issues   \nSelf-Neglect  Neglecting to care for one\u2019s personal hygiene, health or \nsurroundings so that it threatens their health and safety  not bothering to wash, eat or keep the home \nclean, h oarding, not caring and not letting \nanyone help    \n \nKey Contacts and Further Information  \nCoventry Safeguarding Children Partnership website - https://www.coventry.gov.uk/lscb  \nCoventry Safeguarding Adults Board website  - https://www.coventry.gov.uk/csab  If you see/are told something or it doesn\u2019t seem right, report it to Adult Social Care:  \nTelephone 024 7683 3003  \nEmail ascdirect@coventry.gov.uk",
+      "metadata": {
+        "chunk_id": 6,
+        "contains_financial_info": true,
+        "download_url": "",
+        "extraction_method": "PyPDF2",
+        "filename": "one_minute_guide_-_safeguarding_adults.pdf",
+        "financial_pages": "[1, 2]",
+        "level": "level_2",
+        "page_count": 2,
+        "pages_with_content": "[1, 2]",
+        "source": "one_minute_guide_-_safeguarding_adults.pdf",
+        "source_url": "",
+        "total_chunks": 8,
+        "type": "pdf"
+      },
+      "id": "ef677fad-6e54-4112-a2ed-f8ef9fdfaafa",
+      "distance": 0.6367311477661133,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.158980655670166,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 34]\nContact Us     \nYou can contact us about this report at: abpd@coventry. gov.uk\nYou can contact Adult Social Care Direct at:\nEmail: ascdirect@coventry.gov.uk\nTelephone: 024 7683 3003 \nAny comments, compliments or complaints can be made by \ncontacting Coventry Direct on 0500 834 333, or in person at any \nof the Council\u2019s reception or enquiry areas, or by filling in an \nonline form.\nMore information about Adult Social Care can be found at: \nwww.coventry.gov.uk/adultsocialcare\nIf you need this information in another format or language \nplease contact us:\nTelephone: 0500 834 333\n34\n\n[Page 35]\n35",
+      "metadata": {
+        "chunk_id": 71,
+        "contains_financial_info": true,
+        "download_url": "",
+        "extraction_method": "PyPDF2",
+        "filename": "coventry-adult-social-care-annual-report-2014-15.pdf",
+        "financial_pages": "[4, 5, 6, 7, 8, 9, 10, 13, 14, 15, 16, 17, 20, 23, 24, 27, 28, 31, 32, 33]",
+        "level": "level_2",
+        "page_count": 36,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35]",
+        "source": "coventry-adult-social-care-annual-report-2014-15.pdf",
+        "source_url": "",
+        "total_chunks": 72,
+        "type": "pdf"
+      },
+      "id": "ca1115c6-e3e9-4fb2-b2ba-d81eb8156fa2",
+      "distance": 0.6414905786514282,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.15755282640457152,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 3]\nCoventry Safeguarding  Adults Board Practice Tool to Aid Decision Making \n3  \n  \n \n \nIntroduction  \nThe Care Act 2014 clearly advocates that adults have the right to live in a safe environment free from abuse or neglect. The Care Act 2014 \nstatutory guidance states the Local Authority must make enquiries, or cause others to do so if they reasonably suspect an adult: \n\uf084 has needs for care and support (whether or not the Local Authority is meeting any of those needs); and \n\uf084 is experiencing, or at risk of abuse and neglect; and \n\uf084 as a result of those care and support needs is unable to protect themselves from either the risk of, or experience of abuse or neglect. \n \nThey may be a person who: \n\uf084 is elderly and frail due to ill health, physical disability or cognitive impairment; \n\uf084 has a learning disability; \n\uf084 has a physical disability and/or a sensory impairment; \n\uf084 has mental health needs, including dementia; \n\uf084 has a long-term illness or condition; \n\uf084 misuses substances or alcohol;",
+      "metadata": {
+        "chunk_id": 1,
+        "contains_financial_info": true,
+        "download_url": "",
+        "extraction_method": "PyPDF2",
+        "filename": "coventry-safeguarding-adults-board-practice-tool-to-aid-decision-making.pdf",
+        "financial_pages": "[7, 8, 11, 12]",
+        "level": "level_1",
+        "page_count": 15,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 11, 12, 13, 14, 15]",
+        "source": "coventry-safeguarding-adults-board-practice-tool-to-aid-decision-making.pdf",
+        "source_url": "",
+        "total_chunks": 32,
+        "type": "pdf"
+      },
+      "id": "b1f64996-0b69-4c7f-ab18-e5d068a927ca",
+      "distance": 0.6435478925704956,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.15693563222885132,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    }
+  ],
+  "context": "[Document 1] From adult safeguarding guidance for staff poster (pdf) - 1 pages [Retrieved via: semantic_original]:\n[Page 1]\nAs a member of staff or volunteer you have a duty to:\n\uf0a3\tensure all adults you work with or meet are protected from abuse or neglect\n\uf0a3\tensure that your own behaviour does not cause distress, harm or neglect to    \n any adult\n\uf0a3\treport any abuse or suspicion of abuse or neglect immediately to the   \n relevant social work or mental health team\nSafeguarding Adults \nAt Risk in Coventry\nAn adult with care and support needs is \nsomeone 18 years or over who has a learning \nor physical disability, a mental health issue or \nis an older person.\nFor more information about safeguarding adults visit\nwww.coventry.gov.uk/safeguardingadultsGuidance for staff who suspect abuse, \nneglect or self-neglect of an adult\nIf you are unsure which team to contact call\n024 7683 3003  or email ascdirect@coventry.gov.uk\n\uf0a3\tmake a written record of what the individual and witnesses say in their own  \n words giving dates and times which must be countersigned by your   \n manager\n\n[Document 2] From adult safeguarding public information poster english (pdf) - 1 pages [Retrieved via: semantic_original]:\n[Page 1]\nAre you, or\nsomeone you know being \nabused or neglected?\nIf you, or the person you are worried \nabout, is aged 18 or over and have a \nlearning or physical disability, a mental \nhealth issue or are an older person, you \ncan get support and advice.\nFor more information about safeguarding adults visit\nwww.coventry.gov.uk/safeguardingadultsContact\nAdult Social Care on  024 7683 3003\nor email  ascdirect@coventry.gov.uk  \nIn an emergency dial 999 or urgent \nsituations report it to the police, call 101.\nWorried that someone you \nknow is being harmed or \nneglected? Report it here\nYour views on Adult \nSafeguarding are\nimportant to us.\nHave your say here\n\n[Document 3] From https://www (web_page) - URL: https://www.coventry.gov.uk/info/194/health_and_social_care_-_having_your_say_and_getting_involved/562/adult_social_care_-_comments_compliments_and_complaints [Retrieved via: semantic_original]:\n. If you are still unhappy, or wish to share your views with the local authority, you can do this by contacting the Council . If you need help to do this then you can ask a friend or family member to help, or talk to one of our information and advice services in Coventry. We have\u00a0to follow a legal process when investigating a complaint about adult social care. These pages explain what that process is, and what you can do if you don\u2019t think we\u2019ve done all we can to help. You can also download and print our Listen to me leaflet for a quick guide to complaints, compliments and comments procedure. View a print version Comments, compliments and complaints - ASC Address: Adult Social Care Complaints Customer Service Centre Broadgate House Coventry CV1 5FS Telephone: 08085 834 333 Email: adultsocialcarecustomerrelations@coventry.gov.uk Find out how to change the look, colours, font or language of this website. Next page : Things you may want to complain about\n\n[Document 4] From coventry adult social care annual report 2015 16 (pdf) - 17 pages [Retrieved via: semantic_original]:\n[Page 17 - FINANCIAL/BUDGET INFORMATION]\nYou can contact us about this report at:  \nabpd@coventry.gov.uk\nYou can contact Adult Social Care Direct at:\nEmail: ascdirect@coventry.gov.uk \nTelephone: 024 7683 3003 \nAny comments, compliments or complaints can be made by contacting Coventry Direct on 0500 834 333, or in person at any of the Council\u2019s reception or enquiry areas, or by filling in an online form.\nMore information about Adult Social Care can be found at:  \nwww.coventry.gov.uk/adultsocialcare\nIf you need this information in another format or language please contact us: \nTelephone: 0500 834 333Contact Us\nMaking \nSafeguarding \nPersonal (MSP)  \n(page 26) Engaging the person in a conversation about how best \nto respond to their safeguarding situation in a way that \nenhances involvement, choice and control as well as \nimproving quality of life, wellbeing and safety.\nSafeguarding concern \n \n(page 26)Report of a suspicion or allegation of abuse or neglect of an \nadult.\nSerious Case \nReview\n\n[Document 5] From coventry local account for adult social care 2011 12 (pdf) - 36 pages [Retrieved via: semantic_original]:\n[Page 36]\n36     Adult Social Care Annual Report 2011 /12Contact Us\nYou can contact us about this report at: \ncomcare.consult@coventry.gov.uk\n \nYou can contact Adults Social Care at: E-mail: coventrydirect@coventry.gov.uk \nOrT el: 0500 834 333 \nAny comments, compliments or complaints can be made by contacting Coventry Direct on 0500 834 333, in person at any of the Council\u2019s reception or enquiry areas, or by filling in an online form at:\nhttp://www.coventry.gov.uk/speakup More information can be found here\n\n[Document 6] From https://www (web_page) - URL: https://www.coventry.gov.uk/csab [Retrieved via: semantic_original]:\n--\n\nReport a concern How to report an adult safeguarding concern Have your say: adult safeguarding survey Safeguarding Adults Board Safeguarding adults reviews Safeguarding adults resources Policies and procedures Abuse and neglect of adults Quality assurance One minute guides Workforce development Strategic plan and annual report Newsletters Making Safeguarding Personal Show more Services Coventry Safeguarding Adults Board (CSAB) This team cannot take calls related to individuals or families. To discuss an individual or a case please contact Adult Social Care Direct on 024 7683 3003 or email ascdirect@coventry.gov.uk. Remember, if it's an emergency, dial 999. Address: Coventry City Council PO Box 7097 Coventry CV6 9SL Telephone: 024 7697 5477 Email: CoventrySAB@coventry.gov.uk Sign up to the Safeguarding Adults Board newsletter\n\n[Document 7] From https://www (web_page) - URL: https://www.coventry.gov.uk/coventry-safeguarding-adults-board [Retrieved via: semantic_original]:\n--\n\nReport a concern How to report an adult safeguarding concern Have your say: adult safeguarding survey Safeguarding Adults Board Safeguarding adults reviews Safeguarding adults resources Policies and procedures Abuse and neglect of adults Quality assurance One minute guides Workforce development Strategic plan and annual report Newsletters Making Safeguarding Personal Show more Services Coventry Safeguarding Adults Board (CSAB) This team cannot take calls related to individuals or families. To discuss an individual or a case please contact Adult Social Care Direct on 024 7683 3003 or email ascdirect@coventry.gov.uk. Remember, if it's an emergency, dial 999. Address: Coventry City Council PO Box 7097 Coventry CV6 9SL Telephone: 024 7697 5477 Email: CoventrySAB@coventry.gov.uk Sign up to the Safeguarding Adults Board newsletter\n\n[Document 8] From one minute guide   safeguarding adults (pdf) - 2 pages [Retrieved via: semantic_original]:\nwhat everyone else is doing to meet the \nneeds of the organization and no t doing \nanything individual  \nNeglect & \nActs of \nOmission  Ignoring medical, emotional or physical needs  such as food and \nheating and failing to provide access to appropriate health care and \nsupport  weight loss, cold house, inappropriate \nclothing, no mobility aids, not enough food \nin the cupboards, untreated medical issues   \nSelf-Neglect  Neglecting to care for one\u2019s personal hygiene, health or \nsurroundings so that it threatens their health and safety  not bothering to wash, eat or keep the home \nclean, h oarding, not caring and not letting \nanyone help    \n \nKey Contacts and Further Information  \nCoventry Safeguarding Children Partnership website - https://www.coventry.gov.uk/lscb  \nCoventry Safeguarding Adults Board website  - https://www.coventry.gov.uk/csab  If you see/are told something or it doesn\u2019t seem right, report it to Adult Social Care:  \nTelephone 024 7683 3003  \nEmail ascdirect@coventry.gov.uk\n\n[Document 9] From coventry adult social care annual report 2014 15 (pdf) - 36 pages [Retrieved via: semantic_original]:\n[Page 34]\nContact Us     \nYou can contact us about this report at: abpd@coventry. gov.uk\nYou can contact Adult Social Care Direct at:\nEmail: ascdirect@coventry.gov.uk\nTelephone: 024 7683 3003 \nAny comments, compliments or complaints can be made by \ncontacting Coventry Direct on 0500 834 333, or in person at any \nof the Council\u2019s reception or enquiry areas, or by filling in an \nonline form.\nMore information about Adult Social Care can be found at: \nwww.coventry.gov.uk/adultsocialcare\nIf you need this information in another format or language \nplease contact us:\nTelephone: 0500 834 333\n34\n\n[Page 35]\n35\n\n[Document 10] From coventry safeguarding adults board practice tool to aid decision making (pdf) - 15 pages [Retrieved via: semantic_original]:\n[Page 3]\nCoventry Safeguarding  Adults Board Practice Tool to Aid Decision Making \n3  \n  \n \n \nIntroduction  \nThe Care Act 2014 clearly advocates that adults have the right to live in a safe environment free from abuse or neglect. The Care Act 2014 \nstatutory guidance states the Local Authority must make enquiries, or cause others to do so if they reasonably suspect an adult: \n\uf084 has needs for care and support (whether or not the Local Authority is meeting any of those needs); and \n\uf084 is experiencing, or at risk of abuse and neglect; and \n\uf084 as a result of those care and support needs is unable to protect themselves from either the risk of, or experience of abuse or neglect. \n \nThey may be a person who: \n\uf084 is elderly and frail due to ill health, physical disability or cognitive impairment; \n\uf084 has a learning disability; \n\uf084 has a physical disability and/or a sensory impairment; \n\uf084 has mental health needs, including dementia; \n\uf084 has a long-term illness or condition; \n\uf084 misuses substances or alcohol;\n",
+  "answer": "To report adult safeguarding concerns in Coventry, you should contact **Adult Social Care Direct**. You can do this by calling **024 7683 3003** or emailing **ascdirect@coventry.gov.uk**. If the situation is an emergency, you should dial **999**.\n\n- **Contact Information:**\n  - **Phone:** 024 7683 3003\n  - **Email:** ascdirect@coventry.gov.uk\n  - **Emergency:** Dial 999\n\nFor more information about safeguarding adults, you can visit the Coventry City Council's safeguarding webpage at [www.coventry.gov.uk/safeguardingadults](http://www.coventry.gov.uk/safeguardingadults).\n\nIf the situation is urgent but not an emergency, you can also report it to the police by calling **101**.",
+  "metrics": {
+    "duration_seconds": 5.657835006713867,
+    "retrieved_docs_count": 10,
+    "query_length": 142,
+    "answer_length": 683,
+    "retrieval_method": "enhanced",
+    "context_utilization": 0.09647058823529411,
+    "citations_count": 0,
+    "has_citations": false,
+    "query_relevance": 0.5,
+    "unique_retrieval_methods": 1,
+    "budget_documents_retrieved": 5,
+    "retrieval_methods_used": [
+      "semantic_original"
+    ],
+    "retrieval_method_distribution": {
+      "semantic_original": 10
+    }
+  },
+  "local_authority": "Coventry",
+  "query_id": "scn_25",
+  "retrieval_method": "enhanced",
+  "run_id": "2c091ff8-7c92-45f4-a808-d63d9852c23f",
+  "trace": {
+    "run_id": "2c091ff8-7c92-45f4-a808-d63d9852c23f",
+    "project": "social_care_rag",
+    "url": "https://eu.smith.langchain.com/o/me/runs/2c091ff8-7c92-45f4-a808-d63d9852c23f"
+  },
+  "test_metadata": {
+    "local_authority": "Coventry",
+    "query_id": "scn_25",
+    "query_category": "emergency_scenarios",
+    "prompt_variation": "optimized",
+    "prompt_template": "\nPlease answer the following question about social care services in UK local authorities based only on the information in the provided documents.\n\nQuestion: {query}\n\nContext from relevant documents:\n{context}\n\nInstructions:\n1. Provide a clear, direct answer that would help someone needing this information. If information isn't available, state: \"The available documents don't provide specific information about [aspect].\"\n\n2. Synthesize information from ALL relevant documents to provide the most complete answer rather than analyzing documents individually.\n\n3. Structure your response with:\n   - A concise 1-2 sentence summary first\n   - Relevant details organized in short, clear paragraphs\n   - Bullet points for lists or step-by-step information\n   - Bold text for key information the user should notice\n\n4. For financial information:\n   - Include exact figures, time periods, and what the funding covers\n   - Present financial data clearly: \"The adult social care budget is **\u00a3X million** for [time period]\"\n\n5. Always include practical next steps or resources:\n   - Provide contact information, URLs, or application methods mentioned in the documents\n   - Suggest where the person could find more information\n\n6. When citing sources, use a simple format: \"According to [document name/description]\" or include URLs where available.\n\nAnswer:\n",
+    "processing_time": 5.66054892539978,
+    "timestamp": "2025-08-17T22:40:11.194586",
+    "top_k": 10
+  }
+}

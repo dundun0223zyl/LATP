@@ -1,0 +1,275 @@
+{
+  "query": "My son with learning disabilities is displaying challenging behavior that I can no longer manage at home in manchester. What emergency support is available?",
+  "retrieved_documents": [
+    {
+      "content": "--\n\nSocial services Choose from the list of policies and strategies: Manchester Local Care Organisation (Adult Social Care) Commissioning Plan Manchester safeguarding policies and procedures Manchester's multi-agency safeguarding arrangements (MMASA) Mental capacity act Our Manchester disability plan Placing looked after children in Manchester Was this page helpful? Was this page helpful? Fields marked * cannot be left blank Yes No What were you doing? * What went wrong? * What were you looking for? * How can we make this page better? * Feedback submitted to us on this form is monitored but you won\u2019t receive a reply. In an emergency, visit our emergency contact details page . Please don't include any personal or financial information, for example your National Insurance or credit card numbers.",
+      "metadata": {
+        "chunk_id": 0,
+        "filename": "www.manchester.gov.uk_directory_99_policies_and_strategies_category_1051.txt",
+        "level": "level_3",
+        "source": "https://www.manchester.gov.uk/directory/99/policies_and_strategies/category/1051",
+        "source_url": "https://www.manchester.gov.uk/directory/99/policies_and_strategies/category/1051",
+        "total_chunks": 1,
+        "type": "web_page"
+      },
+      "id": "ca0103af-6dac-4b4f-9f53-9b992ad7e633",
+      "distance": 0.6948035359382629,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1415589392185211,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "--\n\nSocial services Choose from the list of policies and strategies: Manchester Local Care Organisation (Adult Social Care) Commissioning Plan Manchester safeguarding policies and procedures Manchester's multi-agency safeguarding arrangements (MMASA) Mental capacity act Our Manchester disability plan Placing looked after children in Manchester Was this page helpful? Was this page helpful? Fields marked * cannot be left blank Yes No What were you doing? * What went wrong? * What were you looking for? * How can we make this page better? * Feedback submitted to us on this form is monitored but you won\u2019t receive a reply. In an emergency, visit our emergency contact details page . Please don't include any personal or financial information, for example your National Insurance or credit card numbers.",
+      "metadata": {
+        "chunk_id": 0,
+        "filename": "www.manchester.gov.uk_directory_99_policies_and_strategies_category_1051_categoryInfo_72.txt",
+        "level": "level_1",
+        "source": "https://www.manchester.gov.uk/directory/99/policies_and_strategies/category/1051/categoryInfo/72",
+        "source_url": "https://www.manchester.gov.uk/directory/99/policies_and_strategies/category/1051/categoryInfo/72",
+        "total_chunks": 1,
+        "type": "web_page"
+      },
+      "id": "91dedf82-c274-4c00-8f7e-75aad275c48e",
+      "distance": 0.6948036647076209,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.14155890058771373,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Major adaptations . You can get changes in your home such as ramps, walk-in showers, wet rooms and stairlifts through a Disabled Facilities Grant. Call us and we'll come to discuss what you need. There could be lots of other things to help you keep doing what you do, your way, including alarms to let someone know if you need help. Just call us to discuss on 0161 234 5001 or\u00a0email socialcare@manchester.gov.uk Was this page helpful? Was this page helpful? Fields marked * cannot be left blank Yes No What were you doing? * What went wrong? * What were you looking for? * How can we make this page better? * Feedback submitted to us on this form is monitored but you won\u2019t receive a reply. In an emergency, visit our emergency contact details page . Please don't include any personal or financial information, for example your National Insurance or credit card numbers.",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.manchester.gov.uk_info_100010_social_services_1368_equipment_and_adaptations_for_independent_liv.txt",
+        "level": "level_3",
+        "source": "http://www.manchester.gov.uk/info/100010/social_services/1368/equipment_and_adaptations_for_independent_living/2",
+        "source_url": "http://www.manchester.gov.uk/info/100010/social_services/1368/equipment_and_adaptations_for_independent_living/2",
+        "total_chunks": 3,
+        "type": "web_page"
+      },
+      "id": "c2d38c6b-3c8b-4deb-9f76-ff4abe6e4ed0",
+      "distance": 0.6973989009857178,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.14078032970428467,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Major adaptations . You can get changes in your home such as ramps, walk-in showers, wet rooms and stairlifts through a Disabled Facilities Grant. Call us and we'll come to discuss what you need. There could be lots of other things to help you keep doing what you do, your way, including alarms to let someone know if you need help. Just call us to discuss on 0161 234 5001 or\u00a0email socialcare@manchester.gov.uk Was this page helpful? Was this page helpful? Fields marked * cannot be left blank Yes No What were you doing? * What went wrong? * What were you looking for? * How can we make this page better? * Feedback submitted to us on this form is monitored but you won\u2019t receive a reply. In an emergency, visit our emergency contact details page . Please don't include any personal or financial information, for example your National Insurance or credit card numbers.",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.manchester.gov.uk_info_100010_social_services_1368_equipment_and_adaptations_to_maintain_indepen.txt",
+        "level": "level_2",
+        "source": "https://www.manchester.gov.uk/info/100010/social_services/1368/equipment_and_adaptations_to_maintain_independence",
+        "source_url": "https://www.manchester.gov.uk/info/100010/social_services/1368/equipment_and_adaptations_to_maintain_independence",
+        "total_chunks": 3,
+        "type": "web_page"
+      },
+      "id": "2130566f-ed66-4acf-be94-22bbd4b70d19",
+      "distance": 0.6973991990089417,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1407802402973175,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Who else can help? There are many other care and support groups for people who need help to manage their alcohol, drugs and substance use. You can find more information about local services on our directory of services - Help and Support Manchester . Was this page helpful? Was this page helpful? Fields marked * cannot be left blank Yes No What were you doing? * What went wrong? * What were you looking for? * How can we make this page better? * Feedback submitted to us on this form is monitored but you won\u2019t receive a reply. In an emergency, visit our emergency contact details page . Please don't include any personal or financial information, for example your National Insurance or credit card numbers.",
+      "metadata": {
+        "chunk_id": 4,
+        "filename": "www.manchester.gov.uk_info_10023_alcohol_drugs_and_substance_abuse_404_alcohol_drugs_and_substance_u.txt",
+        "level": "level_2",
+        "source": "https://www.manchester.gov.uk/info/10023/alcohol_drugs_and_substance_abuse/404/alcohol_drugs_and_substance_use",
+        "source_url": "https://www.manchester.gov.uk/info/10023/alcohol_drugs_and_substance_abuse/404/alcohol_drugs_and_substance_use",
+        "total_chunks": 5,
+        "type": "web_page"
+      },
+      "id": "07d62cd1-d1f2-48dd-b05c-d87f89826fce",
+      "distance": 0.7389642596244812,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.12831072211265565,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "--\n\nThe Our Manchester disability plan The Our Manchester Disability Plan This\u00a0plan\u00a0supports major organisations and\u00a0local disabled people in our city to work\u00a0together to remove barriers they face and increase opportunities open to them. Part one: introduction Part two: background Part three: children and families Part four: our approach Part five: access all areas Appendices British sign language video summary Was this page helpful? Was this page helpful? Fields marked * cannot be left blank Yes No What were you doing? * What went wrong? * What were you looking for? * How can we make this page better? * Feedback submitted to us on this form is monitored but you won\u2019t receive a reply. In an emergency, visit our emergency contact details page . Please don't include any personal or financial information, for example your National Insurance or credit card numbers.",
+      "metadata": {
+        "chunk_id": 0,
+        "filename": "www.manchester.gov.uk_omdp.txt",
+        "level": "level_3",
+        "source": "http://www.manchester.gov.uk/omdp",
+        "source_url": "http://www.manchester.gov.uk/omdp",
+        "total_chunks": 1,
+        "type": "web_page"
+      },
+      "id": "84011098-bffc-479f-bc10-193fed79adb0",
+      "distance": 0.7698140740394592,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.11905577778816223,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Information about the work we do, including work with other agencies The Manchester Safeguarding Partnership is a statutory body that has a role to co-ordinate and ensure effective safeguarding procedures with a number of organisations across the city of Manchester, including the council, the police and health services. They also promote the welfare of adults, children, young people and their families Was this page helpful? Was this page helpful? Fields marked * cannot be left blank Yes No What were you doing? * What went wrong? * What were you looking for? * How can we make this page better? * Feedback submitted to us on this form is monitored but you won\u2019t receive a reply. In an emergency, visit our emergency contact details page . Please don't include any personal or financial information, for example your National Insurance or credit card numbers.",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.manchester.gov.uk_info_100010_social_services_3843_tell_us_about_someone_being_abused_or_neglect.txt",
+        "level": "level_2",
+        "source": "https://www.manchester.gov.uk/info/100010/social_services/3843/tell_us_about_someone_being_abused_or_neglected/6",
+        "source_url": "https://www.manchester.gov.uk/info/100010/social_services/3843/tell_us_about_someone_being_abused_or_neglected/6",
+        "total_chunks": 3,
+        "type": "web_page"
+      },
+      "id": "63fa1ee0-52e0-4e52-a85d-22f6356e3340",
+      "distance": 0.8435287475585938,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.09694137573242187,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". You can look for services on Help and Support Manchester , our online service directory. Was this page helpful? Was this page helpful? Fields marked * cannot be left blank Yes No What were you doing? * What went wrong? * What were you looking for? * How can we make this page better? * Feedback submitted to us on this form is monitored but you won\u2019t receive a reply. In an emergency, visit our emergency contact details page . Please don't include any personal or financial information, for example your National Insurance or credit card numbers.",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.manchester.gov.uk_info_500341_housing_help_and_advice_968_housing_support_to_live_independently_.txt",
+        "level": "level_2",
+        "source": "https://www.manchester.gov.uk/info/500341/housing_help_and_advice/968/housing_support_to_live_independently/6",
+        "source_url": "https://www.manchester.gov.uk/info/500341/housing_help_and_advice/968/housing_support_to_live_independently/6",
+        "total_chunks": 3,
+        "type": "web_page"
+      },
+      "id": "fac01c46-163b-49cd-aa29-4d6026e0bf77",
+      "distance": 0.8473318219184875,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.09580045342445373,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Your rights to a young carers needs assessment and\u00a0support. Putting you in touch with other young carers you can talk to. Call us on 0161 234 5001. If you don\u2019t feel comfortable speaking to us, why not talk to a teacher? They will be able to give you advice on what to do and may well have had students who were carers before There\u2019s lots of information and support available to young carers and resources available to practitioners supporting young carers. See Help and Support Manchester. Was this page helpful? Was this page helpful? Fields marked * cannot be left blank Yes No What were you doing? * What went wrong? * What were you looking for? * How can we make this page better? * Feedback submitted to us on this form is monitored but you won\u2019t receive a reply. In an emergency, visit our emergency contact details page . Please don't include any personal or financial information, for example your National Insurance or credit card numbers.",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.manchester.gov.uk_info_200015_carers_7309_young_carers.txt",
+        "level": "level_2",
+        "source": "http://www.manchester.gov.uk/info/200015/carers/7309/young_carers",
+        "source_url": "http://www.manchester.gov.uk/info/200015/carers/7309/young_carers",
+        "total_chunks": 3,
+        "type": "web_page"
+      },
+      "id": "751b9802-51eb-4d12-a505-6d015682eeea",
+      "distance": 0.8516452312469482,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.09450643062591553,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Support for Young Parents: Additional resources if you\u2019re a young parent. Ongoing Support: Continued assistance beyond age 18, involving Adult Social Care if needed. Leisure Facilities: Free or discounted entry to select leisure facilities in Manchester. Community Events: Access social and community events to keep you active and connected with others. Trauma-Informed Support: Opportunities to build skills and reflect on your journey using a trauma-informed approach. A member of our Leaving Care team can also accompany you to medical appointments to ensure you receive the support and advice you need. Useful Contacts and Services for Health and Wellbeing If you need assistance with your health and wellbeing, the following services are available to you: Leaving Care - Duty Support If your Personal Advisor (PA) is unavailable and you need urgent support, call the duty line at 0161 227 3030",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.manchester.gov.uk_info_500319_care_leavers_8899_managing_your_health_and_well_being.txt",
+        "level": "level_2",
+        "source": "https://www.manchester.gov.uk/info/500319/care_leavers/8899/managing_your_health_and_well_being",
+        "source_url": "https://www.manchester.gov.uk/info/500319/care_leavers/8899/managing_your_health_and_well_being",
+        "total_chunks": 6,
+        "type": "web_page"
+      },
+      "id": "50821870-259f-437e-b0a8-31bbec9ce3fb",
+      "distance": 0.8595671653747559,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.09212985038757324,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    }
+  ],
+  "context": "[Document 1] From https://www (web_page) - URL: https://www.manchester.gov.uk/directory/99/policies_and_strategies/category/1051 [Retrieved via: semantic_original]:\n--\n\nSocial services Choose from the list of policies and strategies: Manchester Local Care Organisation (Adult Social Care) Commissioning Plan Manchester safeguarding policies and procedures Manchester's multi-agency safeguarding arrangements (MMASA) Mental capacity act Our Manchester disability plan Placing looked after children in Manchester Was this page helpful? Was this page helpful? Fields marked * cannot be left blank Yes No What were you doing? * What went wrong? * What were you looking for? * How can we make this page better? * Feedback submitted to us on this form is monitored but you won\u2019t receive a reply. In an emergency, visit our emergency contact details page . Please don't include any personal or financial information, for example your National Insurance or credit card numbers.\n\n[Document 2] From https://www (web_page) - URL: https://www.manchester.gov.uk/directory/99/policies_and_strategies/category/1051/categoryInfo/72 [Retrieved via: semantic_original]:\n--\n\nSocial services Choose from the list of policies and strategies: Manchester Local Care Organisation (Adult Social Care) Commissioning Plan Manchester safeguarding policies and procedures Manchester's multi-agency safeguarding arrangements (MMASA) Mental capacity act Our Manchester disability plan Placing looked after children in Manchester Was this page helpful? Was this page helpful? Fields marked * cannot be left blank Yes No What were you doing? * What went wrong? * What were you looking for? * How can we make this page better? * Feedback submitted to us on this form is monitored but you won\u2019t receive a reply. In an emergency, visit our emergency contact details page . Please don't include any personal or financial information, for example your National Insurance or credit card numbers.\n\n[Document 3] From http://www (web_page) - URL: http://www.manchester.gov.uk/info/100010/social_services/1368/equipment_and_adaptations_for_independent_living/2 [Retrieved via: semantic_original]:\n. Major adaptations . You can get changes in your home such as ramps, walk-in showers, wet rooms and stairlifts through a Disabled Facilities Grant. Call us and we'll come to discuss what you need. There could be lots of other things to help you keep doing what you do, your way, including alarms to let someone know if you need help. Just call us to discuss on 0161 234 5001 or\u00a0email socialcare@manchester.gov.uk Was this page helpful? Was this page helpful? Fields marked * cannot be left blank Yes No What were you doing? * What went wrong? * What were you looking for? * How can we make this page better? * Feedback submitted to us on this form is monitored but you won\u2019t receive a reply. In an emergency, visit our emergency contact details page . Please don't include any personal or financial information, for example your National Insurance or credit card numbers.\n\n[Document 4] From https://www (web_page) - URL: https://www.manchester.gov.uk/info/100010/social_services/1368/equipment_and_adaptations_to_maintain_independence [Retrieved via: semantic_original]:\n. Major adaptations . You can get changes in your home such as ramps, walk-in showers, wet rooms and stairlifts through a Disabled Facilities Grant. Call us and we'll come to discuss what you need. There could be lots of other things to help you keep doing what you do, your way, including alarms to let someone know if you need help. Just call us to discuss on 0161 234 5001 or\u00a0email socialcare@manchester.gov.uk Was this page helpful? Was this page helpful? Fields marked * cannot be left blank Yes No What were you doing? * What went wrong? * What were you looking for? * How can we make this page better? * Feedback submitted to us on this form is monitored but you won\u2019t receive a reply. In an emergency, visit our emergency contact details page . Please don't include any personal or financial information, for example your National Insurance or credit card numbers.\n\n[Document 5] From https://www (web_page) - URL: https://www.manchester.gov.uk/info/10023/alcohol_drugs_and_substance_abuse/404/alcohol_drugs_and_substance_use [Retrieved via: semantic_original]:\n. Who else can help? There are many other care and support groups for people who need help to manage their alcohol, drugs and substance use. You can find more information about local services on our directory of services - Help and Support Manchester . Was this page helpful? Was this page helpful? Fields marked * cannot be left blank Yes No What were you doing? * What went wrong? * What were you looking for? * How can we make this page better? * Feedback submitted to us on this form is monitored but you won\u2019t receive a reply. In an emergency, visit our emergency contact details page . Please don't include any personal or financial information, for example your National Insurance or credit card numbers.\n\n[Document 6] From http://www (web_page) - URL: http://www.manchester.gov.uk/omdp [Retrieved via: semantic_original]:\n--\n\nThe Our Manchester disability plan The Our Manchester Disability Plan This\u00a0plan\u00a0supports major organisations and\u00a0local disabled people in our city to work\u00a0together to remove barriers they face and increase opportunities open to them. Part one: introduction Part two: background Part three: children and families Part four: our approach Part five: access all areas Appendices British sign language video summary Was this page helpful? Was this page helpful? Fields marked * cannot be left blank Yes No What were you doing? * What went wrong? * What were you looking for? * How can we make this page better? * Feedback submitted to us on this form is monitored but you won\u2019t receive a reply. In an emergency, visit our emergency contact details page . Please don't include any personal or financial information, for example your National Insurance or credit card numbers.\n\n[Document 7] From https://www (web_page) - URL: https://www.manchester.gov.uk/info/100010/social_services/3843/tell_us_about_someone_being_abused_or_neglected/6 [Retrieved via: semantic_original]:\n. Information about the work we do, including work with other agencies The Manchester Safeguarding Partnership is a statutory body that has a role to co-ordinate and ensure effective safeguarding procedures with a number of organisations across the city of Manchester, including the council, the police and health services. They also promote the welfare of adults, children, young people and their families Was this page helpful? Was this page helpful? Fields marked * cannot be left blank Yes No What were you doing? * What went wrong? * What were you looking for? * How can we make this page better? * Feedback submitted to us on this form is monitored but you won\u2019t receive a reply. In an emergency, visit our emergency contact details page . Please don't include any personal or financial information, for example your National Insurance or credit card numbers.\n\n[Document 8] From https://www (web_page) - URL: https://www.manchester.gov.uk/info/500341/housing_help_and_advice/968/housing_support_to_live_independently/6 [Retrieved via: semantic_original]:\n. You can look for services on Help and Support Manchester , our online service directory. Was this page helpful? Was this page helpful? Fields marked * cannot be left blank Yes No What were you doing? * What went wrong? * What were you looking for? * How can we make this page better? * Feedback submitted to us on this form is monitored but you won\u2019t receive a reply. In an emergency, visit our emergency contact details page . Please don't include any personal or financial information, for example your National Insurance or credit card numbers.\n\n[Document 9] From http://www (web_page) - URL: http://www.manchester.gov.uk/info/200015/carers/7309/young_carers [Retrieved via: semantic_original]:\n. Your rights to a young carers needs assessment and\u00a0support. Putting you in touch with other young carers you can talk to. Call us on 0161 234 5001. If you don\u2019t feel comfortable speaking to us, why not talk to a teacher? They will be able to give you advice on what to do and may well have had students who were carers before There\u2019s lots of information and support available to young carers and resources available to practitioners supporting young carers. See Help and Support Manchester. Was this page helpful? Was this page helpful? Fields marked * cannot be left blank Yes No What were you doing? * What went wrong? * What were you looking for? * How can we make this page better? * Feedback submitted to us on this form is monitored but you won\u2019t receive a reply. In an emergency, visit our emergency contact details page . Please don't include any personal or financial information, for example your National Insurance or credit card numbers.\n\n[Document 10] From https://www (web_page) - URL: https://www.manchester.gov.uk/info/500319/care_leavers/8899/managing_your_health_and_well_being [Retrieved via: semantic_original]:\n. Support for Young Parents: Additional resources if you\u2019re a young parent. Ongoing Support: Continued assistance beyond age 18, involving Adult Social Care if needed. Leisure Facilities: Free or discounted entry to select leisure facilities in Manchester. Community Events: Access social and community events to keep you active and connected with others. Trauma-Informed Support: Opportunities to build skills and reflect on your journey using a trauma-informed approach. A member of our Leaving Care team can also accompany you to medical appointments to ensure you receive the support and advice you need. Useful Contacts and Services for Health and Wellbeing If you need assistance with your health and wellbeing, the following services are available to you: Leaving Care - Duty Support If your Personal Advisor (PA) is unavailable and you need urgent support, call the duty line at 0161 227 3030\n",
+  "answer": "In an emergency situation where your son with learning disabilities is displaying challenging behavior that you can no longer manage at home in Manchester, you should visit the emergency contact details page provided by the Manchester City Council for immediate assistance.\n\n**Key Steps and Resources:**\n\n- **Emergency Contact:** Visit the emergency contact details page on the Manchester City Council's website for urgent support. This page is referenced in multiple documents as the go-to resource for emergencies.\n  \n- **Contact Information:** You can also call the Manchester social care services at **0161 234 5001** for direct assistance and to discuss your specific needs.\n\n- **Additional Support:** For more information on available services, you can explore the Help and Support Manchester directory, which lists local services and support groups.\n\nThe available documents don't provide specific information about emergency support services for challenging behavior in individuals with learning disabilities, but the emergency contact page and the social care contact number are recommended starting points for immediate help.",
+  "metrics": {
+    "duration_seconds": 7.377858877182007,
+    "retrieved_docs_count": 10,
+    "query_length": 156,
+    "answer_length": 1135,
+    "retrieval_method": "enhanced",
+    "context_utilization": 0.1388888888888889,
+    "citations_count": 0,
+    "has_citations": false,
+    "query_relevance": 0.9,
+    "unique_retrieval_methods": 1,
+    "budget_documents_retrieved": 0,
+    "retrieval_methods_used": [
+      "semantic_original"
+    ],
+    "retrieval_method_distribution": {
+      "semantic_original": 10
+    }
+  },
+  "local_authority": "manchester",
+  "query_id": "scn_26",
+  "retrieval_method": "enhanced",
+  "run_id": "01cded36-4b4f-4643-8408-77e013875cb0",
+  "trace": {
+    "run_id": "01cded36-4b4f-4643-8408-77e013875cb0",
+    "project": "social_care_rag",
+    "url": "https://eu.smith.langchain.com/o/me/runs/01cded36-4b4f-4643-8408-77e013875cb0"
+  },
+  "test_metadata": {
+    "local_authority": "manchester",
+    "query_id": "scn_26",
+    "query_category": "emergency_scenarios",
+    "prompt_variation": "optimized",
+    "prompt_template": "\nPlease answer the following question about social care services in UK local authorities based only on the information in the provided documents.\n\nQuestion: {query}\n\nContext from relevant documents:\n{context}\n\nInstructions:\n1. Provide a clear, direct answer that would help someone needing this information. If information isn't available, state: \"The available documents don't provide specific information about [aspect].\"\n\n2. Synthesize information from ALL relevant documents to provide the most complete answer rather than analyzing documents individually.\n\n3. Structure your response with:\n   - A concise 1-2 sentence summary first\n   - Relevant details organized in short, clear paragraphs\n   - Bullet points for lists or step-by-step information\n   - Bold text for key information the user should notice\n\n4. For financial information:\n   - Include exact figures, time periods, and what the funding covers\n   - Present financial data clearly: \"The adult social care budget is **\u00a3X million** for [time period]\"\n\n5. Always include practical next steps or resources:\n   - Provide contact information, URLs, or application methods mentioned in the documents\n   - Suggest where the person could find more information\n\n6. When citing sources, use a simple format: \"According to [document name/description]\" or include URLs where available.\n\nAnswer:\n",
+    "processing_time": 7.3804590702056885,
+    "timestamp": "2025-08-19T14:05:32.955161",
+    "top_k": 10
+  }
+}

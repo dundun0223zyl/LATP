@@ -1,0 +1,349 @@
+{
+  "query": "What is the current budget allocation for Adult Social Care in Cambridgeshire?",
+  "retrieved_documents": [
+    {
+      "content": "[Page 2]\n \n \n2 | Cambridgeshire County Council \u2013 Adult Social Care Survey 2024  results  - Easy Read \n Pictures  Words  \n In 202 4 Cambridgeshire County Council  sent their \nAdult Social Care  survey to 159 7 people . \n \nThese are people who use Adult Social Care services.  \n Some of these people have care in their own home. \nSome live in residential care and some have nursing \ncare. \n Some of these people need help with their personal \ncare or their mental health.  \n Others  have a learning or physical disability . \n 3 out of 10 people  sent their survey back to us.  \n \n \nThe results of their answers can be found below.  \n\n\n[Page 3]\n \n \n3 | Cambridgeshire County Council \u2013 Adult Social Care Survey 2024  results  - Easy Read \n Pictures  Words  \n There are 5 parts to the survey results:  \n1. People\u2019s Health  \n2. Support needs and what people can do for \nthemselves  \n3. What care and support people are getting  \n4. Quality of life and experience of care and \nsupport services \n5. Local Questions",
+      "metadata": {
+        "chunk_id": 1,
+        "contains_financial_info": true,
+        "download_url": "https://www.cambridgeshire.gov.uk/asset-library/cambridgeshire-adult-social-care-survey-2024-results-easy-read.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "cambridgeshire-adult-social-care-survey-2024-results-easy-read.pdf",
+        "financial_pages": "[11, 14]",
+        "level": "level_2",
+        "page_count": 20,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]",
+        "source": "https://www.cambridgeshire.gov.uk/residents/adults/adults-services-strategies-and-policies/adult-social-care-survey-2024",
+        "source_url": "https://www.cambridgeshire.gov.uk/residents/adults/adults-services-strategies-and-policies/adult-social-care-survey-2024",
+        "total_chunks": 15,
+        "type": "pdf"
+      },
+      "id": "3f217ef5-8ce0-4409-b561-1f05f6cfc289",
+      "distance": 0.4387291967868805,
+      "retrieval_method": "semantic_expanded_1",
+      "expanded_query": "what is the current adult social care allocation for adult social care in cambridgeshire?",
+      "combined_score": 0.6911085136912086,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_expanded_1"
+      }
+    },
+    {
+      "content": "[Page 1]\nAdult Social Care Forum shared \npriorities action plan 2022 -23 \nfinal report\nAdult Social Care Forum \n27 April 2023\n\n\n[Page 2 - FINANCIAL/BUDGET INFORMATION]\nThe Adult Social Care Forum\n\u2022The Adult Social Care Forum  is a group that talks about \nhealth and social care issues in Cambridgeshire and \nPeterborough.\n\u2022The Forum looks at key themes raised by the Partnership \nBoards and expert by experience groups and uses this \ninformation to help make local services better.\n\u2022The Forum agrees actions to help this to happen.\n\u2022The Forum is chaired by the Head of Commissioning (Adult \nSocial Care), CCC/PCC and has members from:\noThe five Adult Social Care Partnership Boards\noSUN Network\noCounting Every Adult co -production group\noHealthwatch Cambridgeshire and Peterborough\noCambridgeshire County Council and Peterborough City Council\noHealth organisations",
+      "metadata": {
+        "chunk_id": 0,
+        "contains_financial_info": true,
+        "download_url": "https://www.cambridgeshire.gov.uk/asset-library/imported-assets/ASC-Forum-shared-priorities-action-plan-report-270423-Easy-Read.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "ASC-Forum-shared-priorities-action-plan-report-270423-Easy-Read.pdf",
+        "financial_pages": "[2, 5, 9, 11, 12, 14, 15]",
+        "level": "level_2",
+        "page_count": 16,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]",
+        "source": "https://www.cambridgeshire.gov.uk/residents/adults/adults-services-strategies-and-policies/adult-social-care-local-account-2021-to-2023",
+        "source_url": "https://www.cambridgeshire.gov.uk/residents/adults/adults-services-strategies-and-policies/adult-social-care-local-account-2021-to-2023",
+        "total_chunks": 14,
+        "type": "pdf"
+      },
+      "id": "6ede6f1c-c338-4f89-a74c-30ac94ae52fd",
+      "distance": 0.4796443581581116,
+      "retrieval_method": "semantic_expanded_1",
+      "expanded_query": "what is the current adult social care allocation for adult social care in cambridgeshire?",
+      "combined_score": 0.6809318673777414,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_expanded_1"
+      }
+    },
+    {
+      "content": "[Page 1]\n \n1 | Cambridgeshire County Council \u2013 Assessment and eligibility  | July 2024  \n  \n  \nAssessment and Eligibility for Adult \nSocial Care services  \nMany people are able to stay independent, safe,  and well without \nneeding support from Adult Social Care. We recommend that you \nexplore options such as equipment and technology and community help, first. \nYou can find out lots of information on the council\u2019s website at www.cambridgeshire.gov.uk/residents/adults/organising- care- and-\nsupport  \n \n \nIf you have tried other ways to stay independent and still need further \nsupport, the first step is to contact the council for a conversation.  \nContact details are at the end of this information sheet.  \n \nWe may suggest that you have a S ocial Care Assessment. This \nassessment looks at your strengths and your needs and identifies what \nsupport you may require . \nThis includes giving information and advice to help you remain \nindependent for as long as possible, and care and support for those",
+      "metadata": {
+        "chunk_id": 0,
+        "contains_financial_info": true,
+        "download_url": "https://www.cambridgeshire.gov.uk/asset-library/Assessment-and-eligibility-for-Adult-Social-Care.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Assessment-and-eligibility-for-Adult-Social-Care.pdf",
+        "financial_pages": "[4, 5]",
+        "level": "level_2",
+        "page_count": 5,
+        "pages_with_content": "[1, 2, 3, 4, 5]",
+        "source": "https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets",
+        "source_url": "https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets",
+        "total_chunks": 10,
+        "type": "pdf"
+      },
+      "id": "57730170-bef9-4e24-8857-f03a9bd3adb5",
+      "distance": 0.49073848128318787,
+      "retrieval_method": "semantic_expanded_1",
+      "expanded_query": "what is the current adult social care allocation for adult social care in cambridgeshire?",
+      "combined_score": 0.6755057283423164,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_expanded_1"
+      }
+    },
+    {
+      "content": "[Page 1]\n \n1 | Cambridgeshire County Council \u2013 Assessment and eligibility  | July 2024  \n  \n  \nAssessment and Eligibility for Adult \nSocial Care services  \nMany people are able to stay independent, safe,  and well without \nneeding support from Adult Social Care. We recommend that you \nexplore options such as equipment and technology and community help, first. \nYou can find out lots of information on the council\u2019s website at www.cambridgeshire.gov.uk/residents/adults/organising- care- and-\nsupport  \n \n \nIf you have tried other ways to stay independent and still need further \nsupport, the first step is to contact the council for a conversation.  \nContact details are at the end of this information sheet.  \n \nWe may suggest that you have a S ocial Care Assessment. This \nassessment looks at your strengths and your needs and identifies what \nsupport you may require . \nThis includes giving information and advice to help you remain \nindependent for as long as possible, and care and support for those",
+      "metadata": {
+        "chunk_id": 0,
+        "contains_financial_info": true,
+        "download_url": "https://www.cambridgeshire.gov.uk/asset-library/Assessment-and-eligibility-for-Adult-Social-Care.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Assessment-and-eligibility-for-Adult-Social-Care.pdf",
+        "financial_pages": "[4, 5]",
+        "level": "level_1",
+        "page_count": 5,
+        "pages_with_content": "[1, 2, 3, 4, 5]",
+        "source": "https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets",
+        "source_url": "https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets",
+        "total_chunks": 10,
+        "type": "pdf"
+      },
+      "id": "fcbee02b-5cf6-45ef-bbc4-79ab40db4bf4",
+      "distance": 0.49073848128318787,
+      "retrieval_method": "semantic_expanded_1",
+      "expanded_query": "what is the current adult social care allocation for adult social care in cambridgeshire?",
+      "combined_score": 0.6755057283423164,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_expanded_1"
+      }
+    },
+    {
+      "content": "[Page 6 - FINANCIAL/BUDGET INFORMATION]\n6 www.cambridgeshire.gov.uk Spend in Cambridgeshire \nCounty Council \non Adult Social Care 2023/24 \nAnnual expenditure across all services for 9,372 people for 2023/2024 was \u00a3258,000,000.00 \nwhich can be seen in the following data which represents number of people and annual \nexpenditure for each service area (figures are total numbers throughout the year). For the \nauthority\u2019s statutory returns, supported living beds are included in the data for community-\nbased services. The actual number of people in learning disability supported living services, \n(as opposed to residential) as of November 2024 is 621, at an annual cost of \u00a355,165,546: \nService Number of \nPeople Annual \nExpenditure \nOlder People & Physical Disabilities Accommodation based 2177 \u00a369m \nOlder People & Physical Disabilities Community based 3473 \u00a341m \nPhysical Disabilities under 65 age Accommodation based 70 \u00a33m \nPhysical Disabilities under 65 age Community based 726 \u00a310m",
+      "metadata": {
+        "chunk_id": 11,
+        "contains_financial_info": true,
+        "download_url": "https://www.cambridgeshire.gov.uk/asset-library/Adult-social-care-Market-Position-Statement-2024.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Adult-social-care-Market-Position-Statement-2024.pdf",
+        "financial_pages": "[2, 4, 5, 6, 7, 8, 10, 11, 12, 14, 15, 17, 18, 19, 22, 24, 25, 26, 27, 28, 29, 30, 33]",
+        "level": "level_2",
+        "page_count": 34,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34]",
+        "source": "https://www.cambridgeshire.gov.uk/residents/adults/adults-services-strategies-and-policies/adult-social-care-market-position-statement",
+        "source_url": "https://www.cambridgeshire.gov.uk/residents/adults/adults-services-strategies-and-policies/adult-social-care-market-position-statement",
+        "total_chunks": 86,
+        "type": "pdf"
+      },
+      "id": "f9de4921-10f0-447a-9ed6-c8a50b11909a",
+      "distance": 0.45475679636001587,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.665321212840247,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 6,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "\u2022 Development of a more localised, place-based offer \n\u2022 Supporting community resilience and micro-enterprises \n\u2022 Enabling positive risk-taking to empower adults we support to have healthy \nrelationships and fulfilling lives \n\u2022 Workforce recruitment and retention \n\u2022 Supporting people to remain as independent as possible for as long as possible \n\u2022 Supporting carers \n\u2022 Greater integration of services across public and third sector organisations \nThis Market Position Statement part of an ongoing conversation and we would \nwelcome any thoughts and ideas you have about the future of adult social care in \nCambridgeshire. If you would like to know more, or speak to us, please contact: \naccommodation.team@cambridgeshire.gov.uk",
+      "metadata": {
+        "chunk_id": 84,
+        "contains_financial_info": true,
+        "download_url": "https://www.cambridgeshire.gov.uk/asset-library/Adult-social-care-Market-Position-Statement-2024.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Adult-social-care-Market-Position-Statement-2024.pdf",
+        "financial_pages": "[2, 4, 5, 6, 7, 8, 10, 11, 12, 14, 15, 17, 18, 19, 22, 24, 25, 26, 27, 28, 29, 30, 33]",
+        "level": "level_2",
+        "page_count": 34,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34]",
+        "source": "https://www.cambridgeshire.gov.uk/residents/adults/adults-services-strategies-and-policies/adult-social-care-market-position-statement",
+        "source_url": "https://www.cambridgeshire.gov.uk/residents/adults/adults-services-strategies-and-policies/adult-social-care-market-position-statement",
+        "total_chunks": 86,
+        "type": "pdf"
+      },
+      "id": "3c914e1d-2a80-4e60-9348-f69f9b5910cf",
+      "distance": 0.4323035478591919,
+      "retrieval_method": "semantic_expanded_1",
+      "expanded_query": "what is the current adult social care allocation for adult social care in cambridgeshire?",
+      "combined_score": 0.6566725720058788,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_expanded_1"
+      }
+    },
+    {
+      "content": "\u2022 Existing and potential providers of adult social care and support. \n\u2022 Voluntary and community organisations as well as people interested in local business \ndevelopment and social enterprises. \n\u2022 Cambridgeshire citizens who are interested in co-producing services \nA Directory of Services \nThis document is not intended to act as a directory of all services. \nFor this information please visit: \nCambridgeshire Guide to Independent Living | Care Choices and also How Are You Cambridgeshire and Peterborough",
+      "metadata": {
+        "chunk_id": 6,
+        "contains_financial_info": true,
+        "download_url": "https://www.cambridgeshire.gov.uk/asset-library/Adult-social-care-Market-Position-Statement-2024.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Adult-social-care-Market-Position-Statement-2024.pdf",
+        "financial_pages": "[2, 4, 5, 6, 7, 8, 10, 11, 12, 14, 15, 17, 18, 19, 22, 24, 25, 26, 27, 28, 29, 30, 33]",
+        "level": "level_2",
+        "page_count": 34,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34]",
+        "source": "https://www.cambridgeshire.gov.uk/residents/adults/adults-services-strategies-and-policies/adult-social-care-market-position-statement",
+        "source_url": "https://www.cambridgeshire.gov.uk/residents/adults/adults-services-strategies-and-policies/adult-social-care-market-position-statement",
+        "total_chunks": 86,
+        "type": "pdf"
+      },
+      "id": "ec09f519-0122-4766-b1a3-df0dec46a532",
+      "distance": 0.43631511926651,
+      "retrieval_method": "semantic_expanded_3",
+      "expanded_query": "what is the current care services allocation for adult social care in cambridgeshire?",
+      "combined_score": 0.6554691005836835,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_expanded_3"
+      }
+    },
+    {
+      "content": "targeted CPI indices to elements of our placement costs.  \n \n7.1.6  It should be noted that , as with all local authorities, Cambridgeshire  County \nCouncil  is in a n extremely difficult financial situation with  significant  savings to \nfind to deliver a balanced budget in 2023/24. The Council has many statutory \nservices to deliver , which are all subject to inc reasing costs , of which adult \nsocial care is but one. Therefore, whatever our aspirations for improving \nfunding levels in the adult social care market, unless funding from central",
+      "metadata": {
+        "chunk_id": 58,
+        "contains_financial_info": true,
+        "download_url": "https://www.cambridgeshire.gov.uk/asset-library/annex-b-homecare-cost-of-care-report.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "annex-b-homecare-cost-of-care-report.pdf",
+        "financial_pages": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21]",
+        "level": "level_2",
+        "page_count": 21,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21]",
+        "source": "https://www.cambridgeshire.gov.uk/residents/adults/adults-services-strategies-and-policies/cost-of-care-exercise",
+        "source_url": "https://www.cambridgeshire.gov.uk/residents/adults/adults-services-strategies-and-policies/cost-of-care-exercise",
+        "total_chunks": 69,
+        "type": "pdf"
+      },
+      "id": "23ef60d2-f1c9-4e4d-b294-ba78870870e0",
+      "distance": 0.38677090406417847,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.6472554420674599,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 4,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 4 - FINANCIAL/BUDGET INFORMATION]\n \n4 | Cambridgeshire County Council \u2013 Planning your Care and Support | July 2024 \n What happens to the plan?  \nThe care and support plan belongs to you. A social care worker will need \nto see it to check that it has all the information it needs. The information we collect is recorded on paper, in databases and in electronic folders \non the council\u2019s secure network where it is accessible only to staff who \nneed to see it to do their jobs. This might include staff in external organisations such as the NHS and the Care Quality Commission. Some \nof the information in our databases can be accessed remotely on mobile \ndevices,  by staff who visit you in your home.  \n You can find out more about how we keep your information safe in our \nInformation Sheet Your Social Care Records and Your Rights . \n \nReviewing your support  \nWe will usually review your support  within 12 weeks of a care and \nsupport plan being implemented and annually thereafter. You can invite",
+      "metadata": {
+        "chunk_id": 5,
+        "contains_financial_info": true,
+        "download_url": "https://www.cambridgeshire.gov.uk/asset-library/planning-your-care-and-support.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "planning-your-care-and-support.pdf",
+        "financial_pages": "[1, 2, 4]",
+        "level": "level_3",
+        "page_count": 4,
+        "pages_with_content": "[1, 2, 3, 4]",
+        "source": "https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets",
+        "source_url": "https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets",
+        "total_chunks": 8,
+        "type": "pdf"
+      },
+      "id": "f3cd8941-de53-4905-8443-cc919781372a",
+      "distance": 0.5434809923171997,
+      "retrieval_method": "semantic_expanded_2",
+      "expanded_query": "what is the current social care budget allocation for adult social care in cambridgeshire?",
+      "combined_score": 0.6254172407663786,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_expanded_2"
+      }
+    },
+    {
+      "content": "[Page 4 - FINANCIAL/BUDGET INFORMATION]\n \n4 | Cambridgeshire County Council \u2013 Planning your Care and Support | July 2024 \n What happens to the plan?  \nThe care and support plan belongs to you. A social care worker will need \nto see it to check that it has all the information it needs. The information we collect is recorded on paper, in databases and in electronic folders \non the council\u2019s secure network where it is accessible only to staff who \nneed to see it to do their jobs. This might include staff in external organisations such as the NHS and the Care Quality Commission. Some \nof the information in our databases can be accessed remotely on mobile \ndevices,  by staff who visit you in your home.  \n You can find out more about how we keep your information safe in our \nInformation Sheet Your Social Care Records and Your Rights . \n \nReviewing your support  \nWe will usually review your support  within 12 weeks of a care and \nsupport plan being implemented and annually thereafter. You can invite",
+      "metadata": {
+        "chunk_id": 5,
+        "contains_financial_info": true,
+        "download_url": "https://www.cambridgeshire.gov.uk/asset-library/planning-your-care-and-support.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "planning-your-care-and-support.pdf",
+        "financial_pages": "[1, 2, 4]",
+        "level": "level_2",
+        "page_count": 4,
+        "pages_with_content": "[1, 2, 3, 4]",
+        "source": "https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets",
+        "source_url": "https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets",
+        "total_chunks": 8,
+        "type": "pdf"
+      },
+      "id": "220ec43e-1cc0-4eed-8482-8ee3bfa7bde6",
+      "distance": 0.5434809923171997,
+      "retrieval_method": "semantic_expanded_2",
+      "expanded_query": "what is the current social care budget allocation for adult social care in cambridgeshire?",
+      "combined_score": 0.6254172407663786,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_expanded_2"
+      }
+    }
+  ],
+  "context": "[Document 1] From https://www (pdf) - URL: https://www.cambridgeshire.gov.uk/residents/adults/adults-services-strategies-and-policies/adult-social-care-survey-2024 - 20 pages [Retrieved via: semantic_expanded_1]:\n[Page 2]\n \n \n2 | Cambridgeshire County Council \u2013 Adult Social Care Survey 2024  results  - Easy Read \n Pictures  Words  \n In 202 4 Cambridgeshire County Council  sent their \nAdult Social Care  survey to 159 7 people . \n \nThese are people who use Adult Social Care services.  \n Some of these people have care in their own home. \nSome live in residential care and some have nursing \ncare. \n Some of these people need help with their personal \ncare or their mental health.  \n Others  have a learning or physical disability . \n 3 out of 10 people  sent their survey back to us.  \n \n \nThe results of their answers can be found below.  \n\n\n[Page 3]\n \n \n3 | Cambridgeshire County Council \u2013 Adult Social Care Survey 2024  results  - Easy Read \n Pictures  Words  \n There are 5 parts to the survey results:  \n1. People\u2019s Health  \n2. Support needs and what people can do for \nthemselves  \n3. What care and support people are getting  \n4. Quality of life and experience of care and \nsupport services \n5. Local Questions\n\n[Document 2] From https://www (pdf) - URL: https://www.cambridgeshire.gov.uk/residents/adults/adults-services-strategies-and-policies/adult-social-care-local-account-2021-to-2023 - 16 pages [Retrieved via: semantic_expanded_1]:\n[Page 1]\nAdult Social Care Forum shared \npriorities action plan 2022 -23 \nfinal report\nAdult Social Care Forum \n27 April 2023\n\n\n[Page 2 - FINANCIAL/BUDGET INFORMATION]\nThe Adult Social Care Forum\n\u2022The Adult Social Care Forum  is a group that talks about \nhealth and social care issues in Cambridgeshire and \nPeterborough.\n\u2022The Forum looks at key themes raised by the Partnership \nBoards and expert by experience groups and uses this \ninformation to help make local services better.\n\u2022The Forum agrees actions to help this to happen.\n\u2022The Forum is chaired by the Head of Commissioning (Adult \nSocial Care), CCC/PCC and has members from:\noThe five Adult Social Care Partnership Boards\noSUN Network\noCounting Every Adult co -production group\noHealthwatch Cambridgeshire and Peterborough\noCambridgeshire County Council and Peterborough City Council\noHealth organisations\n\n[Document 3] From https://www (pdf) - URL: https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets - 5 pages [Retrieved via: semantic_expanded_1]:\n[Page 1]\n \n1 | Cambridgeshire County Council \u2013 Assessment and eligibility  | July 2024  \n  \n  \nAssessment and Eligibility for Adult \nSocial Care services  \nMany people are able to stay independent, safe,  and well without \nneeding support from Adult Social Care. We recommend that you \nexplore options such as equipment and technology and community help, first. \nYou can find out lots of information on the council\u2019s website at www.cambridgeshire.gov.uk/residents/adults/organising- care- and-\nsupport  \n \n \nIf you have tried other ways to stay independent and still need further \nsupport, the first step is to contact the council for a conversation.  \nContact details are at the end of this information sheet.  \n \nWe may suggest that you have a S ocial Care Assessment. This \nassessment looks at your strengths and your needs and identifies what \nsupport you may require . \nThis includes giving information and advice to help you remain \nindependent for as long as possible, and care and support for those\n\n[Document 4] From https://www (pdf) - URL: https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets - 5 pages [Retrieved via: semantic_expanded_1]:\n[Page 1]\n \n1 | Cambridgeshire County Council \u2013 Assessment and eligibility  | July 2024  \n  \n  \nAssessment and Eligibility for Adult \nSocial Care services  \nMany people are able to stay independent, safe,  and well without \nneeding support from Adult Social Care. We recommend that you \nexplore options such as equipment and technology and community help, first. \nYou can find out lots of information on the council\u2019s website at www.cambridgeshire.gov.uk/residents/adults/organising- care- and-\nsupport  \n \n \nIf you have tried other ways to stay independent and still need further \nsupport, the first step is to contact the council for a conversation.  \nContact details are at the end of this information sheet.  \n \nWe may suggest that you have a S ocial Care Assessment. This \nassessment looks at your strengths and your needs and identifies what \nsupport you may require . \nThis includes giving information and advice to help you remain \nindependent for as long as possible, and care and support for those\n\n[Document 5] From https://www (pdf) - URL: https://www.cambridgeshire.gov.uk/residents/adults/adults-services-strategies-and-policies/adult-social-care-market-position-statement - 34 pages [Retrieved via: semantic_original]:\n[Page 6 - FINANCIAL/BUDGET INFORMATION]\n6 www.cambridgeshire.gov.uk Spend in Cambridgeshire \nCounty Council \non Adult Social Care 2023/24 \nAnnual expenditure across all services for 9,372 people for 2023/2024 was \u00a3258,000,000.00 \nwhich can be seen in the following data which represents number of people and annual \nexpenditure for each service area (figures are total numbers throughout the year). For the \nauthority\u2019s statutory returns, supported living beds are included in the data for community-\nbased services. The actual number of people in learning disability supported living services, \n(as opposed to residential) as of November 2024 is 621, at an annual cost of \u00a355,165,546: \nService Number of \nPeople Annual \nExpenditure \nOlder People & Physical Disabilities Accommodation based 2177 \u00a369m \nOlder People & Physical Disabilities Community based 3473 \u00a341m \nPhysical Disabilities under 65 age Accommodation based 70 \u00a33m \nPhysical Disabilities under 65 age Community based 726 \u00a310m\n\n[Document 6] From https://www (pdf) - URL: https://www.cambridgeshire.gov.uk/residents/adults/adults-services-strategies-and-policies/adult-social-care-market-position-statement - 34 pages [Retrieved via: semantic_expanded_1]:\n\u2022 Development of a more localised, place-based offer \n\u2022 Supporting community resilience and micro-enterprises \n\u2022 Enabling positive risk-taking to empower adults we support to have healthy \nrelationships and fulfilling lives \n\u2022 Workforce recruitment and retention \n\u2022 Supporting people to remain as independent as possible for as long as possible \n\u2022 Supporting carers \n\u2022 Greater integration of services across public and third sector organisations \nThis Market Position Statement part of an ongoing conversation and we would \nwelcome any thoughts and ideas you have about the future of adult social care in \nCambridgeshire. If you would like to know more, or speak to us, please contact: \naccommodation.team@cambridgeshire.gov.uk\n\n[Document 7] From https://www (pdf) - URL: https://www.cambridgeshire.gov.uk/residents/adults/adults-services-strategies-and-policies/adult-social-care-market-position-statement - 34 pages [Retrieved via: semantic_expanded_3]:\n\u2022 Existing and potential providers of adult social care and support. \n\u2022 Voluntary and community organisations as well as people interested in local business \ndevelopment and social enterprises. \n\u2022 Cambridgeshire citizens who are interested in co-producing services \nA Directory of Services \nThis document is not intended to act as a directory of all services. \nFor this information please visit: \nCambridgeshire Guide to Independent Living | Care Choices and also How Are You Cambridgeshire and Peterborough\n\n[Document 8] From https://www (pdf) - URL: https://www.cambridgeshire.gov.uk/residents/adults/adults-services-strategies-and-policies/cost-of-care-exercise - 21 pages [Retrieved via: semantic_original]:\ntargeted CPI indices to elements of our placement costs.  \n \n7.1.6  It should be noted that , as with all local authorities, Cambridgeshire  County \nCouncil  is in a n extremely difficult financial situation with  significant  savings to \nfind to deliver a balanced budget in 2023/24. The Council has many statutory \nservices to deliver , which are all subject to inc reasing costs , of which adult \nsocial care is but one. Therefore, whatever our aspirations for improving \nfunding levels in the adult social care market, unless funding from central\n\n[Document 9] From https://www (pdf) - URL: https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets - 4 pages [Retrieved via: semantic_expanded_2]:\n[Page 4 - FINANCIAL/BUDGET INFORMATION]\n \n4 | Cambridgeshire County Council \u2013 Planning your Care and Support | July 2024 \n What happens to the plan?  \nThe care and support plan belongs to you. A social care worker will need \nto see it to check that it has all the information it needs. The information we collect is recorded on paper, in databases and in electronic folders \non the council\u2019s secure network where it is accessible only to staff who \nneed to see it to do their jobs. This might include staff in external organisations such as the NHS and the Care Quality Commission. Some \nof the information in our databases can be accessed remotely on mobile \ndevices,  by staff who visit you in your home.  \n You can find out more about how we keep your information safe in our \nInformation Sheet Your Social Care Records and Your Rights . \n \nReviewing your support  \nWe will usually review your support  within 12 weeks of a care and \nsupport plan being implemented and annually thereafter. You can invite\n\n[Document 10] From https://www (pdf) - URL: https://www.cambridgeshire.gov.uk/residents/adults/organising-care-and-support/care-and-support-information-sheets - 4 pages [Retrieved via: semantic_expanded_2]:\n[Page 4 - FINANCIAL/BUDGET INFORMATION]\n \n4 | Cambridgeshire County Council \u2013 Planning your Care and Support | July 2024 \n What happens to the plan?  \nThe care and support plan belongs to you. A social care worker will need \nto see it to check that it has all the information it needs. The information we collect is recorded on paper, in databases and in electronic folders \non the council\u2019s secure network where it is accessible only to staff who \nneed to see it to do their jobs. This might include staff in external organisations such as the NHS and the Care Quality Commission. Some \nof the information in our databases can be accessed remotely on mobile \ndevices,  by staff who visit you in your home.  \n You can find out more about how we keep your information safe in our \nInformation Sheet Your Social Care Records and Your Rights . \n \nReviewing your support  \nWe will usually review your support  within 12 weeks of a care and \nsupport plan being implemented and annually thereafter. You can invite\n",
+  "answer": "The current budget allocation for Adult Social Care in Cambridgeshire for the year 2023/2024 is **\u00a3258 million**. This budget covers services for 9,372 people across various service areas.\n\n- **Older People & Physical Disabilities Accommodation-based services**: \u00a369 million for 2,177 people.\n- **Older People & Physical Disabilities Community-based services**: \u00a341 million for 3,473 people.\n- **Physical Disabilities under 65 Accommodation-based services**: \u00a33 million for 70 people.\n- **Physical Disabilities under 65 Community-based services**: \u00a310 million for 726 people.\n\nFor more detailed information, you can visit the Cambridgeshire County Council's website at [www.cambridgeshire.gov.uk](https://www.cambridgeshire.gov.uk) or contact the Adult Social Care department directly through their provided contact details.",
+  "metrics": {
+    "duration_seconds": 4.522952079772949,
+    "retrieved_docs_count": 10,
+    "query_length": 78,
+    "answer_length": 824,
+    "retrieval_method": "enhanced",
+    "context_utilization": 0.11335012594458438,
+    "citations_count": 0,
+    "has_citations": false,
+    "query_relevance": 0.875,
+    "unique_retrieval_methods": 4,
+    "budget_documents_retrieved": 10,
+    "retrieval_methods_used": [
+      "semantic_expanded_3",
+      "semantic_expanded_1",
+      "semantic_original",
+      "semantic_expanded_2"
+    ],
+    "retrieval_method_distribution": {
+      "semantic_expanded_1": 5,
+      "semantic_original": 2,
+      "semantic_expanded_3": 1,
+      "semantic_expanded_2": 2
+    }
+  },
+  "local_authority": "Cambridgeshire",
+  "query_id": "std_9",
+  "retrieval_method": "enhanced",
+  "run_id": "0b7c97cc-c910-49b4-8af8-199c62042c42",
+  "trace": {
+    "run_id": "0b7c97cc-c910-49b4-8af8-199c62042c42",
+    "project": "social_care_rag",
+    "url": "https://eu.smith.langchain.com/o/me/runs/0b7c97cc-c910-49b4-8af8-199c62042c42"
+  },
+  "test_metadata": {
+    "local_authority": "Cambridgeshire",
+    "query_id": "std_9",
+    "query_category": "financial_standard",
+    "prompt_variation": "optimized",
+    "prompt_template": "\nPlease answer the following question about social care services in UK local authorities based only on the information in the provided documents.\n\nQuestion: {query}\n\nContext from relevant documents:\n{context}\n\nInstructions:\n1. Provide a clear, direct answer that would help someone needing this information. If information isn't available, state: \"The available documents don't provide specific information about [aspect].\"\n\n2. Synthesize information from ALL relevant documents to provide the most complete answer rather than analyzing documents individually.\n\n3. Structure your response with:\n   - A concise 1-2 sentence summary first\n   - Relevant details organized in short, clear paragraphs\n   - Bullet points for lists or step-by-step information\n   - Bold text for key information the user should notice\n\n4. For financial information:\n   - Include exact figures, time periods, and what the funding covers\n   - Present financial data clearly: \"The adult social care budget is **\u00a3X million** for [time period]\"\n\n5. Always include practical next steps or resources:\n   - Provide contact information, URLs, or application methods mentioned in the documents\n   - Suggest where the person could find more information\n\n6. When citing sources, use a simple format: \"According to [document name/description]\" or include URLs where available.\n\nAnswer:\n",
+    "processing_time": 4.525221824645996,
+    "timestamp": "2025-08-17T22:36:54.975851",
+    "top_k": 10
+  }
+}

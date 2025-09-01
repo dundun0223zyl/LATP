@@ -1,0 +1,311 @@
+{
+  "query": "I'm experiencing domestic abuse in croydon and need to leave with my children. What emergency social care and housing support can I access?",
+  "retrieved_documents": [
+    {
+      "content": ". We will consider: whether we as a council have a responsibility for you your immigration status money you receive where you are\u00a0currently staying if you have\u00a0any urgent needs, such as your physical or mental health your access to food and accommodation Support we provide We can help with: temporary financial support accommodation (this will probably not be in Croydon, London or south east England due to limited space) money for basic needs social care We cannot provide immigration advice. We may be able to provide information from the Home Office regarding your immigration application and status. Contact us Contact Croydon Council's Immigration and Asylum Support service at iass@croydon.gov.uk . If you need urgent help outside of hours call 0208 726 6000. Other support you can get Having NRPF means you cannot get welfare benefits, public housing, or financial support from the Home Office",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.croydon.gov.uk_adult-health-and-social-care_immigration-and-asylum-support.txt",
+        "level": "level_1",
+        "source": "https://www.croydon.gov.uk/adult-health-and-social-care/immigration-and-asylum-support",
+        "source_url": "https://www.croydon.gov.uk/adult-health-and-social-care/immigration-and-asylum-support",
+        "total_chunks": 5,
+        "type": "web_page"
+      },
+      "id": "efb7be3c-4553-43eb-8fc5-fb95ee459d50",
+      "distance": 0.5313675403594971,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1905897378921509,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "and reviews  guidance . We would  achieve  the targets  that assessments  and \nreviews  areundertaken  for children  looked  after in a \ntimely  manner  (20 days)  in accordance  withstatue  and \nlegislationWe would  achieve  our target  by % and would  have  \nimproved  better  outcomes  for our Croydon  children  \nlooked  after and would  have  met their physical  and \nmental  health  needs .\nWe will also implement  an improved  quality  of health  \nassessments  by embedding  a robust  quality  assurance  \nprocess  and reducing  unwarranted  variation  in \nCroydon .\nMeet  the requirements  set out in the NHS  England  \nsupport  offer (May  2023 ),We would  deliver  the phases  of the child protection  \ninformation  sharing  system .\nSupport   the identification  of domestic  abuse  with the \nuse of independent  domestic  violence  advisors  working  \nwith primary  care,  and local maternity  and neonatal  \nsystemsWe would  reduce  serious  violence  within  the",
+      "metadata": {
+        "chunk_id": 90,
+        "contains_financial_info": true,
+        "download_url": "https://www.croydon.gov.uk/sites/default/files/2025-04/croydon-health-and-care-plan-2024-2029-hc-board-feedback-jan-25.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "croydon-health-and-care-plan-2024-2029-hc-board-feedback-jan-25.pdf",
+        "financial_pages": "[5, 8, 9, 14, 16, 17, 18, 19, 20, 23, 24, 27, 28, 32, 35, 37, 38, 41, 42]",
+        "level": "level_4",
+        "page_count": 47,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47]",
+        "source": "https://www.croydon.gov.uk/council-and-elections/policies-plans-and-strategies/health-and-social-care-policies-plans-and-strategies/croydon-joint-local-health-and-wellbeing-strategy-2024-2029",
+        "source_url": "https://www.croydon.gov.uk/council-and-elections/policies-plans-and-strategies/health-and-social-care-policies-plans-and-strategies/croydon-joint-local-health-and-wellbeing-strategy-2024-2029",
+        "total_chunks": 98,
+        "type": "pdf"
+      },
+      "id": "42a01f0c-c608-486b-827d-cbac538488ab",
+      "distance": 0.5632568597793579,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.18102294206619263,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 25 - FINANCIAL/BUDGET INFORMATION]\nPUBLIC HEALTH REPORT 2018  |  25\nSocial support \nand community \nnetworks\nHousing \nENVIRONMENT\neducation\ndiscrimination,  \nstress & trauma\nhealthcare\nincome & work\nNeighbourhoodsWhat do we know about the \npotential for lack of social support \nin Croydon? \nSome parents are more likely to lack social support and \nthis includes lone parents, those living in temporary accommodation and asylum seekers. In 2014 447 babies in Croydon (7.9% of births) were registered by just one parent.\n(31) This is one sign that there may be parents in \nCroydon who lack social support. Another is the number of children or expected children living in temporary accommodation. In March 2018 there were 864 Croydon children or expected children living in temporary accommodation. \nRelationships which cause stress, anxiety and trauma \ncan negatively affect the unborn child.\n(70)  A key source of \nstress is domestic abuse.\nDID YOU KNOW that domestic abuse is likely to start or",
+      "metadata": {
+        "chunk_id": 62,
+        "contains_financial_info": true,
+        "download_url": "https://www.croydon.gov.uk/sites/default/files/articles/downloads/Director%20of%20Public%20Health%20report%202018.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Director%20of%20Public%20Health%20report%202018.pdf",
+        "financial_pages": "[3, 4, 5, 6, 7, 8, 9, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 51, 52, 53]",
+        "level": "level_4",
+        "page_count": 54,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54]",
+        "source": "https://www.croydon.gov.uk/health-and-wellbeing/about-public-health-croydon",
+        "source_url": "https://www.croydon.gov.uk/health-and-wellbeing/about-public-health-croydon",
+        "total_chunks": 167,
+        "type": "pdf"
+      },
+      "id": "fc27a7fd-5c48-46e9-9140-e140255881be",
+      "distance": 0.5707283020019531,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.17878150939941406,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "in Croydon\nAdult Social Care and Health at Croydon is there to assist \nthose with care and support needs who are aged 18 and over.  We work with our residents focusing on early intervention and prevention, providing short term support when needed to get people back to living independently in their home, and playing an active role in the community with no need for ongoing care and support.\nPeople contact us for many reasons, for example they \nmay be living with a disability, poor mental health or dementia.  Sometimes it\u2019s because they are becoming older and need additional support, they may need information and advice or perhaps equipment to help them live independently.\nWe support people who are in transition from children\u2019s to \nadult\u2019s disability services and when our residents are not safe, we will act to protect our most vulnerable residents and keep them safe from harm.\nThe person with care and support needs and their carers",
+      "metadata": {
+        "chunk_id": 12,
+        "contains_financial_info": true,
+        "download_url": "https://www.croydon.gov.uk/sites/default/files/2024-11/local-account-social-care-and-health-2023-2024.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "local-account-social-care-and-health-2023-2024.pdf",
+        "financial_pages": "[2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]",
+        "level": "level_2",
+        "page_count": 13,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]",
+        "source": "https://www.croydon.gov.uk/adult-health-and-social-care/policies-and-complaints/local-account-adult-social-care-and-health-2023-2024",
+        "source_url": "https://www.croydon.gov.uk/adult-health-and-social-care/policies-and-complaints/local-account-adult-social-care-and-health-2023-2024",
+        "total_chunks": 38,
+        "type": "pdf"
+      },
+      "id": "fe5f2eff-20c2-4963-a32b-6b212dd7cc5e",
+      "distance": 0.5779491066932678,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.17661526799201965,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Get help with the rising cost of living Guide Navigation Skip Guide Navigation Contents About cost of living support Benefits you might be entitled to Financial support Financial advice Saving energy Help with employment and training Help for households Support for businesses Mental health and wellbeing Mental health and wellbeing Support for mental health You can find support for mental health, including help with a mental health crisis or emergency . Adult Support Services Adult Support Croydon is designed to help adults find out about local groups, activities and services within the community. There is also an information and advice section to help residents on a range of health and social care topics. Simply Connect Croydon Simply Connect Croydon is a website managed by the CVA and Volunteer Centre Croydon where residents can find out about services and activities in the local area",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.croydon.gov.uk_get-help-rising-cost-living_mental-health-and-wellbeing.txt",
+        "level": "level_4",
+        "source": "https://www.croydon.gov.uk/get-help-rising-cost-living/mental-health-and-wellbeing",
+        "source_url": "https://www.croydon.gov.uk/get-help-rising-cost-living/mental-health-and-wellbeing",
+        "total_chunks": 3,
+        "type": "web_page"
+      },
+      "id": "e1a49bae-cd85-4c74-9be9-ef45224846a1",
+      "distance": 0.5836057066917419,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1749182879924774,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Examples of what we are doing in Croydon\n\u2022  A multi-agency vulnerable women\u2019s group identifies \npregnant women who need additional support \n\u2022   The Family Justice Centre is available to all women in \ninsecure and unhealthy relationships who experience domestic violence\n\u2022\n  O ur partnership Early Help  offer prioritises working with \nchildren and their families where there is domestic abuse\n\u2022  Homestart runs a support group for asylum seeking women in hostel accommodation from 6 weeks before babies are born until 6 weeks afterwards\n\u2022\n   We are implementing a borough wide approach to \nprevention and early intervention that will strengthen community based knowledge and support and through the partnership Early Help offer we will support people at the right time and in the right place\nRecommendations\n17.\n  R eview the effectiveness of the current arrangements for \nidentifying women who need more social support and \nmake recommendations to address any system wide gaps that are identified\n18.",
+      "metadata": {
+        "chunk_id": 66,
+        "contains_financial_info": true,
+        "download_url": "https://www.croydon.gov.uk/sites/default/files/articles/downloads/Director%20of%20Public%20Health%20report%202018.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Director%20of%20Public%20Health%20report%202018.pdf",
+        "financial_pages": "[3, 4, 5, 6, 7, 8, 9, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 51, 52, 53]",
+        "level": "level_4",
+        "page_count": 54,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54]",
+        "source": "https://www.croydon.gov.uk/health-and-wellbeing/about-public-health-croydon",
+        "source_url": "https://www.croydon.gov.uk/health-and-wellbeing/about-public-health-croydon",
+        "total_chunks": 167,
+        "type": "pdf"
+      },
+      "id": "e1f98f90-d623-4bfc-b4dd-ea9c88f14530",
+      "distance": 0.6214069724082947,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1635779082775116,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 6 - FINANCIAL/BUDGET INFORMATION]\n6\nLocal Account, Adult Social Care and Health Croydon - 2023 to 2024Who are we and who do we support?\nWhat are our statutory duties?\nThe Care Act (2014) sets out the responsibilities we have \nfor providing adult social care in Croydon. Its aim is to \nimprove people\u2019s independence and wellbeing.\nThe Act sets out a legal duty for an adult\u2019s \u2018eligible needs\u2019 \nto be met by the local authority, subject to their financial circumstances. Their eligible needs are those that are determined after an assessment of need.\nThe Act makes it clear that local authorities must provide \nor arrange services that help prevent people developing needs for care and support, or delay people deteriorating such that they would need ongoing care and support.Adult Social Care and Health  \nin Croydon\nAdult Social Care and Health at Croydon is there to assist",
+      "metadata": {
+        "chunk_id": 11,
+        "contains_financial_info": true,
+        "download_url": "https://www.croydon.gov.uk/sites/default/files/2024-11/local-account-social-care-and-health-2023-2024.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "local-account-social-care-and-health-2023-2024.pdf",
+        "financial_pages": "[2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]",
+        "level": "level_2",
+        "page_count": 13,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]",
+        "source": "https://www.croydon.gov.uk/adult-health-and-social-care/policies-and-complaints/local-account-adult-social-care-and-health-2023-2024",
+        "source_url": "https://www.croydon.gov.uk/adult-health-and-social-care/policies-and-complaints/local-account-adult-social-care-and-health-2023-2024",
+        "total_chunks": 38,
+        "type": "pdf"
+      },
+      "id": "06b1727e-f537-4bc1-b400-fe3678827e8d",
+      "distance": 0.6465005278587341,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.15604984164237976,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". The service has: on site staff day and night close transport links gardens and communal spaces activities to engage tenants 24 hour care and support Eligibility Extra care is available to people who: are aged 55 years and older, although in certain circumstances exceptions can be made live in the borough of Croydon\u00a0and are eligible for registration under the housing application and transfer scheme are a nominee to Croydon under the mobility scheme, having a specific need to be near relatives or close friends in the borough have support or personal care needs which cannot be met where they live have the capacity to sign a tenancy agreement agree to a financial assessment and pay any necessary contributions identified through assessment The application process If you meet the eligibility criteria either you, a friend or relative can contact adult social care to make an application .\u00a0A social worker will visit you to assess your care needs and, if appropriate, a special sheltered application will be put",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.croydon.gov.uk_adult-health-and-social-care_care-homes-and-housing_extra-care-housing.txt",
+        "level": "level_3",
+        "source": "https://www.croydon.gov.uk/adult-health-and-social-care/care-homes-and-housing/extra-care-housing",
+        "source_url": "https://www.croydon.gov.uk/adult-health-and-social-care/care-homes-and-housing/extra-care-housing",
+        "total_chunks": 8,
+        "type": "web_page"
+      },
+      "id": "fd7e02c4-34ce-488d-bae1-b0065146eef7",
+      "distance": 0.6468663811683655,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.15594008564949036,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 20]\n20\nHealth and social services\nHealth and wellbeing\nin New Addington and Fieldway\nDomestic violence  \nDomestic violence and abuse are complex issues, with \nwomen and c hildren being the main victims; however, men can also experience domestic violence and abuse. \nDomestic violence occurs regardless of ethnicity, \nreligion, class, age, sexuality, disability or lifestyle.  \nChildren Centre staff are trained to recognise \nand support those who are victims of domestic violence. Referrals are made to appropriate agencies and victims are signposted to the Family \nJustice Centre and The Freedom Programme \nwhich provides a 24 hour helpline, training and support.Su Parmenter \n(Family Engagement Partnership Co-ordinator)Fairchildes Children\u2019s Centre Fairchildes Avenue[ 01689 847136\n/ sparmenter1@lgflmail.org\nFamily Justice Centre\n[ Helpline: 020 8688 0100\n/ fjc@croydon.gov.uk\nThe Freedom Programme \nY www.freedomprogramme.co.uk\n[ 24 hour helpline 01942 262 270",
+      "metadata": {
+        "chunk_id": 54,
+        "contains_financial_info": true,
+        "download_url": "https://www.croydon.gov.uk/sites/default/files/articles/downloads/annual-ph-report_0.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "annual-ph-report_0.pdf",
+        "financial_pages": "[2, 3, 4, 5, 7, 8, 9, 10, 11, 12, 14, 15, 16, 17, 18, 19, 21, 22, 23, 24, 25, 26, 27, 28, 30, 32, 33, 34, 35, 36, 38, 39]",
+        "level": "level_4",
+        "page_count": 40,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40]",
+        "source": "https://www.croydon.gov.uk/health-and-wellbeing/about-public-health-croydon",
+        "source_url": "https://www.croydon.gov.uk/health-and-wellbeing/about-public-health-croydon",
+        "total_chunks": 125,
+        "type": "pdf"
+      },
+      "id": "e73cb34a-eba7-46c2-b4de-163183db938b",
+      "distance": 0.6486377716064453,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1554086685180664,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Important information Croydon Council has a duty to protect the public funds it administers, to do this we: will use any information and records which we request and you provide review what your direct payment is being spent on to ensure it is meeting your care and support needs as outlined in your care and support assessment request repayment of part or all of the money or take legal action including prosecution where the money is not spent in accordance with your support plan may use the information you have provided for the prevention and detection of fraud may share this information with law enforcement agencies and other bodies responsible for auditing or administering public funds for these purposes Eligibility Direct payments can be made to anyone who is entitled to community care services, including: disabled people aged 16 or over older people people with learning disabilities users of mental health services carers aged 16 or over who are eligible for carers' services disabled parents people with",
+      "metadata": {
+        "chunk_id": 4,
+        "filename": "www.croydon.gov.uk_adult-health-and-social-care_paying-adult-social-care_direct-payments-adults.txt",
+        "level": "level_2",
+        "source": "https://www.croydon.gov.uk/adult-health-and-social-care/paying-adult-social-care/direct-payments-adults",
+        "source_url": "https://www.croydon.gov.uk/adult-health-and-social-care/paying-adult-social-care/direct-payments-adults",
+        "total_chunks": 10,
+        "type": "web_page"
+      },
+      "id": "4297b2a8-ab03-4dd4-b9e9-9130d18422be",
+      "distance": 0.6515614986419678,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.15453155040740968,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    }
+  ],
+  "context": "[Document 1] From https://www (web_page) - URL: https://www.croydon.gov.uk/adult-health-and-social-care/immigration-and-asylum-support [Retrieved via: semantic_original]:\n. We will consider: whether we as a council have a responsibility for you your immigration status money you receive where you are\u00a0currently staying if you have\u00a0any urgent needs, such as your physical or mental health your access to food and accommodation Support we provide We can help with: temporary financial support accommodation (this will probably not be in Croydon, London or south east England due to limited space) money for basic needs social care We cannot provide immigration advice. We may be able to provide information from the Home Office regarding your immigration application and status. Contact us Contact Croydon Council's Immigration and Asylum Support service at iass@croydon.gov.uk . If you need urgent help outside of hours call 0208 726 6000. Other support you can get Having NRPF means you cannot get welfare benefits, public housing, or financial support from the Home Office\n\n[Document 2] From https://www (pdf) - URL: https://www.croydon.gov.uk/council-and-elections/policies-plans-and-strategies/health-and-social-care-policies-plans-and-strategies/croydon-joint-local-health-and-wellbeing-strategy-2024-2029 - 47 pages [Retrieved via: semantic_original]:\nand reviews  guidance . We would  achieve  the targets  that assessments  and \nreviews  areundertaken  for children  looked  after in a \ntimely  manner  (20 days)  in accordance  withstatue  and \nlegislationWe would  achieve  our target  by % and would  have  \nimproved  better  outcomes  for our Croydon  children  \nlooked  after and would  have  met their physical  and \nmental  health  needs .\nWe will also implement  an improved  quality  of health  \nassessments  by embedding  a robust  quality  assurance  \nprocess  and reducing  unwarranted  variation  in \nCroydon .\nMeet  the requirements  set out in the NHS  England  \nsupport  offer (May  2023 ),We would  deliver  the phases  of the child protection  \ninformation  sharing  system .\nSupport   the identification  of domestic  abuse  with the \nuse of independent  domestic  violence  advisors  working  \nwith primary  care,  and local maternity  and neonatal  \nsystemsWe would  reduce  serious  violence  within  the\n\n[Document 3] From https://www (pdf) - URL: https://www.croydon.gov.uk/health-and-wellbeing/about-public-health-croydon - 54 pages [Retrieved via: semantic_original]:\n[Page 25 - FINANCIAL/BUDGET INFORMATION]\nPUBLIC HEALTH REPORT 2018  |  25\nSocial support \nand community \nnetworks\nHousing \nENVIRONMENT\neducation\ndiscrimination,  \nstress & trauma\nhealthcare\nincome & work\nNeighbourhoodsWhat do we know about the \npotential for lack of social support \nin Croydon? \nSome parents are more likely to lack social support and \nthis includes lone parents, those living in temporary accommodation and asylum seekers. In 2014 447 babies in Croydon (7.9% of births) were registered by just one parent.\n(31) This is one sign that there may be parents in \nCroydon who lack social support. Another is the number of children or expected children living in temporary accommodation. In March 2018 there were 864 Croydon children or expected children living in temporary accommodation. \nRelationships which cause stress, anxiety and trauma \ncan negatively affect the unborn child.\n(70)  A key source of \nstress is domestic abuse.\nDID YOU KNOW that domestic abuse is likely to start or\n\n[Document 4] From https://www (pdf) - URL: https://www.croydon.gov.uk/adult-health-and-social-care/policies-and-complaints/local-account-adult-social-care-and-health-2023-2024 - 13 pages [Retrieved via: semantic_original]:\nin Croydon\nAdult Social Care and Health at Croydon is there to assist \nthose with care and support needs who are aged 18 and over.  We work with our residents focusing on early intervention and prevention, providing short term support when needed to get people back to living independently in their home, and playing an active role in the community with no need for ongoing care and support.\nPeople contact us for many reasons, for example they \nmay be living with a disability, poor mental health or dementia.  Sometimes it\u2019s because they are becoming older and need additional support, they may need information and advice or perhaps equipment to help them live independently.\nWe support people who are in transition from children\u2019s to \nadult\u2019s disability services and when our residents are not safe, we will act to protect our most vulnerable residents and keep them safe from harm.\nThe person with care and support needs and their carers\n\n[Document 5] From https://www (web_page) - URL: https://www.croydon.gov.uk/get-help-rising-cost-living/mental-health-and-wellbeing [Retrieved via: semantic_original]:\nGet help with the rising cost of living Guide Navigation Skip Guide Navigation Contents About cost of living support Benefits you might be entitled to Financial support Financial advice Saving energy Help with employment and training Help for households Support for businesses Mental health and wellbeing Mental health and wellbeing Support for mental health You can find support for mental health, including help with a mental health crisis or emergency . Adult Support Services Adult Support Croydon is designed to help adults find out about local groups, activities and services within the community. There is also an information and advice section to help residents on a range of health and social care topics. Simply Connect Croydon Simply Connect Croydon is a website managed by the CVA and Volunteer Centre Croydon where residents can find out about services and activities in the local area\n\n[Document 6] From https://www (pdf) - URL: https://www.croydon.gov.uk/health-and-wellbeing/about-public-health-croydon - 54 pages [Retrieved via: semantic_original]:\nExamples of what we are doing in Croydon\n\u2022  A multi-agency vulnerable women\u2019s group identifies \npregnant women who need additional support \n\u2022   The Family Justice Centre is available to all women in \ninsecure and unhealthy relationships who experience domestic violence\n\u2022\n  O ur partnership Early Help  offer prioritises working with \nchildren and their families where there is domestic abuse\n\u2022  Homestart runs a support group for asylum seeking women in hostel accommodation from 6 weeks before babies are born until 6 weeks afterwards\n\u2022\n   We are implementing a borough wide approach to \nprevention and early intervention that will strengthen community based knowledge and support and through the partnership Early Help offer we will support people at the right time and in the right place\nRecommendations\n17.\n  R eview the effectiveness of the current arrangements for \nidentifying women who need more social support and \nmake recommendations to address any system wide gaps that are identified\n18.\n\n[Document 7] From https://www (pdf) - URL: https://www.croydon.gov.uk/adult-health-and-social-care/policies-and-complaints/local-account-adult-social-care-and-health-2023-2024 - 13 pages [Retrieved via: semantic_original]:\n[Page 6 - FINANCIAL/BUDGET INFORMATION]\n6\nLocal Account, Adult Social Care and Health Croydon - 2023 to 2024Who are we and who do we support?\nWhat are our statutory duties?\nThe Care Act (2014) sets out the responsibilities we have \nfor providing adult social care in Croydon. Its aim is to \nimprove people\u2019s independence and wellbeing.\nThe Act sets out a legal duty for an adult\u2019s \u2018eligible needs\u2019 \nto be met by the local authority, subject to their financial circumstances. Their eligible needs are those that are determined after an assessment of need.\nThe Act makes it clear that local authorities must provide \nor arrange services that help prevent people developing needs for care and support, or delay people deteriorating such that they would need ongoing care and support.Adult Social Care and Health  \nin Croydon\nAdult Social Care and Health at Croydon is there to assist\n\n[Document 8] From https://www (web_page) - URL: https://www.croydon.gov.uk/adult-health-and-social-care/care-homes-and-housing/extra-care-housing [Retrieved via: semantic_original]:\n. The service has: on site staff day and night close transport links gardens and communal spaces activities to engage tenants 24 hour care and support Eligibility Extra care is available to people who: are aged 55 years and older, although in certain circumstances exceptions can be made live in the borough of Croydon\u00a0and are eligible for registration under the housing application and transfer scheme are a nominee to Croydon under the mobility scheme, having a specific need to be near relatives or close friends in the borough have support or personal care needs which cannot be met where they live have the capacity to sign a tenancy agreement agree to a financial assessment and pay any necessary contributions identified through assessment The application process If you meet the eligibility criteria either you, a friend or relative can contact adult social care to make an application .\u00a0A social worker will visit you to assess your care needs and, if appropriate, a special sheltered application will be put\n\n[Document 9] From https://www (pdf) - URL: https://www.croydon.gov.uk/health-and-wellbeing/about-public-health-croydon - 40 pages [Retrieved via: semantic_original]:\n[Page 20]\n20\nHealth and social services\nHealth and wellbeing\nin New Addington and Fieldway\nDomestic violence  \nDomestic violence and abuse are complex issues, with \nwomen and c hildren being the main victims; however, men can also experience domestic violence and abuse. \nDomestic violence occurs regardless of ethnicity, \nreligion, class, age, sexuality, disability or lifestyle.  \nChildren Centre staff are trained to recognise \nand support those who are victims of domestic violence. Referrals are made to appropriate agencies and victims are signposted to the Family \nJustice Centre and The Freedom Programme \nwhich provides a 24 hour helpline, training and support.Su Parmenter \n(Family Engagement Partnership Co-ordinator)Fairchildes Children\u2019s Centre Fairchildes Avenue[ 01689 847136\n/ sparmenter1@lgflmail.org\nFamily Justice Centre\n[ Helpline: 020 8688 0100\n/ fjc@croydon.gov.uk\nThe Freedom Programme \nY www.freedomprogramme.co.uk\n[ 24 hour helpline 01942 262 270\n\n[Document 10] From https://www (web_page) - URL: https://www.croydon.gov.uk/adult-health-and-social-care/paying-adult-social-care/direct-payments-adults [Retrieved via: semantic_original]:\n. Important information Croydon Council has a duty to protect the public funds it administers, to do this we: will use any information and records which we request and you provide review what your direct payment is being spent on to ensure it is meeting your care and support needs as outlined in your care and support assessment request repayment of part or all of the money or take legal action including prosecution where the money is not spent in accordance with your support plan may use the information you have provided for the prevention and detection of fraud may share this information with law enforcement agencies and other bodies responsible for auditing or administering public funds for these purposes Eligibility Direct payments can be made to anyone who is entitled to community care services, including: disabled people aged 16 or over older people people with learning disabilities users of mental health services carers aged 16 or over who are eligible for carers' services disabled parents people with\n",
+  "answer": "If you are experiencing domestic abuse in Croydon and need emergency social care and housing support, you can access several resources and services provided by the local council and partner organizations.\n\n**Immediate Support and Housing:**\n- **Family Justice Centre:** This center provides support for individuals in insecure and unhealthy relationships experiencing domestic violence. You can contact them at **020 8688 0100** or via email at **fjc@croydon.gov.uk** for immediate assistance and guidance.\n- **Temporary Accommodation:** Croydon Council can assist with temporary accommodation, although it may not be within Croydon or the surrounding areas due to limited space. For urgent help, you can contact Croydon Council's emergency line at **0208 726 6000**.\n\n**Social Care and Support Services:**\n- **Independent Domestic Violence Advisors (IDVAs):** These advisors work with primary care and local systems to support victims of domestic abuse. They can help you navigate the available services and ensure you receive the necessary support.\n- **Early Help Offer:** This service prioritizes working with children and families experiencing domestic abuse, providing support at the right time and place.\n\n**Practical Next Steps:**\n- **Contact the Family Justice Centre** for immediate support and to explore your options for safe housing and legal advice.\n- **Reach out to Croydon Council** for assistance with temporary accommodation and financial support for basic needs. Email the Immigration and Asylum Support service at **iass@croydon.gov.uk** if applicable.\n- **Utilize the 24-hour helpline** provided by The Freedom Programme at **01942 262 270** for additional support and guidance.\n\nFor further information and support, visit the Croydon Council website or contact the relevant services directly.",
+  "metrics": {
+    "duration_seconds": 18.99655818939209,
+    "retrieved_docs_count": 10,
+    "query_length": 139,
+    "answer_length": 1813,
+    "retrieval_method": "enhanced",
+    "context_utilization": 0.18397085610200364,
+    "citations_count": 0,
+    "has_citations": false,
+    "query_relevance": 0.8421052631578947,
+    "unique_retrieval_methods": 1,
+    "budget_documents_retrieved": 6,
+    "retrieval_methods_used": [
+      "semantic_original"
+    ],
+    "retrieval_method_distribution": {
+      "semantic_original": 10
+    }
+  },
+  "local_authority": "croydon",
+  "query_id": "scn_27",
+  "retrieval_method": "enhanced",
+  "run_id": "bdb2b466-8f67-4349-aaae-ad96e94c0771",
+  "trace": {
+    "run_id": "bdb2b466-8f67-4349-aaae-ad96e94c0771",
+    "project": "social_care_rag",
+    "url": "https://eu.smith.langchain.com/o/me/runs/bdb2b466-8f67-4349-aaae-ad96e94c0771"
+  },
+  "test_metadata": {
+    "local_authority": "croydon",
+    "query_id": "scn_27",
+    "query_category": "emergency_scenarios",
+    "prompt_variation": "optimized",
+    "prompt_template": "\nPlease answer the following question about social care services in UK local authorities based only on the information in the provided documents.\n\nQuestion: {query}\n\nContext from relevant documents:\n{context}\n\nInstructions:\n1. Provide a clear, direct answer that would help someone needing this information. If information isn't available, state: \"The available documents don't provide specific information about [aspect].\"\n\n2. Synthesize information from ALL relevant documents to provide the most complete answer rather than analyzing documents individually.\n\n3. Structure your response with:\n   - A concise 1-2 sentence summary first\n   - Relevant details organized in short, clear paragraphs\n   - Bullet points for lists or step-by-step information\n   - Bold text for key information the user should notice\n\n4. For financial information:\n   - Include exact figures, time periods, and what the funding covers\n   - Present financial data clearly: \"The adult social care budget is **\u00a3X million** for [time period]\"\n\n5. Always include practical next steps or resources:\n   - Provide contact information, URLs, or application methods mentioned in the documents\n   - Suggest where the person could find more information\n\n6. When citing sources, use a simple format: \"According to [document name/description]\" or include URLs where available.\n\nAnswer:\n",
+    "processing_time": 18.999868869781494,
+    "timestamp": "2025-08-19T13:32:51.585026",
+    "top_k": 10
+  }
+}

@@ -1,0 +1,295 @@
+{
+  "query": "I receive Attendance Allowance but my care needs have increased in oxfordshire. Can the council provide additional financial support?",
+  "retrieved_documents": [
+    {
+      "content": "[Page 7 - FINANCIAL/BUDGET INFORMATION]\n7Current support  \nfor unpaid carers  \nin Oxfordshire\nAll the statutory organisations within health, education and social care in \nOxfordshire together with the city and district councils and voluntary sector \npartners have confirmed their commitment to support for carers and families. \nExamples of this support include:\n \u203aCarers Oxfordshire, a partnership between \nthe charities Action for Carers (Oxfordshire) \nand Rethink Mental Illness, has been \ncommissioned by the council to be the \nprimary adult social care service for unpaid \ncarers aged 18 years and older\n \u203aPersonal budgets are available for unpaid \ncarers to support their wellbeing\n \u203aCarers Oxfordshire has developed a range \nof offers to give unpaid carers time for \nthemselves\n \u203aOxford University Hospital\u2019s Carer Policy \n2022 sets out how carer liaison officers will \nsupport staff to support carers, and how its \ncarer passports aid early identification and",
+      "metadata": {
+        "chunk_id": 10,
+        "contains_financial_info": true,
+        "download_url": "https://www.oxfordshire.gov.uk/sites/default/files/file/plans-performance-policy/OCCUnpaidCarersStrategy.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "OCCUnpaidCarersStrategy.pdf",
+        "financial_pages": "[3, 4, 5, 6, 7, 11]",
+        "level": "level_3",
+        "page_count": 12,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]",
+        "source": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/carers/all-age-unpaid-carers-strategy",
+        "source_url": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/carers/all-age-unpaid-carers-strategy",
+        "total_chunks": 18,
+        "type": "pdf"
+      },
+      "id": "b703de2c-7c37-4e4c-8d19-cc5de1a239de",
+      "distance": 0.5903530716896057,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.17289407849311828,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Ordinarily resident in Oxfordshire This policy applies to people with eligible care and support needs who are considered to be \u2018ordinarily resident\u2019 in Oxfordshire. It also applies to carers with eligible support needs caring for someone considered to be ordinarily resident in Oxfordshire, regardless of where they themselves live. People who choose to access support from the council 36. This policy applies to people and carers with eligible needs who choose to access support from the council, irrespective of their financial resources. Whether or not and the extent to which they will pay towards the cost meeting these needs is covered in the Contributions Policy for Adult Social Care. People who lack capacity to decide whether to access support Following a mental capacity assessment, if it is determined that a person does not have capacity to decide whether to access care and support from the Council, a best interests process in line with the Mental Capacity Act will take place",
+      "metadata": {
+        "chunk_id": 14,
+        "filename": "www.oxfordshire.gov.uk_residents_social-and-health-care_adult-social-care_adult-social-care-policies.txt",
+        "level": "level_2",
+        "source": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/adult-social-care-policies/support-planning",
+        "source_url": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/adult-social-care-policies/support-planning",
+        "total_chunks": 35,
+        "type": "web_page"
+      },
+      "id": "b55a6ec7-15c9-4bbb-abbc-10b3b06c0c1d",
+      "distance": 0.6022878885269165,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.16931363344192504,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Start your financial assessment Our online form, (OFA) will tell you how much you are likely to have to contribute towards your care and support. It also allows you to submit your details securely to us. The guidance below should help you fill out the form, but if you need further assistance, you can contact our Financial Assessment Team, who will be happy to assist. You can call them on 01865 323642 or email the team financialassessments@oxfordshire.gov.uk . Whilst you are encouraged to read all the information below before starting your form, here is a quick visual guide (pdf format, 1 MB) to the form and process. Contact us , if you are not currently receiving care or support arranged by Oxfordshire County Council and you would like to know whether you are eligible for care and support. Start your online financial assessment Completing the assessment You may be expected to contribute towards the cost of the care you receive. Most people have to pay something towards the cost of their care",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.oxfordshire.gov.uk_online-financial-assessment.txt",
+        "level": "level_3",
+        "source": "https://www.oxfordshire.gov.uk/online-financial-assessment",
+        "source_url": "https://www.oxfordshire.gov.uk/online-financial-assessment",
+        "total_chunks": 29,
+        "type": "web_page"
+      },
+      "id": "23442480-3309-4c2c-b2f8-b5db1304ac10",
+      "distance": 0.6031323075294495,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.16906030774116515,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Start your financial assessment Our online form, (OFA) will tell you how much you are likely to have to contribute towards your care and support. It also allows you to submit your details securely to us. The guidance below should help you fill out the form, but if you need further assistance, you can contact our Financial Assessment Team, who will be happy to assist. You can call them on 01865 323642 or email the team financialassessments@oxfordshire.gov.uk . Whilst you are encouraged to read all the information below before starting your form, here is a quick visual guide (pdf format, 1 MB) to the form and process. Contact us , if you are not currently receiving care or support arranged by Oxfordshire County Council and you would like to know whether you are eligible for care and support. Start your online financial assessment Completing the assessment You may be expected to contribute towards the cost of the care you receive. Most people have to pay something towards the cost of their care",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.oxfordshire.gov.uk_residents_social-and-health-care_adult-social-care_paying-social-care_online-.txt",
+        "level": "level_2",
+        "source": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/paying-social-care/online-financial-assessment",
+        "source_url": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/paying-social-care/online-financial-assessment",
+        "total_chunks": 29,
+        "type": "web_page"
+      },
+      "id": "6b54e861-76ad-4b9b-b63d-312e6b4f2a25",
+      "distance": 0.6031323075294495,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.16906030774116515,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". For more details please visit The membership organisation for adult social care providers in Oxfordshire (oacp.org.uk Grants The council has provided funds, administered by the Care Workers Charity, to provide support to adult social care staff experiencing sudden financial pressures. The grants are open to all employees in the social care sector who have been in post for more than three months. In addition, grants are also available to support new (or returning) starters to adult social care. These grants are to support with a range of costs to help new starters to prepare for work or to support cash flow in their first month of employment. For more details on the grants please visit: Oxfordshire Grants - The Care Workers Charity Recruitment support Care Friends Through the Care Friends Digital Employee Referral App., we provide an allocation of funds to support local providers using the app in the recruitment and retention of staff",
+      "metadata": {
+        "chunk_id": 3,
+        "filename": "www.oxfordshire.gov.uk_business_information-providers_adult-social-care-providers_workforce.txt",
+        "level": "level_2",
+        "source": "https://www.oxfordshire.gov.uk/business/information-providers/adult-social-care-providers/workforce",
+        "source_url": "https://www.oxfordshire.gov.uk/business/information-providers/adult-social-care-providers/workforce",
+        "total_chunks": 6,
+        "type": "web_page"
+      },
+      "id": "1b6b4550-2eec-4221-aec2-2e143ab460cd",
+      "distance": 0.6301617622375488,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.16095147132873536,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". However, if you don't, we'll assume that you are prepared to pay the full cost of your care you receive. If you would prefer to arrange your care privately, please contact Adult Social Care so our involvement can be closed. If you do provide your financial information, we can work out how much Oxfordshire County Council will pay towards your care and how much you will need to contribute towards your care costs. Do I need to complete the whole form? Unless you are choosing not to disclose your financial circumstances or you have capital over the upper capital limit of \u00a323,250.00, yes you will need to go through each section of the form. You can skip sections that are not relevant to you. If you are over the upper capital limit and do not want to supply any additional information other than that, you can just answer Yes to this question in the form and skip the remaining sections and then submit your form",
+      "metadata": {
+        "chunk_id": 23,
+        "filename": "www.oxfordshire.gov.uk_online-financial-assessment.txt",
+        "level": "level_3",
+        "source": "https://www.oxfordshire.gov.uk/online-financial-assessment",
+        "source_url": "https://www.oxfordshire.gov.uk/online-financial-assessment",
+        "total_chunks": 29,
+        "type": "web_page"
+      },
+      "id": "eb964f4c-e30d-4cef-9fc0-d0cc9a96abfd",
+      "distance": 0.6347805857658386,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1595658242702484,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". However, if you don't, we'll assume that you are prepared to pay the full cost of your care you receive. If you would prefer to arrange your care privately, please contact Adult Social Care so our involvement can be closed. If you do provide your financial information, we can work out how much Oxfordshire County Council will pay towards your care and how much you will need to contribute towards your care costs. Do I need to complete the whole form? Unless you are choosing not to disclose your financial circumstances or you have capital over the upper capital limit of \u00a323,250.00, yes you will need to go through each section of the form. You can skip sections that are not relevant to you. If you are over the upper capital limit and do not want to supply any additional information other than that, you can just answer Yes to this question in the form and skip the remaining sections and then submit your form",
+      "metadata": {
+        "chunk_id": 23,
+        "filename": "www.oxfordshire.gov.uk_residents_social-and-health-care_adult-social-care_paying-social-care_online-.txt",
+        "level": "level_2",
+        "source": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/paying-social-care/online-financial-assessment",
+        "source_url": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/paying-social-care/online-financial-assessment",
+        "total_chunks": 29,
+        "type": "web_page"
+      },
+      "id": "69363f68-682b-4294-8e9b-16cbf15cf907",
+      "distance": 0.6347805857658386,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1595658242702484,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". It should be read in conjunction with the council\u2019s Adult Social Care policies on Assessment and Review, Comments and Complaints, Safeguarding and Contributions, and associated operational procedures and guidance It should also be read in conjunction with partners\u2019 policies where applicable. Examples include the Oxfordshire Clinical Commissioning Group, NHS Continuing Healthcare and mental health services. Context Oxfordshire County Council aims to support and promote strong communities so that people live their lives as successfully, independently and safely as possible. It aims to encourage independence and choice, be fair and equitable and give service users more power and control over their lives. The Care Act 2014 sets out that people whose eligible needs for care and support are being met by the council will have a Support Plan, and where applicable a Personal Budget",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.oxfordshire.gov.uk_residents_social-and-health-care_adult-social-care_adult-social-care-policies.txt",
+        "level": "level_2",
+        "source": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/adult-social-care-policies/support-planning",
+        "source_url": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/adult-social-care-policies/support-planning",
+        "total_chunks": 35,
+        "type": "web_page"
+      },
+      "id": "cd294378-3783-453e-bfd7-2c43c0686cb4",
+      "distance": 0.6374271512031555,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.15877185463905336,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "support in people\u2019s own homes such as home care\n\nsupport in day centres\n\ncare provided by care homes and nursing homes.\n\nKey Facts about Oxfordshire County Council and its residents\n\n# Spending in 2022-2023\n\n \n\n# Connected Communities\n\n \n\n# Increasing Independence\n\n# Living Independently: Oxfordshire Way in Action\n\n# Designing Better Together\n\n\t\n\n# Working in Partnership",
+      "metadata": {
+        "chunk_id": 4,
+        "contains_financial_info": true,
+        "download_url": "https://www.oxfordshire.gov.uk/sites/default/files/file/adult-social-and-health-care/OxfordshireLocalAccount2022-23.docx",
+        "filename": "OxfordshireLocalAccount2022-23.docx",
+        "financial_sections": "['Foreword', 'Spending in 2022-2023']",
+        "level": "level_1",
+        "paragraph_count": 137,
+        "section_count": 6,
+        "sections": "['Introduction', 'Foreword', 'Spending in 2022-2023', 'Connected Communities', 'Increasing Independence', 'Living Independently: Oxfordshire Way in Action', 'Designing Better Together', 'Working in Partnership']",
+        "source": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/oxfordshire-way",
+        "source_url": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/oxfordshire-way",
+        "table_count": 1,
+        "tables_with_financial_info": "[1]",
+        "total_chunks": 7,
+        "type": "docx"
+      },
+      "id": "f1381c07-1d7f-48c2-9404-7c4e860aed1f",
+      "distance": 0.6153584310254387,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.15269247069236835,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": true,
+        "document_type": "docx",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "sections of the act  \n \n3. It should be read in conjunction with the council\u2019s Adult Social Care policies \non Assessment and Review, Support Planning, Safeguarding and Complaints, \nAppeals and Compliments, and associated operational procedures and \nguidance.  \n \nContext  \n4. Oxfordshire County Council aims to support and promote strong communities \nso that people live their lives as successfully, independently and safely as \npossible. The council aims to promote independence and choice, be fair and \nequitable and give people more  power and control over their lives.  \n \n5. Social care is not a free service and national funding arrangements make it \nclear councils need to collect income locally to contribute towards the cost of \nservices.  \n \n6. Income from charging for services where it is appropriate to do so is therefore \nan essential part of Oxfordshire County Council\u2019s financial strategy.  \n \n7. This policy is based on national legislation and in determining the contribution",
+      "metadata": {
+        "chunk_id": 6,
+        "contains_financial_info": true,
+        "download_url": "https://www.oxfordshire.gov.uk/sites/default/files/file/adult-social-and-health-care/contributionspolicy.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "contributionspolicy.pdf",
+        "financial_pages": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]",
+        "level": "level_3",
+        "page_count": 16,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]",
+        "source": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/adult-social-care-policies",
+        "source_url": "https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/adult-social-care-policies",
+        "total_chunks": 45,
+        "type": "pdf"
+      },
+      "id": "a429e924-e144-44f1-aa42-65cd397b81a0",
+      "distance": 0.6774256229400635,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.14677231311798095,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    }
+  ],
+  "context": "[Document 1] From https://www (pdf) - URL: https://www.oxfordshire.gov.uk/residents/social-and-health-care/carers/all-age-unpaid-carers-strategy - 12 pages [Retrieved via: semantic_original]:\n[Page 7 - FINANCIAL/BUDGET INFORMATION]\n7Current support  \nfor unpaid carers  \nin Oxfordshire\nAll the statutory organisations within health, education and social care in \nOxfordshire together with the city and district councils and voluntary sector \npartners have confirmed their commitment to support for carers and families. \nExamples of this support include:\n \u203aCarers Oxfordshire, a partnership between \nthe charities Action for Carers (Oxfordshire) \nand Rethink Mental Illness, has been \ncommissioned by the council to be the \nprimary adult social care service for unpaid \ncarers aged 18 years and older\n \u203aPersonal budgets are available for unpaid \ncarers to support their wellbeing\n \u203aCarers Oxfordshire has developed a range \nof offers to give unpaid carers time for \nthemselves\n \u203aOxford University Hospital\u2019s Carer Policy \n2022 sets out how carer liaison officers will \nsupport staff to support carers, and how its \ncarer passports aid early identification and\n\n[Document 2] From https://www (web_page) - URL: https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/adult-social-care-policies/support-planning [Retrieved via: semantic_original]:\n. Ordinarily resident in Oxfordshire This policy applies to people with eligible care and support needs who are considered to be \u2018ordinarily resident\u2019 in Oxfordshire. It also applies to carers with eligible support needs caring for someone considered to be ordinarily resident in Oxfordshire, regardless of where they themselves live. People who choose to access support from the council 36. This policy applies to people and carers with eligible needs who choose to access support from the council, irrespective of their financial resources. Whether or not and the extent to which they will pay towards the cost meeting these needs is covered in the Contributions Policy for Adult Social Care. People who lack capacity to decide whether to access support Following a mental capacity assessment, if it is determined that a person does not have capacity to decide whether to access care and support from the Council, a best interests process in line with the Mental Capacity Act will take place\n\n[Document 3] From https://www (web_page) - URL: https://www.oxfordshire.gov.uk/online-financial-assessment [Retrieved via: semantic_original]:\nStart your financial assessment Our online form, (OFA) will tell you how much you are likely to have to contribute towards your care and support. It also allows you to submit your details securely to us. The guidance below should help you fill out the form, but if you need further assistance, you can contact our Financial Assessment Team, who will be happy to assist. You can call them on 01865 323642 or email the team financialassessments@oxfordshire.gov.uk . Whilst you are encouraged to read all the information below before starting your form, here is a quick visual guide (pdf format, 1 MB) to the form and process. Contact us , if you are not currently receiving care or support arranged by Oxfordshire County Council and you would like to know whether you are eligible for care and support. Start your online financial assessment Completing the assessment You may be expected to contribute towards the cost of the care you receive. Most people have to pay something towards the cost of their care\n\n[Document 4] From https://www (web_page) - URL: https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/paying-social-care/online-financial-assessment [Retrieved via: semantic_original]:\nStart your financial assessment Our online form, (OFA) will tell you how much you are likely to have to contribute towards your care and support. It also allows you to submit your details securely to us. The guidance below should help you fill out the form, but if you need further assistance, you can contact our Financial Assessment Team, who will be happy to assist. You can call them on 01865 323642 or email the team financialassessments@oxfordshire.gov.uk . Whilst you are encouraged to read all the information below before starting your form, here is a quick visual guide (pdf format, 1 MB) to the form and process. Contact us , if you are not currently receiving care or support arranged by Oxfordshire County Council and you would like to know whether you are eligible for care and support. Start your online financial assessment Completing the assessment You may be expected to contribute towards the cost of the care you receive. Most people have to pay something towards the cost of their care\n\n[Document 5] From https://www (web_page) - URL: https://www.oxfordshire.gov.uk/business/information-providers/adult-social-care-providers/workforce [Retrieved via: semantic_original]:\n. For more details please visit The membership organisation for adult social care providers in Oxfordshire (oacp.org.uk Grants The council has provided funds, administered by the Care Workers Charity, to provide support to adult social care staff experiencing sudden financial pressures. The grants are open to all employees in the social care sector who have been in post for more than three months. In addition, grants are also available to support new (or returning) starters to adult social care. These grants are to support with a range of costs to help new starters to prepare for work or to support cash flow in their first month of employment. For more details on the grants please visit: Oxfordshire Grants - The Care Workers Charity Recruitment support Care Friends Through the Care Friends Digital Employee Referral App., we provide an allocation of funds to support local providers using the app in the recruitment and retention of staff\n\n[Document 6] From https://www (web_page) - URL: https://www.oxfordshire.gov.uk/online-financial-assessment [Retrieved via: semantic_original]:\n. However, if you don't, we'll assume that you are prepared to pay the full cost of your care you receive. If you would prefer to arrange your care privately, please contact Adult Social Care so our involvement can be closed. If you do provide your financial information, we can work out how much Oxfordshire County Council will pay towards your care and how much you will need to contribute towards your care costs. Do I need to complete the whole form? Unless you are choosing not to disclose your financial circumstances or you have capital over the upper capital limit of \u00a323,250.00, yes you will need to go through each section of the form. You can skip sections that are not relevant to you. If you are over the upper capital limit and do not want to supply any additional information other than that, you can just answer Yes to this question in the form and skip the remaining sections and then submit your form\n\n[Document 7] From https://www (web_page) - URL: https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/paying-social-care/online-financial-assessment [Retrieved via: semantic_original]:\n. However, if you don't, we'll assume that you are prepared to pay the full cost of your care you receive. If you would prefer to arrange your care privately, please contact Adult Social Care so our involvement can be closed. If you do provide your financial information, we can work out how much Oxfordshire County Council will pay towards your care and how much you will need to contribute towards your care costs. Do I need to complete the whole form? Unless you are choosing not to disclose your financial circumstances or you have capital over the upper capital limit of \u00a323,250.00, yes you will need to go through each section of the form. You can skip sections that are not relevant to you. If you are over the upper capital limit and do not want to supply any additional information other than that, you can just answer Yes to this question in the form and skip the remaining sections and then submit your form\n\n[Document 8] From https://www (web_page) - URL: https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/adult-social-care-policies/support-planning [Retrieved via: semantic_original]:\n. It should be read in conjunction with the council\u2019s Adult Social Care policies on Assessment and Review, Comments and Complaints, Safeguarding and Contributions, and associated operational procedures and guidance It should also be read in conjunction with partners\u2019 policies where applicable. Examples include the Oxfordshire Clinical Commissioning Group, NHS Continuing Healthcare and mental health services. Context Oxfordshire County Council aims to support and promote strong communities so that people live their lives as successfully, independently and safely as possible. It aims to encourage independence and choice, be fair and equitable and give service users more power and control over their lives. The Care Act 2014 sets out that people whose eligible needs for care and support are being met by the council will have a Support Plan, and where applicable a Personal Budget\n\n[Document 9] From https://www (docx) - URL: https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/oxfordshire-way [Retrieved via: semantic_original]:\nsupport in people\u2019s own homes such as home care\n\nsupport in day centres\n\ncare provided by care homes and nursing homes.\n\nKey Facts about Oxfordshire County Council and its residents\n\n# Spending in 2022-2023\n\n \n\n# Connected Communities\n\n \n\n# Increasing Independence\n\n# Living Independently: Oxfordshire Way in Action\n\n# Designing Better Together\n\n\t\n\n# Working in Partnership\n\n[Document 10] From https://www (pdf) - URL: https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/adult-social-care-policies - 16 pages [Retrieved via: semantic_original]:\nsections of the act  \n \n3. It should be read in conjunction with the council\u2019s Adult Social Care policies \non Assessment and Review, Support Planning, Safeguarding and Complaints, \nAppeals and Compliments, and associated operational procedures and \nguidance.  \n \nContext  \n4. Oxfordshire County Council aims to support and promote strong communities \nso that people live their lives as successfully, independently and safely as \npossible. The council aims to promote independence and choice, be fair and \nequitable and give people more  power and control over their lives.  \n \n5. Social care is not a free service and national funding arrangements make it \nclear councils need to collect income locally to contribute towards the cost of \nservices.  \n \n6. Income from charging for services where it is appropriate to do so is therefore \nan essential part of Oxfordshire County Council\u2019s financial strategy.  \n \n7. This policy is based on national legislation and in determining the contribution\n",
+  "answer": "If your care needs have increased in Oxfordshire, you may be eligible for additional financial support from the council. Oxfordshire County Council offers support to people with eligible care and support needs, regardless of their financial resources, through a financial assessment process.\n\n**Key Steps and Information:**\n\n- **Financial Assessment:** You should complete an online financial assessment to determine how much the council can contribute towards your care and how much you may need to contribute. This assessment will consider your financial circumstances and any existing benefits, such as Attendance Allowance. You can start this process at [Oxfordshire County Council's financial assessment page](https://www.oxfordshire.gov.uk/online-financial-assessment).\n\n- **Contact Information:** For assistance with the financial assessment, you can contact the Financial Assessment Team at 01865 323642 or email financialassessments@oxfordshire.gov.uk.\n\n- **Eligibility and Support:** According to Oxfordshire County Council's policies, support is available for those with eligible needs, and personal budgets may be provided to support wellbeing. This is in line with their commitment to promoting independence and choice.\n\n- **Next Steps:** If you are not currently receiving care arranged by the council, you should contact Adult Social Care to check your eligibility for support. You can find more information on support planning and eligibility at [Oxfordshire County Council's Adult Social Care Policies page](https://www.oxfordshire.gov.uk/residents/social-and-health-care/adult-social-care/adult-social-care-policies/support-planning).\n\nBy following these steps, you can explore the possibility of receiving additional financial support to meet your increased care needs.",
+  "metrics": {
+    "duration_seconds": 12.073765993118286,
+    "retrieved_docs_count": 10,
+    "query_length": 133,
+    "answer_length": 1788,
+    "retrieval_method": "enhanced",
+    "context_utilization": 0.20151133501259447,
+    "citations_count": 2,
+    "has_citations": true,
+    "query_relevance": 0.875,
+    "unique_retrieval_methods": 1,
+    "budget_documents_retrieved": 3,
+    "retrieval_methods_used": [
+      "semantic_original"
+    ],
+    "retrieval_method_distribution": {
+      "semantic_original": 10
+    }
+  },
+  "local_authority": "oxfordshire",
+  "query_id": "scn_17",
+  "retrieval_method": "enhanced",
+  "run_id": "38b2e974-632b-4cc8-af3e-00570e13415b",
+  "trace": {
+    "run_id": "38b2e974-632b-4cc8-af3e-00570e13415b",
+    "project": "social_care_rag",
+    "url": "https://eu.smith.langchain.com/o/me/runs/38b2e974-632b-4cc8-af3e-00570e13415b"
+  },
+  "test_metadata": {
+    "local_authority": "oxfordshire",
+    "query_id": "scn_17",
+    "query_category": "financial_scenarios",
+    "prompt_variation": "optimized",
+    "prompt_template": "\nPlease answer the following question about social care services in UK local authorities based only on the information in the provided documents.\n\nQuestion: {query}\n\nContext from relevant documents:\n{context}\n\nInstructions:\n1. Provide a clear, direct answer that would help someone needing this information. If information isn't available, state: \"The available documents don't provide specific information about [aspect].\"\n\n2. Synthesize information from ALL relevant documents to provide the most complete answer rather than analyzing documents individually.\n\n3. Structure your response with:\n   - A concise 1-2 sentence summary first\n   - Relevant details organized in short, clear paragraphs\n   - Bullet points for lists or step-by-step information\n   - Bold text for key information the user should notice\n\n4. For financial information:\n   - Include exact figures, time periods, and what the funding covers\n   - Present financial data clearly: \"The adult social care budget is **\u00a3X million** for [time period]\"\n\n5. Always include practical next steps or resources:\n   - Provide contact information, URLs, or application methods mentioned in the documents\n   - Suggest where the person could find more information\n\n6. When citing sources, use a simple format: \"According to [document name/description]\" or include URLs where available.\n\nAnswer:\n",
+    "processing_time": 12.076401710510254,
+    "timestamp": "2025-08-19T14:14:53.328160",
+    "top_k": 10
+  }
+}

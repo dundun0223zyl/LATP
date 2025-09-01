@@ -1,0 +1,275 @@
+{
+  "query": "My husband has advanced dementia and I'm his full-time carer in leeds. I'm exhausted and need support. What are my options?",
+  "retrieved_documents": [
+    {
+      "content": ". Find local groups Carers Leeds provides up to 30 local support groups each month for carers. This gives you the opportunity to meet other carers like you. For more information, visit Carers Leeds . Caring for someone with dementia The Dementia Hub at Carers Leeds provides specialist support to people caring for someone with dementia. This includes help over the phone or in person and advice on money and your legal rights. There is also a monthly meet up at the memory cafe for carers and the person they look after. For more information, visit Carers Leeds . Support when the person you care for dies If you're a carer who is experiencing grief or loss, or you are worried about losing someone, you may be able to get help from the West Yorkshire and Harrogate Grief and Loss Support Service . For free support and advice, call 0808 196 3833 (Monday to Friday, 8am to 8pm) or speak to someone through their online chat",
+      "metadata": {
+        "chunk_id": 10,
+        "filename": "www.leeds.gov.uk_adult-social-care_looking-after-someone_looking-after-a-family-member-or-friend.txt",
+        "level": "level_2",
+        "source": "https://www.leeds.gov.uk/adult-social-care/looking-after-someone/looking-after-a-family-member-or-friend",
+        "source_url": "https://www.leeds.gov.uk/adult-social-care/looking-after-someone/looking-after-a-family-member-or-friend",
+        "total_chunks": 14,
+        "type": "web_page"
+      },
+      "id": "f2ca60a2-df59-447a-99dc-b711be87b810",
+      "distance": 0.5473422408103943,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.18579732775688174,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Dementia Find out what help and support is available in Leeds. Dementia may include memory loss and difficulty with thinking. Find out more about the symptoms of dementia on the Alzheimer's Society website . Get help and support We want Leeds to be a dementia friendly place, where people can live well with the condition, be open about it, and stay well and active. There is help and support available, so you don\u2019t have to face dementia alone. Leeds City Council - Care Delivery Service Find more information on support for people who live with dementia or have complex needs: Peer support service Complex needs day services Memory Support Worker Service If you need advice about living with dementia and support available locally, contact the Memory Support Worker Service: Phone: 0113 231 1727 Email: memorysupport.lypft@nhs.net You can also call the Alzheimer's Society's\u00a0Dementia Connect support line on 0333 150 3456. They're open for longer hours and can put you in touch with local services",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.leeds.gov.uk_adult-social-care_dementia.txt",
+        "level": "level_1",
+        "source": "https://www.leeds.gov.uk/adult-social-care/dementia",
+        "source_url": "https://www.leeds.gov.uk/adult-social-care/dementia",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "662d2ec5-eb69-41ee-a42c-665632a055c6",
+      "distance": 0.5597130060195923,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1820860981941223,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". They're open for longer hours and can put you in touch with local services. Carers Leeds, Dementia Care If you look after someone with dementia, get help with 1 to 1 support, carers groups, training and benefits advice. Visit the Carers Leeds website for more information . If you're worried someone might go missing We are a partner in The Herbert Protocol. This is a way to help find loved ones who go missing. It encourages carers, friends and relatives of people to provide information about their loved ones which could help authorities find them quicker in the event of them going missing. You can complete a form on the Herbert Protocol webpage on the West Yorkshire Police website . The council You can get help with: council tax discounts for\u00a0carers and people with dementia looking after a family member or friend applying for an assisted bin collection You may also\u00a0need extra help with daily activities, such as washing or dressing",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.leeds.gov.uk_adult-social-care_dementia.txt",
+        "level": "level_1",
+        "source": "https://www.leeds.gov.uk/adult-social-care/dementia",
+        "source_url": "https://www.leeds.gov.uk/adult-social-care/dementia",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "d13f7a9e-5951-4629-af83-25431d16380d",
+      "distance": 0.6880083680152893,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1435974895954132,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Help through the council We offer different types of support, depending on your needs. This can include: Community based short breaks - care workers visiting the person you care for once or twice a week, for up to 8 hours per week. Leeds Shared Lives scheme - getting day support or respite in someone else's home for the person you care for. Find out more about Shared Lives respite care and day support Complex needs day services - supporting people who live with dementia or have complex needs Physical impairment and older people's service - helping older people and adults living with a physical impairment who need support Peer support service - helping people living with dementia and people in their support network Find the current costs of services from adult social care . To find out more about short breaks, call the adult social care team on 0113 222 4401 (weekdays 9am to 5pm, except Wednesday from 10am). You can also find out more about becoming a Shared Lives carer",
+      "metadata": {
+        "chunk_id": 7,
+        "filename": "www.leeds.gov.uk_adult-social-care_looking-after-someone_looking-after-a-family-member-or-friend.txt",
+        "level": "level_2",
+        "source": "https://www.leeds.gov.uk/adult-social-care/looking-after-someone/looking-after-a-family-member-or-friend",
+        "source_url": "https://www.leeds.gov.uk/adult-social-care/looking-after-someone/looking-after-a-family-member-or-friend",
+        "total_chunks": 14,
+        "type": "web_page"
+      },
+      "id": "a937aa4e-25e1-41d0-8c6c-b3f249ed8719",
+      "distance": 0.7015039324760437,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1395488202571869,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Apply for a needs assessment with adult social care to help you find the right support. Find more information on living with dementia using the NHS guide . Give feedback and let us know if this page was helpful",
+      "metadata": {
+        "chunk_id": 3,
+        "filename": "www.leeds.gov.uk_adult-social-care_dementia.txt",
+        "level": "level_1",
+        "source": "https://www.leeds.gov.uk/adult-social-care/dementia",
+        "source_url": "https://www.leeds.gov.uk/adult-social-care/dementia",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "88b17a47-0c57-48e0-8593-a0f72a362b29",
+      "distance": 0.6217225790023804,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1346832262992859,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Skills for Care have published a guide giving best practice case studies from domiciliary care employers developing their workforces to support people with dementia. Better domiciliary care for people with dementia The University of East Anglia have also produced a guide book which is free to download and is created for carers who assist a person with a dementia with their personal care. This booklet was developed as part of the Alzheimer\u2019s Society funded Pro-CARE study, which was undertaken at the University of East Anglia. The booklet is available on the link below, please do share with any family carers, care-home staff or dementia support organisations you feel may benefit from the resource. There are also a range of resources around developing dementia friendly environments. In the case of someone\u2019s own home the following are useful for individual and families as well as\u00a0home care providers to give advice",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.leeds.gov.uk_care-quality-team_care_dementia-and-managing-confusion.txt",
+        "level": "level_3",
+        "source": "https://www.leeds.gov.uk/care-quality-team/care/dementia-and-managing-confusion",
+        "source_url": "https://www.leeds.gov.uk/care-quality-team/care/dementia-and-managing-confusion",
+        "total_chunks": 10,
+        "type": "web_page"
+      },
+      "id": "f9baf2d7-4852-4861-860b-a07530fd4702",
+      "distance": 0.7320184111595154,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.13039447665214537,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Recovery hubs Find out about support for adults who need temporary care to promote faster recovery from illness, prevent unnecessary hospital admission and maximise independent living. Who we help We support adults who: are medically ready for discharge from hospital, but who require a further period of rehabilitation and recovery need a wide range of care and support, including nursing and dementia support What we do We provide short term residential and nursing support to adults which may include specialist support, therapy, nursing intervention or a review of overall care needs. The service is delivered in partnership with Leeds Community Healthcare NHS Trust, bringing together a variety of health and social care specialists to provide a strength based and recovery focussed approach to supporting people. Our hubs We have three hubs in Leeds - East (Seacroft) , North West (Yeadon) and South (Beeston)",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.leeds.gov.uk_adult-social-care_care-delivery-service_recovery-hubs.txt",
+        "level": "level_1",
+        "source": "https://www.leeds.gov.uk/adult-social-care/care-delivery-service/recovery-hubs",
+        "source_url": "https://www.leeds.gov.uk/adult-social-care/care-delivery-service/recovery-hubs",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "d0164e02-0ef6-4305-86a5-f0bf0ca2cdc7",
+      "distance": 0.7435164549712804,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1269450635086159,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Care homes Find out about 24-hour support in our residential care homes. Who we help We support people who: are older and require 24-hour care and support may have a diagnosis of dementia have physical needs which may include support with personal care and mobility What we do Support we offer includes: help with all aspects of personal care, health and wellbeing in a safe and comfortable home environment strength based approaches to support people to retain their independence and do what they enjoy with the people who are important to them supported individual and group activities at home and in the community We work with carers, family, and friends by offering shared support, information and advice. How to get support You will need a social worker to make a direct referral to us. Or you can contact us for a conversation about your needs",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.leeds.gov.uk_adult-social-care_care-delivery-service_care-homes.txt",
+        "level": "level_2",
+        "source": "https://www.leeds.gov.uk/adult-social-care/care-delivery-service/care-homes",
+        "source_url": "https://www.leeds.gov.uk/adult-social-care/care-delivery-service/care-homes",
+        "total_chunks": 3,
+        "type": "web_page"
+      },
+      "id": "d51902e8-7ef0-4b9e-a8ca-9034701f41a2",
+      "distance": 0.7512019872665405,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.12463940382003784,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". We signpost to relevant services and support available take part in hobbies and activities feel part of the local community and reduce feelings of social isolation and loneliness One-to-one support is also available but may be chargeable. We don\u2019t provide: support in the person's own home support with personal care intensive, long term one-to-one support How to get support To request a referral form and for more information, email dayopportunites@leeds.gov.uk . We aim to process referrals within 14 working days. You will be contacted by one of our assessors to arrange an initial meeting to discuss the service and assess your suitability. Contact us To find out more or ask any questions, please email\u00a0the team",
+      "metadata": {
+        "chunk_id": 4,
+        "filename": "www.leeds.gov.uk_adult-social-care_care-delivery-service_mental-health-support_mental-health-day-opp.txt",
+        "level": "level_2",
+        "source": "https://www.leeds.gov.uk/adult-social-care/care-delivery-service/mental-health-support/mental-health-day-opportunities",
+        "source_url": "https://www.leeds.gov.uk/adult-social-care/care-delivery-service/mental-health-support/mental-health-day-opportunities",
+        "total_chunks": 6,
+        "type": "web_page"
+      },
+      "id": "de7b9b5e-dd60-46a4-97e8-a08063cb283c",
+      "distance": 0.785187304019928,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1144438087940216,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Dementia resources Practical advice and guidance including a link to the dementia resources library Support for Health and Social Care staff Details of a wide range of legal, financial, and other support targeted at health and care staff but many of the services can be accessed by anyone in need of the support Training, development and useful resources Resources to support training and development in all of the regulated services Provider business continuity Information to support business continuity planning and risk assessments including direct support Activities resources Resources and ideas for activities Advanced care planning and end of life care guidance and support NHS support to providers Enhanced care at home offer comprising of quick response and emergency cover for carers Rapid response to falls and home ward (an expansion of the virtual wards) Remote health monitoring Home comfort NHS digital support Vaccination information NHS Information on vaccination Adults and Health compliments and",
+      "metadata": {
+        "chunk_id": 3,
+        "filename": "www.leeds.gov.uk_care-quality-team.txt",
+        "level": "level_2",
+        "source": "https://www.leeds.gov.uk/care-quality-team",
+        "source_url": "https://www.leeds.gov.uk/care-quality-team",
+        "total_chunks": 5,
+        "type": "web_page"
+      },
+      "id": "88f88507-c70d-4ae2-b7c1-2a9e78c5b033",
+      "distance": 0.7873157262802124,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.11380528211593628,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    }
+  ],
+  "context": "[Document 1] From https://www (web_page) - URL: https://www.leeds.gov.uk/adult-social-care/looking-after-someone/looking-after-a-family-member-or-friend [Retrieved via: semantic_original]:\n. Find local groups Carers Leeds provides up to 30 local support groups each month for carers. This gives you the opportunity to meet other carers like you. For more information, visit Carers Leeds . Caring for someone with dementia The Dementia Hub at Carers Leeds provides specialist support to people caring for someone with dementia. This includes help over the phone or in person and advice on money and your legal rights. There is also a monthly meet up at the memory cafe for carers and the person they look after. For more information, visit Carers Leeds . Support when the person you care for dies If you're a carer who is experiencing grief or loss, or you are worried about losing someone, you may be able to get help from the West Yorkshire and Harrogate Grief and Loss Support Service . For free support and advice, call 0808 196 3833 (Monday to Friday, 8am to 8pm) or speak to someone through their online chat\n\n[Document 2] From https://www (web_page) - URL: https://www.leeds.gov.uk/adult-social-care/dementia [Retrieved via: semantic_original]:\nDementia Find out what help and support is available in Leeds. Dementia may include memory loss and difficulty with thinking. Find out more about the symptoms of dementia on the Alzheimer's Society website . Get help and support We want Leeds to be a dementia friendly place, where people can live well with the condition, be open about it, and stay well and active. There is help and support available, so you don\u2019t have to face dementia alone. Leeds City Council - Care Delivery Service Find more information on support for people who live with dementia or have complex needs: Peer support service Complex needs day services Memory Support Worker Service If you need advice about living with dementia and support available locally, contact the Memory Support Worker Service: Phone: 0113 231 1727 Email: memorysupport.lypft@nhs.net You can also call the Alzheimer's Society's\u00a0Dementia Connect support line on 0333 150 3456. They're open for longer hours and can put you in touch with local services\n\n[Document 3] From https://www (web_page) - URL: https://www.leeds.gov.uk/adult-social-care/dementia [Retrieved via: semantic_original]:\n. They're open for longer hours and can put you in touch with local services. Carers Leeds, Dementia Care If you look after someone with dementia, get help with 1 to 1 support, carers groups, training and benefits advice. Visit the Carers Leeds website for more information . If you're worried someone might go missing We are a partner in The Herbert Protocol. This is a way to help find loved ones who go missing. It encourages carers, friends and relatives of people to provide information about their loved ones which could help authorities find them quicker in the event of them going missing. You can complete a form on the Herbert Protocol webpage on the West Yorkshire Police website . The council You can get help with: council tax discounts for\u00a0carers and people with dementia looking after a family member or friend applying for an assisted bin collection You may also\u00a0need extra help with daily activities, such as washing or dressing\n\n[Document 4] From https://www (web_page) - URL: https://www.leeds.gov.uk/adult-social-care/looking-after-someone/looking-after-a-family-member-or-friend [Retrieved via: semantic_original]:\n. Help through the council We offer different types of support, depending on your needs. This can include: Community based short breaks - care workers visiting the person you care for once or twice a week, for up to 8 hours per week. Leeds Shared Lives scheme - getting day support or respite in someone else's home for the person you care for. Find out more about Shared Lives respite care and day support Complex needs day services - supporting people who live with dementia or have complex needs Physical impairment and older people's service - helping older people and adults living with a physical impairment who need support Peer support service - helping people living with dementia and people in their support network Find the current costs of services from adult social care . To find out more about short breaks, call the adult social care team on 0113 222 4401 (weekdays 9am to 5pm, except Wednesday from 10am). You can also find out more about becoming a Shared Lives carer\n\n[Document 5] From https://www (web_page) - URL: https://www.leeds.gov.uk/adult-social-care/dementia [Retrieved via: semantic_original]:\n. Apply for a needs assessment with adult social care to help you find the right support. Find more information on living with dementia using the NHS guide . Give feedback and let us know if this page was helpful\n\n[Document 6] From https://www (web_page) - URL: https://www.leeds.gov.uk/care-quality-team/care/dementia-and-managing-confusion [Retrieved via: semantic_original]:\n. Skills for Care have published a guide giving best practice case studies from domiciliary care employers developing their workforces to support people with dementia. Better domiciliary care for people with dementia The University of East Anglia have also produced a guide book which is free to download and is created for carers who assist a person with a dementia with their personal care. This booklet was developed as part of the Alzheimer\u2019s Society funded Pro-CARE study, which was undertaken at the University of East Anglia. The booklet is available on the link below, please do share with any family carers, care-home staff or dementia support organisations you feel may benefit from the resource. There are also a range of resources around developing dementia friendly environments. In the case of someone\u2019s own home the following are useful for individual and families as well as\u00a0home care providers to give advice\n\n[Document 7] From https://www (web_page) - URL: https://www.leeds.gov.uk/adult-social-care/care-delivery-service/recovery-hubs [Retrieved via: semantic_original]:\nRecovery hubs Find out about support for adults who need temporary care to promote faster recovery from illness, prevent unnecessary hospital admission and maximise independent living. Who we help We support adults who: are medically ready for discharge from hospital, but who require a further period of rehabilitation and recovery need a wide range of care and support, including nursing and dementia support What we do We provide short term residential and nursing support to adults which may include specialist support, therapy, nursing intervention or a review of overall care needs. The service is delivered in partnership with Leeds Community Healthcare NHS Trust, bringing together a variety of health and social care specialists to provide a strength based and recovery focussed approach to supporting people. Our hubs We have three hubs in Leeds - East (Seacroft) , North West (Yeadon) and South (Beeston)\n\n[Document 8] From https://www (web_page) - URL: https://www.leeds.gov.uk/adult-social-care/care-delivery-service/care-homes [Retrieved via: semantic_original]:\nCare homes Find out about 24-hour support in our residential care homes. Who we help We support people who: are older and require 24-hour care and support may have a diagnosis of dementia have physical needs which may include support with personal care and mobility What we do Support we offer includes: help with all aspects of personal care, health and wellbeing in a safe and comfortable home environment strength based approaches to support people to retain their independence and do what they enjoy with the people who are important to them supported individual and group activities at home and in the community We work with carers, family, and friends by offering shared support, information and advice. How to get support You will need a social worker to make a direct referral to us. Or you can contact us for a conversation about your needs\n\n[Document 9] From https://www (web_page) - URL: https://www.leeds.gov.uk/adult-social-care/care-delivery-service/mental-health-support/mental-health-day-opportunities [Retrieved via: semantic_original]:\n. We signpost to relevant services and support available take part in hobbies and activities feel part of the local community and reduce feelings of social isolation and loneliness One-to-one support is also available but may be chargeable. We don\u2019t provide: support in the person's own home support with personal care intensive, long term one-to-one support How to get support To request a referral form and for more information, email dayopportunites@leeds.gov.uk . We aim to process referrals within 14 working days. You will be contacted by one of our assessors to arrange an initial meeting to discuss the service and assess your suitability. Contact us To find out more or ask any questions, please email\u00a0the team\n\n[Document 10] From https://www (web_page) - URL: https://www.leeds.gov.uk/care-quality-team [Retrieved via: semantic_original]:\n. Dementia resources Practical advice and guidance including a link to the dementia resources library Support for Health and Social Care staff Details of a wide range of legal, financial, and other support targeted at health and care staff but many of the services can be accessed by anyone in need of the support Training, development and useful resources Resources to support training and development in all of the regulated services Provider business continuity Information to support business continuity planning and risk assessments including direct support Activities resources Resources and ideas for activities Advanced care planning and end of life care guidance and support NHS support to providers Enhanced care at home offer comprising of quick response and emergency cover for carers Rapid response to falls and home ward (an expansion of the virtual wards) Remote health monitoring Home comfort NHS digital support Vaccination information NHS Information on vaccination Adults and Health compliments and\n",
+  "answer": "As a full-time carer for your husband with advanced dementia in Leeds, you have several support options available to help alleviate your exhaustion.\n\n**Support Options:**\n\n- **Carers Leeds:** Offers up to 30 local support groups each month, providing opportunities to meet other carers. They also have a Dementia Hub offering specialist support, advice on legal rights, and a monthly meet-up at the memory caf\u00e9. For more information, visit [Carers Leeds](https://www.leeds.gov.uk/adult-social-care/looking-after-someone/looking-after-a-family-member-or-friend).\n\n- **Community-Based Short Breaks:** Care workers can visit your husband once or twice a week for up to 8 hours per week, providing you with a break. Contact the adult social care team at 0113 222 4401 for more details.\n\n- **Leeds Shared Lives Scheme:** Offers day support or respite in someone else's home for your husband. More information can be found on the [Leeds City Council website](https://www.leeds.gov.uk/adult-social-care/looking-after-someone/looking-after-a-family-member-or-friend).\n\n- **Memory Support Worker Service:** Provides advice about living with dementia and local support. You can contact them at 0113 231 1727 or email memorysupport.lypft@nhs.net.\n\n- **Alzheimer's Society's Dementia Connect Support Line:** Offers extended hours support and can connect you with local services. Call them at 0333 150 3456.\n\n**Practical Next Steps:**\n\n1. **Contact Carers Leeds** for immediate support and to join local groups.\n2. **Call the adult social care team** at 0113 222 4401 to explore short breaks and respite care options.\n3. **Reach out to the Memory Support Worker Service** for personalized advice and support.\n\nThese resources are designed to support you as a carer and ensure you have the necessary breaks and assistance.",
+  "metrics": {
+    "duration_seconds": 18.095747232437134,
+    "retrieved_docs_count": 10,
+    "query_length": 123,
+    "answer_length": 1808,
+    "retrieval_method": "enhanced",
+    "context_utilization": 0.23093681917211328,
+    "citations_count": 0,
+    "has_citations": false,
+    "query_relevance": 0.6470588235294118,
+    "unique_retrieval_methods": 1,
+    "budget_documents_retrieved": 0,
+    "retrieval_methods_used": [
+      "semantic_original"
+    ],
+    "retrieval_method_distribution": {
+      "semantic_original": 10
+    }
+  },
+  "local_authority": "leeds",
+  "query_id": "scn_15",
+  "retrieval_method": "enhanced",
+  "run_id": "b3701795-9bff-4880-8bba-a5bc753d7bf5",
+  "trace": {
+    "run_id": "b3701795-9bff-4880-8bba-a5bc753d7bf5",
+    "project": "social_care_rag",
+    "url": "https://eu.smith.langchain.com/o/me/runs/b3701795-9bff-4880-8bba-a5bc753d7bf5"
+  },
+  "test_metadata": {
+    "local_authority": "leeds",
+    "query_id": "scn_15",
+    "query_category": "carer_support_scenarios",
+    "prompt_variation": "optimized",
+    "prompt_template": "\nPlease answer the following question about social care services in UK local authorities based only on the information in the provided documents.\n\nQuestion: {query}\n\nContext from relevant documents:\n{context}\n\nInstructions:\n1. Provide a clear, direct answer that would help someone needing this information. If information isn't available, state: \"The available documents don't provide specific information about [aspect].\"\n\n2. Synthesize information from ALL relevant documents to provide the most complete answer rather than analyzing documents individually.\n\n3. Structure your response with:\n   - A concise 1-2 sentence summary first\n   - Relevant details organized in short, clear paragraphs\n   - Bullet points for lists or step-by-step information\n   - Bold text for key information the user should notice\n\n4. For financial information:\n   - Include exact figures, time periods, and what the funding covers\n   - Present financial data clearly: \"The adult social care budget is **\u00a3X million** for [time period]\"\n\n5. Always include practical next steps or resources:\n   - Provide contact information, URLs, or application methods mentioned in the documents\n   - Suggest where the person could find more information\n\n6. When citing sources, use a simple format: \"According to [document name/description]\" or include URLs where available.\n\nAnswer:\n",
+    "processing_time": 18.09880495071411,
+    "timestamp": "2025-08-19T13:53:36.951379",
+    "top_k": 10
+  }
+}

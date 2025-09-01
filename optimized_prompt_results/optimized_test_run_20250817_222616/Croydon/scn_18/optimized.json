@@ -1,0 +1,347 @@
+{
+  "query": "My son with learning disabilities is turning 18 in Croydon. How will his financial support change when he transitions to adult services?",
+  "retrieved_documents": [
+    {
+      "content": "[Page 10 - FINANCIAL/BUDGET INFORMATION]\n \nADULT  SOCIAL CARE & HEAL TH ASSURANCE IMPROVEMENT  PLAN    Working with People  \u2013 Theme 1  (Lead: Principal Social Worker)  \n  \nRef Priorities and key activity  By when  Revised \nTimeline  Status  Success Measures  \n(Impact for residents  and \nwhat good looks like )  \n12 Strengthen how we understand and tackle inequalities to services . This includes activity to:  \n \n12.1 Review equity of access to \nreferral services and identify groups \nwith less access and make plans to improve.  \n September \n2024  \n March \n2025    \n\uf0fc Improved access to social care services for underrepresented and marginalised groups.  \n \n\uf0fc Enhanced trust, respect, and goodwill between social care providers and service users from \ndifferent backgrounds.  \n \n\uf0fc Greater participation and \nengagement from diverse communities in the development and delivery of social care services.  \n \n\uf0fc More targeted and effective interventions to address specific health \nand social care",
+      "metadata": {
+        "chunk_id": 21,
+        "contains_financial_info": true,
+        "download_url": "https://www.croydon.gov.uk/sites/default/files/2025-01/public-facing-adult-social-care-and-health%3Dassurance-improvement-plan-updated-december-2024.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "public-facing-adult-social-care-and-health%3Dassurance-improvement-plan-updated-december-2024.pdf",
+        "financial_pages": "[3, 5, 6, 7, 8, 9, 10, 12]",
+        "level": "level_2",
+        "page_count": 16,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]",
+        "source": "https://www.croydon.gov.uk/adult-health-and-social-care/policies-and-complaints/adult-social-care-and-health-peer-challenge",
+        "source_url": "https://www.croydon.gov.uk/adult-health-and-social-care/policies-and-complaints/adult-social-care-and-health-peer-challenge",
+        "total_chunks": 39,
+        "type": "pdf"
+      },
+      "id": "a198c1bf-6682-4e90-852f-4229d9d3dd5c",
+      "distance": 0.6933220624923706,
+      "retrieval_method": "semantic_expanded_1",
+      "expanded_query": "adult social care",
+      "combined_score": 0.5668285560774636,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_expanded_1"
+      }
+    },
+    {
+      "content": "support services funded or managed by social services.  \n\u2022 The biennial Personal Social Services Survey of Adult Carers , which gathers \ninformation from carers over aged 18 years",
+      "metadata": {
+        "chunk_id": 41,
+        "contains_financial_info": true,
+        "download_url": "https://www.croydon.gov.uk/sites/default/files/2024-10/croydon_adult_social_careand_health_strategy_november_22.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "croydon_adult_social_careand_health_strategy_november_22.pdf",
+        "financial_pages": "[2, 3, 4, 6, 7, 8, 10, 11, 12, 13, 14, 15, 16, 17, 18]",
+        "level": "level_3",
+        "page_count": 18,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18]",
+        "source": "https://www.croydon.gov.uk/council-and-elections/policies-plans-and-strategies/health-and-social-care-policies-plans-and-strategies/adult-social-care-and-health-strategy",
+        "source_url": "https://www.croydon.gov.uk/council-and-elections/policies-plans-and-strategies/health-and-social-care-policies-plans-and-strategies/adult-social-care-and-health-strategy",
+        "total_chunks": 51,
+        "type": "pdf"
+      },
+      "id": "fd08b8bb-380c-4a2d-8bb8-fb8691ffb173",
+      "distance": 0.5330522060394287,
+      "retrieval_method": "semantic_expanded_1",
+      "expanded_query": "adult social care",
+      "combined_score": 0.5443479745518077,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_expanded_1"
+      }
+    },
+    {
+      "content": "a loss of clear social work/care identity  as such the Council  have plans in place to \nreview current section 75 arrangements.  \n \nMessage 6  \nThe peer team identified a number of panel processes which in addition to other factors \nalso considered placement/care packages costs.  The peer team paid specific attention \nto these processes given there has been legal challenge nationally around panels t hat \nfocus on costs and their role within the Care Act.  However, following review the peer \nteam were assured that the Council  were acting in a Care Act compliant manner and \nthat these processes added value and provided support to staff.  \n \nTheme 1: Working with People  \nQuality Statement 1: Assessing  Needs  \nAdult Social Care Front Door  \nThe adult social care front door is deployed by the Adult Early Intervention and Support \nService (AEISS) and sits separately to the Council \u2019s corporate front door . Staff within \nthis service  are dedicated, professional and highly skilled. The key objective of the",
+      "metadata": {
+        "chunk_id": 14,
+        "contains_financial_info": true,
+        "download_url": "https://www.croydon.gov.uk/sites/default/files/2024-06/Peer%20Challenge%20Final%20Report.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Peer%20Challenge%20Final%20Report.pdf",
+        "financial_pages": "[3, 5, 6, 7, 8, 9, 10, 11, 12, 13, 15, 16, 17, 18, 19, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 35, 36, 39, 40, 42, 43, 44, 46, 47]",
+        "level": "level_2",
+        "page_count": 49,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49]",
+        "source": "https://www.croydon.gov.uk/adult-health-and-social-care/policies-and-complaints/adult-social-care-and-health-peer-challenge",
+        "source_url": "https://www.croydon.gov.uk/adult-health-and-social-care/policies-and-complaints/adult-social-care-and-health-peer-challenge",
+        "total_chunks": 138,
+        "type": "pdf"
+      },
+      "id": "7777d939-f821-41f1-ba15-284a1eee0ea7",
+      "distance": 0.734458327293396,
+      "retrieval_method": "semantic_expanded_1",
+      "expanded_query": "adult social care",
+      "combined_score": 0.5352569074063868,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_expanded_1"
+      }
+    },
+    {
+      "content": "\u2022 \n the future provision of care to meet the changing  \nneeds of local people\n\u2022  the current financial challenges being experienced \nacross health and, social care\nIt identifies the changes in the coming years that are likely to impact local service providers across the private, not-for-profit, VCS, and statutory sectors\nIntegration\nIn our Adult Social Care and Health Strategy we talk about the Integration of Health and Care where it makes sense for local residents.\nIn July 2022, the South West London Integrated Care \nSystem (ICS) was launched.  The Integrated Care Systems are partnership organisations that come together to plan and deliver health and care services to improve people\u2019s lives. The Integrated Care System has four main purposes:\n\u2022  To improve results in population health and healthcare.\n\u2022  Tackle inequalities in outcomes, experience and access. \n\u2022  Enhance productivity and value for money.\n\u2022  Support broader social and economic development.",
+      "metadata": {
+        "chunk_id": 27,
+        "contains_financial_info": true,
+        "download_url": "https://www.croydon.gov.uk/sites/default/files/2024-11/local-account-social-care-and-health-2023-2024.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "local-account-social-care-and-health-2023-2024.pdf",
+        "financial_pages": "[2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]",
+        "level": "level_2",
+        "page_count": 13,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]",
+        "source": "https://www.croydon.gov.uk/adult-health-and-social-care/policies-and-complaints/local-account-adult-social-care-and-health-2023-2024",
+        "source_url": "https://www.croydon.gov.uk/adult-health-and-social-care/policies-and-complaints/local-account-adult-social-care-and-health-2023-2024",
+        "total_chunks": 38,
+        "type": "pdf"
+      },
+      "id": "16743742-a2c4-40e9-b53a-bc2d24353527",
+      "distance": 0.8606804013252258,
+      "retrieval_method": "semantic_expanded_3",
+      "expanded_query": "care services",
+      "combined_score": 0.5337539215604742,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_expanded_3"
+      }
+    },
+    {
+      "content": "stewardship of Croydon\u2019s \u2018public purse\u2019.  \n \nAddressing the challenges facing  Adult Social Care in Croydon  - Annette McPartland, \nExecutive Director Adult Social Care  \nWe are challenging and changing how we deliver social \ncare in Croydon in order to improve your services, reduce \nour expenditure and li ve within the council\u2019s available \nresources. This will put adult social care in Croydon on a \nsustainable footing whilst ensuring that people who need \nservices  receive them.  \nHowever, our  fundamental visio n for adult social care remains - residents should live \nas independent lives as possible, carers are supported in their caring role and our \nadults at risk of abuse or neglect are kept safe from harm.",
+      "metadata": {
+        "chunk_id": 8,
+        "contains_financial_info": true,
+        "download_url": "https://www.croydon.gov.uk/sites/default/files/2024-10/croydon_adult_social_careand_health_strategy_november_22.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "croydon_adult_social_careand_health_strategy_november_22.pdf",
+        "financial_pages": "[2, 3, 4, 6, 7, 8, 10, 11, 12, 13, 14, 15, 16, 17, 18]",
+        "level": "level_3",
+        "page_count": 18,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18]",
+        "source": "https://www.croydon.gov.uk/council-and-elections/policies-plans-and-strategies/health-and-social-care-policies-plans-and-strategies/adult-social-care-and-health-strategy",
+        "source_url": "https://www.croydon.gov.uk/council-and-elections/policies-plans-and-strategies/health-and-social-care-policies-plans-and-strategies/adult-social-care-and-health-strategy",
+        "total_chunks": 51,
+        "type": "pdf"
+      },
+      "id": "9e811833-95de-4eb3-a285-d71c4ae13c1e",
+      "distance": 0.7443531155586243,
+      "retrieval_method": "semantic_expanded_1",
+      "expanded_query": "adult social care",
+      "combined_score": 0.5322884709268183,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_expanded_1"
+      }
+    },
+    {
+      "content": "reduce or delay the need for ongoing support and to \nmaximise people\u2019s independence. \nOur model for Adult Social Care is underpinned by a \nset of principles (Figure 2) which aim to deliver:\n \u25cfPerson centred care: individuals in receipt of \nsupport and care are at the centre of decision \nmaking regarding their care.\n \u25cfRight support: ensure that the support people \nreceive delivers the right outcomes for individuals \nand any risks are managed appropriately.\n \u25cfRight time: early intervention where possible, \nregular review and assessments to avoid \nescalation to statutory services. \n \u25cfRight place: care provided in the least restrictive \nway, closer to home and promoting independence \nand move on where appropriate.Strategic direction - our vision for Adult Social \nCare & Health \nFigure 1: Prevent, Reduce, Delay model",
+      "metadata": {
+        "chunk_id": 9,
+        "contains_financial_info": true,
+        "download_url": "https://www.croydon.gov.uk/sites/default/files/2023-06/Croydon_Council_Adult_Social_Care_and_Health__market_proviosn_statement.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Croydon_Council_Adult_Social_Care_and_Health_market_proviosn_statement.pdf",
+        "financial_pages": "[3, 4, 5, 6, 7, 10, 11, 12, 13, 14, 15, 16, 17, 19, 20, 21, 22, 26]",
+        "level": "level_2",
+        "page_count": 27,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27]",
+        "source": "https://www.croydon.gov.uk/adult-health-and-social-care/policies-and-complaints/croydons-market-position-statement-adult-social-care-and-health-asch",
+        "source_url": "https://www.croydon.gov.uk/adult-health-and-social-care/policies-and-complaints/croydons-market-position-statement-adult-social-care-and-health-asch",
+        "total_chunks": 64,
+        "type": "pdf"
+      },
+      "id": "4eebd404-cb3e-4c4a-9414-b49e80bc77d1",
+      "distance": 0.6862196326255798,
+      "retrieval_method": "semantic_expanded_1",
+      "expanded_query": "adult social care",
+      "combined_score": 0.5304977465759624,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_expanded_1"
+      }
+    },
+    {
+      "content": "advice and guidance on adult social care but also on public health, housing and \nhomelessness prevention, debt advice, domestic violence and assistance for families, \nand sup port with benefits .  \nAdult social care i nformation and guidance pertaining to accessibility and availability  \nwas raised by a number of carers and people who draw on services. This was in \nrelation to  clarity around  residents\u2019 entitlements and expectations from social care  and \nthe  Council  website being  \u2018confusing\u2019 and \u2018difficult to navigate ,\u2019 and that guidance and \ninformation is often unavailable in the variety of accessible formats required by the \nadult and/or carer.  The Council  is well aware of these issues, and have prioritised a \nreview of the adult social care pages of the Council website as a result. This process \nis nearing completion, with user testing a key component of the review.",
+      "metadata": {
+        "chunk_id": 54,
+        "contains_financial_info": true,
+        "download_url": "https://www.croydon.gov.uk/sites/default/files/2024-06/Peer%20Challenge%20Final%20Report.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Peer%20Challenge%20Final%20Report.pdf",
+        "financial_pages": "[3, 5, 6, 7, 8, 9, 10, 11, 12, 13, 15, 16, 17, 18, 19, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 35, 36, 39, 40, 42, 43, 44, 46, 47]",
+        "level": "level_2",
+        "page_count": 49,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49]",
+        "source": "https://www.croydon.gov.uk/adult-health-and-social-care/policies-and-complaints/adult-social-care-and-health-peer-challenge",
+        "source_url": "https://www.croydon.gov.uk/adult-health-and-social-care/policies-and-complaints/adult-social-care-and-health-peer-challenge",
+        "total_chunks": 138,
+        "type": "pdf"
+      },
+      "id": "2bfbb0a5-94c1-4693-bb3e-e3f4f32186b2",
+      "distance": 0.7124232053756714,
+      "retrieval_method": "semantic_expanded_1",
+      "expanded_query": "adult social care",
+      "combined_score": 0.522636674750935,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_expanded_1"
+      }
+    },
+    {
+      "content": "[Page 27 - FINANCIAL/BUDGET INFORMATION]\n \n27 \n18 Smith Square, London, SW1P 3HZ   www.local.gov.uk   Telephone 020 7664 3000   Email info@local.gov.uk   Interim  Chief Executive:  Sarah Pickup   \nLocal Government Association company number 11177145 Improvement and Development Agency for Local Government company number 03675577  \n \n  \n Considerations  \nVoice of those who draw on services and their carers.  \nVarious perspectives regarding the quality and timeliness of care and support services \nwere shared by carers and those who draw on services . A carer expressed her \nsatisfaction with the care given to her daughter as \"a tremendous help\"  in assisting in \npersonal care and meal preparation. Another adult who receives homecare services \nexpressed their satisfaction with the care they received, describing it as \"consistent, \nflexible and reliable\". A young adult recounted their successful journey towards \nindependent living, aided by the invaluable support of \u201cdedicated carers .\u201d They also",
+      "metadata": {
+        "chunk_id": 73,
+        "contains_financial_info": true,
+        "download_url": "https://www.croydon.gov.uk/sites/default/files/2024-06/Peer%20Challenge%20Final%20Report.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Peer%20Challenge%20Final%20Report.pdf",
+        "financial_pages": "[3, 5, 6, 7, 8, 9, 10, 11, 12, 13, 15, 16, 17, 18, 19, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 35, 36, 39, 40, 42, 43, 44, 46, 47]",
+        "level": "level_2",
+        "page_count": 49,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49]",
+        "source": "https://www.croydon.gov.uk/adult-health-and-social-care/policies-and-complaints/adult-social-care-and-health-peer-challenge",
+        "source_url": "https://www.croydon.gov.uk/adult-health-and-social-care/policies-and-complaints/adult-social-care-and-health-peer-challenge",
+        "total_chunks": 138,
+        "type": "pdf"
+      },
+      "id": "813e24b6-87f3-436f-bbd0-103a93647b2f",
+      "distance": 0.8512527346611023,
+      "retrieval_method": "semantic_expanded_3",
+      "expanded_query": "care services",
+      "combined_score": 0.5194493544268441,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_expanded_3"
+      }
+    },
+    {
+      "content": "integrated Care System . CMT work  as one collective unit and as a Council  know \nthemselves very well, both in terms of what they do well, where they have challenges \nand the journey,  they need travel to get to where they want to  be, \u201cwe own our past, \nbut it does not define us or where we are going .\u201d  \nAdult Social Care Vision and Strategy  \nThe DASS knows the needs of the local community well and possesses a robust vision \nfor adult social care that is focused on early intervention and prevention, which is \nreinforced by the Adult Social Care and Health Strategy 2021/25 (recently refreshed in \n2022) . The DASS, supported by a strong and skilled adult social care leadership team \nknow themselves well and clearly articulated to the peer team the areas of challenge, \ngaps, improvements and support required . There are comprehensive and realistic \ntransformation and improvement plans in place which along with the adult social care",
+      "metadata": {
+        "chunk_id": 114,
+        "contains_financial_info": true,
+        "download_url": "https://www.croydon.gov.uk/sites/default/files/2024-06/Peer%20Challenge%20Final%20Report.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Peer%20Challenge%20Final%20Report.pdf",
+        "financial_pages": "[3, 5, 6, 7, 8, 9, 10, 11, 12, 13, 15, 16, 17, 18, 19, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 35, 36, 39, 40, 42, 43, 44, 46, 47]",
+        "level": "level_2",
+        "page_count": 49,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49]",
+        "source": "https://www.croydon.gov.uk/adult-health-and-social-care/policies-and-complaints/adult-social-care-and-health-peer-challenge",
+        "source_url": "https://www.croydon.gov.uk/adult-health-and-social-care/policies-and-complaints/adult-social-care-and-health-peer-challenge",
+        "total_chunks": 138,
+        "type": "pdf"
+      },
+      "id": "c2ca8d36-4112-4be4-904f-446be3e001cd",
+      "distance": 0.7310960292816162,
+      "retrieval_method": "semantic_expanded_1",
+      "expanded_query": "adult social care",
+      "combined_score": 0.5170348275791515,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_expanded_1"
+      }
+    },
+    {
+      "content": "understanding the allocation of resources, and establishing a supportive environment \nfor carers to have a voice in the decision -making process. The aspiration is to continue \nbuilding on the founda tion that has been laid, fostering a collaborative approach that \nplaces the well -being of individuals at the forefront of the discharge process.  \nHowever, amidst these successes, challenges have surfaced, including issues with \ndata collection, information accuracy, and IT -related obstacles. The existence of \nseparate systems for health and social care has compounded the challenge of \naccessing informa tion while working in the community.  \nIntegrated Care System (ICS) and Integrated Collaborative Working  \nThe ICS encompasses six London Boroughs, including Croydon, wherein each \nDirector of Adult Social Services (DASS) assumes responsibility for a particular system",
+      "metadata": {
+        "chunk_id": 81,
+        "contains_financial_info": true,
+        "download_url": "https://www.croydon.gov.uk/sites/default/files/2024-06/Peer%20Challenge%20Final%20Report.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Peer%20Challenge%20Final%20Report.pdf",
+        "financial_pages": "[3, 5, 6, 7, 8, 9, 10, 11, 12, 13, 15, 16, 17, 18, 19, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 35, 36, 39, 40, 42, 43, 44, 46, 47]",
+        "level": "level_2",
+        "page_count": 49,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49]",
+        "source": "https://www.croydon.gov.uk/adult-health-and-social-care/policies-and-complaints/adult-social-care-and-health-peer-challenge",
+        "source_url": "https://www.croydon.gov.uk/adult-health-and-social-care/policies-and-complaints/adult-social-care-and-health-peer-challenge",
+        "total_chunks": 138,
+        "type": "pdf"
+      },
+      "id": "d74c344a-2e6b-4beb-b247-f88669dba098",
+      "distance": 0.8277875781059265,
+      "retrieval_method": "semantic_expanded_3",
+      "expanded_query": "care services",
+      "combined_score": 0.5072581321626277,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_expanded_3"
+      }
+    }
+  ],
+  "context": "[Document 1] From https://www (pdf) - URL: https://www.croydon.gov.uk/adult-health-and-social-care/policies-and-complaints/adult-social-care-and-health-peer-challenge - 16 pages [Retrieved via: semantic_expanded_1]:\n[Page 10 - FINANCIAL/BUDGET INFORMATION]\n \nADULT  SOCIAL CARE & HEAL TH ASSURANCE IMPROVEMENT  PLAN    Working with People  \u2013 Theme 1  (Lead: Principal Social Worker)  \n  \nRef Priorities and key activity  By when  Revised \nTimeline  Status  Success Measures  \n(Impact for residents  and \nwhat good looks like )  \n12 Strengthen how we understand and tackle inequalities to services . This includes activity to:  \n \n12.1 Review equity of access to \nreferral services and identify groups \nwith less access and make plans to improve.  \n September \n2024  \n March \n2025    \n\uf0fc Improved access to social care services for underrepresented and marginalised groups.  \n \n\uf0fc Enhanced trust, respect, and goodwill between social care providers and service users from \ndifferent backgrounds.  \n \n\uf0fc Greater participation and \nengagement from diverse communities in the development and delivery of social care services.  \n \n\uf0fc More targeted and effective interventions to address specific health \nand social care\n\n[Document 2] From https://www (pdf) - URL: https://www.croydon.gov.uk/council-and-elections/policies-plans-and-strategies/health-and-social-care-policies-plans-and-strategies/adult-social-care-and-health-strategy - 18 pages [Retrieved via: semantic_expanded_1]:\nsupport services funded or managed by social services.  \n\u2022 The biennial Personal Social Services Survey of Adult Carers , which gathers \ninformation from carers over aged 18 years\n\n[Document 3] From https://www (pdf) - URL: https://www.croydon.gov.uk/adult-health-and-social-care/policies-and-complaints/adult-social-care-and-health-peer-challenge - 49 pages [Retrieved via: semantic_expanded_1]:\na loss of clear social work/care identity  as such the Council  have plans in place to \nreview current section 75 arrangements.  \n \nMessage 6  \nThe peer team identified a number of panel processes which in addition to other factors \nalso considered placement/care packages costs.  The peer team paid specific attention \nto these processes given there has been legal challenge nationally around panels t hat \nfocus on costs and their role within the Care Act.  However, following review the peer \nteam were assured that the Council  were acting in a Care Act compliant manner and \nthat these processes added value and provided support to staff.  \n \nTheme 1: Working with People  \nQuality Statement 1: Assessing  Needs  \nAdult Social Care Front Door  \nThe adult social care front door is deployed by the Adult Early Intervention and Support \nService (AEISS) and sits separately to the Council \u2019s corporate front door . Staff within \nthis service  are dedicated, professional and highly skilled. The key objective of the\n\n[Document 4] From https://www (pdf) - URL: https://www.croydon.gov.uk/adult-health-and-social-care/policies-and-complaints/local-account-adult-social-care-and-health-2023-2024 - 13 pages [Retrieved via: semantic_expanded_3]:\n\u2022 \n the future provision of care to meet the changing  \nneeds of local people\n\u2022  the current financial challenges being experienced \nacross health and, social care\nIt identifies the changes in the coming years that are likely to impact local service providers across the private, not-for-profit, VCS, and statutory sectors\nIntegration\nIn our Adult Social Care and Health Strategy we talk about the Integration of Health and Care where it makes sense for local residents.\nIn July 2022, the South West London Integrated Care \nSystem (ICS) was launched.  The Integrated Care Systems are partnership organisations that come together to plan and deliver health and care services to improve people\u2019s lives. The Integrated Care System has four main purposes:\n\u2022  To improve results in population health and healthcare.\n\u2022  Tackle inequalities in outcomes, experience and access. \n\u2022  Enhance productivity and value for money.\n\u2022  Support broader social and economic development.\n\n[Document 5] From https://www (pdf) - URL: https://www.croydon.gov.uk/council-and-elections/policies-plans-and-strategies/health-and-social-care-policies-plans-and-strategies/adult-social-care-and-health-strategy - 18 pages [Retrieved via: semantic_expanded_1]:\nstewardship of Croydon\u2019s \u2018public purse\u2019.  \n \nAddressing the challenges facing  Adult Social Care in Croydon  - Annette McPartland, \nExecutive Director Adult Social Care  \nWe are challenging and changing how we deliver social \ncare in Croydon in order to improve your services, reduce \nour expenditure and li ve within the council\u2019s available \nresources. This will put adult social care in Croydon on a \nsustainable footing whilst ensuring that people who need \nservices  receive them.  \nHowever, our  fundamental visio n for adult social care remains - residents should live \nas independent lives as possible, carers are supported in their caring role and our \nadults at risk of abuse or neglect are kept safe from harm.\n\n[Document 6] From https://www (pdf) - URL: https://www.croydon.gov.uk/adult-health-and-social-care/policies-and-complaints/croydons-market-position-statement-adult-social-care-and-health-asch - 27 pages [Retrieved via: semantic_expanded_1]:\nreduce or delay the need for ongoing support and to \nmaximise people\u2019s independence. \nOur model for Adult Social Care is underpinned by a \nset of principles (Figure 2) which aim to deliver:\n \u25cfPerson centred care: individuals in receipt of \nsupport and care are at the centre of decision \nmaking regarding their care.\n \u25cfRight support: ensure that the support people \nreceive delivers the right outcomes for individuals \nand any risks are managed appropriately.\n \u25cfRight time: early intervention where possible, \nregular review and assessments to avoid \nescalation to statutory services. \n \u25cfRight place: care provided in the least restrictive \nway, closer to home and promoting independence \nand move on where appropriate.Strategic direction - our vision for Adult Social \nCare & Health \nFigure 1: Prevent, Reduce, Delay model\n\n[Document 7] From https://www (pdf) - URL: https://www.croydon.gov.uk/adult-health-and-social-care/policies-and-complaints/adult-social-care-and-health-peer-challenge - 49 pages [Retrieved via: semantic_expanded_1]:\nadvice and guidance on adult social care but also on public health, housing and \nhomelessness prevention, debt advice, domestic violence and assistance for families, \nand sup port with benefits .  \nAdult social care i nformation and guidance pertaining to accessibility and availability  \nwas raised by a number of carers and people who draw on services. This was in \nrelation to  clarity around  residents\u2019 entitlements and expectations from social care  and \nthe  Council  website being  \u2018confusing\u2019 and \u2018difficult to navigate ,\u2019 and that guidance and \ninformation is often unavailable in the variety of accessible formats required by the \nadult and/or carer.  The Council  is well aware of these issues, and have prioritised a \nreview of the adult social care pages of the Council website as a result. This process \nis nearing completion, with user testing a key component of the review.\n\n[Document 8] From https://www (pdf) - URL: https://www.croydon.gov.uk/adult-health-and-social-care/policies-and-complaints/adult-social-care-and-health-peer-challenge - 49 pages [Retrieved via: semantic_expanded_3]:\n[Page 27 - FINANCIAL/BUDGET INFORMATION]\n \n27 \n18 Smith Square, London, SW1P 3HZ   www.local.gov.uk   Telephone 020 7664 3000   Email info@local.gov.uk   Interim  Chief Executive:  Sarah Pickup   \nLocal Government Association company number 11177145 Improvement and Development Agency for Local Government company number 03675577  \n \n  \n Considerations  \nVoice of those who draw on services and their carers.  \nVarious perspectives regarding the quality and timeliness of care and support services \nwere shared by carers and those who draw on services . A carer expressed her \nsatisfaction with the care given to her daughter as \"a tremendous help\"  in assisting in \npersonal care and meal preparation. Another adult who receives homecare services \nexpressed their satisfaction with the care they received, describing it as \"consistent, \nflexible and reliable\". A young adult recounted their successful journey towards \nindependent living, aided by the invaluable support of \u201cdedicated carers .\u201d They also\n\n[Document 9] From https://www (pdf) - URL: https://www.croydon.gov.uk/adult-health-and-social-care/policies-and-complaints/adult-social-care-and-health-peer-challenge - 49 pages [Retrieved via: semantic_expanded_1]:\nintegrated Care System . CMT work  as one collective unit and as a Council  know \nthemselves very well, both in terms of what they do well, where they have challenges \nand the journey,  they need travel to get to where they want to  be, \u201cwe own our past, \nbut it does not define us or where we are going .\u201d  \nAdult Social Care Vision and Strategy  \nThe DASS knows the needs of the local community well and possesses a robust vision \nfor adult social care that is focused on early intervention and prevention, which is \nreinforced by the Adult Social Care and Health Strategy 2021/25 (recently refreshed in \n2022) . The DASS, supported by a strong and skilled adult social care leadership team \nknow themselves well and clearly articulated to the peer team the areas of challenge, \ngaps, improvements and support required . There are comprehensive and realistic \ntransformation and improvement plans in place which along with the adult social care\n\n[Document 10] From https://www (pdf) - URL: https://www.croydon.gov.uk/adult-health-and-social-care/policies-and-complaints/adult-social-care-and-health-peer-challenge - 49 pages [Retrieved via: semantic_expanded_3]:\nunderstanding the allocation of resources, and establishing a supportive environment \nfor carers to have a voice in the decision -making process. The aspiration is to continue \nbuilding on the founda tion that has been laid, fostering a collaborative approach that \nplaces the well -being of individuals at the forefront of the discharge process.  \nHowever, amidst these successes, challenges have surfaced, including issues with \ndata collection, information accuracy, and IT -related obstacles. The existence of \nseparate systems for health and social care has compounded the challenge of \naccessing informa tion while working in the community.  \nIntegrated Care System (ICS) and Integrated Collaborative Working  \nThe ICS encompasses six London Boroughs, including Croydon, wherein each \nDirector of Adult Social Services (DASS) assumes responsibility for a particular system\n",
+  "answer": "The available documents don't provide specific information about how financial support for your son with learning disabilities will change when he transitions to adult services in Croydon.\n\n**Key Points:**\n- The documents discuss general strategies and improvements in adult social care services, such as early intervention, person-centered care, and integration with health services, but do not detail financial changes specific to transitioning from children's to adult services.\n- There is an emphasis on addressing inequalities and ensuring equitable access to services, which might indirectly impact the support your son receives.\n\n**Practical Next Steps:**\n- **Contact Croydon Adult Social Care Services**: For specific information about financial support and the transition process, you can contact Croydon's Adult Social Care services directly. Visit their website at [Croydon Adult Social Care](https://www.croydon.gov.uk/adult-health-and-social-care) for contact details and further assistance.\n- **Consult the Croydon Council Website**: As the website is being updated for better accessibility, check for any new information regarding adult social care services and financial support options.\n- **Speak with a Social Worker**: Engaging with a social worker who specializes in transitions from children's to adult services can provide personalized guidance and support.\n\nFor more detailed and specific advice, reaching out to these resources will be beneficial.",
+  "metrics": {
+    "duration_seconds": 9.3650381565094,
+    "retrieved_docs_count": 10,
+    "query_length": 136,
+    "answer_length": 1471,
+    "retrieval_method": "enhanced",
+    "context_utilization": 0.11254612546125461,
+    "citations_count": 1,
+    "has_citations": true,
+    "query_relevance": 0.7894736842105263,
+    "unique_retrieval_methods": 2,
+    "budget_documents_retrieved": 10,
+    "retrieval_methods_used": [
+      "semantic_expanded_3",
+      "semantic_expanded_1"
+    ],
+    "retrieval_method_distribution": {
+      "semantic_expanded_1": 7,
+      "semantic_expanded_3": 3
+    }
+  },
+  "local_authority": "Croydon",
+  "query_id": "scn_18",
+  "retrieval_method": "enhanced",
+  "run_id": "f8019797-542f-4980-80b2-242d5da92813",
+  "trace": {
+    "run_id": "f8019797-542f-4980-80b2-242d5da92813",
+    "project": "social_care_rag",
+    "url": "https://eu.smith.langchain.com/o/me/runs/f8019797-542f-4980-80b2-242d5da92813"
+  },
+  "test_metadata": {
+    "local_authority": "Croydon",
+    "query_id": "scn_18",
+    "query_category": "financial_scenarios",
+    "prompt_variation": "optimized",
+    "prompt_template": "\nPlease answer the following question about social care services in UK local authorities based only on the information in the provided documents.\n\nQuestion: {query}\n\nContext from relevant documents:\n{context}\n\nInstructions:\n1. Provide a clear, direct answer that would help someone needing this information. If information isn't available, state: \"The available documents don't provide specific information about [aspect].\"\n\n2. Synthesize information from ALL relevant documents to provide the most complete answer rather than analyzing documents individually.\n\n3. Structure your response with:\n   - A concise 1-2 sentence summary first\n   - Relevant details organized in short, clear paragraphs\n   - Bullet points for lists or step-by-step information\n   - Bold text for key information the user should notice\n\n4. For financial information:\n   - Include exact figures, time periods, and what the funding covers\n   - Present financial data clearly: \"The adult social care budget is **\u00a3X million** for [time period]\"\n\n5. Always include practical next steps or resources:\n   - Provide contact information, URLs, or application methods mentioned in the documents\n   - Suggest where the person could find more information\n\n6. When citing sources, use a simple format: \"According to [document name/description]\" or include URLs where available.\n\nAnswer:\n",
+    "processing_time": 9.367960691452026,
+    "timestamp": "2025-08-17T22:43:42.936675",
+    "top_k": 10
+  }
+}

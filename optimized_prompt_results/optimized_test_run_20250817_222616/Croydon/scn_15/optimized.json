@@ -1,0 +1,323 @@
+{
+  "query": "My husband has advanced dementia and I'm his full-time carer in Croydon. I'm exhausted and need support. What are my options?",
+  "retrieved_documents": [
+    {
+      "content": "Support for people with dementia and Alzheimer's disease Get support for people with dementia and Alzheimer's, including their families and carers. If you or someone you care for has dementia or Alzheimer's, you can get support to live independently. For more information about dementia and Alzheimer's visit: NHS dementia NHS Alzheimer\u2019s disease Alzheimer\u2019s Society Age UK's dementia Get support in the community Age UK Croydon's Memory Tree Caf\u00e9 A safe and friendly space for socialising and activities. Find out more about Memory Tree Caf\u00e9 . Other community help and support Dementia Support Line - Alzheimer's Society , telephone: 0333 150 3456 Carers Information Centre , telephone 0208 649 9339 Age UK Croydon , telephone 0208 686 0066 24-hour Mental Health Support Line (SLaM) , telephone 0800 731 2864 Croydon Memory Service , telephone 0203 228 9500 Request support from the council Dementia centres Dementia centres enable you to stay active and social in a safe environment",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.croydon.gov.uk_adult-health-and-social-care_get-support-disability_support-people-dementia-and-a.txt",
+        "level": "level_2",
+        "source": "https://www.croydon.gov.uk/adult-health-and-social-care/get-support-disability/support-people-dementia-and-alzheimers-disease",
+        "source_url": "https://www.croydon.gov.uk/adult-health-and-social-care/get-support-disability/support-people-dementia-and-alzheimers-disease",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "1932572f-c410-4da9-8cc9-79b70404a611",
+      "distance": 0.6141300797462463,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1657609760761261,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". This can help to manage your dementia diagnosis and improve your wellbeing. The centres also provide respite and support for carers. Who can use the centres To use the centre, you have to: be over 18 and have care needs live in the local area have a diagnosis of dementia or another cognitive impairment live by yourself or with a carer in your own home be able to walk or stand with the help of no more than one person There is a fee to use the centre. We\u2019ll do a financial assessment to work out how much you have to pay. Get access to a centre To use a dementia centre, you need to request support from our specialist team. We will: discuss your situation offer you the support that suits your needs best, not only the support you apply for let you know how much it costs and how you pay Once we\u2019ve got your request, we\u2019ll arrange to visit you at home so we can work out what you need. Request support for an adult You can request support for yourself or someone else",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.croydon.gov.uk_adult-health-and-social-care_get-support-disability_support-people-dementia-and-a.txt",
+        "level": "level_2",
+        "source": "https://www.croydon.gov.uk/adult-health-and-social-care/get-support-disability/support-people-dementia-and-alzheimers-disease",
+        "source_url": "https://www.croydon.gov.uk/adult-health-and-social-care/get-support-disability/support-people-dementia-and-alzheimers-disease",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "9b9e184e-7b7b-43da-8a3f-f1e923ffad3c",
+      "distance": 0.6520202159881592,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.15439393520355224,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Support carers through assessments, reviews, provide \nregular respite, peer support to ensure their own needs are met.\nProvide excellent information about services so that \neveryone knows how to access them.  Make the information available to people with dementia, their family carers and people who provide care in the NHS, social care, voluntary and private sector. \nTrain hospital staff to have the skills to support \npeople with dementia in hospital and when they leave hospital. \u201c\nBernadette Alves, Consultant in Public Health, Public Health Croydon\nDementia in Croydon: the facts\nDementia is common, expensive and growing. There are around 3,300 people with dementia in Croydon. Only two fifths (43%) of people estimated to have dementia have a diagnosis.",
+      "metadata": {
+        "chunk_id": 156,
+        "contains_financial_info": true,
+        "download_url": "https://www.croydon.gov.uk/sites/default/files/articles/downloads/Croydon-aphr.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Croydon-aphr.pdf",
+        "financial_pages": "[4, 5, 6, 7, 8, 9, 11, 12, 16, 17, 18, 19, 21, 22, 24, 25, 26, 27, 30, 31, 32, 33, 35, 39, 41, 42, 43]",
+        "level": "level_4",
+        "page_count": 46,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46]",
+        "source": "https://www.croydon.gov.uk/health-and-wellbeing/about-public-health-croydon",
+        "source_url": "https://www.croydon.gov.uk/health-and-wellbeing/about-public-health-croydon",
+        "total_chunks": 168,
+        "type": "pdf"
+      },
+      "id": "1411e012-5b99-4fb5-8898-087acee3d5f1",
+      "distance": 0.6725234985351562,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.14824295043945312,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 19 - FINANCIAL/BUDGET INFORMATION]\nOutcome 5: People can lead healthier and independent lives for longer\n We will: \n\u2022 Work with partners through the new Adult Social Care and Health \nImprovement Board to develop a sustainable model of adult social \ncare for the future.\n\u2022 Involve residents through a strengths-based approach to practice and \ncommissioning, and co-design our future engagement model with \npeople with lived experience.\n\u2022 Maximise prevention, early intervention and independence, and \nmanage demand for statutory services, by developing our reablement, \ndirect payments, and care technology offers. \n\u2022 Commission cost-effective services and continue to work with \nproviders to support and develop the market to meet local need in \ninnovative ways. \n\u2022 Work with partners and stakeholders to recognise and support carers.\n\u2022 Support and progress health and care integration where this benefits \nresidents. \n\u2022 Collaborate with partners to make Croydon a dementia friendly \nborough.",
+      "metadata": {
+        "chunk_id": 44,
+        "contains_financial_info": true,
+        "download_url": "https://www.croydon.gov.uk/sites/default/files/2023-02/final-mayors-business-plan-2022-to-2026.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "final-mayors-business-plan-2022-to-2026.pdf",
+        "financial_pages": "[2, 3, 4, 5, 6, 8, 9, 10, 11, 12, 13, 15, 16, 18, 19, 20, 21, 22]",
+        "level": "level_4",
+        "page_count": 22,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22]",
+        "source": "https://www.croydon.gov.uk/mayors-business-plan-2022-2026",
+        "source_url": "https://www.croydon.gov.uk/mayors-business-plan-2022-2026",
+        "total_chunks": 53,
+        "type": "pdf"
+      },
+      "id": "b09723e6-3e61-499d-bbc0-56fd12951a5c",
+      "distance": 0.718352198600769,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1344943404197693,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 19 - FINANCIAL/BUDGET INFORMATION]\nOutcome 5: People can lead healthier and independent lives for longer\n We will: \n\u2022 Work with partners through the new Adult Social Care and Health \nImprovement Board to develop a sustainable model of adult social \ncare for the future.\n\u2022 Involve residents through a strengths-based approach to practice and \ncommissioning, and co-design our future engagement model with \npeople with lived experience.\n\u2022 Maximise prevention, early intervention and independence, and \nmanage demand for statutory services, by developing our reablement, \ndirect payments, and care technology offers. \n\u2022 Commission cost-effective services and continue to work with \nproviders to support and develop the market to meet local need in \ninnovative ways. \n\u2022 Work with partners and stakeholders to recognise and support carers.\n\u2022 Support and progress health and care integration where this benefits \nresidents. \n\u2022 Collaborate with partners to make Croydon a dementia friendly \nborough.",
+      "metadata": {
+        "chunk_id": 44,
+        "contains_financial_info": true,
+        "download_url": "https://www.croydon.gov.uk/sites/default/files/2023-02/final-mayors-business-plan-2022-to-2026.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "final-mayors-business-plan-2022-to-2026.pdf",
+        "financial_pages": "[2, 3, 4, 5, 6, 8, 9, 10, 11, 12, 13, 15, 16, 18, 19, 20, 21, 22]",
+        "level": "level_3",
+        "page_count": 22,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22]",
+        "source": "https://www.croydon.gov.uk/mayors-business-plan-2022-2026",
+        "source_url": "https://www.croydon.gov.uk/mayors-business-plan-2022-2026",
+        "total_chunks": 53,
+        "type": "pdf"
+      },
+      "id": "a4bc2076-7ed1-47a7-aa44-c458d8b0ee42",
+      "distance": 0.718352198600769,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1344943404197693,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "earlier. This will be a key driver of social care demand, \nprimarily in the older people\u2019s care market, but also \nimpacts learning disabilities, autism and mental \nhealth services catering for older people requiring \ncare and support.\nWe are working with the Alzheimer\u2019s Society and \nhealth colleagues to co-produce a dementia strategy \nfor Croydon which will support our drive to become \na Dementia Friendly Borough. A steering group of \nkey stakeholders has been established and will report into the Mental Health Programme Board \nand Health and Wellbeing Board.  The combination \nof a good diet, regular exercise, cognitive reasoning \nexercises, and assistive technology, such as telecare \nthat can help a person remain safe, all appear to \ncontribute to the well-being of a person assessed \nto have dementia. We need to ensure our dementia \nstrategy will focus on prevention foremost and \nsupport people (and their carers) to remain at home \nrather than people entering residential or nursing \ncare unnecessarily.",
+      "metadata": {
+        "chunk_id": 19,
+        "contains_financial_info": true,
+        "download_url": "https://www.croydon.gov.uk/sites/default/files/2023-06/Croydon_Council_Adult_Social_Care_and_Health__market_proviosn_statement.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Croydon_Council_Adult_Social_Care_and_Health_market_proviosn_statement.pdf",
+        "financial_pages": "[3, 4, 5, 6, 7, 10, 11, 12, 13, 14, 15, 16, 17, 19, 20, 21, 22, 26]",
+        "level": "level_2",
+        "page_count": 27,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27]",
+        "source": "https://www.croydon.gov.uk/adult-health-and-social-care/policies-and-complaints/croydons-market-position-statement-adult-social-care-and-health-asch",
+        "source_url": "https://www.croydon.gov.uk/adult-health-and-social-care/policies-and-complaints/croydons-market-position-statement-adult-social-care-and-health-asch",
+        "total_chunks": 64,
+        "type": "pdf"
+      },
+      "id": "d0954d3e-8c80-460c-8ca5-0ab80f533894",
+      "distance": 0.7426566481590271,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.12720300555229186,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Dementia is common, expensive and growing. There are around 3,300 people with dementia in Croydon. Only two fifths (43%) of people estimated to have dementia have a diagnosis.  \nDementia affects many brain functions such as memory and communication. It can be devastating, not only for the person with the condition, but their family and friends.  Carers play a key role in maintaining independence. Symptoms get worse and are eventually severe. However, with the right support it is possible for people with dementia to live well.\nCroydon\u2019s population is ageing. We estimate that over the next 15 years, there will be a 40% increase in the number of people with dementia (4,500 by 2025) \nCroydon spends an estimated \u00a380 million per year on dementia and this is expected to triple over the next 30 years.  These costs include care home costs, care provided by families, social care and NHS costs.\nOne quarter to a third of people in hospital have dementia.\nDementia in Croydon",
+      "metadata": {
+        "chunk_id": 157,
+        "contains_financial_info": true,
+        "download_url": "https://www.croydon.gov.uk/sites/default/files/articles/downloads/Croydon-aphr.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Croydon-aphr.pdf",
+        "financial_pages": "[4, 5, 6, 7, 8, 9, 11, 12, 16, 17, 18, 19, 21, 22, 24, 25, 26, 27, 30, 31, 32, 33, 35, 39, 41, 42, 43]",
+        "level": "level_4",
+        "page_count": 46,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46]",
+        "source": "https://www.croydon.gov.uk/health-and-wellbeing/about-public-health-croydon",
+        "source_url": "https://www.croydon.gov.uk/health-and-wellbeing/about-public-health-croydon",
+        "total_chunks": 168,
+        "type": "pdf"
+      },
+      "id": "0818aba7-abaf-45bf-b78a-b42ae842a4a3",
+      "distance": 0.754582941532135,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1236251175403595,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 4,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "3 with support from Adult Social Care\nAdult  Social  Care  developed  new supported  living  schemes  for people  with learning  disabilities,  \nincreasing  high quality  provision  which  enables  people  to continue  living  within  their own communities .  Adult  Social  Services  have  worked  with partners,  \nresidents  and the VCS to develop  a new multi -agency  \nDementia  Strategy  and Carers  Strategy  achieved  \nDementia  Friendly  Borough  status  as part of the \nCroydon  Dementia  Action  Alliance",
+      "metadata": {
+        "chunk_id": 10,
+        "contains_financial_info": true,
+        "download_url": "https://www.croydon.gov.uk/sites/default/files/2025-04/health-and-care-plan-2022-2024-review-and-outcomes.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "health-and-care-plan-2022-2024-review-and-outcomes.pdf",
+        "financial_pages": "[2, 3, 5, 6, 7, 8, 9, 12, 14, 15, 16, 17]",
+        "level": "level_4",
+        "page_count": 17,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]",
+        "source": "https://www.croydon.gov.uk/council-and-elections/policies-plans-and-strategies/health-and-social-care-policies-plans-and-strategies/croydon-joint-local-health-and-wellbeing-strategy-2024-2029",
+        "source_url": "https://www.croydon.gov.uk/council-and-elections/policies-plans-and-strategies/health-and-social-care-policies-plans-and-strategies/croydon-joint-local-health-and-wellbeing-strategy-2024-2029",
+        "total_chunks": 33,
+        "type": "pdf"
+      },
+      "id": "908b9dd8-ee94-4286-ab23-eb6e83bdfc26",
+      "distance": 0.7621921896934509,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.12134234309196472,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "classses, guided walks, study groups.PROLONGING A HEALTHY LATER LIFEINCREASING RESILIENCE AND INDEPENDENCE\nREDUCING SOCIAL ISOLATION AND LONELINESSSUPPORTING CARERS\n\u2022  Older adults without a carer are more likely to be admitted to nursing or residential care. Helping older carers maintain their \nown health and well-being benefits both \nthe carer and the person they care for.\n\u2022  Support for carers is a priority in Croydon\u2019s \njoint health and well-being strategy.\n\u2022  Croydon Carer Support Service is in \ncontact with around 5,000 carers in \nCroydon and provides much-valued \nservices including respite care, carer need assessments and sitting services.\u2022  Although people are generally living \nlonger, more are doing so with long-term \nconditions or disabilities that limit their daily activities.\n\u2022  Most long-term conditions are preventable \nand people can work towards prolonging the number of years they can expect to remain healthy by adopting healthier lifestyles.\n\u2022  Croydon Council commissions and provides",
+      "metadata": {
+        "chunk_id": 69,
+        "contains_financial_info": true,
+        "download_url": "https://www.croydon.gov.uk/sites/default/files/articles/downloads/Annual%20Public%20Health%20Report%20for%202015.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Annual%20Public%20Health%20Report%20for%202015.pdf",
+        "financial_pages": "[5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 26, 27, 28, 29, 30, 31, 32, 34]",
+        "level": "level_4",
+        "page_count": 35,
+        "pages_with_content": "[1, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35]",
+        "source": "https://www.croydon.gov.uk/health-and-wellbeing/about-public-health-croydon",
+        "source_url": "https://www.croydon.gov.uk/health-and-wellbeing/about-public-health-croydon",
+        "total_chunks": 108,
+        "type": "pdf"
+      },
+      "id": "20932c83-3dc8-4c25-98d0-293ebc35bc1f",
+      "distance": 0.7627813220024109,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.12116560339927673,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "don\u2019t know where to go. People need \naccess to the right information and adviceBetter access to services and\nhealthy lifestyle support close\nto where they live, to help people stay \nphysically and mentally well and maintain\nindependence and social connections. \nSupport for people with dementia is an \nimportant part of this\nFor people impacted by health \ninequalities to feel\nlistened to when seeking care. \nEstablishing trust takes time, \nrespect and consistency.Support for young people and \nfamilies, including for children \nwith special educational needs \nand disabilities, those with \nmental health challenges and  \nthose at risk of violence. Community spaces, including \nparks and green spaces, for \nadults\nand young people to connect \nand improve their wellbeingFor carers across all Croydon\u2019s \ndiverse communities to be \nsupported so that they \nunderstand how to access support",
+      "metadata": {
+        "chunk_id": 9,
+        "contains_financial_info": true,
+        "download_url": "https://www.croydon.gov.uk/sites/default/files/2025-04/croydon-health-and-care-plan-2024-2029-hc-board-feedback-jan-25.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "croydon-health-and-care-plan-2024-2029-hc-board-feedback-jan-25.pdf",
+        "financial_pages": "[5, 8, 9, 14, 16, 17, 18, 19, 20, 23, 24, 27, 28, 32, 35, 37, 38, 41, 42]",
+        "level": "level_4",
+        "page_count": 47,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47]",
+        "source": "https://www.croydon.gov.uk/council-and-elections/policies-plans-and-strategies/health-and-social-care-policies-plans-and-strategies/croydon-joint-local-health-and-wellbeing-strategy-2024-2029",
+        "source_url": "https://www.croydon.gov.uk/council-and-elections/policies-plans-and-strategies/health-and-social-care-policies-plans-and-strategies/croydon-joint-local-health-and-wellbeing-strategy-2024-2029",
+        "total_chunks": 98,
+        "type": "pdf"
+      },
+      "id": "07d26707-84e0-48df-a5fc-ac6d0012cb5a",
+      "distance": 0.7755955457687378,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.11732133626937866,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    }
+  ],
+  "context": "[Document 1] From https://www (web_page) - URL: https://www.croydon.gov.uk/adult-health-and-social-care/get-support-disability/support-people-dementia-and-alzheimers-disease [Retrieved via: semantic_original]:\nSupport for people with dementia and Alzheimer's disease Get support for people with dementia and Alzheimer's, including their families and carers. If you or someone you care for has dementia or Alzheimer's, you can get support to live independently. For more information about dementia and Alzheimer's visit: NHS dementia NHS Alzheimer\u2019s disease Alzheimer\u2019s Society Age UK's dementia Get support in the community Age UK Croydon's Memory Tree Caf\u00e9 A safe and friendly space for socialising and activities. Find out more about Memory Tree Caf\u00e9 . Other community help and support Dementia Support Line - Alzheimer's Society , telephone: 0333 150 3456 Carers Information Centre , telephone 0208 649 9339 Age UK Croydon , telephone 0208 686 0066 24-hour Mental Health Support Line (SLaM) , telephone 0800 731 2864 Croydon Memory Service , telephone 0203 228 9500 Request support from the council Dementia centres Dementia centres enable you to stay active and social in a safe environment\n\n[Document 2] From https://www (web_page) - URL: https://www.croydon.gov.uk/adult-health-and-social-care/get-support-disability/support-people-dementia-and-alzheimers-disease [Retrieved via: semantic_original]:\n. This can help to manage your dementia diagnosis and improve your wellbeing. The centres also provide respite and support for carers. Who can use the centres To use the centre, you have to: be over 18 and have care needs live in the local area have a diagnosis of dementia or another cognitive impairment live by yourself or with a carer in your own home be able to walk or stand with the help of no more than one person There is a fee to use the centre. We\u2019ll do a financial assessment to work out how much you have to pay. Get access to a centre To use a dementia centre, you need to request support from our specialist team. We will: discuss your situation offer you the support that suits your needs best, not only the support you apply for let you know how much it costs and how you pay Once we\u2019ve got your request, we\u2019ll arrange to visit you at home so we can work out what you need. Request support for an adult You can request support for yourself or someone else\n\n[Document 3] From https://www (pdf) - URL: https://www.croydon.gov.uk/health-and-wellbeing/about-public-health-croydon - 46 pages [Retrieved via: semantic_original]:\nSupport carers through assessments, reviews, provide \nregular respite, peer support to ensure their own needs are met.\nProvide excellent information about services so that \neveryone knows how to access them.  Make the information available to people with dementia, their family carers and people who provide care in the NHS, social care, voluntary and private sector. \nTrain hospital staff to have the skills to support \npeople with dementia in hospital and when they leave hospital. \u201c\nBernadette Alves, Consultant in Public Health, Public Health Croydon\nDementia in Croydon: the facts\nDementia is common, expensive and growing. There are around 3,300 people with dementia in Croydon. Only two fifths (43%) of people estimated to have dementia have a diagnosis.\n\n[Document 4] From https://www (pdf) - URL: https://www.croydon.gov.uk/mayors-business-plan-2022-2026 - 22 pages [Retrieved via: semantic_original]:\n[Page 19 - FINANCIAL/BUDGET INFORMATION]\nOutcome 5: People can lead healthier and independent lives for longer\n We will: \n\u2022 Work with partners through the new Adult Social Care and Health \nImprovement Board to develop a sustainable model of adult social \ncare for the future.\n\u2022 Involve residents through a strengths-based approach to practice and \ncommissioning, and co-design our future engagement model with \npeople with lived experience.\n\u2022 Maximise prevention, early intervention and independence, and \nmanage demand for statutory services, by developing our reablement, \ndirect payments, and care technology offers. \n\u2022 Commission cost-effective services and continue to work with \nproviders to support and develop the market to meet local need in \ninnovative ways. \n\u2022 Work with partners and stakeholders to recognise and support carers.\n\u2022 Support and progress health and care integration where this benefits \nresidents. \n\u2022 Collaborate with partners to make Croydon a dementia friendly \nborough.\n\n[Document 5] From https://www (pdf) - URL: https://www.croydon.gov.uk/mayors-business-plan-2022-2026 - 22 pages [Retrieved via: semantic_original]:\n[Page 19 - FINANCIAL/BUDGET INFORMATION]\nOutcome 5: People can lead healthier and independent lives for longer\n We will: \n\u2022 Work with partners through the new Adult Social Care and Health \nImprovement Board to develop a sustainable model of adult social \ncare for the future.\n\u2022 Involve residents through a strengths-based approach to practice and \ncommissioning, and co-design our future engagement model with \npeople with lived experience.\n\u2022 Maximise prevention, early intervention and independence, and \nmanage demand for statutory services, by developing our reablement, \ndirect payments, and care technology offers. \n\u2022 Commission cost-effective services and continue to work with \nproviders to support and develop the market to meet local need in \ninnovative ways. \n\u2022 Work with partners and stakeholders to recognise and support carers.\n\u2022 Support and progress health and care integration where this benefits \nresidents. \n\u2022 Collaborate with partners to make Croydon a dementia friendly \nborough.\n\n[Document 6] From https://www (pdf) - URL: https://www.croydon.gov.uk/adult-health-and-social-care/policies-and-complaints/croydons-market-position-statement-adult-social-care-and-health-asch - 27 pages [Retrieved via: semantic_original]:\nearlier. This will be a key driver of social care demand, \nprimarily in the older people\u2019s care market, but also \nimpacts learning disabilities, autism and mental \nhealth services catering for older people requiring \ncare and support.\nWe are working with the Alzheimer\u2019s Society and \nhealth colleagues to co-produce a dementia strategy \nfor Croydon which will support our drive to become \na Dementia Friendly Borough. A steering group of \nkey stakeholders has been established and will report into the Mental Health Programme Board \nand Health and Wellbeing Board.  The combination \nof a good diet, regular exercise, cognitive reasoning \nexercises, and assistive technology, such as telecare \nthat can help a person remain safe, all appear to \ncontribute to the well-being of a person assessed \nto have dementia. We need to ensure our dementia \nstrategy will focus on prevention foremost and \nsupport people (and their carers) to remain at home \nrather than people entering residential or nursing \ncare unnecessarily.\n\n[Document 7] From https://www (pdf) - URL: https://www.croydon.gov.uk/health-and-wellbeing/about-public-health-croydon - 46 pages [Retrieved via: semantic_original]:\nDementia is common, expensive and growing. There are around 3,300 people with dementia in Croydon. Only two fifths (43%) of people estimated to have dementia have a diagnosis.  \nDementia affects many brain functions such as memory and communication. It can be devastating, not only for the person with the condition, but their family and friends.  Carers play a key role in maintaining independence. Symptoms get worse and are eventually severe. However, with the right support it is possible for people with dementia to live well.\nCroydon\u2019s population is ageing. We estimate that over the next 15 years, there will be a 40% increase in the number of people with dementia (4,500 by 2025) \nCroydon spends an estimated \u00a380 million per year on dementia and this is expected to triple over the next 30 years.  These costs include care home costs, care provided by families, social care and NHS costs.\nOne quarter to a third of people in hospital have dementia.\nDementia in Croydon\n\n[Document 8] From https://www (pdf) - URL: https://www.croydon.gov.uk/council-and-elections/policies-plans-and-strategies/health-and-social-care-policies-plans-and-strategies/croydon-joint-local-health-and-wellbeing-strategy-2024-2029 - 17 pages [Retrieved via: semantic_original]:\n3 with support from Adult Social Care\nAdult  Social  Care  developed  new supported  living  schemes  for people  with learning  disabilities,  \nincreasing  high quality  provision  which  enables  people  to continue  living  within  their own communities .  Adult  Social  Services  have  worked  with partners,  \nresidents  and the VCS to develop  a new multi -agency  \nDementia  Strategy  and Carers  Strategy  achieved  \nDementia  Friendly  Borough  status  as part of the \nCroydon  Dementia  Action  Alliance\n\n[Document 9] From https://www (pdf) - URL: https://www.croydon.gov.uk/health-and-wellbeing/about-public-health-croydon - 35 pages [Retrieved via: semantic_original]:\nclassses, guided walks, study groups.PROLONGING A HEALTHY LATER LIFEINCREASING RESILIENCE AND INDEPENDENCE\nREDUCING SOCIAL ISOLATION AND LONELINESSSUPPORTING CARERS\n\u2022  Older adults without a carer are more likely to be admitted to nursing or residential care. Helping older carers maintain their \nown health and well-being benefits both \nthe carer and the person they care for.\n\u2022  Support for carers is a priority in Croydon\u2019s \njoint health and well-being strategy.\n\u2022  Croydon Carer Support Service is in \ncontact with around 5,000 carers in \nCroydon and provides much-valued \nservices including respite care, carer need assessments and sitting services.\u2022  Although people are generally living \nlonger, more are doing so with long-term \nconditions or disabilities that limit their daily activities.\n\u2022  Most long-term conditions are preventable \nand people can work towards prolonging the number of years they can expect to remain healthy by adopting healthier lifestyles.\n\u2022  Croydon Council commissions and provides\n\n[Document 10] From https://www (pdf) - URL: https://www.croydon.gov.uk/council-and-elections/policies-plans-and-strategies/health-and-social-care-policies-plans-and-strategies/croydon-joint-local-health-and-wellbeing-strategy-2024-2029 - 47 pages [Retrieved via: semantic_original]:\ndon\u2019t know where to go. People need \naccess to the right information and adviceBetter access to services and\nhealthy lifestyle support close\nto where they live, to help people stay \nphysically and mentally well and maintain\nindependence and social connections. \nSupport for people with dementia is an \nimportant part of this\nFor people impacted by health \ninequalities to feel\nlistened to when seeking care. \nEstablishing trust takes time, \nrespect and consistency.Support for young people and \nfamilies, including for children \nwith special educational needs \nand disabilities, those with \nmental health challenges and  \nthose at risk of violence. Community spaces, including \nparks and green spaces, for \nadults\nand young people to connect \nand improve their wellbeingFor carers across all Croydon\u2019s \ndiverse communities to be \nsupported so that they \nunderstand how to access support\n",
+  "answer": "As a full-time carer for your husband with advanced dementia in Croydon, you have several support options available to help alleviate your exhaustion and provide necessary assistance.\n\n**Support Options:**\n- **Dementia Centres:** These centres offer respite and support for carers, allowing you to take a break while your husband is cared for in a safe environment. To access these services, you need to request support from Croydon's specialist team, who will assess your needs and inform you of any costs involved. For more details, visit [Croydon Council's dementia support page](https://www.croydon.gov.uk/adult-health-and-social-care/get-support-disability/support-people-dementia-and-alzheimers-disease).\n\n- **Community Support and Activities:** Consider visiting Age UK Croydon's Memory Tree Caf\u00e9, a friendly space for socializing and activities. This can provide both you and your husband with a change of environment and social interaction. Contact Age UK Croydon at **0208 686 0066** for more information.\n\n- **Carers Information Centre:** For additional support and resources tailored to carers, contact the Carers Information Centre at **0208 649 9339**. They can provide guidance on available services and support networks.\n\n- **Dementia Support Line:** If you need immediate advice or support, the Alzheimer's Society offers a Dementia Support Line at **0333 150 3456**.\n\n**Practical Next Steps:**\n1. **Contact the Dementia Centres:** Request support from Croydon's specialist team to discuss your situation and explore respite care options.\n2. **Visit Community Resources:** Engage with local community resources like the Memory Tree Caf\u00e9 for social activities.\n3. **Reach Out for Information and Support:** Utilize the Carers Information Centre and Dementia Support Line for guidance and emotional support.\n\nThese resources aim to help you manage your caregiving responsibilities while ensuring your own well-being.",
+  "metrics": {
+    "duration_seconds": 11.980632781982422,
+    "retrieved_docs_count": 10,
+    "query_length": 125,
+    "answer_length": 1931,
+    "retrieval_method": "enhanced",
+    "context_utilization": 0.18789144050104384,
+    "citations_count": 0,
+    "has_citations": false,
+    "query_relevance": 0.7647058823529411,
+    "unique_retrieval_methods": 1,
+    "budget_documents_retrieved": 8,
+    "retrieval_methods_used": [
+      "semantic_original"
+    ],
+    "retrieval_method_distribution": {
+      "semantic_original": 10
+    }
+  },
+  "local_authority": "Croydon",
+  "query_id": "scn_15",
+  "retrieval_method": "enhanced",
+  "run_id": "fee9d18b-f304-44da-b46e-3a41623f7d2d",
+  "trace": {
+    "run_id": "fee9d18b-f304-44da-b46e-3a41623f7d2d",
+    "project": "social_care_rag",
+    "url": "https://eu.smith.langchain.com/o/me/runs/fee9d18b-f304-44da-b46e-3a41623f7d2d"
+  },
+  "test_metadata": {
+    "local_authority": "Croydon",
+    "query_id": "scn_15",
+    "query_category": "carer_support_scenarios",
+    "prompt_variation": "optimized",
+    "prompt_template": "\nPlease answer the following question about social care services in UK local authorities based only on the information in the provided documents.\n\nQuestion: {query}\n\nContext from relevant documents:\n{context}\n\nInstructions:\n1. Provide a clear, direct answer that would help someone needing this information. If information isn't available, state: \"The available documents don't provide specific information about [aspect].\"\n\n2. Synthesize information from ALL relevant documents to provide the most complete answer rather than analyzing documents individually.\n\n3. Structure your response with:\n   - A concise 1-2 sentence summary first\n   - Relevant details organized in short, clear paragraphs\n   - Bullet points for lists or step-by-step information\n   - Bold text for key information the user should notice\n\n4. For financial information:\n   - Include exact figures, time periods, and what the funding covers\n   - Present financial data clearly: \"The adult social care budget is **\u00a3X million** for [time period]\"\n\n5. Always include practical next steps or resources:\n   - Provide contact information, URLs, or application methods mentioned in the documents\n   - Suggest where the person could find more information\n\n6. When citing sources, use a simple format: \"According to [document name/description]\" or include URLs where available.\n\nAnswer:\n",
+    "processing_time": 11.985894203186035,
+    "timestamp": "2025-08-17T22:44:15.124692",
+    "top_k": 10
+  }
+}

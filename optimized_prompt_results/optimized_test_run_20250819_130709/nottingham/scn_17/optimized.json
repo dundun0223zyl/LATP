@@ -1,0 +1,335 @@
+{
+  "query": "I receive Attendance Allowance but my care needs have increased in nottingham. Can the council provide additional financial support?",
+  "retrieved_documents": [
+    {
+      "content": "[Page 23 - FINANCIAL/BUDGET INFORMATION]\nMCA Nottingham City/ Notts Multi Agency Policy & Procedure Second Edition June 2010  \n 23a useful tool to promote ongoing learning and may be a useful tool to ask support providers to \ncomplete when they are supporting someone who has a personal budget. \n \nDirect Payments: \n \nSomeone who has eligible needs but who lacks c apacity to consent to direct payments can \nstill receive them. An assessment  of capacity should be undertaken to establish this. Local \nAuthorities can then make direct payment s to a person who lacks capacity but via an \nappropriate and willing \u2018suitable person\u2019 who can receive it on their behalf. \n \nFurther advice and Guidance is available in  the Department of Health Document \n  \u201cGuidance on direct payments - For community care, servic es for carers and children\u2019s \nservices\u201d.  Published in September 2009 or go to:  http://www.dh.gov.uk/en/Publicationsandstatist ics/Publications/PublicationsPolicyAndGuidanc\ne/DH_104840",
+      "metadata": {
+        "chunk_id": 72,
+        "contains_financial_info": true,
+        "download_url": "https://www.nottinghamcity.gov.uk/media/xldjg33o/mca-2005-joint-policy-and-procedures.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "mca-2005-joint-policy-and-procedures.pdf",
+        "financial_pages": "[2, 4, 20, 21, 22, 23, 24, 37, 38, 40, 43]",
+        "level": "level_2",
+        "page_count": 46,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46]",
+        "source": "https://www.nottinghamcity.gov.uk/information-for-residents/health-and-social-care/adult-social-care/adult-safeguarding/adult-safeguarding-procedures-and-guidance/",
+        "source_url": "https://www.nottinghamcity.gov.uk/information-for-residents/health-and-social-care/adult-social-care/adult-safeguarding/adult-safeguarding-procedures-and-guidance/",
+        "total_chunks": 131,
+        "type": "pdf"
+      },
+      "id": "60f20424-6086-442b-9bb0-1a6bb09bd949",
+      "distance": 0.5899919867515564,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1730024039745331,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Am I eligible?   \nTo find out if you are eligible for adult social care services in Nottingham please call the \nNottingham City Health and Care Point on 0300 300 3333.  \nThe next step will be to work out what your difficulties are and to provide the best \npossible support to you. You should be involved in the decision- making and,  if \nappropriate, a care plan will  be created for you.  \n \nWhat is a care plan?  \n \nThe care plan may include one or a number of  services , here are some examples:  \n Community based services - these are services you receive in your  own home  and \ncan include support with managing day to day tasks  like getting wash ed, dress ed and \nmeal  preparation.  \n Respite Care -  this is a term used for a short break; often this is to allow the carer of \nsomeone to get a bit of a break or to support someone to recover from an illness.  \n Sheltered or extra care housing  - some people choose to move into sheltered or",
+      "metadata": {
+        "chunk_id": 1,
+        "contains_financial_info": true,
+        "download_url": "https://www.nottinghamcity.gov.uk/media/uufnsfzw/accessing-social-care-services-factsheet.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "accessing-social-care-services-factsheet.pdf",
+        "financial_pages": "[2]",
+        "level": "level_2",
+        "page_count": 2,
+        "pages_with_content": "[1, 2]",
+        "source": "https://www.nottinghamcity.gov.uk/information-for-residents/health-and-social-care/adult-social-care/financial-and-legal-support/social-care-needs-assessment/",
+        "source_url": "https://www.nottinghamcity.gov.uk/information-for-residents/health-and-social-care/adult-social-care/financial-and-legal-support/social-care-needs-assessment/",
+        "total_chunks": 5,
+        "type": "pdf"
+      },
+      "id": "4a5bd7ca-6487-43a8-90b2-e9b2e27a4290",
+      "distance": 0.6242175102233887,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1627347469329834,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "It is sensible to discuss emergency arrangements during the support planning and to have contact details for alternative care services available.  \n A contingency payment can make up part of your Personal Budget. This is not included as part of the regular four weekly payment but will be paid on request.  \n If you believe the alternative care is likely to be needed for longer than any contingency agreed you should contact the Council to discuss increasing the contingency amount or amending your support plan.  \n \nDo I have to pay anything towards the Direct Paym ent? \n Anyone who has  a Personal Budget must be financially assessed by the Fairer \nCharging team. Details of the financial assessment for community care packages can be found online at:  http://www.nottinghamcity.gov.uk/fairercharging\n \n Any assessed contribution will come off  the Direct Payment made by the Council. \nYou should pay your personal contribution into the bank account set up for the Direct Payment.",
+      "metadata": {
+        "chunk_id": 8,
+        "contains_financial_info": true,
+        "download_url": "https://www.nottinghamcity.gov.uk/media/2xwhzsdi/direct-payments-factsheet.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "direct-payments-factsheet.pdf",
+        "financial_pages": "[1, 2, 3, 4]",
+        "level": "level_2",
+        "page_count": 4,
+        "pages_with_content": "[1, 2, 3, 4]",
+        "source": "https://www.nottinghamcity.gov.uk/information-for-residents/health-and-social-care/adult-social-care/financial-and-legal-support/paying-for-my-homecare/",
+        "source_url": "https://www.nottinghamcity.gov.uk/information-for-residents/health-and-social-care/adult-social-care/financial-and-legal-support/paying-for-my-homecare/",
+        "total_chunks": 11,
+        "type": "pdf"
+      },
+      "id": "a96f6859-ab2a-4734-b8d9-87231221e3fb",
+      "distance": 0.6265069842338562,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.16204790472984315,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 2 - FINANCIAL/BUDGET INFORMATION]\nMeeting the costs of care services can be complex so we have developed a fact s heet \nto help ex plain this further, please see fact s heet six \u2013 \u2018Paying for Care and Support \nServices \u2019.   \nContacts  \nAll residential care homes are required by law to be registered with the Care Quality \nCommission , you can see the latest inspection reports f or homes in Nottingham at: \nwww .cqc.org.uk   \n To find care homes in Nottingham please visit: www.choosemysupport.org.uk\n. \nIf you are receiving services we will check in from time to time to see how things are \ngoing, but if you feel your needs have changed over time then get in touch with us and \nwe can reassess you. Pleas e contact the Nottingham Health and Care Point on:  0300 \n300 3333.  \nFor more information about the different types of care and support you might wish to contact  the Money Advice Service. Telephone 0333 321 3434, or visit their website at:",
+      "metadata": {
+        "chunk_id": 3,
+        "contains_financial_info": true,
+        "download_url": "https://www.nottinghamcity.gov.uk/media/uufnsfzw/accessing-social-care-services-factsheet.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "accessing-social-care-services-factsheet.pdf",
+        "financial_pages": "[2]",
+        "level": "level_2",
+        "page_count": 2,
+        "pages_with_content": "[1, 2]",
+        "source": "https://www.nottinghamcity.gov.uk/information-for-residents/health-and-social-care/adult-social-care/financial-and-legal-support/social-care-needs-assessment/",
+        "source_url": "https://www.nottinghamcity.gov.uk/information-for-residents/health-and-social-care/adult-social-care/financial-and-legal-support/social-care-needs-assessment/",
+        "total_chunks": 5,
+        "type": "pdf"
+      },
+      "id": "b517bb91-68af-412c-a306-4c1d8130a2ec",
+      "distance": 0.634009599685669,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1597971200942993,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 1]\n \n \n \n \nSome people need practical support to do the everyday things t hat most of us take for \ngranted. The social care system provides this support for those who need it, to help \nthem keep their independence and dignity.  Nottingham City Council Adult Social Care \nTeam is responsible for assessing people\u2019s need for social care services in Nottingham \nCity.  \nWhen someone contact s us the first step will be to have an assessment to establish i f \nyou can receive services. There is a national guidance on this but each authority sets \nits own criteria  on eligibility  for services. If you are assessed and told you meet our \nrequirements then the council is obliged by law  to help. If you are not eligible for \nservices we will support you by signposting you to other sources of help and support.  \nAm I eligible?   \nTo find out if you are eligible for adult social care services in Nottingham please call the \nNottingham City Health and Care Point on 0300 300 3333.",
+      "metadata": {
+        "chunk_id": 0,
+        "contains_financial_info": true,
+        "download_url": "https://www.nottinghamcity.gov.uk/media/uufnsfzw/accessing-social-care-services-factsheet.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "accessing-social-care-services-factsheet.pdf",
+        "financial_pages": "[2]",
+        "level": "level_2",
+        "page_count": 2,
+        "pages_with_content": "[1, 2]",
+        "source": "https://www.nottinghamcity.gov.uk/information-for-residents/health-and-social-care/adult-social-care/financial-and-legal-support/social-care-needs-assessment/",
+        "source_url": "https://www.nottinghamcity.gov.uk/information-for-residents/health-and-social-care/adult-social-care/financial-and-legal-support/social-care-needs-assessment/",
+        "total_chunks": 5,
+        "type": "pdf"
+      },
+      "id": "e0dfc6ec-685b-4269-ba1d-9a47f3a105ee",
+      "distance": 0.6364063024520874,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.15907810926437377,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 4 - FINANCIAL/BUDGET INFORMATION]\nIf you do not make your contr ibution there will not be enough money available in your \nDirect Payment account to pay for services. If this happens  you will be responsible \nfor any accrued debt and resolving any issues with the provider or Personal \nAssistant. If this is an ongoing proble m we could have to discuss different ways of \nproviding your care.   \n You will be visited by the Adult Fairer Charging team to determine how much money you need to  contribute to your care package and how much Nottingham City Council  \nneeds to  contribute to y our care package.  \n The Fairer C harging assessment is a financial assessment and is separate to the \ncare needs assessment that is completed by the Social Care Assessor.  \n \nHow to get a  Direct Payment?  \nYou may request for your Personal Budget to be given as a Direct Payment at any \ntime. If you are interested in receiving a Direct Payment then you should discuss this",
+      "metadata": {
+        "chunk_id": 9,
+        "contains_financial_info": true,
+        "download_url": "https://www.nottinghamcity.gov.uk/media/2xwhzsdi/direct-payments-factsheet.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "direct-payments-factsheet.pdf",
+        "financial_pages": "[1, 2, 3, 4]",
+        "level": "level_2",
+        "page_count": 4,
+        "pages_with_content": "[1, 2, 3, 4]",
+        "source": "https://www.nottinghamcity.gov.uk/information-for-residents/health-and-social-care/adult-social-care/financial-and-legal-support/paying-for-my-homecare/",
+        "source_url": "https://www.nottinghamcity.gov.uk/information-for-residents/health-and-social-care/adult-social-care/financial-and-legal-support/paying-for-my-homecare/",
+        "total_chunks": 11,
+        "type": "pdf"
+      },
+      "id": "3529527c-9e5d-4d85-9869-268c27557865",
+      "distance": 0.6577361226081848,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.15267916321754454,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "We will also ensure that we use our available \nfunding fairly between citizens. As set out in the law, this will be based on need, on what other support options are available and on people\u2019s ability to fund their own care. We will consider value for money in all care and support we fund, whether this is services we pay for or through Direct Payments where citizens make their own arrangements. We will expect to meet needs in a cost effective way. We will regularly review needs and care and support plans, so \nthat we can adjust arrangements over time.\nWe will ensure social care resources only fund \nsocial care. We will work with our partners in the NHS to ensure where both parties are funding, we have an appropriate agreement of who pays what. We will work closely this the NHS and other partners to make sure we are investing smartly together. \nm) nottingham City Council \npromoting health and wellbeing as an employer",
+      "metadata": {
+        "chunk_id": 81,
+        "contains_financial_info": true,
+        "download_url": "https://www.nottinghamcity.gov.uk/media/0frjip3a/adult-social-care-strategy-full.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "adult-social-care-strategy-full.pdf",
+        "financial_pages": "[2, 3, 4, 7, 8, 9, 10, 12, 13, 15, 16, 17, 18, 19, 20, 21, 25, 27, 28, 29, 30, 31, 32, 35, 36, 37]",
+        "level": "level_1",
+        "page_count": 39,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39]",
+        "source": "https://www.nottinghamcity.gov.uk/information-for-residents/health-and-social-care/adult-social-care/better-lives-better-outcomes/",
+        "source_url": "https://www.nottinghamcity.gov.uk/information-for-residents/health-and-social-care/adult-social-care/better-lives-better-outcomes/",
+        "total_chunks": 95,
+        "type": "pdf"
+      },
+      "id": "aa36653c-c13a-4e25-aa26-ebaf09afa8b5",
+      "distance": 0.6681143045425415,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.14956570863723756,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 37 - FINANCIAL/BUDGET INFORMATION]\n37We believe that achieving good outcomes \nwithin the resources we have available to us will depend on a range of people working differently together. The success of this strategy is dependent on those contributions outlined below. We are setting out what you can expect of the council and what we ask of you.\nnottingham City Council Adult s ocial \nCare\nNottingham City Council has specific responsibilities towards people who might have support and care needs. \nOur offer is:\n\u2022 We will do everything we can to help people live independently and where people do need support we will ensure it helps you live your life, meet your caring responsibilities and enables your independence.\n\u2022\tIf you come to us for help we will treat you as someone with unique talents and strengths, which we will help you to identify and use.",
+      "metadata": {
+        "chunk_id": 91,
+        "contains_financial_info": true,
+        "download_url": "https://www.nottinghamcity.gov.uk/media/0frjip3a/adult-social-care-strategy-full.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "adult-social-care-strategy-full.pdf",
+        "financial_pages": "[2, 3, 4, 7, 8, 9, 10, 12, 13, 15, 16, 17, 18, 19, 20, 21, 25, 27, 28, 29, 30, 31, 32, 35, 36, 37]",
+        "level": "level_1",
+        "page_count": 39,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39]",
+        "source": "https://www.nottinghamcity.gov.uk/information-for-residents/health-and-social-care/adult-social-care/better-lives-better-outcomes/",
+        "source_url": "https://www.nottinghamcity.gov.uk/information-for-residents/health-and-social-care/adult-social-care/better-lives-better-outcomes/",
+        "total_chunks": 95,
+        "type": "pdf"
+      },
+      "id": "0300647c-dc51-4c67-9360-2ed30728d558",
+      "distance": 0.6728373169898987,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1481488049030304,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 15]\n15 Carers across the Nottingham City and Nottinghamshire County are able to access a number of services to support them \nwith their caring role. Available support may depend on whether the cared for is an adult or a child. All carers can access free information and advice and be referred and supported onwards as appropriate.\nOther forms of support may include:\n\u2022 Support groups for carers or to support them with the condition of the person they care for\n\u2022 Access to health and leisure activities, sometimes at a reduced rate\n\u2022 One to one support and guidance\n\u2022 Access to activities for young carers\n\u2022 A break from the caring role or respite care\n\u2022 Direct payments for the carer to meet their assessed outcomes\nWe also work with a number of organisations and services to:\n\u2022 Identify carers at an early stage in GP practices and schools\n\u2022 Work with GP practices and schools to help them provide appropriate support once carers have been identi\ufb01  ed",
+      "metadata": {
+        "chunk_id": 24,
+        "contains_financial_info": true,
+        "download_url": "https://www.nottinghamcity.gov.uk/media/yaqmzdvl/joint-carers-strategy-2023-2028.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "joint-carers-strategy-2023-2028.pdf",
+        "financial_pages": "[3, 6, 11, 12, 14, 16, 19, 20, 27, 32, 33, 34]",
+        "level": "level_1",
+        "page_count": 36,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36]",
+        "source": "https://www.nottinghamcity.gov.uk/information-for-residents/health-and-social-care/adult-social-care/support-if-you-care-or-look-after-someone/",
+        "source_url": "https://www.nottinghamcity.gov.uk/information-for-residents/health-and-social-care/adult-social-care/support-if-you-care-or-look-after-someone/",
+        "total_chunks": 60,
+        "type": "pdf"
+      },
+      "id": "6d54efa6-ce42-47ad-a769-f10b2937f820",
+      "distance": 0.6847211718559265,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.14458364844322205,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 2 - FINANCIAL/BUDGET INFORMATION]\n \n2 \n Fairer Charging: \nAll citizens who have been assessed as eligible to receive Social Care support are required to \nbe financially assessed by the Fairer Charging Team . This process is to determine whether or \nnot you will be expected to make a financial contri bution towards the cost of your support \npackage, (further details regarding the financial a ssessment can be found online at: \nhttp://www.nottinghamcity.gov.uk/fairercharging ). \n \nIf you are assessed to make a financial contributio n this amount will be deducted from the \nDirect Payment made by the Council. It is then your  responsibility to pay your personal \ncontribution into the Direct Payment Account that y ou will be given by the Council. If you do \nnot make your contribution there will not be enough  money available in your Direct Payment \naccount to pay for the agreed service(s) or support .  Where this happens you will be \nresponsible for any accrued debt. \n \n \nYour Responsibilities:",
+      "metadata": {
+        "chunk_id": 2,
+        "contains_financial_info": true,
+        "download_url": "https://www.nottinghamcity.gov.uk/media/35wd4k2m/direct-payments-guide-for-citizens.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "direct-payments-guide-for-citizens.pdf",
+        "financial_pages": "[1, 2, 3, 4]",
+        "level": "level_2",
+        "page_count": 4,
+        "pages_with_content": "[1, 2, 3, 4]",
+        "source": "https://www.nottinghamcity.gov.uk/information-for-residents/health-and-social-care/adult-social-care/financial-and-legal-support/paying-for-my-homecare/",
+        "source_url": "https://www.nottinghamcity.gov.uk/information-for-residents/health-and-social-care/adult-social-care/financial-and-legal-support/paying-for-my-homecare/",
+        "total_chunks": 9,
+        "type": "pdf"
+      },
+      "id": "53a822e7-a720-43f3-8c72-9bd3db5efce5",
+      "distance": 0.6849778294563293,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.14450665116310119,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    }
+  ],
+  "context": "[Document 1] From https://www (pdf) - URL: https://www.nottinghamcity.gov.uk/information-for-residents/health-and-social-care/adult-social-care/adult-safeguarding/adult-safeguarding-procedures-and-guidance/ - 46 pages [Retrieved via: semantic_original]:\n[Page 23 - FINANCIAL/BUDGET INFORMATION]\nMCA Nottingham City/ Notts Multi Agency Policy & Procedure Second Edition June 2010  \n 23a useful tool to promote ongoing learning and may be a useful tool to ask support providers to \ncomplete when they are supporting someone who has a personal budget. \n \nDirect Payments: \n \nSomeone who has eligible needs but who lacks c apacity to consent to direct payments can \nstill receive them. An assessment  of capacity should be undertaken to establish this. Local \nAuthorities can then make direct payment s to a person who lacks capacity but via an \nappropriate and willing \u2018suitable person\u2019 who can receive it on their behalf. \n \nFurther advice and Guidance is available in  the Department of Health Document \n  \u201cGuidance on direct payments - For community care, servic es for carers and children\u2019s \nservices\u201d.  Published in September 2009 or go to:  http://www.dh.gov.uk/en/Publicationsandstatist ics/Publications/PublicationsPolicyAndGuidanc\ne/DH_104840\n\n[Document 2] From https://www (pdf) - URL: https://www.nottinghamcity.gov.uk/information-for-residents/health-and-social-care/adult-social-care/financial-and-legal-support/social-care-needs-assessment/ - 2 pages [Retrieved via: semantic_original]:\nAm I eligible?   \nTo find out if you are eligible for adult social care services in Nottingham please call the \nNottingham City Health and Care Point on 0300 300 3333.  \nThe next step will be to work out what your difficulties are and to provide the best \npossible support to you. You should be involved in the decision- making and,  if \nappropriate, a care plan will  be created for you.  \n \nWhat is a care plan?  \n \nThe care plan may include one or a number of  services , here are some examples:  \n Community based services - these are services you receive in your  own home  and \ncan include support with managing day to day tasks  like getting wash ed, dress ed and \nmeal  preparation.  \n Respite Care -  this is a term used for a short break; often this is to allow the carer of \nsomeone to get a bit of a break or to support someone to recover from an illness.  \n Sheltered or extra care housing  - some people choose to move into sheltered or\n\n[Document 3] From https://www (pdf) - URL: https://www.nottinghamcity.gov.uk/information-for-residents/health-and-social-care/adult-social-care/financial-and-legal-support/paying-for-my-homecare/ - 4 pages [Retrieved via: semantic_original]:\nIt is sensible to discuss emergency arrangements during the support planning and to have contact details for alternative care services available.  \n A contingency payment can make up part of your Personal Budget. This is not included as part of the regular four weekly payment but will be paid on request.  \n If you believe the alternative care is likely to be needed for longer than any contingency agreed you should contact the Council to discuss increasing the contingency amount or amending your support plan.  \n \nDo I have to pay anything towards the Direct Paym ent? \n Anyone who has  a Personal Budget must be financially assessed by the Fairer \nCharging team. Details of the financial assessment for community care packages can be found online at:  http://www.nottinghamcity.gov.uk/fairercharging\n \n Any assessed contribution will come off  the Direct Payment made by the Council. \nYou should pay your personal contribution into the bank account set up for the Direct Payment.\n\n[Document 4] From https://www (pdf) - URL: https://www.nottinghamcity.gov.uk/information-for-residents/health-and-social-care/adult-social-care/financial-and-legal-support/social-care-needs-assessment/ - 2 pages [Retrieved via: semantic_original]:\n[Page 2 - FINANCIAL/BUDGET INFORMATION]\nMeeting the costs of care services can be complex so we have developed a fact s heet \nto help ex plain this further, please see fact s heet six \u2013 \u2018Paying for Care and Support \nServices \u2019.   \nContacts  \nAll residential care homes are required by law to be registered with the Care Quality \nCommission , you can see the latest inspection reports f or homes in Nottingham at: \nwww .cqc.org.uk   \n To find care homes in Nottingham please visit: www.choosemysupport.org.uk\n. \nIf you are receiving services we will check in from time to time to see how things are \ngoing, but if you feel your needs have changed over time then get in touch with us and \nwe can reassess you. Pleas e contact the Nottingham Health and Care Point on:  0300 \n300 3333.  \nFor more information about the different types of care and support you might wish to contact  the Money Advice Service. Telephone 0333 321 3434, or visit their website at:\n\n[Document 5] From https://www (pdf) - URL: https://www.nottinghamcity.gov.uk/information-for-residents/health-and-social-care/adult-social-care/financial-and-legal-support/social-care-needs-assessment/ - 2 pages [Retrieved via: semantic_original]:\n[Page 1]\n \n \n \n \nSome people need practical support to do the everyday things t hat most of us take for \ngranted. The social care system provides this support for those who need it, to help \nthem keep their independence and dignity.  Nottingham City Council Adult Social Care \nTeam is responsible for assessing people\u2019s need for social care services in Nottingham \nCity.  \nWhen someone contact s us the first step will be to have an assessment to establish i f \nyou can receive services. There is a national guidance on this but each authority sets \nits own criteria  on eligibility  for services. If you are assessed and told you meet our \nrequirements then the council is obliged by law  to help. If you are not eligible for \nservices we will support you by signposting you to other sources of help and support.  \nAm I eligible?   \nTo find out if you are eligible for adult social care services in Nottingham please call the \nNottingham City Health and Care Point on 0300 300 3333.\n\n[Document 6] From https://www (pdf) - URL: https://www.nottinghamcity.gov.uk/information-for-residents/health-and-social-care/adult-social-care/financial-and-legal-support/paying-for-my-homecare/ - 4 pages [Retrieved via: semantic_original]:\n[Page 4 - FINANCIAL/BUDGET INFORMATION]\nIf you do not make your contr ibution there will not be enough money available in your \nDirect Payment account to pay for services. If this happens  you will be responsible \nfor any accrued debt and resolving any issues with the provider or Personal \nAssistant. If this is an ongoing proble m we could have to discuss different ways of \nproviding your care.   \n You will be visited by the Adult Fairer Charging team to determine how much money you need to  contribute to your care package and how much Nottingham City Council  \nneeds to  contribute to y our care package.  \n The Fairer C harging assessment is a financial assessment and is separate to the \ncare needs assessment that is completed by the Social Care Assessor.  \n \nHow to get a  Direct Payment?  \nYou may request for your Personal Budget to be given as a Direct Payment at any \ntime. If you are interested in receiving a Direct Payment then you should discuss this\n\n[Document 7] From https://www (pdf) - URL: https://www.nottinghamcity.gov.uk/information-for-residents/health-and-social-care/adult-social-care/better-lives-better-outcomes/ - 39 pages [Retrieved via: semantic_original]:\nWe will also ensure that we use our available \nfunding fairly between citizens. As set out in the law, this will be based on need, on what other support options are available and on people\u2019s ability to fund their own care. We will consider value for money in all care and support we fund, whether this is services we pay for or through Direct Payments where citizens make their own arrangements. We will expect to meet needs in a cost effective way. We will regularly review needs and care and support plans, so \nthat we can adjust arrangements over time.\nWe will ensure social care resources only fund \nsocial care. We will work with our partners in the NHS to ensure where both parties are funding, we have an appropriate agreement of who pays what. We will work closely this the NHS and other partners to make sure we are investing smartly together. \nm) nottingham City Council \npromoting health and wellbeing as an employer\n\n[Document 8] From https://www (pdf) - URL: https://www.nottinghamcity.gov.uk/information-for-residents/health-and-social-care/adult-social-care/better-lives-better-outcomes/ - 39 pages [Retrieved via: semantic_original]:\n[Page 37 - FINANCIAL/BUDGET INFORMATION]\n37We believe that achieving good outcomes \nwithin the resources we have available to us will depend on a range of people working differently together. The success of this strategy is dependent on those contributions outlined below. We are setting out what you can expect of the council and what we ask of you.\nnottingham City Council Adult s ocial \nCare\nNottingham City Council has specific responsibilities towards people who might have support and care needs. \nOur offer is:\n\u2022 We will do everything we can to help people live independently and where people do need support we will ensure it helps you live your life, meet your caring responsibilities and enables your independence.\n\u2022\tIf you come to us for help we will treat you as someone with unique talents and strengths, which we will help you to identify and use.\n\n[Document 9] From https://www (pdf) - URL: https://www.nottinghamcity.gov.uk/information-for-residents/health-and-social-care/adult-social-care/support-if-you-care-or-look-after-someone/ - 36 pages [Retrieved via: semantic_original]:\n[Page 15]\n15 Carers across the Nottingham City and Nottinghamshire County are able to access a number of services to support them \nwith their caring role. Available support may depend on whether the cared for is an adult or a child. All carers can access free information and advice and be referred and supported onwards as appropriate.\nOther forms of support may include:\n\u2022 Support groups for carers or to support them with the condition of the person they care for\n\u2022 Access to health and leisure activities, sometimes at a reduced rate\n\u2022 One to one support and guidance\n\u2022 Access to activities for young carers\n\u2022 A break from the caring role or respite care\n\u2022 Direct payments for the carer to meet their assessed outcomes\nWe also work with a number of organisations and services to:\n\u2022 Identify carers at an early stage in GP practices and schools\n\u2022 Work with GP practices and schools to help them provide appropriate support once carers have been identi\ufb01  ed\n\n[Document 10] From https://www (pdf) - URL: https://www.nottinghamcity.gov.uk/information-for-residents/health-and-social-care/adult-social-care/financial-and-legal-support/paying-for-my-homecare/ - 4 pages [Retrieved via: semantic_original]:\n[Page 2 - FINANCIAL/BUDGET INFORMATION]\n \n2 \n Fairer Charging: \nAll citizens who have been assessed as eligible to receive Social Care support are required to \nbe financially assessed by the Fairer Charging Team . This process is to determine whether or \nnot you will be expected to make a financial contri bution towards the cost of your support \npackage, (further details regarding the financial a ssessment can be found online at: \nhttp://www.nottinghamcity.gov.uk/fairercharging ). \n \nIf you are assessed to make a financial contributio n this amount will be deducted from the \nDirect Payment made by the Council. It is then your  responsibility to pay your personal \ncontribution into the Direct Payment Account that y ou will be given by the Council. If you do \nnot make your contribution there will not be enough  money available in your Direct Payment \naccount to pay for the agreed service(s) or support .  Where this happens you will be \nresponsible for any accrued debt. \n \n \nYour Responsibilities:\n",
+  "answer": "If your care needs have increased in Nottingham, you may be eligible for additional support from the council. **Contact the Nottingham City Health and Care Point at 0300 300 3333** to request a reassessment of your care needs. If eligible, a care plan will be created to provide the best possible support for you.\n\n- **Eligibility and Assessment**: You will need to undergo a social care needs assessment to determine if you qualify for additional services. This assessment will consider your current difficulties and needs (Document 5).\n\n- **Financial Support**: If eligible, you may receive a Personal Budget, which can be provided as Direct Payments. These payments allow you to arrange your own care services. You will undergo a financial assessment by the Fairer Charging Team to determine any personal contribution you might need to make (Documents 3 and 6).\n\n- **Direct Payments**: If you opt for Direct Payments, you can manage your care services directly. However, you must ensure your personal contribution is paid into the Direct Payment account to avoid service disruptions (Document 6).\n\n- **Practical Steps**: \n  - Call the Nottingham City Health and Care Point at 0300 300 3333 to initiate the reassessment process.\n  - Visit the Nottingham City Council's website for more information on financial assessments and Direct Payments: [Nottingham City Council - Fairer Charging](http://www.nottinghamcity.gov.uk/fairercharging).\n\nFor further guidance, consider contacting the Money Advice Service at 0333 321 3434 for financial advice related to care services (Document 4).",
+  "metrics": {
+    "duration_seconds": 21.074219942092896,
+    "retrieved_docs_count": 10,
+    "query_length": 132,
+    "answer_length": 1584,
+    "retrieval_method": "enhanced",
+    "context_utilization": 0.18404907975460122,
+    "citations_count": 1,
+    "has_citations": true,
+    "query_relevance": 0.8125,
+    "unique_retrieval_methods": 1,
+    "budget_documents_retrieved": 10,
+    "retrieval_methods_used": [
+      "semantic_original"
+    ],
+    "retrieval_method_distribution": {
+      "semantic_original": 10
+    }
+  },
+  "local_authority": "nottingham",
+  "query_id": "scn_17",
+  "retrieval_method": "enhanced",
+  "run_id": "f41e3679-70cf-4305-812a-e64d4443332c",
+  "trace": {
+    "run_id": "f41e3679-70cf-4305-812a-e64d4443332c",
+    "project": "social_care_rag",
+    "url": "https://eu.smith.langchain.com/o/me/runs/f41e3679-70cf-4305-812a-e64d4443332c"
+  },
+  "test_metadata": {
+    "local_authority": "nottingham",
+    "query_id": "scn_17",
+    "query_category": "financial_scenarios",
+    "prompt_variation": "optimized",
+    "prompt_template": "\nPlease answer the following question about social care services in UK local authorities based only on the information in the provided documents.\n\nQuestion: {query}\n\nContext from relevant documents:\n{context}\n\nInstructions:\n1. Provide a clear, direct answer that would help someone needing this information. If information isn't available, state: \"The available documents don't provide specific information about [aspect].\"\n\n2. Synthesize information from ALL relevant documents to provide the most complete answer rather than analyzing documents individually.\n\n3. Structure your response with:\n   - A concise 1-2 sentence summary first\n   - Relevant details organized in short, clear paragraphs\n   - Bullet points for lists or step-by-step information\n   - Bold text for key information the user should notice\n\n4. For financial information:\n   - Include exact figures, time periods, and what the funding covers\n   - Present financial data clearly: \"The adult social care budget is **\u00a3X million** for [time period]\"\n\n5. Always include practical next steps or resources:\n   - Provide contact information, URLs, or application methods mentioned in the documents\n   - Suggest where the person could find more information\n\n6. When citing sources, use a simple format: \"According to [document name/description]\" or include URLs where available.\n\nAnswer:\n",
+    "processing_time": 21.07661509513855,
+    "timestamp": "2025-08-19T14:10:38.547220",
+    "top_k": 10
+  }
+}

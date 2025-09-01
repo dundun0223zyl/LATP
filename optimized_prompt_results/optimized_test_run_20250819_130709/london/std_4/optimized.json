@@ -1,0 +1,329 @@
+{
+  "query": "What additional resources and support services are available for social care users in london, including advocacy and complaints services?",
+  "retrieved_documents": [
+    {
+      "content": "[Page 16 - FINANCIAL/BUDGET INFORMATION]\n16 \n \n  \n  \n  \n \n \n  Our Strengths \n\u2022 Strengthened understanding of City of London carer needs and identification\nof more carers, particularly in the east of the City of London, through specific Carers Support Service and Peer Researcher Programme. \n\u2022 Focus on improved practice with carers in the Adult Social Care service by\nintroducing a carers assessment guide and training of staff (there will continue to be a focus on this so that improvement is continuous). \n\u2022 Targeted support for carers through a carers support service.\n\u2022 This strategy was developed with carers.\u2022 All carer assessments in the City of London are carried out by qualified social\nworkers. \nOur Challenges \n\u2022 Ensuring consistency of knowledge around carers across frontline staff.\n\u2022 Ensuring our information is kept up-to-date, accessible and inclusive for our\ndiverse group of residents. \n\u2022 Ensuring carers are supported by professionals to access the full range of",
+      "metadata": {
+        "chunk_id": 34,
+        "contains_financial_info": true,
+        "download_url": "https://www.cityoflondon.gov.uk/assets/Services-DCCS/carers-strategy-2023-27.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "carers-strategy-2023-27.pdf",
+        "financial_pages": "[3, 5, 9, 10, 12, 13, 16, 17, 20, 22, 26, 27, 29]",
+        "level": "level_2",
+        "page_count": 32,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32]",
+        "source": "https://www.cityoflondon.gov.uk/services/social-care-for-adults/support-for-carers/the-carers-strategy",
+        "source_url": "https://www.cityoflondon.gov.uk/services/social-care-for-adults/support-for-carers/the-carers-strategy",
+        "total_chunks": 64,
+        "type": "pdf"
+      },
+      "id": "5adcaaf4-4a81-4150-ad08-6b20733143b9",
+      "distance": 0.5835897326469421,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.17492308020591735,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "residents who wish to make a complaint about treatment \nprovided under the NHS. Statutory advocacy service for City \nresidents. \nSocial Care Institute for Excellence \nhttps://www.scie.org.uk/ \nClear information about the role of an IMCA. BEFRIENDING \nCompassionate Neighbours \nhttps://www.stjh.org.uk \n020 8525 6058 \nCARERS SERVI\nCARERS SERVICES \nAge UK East London \nhttps://www.ageuk.org.uk/eastlondon/ \n020 8981 7124 \nCarers Allowance \nhttps://www.gov.uk/carers-allowance \n0800 731 0297 \nCarers Trust \nhttps://carers.org/ \nUmbrella organisation providing information on the national \nnetwork of carers services. \nCarers UK \nhttps://www.carersuk.org/ \nOnline forum for carers to support each other. \nCity and Hackney Carers Centre \nhttps://www.hackneycarers.org.uk/ \n020 8533 0951 \nCity Carers Service \nhttps://carers-network.org.uk/ \n020 8960 3033 \nNHS Choices: Carers Direct \nhttps://www.nhs.uk/ \n0300 123 1053 \n26 27",
+      "metadata": {
+        "chunk_id": 50,
+        "contains_financial_info": true,
+        "download_url": "https://www.cityoflondon.gov.uk/assets/Services-DCCS/a-guide-to-dementia-and-family-relationships.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "a-guide-to-dementia-and-family-relationships.pdf",
+        "financial_pages": "[5, 6, 8, 12, 13, 14, 15]",
+        "level": "level_1",
+        "page_count": 17,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]",
+        "source": "https://www.cityoflondon.gov.uk/services/social-care-for-adults/about-dementia",
+        "source_url": "https://www.cityoflondon.gov.uk/services/social-care-for-adults/about-dementia",
+        "total_chunks": 57,
+        "type": "pdf"
+      },
+      "id": "19092caa-8727-4f38-9bcd-e36ddf585ae7",
+      "distance": 0.5853858590126038,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.17438424229621885,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". We are here to listen, understand, and provide the assistance you need. Who can use adult social care? If you live in the City of London and have care and support needs due to a physical or mental impairment or illness, then you are entitled to an assessment of your needs. This means we will have a conversation with you to find the best available options to help you meet these needs and achieve the outcomes you want. If you live in a City Corporation estate outside the Square Mile, you may be able to get Adult Social Care support from your local authority. You can find your local authority on the Gov.uk website (external link) . Contact your GP You can get support through your GP too. If you need to register with a GP you can find your nearest on the NHS website (external link) . What should I do if my needs change? If your needs change, or you feel that they might, please contact Adult Social Care to discuss",
+      "metadata": {
+        "chunk_id": 3,
+        "filename": "www.cityoflondon.gov.uk_services_social-care-for-adults_contact-adult-social-care.txt",
+        "level": "level_1",
+        "source": "https://www.cityoflondon.gov.uk/services/social-care-for-adults/contact-adult-social-care",
+        "source_url": "https://www.cityoflondon.gov.uk/services/social-care-for-adults/contact-adult-social-care",
+        "total_chunks": 5,
+        "type": "web_page"
+      },
+      "id": "1787d26e-30cc-4e65-b542-3a7f75d5a3eb",
+      "distance": 0.5904574990272522,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.17286275029182435,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 15]\n \n  A City Wellbeing Centre provides \npsychological support services to City of London residents and workers on an innovative pay model. Within this, there was a pilot to provide a counselling service to carers although carers felt that this wasn\u2019t carer specific enough and take up was low. \nOverall, support through these services \nincludes: \n\u2022 General wellbeing support and\nminimising of social isolation. \n\u2022 Navigating and accessing the healthand social care system. \n\u2022 Welfare rights and benefit entitlementadvice. \nCarers have told us that there are some gaps in services and that there could be some strengthening in relation to carers needs. These will be considered as part of the action plan and specifically as part of the recommissioning of Carers Connections, the carers support service. \n15",
+      "metadata": {
+        "chunk_id": 33,
+        "contains_financial_info": true,
+        "download_url": "https://www.cityoflondon.gov.uk/assets/Services-DCCS/carers-strategy-2023-27.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "carers-strategy-2023-27.pdf",
+        "financial_pages": "[3, 5, 9, 10, 12, 13, 16, 17, 20, 22, 26, 27, 29]",
+        "level": "level_2",
+        "page_count": 32,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32]",
+        "source": "https://www.cityoflondon.gov.uk/services/social-care-for-adults/support-for-carers/the-carers-strategy",
+        "source_url": "https://www.cityoflondon.gov.uk/services/social-care-for-adults/support-for-carers/the-carers-strategy",
+        "total_chunks": 64,
+        "type": "pdf"
+      },
+      "id": "a2a4a3a4-b59f-476c-b76b-d79a8b0d34aa",
+      "distance": 0.6114397048950195,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.16656808853149413,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "difficulty or stress. \nWhat should I do if I feel \nI need care and support? \nIf you\u2019re finding managing at home and getting out and about increasingly difficult, we can help. The City of London Corporation Adult Social Care Team can talk to you about your needs, discuss what is most important to you and assess how to best meet your needs. Any decisions about your care and support will take into account your health and wellbeing as well as what things matter to you and those close to you, so that you can stay healthy and remain independent for as long as possible. Who is eligible for care and support services? \nAfter you\u2019ve had a discussion with a social worker from the Adult Social Care Team, and with anyone else you would like present (like a relative or friend), your assessment of needs will be completed. \nIf you\u2019re finding a combination",
+      "metadata": {
+        "chunk_id": 2,
+        "contains_financial_info": true,
+        "download_url": "https://www.cityoflondon.gov.uk/assets/Services-DCCS/a-guide-to-adult-social-care-leaflet.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "a-guide-to-adult-social-care-leaflet.pdf",
+        "financial_pages": "[3]",
+        "level": "level_1",
+        "page_count": 4,
+        "pages_with_content": "[1, 2, 3, 4]",
+        "source": "https://www.cityoflondon.gov.uk/services/social-care-for-adults/our-adult-social-care-leaflets",
+        "source_url": "https://www.cityoflondon.gov.uk/services/social-care-for-adults/our-adult-social-care-leaflets",
+        "total_chunks": 6,
+        "type": "pdf"
+      },
+      "id": "ae4088d1-bd10-4f9f-a5f7-8a023afb1856",
+      "distance": 0.6355014443397522,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.15934956669807435,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 12]\nAdult Social Care Market Position Statement - April 2024  \n \n \n  \n11 \n \nincrease the strength of quality assurance and to ensure that all information on \nplacements is triangulated through our social care case management system.  \nAs of 31 December 2023, 21 residents of the City of London ( ten Male and 11 \nFemale) were living in residential care and eight  residents ( six Male and two Female) \nwere placed in nursing care homes.  \nMarket Opportunities and Aspirations  \n\u2022 Potential to collaborate with North -East London ICB partner authorities around \nsupply and pricing.  \n\u2022 The Corporation is open to explore and discuss possible options to secure \nsupply and pricing with care homes within the surrounding boroughs.  \n\u2022 Promotion of care worker career and development opportunities.  \n\u2022 Improve and develop pathways for providers to access online training and \nwider initiatives across partner agencies and host local authorities.  \nLearning Disabilities",
+      "metadata": {
+        "chunk_id": 31,
+        "contains_financial_info": true,
+        "download_url": "https://www.cityoflondon.gov.uk/assets/Services-DCCS/market-position-statement.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "market-position-statement.pdf",
+        "financial_pages": "[2, 3, 4, 5, 6, 7, 8, 9, 11, 14, 15, 16]",
+        "level": "level_2",
+        "page_count": 17,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]",
+        "source": "https://www.cityoflondon.gov.uk/services/social-care-for-adults/adult-social-care-reform-and-commissioning/the-fair-cost-of-care-and-market-sustainability-plan",
+        "source_url": "https://www.cityoflondon.gov.uk/services/social-care-for-adults/adult-social-care-reform-and-commissioning/the-fair-cost-of-care-and-market-sustainability-plan",
+        "total_chunks": 50,
+        "type": "pdf"
+      },
+      "id": "b24ce299-092b-41de-be8b-bf8fb1981062",
+      "distance": 0.6403709650039673,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.15788871049880981,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "020 3957 9844 \nwww.cityconnections.org.uk \n6 City Advice \nCity Advice advisors ofer a confdential and impartial service and are qualifed to advise on consumer and employment rights, welfare benefts, debt, housing and legal issues, relationships, and health and wellbeing. \n020 7392 2919 \n07432 658 083 \ncity.advice@toynbeehall.org.uk \nSupport for carers \nIf you\u2019re a carer and would like to fnd \nout what support is available to you visit the Hackney Council website at: \nwww.hackney.gov.uk/carers \nor the City of London website at: \nwww.cityofondon.gov.uk/carers \n7",
+      "metadata": {
+        "chunk_id": 12,
+        "contains_financial_info": true,
+        "download_url": "https://www.cityoflondon.gov.uk/assets/Services-DCCS/winter-wellness-guide-2023-24.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "winter-wellness-guide-2023-24.pdf",
+        "financial_pages": "[2, 3, 4, 5, 6]",
+        "level": "level_3",
+        "page_count": 9,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9]",
+        "source": "https://www.cityoflondon.gov.uk/services/getting-help-with-the-cost-of-living/help-with-health-and-wellbeing",
+        "source_url": "https://www.cityoflondon.gov.uk/services/getting-help-with-the-cost-of-living/help-with-health-and-wellbeing",
+        "total_chunks": 23,
+        "type": "pdf"
+      },
+      "id": "82bd7a26-3cd5-433b-a983-436093e9b3ff",
+      "distance": 0.6485581398010254,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1554325580596924,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 14 - FINANCIAL/BUDGET INFORMATION]\n \n \n \n \n \n \n \n \n \n \n \n \n \n  \n \n \n \n \n \n \n \n North London Muslim Community Centre \nhttps://www.nlmcc.org.uk/ \n020 8806 1147 \nToynbee Hall \nhttp://www.toynbeehall.org.uk/ \n020 7392 2919 \nADVOCACY AND COMPLAINTS \nThe Advocacy Project \nhttps://www.advocacyproject.org.uk \n020 3960 7920 \nCitizens Advocacy Project (run by Mind in CHWF) \nwww.mindinhackney.org.uk \n020 8525 2301 \nFor residents not eligible for statutory advocac y. \nComplaints (Health and Social Care, City and Hackney) \nhttp://www.cityandhackneyccg.nhs.uk/ \n020 3816 3222 \nPatient Advice and Liaison Service (PALS) \nhttp://www.homerton.nhs.uk/ \n020 8510 5555 \nTo make a complaint: \n0800 085 8354 \npalsandcomplaints@elft.nhs.uk \nPOhWER \nhttps://www.pohwer.net/city-of-london \n0300 456 2370 \nIndependent Health Complaints Advocacy for City and Hackney \nresidents who wish to make a complaint about treatment \nprovided under the NHS. Statutory advocacy service for City \nresidents. \nSocial Care Institute for Excellence",
+      "metadata": {
+        "chunk_id": 49,
+        "contains_financial_info": true,
+        "download_url": "https://www.cityoflondon.gov.uk/assets/Services-DCCS/a-guide-to-dementia-and-family-relationships.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "a-guide-to-dementia-and-family-relationships.pdf",
+        "financial_pages": "[5, 6, 8, 12, 13, 14, 15]",
+        "level": "level_1",
+        "page_count": 17,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]",
+        "source": "https://www.cityoflondon.gov.uk/services/social-care-for-adults/about-dementia",
+        "source_url": "https://www.cityoflondon.gov.uk/services/social-care-for-adults/about-dementia",
+        "total_chunks": 57,
+        "type": "pdf"
+      },
+      "id": "ba0d4d03-7be0-4225-a5f1-c7562e424f83",
+      "distance": 0.6539466381072998,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.15381600856781005,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 4 - FINANCIAL/BUDGET INFORMATION]\nRequest a Carer\u2019s Assessment \nIf you are an adult carer (living in the City of London), \nrequest a Carer\u2019s Assessment. \nAn Assessment will consider what support needs you have \nand if any support is available to you. The Adult Social Care Team will agree a support plan with you. Contact the team to get started. \nIf you are a parent carer or young carer, contact the \nChildren\u2019s Social Care and Early Help team on 020 7332 3621 \nor email children.duty@cityoflondon.gov.uk \nOther support \nTell your GP you are a carer  - you\u2019ll get flexible appointments/text \nreminders and other help, like free vaccines. \nWork help from DWP  - Internet search for \u2018working and supporting \nsomeone\u2019s care\u2019. Carer\u2019s Allowance  - You may be able to get Carer\u2019s Allowance, \nwhich is the main benefit available to carers. Internet search \n\u2018carer\u2019s allowance\u2019. \nMore - see our Support Available for Carers leaflets or visit our web \npage by going to www.cityoflondon.gov.uk/carers",
+      "metadata": {
+        "chunk_id": 3,
+        "contains_financial_info": true,
+        "download_url": "https://www.cityoflondon.gov.uk/assets/Services-DCCS/are-you-a-carer-leaflet.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "are-you-a-carer-leaflet.pdf",
+        "financial_pages": "[4]",
+        "level": "level_1",
+        "page_count": 4,
+        "pages_with_content": "[1, 2, 3, 4]",
+        "source": "https://www.cityoflondon.gov.uk/services/social-care-for-adults/our-adult-social-care-leaflets",
+        "source_url": "https://www.cityoflondon.gov.uk/services/social-care-for-adults/our-adult-social-care-leaflets",
+        "total_chunks": 5,
+        "type": "pdf"
+      },
+      "id": "f2e3ae4e-c0cc-4673-b657-e24fcf3bd791",
+      "distance": 0.6603689193725586,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.15188932418823242,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "If you answered \u2018yes\u2019, then you are a carer and there may be support \navailable for you. \nIf you are a carer, you may be able \nto access support from the City of London Corporation\u2019s Social Care Team, your GP and other agencies. You may also be entitled to Carer\u2019s Allowance. \n020 7332 1224 (Monday - Friday, 9am \u2013 5pm) \nadultsduty@cityoflondon.gov.uk \nCommunity and Children\u2019s Services \nGuildhall, North Wing \nPO Box 270 London \nAdult Social Care \nEC2P 2EJ October 2024",
+      "metadata": {
+        "chunk_id": 6,
+        "contains_financial_info": true,
+        "download_url": "https://www.cityoflondon.gov.uk/assets/Services-DCCS/a-guide-to-leaving-hospital-leaflet.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "a-guide-to-leaving-hospital-leaflet.pdf",
+        "financial_pages": "[4]",
+        "level": "level_1",
+        "page_count": 4,
+        "pages_with_content": "[1, 2, 3, 4]",
+        "source": "https://www.cityoflondon.gov.uk/services/social-care-for-adults/our-adult-social-care-leaflets",
+        "source_url": "https://www.cityoflondon.gov.uk/services/social-care-for-adults/our-adult-social-care-leaflets",
+        "total_chunks": 7,
+        "type": "pdf"
+      },
+      "id": "519548d0-be83-4734-8ec4-cd590a7c4e67",
+      "distance": 0.6614763315301706,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1485571005409488,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    }
+  ],
+  "context": "[Document 1] From https://www (pdf) - URL: https://www.cityoflondon.gov.uk/services/social-care-for-adults/support-for-carers/the-carers-strategy - 32 pages [Retrieved via: semantic_original]:\n[Page 16 - FINANCIAL/BUDGET INFORMATION]\n16 \n \n  \n  \n  \n \n \n  Our Strengths \n\u2022 Strengthened understanding of City of London carer needs and identification\nof more carers, particularly in the east of the City of London, through specific Carers Support Service and Peer Researcher Programme. \n\u2022 Focus on improved practice with carers in the Adult Social Care service by\nintroducing a carers assessment guide and training of staff (there will continue to be a focus on this so that improvement is continuous). \n\u2022 Targeted support for carers through a carers support service.\n\u2022 This strategy was developed with carers.\u2022 All carer assessments in the City of London are carried out by qualified social\nworkers. \nOur Challenges \n\u2022 Ensuring consistency of knowledge around carers across frontline staff.\n\u2022 Ensuring our information is kept up-to-date, accessible and inclusive for our\ndiverse group of residents. \n\u2022 Ensuring carers are supported by professionals to access the full range of\n\n[Document 2] From https://www (pdf) - URL: https://www.cityoflondon.gov.uk/services/social-care-for-adults/about-dementia - 17 pages [Retrieved via: semantic_original]:\nresidents who wish to make a complaint about treatment \nprovided under the NHS. Statutory advocacy service for City \nresidents. \nSocial Care Institute for Excellence \nhttps://www.scie.org.uk/ \nClear information about the role of an IMCA. BEFRIENDING \nCompassionate Neighbours \nhttps://www.stjh.org.uk \n020 8525 6058 \nCARERS SERVI\nCARERS SERVICES \nAge UK East London \nhttps://www.ageuk.org.uk/eastlondon/ \n020 8981 7124 \nCarers Allowance \nhttps://www.gov.uk/carers-allowance \n0800 731 0297 \nCarers Trust \nhttps://carers.org/ \nUmbrella organisation providing information on the national \nnetwork of carers services. \nCarers UK \nhttps://www.carersuk.org/ \nOnline forum for carers to support each other. \nCity and Hackney Carers Centre \nhttps://www.hackneycarers.org.uk/ \n020 8533 0951 \nCity Carers Service \nhttps://carers-network.org.uk/ \n020 8960 3033 \nNHS Choices: Carers Direct \nhttps://www.nhs.uk/ \n0300 123 1053 \n26 27\n\n[Document 3] From https://www (web_page) - URL: https://www.cityoflondon.gov.uk/services/social-care-for-adults/contact-adult-social-care [Retrieved via: semantic_original]:\n. We are here to listen, understand, and provide the assistance you need. Who can use adult social care? If you live in the City of London and have care and support needs due to a physical or mental impairment or illness, then you are entitled to an assessment of your needs. This means we will have a conversation with you to find the best available options to help you meet these needs and achieve the outcomes you want. If you live in a City Corporation estate outside the Square Mile, you may be able to get Adult Social Care support from your local authority. You can find your local authority on the Gov.uk website (external link) . Contact your GP You can get support through your GP too. If you need to register with a GP you can find your nearest on the NHS website (external link) . What should I do if my needs change? If your needs change, or you feel that they might, please contact Adult Social Care to discuss\n\n[Document 4] From https://www (pdf) - URL: https://www.cityoflondon.gov.uk/services/social-care-for-adults/support-for-carers/the-carers-strategy - 32 pages [Retrieved via: semantic_original]:\n[Page 15]\n \n  A City Wellbeing Centre provides \npsychological support services to City of London residents and workers on an innovative pay model. Within this, there was a pilot to provide a counselling service to carers although carers felt that this wasn\u2019t carer specific enough and take up was low. \nOverall, support through these services \nincludes: \n\u2022 General wellbeing support and\nminimising of social isolation. \n\u2022 Navigating and accessing the healthand social care system. \n\u2022 Welfare rights and benefit entitlementadvice. \nCarers have told us that there are some gaps in services and that there could be some strengthening in relation to carers needs. These will be considered as part of the action plan and specifically as part of the recommissioning of Carers Connections, the carers support service. \n15\n\n[Document 5] From https://www (pdf) - URL: https://www.cityoflondon.gov.uk/services/social-care-for-adults/our-adult-social-care-leaflets - 4 pages [Retrieved via: semantic_original]:\ndifficulty or stress. \nWhat should I do if I feel \nI need care and support? \nIf you\u2019re finding managing at home and getting out and about increasingly difficult, we can help. The City of London Corporation Adult Social Care Team can talk to you about your needs, discuss what is most important to you and assess how to best meet your needs. Any decisions about your care and support will take into account your health and wellbeing as well as what things matter to you and those close to you, so that you can stay healthy and remain independent for as long as possible. Who is eligible for care and support services? \nAfter you\u2019ve had a discussion with a social worker from the Adult Social Care Team, and with anyone else you would like present (like a relative or friend), your assessment of needs will be completed. \nIf you\u2019re finding a combination\n\n[Document 6] From https://www (pdf) - URL: https://www.cityoflondon.gov.uk/services/social-care-for-adults/adult-social-care-reform-and-commissioning/the-fair-cost-of-care-and-market-sustainability-plan - 17 pages [Retrieved via: semantic_original]:\n[Page 12]\nAdult Social Care Market Position Statement - April 2024  \n \n \n  \n11 \n \nincrease the strength of quality assurance and to ensure that all information on \nplacements is triangulated through our social care case management system.  \nAs of 31 December 2023, 21 residents of the City of London ( ten Male and 11 \nFemale) were living in residential care and eight  residents ( six Male and two Female) \nwere placed in nursing care homes.  \nMarket Opportunities and Aspirations  \n\u2022 Potential to collaborate with North -East London ICB partner authorities around \nsupply and pricing.  \n\u2022 The Corporation is open to explore and discuss possible options to secure \nsupply and pricing with care homes within the surrounding boroughs.  \n\u2022 Promotion of care worker career and development opportunities.  \n\u2022 Improve and develop pathways for providers to access online training and \nwider initiatives across partner agencies and host local authorities.  \nLearning Disabilities\n\n[Document 7] From https://www (pdf) - URL: https://www.cityoflondon.gov.uk/services/getting-help-with-the-cost-of-living/help-with-health-and-wellbeing - 9 pages [Retrieved via: semantic_original]:\n020 3957 9844 \nwww.cityconnections.org.uk \n6 City Advice \nCity Advice advisors ofer a confdential and impartial service and are qualifed to advise on consumer and employment rights, welfare benefts, debt, housing and legal issues, relationships, and health and wellbeing. \n020 7392 2919 \n07432 658 083 \ncity.advice@toynbeehall.org.uk \nSupport for carers \nIf you\u2019re a carer and would like to fnd \nout what support is available to you visit the Hackney Council website at: \nwww.hackney.gov.uk/carers \nor the City of London website at: \nwww.cityofondon.gov.uk/carers \n7\n\n[Document 8] From https://www (pdf) - URL: https://www.cityoflondon.gov.uk/services/social-care-for-adults/about-dementia - 17 pages [Retrieved via: semantic_original]:\n[Page 14 - FINANCIAL/BUDGET INFORMATION]\n \n \n \n \n \n \n \n \n \n \n \n \n \n  \n \n \n \n \n \n \n \n North London Muslim Community Centre \nhttps://www.nlmcc.org.uk/ \n020 8806 1147 \nToynbee Hall \nhttp://www.toynbeehall.org.uk/ \n020 7392 2919 \nADVOCACY AND COMPLAINTS \nThe Advocacy Project \nhttps://www.advocacyproject.org.uk \n020 3960 7920 \nCitizens Advocacy Project (run by Mind in CHWF) \nwww.mindinhackney.org.uk \n020 8525 2301 \nFor residents not eligible for statutory advocac y. \nComplaints (Health and Social Care, City and Hackney) \nhttp://www.cityandhackneyccg.nhs.uk/ \n020 3816 3222 \nPatient Advice and Liaison Service (PALS) \nhttp://www.homerton.nhs.uk/ \n020 8510 5555 \nTo make a complaint: \n0800 085 8354 \npalsandcomplaints@elft.nhs.uk \nPOhWER \nhttps://www.pohwer.net/city-of-london \n0300 456 2370 \nIndependent Health Complaints Advocacy for City and Hackney \nresidents who wish to make a complaint about treatment \nprovided under the NHS. Statutory advocacy service for City \nresidents. \nSocial Care Institute for Excellence\n\n[Document 9] From https://www (pdf) - URL: https://www.cityoflondon.gov.uk/services/social-care-for-adults/our-adult-social-care-leaflets - 4 pages [Retrieved via: semantic_original]:\n[Page 4 - FINANCIAL/BUDGET INFORMATION]\nRequest a Carer\u2019s Assessment \nIf you are an adult carer (living in the City of London), \nrequest a Carer\u2019s Assessment. \nAn Assessment will consider what support needs you have \nand if any support is available to you. The Adult Social Care Team will agree a support plan with you. Contact the team to get started. \nIf you are a parent carer or young carer, contact the \nChildren\u2019s Social Care and Early Help team on 020 7332 3621 \nor email children.duty@cityoflondon.gov.uk \nOther support \nTell your GP you are a carer  - you\u2019ll get flexible appointments/text \nreminders and other help, like free vaccines. \nWork help from DWP  - Internet search for \u2018working and supporting \nsomeone\u2019s care\u2019. Carer\u2019s Allowance  - You may be able to get Carer\u2019s Allowance, \nwhich is the main benefit available to carers. Internet search \n\u2018carer\u2019s allowance\u2019. \nMore - see our Support Available for Carers leaflets or visit our web \npage by going to www.cityoflondon.gov.uk/carers\n\n[Document 10] From https://www (pdf) - URL: https://www.cityoflondon.gov.uk/services/social-care-for-adults/our-adult-social-care-leaflets - 4 pages [Retrieved via: semantic_original]:\nIf you answered \u2018yes\u2019, then you are a carer and there may be support \navailable for you. \nIf you are a carer, you may be able \nto access support from the City of London Corporation\u2019s Social Care Team, your GP and other agencies. You may also be entitled to Carer\u2019s Allowance. \n020 7332 1224 (Monday - Friday, 9am \u2013 5pm) \nadultsduty@cityoflondon.gov.uk \nCommunity and Children\u2019s Services \nGuildhall, North Wing \nPO Box 270 London \nAdult Social Care \nEC2P 2EJ October 2024\n",
+  "answer": "In London, social care users have access to a variety of additional resources and support services, including advocacy and complaints services. These services are designed to help individuals navigate the social care system and address any concerns they may have.\n\n**Advocacy and Complaints Services:**\n- **The Advocacy Project** provides support for those needing advocacy services. Contact them at 020 3960 7920 or visit [advocacyproject.org.uk](https://www.advocacyproject.org.uk).\n- **Citizens Advocacy Project** (run by Mind in CHWF) offers advocacy for residents not eligible for statutory advocacy. Reach them at 020 8525 2301 or visit [mindinhackney.org.uk](http://www.mindinhackney.org.uk).\n- **POhWER** provides independent health complaints advocacy for City and Hackney residents. Contact them at 0300 456 2370 or visit [pohwer.net/city-of-london](https://www.pohwer.net/city-of-london).\n- For complaints related to health and social care, contact the **Patient Advice and Liaison Service (PALS)** at 020 8510 5555 or email palsandcomplaints@elft.nhs.uk.\n\n**Additional Support Services:**\n- **Carers Services**: Various organizations provide support for carers, including Age UK East London, Carers Trust, and Carers UK. These services offer information, forums, and direct support for carers.\n- **City Advice** offers confidential and impartial advice on consumer and employment rights, welfare benefits, debt, housing, legal issues, relationships, and health and wellbeing. Contact them at 020 7392 2919 or city.advice@toynbeehall.org.uk.\n\nFor more information or to access these services, you can visit the City of London website at [cityoflondon.gov.uk](https://www.cityoflondon.gov.uk) or contact the Adult Social Care Team at 020 7332 1224 (Monday - Friday, 9am \u2013 5pm) or email adultsduty@cityoflondon.gov.uk.",
+  "metrics": {
+    "duration_seconds": 18.131162881851196,
+    "retrieved_docs_count": 10,
+    "query_length": 137,
+    "answer_length": 1827,
+    "retrieval_method": "enhanced",
+    "context_utilization": 0.19444444444444445,
+    "citations_count": 0,
+    "has_citations": false,
+    "query_relevance": 0.8461538461538461,
+    "unique_retrieval_methods": 1,
+    "budget_documents_retrieved": 9,
+    "retrieval_methods_used": [
+      "semantic_original"
+    ],
+    "retrieval_method_distribution": {
+      "semantic_original": 10
+    }
+  },
+  "local_authority": "london",
+  "query_id": "std_4",
+  "retrieval_method": "enhanced",
+  "run_id": "0871d6c2-d8a6-43f7-bf18-9660d803184f",
+  "trace": {
+    "run_id": "0871d6c2-d8a6-43f7-bf18-9660d803184f",
+    "project": "social_care_rag",
+    "url": "https://eu.smith.langchain.com/o/me/runs/0871d6c2-d8a6-43f7-bf18-9660d803184f"
+  },
+  "test_metadata": {
+    "local_authority": "london",
+    "query_id": "std_4",
+    "query_category": "service_standard",
+    "prompt_variation": "optimized",
+    "prompt_template": "\nPlease answer the following question about social care services in UK local authorities based only on the information in the provided documents.\n\nQuestion: {query}\n\nContext from relevant documents:\n{context}\n\nInstructions:\n1. Provide a clear, direct answer that would help someone needing this information. If information isn't available, state: \"The available documents don't provide specific information about [aspect].\"\n\n2. Synthesize information from ALL relevant documents to provide the most complete answer rather than analyzing documents individually.\n\n3. Structure your response with:\n   - A concise 1-2 sentence summary first\n   - Relevant details organized in short, clear paragraphs\n   - Bullet points for lists or step-by-step information\n   - Bold text for key information the user should notice\n\n4. For financial information:\n   - Include exact figures, time periods, and what the funding covers\n   - Present financial data clearly: \"The adult social care budget is **\u00a3X million** for [time period]\"\n\n5. Always include practical next steps or resources:\n   - Provide contact information, URLs, or application methods mentioned in the documents\n   - Suggest where the person could find more information\n\n6. When citing sources, use a simple format: \"According to [document name/description]\" or include URLs where available.\n\nAnswer:\n",
+    "processing_time": 18.133618116378784,
+    "timestamp": "2025-08-19T13:59:52.765282",
+    "top_k": 10
+  }
+}

@@ -1,0 +1,337 @@
+{
+  "query": "What is the current budget allocation for Adult Social Care in Barnet?",
+  "retrieved_documents": [
+    {
+      "content": "[Page 4 - FINANCIAL/BUDGET INFORMATION]\n \n  4 \n2.5. For each adult that meets the eligibility criteria1 for care and support services, a \nPersonal Budget will be set from an assessment of care and support needs, at a \nlevel that should enable the adult to achieve their social care outcomes. A \nPersonal Budget may be managed by the Council on behalf of the adult  or \nmanaged directly by the adult or their financial representative. An adult can use \ntheir Personal Budget to purchase services such as homecare or day -care services \nthat they require to meet their assessed needs.  \n2.6.  This Community Care Contributions Policy  (formerly called Fairer Contributions \nPolicy)  applies to those who receive support from Barnet Council to obtain non -\nresidential care services either directly commissioned by Barnet Council or \nthrough a Direct Payment (or similar arrangement). Contributions will be assessed \nfor everyone, regardless o f whether they have chosen commissioned services,",
+      "metadata": {
+        "chunk_id": 8,
+        "contains_financial_info": true,
+        "download_url": "https://www.barnet.gov.uk/sites/default/files/2025-05/Community%20Care%20Contribution%20Policy%20April%202025.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Community%20Care%20Contribution%20Policy%20April%202025.pdf",
+        "financial_pages": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32]",
+        "level": "level_2",
+        "page_count": 33,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33]",
+        "source": "https://www.barnet.gov.uk/node/5124",
+        "source_url": "https://www.barnet.gov.uk/node/5124",
+        "total_chunks": 83,
+        "type": "pdf"
+      },
+      "id": "83892056-70a5-4bef-83ed-58088698d28e",
+      "distance": 0.6271490454673767,
+      "retrieval_method": "financial_enhanced",
+      "combined_score": 0.6530440975485983,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "financial_enhanced"
+      }
+    },
+    {
+      "content": "[Page 18 - FINANCIAL/BUDGET INFORMATION]\n18\nOur Plan for Adult Social Care\n2024 - 20295 We will be realistic in how we\n   use resources, keeping up with\n   changes and ways of working, and\n   being creative with finding solutions.\nThe first part of this priority recognises that we are in an extremely challenging time for adult \nsocial care. Budgets are getting tighter while people\u2019s needs are getting more complex. We are \ngood at working efficiently and will keep building on this so that we are making best use of limited \nmoney and resources to meet people\u2019s needs, while continuing to improve access and tackle \ninequalities.  We want to provide people with the best possible support whilst also ensuring the \nbest possible value for money.  We will use data, evidence and best practice to achieve this. \nWhat we know from our data:\n\u2022 The council has a total net revenue \nbudget of \u00a3296.6 million, and \n46% of the budget is allocated to \nadult social care (\u00a3135.8 million in \n2023/24).",
+      "metadata": {
+        "chunk_id": 39,
+        "contains_financial_info": true,
+        "download_url": "",
+        "extraction_method": "PyPDF2",
+        "filename": "024155%20-%20BC4278%20-%20BARNET%20-%20ASC%20Strategy%202024%20%E2%80%93%202029%20%5BFINAL%203%5D.pdf",
+        "financial_pages": "[1, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 17, 18, 19, 20, 21, 23, 24, 26]",
+        "level": "level_2",
+        "page_count": 26,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26]",
+        "source": "024155%20-%20BC4278%20-%20BARNET%20-%20ASC%20Strategy%202024%20%E2%80%93%202029%20%5BFINAL%203%5D.pdf",
+        "source_url": "",
+        "total_chunks": 61,
+        "type": "pdf"
+      },
+      "id": "51be20c5-e35c-4e67-82e2-fdc238a28827",
+      "distance": 0.5013160705566406,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.6321226613504904,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 5,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "care, with needs for care and support \nincreasing. The Local Government \nAssociation found that councils in \nEngland face a funding gap of \u00a34 \nbillion over the next two years. They \nalso show that by 2024/25 cost and \ndemand pressures will have added \n\u00a315 billion (almost 29 per cent) \nto the cost of delivering council \nservices since 2021/22.  There are \npressures on finances for individuals, \ncare providers and public services. \nWe know that our communities \nface inequalities in accessing and \nexperience of services. Similar to \nmany other local authorities, in \nBarnet we are facing a significant \nfinancial challenge, especially in \nadult social care. We are working \nhard to make sure that we use our \nlimited resources the best we can \nto meet people\u2019s needs, provide \nvalue for money, and maintain our \ninvaluable services into the future.  \nThe plan shows how we will focus \nour efforts to have the biggest impact \nwe can, within this challenging \nenvironment. We set out the priorities",
+      "metadata": {
+        "chunk_id": 3,
+        "contains_financial_info": true,
+        "download_url": "",
+        "extraction_method": "PyPDF2",
+        "filename": "024155%20-%20BC4278%20-%20BARNET%20-%20ASC%20Strategy%202024%20%E2%80%93%202029%20%5BFINAL%203%5D.pdf",
+        "financial_pages": "[1, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 17, 18, 19, 20, 21, 23, 24, 26]",
+        "level": "level_2",
+        "page_count": 26,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26]",
+        "source": "024155%20-%20BC4278%20-%20BARNET%20-%20ASC%20Strategy%202024%20%E2%80%93%202029%20%5BFINAL%203%5D.pdf",
+        "source_url": "",
+        "total_chunks": 61,
+        "type": "pdf"
+      },
+      "id": "c310feeb-fbcb-48e8-b0b5-455f1c472f51",
+      "distance": 0.5966014266014099,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.6035370545370596,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 5,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 1 - FINANCIAL/BUDGET INFORMATION]\nLondon Borough of Barnet \nOur Plan for Adult Social Care\n2024 \u2013 2029\nCaring for people, our places and the planet\n\n\n[Page 2]\n2Our Plan for Adult Social Care\n2024 - 2029\n\n[Page 3 - FINANCIAL/BUDGET INFORMATION]\nContents\nForeword  4\n \n1. About Barnet 5\n \n2. Five priorities for adult social care 10\n \n3. How we will know it\u2019s working 20\n \n4. Action Plan 21\n3Our Plan for Adult Social Care\n2024 - 2029",
+      "metadata": {
+        "chunk_id": 0,
+        "contains_financial_info": true,
+        "download_url": "",
+        "extraction_method": "PyPDF2",
+        "filename": "024155%20-%20BC4278%20-%20BARNET%20-%20ASC%20Strategy%202024%20%E2%80%93%202029%20%5BFINAL%203%5D.pdf",
+        "financial_pages": "[1, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 17, 18, 19, 20, 21, 23, 24, 26]",
+        "level": "level_2",
+        "page_count": 26,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26]",
+        "source": "024155%20-%20BC4278%20-%20BARNET%20-%20ASC%20Strategy%202024%20%E2%80%93%202029%20%5BFINAL%203%5D.pdf",
+        "source_url": "",
+        "total_chunks": 61,
+        "type": "pdf"
+      },
+      "id": "16a3fd0c-1d9e-40a3-bfc3-737eafc6c7e5",
+      "distance": 0.4734501838684082,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.5765901196646523,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 22 - FINANCIAL/BUDGET INFORMATION]\nAll residents have the right to live free of domestic \nabuse and all forms of violence. Working with \nour partners in the Barnet Safer Communities \nPartnership, we will raise awareness and work to \nprevent violence and abuse in the home, places of \nlearning and employment and in the community. \nThe partnership has zero tolerance for abuse and \nviolence, and perpetrators will be held to account. \nWe will reach out to people who may face \nadditional barriers when seeking help and aim to \nensure everyone can get the help they need at the \nearliest opportunity.\nHigh-quality adult social care\nAdult social care is one of Barnet\u2019s largest \nsectors, annually worth around \u00a3300m to the \nlocal economy and employing 10,000 people. \nWe will carry on working closely with social care \norganisations such as care homes, home care \nagencies and supported living. We will continue to \nensure care staff and providers are supported to \ncontinue to provide high quality care.",
+      "metadata": {
+        "chunk_id": 44,
+        "contains_financial_info": true,
+        "download_url": "https://admin.barnet.gov.uk/sites/default/files/2023-02/Barnet%20Corporate%20Plan%202023-26.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Barnet%20Corporate%20Plan%202023-26.pdf",
+        "financial_pages": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46]",
+        "level": "level_3",
+        "page_count": 46,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46]",
+        "source": "https://www.barnet.gov.uk/node/6132",
+        "source_url": "https://www.barnet.gov.uk/node/6132",
+        "total_chunks": 112,
+        "type": "pdf"
+      },
+      "id": "46a439f5-f0cf-4586-a736-dbcfef905f9a",
+      "distance": 0.5872105360031128,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.5678927832550102,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 9 - FINANCIAL/BUDGET INFORMATION]\n9Our Plan for Adult Social Care\n2024 - 2029\nc. What do people say about adult \nsocial care in Barnet? \nWe talk to hundreds of people every year about their experiences of adult social \ncare. This helps us find out what is working well and what could be improved, \nwhich we then put into action wherever possible. \n You will find more feedback and \ndata in each section of this plan, as \nwell as people\u2019s stories. \nFor this plan we asked people \nthe following questions. We were \ngiven hundreds of responses, and \nhave included a selection of them \nbelow, but all of the feedback \nalongside other surveys and people\u2019s \nexperiences, has been used to shape \nthe plan.\nIn your experience, what is \nworking well at the moment \nwhen it comes to adult social \ncare in Barnet?\nPeople talked about our staff and \nreceiving personalised support:\n\u2022 \u201cSympathetic and empathetic \nhelp from Barnet Adult Social \nCare department to my husband \nwith advanced dementia and me, \nhis carer\u201d",
+      "metadata": {
+        "chunk_id": 14,
+        "contains_financial_info": true,
+        "download_url": "",
+        "extraction_method": "PyPDF2",
+        "filename": "024155%20-%20BC4278%20-%20BARNET%20-%20ASC%20Strategy%202024%20%E2%80%93%202029%20%5BFINAL%203%5D.pdf",
+        "financial_pages": "[1, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 17, 18, 19, 20, 21, 23, 24, 26]",
+        "level": "level_2",
+        "page_count": 26,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26]",
+        "source": "024155%20-%20BC4278%20-%20BARNET%20-%20ASC%20Strategy%202024%20%E2%80%93%202029%20%5BFINAL%203%5D.pdf",
+        "source_url": "",
+        "total_chunks": 61,
+        "type": "pdf"
+      },
+      "id": "27fe3131-47c0-4460-b3f7-93049e164392",
+      "distance": 0.5472723245620728,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.5606434774565531,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 1 - FINANCIAL/BUDGET INFORMATION]\nAdult Social Care in Barnet\nWho we support\nDuring 2022-23 in Barnet...\nCaring for people, our places and the planet\nOur aim in Barnet is to care for people through listening to and \nworking with residents and communities.\nAdult Social Care is a big part of this. In Barnet, thousands of \nresidents were supported by Adult Social Care in 2022-23.\nWe help people get back on their feet after a hospital stay, live an \nindependent life, and keep safe.\nWe supported 4,185  people    \nwith care in their own homes\nWe supported 2,110  carers \n1,080  people received a direct payment to   \narrange their own care and support at home\nWe supported 2,240  people to return home \nwith care after a period of stay in hospital\n1,260  people were supported\nin care homes\n659  people received care and   \nsupport services in supported living \naccommodation The council worked\nto ensure 1,395  individuals\nwere kept safe through\nsafeguarding activities\n63,254  people were",
+      "metadata": {
+        "chunk_id": 0,
+        "contains_financial_info": true,
+        "download_url": "https://www.barnet.gov.uk/sites/default/files/2024-01/024075%20BC4250%20-%20ASC%20demographic%202pp%20leaflet%20A4%20%5BWEB%5D.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "024075%20BC4250%20-%20ASC%20demographic%202pp%20leaflet%20A4%20%5BWEB%5D.pdf",
+        "financial_pages": "[1, 2]",
+        "level": "level_2",
+        "page_count": 2,
+        "pages_with_content": "[1, 2]",
+        "source": "https://www.barnet.gov.uk/node/5133",
+        "source_url": "https://www.barnet.gov.uk/node/5133",
+        "total_chunks": 4,
+        "type": "pdf"
+      },
+      "id": "c03255b0-1192-462e-82fe-c5910f9ebb5c",
+      "distance": 0.5637104511260986,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.5557120394873453,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "people across Barnet. We spoke \nto people who draw on care and \nsupport, families and carers, care \nstaff, and experts. We engaged with \nover 300 people through surveys, \nfocus groups and community visits. \nWe also brought in what we have \nheard from people\u2019s feedback over \nrecent years. \nOur Plan for Barnet (2023-26) is the \nCouncil\u2019s plan for the borough. It sets \nout the ambition for Barnet to be a \nborough that cares for people, places \nand the planet, through listening \nto and working with residents and \ncommunities. Adult social care is \na very important part of this. We \nsupport thousands of people a \nyear, helping people impacted by \nage, disability or mental health \nchallenges live an independent life, \nget back on their feet after a hospital \nstay, and keep safe. Adult social care \nis worth around \u00a3300m to Barnet\u2019s \neconomy, with around 10,000 people \nworking in the sector.At the same time, we know that \ntimes are tough. There is less money \nfor councils, including adult social",
+      "metadata": {
+        "chunk_id": 2,
+        "contains_financial_info": true,
+        "download_url": "",
+        "extraction_method": "PyPDF2",
+        "filename": "024155%20-%20BC4278%20-%20BARNET%20-%20ASC%20Strategy%202024%20%E2%80%93%202029%20%5BFINAL%203%5D.pdf",
+        "financial_pages": "[1, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 17, 18, 19, 20, 21, 23, 24, 26]",
+        "level": "level_2",
+        "page_count": 26,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26]",
+        "source": "024155%20-%20BC4278%20-%20BARNET%20-%20ASC%20Strategy%202024%20%E2%80%93%202029%20%5BFINAL%203%5D.pdf",
+        "source_url": "",
+        "total_chunks": 61,
+        "type": "pdf"
+      },
+      "id": "fc454eec-3427-4a99-b77b-1299efec3485",
+      "distance": 0.5029928684234619,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.5546965450673671,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 10 - FINANCIAL/BUDGET INFORMATION]\n10Our Plan for Adult Social Care\n2024 - 20292. Five priorities for adult     \n social care\nThis section introduces our five priorities for adult social care in Barnet, which \nbuild on our four pillars of prevention, co-production, choice & control, and \nequality. These priorities have been written based on co-production with residents \nand staff, data and information, and wider trends in adult social care. \nThe five priorities are:\n1 We will support people to live well and be part of communities.\n2 We will be ambitious about what people can achieve and get the right support \nfor each individual.\n3 We will work with people to shape and develop care and support.\n4 We will work towards more equal access and more inclusive services.\n5 We will be realistic in how we use resources, keeping up with changes and ways \nof working, and being creative with finding solutions.",
+      "metadata": {
+        "chunk_id": 17,
+        "contains_financial_info": true,
+        "download_url": "",
+        "extraction_method": "PyPDF2",
+        "filename": "024155%20-%20BC4278%20-%20BARNET%20-%20ASC%20Strategy%202024%20%E2%80%93%202029%20%5BFINAL%203%5D.pdf",
+        "financial_pages": "[1, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 17, 18, 19, 20, 21, 23, 24, 26]",
+        "level": "level_2",
+        "page_count": 26,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26]",
+        "source": "024155%20-%20BC4278%20-%20BARNET%20-%20ASC%20Strategy%202024%20%E2%80%93%202029%20%5BFINAL%203%5D.pdf",
+        "source_url": "",
+        "total_chunks": 61,
+        "type": "pdf"
+      },
+      "id": "31e7dbbe-f751-43bf-8125-a489ffe5e6e6",
+      "distance": 0.6051421165466309,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.5432825398611856,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "2023/24). \n\u2022 It is nationally recognised \nthat Adult Social Care faces \nsignificant funding challenges, \nwith sector leaders such as the \nLocal Government Association, \nthe Health Foundation, and the \nKings Fund calling for additional \ninvestment into the sector to meet \nfunding shortfalls. \u2022 Adult social care represents \napproximately 14% of the Barnet \neconomy with over 10,000 people \nemployed in the sector. \n\u2022 There are 80 registered care \nhomes and approximately 85 \nregistered home care agencies, \nalong with supported living \nschemes, day services and \nother services, such as personal \nassistants. \n\u2022 We have over 400 members \nof staff working within Barnet \nCouncil adult social care, with \na relatively low turnover rate \n(people leaving) of around 11%.\u2022 The Barnet website is working \ntowards the highest accessibility \nstandards, which are the Web \nContent Accessibility Guidelines \nversion 2.1 (AA standard).\nWhat we know from people\u2019s \nexperiences: \n\u2022 When we asked people for their",
+      "metadata": {
+        "chunk_id": 40,
+        "contains_financial_info": true,
+        "download_url": "",
+        "extraction_method": "PyPDF2",
+        "filename": "024155%20-%20BC4278%20-%20BARNET%20-%20ASC%20Strategy%202024%20%E2%80%93%202029%20%5BFINAL%203%5D.pdf",
+        "financial_pages": "[1, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 17, 18, 19, 20, 21, 23, 24, 26]",
+        "level": "level_2",
+        "page_count": 26,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26]",
+        "source": "024155%20-%20BC4278%20-%20BARNET%20-%20ASC%20Strategy%202024%20%E2%80%93%202029%20%5BFINAL%203%5D.pdf",
+        "source_url": "",
+        "total_chunks": 61,
+        "type": "pdf"
+      },
+      "id": "70db0a11-2a99-44e8-a06c-3ebd57a05fe2",
+      "distance": 0.5487130880355835,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.5409804791837305,
+      "scoring_details": {
+        "query_type": "social_care_budget",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    }
+  ],
+  "context": "[Document 1] From https://www (pdf) - URL: https://www.barnet.gov.uk/node/5124 - 33 pages [Retrieved via: financial_enhanced]:\n[Page 4 - FINANCIAL/BUDGET INFORMATION]\n \n  4 \n2.5. For each adult that meets the eligibility criteria1 for care and support services, a \nPersonal Budget will be set from an assessment of care and support needs, at a \nlevel that should enable the adult to achieve their social care outcomes. A \nPersonal Budget may be managed by the Council on behalf of the adult  or \nmanaged directly by the adult or their financial representative. An adult can use \ntheir Personal Budget to purchase services such as homecare or day -care services \nthat they require to meet their assessed needs.  \n2.6.  This Community Care Contributions Policy  (formerly called Fairer Contributions \nPolicy)  applies to those who receive support from Barnet Council to obtain non -\nresidential care services either directly commissioned by Barnet Council or \nthrough a Direct Payment (or similar arrangement). Contributions will be assessed \nfor everyone, regardless o f whether they have chosen commissioned services,\n\n[Document 2] From 024155%20 %20BC4278%20 %20BARNET%20 %20ASC%20Strategy%202024%20%E2%80%93%202029%20%5BFINAL%203%5D (pdf) - 26 pages [Retrieved via: semantic_original]:\n[Page 18 - FINANCIAL/BUDGET INFORMATION]\n18\nOur Plan for Adult Social Care\n2024 - 20295 We will be realistic in how we\n   use resources, keeping up with\n   changes and ways of working, and\n   being creative with finding solutions.\nThe first part of this priority recognises that we are in an extremely challenging time for adult \nsocial care. Budgets are getting tighter while people\u2019s needs are getting more complex. We are \ngood at working efficiently and will keep building on this so that we are making best use of limited \nmoney and resources to meet people\u2019s needs, while continuing to improve access and tackle \ninequalities.  We want to provide people with the best possible support whilst also ensuring the \nbest possible value for money.  We will use data, evidence and best practice to achieve this. \nWhat we know from our data:\n\u2022 The council has a total net revenue \nbudget of \u00a3296.6 million, and \n46% of the budget is allocated to \nadult social care (\u00a3135.8 million in \n2023/24).\n\n[Document 3] From 024155%20 %20BC4278%20 %20BARNET%20 %20ASC%20Strategy%202024%20%E2%80%93%202029%20%5BFINAL%203%5D (pdf) - 26 pages [Retrieved via: semantic_original]:\ncare, with needs for care and support \nincreasing. The Local Government \nAssociation found that councils in \nEngland face a funding gap of \u00a34 \nbillion over the next two years. They \nalso show that by 2024/25 cost and \ndemand pressures will have added \n\u00a315 billion (almost 29 per cent) \nto the cost of delivering council \nservices since 2021/22.  There are \npressures on finances for individuals, \ncare providers and public services. \nWe know that our communities \nface inequalities in accessing and \nexperience of services. Similar to \nmany other local authorities, in \nBarnet we are facing a significant \nfinancial challenge, especially in \nadult social care. We are working \nhard to make sure that we use our \nlimited resources the best we can \nto meet people\u2019s needs, provide \nvalue for money, and maintain our \ninvaluable services into the future.  \nThe plan shows how we will focus \nour efforts to have the biggest impact \nwe can, within this challenging \nenvironment. We set out the priorities\n\n[Document 4] From 024155%20 %20BC4278%20 %20BARNET%20 %20ASC%20Strategy%202024%20%E2%80%93%202029%20%5BFINAL%203%5D (pdf) - 26 pages [Retrieved via: semantic_original]:\n[Page 1 - FINANCIAL/BUDGET INFORMATION]\nLondon Borough of Barnet \nOur Plan for Adult Social Care\n2024 \u2013 2029\nCaring for people, our places and the planet\n\n\n[Page 2]\n2Our Plan for Adult Social Care\n2024 - 2029\n\n[Page 3 - FINANCIAL/BUDGET INFORMATION]\nContents\nForeword  4\n \n1. About Barnet 5\n \n2. Five priorities for adult social care 10\n \n3. How we will know it\u2019s working 20\n \n4. Action Plan 21\n3Our Plan for Adult Social Care\n2024 - 2029\n\n[Document 5] From https://www (pdf) - URL: https://www.barnet.gov.uk/node/6132 - 46 pages [Retrieved via: semantic_original]:\n[Page 22 - FINANCIAL/BUDGET INFORMATION]\nAll residents have the right to live free of domestic \nabuse and all forms of violence. Working with \nour partners in the Barnet Safer Communities \nPartnership, we will raise awareness and work to \nprevent violence and abuse in the home, places of \nlearning and employment and in the community. \nThe partnership has zero tolerance for abuse and \nviolence, and perpetrators will be held to account. \nWe will reach out to people who may face \nadditional barriers when seeking help and aim to \nensure everyone can get the help they need at the \nearliest opportunity.\nHigh-quality adult social care\nAdult social care is one of Barnet\u2019s largest \nsectors, annually worth around \u00a3300m to the \nlocal economy and employing 10,000 people. \nWe will carry on working closely with social care \norganisations such as care homes, home care \nagencies and supported living. We will continue to \nensure care staff and providers are supported to \ncontinue to provide high quality care.\n\n[Document 6] From 024155%20 %20BC4278%20 %20BARNET%20 %20ASC%20Strategy%202024%20%E2%80%93%202029%20%5BFINAL%203%5D (pdf) - 26 pages [Retrieved via: semantic_original]:\n[Page 9 - FINANCIAL/BUDGET INFORMATION]\n9Our Plan for Adult Social Care\n2024 - 2029\nc. What do people say about adult \nsocial care in Barnet? \nWe talk to hundreds of people every year about their experiences of adult social \ncare. This helps us find out what is working well and what could be improved, \nwhich we then put into action wherever possible. \n You will find more feedback and \ndata in each section of this plan, as \nwell as people\u2019s stories. \nFor this plan we asked people \nthe following questions. We were \ngiven hundreds of responses, and \nhave included a selection of them \nbelow, but all of the feedback \nalongside other surveys and people\u2019s \nexperiences, has been used to shape \nthe plan.\nIn your experience, what is \nworking well at the moment \nwhen it comes to adult social \ncare in Barnet?\nPeople talked about our staff and \nreceiving personalised support:\n\u2022 \u201cSympathetic and empathetic \nhelp from Barnet Adult Social \nCare department to my husband \nwith advanced dementia and me, \nhis carer\u201d\n\n[Document 7] From https://www (pdf) - URL: https://www.barnet.gov.uk/node/5133 - 2 pages [Retrieved via: semantic_original]:\n[Page 1 - FINANCIAL/BUDGET INFORMATION]\nAdult Social Care in Barnet\nWho we support\nDuring 2022-23 in Barnet...\nCaring for people, our places and the planet\nOur aim in Barnet is to care for people through listening to and \nworking with residents and communities.\nAdult Social Care is a big part of this. In Barnet, thousands of \nresidents were supported by Adult Social Care in 2022-23.\nWe help people get back on their feet after a hospital stay, live an \nindependent life, and keep safe.\nWe supported 4,185  people    \nwith care in their own homes\nWe supported 2,110  carers \n1,080  people received a direct payment to   \narrange their own care and support at home\nWe supported 2,240  people to return home \nwith care after a period of stay in hospital\n1,260  people were supported\nin care homes\n659  people received care and   \nsupport services in supported living \naccommodation The council worked\nto ensure 1,395  individuals\nwere kept safe through\nsafeguarding activities\n63,254  people were\n\n[Document 8] From 024155%20 %20BC4278%20 %20BARNET%20 %20ASC%20Strategy%202024%20%E2%80%93%202029%20%5BFINAL%203%5D (pdf) - 26 pages [Retrieved via: semantic_original]:\npeople across Barnet. We spoke \nto people who draw on care and \nsupport, families and carers, care \nstaff, and experts. We engaged with \nover 300 people through surveys, \nfocus groups and community visits. \nWe also brought in what we have \nheard from people\u2019s feedback over \nrecent years. \nOur Plan for Barnet (2023-26) is the \nCouncil\u2019s plan for the borough. It sets \nout the ambition for Barnet to be a \nborough that cares for people, places \nand the planet, through listening \nto and working with residents and \ncommunities. Adult social care is \na very important part of this. We \nsupport thousands of people a \nyear, helping people impacted by \nage, disability or mental health \nchallenges live an independent life, \nget back on their feet after a hospital \nstay, and keep safe. Adult social care \nis worth around \u00a3300m to Barnet\u2019s \neconomy, with around 10,000 people \nworking in the sector.At the same time, we know that \ntimes are tough. There is less money \nfor councils, including adult social\n\n[Document 9] From 024155%20 %20BC4278%20 %20BARNET%20 %20ASC%20Strategy%202024%20%E2%80%93%202029%20%5BFINAL%203%5D (pdf) - 26 pages [Retrieved via: semantic_original]:\n[Page 10 - FINANCIAL/BUDGET INFORMATION]\n10Our Plan for Adult Social Care\n2024 - 20292. Five priorities for adult     \n social care\nThis section introduces our five priorities for adult social care in Barnet, which \nbuild on our four pillars of prevention, co-production, choice & control, and \nequality. These priorities have been written based on co-production with residents \nand staff, data and information, and wider trends in adult social care. \nThe five priorities are:\n1 We will support people to live well and be part of communities.\n2 We will be ambitious about what people can achieve and get the right support \nfor each individual.\n3 We will work with people to shape and develop care and support.\n4 We will work towards more equal access and more inclusive services.\n5 We will be realistic in how we use resources, keeping up with changes and ways \nof working, and being creative with finding solutions.\n\n[Document 10] From 024155%20 %20BC4278%20 %20BARNET%20 %20ASC%20Strategy%202024%20%E2%80%93%202029%20%5BFINAL%203%5D (pdf) - 26 pages [Retrieved via: semantic_original]:\n2023/24). \n\u2022 It is nationally recognised \nthat Adult Social Care faces \nsignificant funding challenges, \nwith sector leaders such as the \nLocal Government Association, \nthe Health Foundation, and the \nKings Fund calling for additional \ninvestment into the sector to meet \nfunding shortfalls. \u2022 Adult social care represents \napproximately 14% of the Barnet \neconomy with over 10,000 people \nemployed in the sector. \n\u2022 There are 80 registered care \nhomes and approximately 85 \nregistered home care agencies, \nalong with supported living \nschemes, day services and \nother services, such as personal \nassistants. \n\u2022 We have over 400 members \nof staff working within Barnet \nCouncil adult social care, with \na relatively low turnover rate \n(people leaving) of around 11%.\u2022 The Barnet website is working \ntowards the highest accessibility \nstandards, which are the Web \nContent Accessibility Guidelines \nversion 2.1 (AA standard).\nWhat we know from people\u2019s \nexperiences: \n\u2022 When we asked people for their\n",
+  "answer": "The current budget allocation for Adult Social Care in Barnet is **\u00a3135.8 million** for the financial year 2023/24.\n\n- This budget represents 46% of Barnet Council's total net revenue budget of \u00a3296.6 million.\n- The allocation is part of Barnet's efforts to manage increasing demands and financial challenges in adult social care, ensuring efficient use of resources to meet residents' needs.\n\nFor more detailed information, you can refer to Barnet Council's Adult Social Care Strategy document available on their website: [Barnet Council Adult Social Care Strategy](https://www.barnet.gov.uk/node/5124).",
+  "metrics": {
+    "duration_seconds": 4.60040807723999,
+    "retrieved_docs_count": 10,
+    "query_length": 70,
+    "answer_length": 604,
+    "retrieval_method": "enhanced",
+    "context_utilization": 0.09218436873747494,
+    "citations_count": 0,
+    "has_citations": false,
+    "query_relevance": 0.875,
+    "unique_retrieval_methods": 2,
+    "budget_documents_retrieved": 10,
+    "retrieval_methods_used": [
+      "semantic_original",
+      "financial_enhanced"
+    ],
+    "retrieval_method_distribution": {
+      "financial_enhanced": 1,
+      "semantic_original": 9
+    }
+  },
+  "local_authority": "Barnet",
+  "query_id": "std_9",
+  "retrieval_method": "enhanced",
+  "run_id": "f79191ab-a89a-42d9-96b2-6d34dec0a15e",
+  "trace": {
+    "run_id": "f79191ab-a89a-42d9-96b2-6d34dec0a15e",
+    "project": "social_care_rag",
+    "url": "https://eu.smith.langchain.com/o/me/runs/f79191ab-a89a-42d9-96b2-6d34dec0a15e"
+  },
+  "test_metadata": {
+    "local_authority": "Barnet",
+    "query_id": "std_9",
+    "query_category": "financial_standard",
+    "prompt_variation": "optimized",
+    "prompt_template": "\nPlease answer the following question about social care services in UK local authorities based only on the information in the provided documents.\n\nQuestion: {query}\n\nContext from relevant documents:\n{context}\n\nInstructions:\n1. Provide a clear, direct answer that would help someone needing this information. If information isn't available, state: \"The available documents don't provide specific information about [aspect].\"\n\n2. Synthesize information from ALL relevant documents to provide the most complete answer rather than analyzing documents individually.\n\n3. Structure your response with:\n   - A concise 1-2 sentence summary first\n   - Relevant details organized in short, clear paragraphs\n   - Bullet points for lists or step-by-step information\n   - Bold text for key information the user should notice\n\n4. For financial information:\n   - Include exact figures, time periods, and what the funding covers\n   - Present financial data clearly: \"The adult social care budget is **\u00a3X million** for [time period]\"\n\n5. Always include practical next steps or resources:\n   - Provide contact information, URLs, or application methods mentioned in the documents\n   - Suggest where the person could find more information\n\n6. When citing sources, use a simple format: \"According to [document name/description]\" or include URLs where available.\n\nAnswer:\n",
+    "processing_time": 4.603528022766113,
+    "timestamp": "2025-08-17T22:27:30.011454",
+    "top_k": 10
+  }
+}

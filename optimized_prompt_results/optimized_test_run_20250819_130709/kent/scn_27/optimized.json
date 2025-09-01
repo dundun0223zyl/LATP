@@ -1,0 +1,309 @@
+{
+  "query": "I'm experiencing domestic abuse in kent and need to leave with my children. What emergency social care and housing support can I access?",
+  "retrieved_documents": [
+    {
+      "content": ". You can access support for children to process these experiences. Safe Accommodation Support Service (SASS) Children and young people currently residing in safe accommodation (refuge, dispersed specialist accommodation or a property with sanctuary scheme adaptions) can access support from the Domestic Abuse Safe Accommodation Support Service . Community support There are also support options that can be accessed via these organisations for children and young people not in safe accommodation: Domestic Abuse (Young Person) - Salus Services for Young People - Rising Sun Children and young people - Oasis Domestic Abuse Service Support for young people \u2013 SATEDA Children and young people - Victim Support . Or visit our community directory to find other domestic abuse charities in Kent. You'll also find help from our family hubs , including support for parental conflicts, understanding the different types of abuse in families and support lines. How the police can help you In an emergency always call 999",
+      "metadata": {
+        "chunk_id": 6,
+        "filename": "www.kent.gov.uk_leisure-and-community_community-safety_domestic-abuse.txt",
+        "level": "level_3",
+        "source": "https://www.kent.gov.uk/leisure-and-community/community-safety/domestic-abuse",
+        "source_url": "https://www.kent.gov.uk/leisure-and-community/community-safety/domestic-abuse",
+        "total_chunks": 10,
+        "type": "web_page"
+      },
+      "id": "aa9f812b-3520-4fe7-a08c-94077dd85ebf",
+      "distance": 0.3878331184387207,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.23365006446838377,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 3]\nWhat help is available?\nDomestic Abuse Drop \nIns \u2013 One Stop Shops Domestic Abuse One Stop Shops offer free and confidential advice, information and support from \na range of agencies to help victims of domestic abuse. These include physical and virtual drop ins. Y ou may even remain anonymous if it is just advice you are seeking.  Find your nearest drop in here. \nSupport for people affected by domestic abuse in Kent  \nKent Integrated Domestic Abuse Service (KIDAS) offers person-centred \nsupport to victims (16+) in Kent. This service includes:\n\u2022Suppor t within safe refuge accommodation\n\u2022Specialist I ndependent Domestic Violence Advisors (IDVA) support\n\u2022C ommunity Outreach Services\n\u2022T herapeutic and group programmes (e.g. Freedom or Phoenix Programme)\n\u2022Emer gency welfare assistance for clients in crisis (food, energy, travel)\nThis service can also support access to Sanctuary provision (adaptations to make the home safer) and support for children and young people residing in safe accommodation.",
+      "metadata": {
+        "chunk_id": 7,
+        "download_url": "https://www.kent.gov.uk/__data/assets/pdf_file/0008/165806/Domestic-Abuse-Referral-Pathway.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Domestic-Abuse-Referral-Pathway.pdf",
+        "level": "level_3",
+        "page_count": 5,
+        "pages_with_content": "[1, 2, 3, 4, 5]",
+        "source": "https://www.kent.gov.uk/leisure-and-community/community-safety/domestic-abuse",
+        "source_url": "https://www.kent.gov.uk/leisure-and-community/community-safety/domestic-abuse",
+        "total_chunks": 13,
+        "type": "pdf"
+      },
+      "id": "3675fff6-25c3-4cf9-8aea-b7b17ed9ba3f",
+      "distance": 0.4264264404773712,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.22207206785678862,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Domestic abuse Urgent concern If you think you or someone you know is in immediate danger, the best thing to do is call 999 and ask for Kent Police. Behaviour is abusive if it consists of: physical or sexual abuse violent or threatening behaviour controlling or coercive behaviour economic abuse psychological, emotional or other abuse. It can happen in family or romantic relationships. It is wrong, and there are services available to support you. The Kent and Medway Domestic Abuse Referral Pathway The Kent and Medway Referral Pathway gives you more information about domestic abuse, support services and tools to keep you safer. If you are a professional, you are also able to make a referral to the SAFER scheme. This includes any security upgrades that help survivors to remain in their own homes, if they choose to do so. Find out about the referral pathway End Domestic Abuse Join our campaign by sharing our messages on social media with the hashtag #KnowSeeSpeakOut",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.kent.gov.uk_leisure-and-community_community-safety_domestic-abuse.txt",
+        "level": "level_3",
+        "source": "https://www.kent.gov.uk/leisure-and-community/community-safety/domestic-abuse",
+        "source_url": "https://www.kent.gov.uk/leisure-and-community/community-safety/domestic-abuse",
+        "total_chunks": 10,
+        "type": "web_page"
+      },
+      "id": "b4e051a4-f03d-406a-879d-38c7281a7798",
+      "distance": 0.48523378372192383,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.20442986488342285,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 2]\n   \n \nYour guide to Kent adult social care 202 4  2 \n About this booklet  \n \nThis booklet tells you about what support you and your carer can get \nfrom adult social services in Kent.  \nWe include information on needs assessments, carer\u2019s assessments \nand what care and support is available to enable you to live a life which \nis as full and independent as possible.  \nThere is also a section on useful contacts for other organisations. This \nwill help you explore other options that you may not thought of, but \nwould have a positive impact on your wellbeing.  \nThis booklet is available in alternative formats and can be explained in \nother languages. Please call:  \nTelephone: 03000 41 61 61  \nText relay: 18001 03000 41 61 61  \n \nKent Connect to Support  \nKent Connect to Support is the place to find information, advice and \nguidance on adult social care in Kent.  \nThere are sections on support in the home and community, caring for \nsomeone, health and wellbeing, housing, getting out and about, money",
+      "metadata": {
+        "chunk_id": 1,
+        "contains_financial_info": true,
+        "download_url": "https://www.kent.gov.uk/__data/assets/pdf_file/0003/17616/Your-guide-to-adult-social-care-in-Kent.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Your-guide-to-adult-social-care-in-Kent.pdf",
+        "financial_pages": "[5, 6, 8, 10, 13, 15, 17, 23, 24, 25, 29, 30, 31, 32, 33, 37]",
+        "level": "level_2",
+        "page_count": 39,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39]",
+        "source": "https://www.kent.gov.uk/social-care-and-health/adult-social-care",
+        "source_url": "https://www.kent.gov.uk/social-care-and-health/adult-social-care",
+        "total_chunks": 72,
+        "type": "pdf"
+      },
+      "id": "66ae8824-2576-4865-8f62-31146b762fef",
+      "distance": 0.5033912062644958,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.19898263812065126,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 2]\n   \n \nYour guide to Kent adult social care 202 4  2 \n About this booklet  \n \nThis booklet tells you about what support you and your carer can get \nfrom adult social services in Kent.  \nWe include information on needs assessments, carer\u2019s assessments \nand what care and support is available to enable you to live a life which \nis as full and independent as possible.  \nThere is also a section on useful contacts for other organisations. This \nwill help you explore other options that you may not thought of, but \nwould have a positive impact on your wellbeing.  \nThis booklet is available in alternative formats and can be explained in \nother languages. Please call:  \nTelephone: 03000 41 61 61  \nText relay: 18001 03000 41 61 61  \n \nKent Connect to Support  \nKent Connect to Support is the place to find information, advice and \nguidance on adult social care in Kent.  \nThere are sections on support in the home and community, caring for \nsomeone, health and wellbeing, housing, getting out and about, money",
+      "metadata": {
+        "chunk_id": 1,
+        "contains_financial_info": true,
+        "download_url": "https://www.kent.gov.uk/__data/assets/pdf_file/0003/17616/Your-guide-to-adult-social-care-in-Kent.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Your-guide-to-adult-social-care-in-Kent.pdf",
+        "financial_pages": "[5, 6, 8, 10, 13, 15, 17, 23, 24, 25, 29, 30, 31, 32, 33, 37]",
+        "level": "level_0",
+        "page_count": 39,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39]",
+        "source": "https://www.kent.gov.uk/social-care-and-health/adult-social-care",
+        "source_url": "https://www.kent.gov.uk/social-care-and-health/adult-social-care",
+        "total_chunks": 72,
+        "type": "pdf"
+      },
+      "id": "9419f686-b3a5-4c36-ac58-f59a1bc5c353",
+      "distance": 0.5033912062644958,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.19898263812065126,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 2]\nThis booklet is an introduction to direct payments and is produced by \nAdult Social Care and Health. \nIf it does not give you all the information you need, please contact us, our \ndetails are at the end of this booklet\nThis booklet is available in alternative formats and can be explained in \nother languages. \nTelephone:  03000 41 61 61 or\nText Relay:  18001 03000 41 61 61\nFor more copies of this guide please email:\nsocialservicesleaflets@kent.gov.uk\nKent Connect to Support\nKent Connect to Support is the place to find information, advice and \nguidance on adult social care in Kent.\nThere are sections on support in the home and community, caring for \nsomeone, health and wellbeing, housing, getting out and about, money \nand legal as well as a community directory of services in your area.\n https://kent.connecttosupport.orgAbout this booklet\n2",
+      "metadata": {
+        "chunk_id": 1,
+        "contains_financial_info": true,
+        "download_url": "https://www.kent.gov.uk/__data/assets/pdf_file/0010/115588/Your-guide-to-Direct-Payments.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Your-guide-to-Direct-Payments.pdf",
+        "financial_pages": "[5, 6, 7, 8, 10, 11, 12, 13, 14, 15, 16, 18, 19, 20, 23]",
+        "level": "level_2",
+        "page_count": 28,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28]",
+        "source": "https://www.kent.gov.uk/social-care-and-health/adult-social-care/arranging-your-own-care/direct-payments",
+        "source_url": "https://www.kent.gov.uk/social-care-and-health/adult-social-care/arranging-your-own-care/direct-payments",
+        "total_chunks": 44,
+        "type": "pdf"
+      },
+      "id": "ac918086-1e67-46a8-86a9-51afa3f44f9d",
+      "distance": 0.5167186856269836,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1949843943119049,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Find out about the referral pathway End Domestic Abuse Join our campaign by sharing our messages on social media with the hashtag #KnowSeeSpeakOut. You can find out more about this campaign by visiting our Know, See, Speak out campaign page . Support services In Kent and Medway contact Victim Support to access domestic abuse services for an assessment and referral to your local service. To contact Victim Support: call: 0808 168 9111 (open 24 hours a day, 7 days a week) use the live chat . For those with hearing or communication impairments\u00a0use the Relay UK app or contact them in BSL . If you live in Medway you can also: email: helpline@oasisdaservice.org call: 0800 917 9948 (Monday, Tuesday, Wednesday 9:30am to 11:30am and 12:30pm to 2:30pm, or Thursday and Friday 9:30am to 11:30am). Refuge If you would like to go to a refuge (a temporary safe place to live for you and your children) call the National Domestic Violence Helpline on 0808 2000 247",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.kent.gov.uk_leisure-and-community_community-safety_domestic-abuse.txt",
+        "level": "level_3",
+        "source": "https://www.kent.gov.uk/leisure-and-community/community-safety/domestic-abuse",
+        "source_url": "https://www.kent.gov.uk/leisure-and-community/community-safety/domestic-abuse",
+        "total_chunks": 10,
+        "type": "web_page"
+      },
+      "id": "e8018566-9760-42db-994a-18ed5bab560c",
+      "distance": 0.5310049057006836,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.19069852828979494,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Provides a pathway to support for all survivors residing in the property that has been made safer (including children). To be eligible for the SAFER scheme the person must be aged 16+, live in Kent and has a need to stay in the local area they are not living in temporary or emergency accommodation the perpetrator does not live in, or have legal access to, the property it must be identified as the safest and most appropriate support, consented to by the survivor the landlord or property owner has given consent for the works to be conducted referrals can only be made by a professional on behalf of a survivor. To make a referral complete the SAFER Scheme referral form . Children affected by domestic abuse Children are victims of domestic abuse in their own right, experiencing rather than witnessing abuse between their caregivers. You can access support for children to process these experiences",
+      "metadata": {
+        "chunk_id": 5,
+        "filename": "www.kent.gov.uk_leisure-and-community_community-safety_domestic-abuse.txt",
+        "level": "level_3",
+        "source": "https://www.kent.gov.uk/leisure-and-community/community-safety/domestic-abuse",
+        "source_url": "https://www.kent.gov.uk/leisure-and-community/community-safety/domestic-abuse",
+        "total_chunks": 10,
+        "type": "web_page"
+      },
+      "id": "7af6f0cd-5e21-462e-a878-9eecd1285f24",
+      "distance": 0.5363978147506714,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.18908065557479858,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Kent Homeless Connect  is delivered by two \nprime providers in Kent (as well as a network of \nspecialist providers ) and supports vulnerable \npeople with complex needs who are homeless \nor at risk of becoming homeless. The service \nhelps individuals move away from \nhomelessness for good , by bringing together \nelements of outreach, supported \naccommodation and floati ng support. The \nservice offers a person -centred  approach, \ntailoring a support plan for each  individual\u2019s \nneeds.  kenthomelessconnect.org.uk  \n \nKIDAS (Kent Integrated Domestic Abuse Service)  \n \nWorking with Public Health, the Office of the Police and Crime Commissioner, Kent Fire and \nRescue and Kent\u2019s 12 districts and boroughs, KIDAS provides accommodation and community \nbased support for those experiencing or at risk of domestic abuse. Delivered by three lead \nproviders, KIDAS f ocuses on early intervention and maintaining independence for individuals  and",
+      "metadata": {
+        "chunk_id": 9,
+        "contains_financial_info": true,
+        "download_url": "https://www.kent.gov.uk/__data/assets/pdf_file/0003/123762/KCC-Wellbeing-Prevention-Market-Position-Statement.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "KCC-Wellbeing-Prevention-Market-Position-Statement.pdf",
+        "financial_pages": "[3, 5, 6, 7, 8, 9, 10, 12, 13, 14, 15, 16, 17, 19, 20, 21]",
+        "level": "level_2",
+        "page_count": 22,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22]",
+        "source": "https://www.kent.gov.uk/about-the-council/strategies-and-policies/service-specific-policies/adult-social-care-policies/adult-social-care-commissioning-market-position-statement",
+        "source_url": "https://www.kent.gov.uk/about-the-council/strategies-and-policies/service-specific-policies/adult-social-care-policies/adult-social-care-commissioning-market-position-statement",
+        "total_chunks": 64,
+        "type": "pdf"
+      },
+      "id": "03a71763-760d-42a7-bb11-0b3e8255a261",
+      "distance": 0.5537668466567993,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1838699460029602,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "guidance on adult social care in Kent.  \nThere are sections on support in the home and community, caring for \nsomeone, health and wellbeing, housing, getting out and about, money \nand legal as well as a community directory of services in your area.  \nhttps://kent.connecttosupport.org",
+      "metadata": {
+        "chunk_id": 2,
+        "contains_financial_info": true,
+        "download_url": "https://www.kent.gov.uk/__data/assets/pdf_file/0003/17616/Your-guide-to-adult-social-care-in-Kent.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "Your-guide-to-adult-social-care-in-Kent.pdf",
+        "financial_pages": "[5, 6, 8, 10, 13, 15, 17, 23, 24, 25, 29, 30, 31, 32, 33, 37]",
+        "level": "level_2",
+        "page_count": 39,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39]",
+        "source": "https://www.kent.gov.uk/social-care-and-health/adult-social-care",
+        "source_url": "https://www.kent.gov.uk/social-care-and-health/adult-social-care",
+        "total_chunks": 72,
+        "type": "pdf"
+      },
+      "id": "9c15eb8b-03af-44d6-b385-3f50397c93c2",
+      "distance": 0.49003705382347107,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.18138888385295868,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    }
+  ],
+  "context": "[Document 1] From https://www (web_page) - URL: https://www.kent.gov.uk/leisure-and-community/community-safety/domestic-abuse [Retrieved via: semantic_original]:\n. You can access support for children to process these experiences. Safe Accommodation Support Service (SASS) Children and young people currently residing in safe accommodation (refuge, dispersed specialist accommodation or a property with sanctuary scheme adaptions) can access support from the Domestic Abuse Safe Accommodation Support Service . Community support There are also support options that can be accessed via these organisations for children and young people not in safe accommodation: Domestic Abuse (Young Person) - Salus Services for Young People - Rising Sun Children and young people - Oasis Domestic Abuse Service Support for young people \u2013 SATEDA Children and young people - Victim Support . Or visit our community directory to find other domestic abuse charities in Kent. You'll also find help from our family hubs , including support for parental conflicts, understanding the different types of abuse in families and support lines. How the police can help you In an emergency always call 999\n\n[Document 2] From https://www (pdf) - URL: https://www.kent.gov.uk/leisure-and-community/community-safety/domestic-abuse - 5 pages [Retrieved via: semantic_original]:\n[Page 3]\nWhat help is available?\nDomestic Abuse Drop \nIns \u2013 One Stop Shops Domestic Abuse One Stop Shops offer free and confidential advice, information and support from \na range of agencies to help victims of domestic abuse. These include physical and virtual drop ins. Y ou may even remain anonymous if it is just advice you are seeking.  Find your nearest drop in here. \nSupport for people affected by domestic abuse in Kent  \nKent Integrated Domestic Abuse Service (KIDAS) offers person-centred \nsupport to victims (16+) in Kent. This service includes:\n\u2022Suppor t within safe refuge accommodation\n\u2022Specialist I ndependent Domestic Violence Advisors (IDVA) support\n\u2022C ommunity Outreach Services\n\u2022T herapeutic and group programmes (e.g. Freedom or Phoenix Programme)\n\u2022Emer gency welfare assistance for clients in crisis (food, energy, travel)\nThis service can also support access to Sanctuary provision (adaptations to make the home safer) and support for children and young people residing in safe accommodation.\n\n[Document 3] From https://www (web_page) - URL: https://www.kent.gov.uk/leisure-and-community/community-safety/domestic-abuse [Retrieved via: semantic_original]:\nDomestic abuse Urgent concern If you think you or someone you know is in immediate danger, the best thing to do is call 999 and ask for Kent Police. Behaviour is abusive if it consists of: physical or sexual abuse violent or threatening behaviour controlling or coercive behaviour economic abuse psychological, emotional or other abuse. It can happen in family or romantic relationships. It is wrong, and there are services available to support you. The Kent and Medway Domestic Abuse Referral Pathway The Kent and Medway Referral Pathway gives you more information about domestic abuse, support services and tools to keep you safer. If you are a professional, you are also able to make a referral to the SAFER scheme. This includes any security upgrades that help survivors to remain in their own homes, if they choose to do so. Find out about the referral pathway End Domestic Abuse Join our campaign by sharing our messages on social media with the hashtag #KnowSeeSpeakOut\n\n[Document 4] From https://www (pdf) - URL: https://www.kent.gov.uk/social-care-and-health/adult-social-care - 39 pages [Retrieved via: semantic_original]:\n[Page 2]\n   \n \nYour guide to Kent adult social care 202 4  2 \n About this booklet  \n \nThis booklet tells you about what support you and your carer can get \nfrom adult social services in Kent.  \nWe include information on needs assessments, carer\u2019s assessments \nand what care and support is available to enable you to live a life which \nis as full and independent as possible.  \nThere is also a section on useful contacts for other organisations. This \nwill help you explore other options that you may not thought of, but \nwould have a positive impact on your wellbeing.  \nThis booklet is available in alternative formats and can be explained in \nother languages. Please call:  \nTelephone: 03000 41 61 61  \nText relay: 18001 03000 41 61 61  \n \nKent Connect to Support  \nKent Connect to Support is the place to find information, advice and \nguidance on adult social care in Kent.  \nThere are sections on support in the home and community, caring for \nsomeone, health and wellbeing, housing, getting out and about, money\n\n[Document 5] From https://www (pdf) - URL: https://www.kent.gov.uk/social-care-and-health/adult-social-care - 39 pages [Retrieved via: semantic_original]:\n[Page 2]\n   \n \nYour guide to Kent adult social care 202 4  2 \n About this booklet  \n \nThis booklet tells you about what support you and your carer can get \nfrom adult social services in Kent.  \nWe include information on needs assessments, carer\u2019s assessments \nand what care and support is available to enable you to live a life which \nis as full and independent as possible.  \nThere is also a section on useful contacts for other organisations. This \nwill help you explore other options that you may not thought of, but \nwould have a positive impact on your wellbeing.  \nThis booklet is available in alternative formats and can be explained in \nother languages. Please call:  \nTelephone: 03000 41 61 61  \nText relay: 18001 03000 41 61 61  \n \nKent Connect to Support  \nKent Connect to Support is the place to find information, advice and \nguidance on adult social care in Kent.  \nThere are sections on support in the home and community, caring for \nsomeone, health and wellbeing, housing, getting out and about, money\n\n[Document 6] From https://www (pdf) - URL: https://www.kent.gov.uk/social-care-and-health/adult-social-care/arranging-your-own-care/direct-payments - 28 pages [Retrieved via: semantic_original]:\n[Page 2]\nThis booklet is an introduction to direct payments and is produced by \nAdult Social Care and Health. \nIf it does not give you all the information you need, please contact us, our \ndetails are at the end of this booklet\nThis booklet is available in alternative formats and can be explained in \nother languages. \nTelephone:  03000 41 61 61 or\nText Relay:  18001 03000 41 61 61\nFor more copies of this guide please email:\nsocialservicesleaflets@kent.gov.uk\nKent Connect to Support\nKent Connect to Support is the place to find information, advice and \nguidance on adult social care in Kent.\nThere are sections on support in the home and community, caring for \nsomeone, health and wellbeing, housing, getting out and about, money \nand legal as well as a community directory of services in your area.\n https://kent.connecttosupport.orgAbout this booklet\n2\n\n[Document 7] From https://www (web_page) - URL: https://www.kent.gov.uk/leisure-and-community/community-safety/domestic-abuse [Retrieved via: semantic_original]:\n. Find out about the referral pathway End Domestic Abuse Join our campaign by sharing our messages on social media with the hashtag #KnowSeeSpeakOut. You can find out more about this campaign by visiting our Know, See, Speak out campaign page . Support services In Kent and Medway contact Victim Support to access domestic abuse services for an assessment and referral to your local service. To contact Victim Support: call: 0808 168 9111 (open 24 hours a day, 7 days a week) use the live chat . For those with hearing or communication impairments\u00a0use the Relay UK app or contact them in BSL . If you live in Medway you can also: email: helpline@oasisdaservice.org call: 0800 917 9948 (Monday, Tuesday, Wednesday 9:30am to 11:30am and 12:30pm to 2:30pm, or Thursday and Friday 9:30am to 11:30am). Refuge If you would like to go to a refuge (a temporary safe place to live for you and your children) call the National Domestic Violence Helpline on 0808 2000 247\n\n[Document 8] From https://www (web_page) - URL: https://www.kent.gov.uk/leisure-and-community/community-safety/domestic-abuse [Retrieved via: semantic_original]:\n. Provides a pathway to support for all survivors residing in the property that has been made safer (including children). To be eligible for the SAFER scheme the person must be aged 16+, live in Kent and has a need to stay in the local area they are not living in temporary or emergency accommodation the perpetrator does not live in, or have legal access to, the property it must be identified as the safest and most appropriate support, consented to by the survivor the landlord or property owner has given consent for the works to be conducted referrals can only be made by a professional on behalf of a survivor. To make a referral complete the SAFER Scheme referral form . Children affected by domestic abuse Children are victims of domestic abuse in their own right, experiencing rather than witnessing abuse between their caregivers. You can access support for children to process these experiences\n\n[Document 9] From https://www (pdf) - URL: https://www.kent.gov.uk/about-the-council/strategies-and-policies/service-specific-policies/adult-social-care-policies/adult-social-care-commissioning-market-position-statement - 22 pages [Retrieved via: semantic_original]:\nKent Homeless Connect  is delivered by two \nprime providers in Kent (as well as a network of \nspecialist providers ) and supports vulnerable \npeople with complex needs who are homeless \nor at risk of becoming homeless. The service \nhelps individuals move away from \nhomelessness for good , by bringing together \nelements of outreach, supported \naccommodation and floati ng support. The \nservice offers a person -centred  approach, \ntailoring a support plan for each  individual\u2019s \nneeds.  kenthomelessconnect.org.uk  \n \nKIDAS (Kent Integrated Domestic Abuse Service)  \n \nWorking with Public Health, the Office of the Police and Crime Commissioner, Kent Fire and \nRescue and Kent\u2019s 12 districts and boroughs, KIDAS provides accommodation and community \nbased support for those experiencing or at risk of domestic abuse. Delivered by three lead \nproviders, KIDAS f ocuses on early intervention and maintaining independence for individuals  and\n\n[Document 10] From https://www (pdf) - URL: https://www.kent.gov.uk/social-care-and-health/adult-social-care - 39 pages [Retrieved via: semantic_original]:\nguidance on adult social care in Kent.  \nThere are sections on support in the home and community, caring for \nsomeone, health and wellbeing, housing, getting out and about, money \nand legal as well as a community directory of services in your area.  \nhttps://kent.connecttosupport.org\n",
+  "answer": "If you are experiencing domestic abuse in Kent and need to leave with your children, there are several emergency social care and housing support options available to you.\n\n**Summary:** You can access immediate support through the Kent Integrated Domestic Abuse Service (KIDAS) and seek refuge accommodation. In emergencies, always call 999.\n\n**Details:**\n\n- **Immediate Safety:** In an emergency, call **999** and ask for Kent Police. They can provide immediate assistance and ensure your safety.\n\n- **Refuge Accommodation:** You can contact the **National Domestic Violence Helpline at 0808 2000 247** to find refuge accommodation, which is a temporary safe place for you and your children.\n\n- **Kent Integrated Domestic Abuse Service (KIDAS):** This service offers support within safe refuge accommodation, access to Independent Domestic Violence Advisors (IDVA), and community outreach services. They also provide emergency welfare assistance for clients in crisis, such as food, energy, and travel support.\n\n- **Support for Children:** Children and young people residing in safe accommodation can access support from the Domestic Abuse Safe Accommodation Support Service. Additionally, community support options are available through organizations like Salus, Rising Sun, Oasis Domestic Abuse Service, and SATEDA.\n\n- **Domestic Abuse One Stop Shops:** These offer free and confidential advice and support from various agencies. You can find your nearest drop-in location through the Kent County Council website.\n\n**Next Steps:**\n\n- **Contact Victim Support:** For an assessment and referral to local services, call **0808 168 9111**, available 24/7.\n\n- **Explore More Resources:** Visit the Kent County Council's community directory for additional domestic abuse charities and support services in your area: [Kent Domestic Abuse Support](https://www.kent.gov.uk/leisure-and-community/community-safety/domestic-abuse).\n\nThese resources are designed to help you and your children find safety and support during this challenging time.",
+  "metrics": {
+    "duration_seconds": 14.735051155090332,
+    "retrieved_docs_count": 10,
+    "query_length": 136,
+    "answer_length": 2035,
+    "retrieval_method": "enhanced",
+    "context_utilization": 0.2471131639722864,
+    "citations_count": 1,
+    "has_citations": true,
+    "query_relevance": 0.8947368421052632,
+    "unique_retrieval_methods": 1,
+    "budget_documents_retrieved": 5,
+    "retrieval_methods_used": [
+      "semantic_original"
+    ],
+    "retrieval_method_distribution": {
+      "semantic_original": 10
+    }
+  },
+  "local_authority": "kent",
+  "query_id": "scn_27",
+  "retrieval_method": "enhanced",
+  "run_id": "492e31d5-8262-4ffa-aae4-54820b812251",
+  "trace": {
+    "run_id": "492e31d5-8262-4ffa-aae4-54820b812251",
+    "project": "social_care_rag",
+    "url": "https://eu.smith.langchain.com/o/me/runs/492e31d5-8262-4ffa-aae4-54820b812251"
+  },
+  "test_metadata": {
+    "local_authority": "kent",
+    "query_id": "scn_27",
+    "query_category": "emergency_scenarios",
+    "prompt_variation": "optimized",
+    "prompt_template": "\nPlease answer the following question about social care services in UK local authorities based only on the information in the provided documents.\n\nQuestion: {query}\n\nContext from relevant documents:\n{context}\n\nInstructions:\n1. Provide a clear, direct answer that would help someone needing this information. If information isn't available, state: \"The available documents don't provide specific information about [aspect].\"\n\n2. Synthesize information from ALL relevant documents to provide the most complete answer rather than analyzing documents individually.\n\n3. Structure your response with:\n   - A concise 1-2 sentence summary first\n   - Relevant details organized in short, clear paragraphs\n   - Bullet points for lists or step-by-step information\n   - Bold text for key information the user should notice\n\n4. For financial information:\n   - Include exact figures, time periods, and what the funding covers\n   - Present financial data clearly: \"The adult social care budget is **\u00a3X million** for [time period]\"\n\n5. Always include practical next steps or resources:\n   - Provide contact information, URLs, or application methods mentioned in the documents\n   - Suggest where the person could find more information\n\n6. When citing sources, use a simple format: \"According to [document name/description]\" or include URLs where available.\n\nAnswer:\n",
+    "processing_time": 14.739049911499023,
+    "timestamp": "2025-08-19T13:47:39.153479",
+    "top_k": 10
+  }
+}

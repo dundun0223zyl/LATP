@@ -1,0 +1,335 @@
+{
+  "query": "What specific savings targets has Coventry set in its budget plans?",
+  "retrieved_documents": [
+    {
+      "content": "[Page 7 - FINANCIAL/BUDGET INFORMATION]\nCoventry City Council\u2019s Adult Social Care Self Assessment 2023/2024|    6\nDeprivation\nDeprivation within the city has decreased in more recent years and \nfollowing on from becoming a Marmot City, the percentage of Coventry \nneighbourhoods that are amongst the 10% most deprived in England \nreduced from 18.5% to 14.4% between 2015 and 2019. However, over a \nquarter (25.6%) of neighbourhoods are amongst the most deprived 20% of \nareas (the most deprived \u2018quintile\u2019), a particular focus for the health system \nfor tackling inequalities (the \u2018Core20\u2019).\nFinancial\nLike many local authorities Coventry is facing funding challenges, with \u00a330m \nof planned savings to deliver its balanced budget position in 2024/25 and \na projected \u00a314m budget shortfall in 2025/26. This reflects a combination \nof factors including funding received from central government coupled with \nrising demand and costs in social care and inflationary pressures. We need",
+      "metadata": {
+        "chunk_id": 9,
+        "contains_financial_info": true,
+        "download_url": "",
+        "extraction_method": "PyPDF2",
+        "filename": "coventry-adult-social-care-self-assessment-2023-24.pdf",
+        "financial_pages": "[4, 5, 6, 7, 9, 10, 13, 14, 15, 16, 19, 20, 21, 23, 24, 25, 28, 30, 31, 32, 33, 34, 35, 36, 37, 38, 40, 41, 42, 44, 45, 46, 48, 50, 52, 54, 55, 57, 60]",
+        "level": "level_2",
+        "page_count": 60,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60]",
+        "source": "coventry-adult-social-care-self-assessment-2023-24.pdf",
+        "source_url": "",
+        "total_chunks": 206,
+        "type": "pdf"
+      },
+      "id": "ecec7488-2717-426b-820b-9c72d459e402",
+      "distance": 0.7191892266273499,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.5703970781656412,
+      "scoring_details": {
+        "query_type": "savings_targets",
+        "financial_indicators_found": 5,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 6 - FINANCIAL/BUDGET INFORMATION]\nCoventry City Council \nAdult Social Care Workforce \nOver the last few years the workforce in Adult Social Care has been reduced. \nThere were 1354 workers on 31st July 2013 compared to 1222 on 31st July \n2014. \nThese reductions are due to budget cuts from central government. As a \nconsequence the amount of services provided has reduced, with services \nbeing prioritised on providing support to the most vulnerable in our \ncommunities. This trend is likely to continue over the coming years, given the \ncontext of further forecasted budget reductions.\nMoney  \nThe Council is a large organisation spending a net \u00a3260.7m on revenue \nactivity during 2014/15. Each year, the Council reviews its spending in light \nof existing and new legislation, the demographics of the city, available \nresources and the Council\u2019s own priorities and objectives in order to set a \nbudget.\nAs resources continued to be reduced, significant financial pressure existed",
+      "metadata": {
+        "chunk_id": 6,
+        "contains_financial_info": true,
+        "download_url": "",
+        "extraction_method": "PyPDF2",
+        "filename": "coventry-adult-social-care-annual-report-2014-15.pdf",
+        "financial_pages": "[4, 5, 6, 7, 8, 9, 10, 13, 14, 15, 16, 17, 20, 23, 24, 27, 28, 31, 32, 33]",
+        "level": "level_2",
+        "page_count": 36,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35]",
+        "source": "coventry-adult-social-care-annual-report-2014-15.pdf",
+        "source_url": "",
+        "total_chunks": 72,
+        "type": "pdf"
+      },
+      "id": "333e2776-04c1-49b6-8378-15090cbf3da2",
+      "distance": 0.8766874670982361,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.5631476060243754,
+      "scoring_details": {
+        "query_type": "savings_targets",
+        "financial_indicators_found": 5,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "resources and the Council\u2019s own priorities and objectives in order to set a \nbudget.\nAs resources continued to be reduced, significant financial pressure existed \nthroughout 2014/15 and, with a further reduction in Revenue Support Grant \nof \u00a324m for 2015/16, this pressure will continue into the future.\nIn overall terms, between 2010/11 and 2015/16 the reduced Government \nfunding is equivalent to a like-for-like reduction of \u00a3638 for every Coventry \nhousehold.\nDirectorate2014/15\nNet Budget\n(\u00a3m)2014/15\nOutturn\n(\u00a3m)2014/15\nVariance\n(\u00a3m)\nChief Executives 2.0 2.0 0.0\nPublic Health 0.1 0.1 0.0\nPlace 33.5 33.0 (0.5)\nPeople 155.0 161.4 6.4\nResources 13.7 11.5 (2.2)\nContingency & Central Budgets 54.2 52.7 (1.5)\nSubtotal 258.5 260.7 2.2\nContribution from Reserves (2.2) (2.2)\nTotal City Council 258.5 258.5 0.0\n6",
+      "metadata": {
+        "chunk_id": 7,
+        "contains_financial_info": true,
+        "download_url": "",
+        "extraction_method": "PyPDF2",
+        "filename": "coventry-adult-social-care-annual-report-2014-15.pdf",
+        "financial_pages": "[4, 5, 6, 7, 8, 9, 10, 13, 14, 15, 16, 17, 20, 23, 24, 27, 28, 31, 32, 33]",
+        "level": "level_2",
+        "page_count": 36,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35]",
+        "source": "coventry-adult-social-care-annual-report-2014-15.pdf",
+        "source_url": "",
+        "total_chunks": 72,
+        "type": "pdf"
+      },
+      "id": "25b4b00e-f857-4693-a509-cfee10bb6d42",
+      "distance": 0.7468000054359436,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.5221138445230631,
+      "scoring_details": {
+        "query_type": "savings_targets",
+        "financial_indicators_found": 5,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 8 - FINANCIAL/BUDGET INFORMATION]\n8By 2016 Coventry City Council will have had its government funding cut by nearly a half since \n2010. This means significant savings need to be made to help the Council balance its budget. Adult Social Care will be required to make savings too. We must use these diminishing resources in the best way we can to support Coventry citizens and deliver the objectives set out in the City Council 10-year plan. This is at a time when we know there will be more older people, more people living with long-term health conditions and more people needing support from family and friends. \nTo support the delivery of change, an Adult Social Care Commissioning and Personalisation Plan \nhas been developed which includes an action plan on what changes we propose to make, how these changes will be delivered, and most importantly what improvement we will expect to see as a result over the next two years. The plan is available at\nwww.coventry.gov.uk/adultsocialcarecpp2014",
+      "metadata": {
+        "chunk_id": 10,
+        "contains_financial_info": true,
+        "download_url": "",
+        "extraction_method": "PyPDF2",
+        "filename": "coventry-adult-social-care-annual-report-2013-14-summary.pdf",
+        "financial_pages": "[3, 6, 8, 9, 10, 12]",
+        "level": "level_2",
+        "page_count": 14,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]",
+        "source": "coventry-adult-social-care-annual-report-2013-14-summary.pdf",
+        "source_url": "",
+        "total_chunks": 21,
+        "type": "pdf"
+      },
+      "id": "60ac0e59-d8f7-4bb0-9426-2de877a38448",
+      "distance": 0.8597433567047119,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.4897693006808941,
+      "scoring_details": {
+        "query_type": "savings_targets",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 6 - FINANCIAL/BUDGET INFORMATION]\n10\nMoney -\nCoventry City Council\nThe Council is a large organisation spending a net \u00a3239.7m on \nrevenue activity during 2015/16 with Adult Social Care being the biggest single area of City Council spend at \u00a374.9m net.  \nThe breakdown of this spend for 2015/16 is shown below:\nCentral Recharges0.1\n13.5\n6.6\n1.253.5\nCommissioning and Staffing Costs \nOther\nSpend on People\nTransport14.3\n15.65.7\n0.8\n8.7\n2.7\n2.13.6Day Opportunities\nDirect Payments\nEquipment & Adaptions\nHomecare\nHousing with Care\nNursing\nResidential\nSupported Living\n2015/16 Adult Social Care Net Spend (\u00a374.9m)2015/16 Net Spend on Services (\u00a353.5m)The \u2018Spend on People\u2019 referred to in the previous chart has increased marginally \nfrom \u00a352.7m in 2014/15.  \u2018Spend on People is money spent directly on the following services:",
+      "metadata": {
+        "chunk_id": 11,
+        "contains_financial_info": true,
+        "download_url": "",
+        "extraction_method": "PyPDF2",
+        "filename": "coventry-adult-social-care-annual-report-2015-16.pdf",
+        "financial_pages": "[2, 4, 6, 7, 8, 9, 11, 13, 14, 15, 16, 17]",
+        "level": "level_2",
+        "page_count": 17,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]",
+        "source": "coventry-adult-social-care-annual-report-2015-16.pdf",
+        "source_url": "",
+        "total_chunks": 63,
+        "type": "pdf"
+      },
+      "id": "a8b3ba2a-a363-4258-92bb-6ebaf75e3869",
+      "distance": 0.9242331981658936,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.48811465593484726,
+      "scoring_details": {
+        "query_type": "savings_targets",
+        "financial_indicators_found": 6,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "of factors including funding received from central government coupled with \nrising demand and costs in social care and inflationary pressures. We need \nto ensure we spend every penny wisely \u2013 investing in efficient and effective \nservices that focus resources to the front-line, prioritising those who need \nour support the most. This is the focus for our One Coventry Transformation \nPlan, which will transform how we deliver many of our services in 2024 and \nbeyond. The local authority estimated that in 2023/24, its total budget would \nbe \u00a3260.5m. Its actual spend for that year was \u00a3262.3m which was \u00a31.8m \nmore than estimated. \n }The local authority estimated that it would spend \u00a3102.8m of its total \nbudget on adult social care in 2023/24. Its actual spend was \u00a3107.8m, \nwhich is \u00a34.9m more than estimated. \n }In 2023/24, 39% of the budget was spent on adult social care. \n }The local authority has raised the full adult social care precept for \n2023/24 and 2024/25.Coventry City Council: Position Statement | 1",
+      "metadata": {
+        "chunk_id": 10,
+        "contains_financial_info": true,
+        "download_url": "",
+        "extraction_method": "PyPDF2",
+        "filename": "coventry-adult-social-care-self-assessment-2023-24.pdf",
+        "financial_pages": "[4, 5, 6, 7, 9, 10, 13, 14, 15, 16, 19, 20, 21, 23, 24, 25, 28, 30, 31, 32, 33, 34, 35, 36, 37, 38, 40, 41, 42, 44, 45, 46, 48, 50, 52, 54, 55, 57, 60]",
+        "level": "level_2",
+        "page_count": 60,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60]",
+        "source": "coventry-adult-social-care-self-assessment-2023-24.pdf",
+        "source_url": "",
+        "total_chunks": 206,
+        "type": "pdf"
+      },
+      "id": "d3cb6d8d-45b9-4f22-8fa7-4ece5251c92d",
+      "distance": 0.8809608817100525,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.4818655816408304,
+      "scoring_details": {
+        "query_type": "savings_targets",
+        "financial_indicators_found": 5,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "The illustrations on this page give you an indication of the challenges we face:  \nBudget \u2013 Money Matters \nActivity \u2013 Facts & Figures \nDemographic \u2013 Drivers of Demand  \nOur Workforce  \nThe Council is a large organisation spending a net \u00a3233.4m on revenue activity during 2018/19.\nThe gross Adult Social Care spend in 2018/19 minus citizens\u2019 contributions was \u00a385.9m as  \nshown below.\nIn recent years we know that Coventry demonstrates comparatively \nlow spending as a local authority per 100,000 population.  The Local \nGovernment Association publishes information about spend later on in \nthe year but you can view last year\u2019s information here",
+      "metadata": {
+        "chunk_id": 15,
+        "contains_financial_info": true,
+        "download_url": "",
+        "extraction_method": "PyPDF2",
+        "filename": "adult-social-care-annual-report-2018-19.pdf",
+        "financial_pages": "[3, 5, 6, 7, 8, 9, 10, 11, 12, 13, 17, 20, 21, 24, 26, 28, 30, 31, 32, 33, 34, 35, 36]",
+        "level": "level_2",
+        "page_count": 38,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38]",
+        "source": "adult-social-care-annual-report-2018-19.pdf",
+        "source_url": "",
+        "total_chunks": 92,
+        "type": "pdf"
+      },
+      "id": "6d9d4cc8-038a-4c0d-895b-7eb5fb2e61d8",
+      "distance": 0.830780565738678,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.4776889072014735,
+      "scoring_details": {
+        "query_type": "savings_targets",
+        "financial_indicators_found": 4,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 12 - FINANCIAL/BUDGET INFORMATION]\nBUDGET-MONEY MATTERS\nThe largest element of the increase \nrelates to Spend on People (provision of services)\nThe \u2018Spend on People\u2019 referred to in \nthe above chart has increased from2020/21  ADULT SOCIAL CARE SPEND (\u00a3103.2 m)\n2020/21  SPEND ON PEOPLE (\u00a379.5 m)\nCoventry still continues to be a comparatively low spending local authority per\n100,000\npopulation\u00a395m\nin 2019/20\n\u00a370.4m\nin 2019/20\n\u00a37.8m of that increase relates to \nthe additional support to providers referenced above. \u2018Spend on People\u2019 is money spent directly on the following servicesThis compares to a spend of\nHOW DO WE COMPARE?Setting the Scene -  \nAdult Social Care in a Changing Landscape\n12The demand for Adult Social Care rises every year as people live longer and there are more \npeople living longer with more complex needs.  \nBUDGET-MONEY MATTERS\nBUDGET-MONEY MATTERS\nIn recent years we know that Coventry demonstrates comparatively",
+      "metadata": {
+        "chunk_id": 24,
+        "contains_financial_info": true,
+        "download_url": "",
+        "extraction_method": "PyPDF2",
+        "filename": "adult-social-care-annual-report-2020-21.pdf",
+        "financial_pages": "[7, 8, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 22, 24, 25, 28, 31, 32, 33, 34, 36, 39, 40, 41, 43, 44, 45, 48]",
+        "level": "level_2",
+        "page_count": 48,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48]",
+        "source": "adult-social-care-annual-report-2020-21.pdf",
+        "source_url": "",
+        "total_chunks": 118,
+        "type": "pdf"
+      },
+      "id": "391a3a9b-ea68-47ef-8dc3-2b2dc28e0ffc",
+      "distance": 0.8603253364562988,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.4688254759861873,
+      "scoring_details": {
+        "query_type": "savings_targets",
+        "financial_indicators_found": 4,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "deliver services without consideration of our budgets \nand the wider financial position of the Council. \nWhilst these issues are not unique to Coventry, their \nimpact is affected by both local and national context \nincluding national living wage, inflationary pressures, \nthe general health and wellbeing of the residents of \nthe city and its subsequent impact on social care \ndemand. We will therefore be working with providers \nto ensure that both our services and our processes \nare working in the most efficient manner, utilising all \npossible resources and assets available.\nOur\u00a0Medium Term Financial Strategy 2022 - \n2025 \u00a0supports the medium term policy and financial \nplanning process that is at the heart of setting our \nrevenue and capital budgets. Technical Appendices \nNumber of people supported during the year (all client groups):\nNote, all figures are in city only.\n1829 18311900\n1884\n17801800182018401860188019001920\n2020/21 2021/22 2022/23 2023/24No. of people supported per annum",
+      "metadata": {
+        "chunk_id": 139,
+        "contains_financial_info": true,
+        "download_url": "",
+        "extraction_method": "PyPDF2",
+        "filename": "coventry-city-council-market-position-statement-2024-2029.pdf",
+        "financial_pages": "[2, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22]",
+        "level": "level_2",
+        "page_count": 23,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23]",
+        "source": "coventry-city-council-market-position-statement-2024-2029.pdf",
+        "source_url": "",
+        "total_chunks": 150,
+        "type": "pdf"
+      },
+      "id": "f91182b6-bed5-4ec9-941f-7feb5cf1b371",
+      "distance": 0.7983579635620117,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.46818491862370415,
+      "scoring_details": {
+        "query_type": "savings_targets",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "spent on homecare\u00a331.9m\nspent on housing \nwith care\u00a36.5m\n\u00a30.5mspent on\nindividual \nservice funds\n\u00a310.2mspent on\nnursingspent on \nsupported living\nCoventry still continues to be \na comparatively low spending local authority per\n100,000 populationHOW DO WE COMPARE?In recent years we know that Coventry demonstrates comparatively \nlow spending as a local authority per 100,000 population. The Local Government Association publish information about spend later on in the year but you can view information for 2021/22  \nhttps://lginform.local.gov.uk/reports/lgastandard?mod-\nmetric=1029&mod-area=E08000026&mod-group=ADASSRegions&mod-type=comparisonGroupTypeBUDGET-MONEY MATTERS\ncompared to 2021/22 spend  \nof \u00a3110.4m. The largest \nelement of the increase relates to Spend on People.\u00a3118.8m\nin 2022/23spent on \npeople\u00a391.5mspent on other\u00a30.3m\nspent on community, \nassessment and overheads\u00a320m\ninternal cost for  support \nservices including \nfinance, HR and \nLegal\u00a36.2m\n\u00a30.8m\nspent on transportThe gross Adult Social Care",
+      "metadata": {
+        "chunk_id": 28,
+        "contains_financial_info": true,
+        "download_url": "",
+        "extraction_method": "PyPDF2",
+        "filename": "coventry-local-account-for-adult-social-care-2022-23.pdf",
+        "financial_pages": "[4, 5, 6, 7, 8, 9, 10, 12, 13, 14, 15, 16, 18, 19, 22, 23, 24, 25, 27, 28, 29, 31, 32, 34, 35, 36, 37, 38, 41, 42, 44, 47, 49, 50, 52]",
+        "level": "level_2",
+        "page_count": 52,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52]",
+        "source": "coventry-local-account-for-adult-social-care-2022-23.pdf",
+        "source_url": "",
+        "total_chunks": 152,
+        "type": "pdf"
+      },
+      "id": "e16db7fa-e264-4ccd-a9ba-d3ecd1cb603f",
+      "distance": 0.913625180721283,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.45283552270669203,
+      "scoring_details": {
+        "query_type": "savings_targets",
+        "financial_indicators_found": 4,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    }
+  ],
+  "context": "[Document 1] From coventry adult social care self assessment 2023 24 (pdf) - 60 pages [Retrieved via: semantic_original]:\n[Page 7 - FINANCIAL/BUDGET INFORMATION]\nCoventry City Council\u2019s Adult Social Care Self Assessment 2023/2024|    6\nDeprivation\nDeprivation within the city has decreased in more recent years and \nfollowing on from becoming a Marmot City, the percentage of Coventry \nneighbourhoods that are amongst the 10% most deprived in England \nreduced from 18.5% to 14.4% between 2015 and 2019. However, over a \nquarter (25.6%) of neighbourhoods are amongst the most deprived 20% of \nareas (the most deprived \u2018quintile\u2019), a particular focus for the health system \nfor tackling inequalities (the \u2018Core20\u2019).\nFinancial\nLike many local authorities Coventry is facing funding challenges, with \u00a330m \nof planned savings to deliver its balanced budget position in 2024/25 and \na projected \u00a314m budget shortfall in 2025/26. This reflects a combination \nof factors including funding received from central government coupled with \nrising demand and costs in social care and inflationary pressures. We need\n\n[Document 2] From coventry adult social care annual report 2014 15 (pdf) - 36 pages [Retrieved via: semantic_original]:\n[Page 6 - FINANCIAL/BUDGET INFORMATION]\nCoventry City Council \nAdult Social Care Workforce \nOver the last few years the workforce in Adult Social Care has been reduced. \nThere were 1354 workers on 31st July 2013 compared to 1222 on 31st July \n2014. \nThese reductions are due to budget cuts from central government. As a \nconsequence the amount of services provided has reduced, with services \nbeing prioritised on providing support to the most vulnerable in our \ncommunities. This trend is likely to continue over the coming years, given the \ncontext of further forecasted budget reductions.\nMoney  \nThe Council is a large organisation spending a net \u00a3260.7m on revenue \nactivity during 2014/15. Each year, the Council reviews its spending in light \nof existing and new legislation, the demographics of the city, available \nresources and the Council\u2019s own priorities and objectives in order to set a \nbudget.\nAs resources continued to be reduced, significant financial pressure existed\n\n[Document 3] From coventry adult social care annual report 2014 15 (pdf) - 36 pages [Retrieved via: semantic_original]:\nresources and the Council\u2019s own priorities and objectives in order to set a \nbudget.\nAs resources continued to be reduced, significant financial pressure existed \nthroughout 2014/15 and, with a further reduction in Revenue Support Grant \nof \u00a324m for 2015/16, this pressure will continue into the future.\nIn overall terms, between 2010/11 and 2015/16 the reduced Government \nfunding is equivalent to a like-for-like reduction of \u00a3638 for every Coventry \nhousehold.\nDirectorate2014/15\nNet Budget\n(\u00a3m)2014/15\nOutturn\n(\u00a3m)2014/15\nVariance\n(\u00a3m)\nChief Executives 2.0 2.0 0.0\nPublic Health 0.1 0.1 0.0\nPlace 33.5 33.0 (0.5)\nPeople 155.0 161.4 6.4\nResources 13.7 11.5 (2.2)\nContingency & Central Budgets 54.2 52.7 (1.5)\nSubtotal 258.5 260.7 2.2\nContribution from Reserves (2.2) (2.2)\nTotal City Council 258.5 258.5 0.0\n6\n\n[Document 4] From coventry adult social care annual report 2013 14 summary (pdf) - 14 pages [Retrieved via: semantic_original]:\n[Page 8 - FINANCIAL/BUDGET INFORMATION]\n8By 2016 Coventry City Council will have had its government funding cut by nearly a half since \n2010. This means significant savings need to be made to help the Council balance its budget. Adult Social Care will be required to make savings too. We must use these diminishing resources in the best way we can to support Coventry citizens and deliver the objectives set out in the City Council 10-year plan. This is at a time when we know there will be more older people, more people living with long-term health conditions and more people needing support from family and friends. \nTo support the delivery of change, an Adult Social Care Commissioning and Personalisation Plan \nhas been developed which includes an action plan on what changes we propose to make, how these changes will be delivered, and most importantly what improvement we will expect to see as a result over the next two years. The plan is available at\nwww.coventry.gov.uk/adultsocialcarecpp2014\n\n[Document 5] From coventry adult social care annual report 2015 16 (pdf) - 17 pages [Retrieved via: semantic_original]:\n[Page 6 - FINANCIAL/BUDGET INFORMATION]\n10\nMoney -\nCoventry City Council\nThe Council is a large organisation spending a net \u00a3239.7m on \nrevenue activity during 2015/16 with Adult Social Care being the biggest single area of City Council spend at \u00a374.9m net.  \nThe breakdown of this spend for 2015/16 is shown below:\nCentral Recharges0.1\n13.5\n6.6\n1.253.5\nCommissioning and Staffing Costs \nOther\nSpend on People\nTransport14.3\n15.65.7\n0.8\n8.7\n2.7\n2.13.6Day Opportunities\nDirect Payments\nEquipment & Adaptions\nHomecare\nHousing with Care\nNursing\nResidential\nSupported Living\n2015/16 Adult Social Care Net Spend (\u00a374.9m)2015/16 Net Spend on Services (\u00a353.5m)The \u2018Spend on People\u2019 referred to in the previous chart has increased marginally \nfrom \u00a352.7m in 2014/15.  \u2018Spend on People is money spent directly on the following services:\n\n[Document 6] From coventry adult social care self assessment 2023 24 (pdf) - 60 pages [Retrieved via: semantic_original]:\nof factors including funding received from central government coupled with \nrising demand and costs in social care and inflationary pressures. We need \nto ensure we spend every penny wisely \u2013 investing in efficient and effective \nservices that focus resources to the front-line, prioritising those who need \nour support the most. This is the focus for our One Coventry Transformation \nPlan, which will transform how we deliver many of our services in 2024 and \nbeyond. The local authority estimated that in 2023/24, its total budget would \nbe \u00a3260.5m. Its actual spend for that year was \u00a3262.3m which was \u00a31.8m \nmore than estimated. \n }The local authority estimated that it would spend \u00a3102.8m of its total \nbudget on adult social care in 2023/24. Its actual spend was \u00a3107.8m, \nwhich is \u00a34.9m more than estimated. \n }In 2023/24, 39% of the budget was spent on adult social care. \n }The local authority has raised the full adult social care precept for \n2023/24 and 2024/25.Coventry City Council: Position Statement | 1\n\n[Document 7] From adult social care annual report 2018 19 (pdf) - 38 pages [Retrieved via: semantic_original]:\nThe illustrations on this page give you an indication of the challenges we face:  \nBudget \u2013 Money Matters \nActivity \u2013 Facts & Figures \nDemographic \u2013 Drivers of Demand  \nOur Workforce  \nThe Council is a large organisation spending a net \u00a3233.4m on revenue activity during 2018/19.\nThe gross Adult Social Care spend in 2018/19 minus citizens\u2019 contributions was \u00a385.9m as  \nshown below.\nIn recent years we know that Coventry demonstrates comparatively \nlow spending as a local authority per 100,000 population.  The Local \nGovernment Association publishes information about spend later on in \nthe year but you can view last year\u2019s information here\n\n[Document 8] From adult social care annual report 2020 21 (pdf) - 48 pages [Retrieved via: semantic_original]:\n[Page 12 - FINANCIAL/BUDGET INFORMATION]\nBUDGET-MONEY MATTERS\nThe largest element of the increase \nrelates to Spend on People (provision of services)\nThe \u2018Spend on People\u2019 referred to in \nthe above chart has increased from2020/21  ADULT SOCIAL CARE SPEND (\u00a3103.2 m)\n2020/21  SPEND ON PEOPLE (\u00a379.5 m)\nCoventry still continues to be a comparatively low spending local authority per\n100,000\npopulation\u00a395m\nin 2019/20\n\u00a370.4m\nin 2019/20\n\u00a37.8m of that increase relates to \nthe additional support to providers referenced above. \u2018Spend on People\u2019 is money spent directly on the following servicesThis compares to a spend of\nHOW DO WE COMPARE?Setting the Scene -  \nAdult Social Care in a Changing Landscape\n12The demand for Adult Social Care rises every year as people live longer and there are more \npeople living longer with more complex needs.  \nBUDGET-MONEY MATTERS\nBUDGET-MONEY MATTERS\nIn recent years we know that Coventry demonstrates comparatively\n\n[Document 9] From coventry city council market position statement 2024 2029 (pdf) - 23 pages [Retrieved via: semantic_original]:\ndeliver services without consideration of our budgets \nand the wider financial position of the Council. \nWhilst these issues are not unique to Coventry, their \nimpact is affected by both local and national context \nincluding national living wage, inflationary pressures, \nthe general health and wellbeing of the residents of \nthe city and its subsequent impact on social care \ndemand. We will therefore be working with providers \nto ensure that both our services and our processes \nare working in the most efficient manner, utilising all \npossible resources and assets available.\nOur\u00a0Medium Term Financial Strategy 2022 - \n2025 \u00a0supports the medium term policy and financial \nplanning process that is at the heart of setting our \nrevenue and capital budgets. Technical Appendices \nNumber of people supported during the year (all client groups):\nNote, all figures are in city only.\n1829 18311900\n1884\n17801800182018401860188019001920\n2020/21 2021/22 2022/23 2023/24No. of people supported per annum\n\n[Document 10] From coventry local account for adult social care 2022 23 (pdf) - 52 pages [Retrieved via: semantic_original]:\nspent on homecare\u00a331.9m\nspent on housing \nwith care\u00a36.5m\n\u00a30.5mspent on\nindividual \nservice funds\n\u00a310.2mspent on\nnursingspent on \nsupported living\nCoventry still continues to be \na comparatively low spending local authority per\n100,000 populationHOW DO WE COMPARE?In recent years we know that Coventry demonstrates comparatively \nlow spending as a local authority per 100,000 population. The Local Government Association publish information about spend later on in the year but you can view information for 2021/22  \nhttps://lginform.local.gov.uk/reports/lgastandard?mod-\nmetric=1029&mod-area=E08000026&mod-group=ADASSRegions&mod-type=comparisonGroupTypeBUDGET-MONEY MATTERS\ncompared to 2021/22 spend  \nof \u00a3110.4m. The largest \nelement of the increase relates to Spend on People.\u00a3118.8m\nin 2022/23spent on \npeople\u00a391.5mspent on other\u00a30.3m\nspent on community, \nassessment and overheads\u00a320m\ninternal cost for  support \nservices including \nfinance, HR and \nLegal\u00a36.2m\n\u00a30.8m\nspent on transportThe gross Adult Social Care\n",
+  "answer": "Error generating answer: Single '}' encountered in format string",
+  "metrics": {
+    "duration_seconds": 1.0091309547424316,
+    "retrieved_docs_count": 10,
+    "query_length": 67,
+    "answer_length": 64,
+    "retrieval_method": "enhanced",
+    "context_utilization": 0.0019880715705765406,
+    "citations_count": 0,
+    "has_citations": false,
+    "query_relevance": 0.0,
+    "unique_retrieval_methods": 1,
+    "budget_documents_retrieved": 10,
+    "retrieval_methods_used": [
+      "semantic_original"
+    ],
+    "retrieval_method_distribution": {
+      "semantic_original": 10
+    }
+  },
+  "local_authority": "Coventry",
+  "query_id": "std_7",
+  "retrieval_method": "enhanced",
+  "run_id": "821a20b8-2d43-4ec0-bf45-9f71674862c8",
+  "trace": {
+    "run_id": "821a20b8-2d43-4ec0-bf45-9f71674862c8",
+    "project": "social_care_rag",
+    "url": "https://eu.smith.langchain.com/o/me/runs/821a20b8-2d43-4ec0-bf45-9f71674862c8"
+  },
+  "test_metadata": {
+    "local_authority": "Coventry",
+    "query_id": "std_7",
+    "query_category": "financial_standard",
+    "prompt_variation": "optimized",
+    "prompt_template": "\nPlease answer the following question about social care services in UK local authorities based only on the information in the provided documents.\n\nQuestion: {query}\n\nContext from relevant documents:\n{context}\n\nInstructions:\n1. Provide a clear, direct answer that would help someone needing this information. If information isn't available, state: \"The available documents don't provide specific information about [aspect].\"\n\n2. Synthesize information from ALL relevant documents to provide the most complete answer rather than analyzing documents individually.\n\n3. Structure your response with:\n   - A concise 1-2 sentence summary first\n   - Relevant details organized in short, clear paragraphs\n   - Bullet points for lists or step-by-step information\n   - Bold text for key information the user should notice\n\n4. For financial information:\n   - Include exact figures, time periods, and what the funding covers\n   - Present financial data clearly: \"The adult social care budget is **\u00a3X million** for [time period]\"\n\n5. Always include practical next steps or resources:\n   - Provide contact information, URLs, or application methods mentioned in the documents\n   - Suggest where the person could find more information\n\n6. When citing sources, use a simple format: \"According to [document name/description]\" or include URLs where available.\n\nAnswer:\n",
+    "processing_time": 1.0117840766906738,
+    "timestamp": "2025-08-17T22:39:48.193523",
+    "top_k": 10
+  }
+}

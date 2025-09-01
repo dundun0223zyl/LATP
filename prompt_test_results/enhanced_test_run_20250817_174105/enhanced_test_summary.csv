@@ -1,0 +1,62 @@
+local_authority,query_id,query_text,query_type,expected_info_type,prompt_variation,output_file,processing_time,error,trace_url,run_id,retrieved_docs_count,answer_length,answer,retrieval_method,enhanced_features_used
+Birmingham,std_1,What social care services are available in Birmingham and who is eligible for them?,services,service_list,optimized_budget,prompt_test_results/enhanced_test_run_20250817_174105/Birmingham/std_1/optimized_budget.json,9.43833875656128,,https://eu.smith.langchain.com/o/me/runs/77e07188-bff4-41dd-baf2-709a8d7d6652,77e07188-bff4-41dd-baf2-709a8d7d6652,15,1103,"**Direct Answer**: The specific social care services available in Birmingham and the eligibility criteria for them are not detailed in the provided documents.
+
+**Available Information**: The documents highlight that Birmingham City Council, along with other public organizations like the Birmingham and Solihull NHS ICB and Birmingham Children's Trust, are working together to improve health and social care services. They focus on aligning strategies and joint commissioning initiatives to enhance service delivery. However, specific services and eligibility criteria are not explicitly mentioned.
+
+**Context**: The information comes from documents related to Birmingham City Council's strategies and financial plans for health and social care services. These documents discuss the collaborative efforts and financial challenges faced by the council but do not provide detailed descriptions of specific services or eligibility criteria. The documents are retrieved from Birmingham City Council's official website, focusing on strategies, feedback, and complaints, as well as providers of care services.",enhanced,"{'enhanced_retrieval': True, 'retrieval_strategy': 'hybrid'}"
+Birmingham,std_2,What is the process for requesting a social care assessment in Birmingham?,process,procedure,optimized_budget,prompt_test_results/enhanced_test_run_20250817_174105/Birmingham/std_2/optimized_budget.json,7.874038934707642,,https://eu.smith.langchain.com/o/me/runs/ddeecfcd-eb01-4952-83ac-93230da9f51a,ddeecfcd-eb01-4952-83ac-93230da9f51a,15,1257,"To request a social care assessment in Birmingham, the process involves having a ""conversation"" with a social care worker. This conversation is designed to assess your situation and discuss appropriate support options. Here are the key points about the process:
+
+- **No Charge**: There is no charge for this assessment.
+- **Focus on Independence and Wellbeing**: The aim is to promote your independence and wellbeing through personalized care and support.
+- **Strengths-Based Approach**: The assessment focuses on your strengths and the outcomes you want to achieve, giving you choice and control.
+- **Conversational Assessment**: Instead of using prescribed assessment questions, the social care worker will engage in a conversation to understand what is most important to you, your concerns, and what you have already tried.
+- **Collaborative Process**: The process involves working with you as an expert in your own life, listening to 'what matters' to you rather than 'what is the matter' with you.
+- **Community and Family Support**: The assessment also considers the support you receive from family, friends, and the community.
+
+This information is based on the details provided in Document 1 and Document 2 from the Birmingham City Council's website.",enhanced,"{'enhanced_retrieval': True, 'retrieval_strategy': 'hybrid'}"
+Birmingham,std_3,What are the costs of care services in Birmingham and how do residents pay for these services?,costs,financial,optimized_budget,prompt_test_results/enhanced_test_run_20250817_174105/Birmingham/std_3/optimized_budget.json,8.195942878723145,,https://eu.smith.langchain.com/o/me/runs/c2e8dc5a-c248-4af0-92d3-608f029390f5,c2e8dc5a-c248-4af0-92d3-608f029390f5,15,1013,"**Direct Answer**: No specific figure for the costs residents pay for care services in Birmingham is provided in the available documents.
+
+**Available Information**: 
+- The documents indicate that Birmingham City Council is expected to spend £357 million on adult social care for the year 2022/2023. This represents 47% of the Council's overall net budget. Additionally, £207 million is allocated to be spent through proposed contracts funded from the Adult Social Care budgets.
+- The documents do not provide specific details on how residents pay for these services or the exact costs incurred by residents.
+
+**Context**: 
+- The information comes from documents related to Birmingham City Council's financial planning and strategies for adult social care. These documents discuss the council's budget allocations and financial challenges but do not detail individual payment structures for residents. The sources include various reports and strategies available on the Birmingham City Council's official website.",enhanced,"{'enhanced_retrieval': True, 'retrieval_strategy': 'hybrid'}"
+Birmingham,std_4,"What additional resources and support services are available for social care users in Birmingham, including advocacy and complaints services?",support,service_list,optimized_budget,prompt_test_results/enhanced_test_run_20250817_174105/Birmingham/std_4/optimized_budget.json,8.79374098777771,,https://eu.smith.langchain.com/o/me/runs/e443ba65-8507-421e-96ca-e78328dbf358,e443ba65-8507-421e-96ca-e78328dbf358,15,1550,"**Direct Answer:**
+In Birmingham, additional resources and support services available for social care users include advocacy services and a range of support options for carers and individuals with specific needs.
+
+**Available Information:**
+- **Advocacy Services:**
+  - Independent Mental Capacity Advocacy (IMCA)
+  - Independent Mental Health Advocacy (IMHA)
+  - Care Act Advocacy
+  - NHS Complaints Advocacy
+  - Community Advocacy
+
+  To access these advocacy services, individuals need to complete a referral form available on the Birmingham Advocacy Hub website. Forms can be submitted via email, post, or fax.
+
+- **Support Services:**
+  - Birmingham Connect to Support: A website providing information and advice on social care, including a community directory of support groups, activities, and local resources.
+  - Birmingham Carers Hub: Offers a wide range of support and services to carers.
+  - Community Neighbourhood Support Team: Helps navigate community help.
+  - Community Occupational Therapy and Social Worker drop-in sessions.
+  - Support for those with sight or hearing issues, or physical frailty.
+  - Assistive technology and Family Group Conferencing (FGC).
+
+**Context:**
+The information is gathered from multiple documents provided by Birmingham City Council's official website, detailing various adult social care support services, advocacy options, and community resources available to residents. These documents emphasize the council's commitment to helping individuals remain independent and supported within their community.",enhanced,"{'enhanced_retrieval': True, 'retrieval_strategy': 'hybrid'}"
+Birmingham,std_6,What is Birmingham's total annual budget?,budget,budget_total,optimized_budget,prompt_test_results/enhanced_test_run_20250817_174105/Birmingham/std_6/optimized_budget.json,6.694584608078003,,https://eu.smith.langchain.com/o/me/runs/76bc26bc-b3f8-46db-9d87-08d094d2823e,76bc26bc-b3f8-46db-9d87-08d094d2823e,15,793,"**Direct Answer**: No specific figure for Birmingham's total annual budget is provided in the available documents.
+
+**Available Information**: The documents mention that Birmingham City Council is estimated to spend £357 million on adult social care for the year 2022/2023. This amount comprises 47% of the Council’s overall net budget. However, the total annual budget for Birmingham City Council as a whole is not explicitly stated.
+
+**Context**: The information comes from documents related to Birmingham City Council's financial planning and social care services, specifically focusing on the budget for adult social care. The documents discuss financial challenges, expected expenditures, and savings requirements but do not provide a comprehensive figure for the entire council's budget.",enhanced,"{'enhanced_retrieval': True, 'retrieval_strategy': 'hybrid'}"
+Birmingham,std_7,What specific savings targets has Birmingham set in its budget plans?,budget,budget_savings,optimized_budget,prompt_test_results/enhanced_test_run_20250817_174105/Birmingham/std_7/optimized_budget.json,5.5225677490234375,,https://eu.smith.langchain.com/o/me/runs/9894d285-f1c2-4495-aaee-44f3702d9fe1,9894d285-f1c2-4495-aaee-44f3702d9fe1,15,889,"**Direct Answer**: Birmingham has set specific savings targets of **£4.3 million** for the fiscal year 2022/23 and a further **£7 million** for 2023/24.
+
+**Available Information**: The documents indicate that Birmingham City Council is facing financial challenges and has outlined these savings targets as part of its Financial Plan. The plan details the expected expenditure, income, and necessary savings for the years 2022 and beyond.
+
+**Context**: This information is derived from documents related to Birmingham City Council's financial planning and social care services. Specifically, it is mentioned in the context of the council's efforts to manage financial sustainability in the social care system, which is a significant part of the council's budget. The documents emphasize the challenging nature of these savings plans and the limited opportunities for alternative strategies.",enhanced,"{'enhanced_retrieval': True, 'retrieval_strategy': 'hybrid'}"
+Birmingham,std_9,What is the current budget allocation for Adult Social Care in Birmingham?,budget,budget_social_care,optimized_budget,prompt_test_results/enhanced_test_run_20250817_174105/Birmingham/std_9/optimized_budget.json,5.9688310623168945,,https://eu.smith.langchain.com/o/me/runs/5702c6cb-8a2b-456b-b422-0a8ad7c18ccd,5702c6cb-8a2b-456b-b422-0a8ad7c18ccd,15,848,"**Direct Answer**: The budget allocation for Adult Social Care in Birmingham is **£357 million** for the 2022/2023 period.
+
+**Available Information**: This figure represents the estimated spending on adult social care by Birmingham City Council for the fiscal year 2022/2023. It comprises 47% of the Council’s overall net budget. Additionally, there are required savings of £4.3 million for 2022/23 and a further £7 million in 2023/24.
+
+**Context**: According to Document 1, the financial sustainability of the social care system is a significant issue, and Birmingham City Council has outlined its financial plan, which includes the budget for adult social care. This information is retrieved from a document detailing the resources and financial challenges faced by the Council, specifically focusing on the budget for adult social care services.",enhanced,"{'enhanced_retrieval': True, 'retrieval_strategy': 'hybrid'}"

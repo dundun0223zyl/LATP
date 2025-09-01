@@ -1,0 +1,275 @@
+{
+  "query": "I'm experiencing domestic abuse in york and need to leave with my children. What emergency social care and housing support can I access?",
+  "retrieved_documents": [
+    {
+      "content": ". York's Local Offer York's Local Offer provides support and information for children and young people with special educational needs and/or a disability. Also see Advice for carers Short breaks and holidays for carers Health and social care Adult social care Adult Social Care Community Team Telephone: 01904 555111, Textphone: 07534 437804 West Offices, Station Rise, York, YO1 6GA Email: adult.socialsupport@york.gov.uk Adult Social Care Emergency Duty Team Contact the Emergency Duty Team for assistance. We're available between 5.00pm and 8.30am, Monday to Friday, 24 hours a day over weekends (between 5.00pm Friday until 8.30am Monday), and 24 hours on bank holidays. Telephone: 0300 1312131 Children's Services Team Multi Agency Safeguarding Hub (MASH) Team West Offices, Station Rise, York, YO1 6GA Telephone: 01904 551900 Email: mash@york.gov.uk Comment on this page",
+      "metadata": {
+        "chunk_id": 5,
+        "filename": "www.york.gov.uk_carers-1_young-carers.txt",
+        "level": "level_2",
+        "source": "https://www.york.gov.uk/carers-1/young-carers",
+        "source_url": "https://www.york.gov.uk/carers-1/young-carers",
+        "total_chunks": 6,
+        "type": "web_page"
+      },
+      "id": "7fdc24b2-2295-4e46-9bb4-618f8395f9b5",
+      "distance": 0.5419074296951294,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1874277710914612,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". York's Local Offer York's Local Offer provides support and information for children and young people with special educational needs and/or a disability. Also see Advice for carers Short breaks and holidays for carers Health and social care Adult social care Adult Social Care Community Team Telephone: 01904 555111, Textphone: 07534 437804 West Offices, Station Rise, York, YO1 6GA Email: adult.socialsupport@york.gov.uk Adult Social Care Emergency Duty Team Contact the Emergency Duty Team for assistance. We're available between 5.00pm and 8.30am, Monday to Friday, 24 hours a day over weekends (between 5.00pm Friday until 8.30am Monday), and 24 hours on bank holidays. Telephone: 0300 1312131 Children's Services Team Multi Agency Safeguarding Hub (MASH) Team West Offices, Station Rise, York, YO1 6GA Telephone: 01904 551900 Email: mash@york.gov.uk Comment on this page",
+      "metadata": {
+        "chunk_id": 5,
+        "filename": "www.york.gov.uk_YoungCarers.txt",
+        "level": "level_1",
+        "source": "https://www.york.gov.uk/YoungCarers",
+        "source_url": "https://www.york.gov.uk/YoungCarers",
+        "total_chunks": 6,
+        "type": "web_page"
+      },
+      "id": "b7e87405-513d-49f7-9208-50e8b79d5b13",
+      "distance": 0.5419074296951294,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1874277710914612,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Find out about making a complaint that's not related to your financial assessment. Also see Get adult social care Residential care Assessing your needs Social care costs from 18 years of age Choosing your care and support (including Direct Payments) Paying for independent living with 24-hour support Live Well York Adult Social Care Community Team Telephone: 01904 555111, Textphone: 07534 437804 West Offices, Station Rise, York, YO1 6GA Email: adult.socialsupport@york.gov.uk Adult Social Care Emergency Duty Team Contact the Emergency Duty Team for assistance. We're available between 5.00pm and 8.30am, Monday to Friday, 24 hours a day over weekends (between 5.00pm Friday until 8.30am Monday), and 24 hours on bank holidays. Telephone: 0300 1312131 Comment on this page Next page : Get advice about care and support finances Previous page : Non-payment of care fees and debt recovery Pay for care online Pay residential care invoices Pay home care invoices Pay social housing invoices",
+      "metadata": {
+        "chunk_id": 3,
+        "filename": "www.york.gov.uk_personalisation-care_paying-care_4.txt",
+        "level": "level_2",
+        "source": "https://www.york.gov.uk/personalisation-care/paying-care/4",
+        "source_url": "https://www.york.gov.uk/personalisation-care/paying-care/4",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "7ee81985-766e-4e79-a23a-0a0cee5fe1e2",
+      "distance": 0.5455836653709412,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.18632490038871763,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". If you choose this option, we recommend seeking further financial information and advice . Also see Get adult social care Residential care Assessing your needs Social care costs from 18 years of age Choosing your care and support (including Direct Payments) Paying for independent living with 24-hour support Live Well York Adult Social Care Community Team Telephone: 01904 555111, Textphone: 07534 437804 West Offices, Station Rise, York, YO1 6GA Email: adult.socialsupport@york.gov.uk Adult Social Care Emergency Duty Team Contact the Emergency Duty Team for assistance. We're available between 5.00pm and 8.30am, Monday to Friday, 24 hours a day over weekends (between 5.00pm Friday until 8.30am Monday), and 24 hours on bank holidays. Telephone: 0300 1312131 Comment on this page Next page : Non-payment of care fees and debt recovery Previous page : Paying for care Pay for care online Pay residential care invoices Pay home care invoices Pay social housing invoices",
+      "metadata": {
+        "chunk_id": 4,
+        "filename": "www.york.gov.uk_personalisation-care_paying-care_2.txt",
+        "level": "level_2",
+        "source": "https://www.york.gov.uk/personalisation-care/paying-care/2",
+        "source_url": "https://www.york.gov.uk/personalisation-care/paying-care/2",
+        "total_chunks": 5,
+        "type": "web_page"
+      },
+      "id": "ce621ca4-148f-41c5-809d-5e3c594c5efb",
+      "distance": 0.5573564767837524,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.18279305696487425,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". For further information, contact the Adult Social Care Team. Disabled Facilities Grant You may also be able to apply for a Disabled Facilities Grant (DFG) which can help to pay for work on your home to help you live more independently. You can take the Housing Adaptation self assessment to take you through your\u00a0home environment and ability to access facilities and\u00a0produce\u00a0a\u00a0percent score for how suitable your home is. You can also use the Means Test Calculator to estimate how much you may need to pay for a DFG. Also see Adult social care Be Independent Adult Social Care Community Team Telephone: 01904 555111, Textphone: 07534 437804 West Offices, Station Rise, York, YO1 6GA Email: adult.socialsupport@york.gov.uk Adult Social Care Emergency Duty Team Contact the Emergency Duty Team for assistance. We're available between 5.00pm and 8.30am, Monday to Friday, 24 hours a day over weekends (between 5.00pm Friday until 8.30am Monday), and 24 hours on bank holidays. Telephone: 0300 1312131 Comment on this page",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.york.gov.uk_adult-social-care_occupational-therapy.txt",
+        "level": "level_2",
+        "source": "https://www.york.gov.uk/adult-social-care/occupational-therapy",
+        "source_url": "https://www.york.gov.uk/adult-social-care/occupational-therapy",
+        "total_chunks": 3,
+        "type": "web_page"
+      },
+      "id": "dd92fdb0-46ac-483e-8585-d0650709e906",
+      "distance": 0.5819396376609802,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.17541810870170593,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". For further information, contact the Adult Social Care Team. Disabled Facilities Grant You may also be able to apply for a Disabled Facilities Grant (DFG) which can help to pay for work on your home to help you live more independently. You can take the Housing Adaptation self assessment to take you through your\u00a0home environment and ability to access facilities and\u00a0produce\u00a0a\u00a0percent score for how suitable your home is. You can also use the Means Test Calculator to estimate how much you may need to pay for a DFG. Also see Adult social care Be Independent Adult Social Care Community Team Telephone: 01904 555111, Textphone: 07534 437804 West Offices, Station Rise, York, YO1 6GA Email: adult.socialsupport@york.gov.uk Adult Social Care Emergency Duty Team Contact the Emergency Duty Team for assistance. We're available between 5.00pm and 8.30am, Monday to Friday, 24 hours a day over weekends (between 5.00pm Friday until 8.30am Monday), and 24 hours on bank holidays. Telephone: 0300 1312131 Comment on this page",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.york.gov.uk_OccupationalTherapy.txt",
+        "level": "level_1",
+        "source": "https://www.york.gov.uk/OccupationalTherapy",
+        "source_url": "https://www.york.gov.uk/OccupationalTherapy",
+        "total_chunks": 3,
+        "type": "web_page"
+      },
+      "id": "9127f25f-0362-4f37-8e03-a81820e62dcf",
+      "distance": 0.5819397568702698,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1754180729389191,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". If your assessment identifies that you're eligible, we'll help to arrange your social care services. If your needs are less severe, we will offer you advice about other services and organisations which may help you in your daily life, including: available benefits local services care providers Also see Find support in your community Adult social care Live Well York Adult Social Care Community Team Telephone: 01904 555111, Textphone: 07534 437804 West Offices, Station Rise, York, YO1 6GA Email: adult.socialsupport@york.gov.uk Adult Social Care Emergency Duty Team Contact the Emergency Duty Team for assistance. We're available between 5.00pm and 8.30am, Monday to Friday, 24 hours a day over weekends (between 5.00pm Friday until 8.30am Monday), and 24 hours on bank holidays. Telephone: 0300 1312131 Comment on this page",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.york.gov.uk_personalisation-care_get-adult-social-care.txt",
+        "level": "level_2",
+        "source": "https://www.york.gov.uk/personalisation-care/get-adult-social-care",
+        "source_url": "https://www.york.gov.uk/personalisation-care/get-adult-social-care",
+        "total_chunks": 3,
+        "type": "web_page"
+      },
+      "id": "f574fa46-d040-4f3d-b923-8ef6b69e154d",
+      "distance": 0.582400381565094,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1752798855304718,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". If your assessment identifies that you're eligible, we'll help to arrange your social care services. If your needs are less severe, we will offer you advice about other services and organisations which may help you in your daily life, including: available benefits local services care providers Also see Find support in your community Adult social care Live Well York Adult Social Care Community Team Telephone: 01904 555111, Textphone: 07534 437804 West Offices, Station Rise, York, YO1 6GA Email: adult.socialsupport@york.gov.uk Adult Social Care Emergency Duty Team Contact the Emergency Duty Team for assistance. We're available between 5.00pm and 8.30am, Monday to Friday, 24 hours a day over weekends (between 5.00pm Friday until 8.30am Monday), and 24 hours on bank holidays. Telephone: 0300 1312131 Comment on this page",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.york.gov.uk_GetAdultSocialCare.txt",
+        "level": "level_1",
+        "source": "https://www.york.gov.uk/GetAdultSocialCare",
+        "source_url": "https://www.york.gov.uk/GetAdultSocialCare",
+        "total_chunks": 3,
+        "type": "web_page"
+      },
+      "id": "c7ac60dc-8676-499b-b7cc-8220f91498d7",
+      "distance": 0.582400381565094,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1752798855304718,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". If you think your assessment is incorrect (or your circumstances change) request a reassessment via our Income Services Team, telephone: 01904 552044 or email benefitscontributions@york.gov.uk . Your social worker will request a reassessment if your care needs change and a different type of assessment is required (for example if you're moving from your home into permanent care). Also see Get adult social care Residential care Social care costs from 18 years of age Choosing your care and support (including Direct Payments) Paying for independent living with 24-hour support Live Well York Adult Commissioning Team Communities and Prevention Team, West Offices, Station Rise, York, YO1 6GA Telephone: 01904 554595 Email: livewellyork@york.gov.uk Live Well York Adult Social Care Emergency Duty Team Contact the Emergency Duty Team for assistance. We're available between 5.00pm and 8.30am, Monday to Friday, 24 hours a day over weekends (between 5.00pm Friday until 8.30am Monday), and 24 hours on bank holidays",
+      "metadata": {
+        "chunk_id": 4,
+        "filename": "www.york.gov.uk_personalisation-care_paying-care_3.txt",
+        "level": "level_2",
+        "source": "https://www.york.gov.uk/personalisation-care/paying-care/3",
+        "source_url": "https://www.york.gov.uk/personalisation-care/paying-care/3",
+        "total_chunks": 6,
+        "type": "web_page"
+      },
+      "id": "720470dc-496f-4717-a798-4aa135ed9480",
+      "distance": 0.598174512386322,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1705476462841034,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Also see Adult social care Adult social care - accessible information AccessAble in York Adult Social Care Community Team Telephone: 01904 555111, Textphone: 07534 437804 West Offices, Station Rise, York, YO1 6GA Email: adult.socialsupport@york.gov.uk Adult Social Care Emergency Duty Team Contact the Emergency Duty Team for assistance. We're available between 5.00pm and 8.30am, Monday to Friday, 24 hours a day over weekends (between 5.00pm Friday until 8.30am Monday), and 24 hours on bank holidays. Telephone: 0300 1312131 Comment on this page",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.york.gov.uk_SupportWithDisabilities.txt",
+        "level": "level_1",
+        "source": "https://www.york.gov.uk/SupportWithDisabilities",
+        "source_url": "https://www.york.gov.uk/SupportWithDisabilities",
+        "total_chunks": 3,
+        "type": "web_page"
+      },
+      "id": "f4f5d0f9-513f-42f3-bcf4-9a2b6191652d",
+      "distance": 0.6010802388191223,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.16967592835426332,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    }
+  ],
+  "context": "[Document 1] From https://www (web_page) - URL: https://www.york.gov.uk/carers-1/young-carers [Retrieved via: semantic_original]:\n. York's Local Offer York's Local Offer provides support and information for children and young people with special educational needs and/or a disability. Also see Advice for carers Short breaks and holidays for carers Health and social care Adult social care Adult Social Care Community Team Telephone: 01904 555111, Textphone: 07534 437804 West Offices, Station Rise, York, YO1 6GA Email: adult.socialsupport@york.gov.uk Adult Social Care Emergency Duty Team Contact the Emergency Duty Team for assistance. We're available between 5.00pm and 8.30am, Monday to Friday, 24 hours a day over weekends (between 5.00pm Friday until 8.30am Monday), and 24 hours on bank holidays. Telephone: 0300 1312131 Children's Services Team Multi Agency Safeguarding Hub (MASH) Team West Offices, Station Rise, York, YO1 6GA Telephone: 01904 551900 Email: mash@york.gov.uk Comment on this page\n\n[Document 2] From https://www (web_page) - URL: https://www.york.gov.uk/YoungCarers [Retrieved via: semantic_original]:\n. York's Local Offer York's Local Offer provides support and information for children and young people with special educational needs and/or a disability. Also see Advice for carers Short breaks and holidays for carers Health and social care Adult social care Adult Social Care Community Team Telephone: 01904 555111, Textphone: 07534 437804 West Offices, Station Rise, York, YO1 6GA Email: adult.socialsupport@york.gov.uk Adult Social Care Emergency Duty Team Contact the Emergency Duty Team for assistance. We're available between 5.00pm and 8.30am, Monday to Friday, 24 hours a day over weekends (between 5.00pm Friday until 8.30am Monday), and 24 hours on bank holidays. Telephone: 0300 1312131 Children's Services Team Multi Agency Safeguarding Hub (MASH) Team West Offices, Station Rise, York, YO1 6GA Telephone: 01904 551900 Email: mash@york.gov.uk Comment on this page\n\n[Document 3] From https://www (web_page) - URL: https://www.york.gov.uk/personalisation-care/paying-care/4 [Retrieved via: semantic_original]:\n. Find out about making a complaint that's not related to your financial assessment. Also see Get adult social care Residential care Assessing your needs Social care costs from 18 years of age Choosing your care and support (including Direct Payments) Paying for independent living with 24-hour support Live Well York Adult Social Care Community Team Telephone: 01904 555111, Textphone: 07534 437804 West Offices, Station Rise, York, YO1 6GA Email: adult.socialsupport@york.gov.uk Adult Social Care Emergency Duty Team Contact the Emergency Duty Team for assistance. We're available between 5.00pm and 8.30am, Monday to Friday, 24 hours a day over weekends (between 5.00pm Friday until 8.30am Monday), and 24 hours on bank holidays. Telephone: 0300 1312131 Comment on this page Next page : Get advice about care and support finances Previous page : Non-payment of care fees and debt recovery Pay for care online Pay residential care invoices Pay home care invoices Pay social housing invoices\n\n[Document 4] From https://www (web_page) - URL: https://www.york.gov.uk/personalisation-care/paying-care/2 [Retrieved via: semantic_original]:\n. If you choose this option, we recommend seeking further financial information and advice . Also see Get adult social care Residential care Assessing your needs Social care costs from 18 years of age Choosing your care and support (including Direct Payments) Paying for independent living with 24-hour support Live Well York Adult Social Care Community Team Telephone: 01904 555111, Textphone: 07534 437804 West Offices, Station Rise, York, YO1 6GA Email: adult.socialsupport@york.gov.uk Adult Social Care Emergency Duty Team Contact the Emergency Duty Team for assistance. We're available between 5.00pm and 8.30am, Monday to Friday, 24 hours a day over weekends (between 5.00pm Friday until 8.30am Monday), and 24 hours on bank holidays. Telephone: 0300 1312131 Comment on this page Next page : Non-payment of care fees and debt recovery Previous page : Paying for care Pay for care online Pay residential care invoices Pay home care invoices Pay social housing invoices\n\n[Document 5] From https://www (web_page) - URL: https://www.york.gov.uk/adult-social-care/occupational-therapy [Retrieved via: semantic_original]:\n. For further information, contact the Adult Social Care Team. Disabled Facilities Grant You may also be able to apply for a Disabled Facilities Grant (DFG) which can help to pay for work on your home to help you live more independently. You can take the Housing Adaptation self assessment to take you through your\u00a0home environment and ability to access facilities and\u00a0produce\u00a0a\u00a0percent score for how suitable your home is. You can also use the Means Test Calculator to estimate how much you may need to pay for a DFG. Also see Adult social care Be Independent Adult Social Care Community Team Telephone: 01904 555111, Textphone: 07534 437804 West Offices, Station Rise, York, YO1 6GA Email: adult.socialsupport@york.gov.uk Adult Social Care Emergency Duty Team Contact the Emergency Duty Team for assistance. We're available between 5.00pm and 8.30am, Monday to Friday, 24 hours a day over weekends (between 5.00pm Friday until 8.30am Monday), and 24 hours on bank holidays. Telephone: 0300 1312131 Comment on this page\n\n[Document 6] From https://www (web_page) - URL: https://www.york.gov.uk/OccupationalTherapy [Retrieved via: semantic_original]:\n. For further information, contact the Adult Social Care Team. Disabled Facilities Grant You may also be able to apply for a Disabled Facilities Grant (DFG) which can help to pay for work on your home to help you live more independently. You can take the Housing Adaptation self assessment to take you through your\u00a0home environment and ability to access facilities and\u00a0produce\u00a0a\u00a0percent score for how suitable your home is. You can also use the Means Test Calculator to estimate how much you may need to pay for a DFG. Also see Adult social care Be Independent Adult Social Care Community Team Telephone: 01904 555111, Textphone: 07534 437804 West Offices, Station Rise, York, YO1 6GA Email: adult.socialsupport@york.gov.uk Adult Social Care Emergency Duty Team Contact the Emergency Duty Team for assistance. We're available between 5.00pm and 8.30am, Monday to Friday, 24 hours a day over weekends (between 5.00pm Friday until 8.30am Monday), and 24 hours on bank holidays. Telephone: 0300 1312131 Comment on this page\n\n[Document 7] From https://www (web_page) - URL: https://www.york.gov.uk/personalisation-care/get-adult-social-care [Retrieved via: semantic_original]:\n. If your assessment identifies that you're eligible, we'll help to arrange your social care services. If your needs are less severe, we will offer you advice about other services and organisations which may help you in your daily life, including: available benefits local services care providers Also see Find support in your community Adult social care Live Well York Adult Social Care Community Team Telephone: 01904 555111, Textphone: 07534 437804 West Offices, Station Rise, York, YO1 6GA Email: adult.socialsupport@york.gov.uk Adult Social Care Emergency Duty Team Contact the Emergency Duty Team for assistance. We're available between 5.00pm and 8.30am, Monday to Friday, 24 hours a day over weekends (between 5.00pm Friday until 8.30am Monday), and 24 hours on bank holidays. Telephone: 0300 1312131 Comment on this page\n\n[Document 8] From https://www (web_page) - URL: https://www.york.gov.uk/GetAdultSocialCare [Retrieved via: semantic_original]:\n. If your assessment identifies that you're eligible, we'll help to arrange your social care services. If your needs are less severe, we will offer you advice about other services and organisations which may help you in your daily life, including: available benefits local services care providers Also see Find support in your community Adult social care Live Well York Adult Social Care Community Team Telephone: 01904 555111, Textphone: 07534 437804 West Offices, Station Rise, York, YO1 6GA Email: adult.socialsupport@york.gov.uk Adult Social Care Emergency Duty Team Contact the Emergency Duty Team for assistance. We're available between 5.00pm and 8.30am, Monday to Friday, 24 hours a day over weekends (between 5.00pm Friday until 8.30am Monday), and 24 hours on bank holidays. Telephone: 0300 1312131 Comment on this page\n\n[Document 9] From https://www (web_page) - URL: https://www.york.gov.uk/personalisation-care/paying-care/3 [Retrieved via: semantic_original]:\n. If you think your assessment is incorrect (or your circumstances change) request a reassessment via our Income Services Team, telephone: 01904 552044 or email benefitscontributions@york.gov.uk . Your social worker will request a reassessment if your care needs change and a different type of assessment is required (for example if you're moving from your home into permanent care). Also see Get adult social care Residential care Social care costs from 18 years of age Choosing your care and support (including Direct Payments) Paying for independent living with 24-hour support Live Well York Adult Commissioning Team Communities and Prevention Team, West Offices, Station Rise, York, YO1 6GA Telephone: 01904 554595 Email: livewellyork@york.gov.uk Live Well York Adult Social Care Emergency Duty Team Contact the Emergency Duty Team for assistance. We're available between 5.00pm and 8.30am, Monday to Friday, 24 hours a day over weekends (between 5.00pm Friday until 8.30am Monday), and 24 hours on bank holidays\n\n[Document 10] From https://www (web_page) - URL: https://www.york.gov.uk/SupportWithDisabilities [Retrieved via: semantic_original]:\n. Also see Adult social care Adult social care - accessible information AccessAble in York Adult Social Care Community Team Telephone: 01904 555111, Textphone: 07534 437804 West Offices, Station Rise, York, YO1 6GA Email: adult.socialsupport@york.gov.uk Adult Social Care Emergency Duty Team Contact the Emergency Duty Team for assistance. We're available between 5.00pm and 8.30am, Monday to Friday, 24 hours a day over weekends (between 5.00pm Friday until 8.30am Monday), and 24 hours on bank holidays. Telephone: 0300 1312131 Comment on this page\n",
+  "answer": "If you are experiencing domestic abuse in York and need emergency social care and housing support, you can contact the **Children's Services Team Multi Agency Safeguarding Hub (MASH) Team** for immediate assistance. They can provide support and guidance for you and your children.\n\n**Key Contacts:**\n- **Children's Services Team (MASH)**\n  - **Telephone:** 01904 551900\n  - **Email:** mash@york.gov.uk\n  - **Address:** West Offices, Station Rise, York, YO1 6GA\n\nFor out-of-hours support, you can reach the **Adult Social Care Emergency Duty Team**, which is available 24 hours a day over weekends and bank holidays, and from 5.00pm to 8.30am on weekdays.\n\n**Emergency Duty Team Contact:**\n- **Telephone:** 0300 1312131\n\nThese teams can help coordinate emergency housing and social care support. For more detailed information and additional resources, you can visit the City of York Council's website or contact them directly through the provided phone numbers and email addresses.",
+  "metrics": {
+    "duration_seconds": 9.936135053634644,
+    "retrieved_docs_count": 10,
+    "query_length": 136,
+    "answer_length": 980,
+    "retrieval_method": "enhanced",
+    "context_utilization": 0.26244343891402716,
+    "citations_count": 0,
+    "has_citations": false,
+    "query_relevance": 0.7368421052631579,
+    "unique_retrieval_methods": 1,
+    "budget_documents_retrieved": 0,
+    "retrieval_methods_used": [
+      "semantic_original"
+    ],
+    "retrieval_method_distribution": {
+      "semantic_original": 10
+    }
+  },
+  "local_authority": "york",
+  "query_id": "scn_27",
+  "retrieval_method": "enhanced",
+  "run_id": "c2c11bce-5e54-4616-ba29-9936501e1700",
+  "trace": {
+    "run_id": "c2c11bce-5e54-4616-ba29-9936501e1700",
+    "project": "social_care_rag",
+    "url": "https://eu.smith.langchain.com/o/me/runs/c2c11bce-5e54-4616-ba29-9936501e1700"
+  },
+  "test_metadata": {
+    "local_authority": "york",
+    "query_id": "scn_27",
+    "query_category": "emergency_scenarios",
+    "prompt_variation": "optimized",
+    "prompt_template": "\nPlease answer the following question about social care services in UK local authorities based only on the information in the provided documents.\n\nQuestion: {query}\n\nContext from relevant documents:\n{context}\n\nInstructions:\n1. Provide a clear, direct answer that would help someone needing this information. If information isn't available, state: \"The available documents don't provide specific information about [aspect].\"\n\n2. Synthesize information from ALL relevant documents to provide the most complete answer rather than analyzing documents individually.\n\n3. Structure your response with:\n   - A concise 1-2 sentence summary first\n   - Relevant details organized in short, clear paragraphs\n   - Bullet points for lists or step-by-step information\n   - Bold text for key information the user should notice\n\n4. For financial information:\n   - Include exact figures, time periods, and what the funding covers\n   - Present financial data clearly: \"The adult social care budget is **\u00a3X million** for [time period]\"\n\n5. Always include practical next steps or resources:\n   - Provide contact information, URLs, or application methods mentioned in the documents\n   - Suggest where the person could find more information\n\n6. When citing sources, use a simple format: \"According to [document name/description]\" or include URLs where available.\n\nAnswer:\n",
+    "processing_time": 9.94272780418396,
+    "timestamp": "2025-08-19T14:22:57.919725",
+    "top_k": 10
+  }
+}

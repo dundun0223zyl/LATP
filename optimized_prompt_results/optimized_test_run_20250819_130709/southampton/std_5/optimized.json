@@ -1,0 +1,293 @@
+{
+  "query": "What accessibility options does southampton provide for accessing social care information, including translations or easy-read formats?",
+  "retrieved_documents": [
+    {
+      "content": "--\n\nWhat information and services are available? You can view our directory to find services in Southampton that can offer support to carers. Advice and guidance Support for parents/carers of children with SEND Carer Aware e-learning Unpaid Carers Support Southampton Carers Together NHS - Social care and support guide Challenging Behaviour Foundation - help for carers and families Carer's Allowance Carers' support lines Dementia UK Flexible working Buzz Network - For Parent/Carers Of Disabled Children Back Your path to help and advice Self-assessment home \u25bc Support for carers \u25bc What information and services are available?",
+      "metadata": {
+        "chunk_id": 0,
+        "filename": "www.southampton.gov.uk_self-assessment-tool_support-for-carers_information-and-services-that-support.txt",
+        "level": "level_3",
+        "source": "https://www.southampton.gov.uk/self-assessment-tool/support-for-carers/information-and-services-that-support-carers/",
+        "source_url": "https://www.southampton.gov.uk/self-assessment-tool/support-for-carers/information-and-services-that-support-carers/",
+        "total_chunks": 1,
+        "type": "web_page"
+      },
+      "id": "8a4be47a-4b81-4113-b334-cf37924d7ba7",
+      "distance": 0.676835834980011,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1469492495059967,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "In this section Care information and professionals (current) Data and records Background information about Adult Social Care Wellbeing resources for care staff Adult social care professional referral Southampton Safeguarding Adults Board Data and records Southampton Safeguarding Adults Board Background information about Adult Social Care EquipMe Make life for your clients easier in three simple steps with EquipMe . Get impartial advice about tools and equipment to make daily living easier: Choose a topic Answer some questions Get advice Visit EquipMe . Refernet If your clients are in need of information advice or guidance, the best thing to do is\u00a0to signpost your clients to advice and support through Refernet . This way of accessing advice offers practical, up-to-date information and advice on a wide range of topics, including: Debt Benefits Housing Legal Discrimination Employment Immigration Consumer And other problems. You can register with Rerernet once and then use the service again and again",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.southampton.gov.uk_adult-social-care_care-info-professionals_.txt",
+        "level": "level_1",
+        "source": "https://www.southampton.gov.uk/adult-social-care/care-info-professionals/",
+        "source_url": "https://www.southampton.gov.uk/adult-social-care/care-info-professionals/",
+        "total_chunks": 3,
+        "type": "web_page"
+      },
+      "id": "302e5e80-de70-443f-bed9-6991d4c73770",
+      "distance": 0.6890314817428589,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.14329055547714234,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "5. Align approach to carers across health and social care organisations and education \n6. Explore whether the identifcation of a community hub/venues will make it easier for carers to access support when needed, including info and support, a place to meet other carers and access to replacement care. Or using existing council/NHS buildings for outreach might be helpful. \nImproving information, advice and guidance \n1. Increase the number of carers who receive information and advice from the NHS, Social Care and education, as well as from specialist carer and young carer services \n2. Develop a clear information pack and introductory sessions to share with carers. \n3. Explore different apps for Carers. Consider buying access to Carers UK \u2018Digital Resource for Carers\u2019. This would give all carers in Southampton free access to training, the Jointly app designed by Carers UK to help store and to share information and manage care and other digital support.",
+      "metadata": {
+        "chunk_id": 17,
+        "contains_financial_info": true,
+        "download_url": "https://www.southampton.gov.uk/media/4dtd33jg/final-adult-carers-strategy-2021-to-2026.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "final-adult-carers-strategy-2021-to-2026.pdf",
+        "financial_pages": "[3, 8, 9]",
+        "level": "level_2",
+        "page_count": 16,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]",
+        "source": "https://www.southampton.gov.uk/adult-social-care/support-carers-away-home/carers/",
+        "source_url": "https://www.southampton.gov.uk/adult-social-care/support-carers-away-home/carers/",
+        "total_chunks": 24,
+        "type": "pdf"
+      },
+      "id": "1c91bbbc-3894-4ace-a525-e59b2eec1998",
+      "distance": 0.7046074867248535,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.13861775398254395,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "In this section Accessibility (current) Accessibility statement for careers.southampton.gov.uk Translating our webpages This accessibility statement applies to content published on the www.southampton.gov.uk website domain. It does not apply to content on www.southampton.gov.uk subdomains unless specified. This website is run by Southampton City Council. We want as many people as possible to be able to use this website. For example, that means you should be able to: zoom in up to 400% without the text spilling off the screen navigate most of the website using just a keyboard navigate most of the website using speech recognition software We\u2019ve also made the website text as simple as possible to understand. AbilityNet has advice on making your device easier to use if you have a disability. There are also options available for you to translate our webpages into other languages",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.southampton.gov.uk_contact-us_accessibility_.txt",
+        "level": "level_3",
+        "source": "https://www.southampton.gov.uk/contact-us/accessibility/",
+        "source_url": "https://www.southampton.gov.uk/contact-us/accessibility/",
+        "total_chunks": 11,
+        "type": "web_page"
+      },
+      "id": "a84d033a-b2aa-43ff-a7fe-156b23c41b28",
+      "distance": 0.7086490988731384,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.13740527033805847,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "In this section Accessibility (current) Accessibility statement for careers.southampton.gov.uk Translating our webpages This accessibility statement applies to content published on the www.southampton.gov.uk website domain. It does not apply to content on www.southampton.gov.uk subdomains unless specified. This website is run by Southampton City Council. We want as many people as possible to be able to use this website. For example, that means you should be able to: zoom in up to 400% without the text spilling off the screen navigate most of the website using just a keyboard navigate most of the website using speech recognition software We\u2019ve also made the website text as simple as possible to understand. AbilityNet has advice on making your device easier to use if you have a disability. There are also options available for you to translate our webpages into other languages",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.southampton.gov.uk_contact-us_accessibility.aspx.txt",
+        "level": "level_1",
+        "source": "https://www.southampton.gov.uk/contact-us/accessibility.aspx",
+        "source_url": "https://www.southampton.gov.uk/contact-us/accessibility.aspx",
+        "total_chunks": 11,
+        "type": "web_page"
+      },
+      "id": "a07ec042-c59f-42d0-9347-e84dee73a2ee",
+      "distance": 0.7086490988731384,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.13740527033805847,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". AbilityNet has advice on making your device easier to use if you have a disability. There are also options available for you to translate our webpages into other languages . Feedback and contact information If you need information on this website in a different format like accessible PDF, large print, easy read, audio recording or braille, please call our switchboard on 023 8083 3000. We\u2019ll consider your request and get back to you. Reporting accessibility problems with this website We aim to continually improve the accessibility of this website. If you find any problems not listed on this page or think we\u2019re not meeting accessibility requirements, please contact the digital experience team by emailing webfeedback@southampton.gov.uk or using the feedback button at the bottom of each page on the website. Enforcement procedure The Equality and Human Rights Commission (EHRC) is responsible for enforcing the Public Sector Bodies (Websites and Mobile Applications) (No",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.southampton.gov.uk_contact-us_accessibility_.txt",
+        "level": "level_3",
+        "source": "https://www.southampton.gov.uk/contact-us/accessibility/",
+        "source_url": "https://www.southampton.gov.uk/contact-us/accessibility/",
+        "total_chunks": 11,
+        "type": "web_page"
+      },
+      "id": "0c3c100c-df99-4893-8a72-c2c999730465",
+      "distance": 0.7098160982131958,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.13705517053604127,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". AbilityNet has advice on making your device easier to use if you have a disability. There are also options available for you to translate our webpages into other languages . Feedback and contact information If you need information on this website in a different format like accessible PDF, large print, easy read, audio recording or braille, please call our switchboard on 023 8083 3000. We\u2019ll consider your request and get back to you. Reporting accessibility problems with this website We aim to continually improve the accessibility of this website. If you find any problems not listed on this page or think we\u2019re not meeting accessibility requirements, please contact the digital experience team by emailing webfeedback@southampton.gov.uk or using the feedback button at the bottom of each page on the website. Enforcement procedure The Equality and Human Rights Commission (EHRC) is responsible for enforcing the Public Sector Bodies (Websites and Mobile Applications) (No",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.southampton.gov.uk_contact-us_accessibility.aspx.txt",
+        "level": "level_1",
+        "source": "https://www.southampton.gov.uk/contact-us/accessibility.aspx",
+        "source_url": "https://www.southampton.gov.uk/contact-us/accessibility.aspx",
+        "total_chunks": 11,
+        "type": "web_page"
+      },
+      "id": "bb23060b-631c-4196-8a56-1ce49f6301f2",
+      "distance": 0.7098160982131958,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.13705517053604127,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "2.1.d Carers in Southampton & No Limits to work \nwith Advice Southampton providers to develop \na specific offer for carers to access focused \nadvice, information and guidance, ensuring that \nthe offer developed can be linked to national \nsources and local help CiS/NL AL AS Meeting being arranged with \nCarers in Southampton and CAB to \nscope the work. AL to attend. Advice Southampton has \ntrained Carers in \nSouthampton staff to provide \nadvice first aid. \nAdditionally Carers in \nSouthampton has access to \nRefernet to allow electronic \nreferrals to both ways \n2.1.e Work with Care pathways and service providers \nto map available carer information and \nresources and create a library of information CiS/NL AL AS SOLinked has produced \ninformation that allows carers to \nsearch for their \nhttps://www.solinked.org.uk/com \nmunity_services \n2.2 Objective: Develop a clear information pack and introductory sessions to share with carers. \n2.2.a Develop clear information packs and",
+      "metadata": {
+        "chunk_id": 12,
+        "contains_financial_info": true,
+        "download_url": "https://www.southampton.gov.uk/media/njhexbch/priority-updated-carers-action-plan-040722.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "priority-updated-carers-action-plan-040722.pdf",
+        "financial_pages": "[1, 2, 3, 4, 6, 12, 13, 14, 15]",
+        "level": "level_2",
+        "page_count": 16,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]",
+        "source": "https://www.southampton.gov.uk/adult-social-care/support-carers-away-home/carers/",
+        "source_url": "https://www.southampton.gov.uk/adult-social-care/support-carers-away-home/carers/",
+        "total_chunks": 54,
+        "type": "pdf"
+      },
+      "id": "0017d416-4268-4681-ab16-9b73b01defeb",
+      "distance": 0.7214712500572205,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.13355862498283386,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". There is also an option to purchase these via the app. EquipMe, which is available to all residents, their families and carers, provides information, advice and support on a range of topics, including health and wellbeing, daily activities, support in the home, and even support for your children. The online tool also provides impartial, detailed reports written by occupational therapists which offer easy-to-understand tips and guidance for health and care support. Councillor Lorna Fielker, Cabinet Member for Adults, Health and Housing, said: \u201cMany people don\u2019t know where to go to for advice and support in Southampton, or how to access the equipment they may need. I\u2019m really pleased we\u2019re now able to give residents greater control over their lives by enabling them to have a choice about the support they can access from organisations and agencies across Southampton",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.southampton.gov.uk_news_article_scc-new-access-info-advice-support_.txt",
+        "level": "level_2",
+        "source": "https://www.southampton.gov.uk/news/article/scc-new-access-info-advice-support/",
+        "source_url": "https://www.southampton.gov.uk/news/article/scc-new-access-info-advice-support/",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "55d4a876-5e74-4e19-b272-c37e2ad7be48",
+      "distance": 0.7235066294670105,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.13294801115989685,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 11 - FINANCIAL/BUDGET INFORMATION]\n 11 the city\u2019s partnership plans: Southampton City \nStrategy 2015 - 2025, Southampton City Five \nYear Health & Care Strategy 2020 \u2013 2025 and \nthe Health and Wellbeing Strategy 2017 \u2013 2025 \nand the Children and Young People\u2019s Strategy \n2021 -2026 that is being update d in 2021.  \n\u2022 This is specifically addressed in the Emotional  \nand M ental  Health Wellbeing  plan  2021 -27.  \n\u2022 This area is a priority in the SEND Strategy \n2022 -2027  \nLocal Offer Webpage electronic \nfeedback  Southampton has a  hugely  diverse community and \nfeedback was received that not all Parent/Carers, Young \nPeople and Young Adults have their own translation \nsoftware automatically installed.  Also, feedback around \nour community that do not have access to technology and \nIT equipment to access the Local Offer website , how do \nthey access this information?  \u2022 A joint survey with SPCF wa s published and \nthere were a large percentage of families that \nadvised that they do not have their own",
+      "metadata": {
+        "chunk_id": 22,
+        "contains_financial_info": true,
+        "download_url": "https://www.southampton.gov.uk/media/pjubepop/local-offer-annual-report-2023-2024.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "local-offer-annual-report-2023-2024.pdf",
+        "financial_pages": "[3, 4, 5, 6, 7, 9, 10, 11, 13]",
+        "level": "level_2",
+        "page_count": 15,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]",
+        "source": "https://www.southampton.gov.uk/schools-learning/send-local-offer/send-document-hub/",
+        "source_url": "https://www.southampton.gov.uk/schools-learning/send-local-offer/send-document-hub/",
+        "total_chunks": 33,
+        "type": "pdf"
+      },
+      "id": "ef77cc1a-19b7-43b8-935d-352e5cc83a8d",
+      "distance": 0.7516404986381531,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.12450785040855408,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    }
+  ],
+  "context": "[Document 1] From https://www (web_page) - URL: https://www.southampton.gov.uk/self-assessment-tool/support-for-carers/information-and-services-that-support-carers/ [Retrieved via: semantic_original]:\n--\n\nWhat information and services are available? You can view our directory to find services in Southampton that can offer support to carers. Advice and guidance Support for parents/carers of children with SEND Carer Aware e-learning Unpaid Carers Support Southampton Carers Together NHS - Social care and support guide Challenging Behaviour Foundation - help for carers and families Carer's Allowance Carers' support lines Dementia UK Flexible working Buzz Network - For Parent/Carers Of Disabled Children Back Your path to help and advice Self-assessment home \u25bc Support for carers \u25bc What information and services are available?\n\n[Document 2] From https://www (web_page) - URL: https://www.southampton.gov.uk/adult-social-care/care-info-professionals/ [Retrieved via: semantic_original]:\nIn this section Care information and professionals (current) Data and records Background information about Adult Social Care Wellbeing resources for care staff Adult social care professional referral Southampton Safeguarding Adults Board Data and records Southampton Safeguarding Adults Board Background information about Adult Social Care EquipMe Make life for your clients easier in three simple steps with EquipMe . Get impartial advice about tools and equipment to make daily living easier: Choose a topic Answer some questions Get advice Visit EquipMe . Refernet If your clients are in need of information advice or guidance, the best thing to do is\u00a0to signpost your clients to advice and support through Refernet . This way of accessing advice offers practical, up-to-date information and advice on a wide range of topics, including: Debt Benefits Housing Legal Discrimination Employment Immigration Consumer And other problems. You can register with Rerernet once and then use the service again and again\n\n[Document 3] From https://www (pdf) - URL: https://www.southampton.gov.uk/adult-social-care/support-carers-away-home/carers/ - 16 pages [Retrieved via: semantic_original]:\n5. Align approach to carers across health and social care organisations and education \n6. Explore whether the identifcation of a community hub/venues will make it easier for carers to access support when needed, including info and support, a place to meet other carers and access to replacement care. Or using existing council/NHS buildings for outreach might be helpful. \nImproving information, advice and guidance \n1. Increase the number of carers who receive information and advice from the NHS, Social Care and education, as well as from specialist carer and young carer services \n2. Develop a clear information pack and introductory sessions to share with carers. \n3. Explore different apps for Carers. Consider buying access to Carers UK \u2018Digital Resource for Carers\u2019. This would give all carers in Southampton free access to training, the Jointly app designed by Carers UK to help store and to share information and manage care and other digital support.\n\n[Document 4] From https://www (web_page) - URL: https://www.southampton.gov.uk/contact-us/accessibility/ [Retrieved via: semantic_original]:\nIn this section Accessibility (current) Accessibility statement for careers.southampton.gov.uk Translating our webpages This accessibility statement applies to content published on the www.southampton.gov.uk website domain. It does not apply to content on www.southampton.gov.uk subdomains unless specified. This website is run by Southampton City Council. We want as many people as possible to be able to use this website. For example, that means you should be able to: zoom in up to 400% without the text spilling off the screen navigate most of the website using just a keyboard navigate most of the website using speech recognition software We\u2019ve also made the website text as simple as possible to understand. AbilityNet has advice on making your device easier to use if you have a disability. There are also options available for you to translate our webpages into other languages\n\n[Document 5] From https://www (web_page) - URL: https://www.southampton.gov.uk/contact-us/accessibility.aspx [Retrieved via: semantic_original]:\nIn this section Accessibility (current) Accessibility statement for careers.southampton.gov.uk Translating our webpages This accessibility statement applies to content published on the www.southampton.gov.uk website domain. It does not apply to content on www.southampton.gov.uk subdomains unless specified. This website is run by Southampton City Council. We want as many people as possible to be able to use this website. For example, that means you should be able to: zoom in up to 400% without the text spilling off the screen navigate most of the website using just a keyboard navigate most of the website using speech recognition software We\u2019ve also made the website text as simple as possible to understand. AbilityNet has advice on making your device easier to use if you have a disability. There are also options available for you to translate our webpages into other languages\n\n[Document 6] From https://www (web_page) - URL: https://www.southampton.gov.uk/contact-us/accessibility/ [Retrieved via: semantic_original]:\n. AbilityNet has advice on making your device easier to use if you have a disability. There are also options available for you to translate our webpages into other languages . Feedback and contact information If you need information on this website in a different format like accessible PDF, large print, easy read, audio recording or braille, please call our switchboard on 023 8083 3000. We\u2019ll consider your request and get back to you. Reporting accessibility problems with this website We aim to continually improve the accessibility of this website. If you find any problems not listed on this page or think we\u2019re not meeting accessibility requirements, please contact the digital experience team by emailing webfeedback@southampton.gov.uk or using the feedback button at the bottom of each page on the website. Enforcement procedure The Equality and Human Rights Commission (EHRC) is responsible for enforcing the Public Sector Bodies (Websites and Mobile Applications) (No\n\n[Document 7] From https://www (web_page) - URL: https://www.southampton.gov.uk/contact-us/accessibility.aspx [Retrieved via: semantic_original]:\n. AbilityNet has advice on making your device easier to use if you have a disability. There are also options available for you to translate our webpages into other languages . Feedback and contact information If you need information on this website in a different format like accessible PDF, large print, easy read, audio recording or braille, please call our switchboard on 023 8083 3000. We\u2019ll consider your request and get back to you. Reporting accessibility problems with this website We aim to continually improve the accessibility of this website. If you find any problems not listed on this page or think we\u2019re not meeting accessibility requirements, please contact the digital experience team by emailing webfeedback@southampton.gov.uk or using the feedback button at the bottom of each page on the website. Enforcement procedure The Equality and Human Rights Commission (EHRC) is responsible for enforcing the Public Sector Bodies (Websites and Mobile Applications) (No\n\n[Document 8] From https://www (pdf) - URL: https://www.southampton.gov.uk/adult-social-care/support-carers-away-home/carers/ - 16 pages [Retrieved via: semantic_original]:\n2.1.d Carers in Southampton & No Limits to work \nwith Advice Southampton providers to develop \na specific offer for carers to access focused \nadvice, information and guidance, ensuring that \nthe offer developed can be linked to national \nsources and local help CiS/NL AL AS Meeting being arranged with \nCarers in Southampton and CAB to \nscope the work. AL to attend. Advice Southampton has \ntrained Carers in \nSouthampton staff to provide \nadvice first aid. \nAdditionally Carers in \nSouthampton has access to \nRefernet to allow electronic \nreferrals to both ways \n2.1.e Work with Care pathways and service providers \nto map available carer information and \nresources and create a library of information CiS/NL AL AS SOLinked has produced \ninformation that allows carers to \nsearch for their \nhttps://www.solinked.org.uk/com \nmunity_services \n2.2 Objective: Develop a clear information pack and introductory sessions to share with carers. \n2.2.a Develop clear information packs and\n\n[Document 9] From https://www (web_page) - URL: https://www.southampton.gov.uk/news/article/scc-new-access-info-advice-support/ [Retrieved via: semantic_original]:\n. There is also an option to purchase these via the app. EquipMe, which is available to all residents, their families and carers, provides information, advice and support on a range of topics, including health and wellbeing, daily activities, support in the home, and even support for your children. The online tool also provides impartial, detailed reports written by occupational therapists which offer easy-to-understand tips and guidance for health and care support. Councillor Lorna Fielker, Cabinet Member for Adults, Health and Housing, said: \u201cMany people don\u2019t know where to go to for advice and support in Southampton, or how to access the equipment they may need. I\u2019m really pleased we\u2019re now able to give residents greater control over their lives by enabling them to have a choice about the support they can access from organisations and agencies across Southampton\n\n[Document 10] From https://www (pdf) - URL: https://www.southampton.gov.uk/schools-learning/send-local-offer/send-document-hub/ - 15 pages [Retrieved via: semantic_original]:\n[Page 11 - FINANCIAL/BUDGET INFORMATION]\n 11 the city\u2019s partnership plans: Southampton City \nStrategy 2015 - 2025, Southampton City Five \nYear Health & Care Strategy 2020 \u2013 2025 and \nthe Health and Wellbeing Strategy 2017 \u2013 2025 \nand the Children and Young People\u2019s Strategy \n2021 -2026 that is being update d in 2021.  \n\u2022 This is specifically addressed in the Emotional  \nand M ental  Health Wellbeing  plan  2021 -27.  \n\u2022 This area is a priority in the SEND Strategy \n2022 -2027  \nLocal Offer Webpage electronic \nfeedback  Southampton has a  hugely  diverse community and \nfeedback was received that not all Parent/Carers, Young \nPeople and Young Adults have their own translation \nsoftware automatically installed.  Also, feedback around \nour community that do not have access to technology and \nIT equipment to access the Local Offer website , how do \nthey access this information?  \u2022 A joint survey with SPCF wa s published and \nthere were a large percentage of families that \nadvised that they do not have their own\n",
+  "answer": "Southampton provides several accessibility options for accessing social care information, including translations and easy-read formats.\n\n**Key Accessibility Options:**\n- **Website Accessibility:** Southampton City Council's website allows users to zoom in up to 400% without text spilling off the screen, navigate using a keyboard or speech recognition software, and offers translations of webpages into other languages. The text is designed to be as simple as possible to understand (Documents 4 and 5).\n- **Alternative Formats:** If you need information in different formats such as accessible PDFs, large print, easy read, audio recordings, or braille, you can request these by calling the switchboard at **023 8083 3000**. The council will consider your request and respond accordingly (Documents 6 and 7).\n\n**Practical Steps:**\n- For translation services or to request information in alternative formats, contact the Southampton City Council switchboard.\n- For further assistance or to report accessibility issues, email the digital experience team at **webfeedback@southampton.gov.uk** or use the feedback button on the website.\n\nFor more detailed information, visit the Southampton City Council's accessibility page: [Southampton Accessibility](https://www.southampton.gov.uk/contact-us/accessibility/).",
+  "metrics": {
+    "duration_seconds": 11.307161092758179,
+    "retrieved_docs_count": 10,
+    "query_length": 135,
+    "answer_length": 1310,
+    "retrieval_method": "enhanced",
+    "context_utilization": 0.18736383442265794,
+    "citations_count": 0,
+    "has_citations": false,
+    "query_relevance": 0.8666666666666667,
+    "unique_retrieval_methods": 1,
+    "budget_documents_retrieved": 3,
+    "retrieval_methods_used": [
+      "semantic_original"
+    ],
+    "retrieval_method_distribution": {
+      "semantic_original": 10
+    }
+  },
+  "local_authority": "southampton",
+  "query_id": "std_5",
+  "retrieval_method": "enhanced",
+  "run_id": "a40a6a41-713c-44a2-b0a2-4fe488dbb067",
+  "trace": {
+    "run_id": "a40a6a41-713c-44a2-b0a2-4fe488dbb067",
+    "project": "social_care_rag",
+    "url": "https://eu.smith.langchain.com/o/me/runs/a40a6a41-713c-44a2-b0a2-4fe488dbb067"
+  },
+  "test_metadata": {
+    "local_authority": "southampton",
+    "query_id": "std_5",
+    "query_category": "service_standard",
+    "prompt_variation": "optimized",
+    "prompt_template": "\nPlease answer the following question about social care services in UK local authorities based only on the information in the provided documents.\n\nQuestion: {query}\n\nContext from relevant documents:\n{context}\n\nInstructions:\n1. Provide a clear, direct answer that would help someone needing this information. If information isn't available, state: \"The available documents don't provide specific information about [aspect].\"\n\n2. Synthesize information from ALL relevant documents to provide the most complete answer rather than analyzing documents individually.\n\n3. Structure your response with:\n   - A concise 1-2 sentence summary first\n   - Relevant details organized in short, clear paragraphs\n   - Bullet points for lists or step-by-step information\n   - Bold text for key information the user should notice\n\n4. For financial information:\n   - Include exact figures, time periods, and what the funding covers\n   - Present financial data clearly: \"The adult social care budget is **\u00a3X million** for [time period]\"\n\n5. Always include practical next steps or resources:\n   - Provide contact information, URLs, or application methods mentioned in the documents\n   - Suggest where the person could find more information\n\n6. When citing sources, use a simple format: \"According to [document name/description]\" or include URLs where available.\n\nAnswer:\n",
+    "processing_time": 11.309339046478271,
+    "timestamp": "2025-08-19T14:17:38.993094",
+    "top_k": 10
+  }
+}

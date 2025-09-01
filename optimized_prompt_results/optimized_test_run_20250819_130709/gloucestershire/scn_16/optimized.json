@@ -1,0 +1,335 @@
+{
+  "query": "My care needs assessment in gloucestershire says I need 20 hours of home care weekly, but I'm worried about costs. What financial help is available?",
+  "retrieved_documents": [
+    {
+      "content": "[Page 7 - FINANCIAL/BUDGET INFORMATION]\nPaying for your care Gloucestershire County Council\nThis section applies if you need care in your \nown home or in community based settings \nsuch as extra care housing, supported \nliving accommodation or in Shared Lives \narrangements. It applies even if you \nsometimes need a short break or respite care \nin a care home.\nYour home and daily living costs\nIf you own your home, we will not include \nthe value of your home in your financial \nassessment for non-residential care. We may \ntake the value of your home into account if \nyou need temporary care in a care home for \nmore than 52 weeks. We will not leave you \nwith less than the national minimum income \nallowance for daily living costs after paying for \nyour care. \nNotice periods and charges  \nif you cancel your care\nWe will continue to provide support and  \ncharge you for it unless:\n\u2022 you tell us that you don\u2019t need it, or \n\u2022 you are assessed as no longer being \neligible for support.",
+      "metadata": {
+        "chunk_id": 32,
+        "contains_financial_info": true,
+        "download_url": "https://www.gloucestershire.gov.uk/media/a33iucrl/gcc_3548-adult-services-paying-for-your-care-booklet_dev13.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "gcc_3548-adult-services-paying-for-your-care-booklet_dev13.pdf",
+        "financial_pages": "[2, 3, 4, 5, 6, 7, 8, 9]",
+        "level": "level_3",
+        "page_count": 11,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]",
+        "source": "https://www.gloucestershire.gov.uk/health-and-social-care/adult-social-care/paying-for-adult-social-care/paying-for-your-social-care/",
+        "source_url": "https://www.gloucestershire.gov.uk/health-and-social-care/adult-social-care/paying-for-adult-social-care/paying-for-your-social-care/",
+        "total_chunks": 52,
+        "type": "pdf"
+      },
+      "id": "c541faf3-b837-47b4-b462-37a94624ba64",
+      "distance": 0.4625720977783203,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.2112283706665039,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 7 - FINANCIAL/BUDGET INFORMATION]\nPaying for your care Gloucestershire County Council\nThis section applies if you need care in your \nown home or in community based settings \nsuch as extra care housing, supported \nliving accommodation or in Shared Lives \narrangements. It applies even if you \nsometimes need a short break or respite care \nin a care home.\nYour home and daily living costs\nIf you own your home, we will not include \nthe value of your home in your financial \nassessment for non-residential care. We may \ntake the value of your home into account if \nyou need temporary care in a care home for \nmore than 52 weeks. We will not leave you \nwith less than the national minimum income \nallowance for daily living costs after paying for \nyour care. \nNotice periods and charges  \nif you cancel your care\nWe will continue to provide support and  \ncharge you for it unless:\n\u2022 you tell us that you don\u2019t need it, or \n\u2022 you are assessed as no longer being \neligible for support.",
+      "metadata": {
+        "chunk_id": 32,
+        "contains_financial_info": true,
+        "download_url": "https://www.gloucestershire.gov.uk/media/a33iucrl/gcc_3548-adult-services-paying-for-your-care-booklet_dev13.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "gcc_3548-adult-services-paying-for-your-care-booklet_dev13.pdf",
+        "financial_pages": "[2, 3, 4, 5, 6, 7, 8, 9]",
+        "level": "level_2",
+        "page_count": 11,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]",
+        "source": "https://www.gloucestershire.gov.uk/health-and-social-care/adult-social-care/paying-for-adult-social-care/paying-for-your-social-care/",
+        "source_url": "https://www.gloucestershire.gov.uk/health-and-social-care/adult-social-care/paying-for-adult-social-care/paying-for-your-social-care/",
+        "total_chunks": 52,
+        "type": "pdf"
+      },
+      "id": "92654362-827c-4e9e-8d3f-ba6b8991cd3c",
+      "distance": 0.4625720977783203,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.2112283706665039,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Care homes may charge different rates for \npeople who are self-funding compared to \nthose who are part-funded by the council. \nWhen choosing a care home, you should \nconsider whether the care home will accept \ncouncil rates if you are unable to continue to \nself fund your own care.\nIf you are thinking of moving into a care \nhome in another county, it is a good idea to \ncontact the local authority for that area before \nyou move. They will be able to tell you what \nsupport they can offer if you run out of funds.What to do when your funds are \nrunning low\nPlease contact the Adult Helpdesk about three \nmonths before your funds drop to \u00a323,250. \nThe council\u2019s online calculators can help you \ntrack this.\nhttps://gloucestershire.mycostofcare.com/\nOFA\nTell the Helpdesk that you are paying for your \nown care but are running out of funds. Ask for \na care needs assessment. If we determine that \nyou have eligible needs for care and support \nunder the Care Act, we will ask you to have a \nfinancial assessment.",
+      "metadata": {
+        "chunk_id": 47,
+        "contains_financial_info": true,
+        "download_url": "https://www.gloucestershire.gov.uk/media/a33iucrl/gcc_3548-adult-services-paying-for-your-care-booklet_dev13.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "gcc_3548-adult-services-paying-for-your-care-booklet_dev13.pdf",
+        "financial_pages": "[2, 3, 4, 5, 6, 7, 8, 9]",
+        "level": "level_2",
+        "page_count": 11,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]",
+        "source": "https://www.gloucestershire.gov.uk/health-and-social-care/adult-social-care/paying-for-adult-social-care/paying-for-your-social-care/",
+        "source_url": "https://www.gloucestershire.gov.uk/health-and-social-care/adult-social-care/paying-for-adult-social-care/paying-for-your-social-care/",
+        "total_chunks": 52,
+        "type": "pdf"
+      },
+      "id": "2defc386-4ef9-459b-b18c-d0fb9692308a",
+      "distance": 0.48600438237190247,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.20419868528842927,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 4,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Care homes may charge different rates for \npeople who are self-funding compared to \nthose who are part-funded by the council. \nWhen choosing a care home, you should \nconsider whether the care home will accept \ncouncil rates if you are unable to continue to \nself fund your own care.\nIf you are thinking of moving into a care \nhome in another county, it is a good idea to \ncontact the local authority for that area before \nyou move. They will be able to tell you what \nsupport they can offer if you run out of funds.What to do when your funds are \nrunning low\nPlease contact the Adult Helpdesk about three \nmonths before your funds drop to \u00a323,250. \nThe council\u2019s online calculators can help you \ntrack this.\nhttps://gloucestershire.mycostofcare.com/\nOFA\nTell the Helpdesk that you are paying for your \nown care but are running out of funds. Ask for \na care needs assessment. If we determine that \nyou have eligible needs for care and support \nunder the Care Act, we will ask you to have a \nfinancial assessment.",
+      "metadata": {
+        "chunk_id": 47,
+        "contains_financial_info": true,
+        "download_url": "https://www.gloucestershire.gov.uk/media/a33iucrl/gcc_3548-adult-services-paying-for-your-care-booklet_dev13.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "gcc_3548-adult-services-paying-for-your-care-booklet_dev13.pdf",
+        "financial_pages": "[2, 3, 4, 5, 6, 7, 8, 9]",
+        "level": "level_3",
+        "page_count": 11,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]",
+        "source": "https://www.gloucestershire.gov.uk/health-and-social-care/adult-social-care/paying-for-adult-social-care/paying-for-your-social-care/",
+        "source_url": "https://www.gloucestershire.gov.uk/health-and-social-care/adult-social-care/paying-for-adult-social-care/paying-for-your-social-care/",
+        "total_chunks": 52,
+        "type": "pdf"
+      },
+      "id": "ae0ae923-2b4c-41ed-990f-54e62017f5b9",
+      "distance": 0.48600441217422485,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.20419867634773253,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 4,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 2 - FINANCIAL/BUDGET INFORMATION]\nPaying for ongoing care can be an expensive and long term commitment, especially if you \nneed permanent care in a care home. \nBefore you enter into any care arrangements, the council strongly recommends that \nyou seek independent financial advice from a financial adviser who is registered with the \nFinancial Conduct Authority and accredited with the Society of Later Life Advisers (SOLLA). \nThe Care Advice Line \nThe council has commissioned The Care Advice Line to provide free, confidential, \npersonalised financial advice about paying for care and support. Anyone can use this free \nservice regardless of income to find out about:\n\u2022 options for paying for care now or planning for the future \n\u2022 benefit rates and entitlements \nThe Care Advice Line can also help you to access specialist financial or legal advice.  \nYou can contact them via: \nWebsite: www.thecareadviceline.org/gloucestershire   Tel: 01452 222200",
+      "metadata": {
+        "chunk_id": 1,
+        "contains_financial_info": true,
+        "download_url": "https://www.gloucestershire.gov.uk/media/a33iucrl/gcc_3548-adult-services-paying-for-your-care-booklet_dev13.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "gcc_3548-adult-services-paying-for-your-care-booklet_dev13.pdf",
+        "financial_pages": "[2, 3, 4, 5, 6, 7, 8, 9]",
+        "level": "level_3",
+        "page_count": 11,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]",
+        "source": "https://www.gloucestershire.gov.uk/health-and-social-care/adult-social-care/paying-for-adult-social-care/paying-for-your-social-care/",
+        "source_url": "https://www.gloucestershire.gov.uk/health-and-social-care/adult-social-care/paying-for-adult-social-care/paying-for-your-social-care/",
+        "total_chunks": 52,
+        "type": "pdf"
+      },
+      "id": "f0869cde-030a-4fca-ad66-41898e8bcb4f",
+      "distance": 0.5071578025817871,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.19785265922546386,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 2 - FINANCIAL/BUDGET INFORMATION]\nPaying for ongoing care can be an expensive and long term commitment, especially if you \nneed permanent care in a care home. \nBefore you enter into any care arrangements, the council strongly recommends that \nyou seek independent financial advice from a financial adviser who is registered with the \nFinancial Conduct Authority and accredited with the Society of Later Life Advisers (SOLLA). \nThe Care Advice Line \nThe council has commissioned The Care Advice Line to provide free, confidential, \npersonalised financial advice about paying for care and support. Anyone can use this free \nservice regardless of income to find out about:\n\u2022 options for paying for care now or planning for the future \n\u2022 benefit rates and entitlements \nThe Care Advice Line can also help you to access specialist financial or legal advice.  \nYou can contact them via: \nWebsite: www.thecareadviceline.org/gloucestershire   Tel: 01452 222200",
+      "metadata": {
+        "chunk_id": 1,
+        "contains_financial_info": true,
+        "download_url": "https://www.gloucestershire.gov.uk/media/a33iucrl/gcc_3548-adult-services-paying-for-your-care-booklet_dev13.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "gcc_3548-adult-services-paying-for-your-care-booklet_dev13.pdf",
+        "financial_pages": "[2, 3, 4, 5, 6, 7, 8, 9]",
+        "level": "level_2",
+        "page_count": 11,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]",
+        "source": "https://www.gloucestershire.gov.uk/health-and-social-care/adult-social-care/paying-for-adult-social-care/paying-for-your-social-care/",
+        "source_url": "https://www.gloucestershire.gov.uk/health-and-social-care/adult-social-care/paying-for-adult-social-care/paying-for-your-social-care/",
+        "total_chunks": 52,
+        "type": "pdf"
+      },
+      "id": "75ff3f93-3da9-48d7-9599-0e1ab8b7dc27",
+      "distance": 0.5071578025817871,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.19785265922546386,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "your needs and work with you to find out \nwhat services will best help you to live a \nmore independent life. \n\u2022 Step 2: You can estimate the amount you \nmight have to pay each week using our \nonline financial assessment calculator here \nhttps://gloucestershire.mycostofcare.\ncom/OFA\n \n\u2022 Step 3: You can complete your financial \nassessment in different ways. The easiest \nway is to submit your financial assessment \nonline through the online financial \nassessment calculator by following the \ninstructions. Or we can arrange an  \nin-person visit / telephone assessment. \n\u2022 Step 4: Your financial assessment is then \ncompleted by a member of the Financial \nAssessment and Benefits Team. We will \nwrite to you to tell you the amount you will \nneed to pay towards your care. \n\u2022 Step 5: The easiest way to pay is through a \nmonthly direct debit, however all payment \noptions will be available on your invoice. Your financial assessment \n\u2013 what we take into account\nWe use your financial assessment to determine",
+      "metadata": {
+        "chunk_id": 21,
+        "contains_financial_info": true,
+        "download_url": "https://www.gloucestershire.gov.uk/media/a33iucrl/gcc_3548-adult-services-paying-for-your-care-booklet_dev13.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "gcc_3548-adult-services-paying-for-your-care-booklet_dev13.pdf",
+        "financial_pages": "[2, 3, 4, 5, 6, 7, 8, 9]",
+        "level": "level_3",
+        "page_count": 11,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]",
+        "source": "https://www.gloucestershire.gov.uk/health-and-social-care/adult-social-care/paying-for-adult-social-care/paying-for-your-social-care/",
+        "source_url": "https://www.gloucestershire.gov.uk/health-and-social-care/adult-social-care/paying-for-adult-social-care/paying-for-your-social-care/",
+        "total_chunks": 52,
+        "type": "pdf"
+      },
+      "id": "b76481e5-486c-4a99-b84b-25970aa5ff70",
+      "distance": 0.5688244700431824,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.17935265898704528,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "your needs and work with you to find out \nwhat services will best help you to live a \nmore independent life. \n\u2022 Step 2: You can estimate the amount you \nmight have to pay each week using our \nonline financial assessment calculator here \nhttps://gloucestershire.mycostofcare.\ncom/OFA\n \n\u2022 Step 3: You can complete your financial \nassessment in different ways. The easiest \nway is to submit your financial assessment \nonline through the online financial \nassessment calculator by following the \ninstructions. Or we can arrange an  \nin-person visit / telephone assessment. \n\u2022 Step 4: Your financial assessment is then \ncompleted by a member of the Financial \nAssessment and Benefits Team. We will \nwrite to you to tell you the amount you will \nneed to pay towards your care. \n\u2022 Step 5: The easiest way to pay is through a \nmonthly direct debit, however all payment \noptions will be available on your invoice. Your financial assessment \n\u2013 what we take into account\nWe use your financial assessment to determine",
+      "metadata": {
+        "chunk_id": 21,
+        "contains_financial_info": true,
+        "download_url": "https://www.gloucestershire.gov.uk/media/a33iucrl/gcc_3548-adult-services-paying-for-your-care-booklet_dev13.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "gcc_3548-adult-services-paying-for-your-care-booklet_dev13.pdf",
+        "financial_pages": "[2, 3, 4, 5, 6, 7, 8, 9]",
+        "level": "level_2",
+        "page_count": 11,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]",
+        "source": "https://www.gloucestershire.gov.uk/health-and-social-care/adult-social-care/paying-for-adult-social-care/paying-for-your-social-care/",
+        "source_url": "https://www.gloucestershire.gov.uk/health-and-social-care/adult-social-care/paying-for-adult-social-care/paying-for-your-social-care/",
+        "total_chunks": 52,
+        "type": "pdf"
+      },
+      "id": "b1a39e18-688c-4608-8b93-afc81b259025",
+      "distance": 0.5688244700431824,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.17935265898704528,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "11 Benefits when you move into permanent care\n11 Personal expenses allowance\n11 If you own your own home\n11 Property disregards\n12 Deferred payment agreements\n12 Top ups\nSection D: If you need care in a non-residential setting\n13 Your home and daily living costs\n13 Notice periods and charges if you cancel your care\n13 If you need a short break / respite care in a care home\nSection E: Your care charges\n14 How to pay \n14 What happens if you don\u2019t pay\nSection F: Fraud, deprivation of assets and misuse of taxpayer funds\n15 Fraud, deprivation of assets and misuse of taxpayer funds \nSection G: Self funding your own care\n16 Arranging your care\n16 What to do when your funds are running low\n17 How to contact Adult Social Care\n20 Useful telephone numbersContents\nwww.gloucestershire.gov.uk/paying-for-social-care 3",
+      "metadata": {
+        "chunk_id": 5,
+        "contains_financial_info": true,
+        "download_url": "https://www.gloucestershire.gov.uk/media/a33iucrl/gcc_3548-adult-services-paying-for-your-care-booklet_dev13.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "gcc_3548-adult-services-paying-for-your-care-booklet_dev13.pdf",
+        "financial_pages": "[2, 3, 4, 5, 6, 7, 8, 9]",
+        "level": "level_3",
+        "page_count": 11,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]",
+        "source": "https://www.gloucestershire.gov.uk/health-and-social-care/adult-social-care/paying-for-adult-social-care/paying-for-your-social-care/",
+        "source_url": "https://www.gloucestershire.gov.uk/health-and-social-care/adult-social-care/paying-for-adult-social-care/paying-for-your-social-care/",
+        "total_chunks": 52,
+        "type": "pdf"
+      },
+      "id": "c1081806-0984-424f-9cb2-ba68be938c17",
+      "distance": 0.5700550079345703,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1789834976196289,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "11 Benefits when you move into permanent care\n11 Personal expenses allowance\n11 If you own your own home\n11 Property disregards\n12 Deferred payment agreements\n12 Top ups\nSection D: If you need care in a non-residential setting\n13 Your home and daily living costs\n13 Notice periods and charges if you cancel your care\n13 If you need a short break / respite care in a care home\nSection E: Your care charges\n14 How to pay \n14 What happens if you don\u2019t pay\nSection F: Fraud, deprivation of assets and misuse of taxpayer funds\n15 Fraud, deprivation of assets and misuse of taxpayer funds \nSection G: Self funding your own care\n16 Arranging your care\n16 What to do when your funds are running low\n17 How to contact Adult Social Care\n20 Useful telephone numbersContents\nwww.gloucestershire.gov.uk/paying-for-social-care 3",
+      "metadata": {
+        "chunk_id": 5,
+        "contains_financial_info": true,
+        "download_url": "https://www.gloucestershire.gov.uk/media/a33iucrl/gcc_3548-adult-services-paying-for-your-care-booklet_dev13.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "gcc_3548-adult-services-paying-for-your-care-booklet_dev13.pdf",
+        "financial_pages": "[2, 3, 4, 5, 6, 7, 8, 9]",
+        "level": "level_2",
+        "page_count": 11,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]",
+        "source": "https://www.gloucestershire.gov.uk/health-and-social-care/adult-social-care/paying-for-adult-social-care/paying-for-your-social-care/",
+        "source_url": "https://www.gloucestershire.gov.uk/health-and-social-care/adult-social-care/paying-for-adult-social-care/paying-for-your-social-care/",
+        "total_chunks": 52,
+        "type": "pdf"
+      },
+      "id": "3f4a7376-515f-45a0-8a69-b49a801c3bdb",
+      "distance": 0.5700550079345703,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1789834976196289,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    }
+  ],
+  "context": "[Document 1] From https://www (pdf) - URL: https://www.gloucestershire.gov.uk/health-and-social-care/adult-social-care/paying-for-adult-social-care/paying-for-your-social-care/ - 11 pages [Retrieved via: semantic_original]:\n[Page 7 - FINANCIAL/BUDGET INFORMATION]\nPaying for your care Gloucestershire County Council\nThis section applies if you need care in your \nown home or in community based settings \nsuch as extra care housing, supported \nliving accommodation or in Shared Lives \narrangements. It applies even if you \nsometimes need a short break or respite care \nin a care home.\nYour home and daily living costs\nIf you own your home, we will not include \nthe value of your home in your financial \nassessment for non-residential care. We may \ntake the value of your home into account if \nyou need temporary care in a care home for \nmore than 52 weeks. We will not leave you \nwith less than the national minimum income \nallowance for daily living costs after paying for \nyour care. \nNotice periods and charges  \nif you cancel your care\nWe will continue to provide support and  \ncharge you for it unless:\n\u2022 you tell us that you don\u2019t need it, or \n\u2022 you are assessed as no longer being \neligible for support.\n\n[Document 2] From https://www (pdf) - URL: https://www.gloucestershire.gov.uk/health-and-social-care/adult-social-care/paying-for-adult-social-care/paying-for-your-social-care/ - 11 pages [Retrieved via: semantic_original]:\n[Page 7 - FINANCIAL/BUDGET INFORMATION]\nPaying for your care Gloucestershire County Council\nThis section applies if you need care in your \nown home or in community based settings \nsuch as extra care housing, supported \nliving accommodation or in Shared Lives \narrangements. It applies even if you \nsometimes need a short break or respite care \nin a care home.\nYour home and daily living costs\nIf you own your home, we will not include \nthe value of your home in your financial \nassessment for non-residential care. We may \ntake the value of your home into account if \nyou need temporary care in a care home for \nmore than 52 weeks. We will not leave you \nwith less than the national minimum income \nallowance for daily living costs after paying for \nyour care. \nNotice periods and charges  \nif you cancel your care\nWe will continue to provide support and  \ncharge you for it unless:\n\u2022 you tell us that you don\u2019t need it, or \n\u2022 you are assessed as no longer being \neligible for support.\n\n[Document 3] From https://www (pdf) - URL: https://www.gloucestershire.gov.uk/health-and-social-care/adult-social-care/paying-for-adult-social-care/paying-for-your-social-care/ - 11 pages [Retrieved via: semantic_original]:\nCare homes may charge different rates for \npeople who are self-funding compared to \nthose who are part-funded by the council. \nWhen choosing a care home, you should \nconsider whether the care home will accept \ncouncil rates if you are unable to continue to \nself fund your own care.\nIf you are thinking of moving into a care \nhome in another county, it is a good idea to \ncontact the local authority for that area before \nyou move. They will be able to tell you what \nsupport they can offer if you run out of funds.What to do when your funds are \nrunning low\nPlease contact the Adult Helpdesk about three \nmonths before your funds drop to \u00a323,250. \nThe council\u2019s online calculators can help you \ntrack this.\nhttps://gloucestershire.mycostofcare.com/\nOFA\nTell the Helpdesk that you are paying for your \nown care but are running out of funds. Ask for \na care needs assessment. If we determine that \nyou have eligible needs for care and support \nunder the Care Act, we will ask you to have a \nfinancial assessment.\n\n[Document 4] From https://www (pdf) - URL: https://www.gloucestershire.gov.uk/health-and-social-care/adult-social-care/paying-for-adult-social-care/paying-for-your-social-care/ - 11 pages [Retrieved via: semantic_original]:\nCare homes may charge different rates for \npeople who are self-funding compared to \nthose who are part-funded by the council. \nWhen choosing a care home, you should \nconsider whether the care home will accept \ncouncil rates if you are unable to continue to \nself fund your own care.\nIf you are thinking of moving into a care \nhome in another county, it is a good idea to \ncontact the local authority for that area before \nyou move. They will be able to tell you what \nsupport they can offer if you run out of funds.What to do when your funds are \nrunning low\nPlease contact the Adult Helpdesk about three \nmonths before your funds drop to \u00a323,250. \nThe council\u2019s online calculators can help you \ntrack this.\nhttps://gloucestershire.mycostofcare.com/\nOFA\nTell the Helpdesk that you are paying for your \nown care but are running out of funds. Ask for \na care needs assessment. If we determine that \nyou have eligible needs for care and support \nunder the Care Act, we will ask you to have a \nfinancial assessment.\n\n[Document 5] From https://www (pdf) - URL: https://www.gloucestershire.gov.uk/health-and-social-care/adult-social-care/paying-for-adult-social-care/paying-for-your-social-care/ - 11 pages [Retrieved via: semantic_original]:\n[Page 2 - FINANCIAL/BUDGET INFORMATION]\nPaying for ongoing care can be an expensive and long term commitment, especially if you \nneed permanent care in a care home. \nBefore you enter into any care arrangements, the council strongly recommends that \nyou seek independent financial advice from a financial adviser who is registered with the \nFinancial Conduct Authority and accredited with the Society of Later Life Advisers (SOLLA). \nThe Care Advice Line \nThe council has commissioned The Care Advice Line to provide free, confidential, \npersonalised financial advice about paying for care and support. Anyone can use this free \nservice regardless of income to find out about:\n\u2022 options for paying for care now or planning for the future \n\u2022 benefit rates and entitlements \nThe Care Advice Line can also help you to access specialist financial or legal advice.  \nYou can contact them via: \nWebsite: www.thecareadviceline.org/gloucestershire   Tel: 01452 222200\n\n[Document 6] From https://www (pdf) - URL: https://www.gloucestershire.gov.uk/health-and-social-care/adult-social-care/paying-for-adult-social-care/paying-for-your-social-care/ - 11 pages [Retrieved via: semantic_original]:\n[Page 2 - FINANCIAL/BUDGET INFORMATION]\nPaying for ongoing care can be an expensive and long term commitment, especially if you \nneed permanent care in a care home. \nBefore you enter into any care arrangements, the council strongly recommends that \nyou seek independent financial advice from a financial adviser who is registered with the \nFinancial Conduct Authority and accredited with the Society of Later Life Advisers (SOLLA). \nThe Care Advice Line \nThe council has commissioned The Care Advice Line to provide free, confidential, \npersonalised financial advice about paying for care and support. Anyone can use this free \nservice regardless of income to find out about:\n\u2022 options for paying for care now or planning for the future \n\u2022 benefit rates and entitlements \nThe Care Advice Line can also help you to access specialist financial or legal advice.  \nYou can contact them via: \nWebsite: www.thecareadviceline.org/gloucestershire   Tel: 01452 222200\n\n[Document 7] From https://www (pdf) - URL: https://www.gloucestershire.gov.uk/health-and-social-care/adult-social-care/paying-for-adult-social-care/paying-for-your-social-care/ - 11 pages [Retrieved via: semantic_original]:\nyour needs and work with you to find out \nwhat services will best help you to live a \nmore independent life. \n\u2022 Step 2: You can estimate the amount you \nmight have to pay each week using our \nonline financial assessment calculator here \nhttps://gloucestershire.mycostofcare.\ncom/OFA\n \n\u2022 Step 3: You can complete your financial \nassessment in different ways. The easiest \nway is to submit your financial assessment \nonline through the online financial \nassessment calculator by following the \ninstructions. Or we can arrange an  \nin-person visit / telephone assessment. \n\u2022 Step 4: Your financial assessment is then \ncompleted by a member of the Financial \nAssessment and Benefits Team. We will \nwrite to you to tell you the amount you will \nneed to pay towards your care. \n\u2022 Step 5: The easiest way to pay is through a \nmonthly direct debit, however all payment \noptions will be available on your invoice. Your financial assessment \n\u2013 what we take into account\nWe use your financial assessment to determine\n\n[Document 8] From https://www (pdf) - URL: https://www.gloucestershire.gov.uk/health-and-social-care/adult-social-care/paying-for-adult-social-care/paying-for-your-social-care/ - 11 pages [Retrieved via: semantic_original]:\nyour needs and work with you to find out \nwhat services will best help you to live a \nmore independent life. \n\u2022 Step 2: You can estimate the amount you \nmight have to pay each week using our \nonline financial assessment calculator here \nhttps://gloucestershire.mycostofcare.\ncom/OFA\n \n\u2022 Step 3: You can complete your financial \nassessment in different ways. The easiest \nway is to submit your financial assessment \nonline through the online financial \nassessment calculator by following the \ninstructions. Or we can arrange an  \nin-person visit / telephone assessment. \n\u2022 Step 4: Your financial assessment is then \ncompleted by a member of the Financial \nAssessment and Benefits Team. We will \nwrite to you to tell you the amount you will \nneed to pay towards your care. \n\u2022 Step 5: The easiest way to pay is through a \nmonthly direct debit, however all payment \noptions will be available on your invoice. Your financial assessment \n\u2013 what we take into account\nWe use your financial assessment to determine\n\n[Document 9] From https://www (pdf) - URL: https://www.gloucestershire.gov.uk/health-and-social-care/adult-social-care/paying-for-adult-social-care/paying-for-your-social-care/ - 11 pages [Retrieved via: semantic_original]:\n11 Benefits when you move into permanent care\n11 Personal expenses allowance\n11 If you own your own home\n11 Property disregards\n12 Deferred payment agreements\n12 Top ups\nSection D: If you need care in a non-residential setting\n13 Your home and daily living costs\n13 Notice periods and charges if you cancel your care\n13 If you need a short break / respite care in a care home\nSection E: Your care charges\n14 How to pay \n14 What happens if you don\u2019t pay\nSection F: Fraud, deprivation of assets and misuse of taxpayer funds\n15 Fraud, deprivation of assets and misuse of taxpayer funds \nSection G: Self funding your own care\n16 Arranging your care\n16 What to do when your funds are running low\n17 How to contact Adult Social Care\n20 Useful telephone numbersContents\nwww.gloucestershire.gov.uk/paying-for-social-care 3\n\n[Document 10] From https://www (pdf) - URL: https://www.gloucestershire.gov.uk/health-and-social-care/adult-social-care/paying-for-adult-social-care/paying-for-your-social-care/ - 11 pages [Retrieved via: semantic_original]:\n11 Benefits when you move into permanent care\n11 Personal expenses allowance\n11 If you own your own home\n11 Property disregards\n12 Deferred payment agreements\n12 Top ups\nSection D: If you need care in a non-residential setting\n13 Your home and daily living costs\n13 Notice periods and charges if you cancel your care\n13 If you need a short break / respite care in a care home\nSection E: Your care charges\n14 How to pay \n14 What happens if you don\u2019t pay\nSection F: Fraud, deprivation of assets and misuse of taxpayer funds\n15 Fraud, deprivation of assets and misuse of taxpayer funds \nSection G: Self funding your own care\n16 Arranging your care\n16 What to do when your funds are running low\n17 How to contact Adult Social Care\n20 Useful telephone numbersContents\nwww.gloucestershire.gov.uk/paying-for-social-care 3\n",
+  "answer": "If you are concerned about the costs of your home care in Gloucestershire, there are financial support options available to help you. **Gloucestershire County Council will conduct a financial assessment to determine how much you need to contribute towards your care costs.** They will not include the value of your home in this assessment for non-residential care, ensuring you are left with at least the national minimum income allowance for daily living costs.\n\nHere are the steps and resources you can use:\n\n- **Financial Assessment**: You can estimate your weekly payment using the online financial assessment calculator at [gloucestershire.mycostofcare.com/OFA](https://gloucestershire.mycostofcare.com/OFA). You can complete the financial assessment online, or arrange for an in-person or telephone assessment.\n\n- **Care Advice Line**: For personalized financial advice, you can contact The Care Advice Line, which provides free, confidential advice on paying for care and support. They can help you understand benefit rates and entitlements. Contact them at [www.thecareadviceline.org/gloucestershire](http://www.thecareadviceline.org/gloucestershire) or call **01452 222200**.\n\n- **Running Out of Funds**: If your funds are running low, contact the Adult Helpdesk about three months before your funds drop to \u00a323,250. They can guide you through the process and determine if you have eligible needs for care and support under the Care Act.\n\nFor more detailed information, visit the Gloucestershire County Council's website on [paying for adult social care](https://www.gloucestershire.gov.uk/health-and-social-care/adult-social-care/paying-for-adult-social-care/paying-for-your-social-care/).",
+  "metrics": {
+    "duration_seconds": 6.841456890106201,
+    "retrieved_docs_count": 10,
+    "query_length": 148,
+    "answer_length": 1699,
+    "retrieval_method": "enhanced",
+    "context_utilization": 0.3187919463087248,
+    "citations_count": 0,
+    "has_citations": false,
+    "query_relevance": 0.8095238095238095,
+    "unique_retrieval_methods": 1,
+    "budget_documents_retrieved": 10,
+    "retrieval_methods_used": [
+      "semantic_original"
+    ],
+    "retrieval_method_distribution": {
+      "semantic_original": 10
+    }
+  },
+  "local_authority": "gloucestershire",
+  "query_id": "scn_16",
+  "retrieval_method": "enhanced",
+  "run_id": "c317ad73-ed3f-4ae7-b0d1-d06ca44bc81e",
+  "trace": {
+    "run_id": "c317ad73-ed3f-4ae7-b0d1-d06ca44bc81e",
+    "project": "social_care_rag",
+    "url": "https://eu.smith.langchain.com/o/me/runs/c317ad73-ed3f-4ae7-b0d1-d06ca44bc81e"
+  },
+  "test_metadata": {
+    "local_authority": "gloucestershire",
+    "query_id": "scn_16",
+    "query_category": "financial_scenarios",
+    "prompt_variation": "optimized",
+    "prompt_template": "\nPlease answer the following question about social care services in UK local authorities based only on the information in the provided documents.\n\nQuestion: {query}\n\nContext from relevant documents:\n{context}\n\nInstructions:\n1. Provide a clear, direct answer that would help someone needing this information. If information isn't available, state: \"The available documents don't provide specific information about [aspect].\"\n\n2. Synthesize information from ALL relevant documents to provide the most complete answer rather than analyzing documents individually.\n\n3. Structure your response with:\n   - A concise 1-2 sentence summary first\n   - Relevant details organized in short, clear paragraphs\n   - Bullet points for lists or step-by-step information\n   - Bold text for key information the user should notice\n\n4. For financial information:\n   - Include exact figures, time periods, and what the funding covers\n   - Present financial data clearly: \"The adult social care budget is **\u00a3X million** for [time period]\"\n\n5. Always include practical next steps or resources:\n   - Provide contact information, URLs, or application methods mentioned in the documents\n   - Suggest where the person could find more information\n\n6. When citing sources, use a simple format: \"According to [document name/description]\" or include URLs where available.\n\nAnswer:\n",
+    "processing_time": 6.843820095062256,
+    "timestamp": "2025-08-19T13:43:00.653042",
+    "top_k": 10
+  }
+}

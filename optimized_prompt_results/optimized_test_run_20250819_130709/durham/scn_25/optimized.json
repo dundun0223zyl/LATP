@@ -1,0 +1,293 @@
+{
+  "query": "I'm concerned about an elderly neighbor in durham who seems confused and isn't eating properly. How do I report adult safeguarding concerns?",
+  "retrieved_documents": [
+    {
+      "content": "Skip to content Concerned about someone - report neglect or abuse There are many situations where adults with needs for care and support could be subject to neglect or abuse. If you're worried about someone - report it! Durham Safeguarding Adults Partnership's website has information and videos that can help you spot abuse neglect, or self-neglect\u00a0- What is abuse? Report abuse To report abuse you can do any of the following: If the person is in immediate danger, call 999. Remember to say an 'adult with needs for care and support' or a 'vulnerable adult' is involved. Call Social Care Direct on 03000 26 79 79. An officer will listen carefully to what you say, give advice and make a safeguarding referral if necessary, even if you wish to remain anonymous. The officer will take prompt action if the adult is in immediate danger If you are a patient or visitor to a hospital or other health or social care setting, you should immediately report your concerns to a member of staff",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.durham.gov.uk_article_5680_Concerned-about-someone-report-neglect-or-abuse.txt",
+        "level": "level_2",
+        "source": "https://www.durham.gov.uk/article/5680/Concerned-about-someone-report-neglect-or-abuse",
+        "source_url": "https://www.durham.gov.uk/article/5680/Concerned-about-someone-report-neglect-or-abuse",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "2598c075-ba81-423b-adc5-ba5ef7812ada",
+      "distance": 0.5980222225189209,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.17059333324432374,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". There is an up-front fee but then you'll be able to get a third off most standard and first-class rail travel. You may find the following key information useful. Safeguarding adults Everyone has the right to live a life free from abuse. Abuse is behaviour that deliberately or unintentionally causes harm to another person whether physical, verbal, emotional or in some other way. If you have concerns about a vulnerable adult e.g., someone who needs care and support because of a physical, learning disability or mental health you must report what you know. The worst thing you can do is nothing. Please see our dedicated County Durham Safeguarding Adults Partnership for full details on how we can help, or you can call Social Care Direct on 03000 26 79 79. A Social Care Direct officer will listen carefully to what you say, give advice and take a safeguarding or adult protection referral, if necessary, even when the caller wishes to remain anonymous. If the person is in immediate danger call 999",
+      "metadata": {
+        "chunk_id": 18,
+        "filename": "www.durham.gov.uk_article_5654_Find-care-and-support-services.txt",
+        "level": "level_3",
+        "source": "https://www.durham.gov.uk/article/5654/Find-care-and-support-services",
+        "source_url": "https://www.durham.gov.uk/article/5654/Find-care-and-support-services",
+        "total_chunks": 23,
+        "type": "web_page"
+      },
+      "id": "c72c9f90-dcab-40c1-baf9-fcb9c363392a",
+      "distance": 0.7603366374969482,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.12189900875091553,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". There is an up-front fee but then you'll be able to get a third off most standard and first-class rail travel. You may find the following key information useful. Safeguarding adults Everyone has the right to live a life free from abuse. Abuse is behaviour that deliberately or unintentionally causes harm to another person whether physical, verbal, emotional or in some other way. If you have concerns about a vulnerable adult e.g., someone who needs care and support because of a physical, learning disability or mental health you must report what you know. The worst thing you can do is nothing. Please see our dedicated County Durham Safeguarding Adults Partnership for full details on how we can help, or you can call Social Care Direct on 03000 26 79 79. A Social Care Direct officer will listen carefully to what you say, give advice and take a safeguarding or adult protection referral, if necessary, even when the caller wishes to remain anonymous. If the person is in immediate danger call 999",
+      "metadata": {
+        "chunk_id": 18,
+        "filename": "www.durham.gov.uk_locate.txt",
+        "level": "level_3",
+        "source": "https://www.durham.gov.uk/locate",
+        "source_url": "https://www.durham.gov.uk/locate",
+        "total_chunks": 23,
+        "type": "web_page"
+      },
+      "id": "b1f7ab15-3997-4270-be83-8f85f0df04a8",
+      "distance": 0.7603366374969482,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.12189900875091553,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". The Durham Safeguarding Adults Partnership is a range of public authorities, including the council, the police and health services, who share a duty to keep adults in County Durham safe from abuse, harm and neglect. See their Protecting vulnerable adults from abuse and neglect ( PDF, 1 MB ) leaflet for useful information, services and contacts. You can find out more about their work by visiting the Durham Safeguarding Adults Partnership website. Domestic abuse If you're concerned about domestic abuse, find out more on our Domestic abuse pages. Concerned about a child or young person under the age of 18 If you are concerned about a child or young person please visit Report a concern about a child . If you are a professional wanting to make a referral for a child please visit Durham Safeguarding Children Partnership: Concerned about a child?",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.durham.gov.uk_article_5680_Concerned-about-someone-report-neglect-or-abuse.txt",
+        "level": "level_2",
+        "source": "https://www.durham.gov.uk/article/5680/Concerned-about-someone-report-neglect-or-abuse",
+        "source_url": "https://www.durham.gov.uk/article/5680/Concerned-about-someone-report-neglect-or-abuse",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "0555975e-268e-4da9-a239-edde5329eca1",
+      "distance": 0.7974702715873718,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.11075891852378845,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 1]\nWhat is adult protection?\nAdult protection is the term given to the \nprovision of support and advice to any adult  \nat risk, to enable them to live their lives free from abuse and neglect and to obtain the appropriate care and protection to live in safety and without fear.\nWe are always trying to improve the way we \nprotect adults in County Durham. If you have \nany comments, suggestions, compliments or complaints about our service, please contact us via our website:\nwww.safeguardingdurhamadults.info\nWhat not to do:\n\u2022 Don\u2019t promise to keep abuse a secret\n\u2022 Don\u2019t alert the abuser, this might make \n\t matters\t worse\tand\tmake\tit\tdifficult\tfor \n the police and social care staff to help \n the person at risk\n\u2022 Don\u2019t delay - ring Social Care Direct as\n soon as possible or 999 in an emergency\nProduced in association with County Durham  \nSafeguarding Adults Inter-agency Partnership.\nProtecting vulnerable adults \nfrom abuse and neglect\nUseful information,  \nservices and contacts",
+      "metadata": {
+        "chunk_id": 0,
+        "contains_financial_info": true,
+        "download_url": "https://www.durham.gov.uk/media/8710/Protecting-vulnerable-adults-from-abuse-and-neglect/pdf/Protecting_VulnerableAdults.pdf?m=1484310192193",
+        "extraction_method": "PyPDF2",
+        "filename": "Protecting_VulnerableAdults.pdf",
+        "financial_pages": "[2]",
+        "level": "level_2",
+        "page_count": 2,
+        "pages_with_content": "[1, 2]",
+        "source": "https://www.durham.gov.uk/article/5680/Concerned-about-someone-report-neglect-or-abuse",
+        "source_url": "https://www.durham.gov.uk/article/5680/Concerned-about-someone-report-neglect-or-abuse",
+        "total_chunks": 6,
+        "type": "pdf"
+      },
+      "id": "455a4cb8-674c-4d6b-ac27-c566c82a499c",
+      "distance": 0.838296115398407,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.09851116538047791,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". What happens when you call us When you contact us you will speak to a trained officer. We will work with you to decide the level of response needed. Providing early help to children, young people and their families is our priority.\u00a0We will start an Early Help Assessment to inform what happens next, which may be: giving you appropriate advice and guidance a referral to preventative services such as One Point, with a 'team around the family' and a named lead professional a statutory referral to\u00a0assessment and interventions teams due to safeguarding concerns, with a 'team around the family' and a named lead professional \u200bFirst Contact works to Single Assessment Procedure and Practice Guidance, which can be found on the Durham Safeguarding Children Partnership website. Concerned about an adult Call Social Care Direct 24 hours a day on 03000 267 979 - a trained officer will listen carefully to your concerns, give advice, and accept a safeguarding adults report if necessary, even if you want to remain anonymous",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.durham.gov.uk_firstcontact.txt",
+        "level": "level_3",
+        "source": "https://www.durham.gov.uk/firstcontact",
+        "source_url": "https://www.durham.gov.uk/firstcontact",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "11d5eb53-ebc5-403e-9c13-c3a1e24c57de",
+      "distance": 0.9077996015548706,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.07766011953353882,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "needs not being properly met by others\n\u2022 Not able to pay bills or buy food even though  \n enough money should be available\nWhich adults are at risk of abuse?\n\u2018Adults at risk\u2019 are people aged 18+ who:\n\u2022 May rely on other people or services to care for  \n them or support them with day-to-day tasks \u2013  \n  maybe because of their age, a physical or   \n learning disability, other physical or mental  \n health need or involvement in substance  \n misuse\u2022 May lack mental capacity\n\u2022 May not be able to speak up for themselves   Where might the abuse happen?\nAbuse can happen anywhere \u2013 in people\u2019s own homes, public places, day centres, residential homes, hospitals and GPs\u2019 surgeries, colleges, police stations and prisons.\nWho abuses?\nAnyone can be an abuser - professionals, volunteers, trades people, family members, carers, partners, friends, neighbours and other adults at risk.\nHow to report it",
+      "metadata": {
+        "chunk_id": 3,
+        "contains_financial_info": true,
+        "download_url": "https://www.durham.gov.uk/media/8710/Protecting-vulnerable-adults-from-abuse-and-neglect/pdf/Protecting_VulnerableAdults.pdf?m=1484310192193",
+        "extraction_method": "PyPDF2",
+        "filename": "Protecting_VulnerableAdults.pdf",
+        "financial_pages": "[2]",
+        "level": "level_2",
+        "page_count": 2,
+        "pages_with_content": "[1, 2]",
+        "source": "https://www.durham.gov.uk/article/5680/Concerned-about-someone-report-neglect-or-abuse",
+        "source_url": "https://www.durham.gov.uk/article/5680/Concerned-about-someone-report-neglect-or-abuse",
+        "total_chunks": 6,
+        "type": "pdf"
+      },
+      "id": "e33d4cc0-2a2e-4372-b56d-e500d0db8d94",
+      "distance": 0.9097654819488525,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.07707035541534424,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "We will take steps to ensure the immediate \nsafety of the adult at risk and anyone else affected by the alleged abuse, including \nchildren.\nWe will talk with the \u2018adult at risk\u2019 (or a \nsuitable representative or advocate on their behalf)\tto\tfind\tout\twhat\tis\thappening.\t We \nwill work together with them to plan what we can do to help keep them safe and as independent as possible.\nWhere necessary, together with our partner \nagencies including the police, we will investigate allegations of abuse and take appropriate action. We will always do what we can to prevent abuse happening again.\nYou will also receive any advice you may \nneed as a result of reporting your concerns.\nFor further information please visit www.safeguardingdurhamadults.info\nSocial CareDire ct\n03000 26797924hours\naday",
+      "metadata": {
+        "chunk_id": 5,
+        "contains_financial_info": true,
+        "download_url": "https://www.durham.gov.uk/media/8710/Protecting-vulnerable-adults-from-abuse-and-neglect/pdf/Protecting_VulnerableAdults.pdf?m=1484310192193",
+        "extraction_method": "PyPDF2",
+        "filename": "Protecting_VulnerableAdults.pdf",
+        "financial_pages": "[2]",
+        "level": "level_2",
+        "page_count": 2,
+        "pages_with_content": "[1, 2]",
+        "source": "https://www.durham.gov.uk/article/5680/Concerned-about-someone-report-neglect-or-abuse",
+        "source_url": "https://www.durham.gov.uk/article/5680/Concerned-about-someone-report-neglect-or-abuse",
+        "total_chunks": 6,
+        "type": "pdf"
+      },
+      "id": "90e780e3-3acf-4bea-beec-0560530ba485",
+      "distance": 0.9315572381019592,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.07053282856941223,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". They will ask you questions about your situation. We will decide whether we are able to help you. For further information on this see our Get your care needs assessed page. If we are unable to help you we will advise you if there are other sources of help available. Contact Social Care Direct Email scd@durham.gov.uk Telephone 03000 267 979 \ufeff Offsite links Our regulator: The Care Quality Commission \ufeff A to Z A B C D E F G H I J K L M N O P Q R S T U V W X Y Z",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.durham.gov.uk_socialcaredirect.txt",
+        "level": "level_2",
+        "source": "https://www.durham.gov.uk/socialcaredirect",
+        "source_url": "https://www.durham.gov.uk/socialcaredirect",
+        "total_chunks": 3,
+        "type": "web_page"
+      },
+      "id": "77d67c00-aee4-4afd-9202-ea3e3e8fa9a8",
+      "distance": 0.9250788688659668,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.06877633934020996,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Skip to content Get your care needs assessed You may need help in your daily life because you're elderly and/or you have an illness or disability. To help you find the right care and support, you can: Visit our Locate - care and support in County Durham website.\u00a0You can browse the site to find a range of information and advice including organisations to help you live as independently as you can. Contact Social Care Direct , where you will speak to a trained contact officer. They will ask you some questions about your situation and help guide you to help and support, and let you know if you are eligible for care and support from us",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.durham.gov.uk_article_5655_Get-your-care-needs-assessed.txt",
+        "level": "level_1",
+        "source": "https://www.durham.gov.uk/article/5655/Get-your-care-needs-assessed",
+        "source_url": "https://www.durham.gov.uk/article/5655/Get-your-care-needs-assessed",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "67be4fe6-6705-4e79-a520-f121fe6fff84",
+      "distance": 0.9397456643198782,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.06807630070403656,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    }
+  ],
+  "context": "[Document 1] From https://www (web_page) - URL: https://www.durham.gov.uk/article/5680/Concerned-about-someone-report-neglect-or-abuse [Retrieved via: semantic_original]:\nSkip to content Concerned about someone - report neglect or abuse There are many situations where adults with needs for care and support could be subject to neglect or abuse. If you're worried about someone - report it! Durham Safeguarding Adults Partnership's website has information and videos that can help you spot abuse neglect, or self-neglect\u00a0- What is abuse? Report abuse To report abuse you can do any of the following: If the person is in immediate danger, call 999. Remember to say an 'adult with needs for care and support' or a 'vulnerable adult' is involved. Call Social Care Direct on 03000 26 79 79. An officer will listen carefully to what you say, give advice and make a safeguarding referral if necessary, even if you wish to remain anonymous. The officer will take prompt action if the adult is in immediate danger If you are a patient or visitor to a hospital or other health or social care setting, you should immediately report your concerns to a member of staff\n\n[Document 2] From https://www (web_page) - URL: https://www.durham.gov.uk/article/5654/Find-care-and-support-services [Retrieved via: semantic_original]:\n. There is an up-front fee but then you'll be able to get a third off most standard and first-class rail travel. You may find the following key information useful. Safeguarding adults Everyone has the right to live a life free from abuse. Abuse is behaviour that deliberately or unintentionally causes harm to another person whether physical, verbal, emotional or in some other way. If you have concerns about a vulnerable adult e.g., someone who needs care and support because of a physical, learning disability or mental health you must report what you know. The worst thing you can do is nothing. Please see our dedicated County Durham Safeguarding Adults Partnership for full details on how we can help, or you can call Social Care Direct on 03000 26 79 79. A Social Care Direct officer will listen carefully to what you say, give advice and take a safeguarding or adult protection referral, if necessary, even when the caller wishes to remain anonymous. If the person is in immediate danger call 999\n\n[Document 3] From https://www (web_page) - URL: https://www.durham.gov.uk/locate [Retrieved via: semantic_original]:\n. There is an up-front fee but then you'll be able to get a third off most standard and first-class rail travel. You may find the following key information useful. Safeguarding adults Everyone has the right to live a life free from abuse. Abuse is behaviour that deliberately or unintentionally causes harm to another person whether physical, verbal, emotional or in some other way. If you have concerns about a vulnerable adult e.g., someone who needs care and support because of a physical, learning disability or mental health you must report what you know. The worst thing you can do is nothing. Please see our dedicated County Durham Safeguarding Adults Partnership for full details on how we can help, or you can call Social Care Direct on 03000 26 79 79. A Social Care Direct officer will listen carefully to what you say, give advice and take a safeguarding or adult protection referral, if necessary, even when the caller wishes to remain anonymous. If the person is in immediate danger call 999\n\n[Document 4] From https://www (web_page) - URL: https://www.durham.gov.uk/article/5680/Concerned-about-someone-report-neglect-or-abuse [Retrieved via: semantic_original]:\n. The Durham Safeguarding Adults Partnership is a range of public authorities, including the council, the police and health services, who share a duty to keep adults in County Durham safe from abuse, harm and neglect. See their Protecting vulnerable adults from abuse and neglect ( PDF, 1 MB ) leaflet for useful information, services and contacts. You can find out more about their work by visiting the Durham Safeguarding Adults Partnership website. Domestic abuse If you're concerned about domestic abuse, find out more on our Domestic abuse pages. Concerned about a child or young person under the age of 18 If you are concerned about a child or young person please visit Report a concern about a child . If you are a professional wanting to make a referral for a child please visit Durham Safeguarding Children Partnership: Concerned about a child?\n\n[Document 5] From https://www (pdf) - URL: https://www.durham.gov.uk/article/5680/Concerned-about-someone-report-neglect-or-abuse - 2 pages [Retrieved via: semantic_original]:\n[Page 1]\nWhat is adult protection?\nAdult protection is the term given to the \nprovision of support and advice to any adult  \nat risk, to enable them to live their lives free from abuse and neglect and to obtain the appropriate care and protection to live in safety and without fear.\nWe are always trying to improve the way we \nprotect adults in County Durham. If you have \nany comments, suggestions, compliments or complaints about our service, please contact us via our website:\nwww.safeguardingdurhamadults.info\nWhat not to do:\n\u2022 Don\u2019t promise to keep abuse a secret\n\u2022 Don\u2019t alert the abuser, this might make \n\t matters\t worse\tand\tmake\tit\tdifficult\tfor \n the police and social care staff to help \n the person at risk\n\u2022 Don\u2019t delay - ring Social Care Direct as\n soon as possible or 999 in an emergency\nProduced in association with County Durham  \nSafeguarding Adults Inter-agency Partnership.\nProtecting vulnerable adults \nfrom abuse and neglect\nUseful information,  \nservices and contacts\n\n[Document 6] From https://www (web_page) - URL: https://www.durham.gov.uk/firstcontact [Retrieved via: semantic_original]:\n. What happens when you call us When you contact us you will speak to a trained officer. We will work with you to decide the level of response needed. Providing early help to children, young people and their families is our priority.\u00a0We will start an Early Help Assessment to inform what happens next, which may be: giving you appropriate advice and guidance a referral to preventative services such as One Point, with a 'team around the family' and a named lead professional a statutory referral to\u00a0assessment and interventions teams due to safeguarding concerns, with a 'team around the family' and a named lead professional \u200bFirst Contact works to Single Assessment Procedure and Practice Guidance, which can be found on the Durham Safeguarding Children Partnership website. Concerned about an adult Call Social Care Direct 24 hours a day on 03000 267 979 - a trained officer will listen carefully to your concerns, give advice, and accept a safeguarding adults report if necessary, even if you want to remain anonymous\n\n[Document 7] From https://www (pdf) - URL: https://www.durham.gov.uk/article/5680/Concerned-about-someone-report-neglect-or-abuse - 2 pages [Retrieved via: semantic_original]:\nneeds not being properly met by others\n\u2022 Not able to pay bills or buy food even though  \n enough money should be available\nWhich adults are at risk of abuse?\n\u2018Adults at risk\u2019 are people aged 18+ who:\n\u2022 May rely on other people or services to care for  \n them or support them with day-to-day tasks \u2013  \n  maybe because of their age, a physical or   \n learning disability, other physical or mental  \n health need or involvement in substance  \n misuse\u2022 May lack mental capacity\n\u2022 May not be able to speak up for themselves   Where might the abuse happen?\nAbuse can happen anywhere \u2013 in people\u2019s own homes, public places, day centres, residential homes, hospitals and GPs\u2019 surgeries, colleges, police stations and prisons.\nWho abuses?\nAnyone can be an abuser - professionals, volunteers, trades people, family members, carers, partners, friends, neighbours and other adults at risk.\nHow to report it\n\n[Document 8] From https://www (pdf) - URL: https://www.durham.gov.uk/article/5680/Concerned-about-someone-report-neglect-or-abuse - 2 pages [Retrieved via: semantic_original]:\nWe will take steps to ensure the immediate \nsafety of the adult at risk and anyone else affected by the alleged abuse, including \nchildren.\nWe will talk with the \u2018adult at risk\u2019 (or a \nsuitable representative or advocate on their behalf)\tto\tfind\tout\twhat\tis\thappening.\t We \nwill work together with them to plan what we can do to help keep them safe and as independent as possible.\nWhere necessary, together with our partner \nagencies including the police, we will investigate allegations of abuse and take appropriate action. We will always do what we can to prevent abuse happening again.\nYou will also receive any advice you may \nneed as a result of reporting your concerns.\nFor further information please visit www.safeguardingdurhamadults.info\nSocial CareDire ct\n03000 26797924hours\naday\n\n[Document 9] From https://www (web_page) - URL: https://www.durham.gov.uk/socialcaredirect [Retrieved via: semantic_original]:\n. They will ask you questions about your situation. We will decide whether we are able to help you. For further information on this see our Get your care needs assessed page. If we are unable to help you we will advise you if there are other sources of help available. Contact Social Care Direct Email scd@durham.gov.uk Telephone 03000 267 979 \ufeff Offsite links Our regulator: The Care Quality Commission \ufeff A to Z A B C D E F G H I J K L M N O P Q R S T U V W X Y Z\n\n[Document 10] From https://www (web_page) - URL: https://www.durham.gov.uk/article/5655/Get-your-care-needs-assessed [Retrieved via: semantic_original]:\nSkip to content Get your care needs assessed You may need help in your daily life because you're elderly and/or you have an illness or disability. To help you find the right care and support, you can: Visit our Locate - care and support in County Durham website.\u00a0You can browse the site to find a range of information and advice including organisations to help you live as independently as you can. Contact Social Care Direct , where you will speak to a trained contact officer. They will ask you some questions about your situation and help guide you to help and support, and let you know if you are eligible for care and support from us\n",
+  "answer": "If you are concerned about your elderly neighbor in Durham who seems confused and isn't eating properly, you should report your concerns to ensure their safety and well-being.\n\n**To report adult safeguarding concerns:**\n\n- **Call Social Care Direct at 03000 26 79 79.** A trained officer will listen to your concerns, provide advice, and make a safeguarding referral if necessary. You can choose to remain anonymous if you prefer.\n- If the person is in immediate danger, **call 999** and mention that an 'adult with needs for care and support' or a 'vulnerable adult' is involved.\n\nFor more information, you can visit the [Durham Safeguarding Adults Partnership website](https://www.durham.gov.uk/article/5680/Concerned-about-someone-report-neglect-or-abuse) for resources and guidance on how to help protect vulnerable adults from abuse and neglect.",
+  "metrics": {
+    "duration_seconds": 10.227215051651001,
+    "retrieved_docs_count": 10,
+    "query_length": 140,
+    "answer_length": 850,
+    "retrieval_method": "enhanced",
+    "context_utilization": 0.1580188679245283,
+    "citations_count": 0,
+    "has_citations": false,
+    "query_relevance": 0.95,
+    "unique_retrieval_methods": 1,
+    "budget_documents_retrieved": 3,
+    "retrieval_methods_used": [
+      "semantic_original"
+    ],
+    "retrieval_method_distribution": {
+      "semantic_original": 10
+    }
+  },
+  "local_authority": "durham",
+  "query_id": "scn_25",
+  "retrieval_method": "enhanced",
+  "run_id": "235bf558-a0a5-4c56-b71a-cec804220b1e",
+  "trace": {
+    "run_id": "235bf558-a0a5-4c56-b71a-cec804220b1e",
+    "project": "social_care_rag",
+    "url": "https://eu.smith.langchain.com/o/me/runs/235bf558-a0a5-4c56-b71a-cec804220b1e"
+  },
+  "test_metadata": {
+    "local_authority": "durham",
+    "query_id": "scn_25",
+    "query_category": "emergency_scenarios",
+    "prompt_variation": "optimized",
+    "prompt_template": "\nPlease answer the following question about social care services in UK local authorities based only on the information in the provided documents.\n\nQuestion: {query}\n\nContext from relevant documents:\n{context}\n\nInstructions:\n1. Provide a clear, direct answer that would help someone needing this information. If information isn't available, state: \"The available documents don't provide specific information about [aspect].\"\n\n2. Synthesize information from ALL relevant documents to provide the most complete answer rather than analyzing documents individually.\n\n3. Structure your response with:\n   - A concise 1-2 sentence summary first\n   - Relevant details organized in short, clear paragraphs\n   - Bullet points for lists or step-by-step information\n   - Bold text for key information the user should notice\n\n4. For financial information:\n   - Include exact figures, time periods, and what the funding covers\n   - Present financial data clearly: \"The adult social care budget is **\u00a3X million** for [time period]\"\n\n5. Always include practical next steps or resources:\n   - Provide contact information, URLs, or application methods mentioned in the documents\n   - Suggest where the person could find more information\n\n6. When citing sources, use a simple format: \"According to [document name/description]\" or include URLs where available.\n\nAnswer:\n",
+    "processing_time": 10.229933023452759,
+    "timestamp": "2025-08-19T13:37:34.617207",
+    "top_k": 10
+  }
+}

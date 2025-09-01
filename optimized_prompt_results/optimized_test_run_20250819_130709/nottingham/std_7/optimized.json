@@ -1,0 +1,344 @@
+{
+  "query": "What specific savings targets has nottingham set in its budget plans?",
+  "retrieved_documents": [
+    {
+      "content": "[Page 15 - FINANCIAL/BUDGET INFORMATION]\n15d) the financial context\nLocal authorities are legally required to balance \ntheir books and they have to manage funding fairly within the resources they have available. Alongside increasing demand we are now seeing substantial reductions in the budgets of local authorities and pressure on public sector funding in general. Whilst local authorities have successfully delivered major efficiencies over recent years, Government funding is not keeping pace with the cost of providing \nservices. Nottingham City Council has seen \na reduction of 72% in its Revenue Support Grant over the past 6 years and has fallen from \u00a3126.8m in 2013/14 to \u00a335.0m in 2018/19. The council has addressed this by successfully tackling efficiency through innovation and making savings. However, with even greater pressure, we need to think again about how we meet our commitments to citizens for their social wellbeing within the resources we have available. \nincreasing costs",
+      "metadata": {
+        "chunk_id": 30,
+        "contains_financial_info": true,
+        "download_url": "https://www.nottinghamcity.gov.uk/media/0frjip3a/adult-social-care-strategy-full.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "adult-social-care-strategy-full.pdf",
+        "financial_pages": "[2, 3, 4, 7, 8, 9, 10, 12, 13, 15, 16, 17, 18, 19, 20, 21, 25, 27, 28, 29, 30, 31, 32, 35, 36, 37]",
+        "level": "level_1",
+        "page_count": 39,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39]",
+        "source": "https://www.nottinghamcity.gov.uk/information-for-residents/health-and-social-care/adult-social-care/better-lives-better-outcomes/",
+        "source_url": "https://www.nottinghamcity.gov.uk/information-for-residents/health-and-social-care/adult-social-care/better-lives-better-outcomes/",
+        "total_chunks": 95,
+        "type": "pdf"
+      },
+      "id": "b80c92b4-eaaa-4f6d-aad9-fe487a83c2c9",
+      "distance": 0.9601932168006897,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.5173266503444085,
+      "scoring_details": {
+        "query_type": "savings_targets",
+        "financial_indicators_found": 6,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 8 - FINANCIAL/BUDGET INFORMATION]\n8 Joint Health and Wellbeing Strategy for Nottingham | April 2022-March 2025Work and Income\nNational data shows us that there is a strong correlation (link) between our  \nhousehold income and our healthy life expectancy. Areas with higher average  \nhousehold income have higher average healthy life expectancy and areas with  \nlower average household income have lower average healthy life expectancy. This  \nis shown in the graph below with each dot representing a different area in England.\n \nNearly 17,000 children in Nottingham live in low-income families \u2013 that is more than 1 in 4 children (27.2%).\n8 Joint Health and Wellbeing Strategy for Nottingham | April 2022-March 2025 Household income\nAverage gross disposable income (\u00a3)60,000\n50,00040,00030,00020,00010,000\n54   56      58        60           62             64  66    68       70         72  NOTTINGHAM\nHealthy life expectancy\nYearsBetter",
+      "metadata": {
+        "chunk_id": 21,
+        "contains_financial_info": true,
+        "download_url": "https://www.nottinghamcity.gov.uk/media/gd0fxokf/nottingham-city-joint-health-and-wellbeing-strategy-2022-25.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "nottingham-city-joint-health-and-wellbeing-strategy-2022-25.pdf",
+        "financial_pages": "[4, 5, 6, 7, 8, 11, 12, 14, 15, 18, 21]",
+        "level": "level_1",
+        "page_count": 21,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21]",
+        "source": "https://www.nottinghamcity.gov.uk/information-for-residents/health-and-social-care/adult-social-care/public-health/",
+        "source_url": "https://www.nottinghamcity.gov.uk/information-for-residents/health-and-social-care/adult-social-care/public-health/",
+        "total_chunks": 69,
+        "type": "pdf"
+      },
+      "id": "45b2951b-9f13-4c4b-a0eb-11a942ac2b4b",
+      "distance": 0.997814416885376,
+      "retrieval_method": "semantic_expanded_2",
+      "expanded_query": "what specific savings targets has nottingham set in its efficiency savings plans?",
+      "combined_score": 0.508347982626695,
+      "scoring_details": {
+        "query_type": "savings_targets",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_expanded_2"
+      }
+    },
+    {
+      "content": "\u2022 Shifting investment into prevention where we \nare able to release it from more institutional \nsolutions and where there is good evidence that it prevents cost elsewhere\n\u2022 Maximising external funding sources, attracting investment into Nottingham, including opportunities afforded by the Greater Nottingham partnership\n\u2022 Making the case to government for Nottingham and for social care.\nWe can do all these things and we will, but without adequate funding from government Nottingham will be faced with making tough decisions about what type of  services it can fund. 8 FinAnCiAL strAteGy\nNottingham City Council has seen significant reductions in funding since 2012/13 and this is going to continue into the medium term.\nFigure 10: Nottingham City Council funding 2013/14-2021/22\u00a3m\n300\n275\n250\n225\n200\n175\n150\n125\n100\n75\n50\n25\n0\n(25)2013/14 2014/15 2015/16 2016/17 2017/18 2018/19 2019/20 2020/21 2021/22TOP UP GRANT\nRETAINED \nBUSINESS RATES\nCOUNCIL TAXFOUR YEAR SETTLEMENT\nLOCAL FUNDING NATIONAL \nFUNDING",
+      "metadata": {
+        "chunk_id": 90,
+        "contains_financial_info": true,
+        "download_url": "https://www.nottinghamcity.gov.uk/media/0frjip3a/adult-social-care-strategy-full.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "adult-social-care-strategy-full.pdf",
+        "financial_pages": "[2, 3, 4, 7, 8, 9, 10, 12, 13, 15, 16, 17, 18, 19, 20, 21, 25, 27, 28, 29, 30, 31, 32, 35, 36, 37]",
+        "level": "level_1",
+        "page_count": 39,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39]",
+        "source": "https://www.nottinghamcity.gov.uk/information-for-residents/health-and-social-care/adult-social-care/better-lives-better-outcomes/",
+        "source_url": "https://www.nottinghamcity.gov.uk/information-for-residents/health-and-social-care/adult-social-care/better-lives-better-outcomes/",
+        "total_chunks": 95,
+        "type": "pdf"
+      },
+      "id": "31985b47-fb58-4d69-aecc-4ddcd4abbba0",
+      "distance": 0.7311276793479919,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.5075847731186793,
+      "scoring_details": {
+        "query_type": "savings_targets",
+        "financial_indicators_found": 4,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Out of the seven separate domains that make \nup the Index of Multiple Deprivation, Health and Disability is the domain in which Nottingham performs worst. \nAccording to the Social Mobility Index 2017, the \nmedian weekly salary of employees who live in Nottingham City, both full-time and part-time puts Nottingham 308th out of 324 local authorities. This leaves residents of Nottingham struggling to pay their bills and unable to save money to pay for their future care needs.\nA consequence of the deprivation in \nNottingham is that there are fewer people funding their own care and support and more citizens need to use state funded care. For example, we estimate there are around 400 people funding their own home care in Nottingham which is about 18% of the market. \nunemployment\nIn addition to low pay, Nottingham also has higher than average unemployment. Figures for December 2017\n6 indicate the rate of",
+      "metadata": {
+        "chunk_id": 37,
+        "contains_financial_info": true,
+        "download_url": "https://www.nottinghamcity.gov.uk/media/0frjip3a/adult-social-care-strategy-full.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "adult-social-care-strategy-full.pdf",
+        "financial_pages": "[2, 3, 4, 7, 8, 9, 10, 12, 13, 15, 16, 17, 18, 19, 20, 21, 25, 27, 28, 29, 30, 31, 32, 35, 36, 37]",
+        "level": "level_1",
+        "page_count": 39,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39]",
+        "source": "https://www.nottinghamcity.gov.uk/information-for-residents/health-and-social-care/adult-social-care/better-lives-better-outcomes/",
+        "source_url": "https://www.nottinghamcity.gov.uk/information-for-residents/health-and-social-care/adult-social-care/better-lives-better-outcomes/",
+        "total_chunks": 95,
+        "type": "pdf"
+      },
+      "id": "3c17485c-ec6a-4ca9-8768-027d0bfa9656",
+      "distance": 1.0250201225280762,
+      "retrieval_method": "semantic_expanded_2",
+      "expanded_query": "what specific savings targets has nottingham set in its efficiency savings plans?",
+      "combined_score": 0.4692307692307693,
+      "scoring_details": {
+        "query_type": "savings_targets",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_expanded_2"
+      }
+    },
+    {
+      "content": "[Page 4 - FINANCIAL/BUDGET INFORMATION]\n \n4 \nNCSAB Constitution \u2013 June 2023 \u2013 due for revision May 202 5 Budget  \nThe NCSAB  budget will be set annually in conjunction with the Nottingham City \nSafeguarding Children \u2019s Partnership  according to the needs of the Board in order to \nfulfil its function.  The budget may be revised during  the year if all funding partners are \nin agreement. Partners contributions to the Board are from the Ci ty Council, the ICB \nand the Police with income and expenditure reported in the Annual Report.  \nNote SARs and discretionary SARs are funded jointly by the three statutory partners \nand these costs are not included in the budget.  \nStrategic Plan   \nThe NCSAB  will publish each year a Strategic Plan which may cover a single or \nmultiple years , with an Annual Action Plan,  prepared by the Business  Management \nGroup. This  should address both short - and longer -term actions . The Strategic Plan \nwill be c omplemented by a risk register.",
+      "metadata": {
+        "chunk_id": 8,
+        "contains_financial_info": true,
+        "download_url": "https://www.nottinghamcity.gov.uk/media/bjxf20fd/ncsab-constitution-june-2023-final.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "ncsab-constitution-june-2023-final.pdf",
+        "financial_pages": "[2, 4, 6, 7, 11, 12, 13, 14]",
+        "level": "level_2",
+        "page_count": 17,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]",
+        "source": "https://www.nottinghamcity.gov.uk/information-for-residents/health-and-social-care/adult-social-care/adult-safeguarding/about-nottingham-city-safeguarding-adults-board/",
+        "source_url": "https://www.nottinghamcity.gov.uk/information-for-residents/health-and-social-care/adult-social-care/adult-safeguarding/about-nottingham-city-safeguarding-adults-board/",
+        "total_chunks": 44,
+        "type": "pdf"
+      },
+      "id": "0901ed42-5337-45e5-889c-b617faef384f",
+      "distance": 0.9527530074119568,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.4603279439302591,
+      "scoring_details": {
+        "query_type": "savings_targets",
+        "financial_indicators_found": 5,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "This vision was underpinned by a commitment to achieve four outcomes: \n1. Children and adults in Nottingham will adopt and maintain Healthy Lifestyles\n2. Children and adults in Nottingham will have positive Mental Wellbeing and those with long -\nterm mental health problems will have good physical health\n3. There will be a Healthy Culture in Nottingham in which children and adults are supported and \nempowered to live healthy lives and manage ill health well\n4. Nottingham\u2019s Environment will be sustainable; supporting and enabling its citizens to have good \nhealth and wellbeing.2016\nThe Strategy outlined priorities and action plans for \neach of the four outcomes. \nThese action plans were underpinned by the \nfollowing cross -cutting principles: tackling \ninequalities , early intervention , sustainability , \nengagement of the voluntary and community \nsector, and integrated working .(22)\n23",
+      "metadata": {
+        "chunk_id": 65,
+        "contains_financial_info": true,
+        "download_url": "https://www.nottinghamcity.gov.uk/media/ek5ltfkq/dph-aphr-2022-2023.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "dph-aphr-2022-2023.pdf",
+        "financial_pages": "[2, 3, 4, 5, 7, 8, 9, 11, 14, 16, 17, 18, 19, 20, 21, 22, 23, 26, 29, 31, 32, 33, 34, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 50, 51, 53, 54, 55]",
+        "level": "level_1",
+        "page_count": 56,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55]",
+        "source": "https://www.nottinghamcity.gov.uk/information-for-residents/health-and-social-care/adult-social-care/public-health/",
+        "source_url": "https://www.nottinghamcity.gov.uk/information-for-residents/health-and-social-care/adult-social-care/public-health/",
+        "total_chunks": 172,
+        "type": "pdf"
+      },
+      "id": "2f6ff553-2e45-456d-9ee5-fc6f6c0fab87",
+      "distance": 0.983747124671936,
+      "retrieval_method": "semantic_expanded_2",
+      "expanded_query": "what specific savings targets has nottingham set in its efficiency savings plans?",
+      "combined_score": 0.4548758625984192,
+      "scoring_details": {
+        "query_type": "savings_targets",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_expanded_2"
+      }
+    },
+    {
+      "content": "guilty of manslaughter with diminished responsibility and attempte d murder; the extent of \nhis mental health needs was revealed,  and serious questions are being asked of \nNottingham Healthcare NHS Foundation Trust and Nottinghamshire Police . Investigations \nare taking place into both agencies , with  the CQC report publishing  their report relating to \nNHFT in August 2024. NHFT have an Improvement Plan in place which addresses the \nrecommendations made by the CQC and the Board will ensure it monitors the work \nundertaken on recommendations made.   \nIn November 2023 Nottingham City C ouncil declared it was unlikely to balance its budget \nand Commissioners have come to help oversee financial management . Significant savings \nplans and financial management measures have been put in place and the Board ha s \nsought assurance that this will not  adversely impact on the Councils ability to keep people \nsafe. Whilst assurance has been provided by the Elected Member Portfolio Holder and",
+      "metadata": {
+        "chunk_id": 5,
+        "contains_financial_info": true,
+        "download_url": "https://www.nottinghamcity.gov.uk/media/qjdkye3t/ncsab-annual-report-2023-2024-final-version.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "ncsab-annual-report-2023-2024-final-version.pdf",
+        "financial_pages": "[4, 8, 9, 10, 12, 13, 14, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 27, 34, 35, 39, 40, 41, 42, 43, 44, 45, 47, 48, 49, 51, 56, 57, 58, 59, 60, 62, 63, 65, 67, 68, 69, 70, 71, 73, 75, 76, 77, 79, 81, 82, 83, 84, 85, 88, 89]",
+        "level": "level_2",
+        "page_count": 90,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90]",
+        "source": "https://www.nottinghamcity.gov.uk/information-for-residents/health-and-social-care/adult-social-care/adult-safeguarding/about-nottingham-city-safeguarding-adults-board/",
+        "source_url": "https://www.nottinghamcity.gov.uk/information-for-residents/health-and-social-care/adult-social-care/adult-safeguarding/about-nottingham-city-safeguarding-adults-board/",
+        "total_chunks": 312,
+        "type": "pdf"
+      },
+      "id": "860162ae-19b1-4f37-8058-20bba2f1b872",
+      "distance": 0.9147435426712036,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.4540384756601774,
+      "scoring_details": {
+        "query_type": "savings_targets",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "unemployment\nIn addition to low pay, Nottingham also has higher than average unemployment. Figures for December 2017\n6 indicate the rate of \nunemployment in Nottingham stood at 3.1% of the working age population. The England average for the same period was 1.9% and for the East Midlands was 1.6%. This also means fewer people are able to save for future care needs.\n3 https://www.ons.gov.uk/peoplepopulationandcommunity/housing/datasets/townsandcitiesanalysis \n4 Laing Buisson \u2018Paying for Care\u2019 2013/14\n5 https://www.gov.uk/government/statistics/council-tax-levels-set-by-local-authorities-in-england-2018-to-2019\n6 http://www.nottinghaminsight.org.uk/d/192722",
+      "metadata": {
+        "chunk_id": 38,
+        "contains_financial_info": true,
+        "download_url": "https://www.nottinghamcity.gov.uk/media/0frjip3a/adult-social-care-strategy-full.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "adult-social-care-strategy-full.pdf",
+        "financial_pages": "[2, 3, 4, 7, 8, 9, 10, 12, 13, 15, 16, 17, 18, 19, 20, 21, 25, 27, 28, 29, 30, 31, 32, 35, 36, 37]",
+        "level": "level_1",
+        "page_count": 39,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39]",
+        "source": "https://www.nottinghamcity.gov.uk/information-for-residents/health-and-social-care/adult-social-care/better-lives-better-outcomes/",
+        "source_url": "https://www.nottinghamcity.gov.uk/information-for-residents/health-and-social-care/adult-social-care/better-lives-better-outcomes/",
+        "total_chunks": 95,
+        "type": "pdf"
+      },
+      "id": "e40499fc-419b-4e73-8806-a9b4e1bb8de8",
+      "distance": 1.0016981363296509,
+      "retrieval_method": "semantic_expanded_2",
+      "expanded_query": "what specific savings targets has nottingham set in its efficiency savings plans?",
+      "combined_score": 0.45,
+      "scoring_details": {
+        "query_type": "savings_targets",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_expanded_2"
+      }
+    },
+    {
+      "content": "[Page 16 - FINANCIAL/BUDGET INFORMATION]\n16the challenge for nottingham City\nChanges in Government funding to local \nauthorities have impacted particularly hard on Nottingham. With the reduction in national Government funding, councils are expected to rely more on local council tax. However, in Nottingham this generates a smaller sum than other authorities with more affluent populations. In addition, Nottingham has a higher level of demand than more affluent areas. We know for example, that in areas of deprivation people develop conditions of ageing at a younger age; the \u2018window of need\u2019 begins earlier. \nProperty value\nProperty value in Nottingham City is comparatively low. The median average house price in Nottingham City is \u00a3112,995, almost half of the England median house price of \u00a3236,519. This places the city at a rank of 98 out of 112 towns and cities in England and Wales\n3. \nThe average annual cost of a residential care home bed in 2013/14 was \u00a328,500",
+      "metadata": {
+        "chunk_id": 32,
+        "contains_financial_info": true,
+        "download_url": "https://www.nottinghamcity.gov.uk/media/0frjip3a/adult-social-care-strategy-full.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "adult-social-care-strategy-full.pdf",
+        "financial_pages": "[2, 3, 4, 7, 8, 9, 10, 12, 13, 15, 16, 17, 18, 19, 20, 21, 25, 27, 28, 29, 30, 31, 32, 35, 36, 37]",
+        "level": "level_1",
+        "page_count": 39,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39]",
+        "source": "https://www.nottinghamcity.gov.uk/information-for-residents/health-and-social-care/adult-social-care/better-lives-better-outcomes/",
+        "source_url": "https://www.nottinghamcity.gov.uk/information-for-residents/health-and-social-care/adult-social-care/better-lives-better-outcomes/",
+        "total_chunks": 95,
+        "type": "pdf"
+      },
+      "id": "e7491f7a-f776-4b78-9985-23c25d4c3759",
+      "distance": 1.0212382078170776,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.4461538461538461,
+      "scoring_details": {
+        "query_type": "savings_targets",
+        "financial_indicators_found": 5,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 11]\n11\n11\n\n[Page 12]\n12\n57527We are always happy \nto hear from you. You \ncan contact us on \nbetterlivesbetteroutcomes@\nnottinghamcity.gov.uk",
+      "metadata": {
+        "chunk_id": 27,
+        "contains_financial_info": true,
+        "download_url": "https://www.nottinghamcity.gov.uk/media/tl3nccjv/approved-asc-strategy-summary-final.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "approved-asc-strategy-summary-final.pdf",
+        "financial_pages": "[3, 6, 7, 8, 9]",
+        "level": "level_1",
+        "page_count": 12,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]",
+        "source": "https://www.nottinghamcity.gov.uk/information-for-residents/health-and-social-care/adult-social-care/better-lives-better-outcomes/",
+        "source_url": "https://www.nottinghamcity.gov.uk/information-for-residents/health-and-social-care/adult-social-care/better-lives-better-outcomes/",
+        "total_chunks": 28,
+        "type": "pdf"
+      },
+      "id": "f7b1045e-0503-46a0-b142-33832826daf7",
+      "distance": 1.025050401687622,
+      "retrieval_method": "semantic_expanded_1",
+      "expanded_query": "what specific savings targets has nottingham set in its savings plans?",
+      "combined_score": 0.4146,
+      "scoring_details": {
+        "query_type": "savings_targets",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_expanded_1"
+      }
+    }
+  ],
+  "context": "[Document 1] From https://www (pdf) - URL: https://www.nottinghamcity.gov.uk/information-for-residents/health-and-social-care/adult-social-care/better-lives-better-outcomes/ - 39 pages [Retrieved via: semantic_original]:\n[Page 15 - FINANCIAL/BUDGET INFORMATION]\n15d) the financial context\nLocal authorities are legally required to balance \ntheir books and they have to manage funding fairly within the resources they have available. Alongside increasing demand we are now seeing substantial reductions in the budgets of local authorities and pressure on public sector funding in general. Whilst local authorities have successfully delivered major efficiencies over recent years, Government funding is not keeping pace with the cost of providing \nservices. Nottingham City Council has seen \na reduction of 72% in its Revenue Support Grant over the past 6 years and has fallen from \u00a3126.8m in 2013/14 to \u00a335.0m in 2018/19. The council has addressed this by successfully tackling efficiency through innovation and making savings. However, with even greater pressure, we need to think again about how we meet our commitments to citizens for their social wellbeing within the resources we have available. \nincreasing costs\n\n[Document 2] From https://www (pdf) - URL: https://www.nottinghamcity.gov.uk/information-for-residents/health-and-social-care/adult-social-care/public-health/ - 21 pages [Retrieved via: semantic_expanded_2]:\n[Page 8 - FINANCIAL/BUDGET INFORMATION]\n8 Joint Health and Wellbeing Strategy for Nottingham | April 2022-March 2025Work and Income\nNational data shows us that there is a strong correlation (link) between our  \nhousehold income and our healthy life expectancy. Areas with higher average  \nhousehold income have higher average healthy life expectancy and areas with  \nlower average household income have lower average healthy life expectancy. This  \nis shown in the graph below with each dot representing a different area in England.\n \nNearly 17,000 children in Nottingham live in low-income families \u2013 that is more than 1 in 4 children (27.2%).\n8 Joint Health and Wellbeing Strategy for Nottingham | April 2022-March 2025 Household income\nAverage gross disposable income (\u00a3)60,000\n50,00040,00030,00020,00010,000\n54   56      58        60           62             64  66    68       70         72  NOTTINGHAM\nHealthy life expectancy\nYearsBetter\n\n[Document 3] From https://www (pdf) - URL: https://www.nottinghamcity.gov.uk/information-for-residents/health-and-social-care/adult-social-care/better-lives-better-outcomes/ - 39 pages [Retrieved via: semantic_original]:\n\u2022 Shifting investment into prevention where we \nare able to release it from more institutional \nsolutions and where there is good evidence that it prevents cost elsewhere\n\u2022 Maximising external funding sources, attracting investment into Nottingham, including opportunities afforded by the Greater Nottingham partnership\n\u2022 Making the case to government for Nottingham and for social care.\nWe can do all these things and we will, but without adequate funding from government Nottingham will be faced with making tough decisions about what type of  services it can fund. 8 FinAnCiAL strAteGy\nNottingham City Council has seen significant reductions in funding since 2012/13 and this is going to continue into the medium term.\nFigure 10: Nottingham City Council funding 2013/14-2021/22\u00a3m\n300\n275\n250\n225\n200\n175\n150\n125\n100\n75\n50\n25\n0\n(25)2013/14 2014/15 2015/16 2016/17 2017/18 2018/19 2019/20 2020/21 2021/22TOP UP GRANT\nRETAINED \nBUSINESS RATES\nCOUNCIL TAXFOUR YEAR SETTLEMENT\nLOCAL FUNDING NATIONAL \nFUNDING\n\n[Document 4] From https://www (pdf) - URL: https://www.nottinghamcity.gov.uk/information-for-residents/health-and-social-care/adult-social-care/better-lives-better-outcomes/ - 39 pages [Retrieved via: semantic_expanded_2]:\nOut of the seven separate domains that make \nup the Index of Multiple Deprivation, Health and Disability is the domain in which Nottingham performs worst. \nAccording to the Social Mobility Index 2017, the \nmedian weekly salary of employees who live in Nottingham City, both full-time and part-time puts Nottingham 308th out of 324 local authorities. This leaves residents of Nottingham struggling to pay their bills and unable to save money to pay for their future care needs.\nA consequence of the deprivation in \nNottingham is that there are fewer people funding their own care and support and more citizens need to use state funded care. For example, we estimate there are around 400 people funding their own home care in Nottingham which is about 18% of the market. \nunemployment\nIn addition to low pay, Nottingham also has higher than average unemployment. Figures for December 2017\n6 indicate the rate of\n\n[Document 5] From https://www (pdf) - URL: https://www.nottinghamcity.gov.uk/information-for-residents/health-and-social-care/adult-social-care/adult-safeguarding/about-nottingham-city-safeguarding-adults-board/ - 17 pages [Retrieved via: semantic_original]:\n[Page 4 - FINANCIAL/BUDGET INFORMATION]\n \n4 \nNCSAB Constitution \u2013 June 2023 \u2013 due for revision May 202 5 Budget  \nThe NCSAB  budget will be set annually in conjunction with the Nottingham City \nSafeguarding Children \u2019s Partnership  according to the needs of the Board in order to \nfulfil its function.  The budget may be revised during  the year if all funding partners are \nin agreement. Partners contributions to the Board are from the Ci ty Council, the ICB \nand the Police with income and expenditure reported in the Annual Report.  \nNote SARs and discretionary SARs are funded jointly by the three statutory partners \nand these costs are not included in the budget.  \nStrategic Plan   \nThe NCSAB  will publish each year a Strategic Plan which may cover a single or \nmultiple years , with an Annual Action Plan,  prepared by the Business  Management \nGroup. This  should address both short - and longer -term actions . The Strategic Plan \nwill be c omplemented by a risk register.\n\n[Document 6] From https://www (pdf) - URL: https://www.nottinghamcity.gov.uk/information-for-residents/health-and-social-care/adult-social-care/public-health/ - 56 pages [Retrieved via: semantic_expanded_2]:\nThis vision was underpinned by a commitment to achieve four outcomes: \n1. Children and adults in Nottingham will adopt and maintain Healthy Lifestyles\n2. Children and adults in Nottingham will have positive Mental Wellbeing and those with long -\nterm mental health problems will have good physical health\n3. There will be a Healthy Culture in Nottingham in which children and adults are supported and \nempowered to live healthy lives and manage ill health well\n4. Nottingham\u2019s Environment will be sustainable; supporting and enabling its citizens to have good \nhealth and wellbeing.2016\nThe Strategy outlined priorities and action plans for \neach of the four outcomes. \nThese action plans were underpinned by the \nfollowing cross -cutting principles: tackling \ninequalities , early intervention , sustainability , \nengagement of the voluntary and community \nsector, and integrated working .(22)\n23\n\n[Document 7] From https://www (pdf) - URL: https://www.nottinghamcity.gov.uk/information-for-residents/health-and-social-care/adult-social-care/adult-safeguarding/about-nottingham-city-safeguarding-adults-board/ - 90 pages [Retrieved via: semantic_original]:\nguilty of manslaughter with diminished responsibility and attempte d murder; the extent of \nhis mental health needs was revealed,  and serious questions are being asked of \nNottingham Healthcare NHS Foundation Trust and Nottinghamshire Police . Investigations \nare taking place into both agencies , with  the CQC report publishing  their report relating to \nNHFT in August 2024. NHFT have an Improvement Plan in place which addresses the \nrecommendations made by the CQC and the Board will ensure it monitors the work \nundertaken on recommendations made.   \nIn November 2023 Nottingham City C ouncil declared it was unlikely to balance its budget \nand Commissioners have come to help oversee financial management . Significant savings \nplans and financial management measures have been put in place and the Board ha s \nsought assurance that this will not  adversely impact on the Councils ability to keep people \nsafe. Whilst assurance has been provided by the Elected Member Portfolio Holder and\n\n[Document 8] From https://www (pdf) - URL: https://www.nottinghamcity.gov.uk/information-for-residents/health-and-social-care/adult-social-care/better-lives-better-outcomes/ - 39 pages [Retrieved via: semantic_expanded_2]:\nunemployment\nIn addition to low pay, Nottingham also has higher than average unemployment. Figures for December 2017\n6 indicate the rate of \nunemployment in Nottingham stood at 3.1% of the working age population. The England average for the same period was 1.9% and for the East Midlands was 1.6%. This also means fewer people are able to save for future care needs.\n3 https://www.ons.gov.uk/peoplepopulationandcommunity/housing/datasets/townsandcitiesanalysis \n4 Laing Buisson \u2018Paying for Care\u2019 2013/14\n5 https://www.gov.uk/government/statistics/council-tax-levels-set-by-local-authorities-in-england-2018-to-2019\n6 http://www.nottinghaminsight.org.uk/d/192722\n\n[Document 9] From https://www (pdf) - URL: https://www.nottinghamcity.gov.uk/information-for-residents/health-and-social-care/adult-social-care/better-lives-better-outcomes/ - 39 pages [Retrieved via: semantic_original]:\n[Page 16 - FINANCIAL/BUDGET INFORMATION]\n16the challenge for nottingham City\nChanges in Government funding to local \nauthorities have impacted particularly hard on Nottingham. With the reduction in national Government funding, councils are expected to rely more on local council tax. However, in Nottingham this generates a smaller sum than other authorities with more affluent populations. In addition, Nottingham has a higher level of demand than more affluent areas. We know for example, that in areas of deprivation people develop conditions of ageing at a younger age; the \u2018window of need\u2019 begins earlier. \nProperty value\nProperty value in Nottingham City is comparatively low. The median average house price in Nottingham City is \u00a3112,995, almost half of the England median house price of \u00a3236,519. This places the city at a rank of 98 out of 112 towns and cities in England and Wales\n3. \nThe average annual cost of a residential care home bed in 2013/14 was \u00a328,500\n\n[Document 10] From https://www (pdf) - URL: https://www.nottinghamcity.gov.uk/information-for-residents/health-and-social-care/adult-social-care/better-lives-better-outcomes/ - 12 pages [Retrieved via: semantic_expanded_1]:\n[Page 11]\n11\n11\n\n[Page 12]\n12\n57527We are always happy \nto hear from you. You \ncan contact us on \nbetterlivesbetteroutcomes@\nnottinghamcity.gov.uk\n",
+  "answer": "The available documents don't provide specific information about the savings targets set by Nottingham in its budget plans. \n\n**Key Financial Context:**\n- Nottingham City Council has experienced a **72% reduction** in its Revenue Support Grant from 2013/14 to 2018/19, dropping from **\u00a3126.8 million to \u00a335.0 million**.\n- The council has been focusing on efficiency through innovation and making savings to address these financial challenges.\n\n**Practical Next Steps:**\n- For more detailed and specific financial information, you can contact Nottingham City Council at **betterlivesbetteroutcomes@nottinghamcity.gov.uk**.\n- Additional resources and updates might be available on their official website: [Nottingham City Council Health and Social Care](https://www.nottinghamcity.gov.uk/information-for-residents/health-and-social-care/adult-social-care/better-lives-better-outcomes/).",
+  "metrics": {
+    "duration_seconds": 7.053682088851929,
+    "retrieved_docs_count": 10,
+    "query_length": 69,
+    "answer_length": 884,
+    "retrieval_method": "enhanced",
+    "context_utilization": 0.10070671378091872,
+    "citations_count": 0,
+    "has_citations": false,
+    "query_relevance": 0.9,
+    "unique_retrieval_methods": 3,
+    "budget_documents_retrieved": 10,
+    "retrieval_methods_used": [
+      "semantic_expanded_2",
+      "semantic_original",
+      "semantic_expanded_1"
+    ],
+    "retrieval_method_distribution": {
+      "semantic_original": 5,
+      "semantic_expanded_2": 4,
+      "semantic_expanded_1": 1
+    }
+  },
+  "local_authority": "nottingham",
+  "query_id": "std_7",
+  "retrieval_method": "enhanced",
+  "run_id": "26b5dd9a-be0e-4dd0-aed1-9a52903e5e64",
+  "trace": {
+    "run_id": "26b5dd9a-be0e-4dd0-aed1-9a52903e5e64",
+    "project": "social_care_rag",
+    "url": "https://eu.smith.langchain.com/o/me/runs/26b5dd9a-be0e-4dd0-aed1-9a52903e5e64"
+  },
+  "test_metadata": {
+    "local_authority": "nottingham",
+    "query_id": "std_7",
+    "query_category": "financial_standard",
+    "prompt_variation": "optimized",
+    "prompt_template": "\nPlease answer the following question about social care services in UK local authorities based only on the information in the provided documents.\n\nQuestion: {query}\n\nContext from relevant documents:\n{context}\n\nInstructions:\n1. Provide a clear, direct answer that would help someone needing this information. If information isn't available, state: \"The available documents don't provide specific information about [aspect].\"\n\n2. Synthesize information from ALL relevant documents to provide the most complete answer rather than analyzing documents individually.\n\n3. Structure your response with:\n   - A concise 1-2 sentence summary first\n   - Relevant details organized in short, clear paragraphs\n   - Bullet points for lists or step-by-step information\n   - Bold text for key information the user should notice\n\n4. For financial information:\n   - Include exact figures, time periods, and what the funding covers\n   - Present financial data clearly: \"The adult social care budget is **\u00a3X million** for [time period]\"\n\n5. Always include practical next steps or resources:\n   - Provide contact information, URLs, or application methods mentioned in the documents\n   - Suggest where the person could find more information\n\n6. When citing sources, use a simple format: \"According to [document name/description]\" or include URLs where available.\n\nAnswer:\n",
+    "processing_time": 7.056675672531128,
+    "timestamp": "2025-08-19T14:09:01.339361",
+    "top_k": 10
+  }
+}

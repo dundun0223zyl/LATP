@@ -1,0 +1,287 @@
+{
+  "query": "I receive Attendance Allowance but my care needs have increased in york. Can the council provide additional financial support?",
+  "retrieved_documents": [
+    {
+      "content": "Certain fees, charges, financial limits and rates apply to paying for care and support for adults. See further information about: current allowances Minimum Income Guarantee (MIG) Local authority weekly care homes rates City of York Council weekly care home charges Local authority community support charges per week Care and support customer contributions Self-funder administration charges Deferred payment agreements Disability related expenditure Current allowances Higher Capital Limit: \u00a323,250 Lower Capital Limit: \u00a314,250 Personal Expenditure Allowance: \u00a330.65 per week Disposable Income Allowance: \u00a3144.00 per week Back to list Minimum Income Guarantee Where the adult concerned is responsible for, and is a member of the same household as a child , the amount of \u00a3102.95\u00a0per week for each child, plus any applicable premium",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.york.gov.uk_personalisation-care_adult-care-support-charges.txt",
+        "level": "level_2",
+        "source": "https://www.york.gov.uk/personalisation-care/adult-care-support-charges",
+        "source_url": "https://www.york.gov.uk/personalisation-care/adult-care-support-charges",
+        "total_chunks": 18,
+        "type": "web_page"
+      },
+      "id": "e4cb4abb-3c17-4dc3-b1be-d6f868759cf7",
+      "distance": 0.6523716449737549,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.15428850650787354,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Where the council provides transport and the customer wishes to use alternative transport at a higher cost, the cost of council provision will be used to determine any allowance. We will not make allowances at a higher rate where a reasonable alternative is available at a lower cost, for example where incontinence pads are available on the NHS, but the customer decides to purchase them privately. All other expenditure will be assessed as either an everyday living cost, or will be reviewed as a specific need against the customers\u2019 care and support plan. Back to list Also see Residential care Assessing your needs Choosing your care and support (including Direct Payments) Paying for independent living with 24-hour support Live Well York Income Services Team West Offices, Station Rise, York, YO1 6GA Telephone: 01904 552044 Email: benefitscontributions@york.gov.uk Comment on this page",
+      "metadata": {
+        "chunk_id": 17,
+        "filename": "www.york.gov.uk_personalisation-care_adult-care-support-charges.txt",
+        "level": "level_2",
+        "source": "https://www.york.gov.uk/personalisation-care/adult-care-support-charges",
+        "source_url": "https://www.york.gov.uk/personalisation-care/adult-care-support-charges",
+        "total_chunks": 18,
+        "type": "web_page"
+      },
+      "id": "edc3ec1c-afb7-47cc-9889-a8e7d345b32d",
+      "distance": 0.6605768799781799,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.151826936006546,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "identity\u2019 highlighted in York Equality Scheme 2012- 16.   \n How Supported Housing is funded \n \n There are additional costs relating to supported ho using, \ncompared with general needs housing \u2013 these include  the \ncost of staffing, and shared facilities and utiliti es. Part or all of \nthis cost may be covered by a service charge to res idents, \nand elements of this may be eligible for support th rough \nHousing Benefit.   The support element of supported housing may also b e \nfunded through the Early Intervention and Preventio n \nCommissioning team (previously Supporting People te am), \nwhich commissions housing related support services.  This \nfunding has been reduced, following national policy  changes \nand local budget reviews.   If there is more intensive care or support provided  on site \nthrough health or social care services then there a re further \ncosts attached to this. This is determined through eligibility \nchecks, for example the Fair Access to Care Service s (FACS)",
+      "metadata": {
+        "chunk_id": 6,
+        "contains_financial_info": true,
+        "download_url": "",
+        "extraction_method": "PyPDF2",
+        "filename": "york-supported-housing-strategy-2014-to-2019.pdf",
+        "financial_pages": "[2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 16, 17, 18, 20, 22, 23, 24, 25, 26, 27]",
+        "level": "level_2",
+        "page_count": 27,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27]",
+        "source": "york-supported-housing-strategy-2014-to-2019.pdf",
+        "source_url": "",
+        "total_chunks": 78,
+        "type": "pdf"
+      },
+      "id": "37d316a6-0a0d-478e-b764-7674e59daf93",
+      "distance": 0.6894890069961548,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.14315329790115355,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". If you have a child who is at risk of going into care - you may be entitled to help under Section 17 Funding under the 1989 Childrens Act - which is designed to promote the welfare of \u2018children in need\u2019 through provision of financial support/services which aim to avoid children going into care. Contact the Referral and Assessment Team on telephone: 01904 551900 (option 3) to make enquiries about Section 17 funding. 3. Community First Credit Union can help with budget accounts and loans. Contact Community First Credit: Telephone: 03 03 03 000 10 Online: Community First Credit Union Phone lines are open Monday to Thursday, 9.00am to 4.30pm, and Fridays, 9.00am to 4.00pm. Appointments are available at City of York Council, West Offices, Station Rise, York, YO1 6GA. For information and links to national and local advice services visit Live Well York: York Talk Money - Help with Cost of Living",
+      "metadata": {
+        "chunk_id": 15,
+        "filename": "www.york.gov.uk_YFASCriteria.txt",
+        "level": "level_2",
+        "source": "https://www.york.gov.uk/YFASCriteria",
+        "source_url": "https://www.york.gov.uk/YFASCriteria",
+        "total_chunks": 17,
+        "type": "web_page"
+      },
+      "id": "16415aea-380c-4bc8-abbe-d8413af95bee",
+      "distance": 0.7306382060050964,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.13080853819847107,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 4,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". This does not allow us to make decisions about care needs or where a person should live. All decisions we make must be in accordance with the Mental Capacity Act 2005. City of York Council will apply for appointeeship of state benefits through the DWP, where a customer has no other means of income and does not have savings in a bank account. Appointeeship only allows the council to receive and manage benefits in that persons best interest. The council is allowed to charge set fees for administering the property and affairs of clients under the Court of Protection. The council also charges to cover day to day administration charges for the provision of banking services, and the management of appointeeship cases. Please note: we'll only apply for Appointeeship or Deputyship in cases where the customer has been assessed as lacking the capacity to manage their own finances, and where there is no existing conflict of interests with the council",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.york.gov.uk_CourtOfProtectionAndAppointeeService.txt",
+        "level": "level_2",
+        "source": "https://www.york.gov.uk/CourtOfProtectionAndAppointeeService",
+        "source_url": "https://www.york.gov.uk/CourtOfProtectionAndAppointeeService",
+        "total_chunks": 8,
+        "type": "web_page"
+      },
+      "id": "cae21e8a-018d-4b8b-9716-d121ca9175a7",
+      "distance": 0.7327443957328796,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1301766812801361,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 4 - FINANCIAL/BUDGET INFORMATION]\n4 \n handyperson services and health related support. Fo r many \npeople it is more appropriate to their needs and wi shes for \nthem to be supported to access or to remain in gene ral needs \naccommodation, or to return to this after a after a  period of \nmore intensive support in Supported Housing. Theref ore it is \nvital to ensure that these services are in place to  enable a \nseamless transition where this occurs.   Our vision is both informed by and directly contrib utes to wider \nstrategic aims and objectives identified by City of  York Council \nand the York Health and Wellbeing Board: \n \n \n/square4 City of York Council strategic priorities: \n \no Building strong communities \no Protecting vulnerable people \n \n/square4 City of York Council adult social care plan \n \no Enhancing the quality of life for people with care  \nand support needs \no Delaying and reducing the need for care and \nsupport \no Ensuring that people have a positive experience \nof care and support",
+      "metadata": {
+        "chunk_id": 9,
+        "contains_financial_info": true,
+        "download_url": "",
+        "extraction_method": "PyPDF2",
+        "filename": "york-supported-housing-strategy-2014-to-2019.pdf",
+        "financial_pages": "[2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 16, 17, 18, 20, 22, 23, 24, 25, 26, 27]",
+        "level": "level_2",
+        "page_count": 27,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27]",
+        "source": "york-supported-housing-strategy-2014-to-2019.pdf",
+        "source_url": "",
+        "total_chunks": 78,
+        "type": "pdf"
+      },
+      "id": "889caf01-2ab8-469e-968f-afdb88211d22",
+      "distance": 0.7550920844078064,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.12347237467765808,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Contents You are here: Council Tax Support Council Tax Support eligibility Make a claim for Council Tax Support Tell us about a change in circumstances Extra help with council tax Council tax discounts Providing supporting documents View your claim and letters online Council Tax Support is a council tax discount. It reduces the amount of council tax you have to pay. The size of the discount you get depends on your income. You could receive a maximum discount of: 77.5% if you're of working age 100% if you're of Pension Credit age If you're struggling to pay council tax, you should check if you are eligible for support. Also see Claim Housing Benefit Benefits advice The benefit cap Council tax Benefits West Offices, Station Rise, York, YO1 6GA Telephone: 01904 551556 Email: benefits@york.gov.uk Benefits appointments Contact us for an appointment to get benefits advice in person at West Offices",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.york.gov.uk_HouseholdCouncilTaxHelp.txt",
+        "level": "level_2",
+        "source": "https://www.york.gov.uk/HouseholdCouncilTaxHelp",
+        "source_url": "https://www.york.gov.uk/HouseholdCouncilTaxHelp",
+        "total_chunks": 3,
+        "type": "web_page"
+      },
+      "id": "1a41d946-409b-45c7-b9c0-35e435f1c2a6",
+      "distance": 0.7725847363471985,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.11822457909584046,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Contents You are here: Council Tax Support Council Tax Support eligibility Make a claim for Council Tax Support Tell us about a change in circumstances Extra help with council tax Council tax discounts Providing supporting documents View your claim and letters online Council Tax Support is a council tax discount. It reduces the amount of council tax you have to pay. The size of the discount you get depends on your income. You could receive a maximum discount of: 77.5% if you're of working age 100% if you're of Pension Credit age If you're struggling to pay council tax, you should check if you are eligible for support. Also see Claim Housing Benefit Benefits advice The benefit cap Council tax Benefits West Offices, Station Rise, York, YO1 6GA Telephone: 01904 551556 Email: benefits@york.gov.uk Benefits appointments Contact us for an appointment to get benefits advice in person at West Offices",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.york.gov.uk_DiscountsAndExemptions.txt",
+        "level": "level_2",
+        "source": "https://www.york.gov.uk/DiscountsAndExemptions",
+        "source_url": "https://www.york.gov.uk/DiscountsAndExemptions",
+        "total_chunks": 3,
+        "type": "web_page"
+      },
+      "id": "3af6037c-9c27-406d-a9cc-9d3840b520ee",
+      "distance": 0.7725847363471985,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.11822457909584046,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Contents You are here: Council Tax Support Council Tax Support eligibility Make a claim for Council Tax Support Tell us about a change in circumstances Extra help with council tax Council tax discounts Providing supporting documents View your claim and letters online Council Tax Support is a council tax discount. It reduces the amount of council tax you have to pay. The size of the discount you get depends on your income. You could receive a maximum discount of: 77.5% if you're of working age 100% if you're of Pension Credit age If you're struggling to pay council tax, you should check if you are eligible for support. Also see Claim Housing Benefit Benefits advice The benefit cap Council tax Benefits West Offices, Station Rise, York, YO1 6GA Telephone: 01904 551556 Email: benefits@york.gov.uk Benefits appointments Contact us for an appointment to get benefits advice in person at West Offices",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.york.gov.uk_CouncilTaxSupport.txt",
+        "level": "level_2",
+        "source": "https://www.york.gov.uk/CouncilTaxSupport",
+        "source_url": "https://www.york.gov.uk/CouncilTaxSupport",
+        "total_chunks": 3,
+        "type": "web_page"
+      },
+      "id": "069ed8e4-e656-49b9-b039-301082ad57cf",
+      "distance": 0.7725849151611328,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.11822452545166015,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Top of page Council Tax Discretionary Reduction 1. This scheme can provide help for residents who are having financial difficulty paying their Council Tax. If you apply for help with paying Council Tax the qualifying criteria set out at Who can make an application for Emergency/Community Assistance? (points 2 and 3) are not binding and each application will be considered on its own merits. See information about Council Tax Discretionary Reductions and a link to an application form. Top of page What other help can I get? 1. Help from the Department for Work and Pensions (DWP). You may be eligible for help for the items listed below from the DWP. They will continue to take claims for the following: short-term benefit advances funeral payments sure start maternity grants cold weather or winter fuel payments budgeting loans or budgeting advances You should contact the DWP: Telephone: 0845 603 6967 Text phone: 0845 608 8553 Online: GOV.UK Benefits 2",
+      "metadata": {
+        "chunk_id": 14,
+        "filename": "www.york.gov.uk_YFASCriteria.txt",
+        "level": "level_2",
+        "source": "https://www.york.gov.uk/YFASCriteria",
+        "source_url": "https://www.york.gov.uk/YFASCriteria",
+        "total_chunks": 17,
+        "type": "web_page"
+      },
+      "id": "dd51b441-4f18-425b-b05a-7ffec0fe4a73",
+      "distance": 0.7750808000564575,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.11747575998306274,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    }
+  ],
+  "context": "[Document 1] From https://www (web_page) - URL: https://www.york.gov.uk/personalisation-care/adult-care-support-charges [Retrieved via: semantic_original]:\nCertain fees, charges, financial limits and rates apply to paying for care and support for adults. See further information about: current allowances Minimum Income Guarantee (MIG) Local authority weekly care homes rates City of York Council weekly care home charges Local authority community support charges per week Care and support customer contributions Self-funder administration charges Deferred payment agreements Disability related expenditure Current allowances Higher Capital Limit: \u00a323,250 Lower Capital Limit: \u00a314,250 Personal Expenditure Allowance: \u00a330.65 per week Disposable Income Allowance: \u00a3144.00 per week Back to list Minimum Income Guarantee Where the adult concerned is responsible for, and is a member of the same household as a child , the amount of \u00a3102.95\u00a0per week for each child, plus any applicable premium\n\n[Document 2] From https://www (web_page) - URL: https://www.york.gov.uk/personalisation-care/adult-care-support-charges [Retrieved via: semantic_original]:\n. Where the council provides transport and the customer wishes to use alternative transport at a higher cost, the cost of council provision will be used to determine any allowance. We will not make allowances at a higher rate where a reasonable alternative is available at a lower cost, for example where incontinence pads are available on the NHS, but the customer decides to purchase them privately. All other expenditure will be assessed as either an everyday living cost, or will be reviewed as a specific need against the customers\u2019 care and support plan. Back to list Also see Residential care Assessing your needs Choosing your care and support (including Direct Payments) Paying for independent living with 24-hour support Live Well York Income Services Team West Offices, Station Rise, York, YO1 6GA Telephone: 01904 552044 Email: benefitscontributions@york.gov.uk Comment on this page\n\n[Document 3] From york supported housing strategy 2014 to 2019 (pdf) - 27 pages [Retrieved via: semantic_original]:\nidentity\u2019 highlighted in York Equality Scheme 2012- 16.   \n How Supported Housing is funded \n \n There are additional costs relating to supported ho using, \ncompared with general needs housing \u2013 these include  the \ncost of staffing, and shared facilities and utiliti es. Part or all of \nthis cost may be covered by a service charge to res idents, \nand elements of this may be eligible for support th rough \nHousing Benefit.   The support element of supported housing may also b e \nfunded through the Early Intervention and Preventio n \nCommissioning team (previously Supporting People te am), \nwhich commissions housing related support services.  This \nfunding has been reduced, following national policy  changes \nand local budget reviews.   If there is more intensive care or support provided  on site \nthrough health or social care services then there a re further \ncosts attached to this. This is determined through eligibility \nchecks, for example the Fair Access to Care Service s (FACS)\n\n[Document 4] From https://www (web_page) - URL: https://www.york.gov.uk/YFASCriteria [Retrieved via: semantic_original]:\n. If you have a child who is at risk of going into care - you may be entitled to help under Section 17 Funding under the 1989 Childrens Act - which is designed to promote the welfare of \u2018children in need\u2019 through provision of financial support/services which aim to avoid children going into care. Contact the Referral and Assessment Team on telephone: 01904 551900 (option 3) to make enquiries about Section 17 funding. 3. Community First Credit Union can help with budget accounts and loans. Contact Community First Credit: Telephone: 03 03 03 000 10 Online: Community First Credit Union Phone lines are open Monday to Thursday, 9.00am to 4.30pm, and Fridays, 9.00am to 4.00pm. Appointments are available at City of York Council, West Offices, Station Rise, York, YO1 6GA. For information and links to national and local advice services visit Live Well York: York Talk Money - Help with Cost of Living\n\n[Document 5] From https://www (web_page) - URL: https://www.york.gov.uk/CourtOfProtectionAndAppointeeService [Retrieved via: semantic_original]:\n. This does not allow us to make decisions about care needs or where a person should live. All decisions we make must be in accordance with the Mental Capacity Act 2005. City of York Council will apply for appointeeship of state benefits through the DWP, where a customer has no other means of income and does not have savings in a bank account. Appointeeship only allows the council to receive and manage benefits in that persons best interest. The council is allowed to charge set fees for administering the property and affairs of clients under the Court of Protection. The council also charges to cover day to day administration charges for the provision of banking services, and the management of appointeeship cases. Please note: we'll only apply for Appointeeship or Deputyship in cases where the customer has been assessed as lacking the capacity to manage their own finances, and where there is no existing conflict of interests with the council\n\n[Document 6] From york supported housing strategy 2014 to 2019 (pdf) - 27 pages [Retrieved via: semantic_original]:\n[Page 4 - FINANCIAL/BUDGET INFORMATION]\n4 \n handyperson services and health related support. Fo r many \npeople it is more appropriate to their needs and wi shes for \nthem to be supported to access or to remain in gene ral needs \naccommodation, or to return to this after a after a  period of \nmore intensive support in Supported Housing. Theref ore it is \nvital to ensure that these services are in place to  enable a \nseamless transition where this occurs.   Our vision is both informed by and directly contrib utes to wider \nstrategic aims and objectives identified by City of  York Council \nand the York Health and Wellbeing Board: \n \n \n/square4 City of York Council strategic priorities: \n \no Building strong communities \no Protecting vulnerable people \n \n/square4 City of York Council adult social care plan \n \no Enhancing the quality of life for people with care  \nand support needs \no Delaying and reducing the need for care and \nsupport \no Ensuring that people have a positive experience \nof care and support\n\n[Document 7] From https://www (web_page) - URL: https://www.york.gov.uk/HouseholdCouncilTaxHelp [Retrieved via: semantic_original]:\nContents You are here: Council Tax Support Council Tax Support eligibility Make a claim for Council Tax Support Tell us about a change in circumstances Extra help with council tax Council tax discounts Providing supporting documents View your claim and letters online Council Tax Support is a council tax discount. It reduces the amount of council tax you have to pay. The size of the discount you get depends on your income. You could receive a maximum discount of: 77.5% if you're of working age 100% if you're of Pension Credit age If you're struggling to pay council tax, you should check if you are eligible for support. Also see Claim Housing Benefit Benefits advice The benefit cap Council tax Benefits West Offices, Station Rise, York, YO1 6GA Telephone: 01904 551556 Email: benefits@york.gov.uk Benefits appointments Contact us for an appointment to get benefits advice in person at West Offices\n\n[Document 8] From https://www (web_page) - URL: https://www.york.gov.uk/DiscountsAndExemptions [Retrieved via: semantic_original]:\nContents You are here: Council Tax Support Council Tax Support eligibility Make a claim for Council Tax Support Tell us about a change in circumstances Extra help with council tax Council tax discounts Providing supporting documents View your claim and letters online Council Tax Support is a council tax discount. It reduces the amount of council tax you have to pay. The size of the discount you get depends on your income. You could receive a maximum discount of: 77.5% if you're of working age 100% if you're of Pension Credit age If you're struggling to pay council tax, you should check if you are eligible for support. Also see Claim Housing Benefit Benefits advice The benefit cap Council tax Benefits West Offices, Station Rise, York, YO1 6GA Telephone: 01904 551556 Email: benefits@york.gov.uk Benefits appointments Contact us for an appointment to get benefits advice in person at West Offices\n\n[Document 9] From https://www (web_page) - URL: https://www.york.gov.uk/CouncilTaxSupport [Retrieved via: semantic_original]:\nContents You are here: Council Tax Support Council Tax Support eligibility Make a claim for Council Tax Support Tell us about a change in circumstances Extra help with council tax Council tax discounts Providing supporting documents View your claim and letters online Council Tax Support is a council tax discount. It reduces the amount of council tax you have to pay. The size of the discount you get depends on your income. You could receive a maximum discount of: 77.5% if you're of working age 100% if you're of Pension Credit age If you're struggling to pay council tax, you should check if you are eligible for support. Also see Claim Housing Benefit Benefits advice The benefit cap Council tax Benefits West Offices, Station Rise, York, YO1 6GA Telephone: 01904 551556 Email: benefits@york.gov.uk Benefits appointments Contact us for an appointment to get benefits advice in person at West Offices\n\n[Document 10] From https://www (web_page) - URL: https://www.york.gov.uk/YFASCriteria [Retrieved via: semantic_original]:\n. Top of page Council Tax Discretionary Reduction 1. This scheme can provide help for residents who are having financial difficulty paying their Council Tax. If you apply for help with paying Council Tax the qualifying criteria set out at Who can make an application for Emergency/Community Assistance? (points 2 and 3) are not binding and each application will be considered on its own merits. See information about Council Tax Discretionary Reductions and a link to an application form. Top of page What other help can I get? 1. Help from the Department for Work and Pensions (DWP). You may be eligible for help for the items listed below from the DWP. They will continue to take claims for the following: short-term benefit advances funeral payments sure start maternity grants cold weather or winter fuel payments budgeting loans or budgeting advances You should contact the DWP: Telephone: 0845 603 6967 Text phone: 0845 608 8553 Online: GOV.UK Benefits 2\n",
+  "answer": "If your care needs have increased in York, you may be eligible for additional financial support from the City of York Council. The council assesses care needs and financial support through various means, including disability-related expenditure and customer contributions for care and support.\n\n**Key Information:**\n- The City of York Council considers disability-related expenditure and customer contributions when assessing financial support for care needs.\n- There are specific financial limits and allowances, such as the Higher Capital Limit of **\u00a323,250** and the Lower Capital Limit of **\u00a314,250**, which may affect eligibility for additional support.\n\n**Next Steps:**\n- Contact the City of York Council's Income Services Team for more detailed advice and to discuss your specific situation. You can reach them at **01904 552044** or via email at **benefitscontributions@york.gov.uk**.\n- Consider reviewing your care and support plan with the council to ensure it reflects your increased needs and to explore options like Direct Payments for more personalized care choices.\n\nFor further information, you can visit the council's website on adult care support charges: [City of York Council Adult Care Support Charges](https://www.york.gov.uk/personalisation-care/adult-care-support-charges).",
+  "metrics": {
+    "duration_seconds": 6.413099765777588,
+    "retrieved_docs_count": 10,
+    "query_length": 126,
+    "answer_length": 1297,
+    "retrieval_method": "enhanced",
+    "context_utilization": 0.14056224899598393,
+    "citations_count": 1,
+    "has_citations": true,
+    "query_relevance": 0.75,
+    "unique_retrieval_methods": 1,
+    "budget_documents_retrieved": 2,
+    "retrieval_methods_used": [
+      "semantic_original"
+    ],
+    "retrieval_method_distribution": {
+      "semantic_original": 10
+    }
+  },
+  "local_authority": "york",
+  "query_id": "scn_17",
+  "retrieval_method": "enhanced",
+  "run_id": "f758fb11-d67c-4470-aa52-faf9aed01d85",
+  "trace": {
+    "run_id": "f758fb11-d67c-4470-aa52-faf9aed01d85",
+    "project": "social_care_rag",
+    "url": "https://eu.smith.langchain.com/o/me/runs/f758fb11-d67c-4470-aa52-faf9aed01d85"
+  },
+  "test_metadata": {
+    "local_authority": "york",
+    "query_id": "scn_17",
+    "query_category": "financial_scenarios",
+    "prompt_variation": "optimized",
+    "prompt_template": "\nPlease answer the following question about social care services in UK local authorities based only on the information in the provided documents.\n\nQuestion: {query}\n\nContext from relevant documents:\n{context}\n\nInstructions:\n1. Provide a clear, direct answer that would help someone needing this information. If information isn't available, state: \"The available documents don't provide specific information about [aspect].\"\n\n2. Synthesize information from ALL relevant documents to provide the most complete answer rather than analyzing documents individually.\n\n3. Structure your response with:\n   - A concise 1-2 sentence summary first\n   - Relevant details organized in short, clear paragraphs\n   - Bullet points for lists or step-by-step information\n   - Bold text for key information the user should notice\n\n4. For financial information:\n   - Include exact figures, time periods, and what the funding covers\n   - Present financial data clearly: \"The adult social care budget is **\u00a3X million** for [time period]\"\n\n5. Always include practical next steps or resources:\n   - Provide contact information, URLs, or application methods mentioned in the documents\n   - Suggest where the person could find more information\n\n6. When citing sources, use a simple format: \"According to [document name/description]\" or include URLs where available.\n\nAnswer:\n",
+    "processing_time": 6.416059255599976,
+    "timestamp": "2025-08-19T14:23:12.963918",
+    "top_k": 10
+  }
+}

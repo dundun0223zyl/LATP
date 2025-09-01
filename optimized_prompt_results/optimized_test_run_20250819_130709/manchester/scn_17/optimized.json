@@ -1,0 +1,287 @@
+{
+  "query": "I receive Attendance Allowance but my care needs have increased in manchester. Can the council provide additional financial support?",
+  "retrieved_documents": [
+    {
+      "content": ". Arrangements will be made for children attending school outside Manchester. This includes pupils in nursery classes and sixth form. Support for Care Leavers Care leavers under 25 living in their own tenancies will receive: \u00a310 per week for up to 52 weeks. Payments will be managed by the Leaving Care Team. Support for households receiving specific benefits Households receiving Council Tax Support and a disability benefit, for example, Disability Living Allowance (DLA)\u00a0or Personal Independence Payments (PIP) will get \u00a3130. Only one payment will be made per household. Payments If you pay council tax by Direct Debit : Payments will go directly into your bank account. If you pay council tax by cash at PayPoint, or by Standing order, bank transfer or online, or if you have no council tax to pay : You'll receive a Post Office Payout voucher by post. It can be cashed at any Post Office. Payments will be made in late October/early November 2025",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.manchester.gov.uk_info_200008_benefits_and_support_8251_winter_household_support_fund.txt",
+        "level": "level_2",
+        "source": "https://www.manchester.gov.uk/info/200008/benefits_and_support/8251/winter_household_support_fund",
+        "source_url": "https://www.manchester.gov.uk/info/200008/benefits_and_support/8251/winter_household_support_fund",
+        "total_chunks": 5,
+        "type": "web_page"
+      },
+      "id": "2eeb7dd6-2acf-4c15-ba2b-eb902776a7e4",
+      "distance": 0.5416968464851379,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1874909460544586,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". You can apply for a cash grant of between \u00a330 and \u00a360 if you are in crisis or have an emergency that's out of your control. To be eligible you must: live in the area covered by Manchester City Council ; and be 16 or over; and have no capital or savings; and get one of the following benefits; Income Support, Jobseeker's Allowance, Employment and Support Allowance, Universal Credit\u00a0or Guaranteed Pension Credit not be experiencing hardship because of a decision by the Department of Work and Pensions (if you are, visit the DWP website or call 0345 608 8545); and not have already received a cash grant within the last 12 months, or We are also temporarily offering support\u00a0to carers, including households where a child or young person is the carer. The carer does not need to meet the eligibility criteria",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.manchester.gov.uk_info_200008_benefits_and_support_6302_apply_for_a_loan_if_you_are_in_financial.txt",
+        "level": "level_3",
+        "source": "https://www.manchester.gov.uk/info/200008/benefits_and_support/6302/apply_for_a_loan_if_you_are_in_financial_crisis",
+        "source_url": "https://www.manchester.gov.uk/info/200008/benefits_and_support/6302/apply_for_a_loan_if_you_are_in_financial_crisis",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "c8c16500-8980-4675-b10a-277f1f30cdba",
+      "distance": 0.5669246315956116,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.17992261052131653,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Benefits and support Extra help with your council tax bill Discretionary Council Tax Payments You may be able to get temporary help\u00a0through a\u00a0discretionary payment\u00a0in certain circumstances, if you are struggling to pay your council tax. There are no definite rules for who qualifies\u00a0- you don't even have to be entitled to Council Tax Support.\u00a0We look at each application individually. But you must: live in the area covered by Manchester City Council; and be in severe hardship through unusual circumstances. We are more likely to give you extra help if: you started to have problems recently - after a reduction in Council Tax Support for instance - rather than having had problems\u00a0for a long time your council tax problems are out of the control of you and your household - we expect adults who live with you to contribute to the bill you will work with us to pay off any council tax you owe, and are likely to stay out of debt in the future",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.manchester.gov.uk_info_500181_council_tax_support_6317_changes_to_council_tax_support.txt",
+        "level": "level_3",
+        "source": "https://www.manchester.gov.uk/info/500181/council_tax_support/6317/changes_to_council_tax_support",
+        "source_url": "https://www.manchester.gov.uk/info/500181/council_tax_support/6317/changes_to_council_tax_support",
+        "total_chunks": 3,
+        "type": "web_page"
+      },
+      "id": "193b9d38-1cfa-446f-9561-283b30d38698",
+      "distance": 0.625826358795166,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1622520923614502,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "(Appendix D) and financially assess you after this period (see Section 9),  \nIf you have access to savings and investments that are above \u00a323,250 (not including \nyour main home) :  \n\u2022 You will usually need to arrange to be placed  and pay for the care home yourself . \nIf you choose a care home in Manchester , you can contact us when your savings \nand investments drop below \u00a323,250 . We will then assess your finances to check \nthat there has been no ineligible spending (deprivation of capital, see Appendix \nE). If the care home you choose is in another Council\u2019s area, you will need to \ncontact that Council when your savings drop below \u00a323,250 .",
+      "metadata": {
+        "chunk_id": 12,
+        "contains_financial_info": true,
+        "download_url": "",
+        "extraction_method": "PyPDF2",
+        "filename": "residential_charging_policy_2025-2026.pdf",
+        "financial_pages": "[2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 21]",
+        "level": "level_2",
+        "page_count": 21,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21]",
+        "source": "residential_charging_policy_2025-2026.pdf",
+        "source_url": "",
+        "total_chunks": 51,
+        "type": "pdf"
+      },
+      "id": "9ec5e66e-f822-4e98-94b3-2f9104e6b3ac",
+      "distance": 0.6300317049026489,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.16099048852920533,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Social services Paying for social care and support Working out your contributions Independent financial advice for care charges How to pay your contribution Queries about your statement or problems making payments Deferred payments for residential care Residential Care Top Ups Working out your contributions Social care, unlike health care, is not free, so following on from your Care Needs Assessment, which works out what support you need and how much it will cost to provide, we\u2019ll offer to complete a financial assessment to work out how much of that cost Manchester City Council can cover, and how much you\u2019ll need to pay for yourself. Depending on the amount of\u00a0income, savings or assets you have, you may have to contribute towards some or all of your social care and support services. There are Government guidelines on how much you can have in savings or assets before you will be asked to pay for your support. Like all Local Authorities, we are obliged to follow these rules",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.manchester.gov.uk_info_100010_social_services_372_paying_for_social_care_and_support.txt",
+        "level": "level_2",
+        "source": "https://www.manchester.gov.uk/info/100010/social_services/372/paying_for_social_care_and_support",
+        "source_url": "https://www.manchester.gov.uk/info/100010/social_services/372/paying_for_social_care_and_support",
+        "total_chunks": 6,
+        "type": "web_page"
+      },
+      "id": "635bb782-c981-4254-a461-2bd6279d7a24",
+      "distance": 0.6413464546203613,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1575960636138916,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Social services Paying for social care and support Working out your contributions Independent financial advice for care charges How to pay your contribution Queries about your statement or problems making payments Deferred payments for residential care Residential Care Top Ups Working out your contributions Social care, unlike health care, is not free, so following on from your Care Needs Assessment, which works out what support you need and how much it will cost to provide, we\u2019ll offer to complete a financial assessment to work out how much of that cost Manchester City Council can cover, and how much you\u2019ll need to pay for yourself. Depending on the amount of\u00a0income, savings or assets you have, you may have to contribute towards some or all of your social care and support services. There are Government guidelines on how much you can have in savings or assets before you will be asked to pay for your support. Like all Local Authorities, we are obliged to follow these rules",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.manchester.gov.uk_info_100010_social_care_and_support_372_paying_for_social_care_and_support.txt",
+        "level": "level_1",
+        "source": "http://www.manchester.gov.uk/info/100010/social_care_and_support/372/paying_for_social_care_and_support",
+        "source_url": "http://www.manchester.gov.uk/info/100010/social_care_and_support/372/paying_for_social_care_and_support",
+        "total_chunks": 6,
+        "type": "web_page"
+      },
+      "id": "e4f0331b-8413-4c89-8f01-9bcd47d06cb6",
+      "distance": 0.6413466130836403,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.15759601607490792,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "cost of any care you may receive.   \nIf you are not eligible for Council Funding because you have capital  over \u00a323,250 \n(excluding, the value of your main or only home)  your care assessor can assist you  with \nfinding a placement . In most cases  they will advise you to make private funding \narrangements with the residential home you choose.  \nIf you have capital over \u00a323,250 but do not have the capacity to deal with your own finances and do not  have a Power of Attorney/Deputy dealing with your affairs, the \nCouncil will arrange the payment of your placement until someone can manage your \nfinances . You will be invoiced for the full cost of the placement  until a Power of Attorney \nor Deputy has been appointed. If you still have capital of over \u00a323,250 once the \noutstanding charges have been paid, you will be advised to make private funding \narrangement s with the residential home,  and we will stop paying the home.  \nIn this policy w hen w e say, \u2018us\u2019 or \u2018we ,\u2019 we mean Manchester City Council. When we",
+      "metadata": {
+        "chunk_id": 5,
+        "contains_financial_info": true,
+        "download_url": "",
+        "extraction_method": "PyPDF2",
+        "filename": "residential_charging_policy_2025-2026.pdf",
+        "financial_pages": "[2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 21]",
+        "level": "level_2",
+        "page_count": 21,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21]",
+        "source": "residential_charging_policy_2025-2026.pdf",
+        "source_url": "",
+        "total_chunks": 51,
+        "type": "pdf"
+      },
+      "id": "613cea60-8370-4edc-b90a-7b850aae8d4e",
+      "distance": 0.6549093723297119,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.15352718830108641,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Grants for Care Leavers: Help accessing financial grants available to care leavers. Important: Keep all your important documents safe. We cannot fund replacements if they are lost. Financial Support for Young People Leaving Care We have a comprehensive financial support package for young people leaving care, which is detailed in our Leaving Care Financial Policy . Manchester Leaving Care Financial Entitlements Money Management Advice: Guidance on managing your finances and budgeting for education, employment, and independent living. Maintenance Allowance: Receive \u00a358.90 per week if you are 16 or 17 years old, or a relevant care leaver living independently or semi-independently. Clothing Allowance: For 16 and 17-year-olds living in semi-independent accommodation. Benefits Support: Assistance in claiming eligible benefits up to six weeks before your 18th birthday if you are in education or have a low income. Bridging payments may be available",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.manchester.gov.uk_info_500319_care_leavers_8897_money_matters.txt",
+        "level": "level_2",
+        "source": "https://www.manchester.gov.uk/info/500319/care_leavers/8897/money_matters",
+        "source_url": "https://www.manchester.gov.uk/info/500319/care_leavers/8897/money_matters",
+        "total_chunks": 6,
+        "type": "web_page"
+      },
+      "id": "d928812e-585e-46cc-ae02-0b05e5a884e3",
+      "distance": 0.6908946633338928,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.14273160099983215,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Benefits and support Household Support Fund Household Support Fund Winter fuel hardship fund The Household Support Fund helps vulnerable households affected by the cost-of-living crisis. If you qualify for a targeted payment of \u00a3130, payment will be made in October/November 2025. Only one payment will be made for the period from 1 April 2025 to 31 March 2026. Support for families with children eligible for Free School Meals The scheme will help around 47,000 children in Manchester, it includes: \u00a330 per child for the\u00a02025/2026 Easter holiday \u00a315 per child for the 2025/2026 May half-term \u00a350 per child for the 2025/2026 Summer holiday \u00a315 per child for the 2025/2026 October half-term \u00a330 per child for the 2025/2026 Christmas holiday \u00a315 per child for the 2025/2026 February half-term Payments will be distributed by Manchester schools. Arrangements will be made for children attending school outside Manchester. This includes pupils in nursery classes and sixth form",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.manchester.gov.uk_info_200008_benefits_and_support_8251_winter_household_support_fund.txt",
+        "level": "level_2",
+        "source": "https://www.manchester.gov.uk/info/200008/benefits_and_support/8251/winter_household_support_fund",
+        "source_url": "https://www.manchester.gov.uk/info/200008/benefits_and_support/8251/winter_household_support_fund",
+        "total_chunks": 5,
+        "type": "web_page"
+      },
+      "id": "5b842f06-3957-4201-afd0-37c7172f7037",
+      "distance": 0.705337643623352,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.13839870691299438,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". If you, or someone who is aged 18 or over and lives in the area covered by Manchester City Council , needs care and support, you can contact us for advice, information and an assessment of your needs. We\u2019ll talk to you about your situation and ask questions to understand how you are currently managing and what your likely needs may be. We'll do this even if you choose to pay for services yourself. We'll also provide advice, information and an assessment of your needs if you care for someone else \u2013 whether or not they choose to have an assessment themselves. You can contact us by: Phone: 0161 234 5001 Email: mcsreply@manchester.gov.uk Online, through: Sign-Video Our SMS service is currently unavailable - we hope to have it back soon",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.manchester.gov.uk_info_100010_social_services_3584_get_help_support_or_social_care.txt",
+        "level": "level_1",
+        "source": "http://www.manchester.gov.uk/info/100010/social_services/3584/get_help_support_or_social_care",
+        "source_url": "http://www.manchester.gov.uk/info/100010/social_services/3584/get_help_support_or_social_care",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "e89fbc4f-15f7-444a-8ae6-59b3eca55ff4",
+      "distance": 0.7054986980691483,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1383503905792555,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    }
+  ],
+  "context": "[Document 1] From https://www (web_page) - URL: https://www.manchester.gov.uk/info/200008/benefits_and_support/8251/winter_household_support_fund [Retrieved via: semantic_original]:\n. Arrangements will be made for children attending school outside Manchester. This includes pupils in nursery classes and sixth form. Support for Care Leavers Care leavers under 25 living in their own tenancies will receive: \u00a310 per week for up to 52 weeks. Payments will be managed by the Leaving Care Team. Support for households receiving specific benefits Households receiving Council Tax Support and a disability benefit, for example, Disability Living Allowance (DLA)\u00a0or Personal Independence Payments (PIP) will get \u00a3130. Only one payment will be made per household. Payments If you pay council tax by Direct Debit : Payments will go directly into your bank account. If you pay council tax by cash at PayPoint, or by Standing order, bank transfer or online, or if you have no council tax to pay : You'll receive a Post Office Payout voucher by post. It can be cashed at any Post Office. Payments will be made in late October/early November 2025\n\n[Document 2] From https://www (web_page) - URL: https://www.manchester.gov.uk/info/200008/benefits_and_support/6302/apply_for_a_loan_if_you_are_in_financial_crisis [Retrieved via: semantic_original]:\n. You can apply for a cash grant of between \u00a330 and \u00a360 if you are in crisis or have an emergency that's out of your control. To be eligible you must: live in the area covered by Manchester City Council ; and be 16 or over; and have no capital or savings; and get one of the following benefits; Income Support, Jobseeker's Allowance, Employment and Support Allowance, Universal Credit\u00a0or Guaranteed Pension Credit not be experiencing hardship because of a decision by the Department of Work and Pensions (if you are, visit the DWP website or call 0345 608 8545); and not have already received a cash grant within the last 12 months, or We are also temporarily offering support\u00a0to carers, including households where a child or young person is the carer. The carer does not need to meet the eligibility criteria\n\n[Document 3] From https://www (web_page) - URL: https://www.manchester.gov.uk/info/500181/council_tax_support/6317/changes_to_council_tax_support [Retrieved via: semantic_original]:\nBenefits and support Extra help with your council tax bill Discretionary Council Tax Payments You may be able to get temporary help\u00a0through a\u00a0discretionary payment\u00a0in certain circumstances, if you are struggling to pay your council tax. There are no definite rules for who qualifies\u00a0- you don't even have to be entitled to Council Tax Support.\u00a0We look at each application individually. But you must: live in the area covered by Manchester City Council; and be in severe hardship through unusual circumstances. We are more likely to give you extra help if: you started to have problems recently - after a reduction in Council Tax Support for instance - rather than having had problems\u00a0for a long time your council tax problems are out of the control of you and your household - we expect adults who live with you to contribute to the bill you will work with us to pay off any council tax you owe, and are likely to stay out of debt in the future\n\n[Document 4] From residential charging policy 2025 2026 (pdf) - 21 pages [Retrieved via: semantic_original]:\n(Appendix D) and financially assess you after this period (see Section 9),  \nIf you have access to savings and investments that are above \u00a323,250 (not including \nyour main home) :  \n\u2022 You will usually need to arrange to be placed  and pay for the care home yourself . \nIf you choose a care home in Manchester , you can contact us when your savings \nand investments drop below \u00a323,250 . We will then assess your finances to check \nthat there has been no ineligible spending (deprivation of capital, see Appendix \nE). If the care home you choose is in another Council\u2019s area, you will need to \ncontact that Council when your savings drop below \u00a323,250 .\n\n[Document 5] From https://www (web_page) - URL: https://www.manchester.gov.uk/info/100010/social_services/372/paying_for_social_care_and_support [Retrieved via: semantic_original]:\nSocial services Paying for social care and support Working out your contributions Independent financial advice for care charges How to pay your contribution Queries about your statement or problems making payments Deferred payments for residential care Residential Care Top Ups Working out your contributions Social care, unlike health care, is not free, so following on from your Care Needs Assessment, which works out what support you need and how much it will cost to provide, we\u2019ll offer to complete a financial assessment to work out how much of that cost Manchester City Council can cover, and how much you\u2019ll need to pay for yourself. Depending on the amount of\u00a0income, savings or assets you have, you may have to contribute towards some or all of your social care and support services. There are Government guidelines on how much you can have in savings or assets before you will be asked to pay for your support. Like all Local Authorities, we are obliged to follow these rules\n\n[Document 6] From http://www (web_page) - URL: http://www.manchester.gov.uk/info/100010/social_care_and_support/372/paying_for_social_care_and_support [Retrieved via: semantic_original]:\nSocial services Paying for social care and support Working out your contributions Independent financial advice for care charges How to pay your contribution Queries about your statement or problems making payments Deferred payments for residential care Residential Care Top Ups Working out your contributions Social care, unlike health care, is not free, so following on from your Care Needs Assessment, which works out what support you need and how much it will cost to provide, we\u2019ll offer to complete a financial assessment to work out how much of that cost Manchester City Council can cover, and how much you\u2019ll need to pay for yourself. Depending on the amount of\u00a0income, savings or assets you have, you may have to contribute towards some or all of your social care and support services. There are Government guidelines on how much you can have in savings or assets before you will be asked to pay for your support. Like all Local Authorities, we are obliged to follow these rules\n\n[Document 7] From residential charging policy 2025 2026 (pdf) - 21 pages [Retrieved via: semantic_original]:\ncost of any care you may receive.   \nIf you are not eligible for Council Funding because you have capital  over \u00a323,250 \n(excluding, the value of your main or only home)  your care assessor can assist you  with \nfinding a placement . In most cases  they will advise you to make private funding \narrangements with the residential home you choose.  \nIf you have capital over \u00a323,250 but do not have the capacity to deal with your own finances and do not  have a Power of Attorney/Deputy dealing with your affairs, the \nCouncil will arrange the payment of your placement until someone can manage your \nfinances . You will be invoiced for the full cost of the placement  until a Power of Attorney \nor Deputy has been appointed. If you still have capital of over \u00a323,250 once the \noutstanding charges have been paid, you will be advised to make private funding \narrangement s with the residential home,  and we will stop paying the home.  \nIn this policy w hen w e say, \u2018us\u2019 or \u2018we ,\u2019 we mean Manchester City Council. When we\n\n[Document 8] From https://www (web_page) - URL: https://www.manchester.gov.uk/info/500319/care_leavers/8897/money_matters [Retrieved via: semantic_original]:\n. Grants for Care Leavers: Help accessing financial grants available to care leavers. Important: Keep all your important documents safe. We cannot fund replacements if they are lost. Financial Support for Young People Leaving Care We have a comprehensive financial support package for young people leaving care, which is detailed in our Leaving Care Financial Policy . Manchester Leaving Care Financial Entitlements Money Management Advice: Guidance on managing your finances and budgeting for education, employment, and independent living. Maintenance Allowance: Receive \u00a358.90 per week if you are 16 or 17 years old, or a relevant care leaver living independently or semi-independently. Clothing Allowance: For 16 and 17-year-olds living in semi-independent accommodation. Benefits Support: Assistance in claiming eligible benefits up to six weeks before your 18th birthday if you are in education or have a low income. Bridging payments may be available\n\n[Document 9] From https://www (web_page) - URL: https://www.manchester.gov.uk/info/200008/benefits_and_support/8251/winter_household_support_fund [Retrieved via: semantic_original]:\nBenefits and support Household Support Fund Household Support Fund Winter fuel hardship fund The Household Support Fund helps vulnerable households affected by the cost-of-living crisis. If you qualify for a targeted payment of \u00a3130, payment will be made in October/November 2025. Only one payment will be made for the period from 1 April 2025 to 31 March 2026. Support for families with children eligible for Free School Meals The scheme will help around 47,000 children in Manchester, it includes: \u00a330 per child for the\u00a02025/2026 Easter holiday \u00a315 per child for the 2025/2026 May half-term \u00a350 per child for the 2025/2026 Summer holiday \u00a315 per child for the 2025/2026 October half-term \u00a330 per child for the 2025/2026 Christmas holiday \u00a315 per child for the 2025/2026 February half-term Payments will be distributed by Manchester schools. Arrangements will be made for children attending school outside Manchester. This includes pupils in nursery classes and sixth form\n\n[Document 10] From http://www (web_page) - URL: http://www.manchester.gov.uk/info/100010/social_services/3584/get_help_support_or_social_care [Retrieved via: semantic_original]:\n. If you, or someone who is aged 18 or over and lives in the area covered by Manchester City Council , needs care and support, you can contact us for advice, information and an assessment of your needs. We\u2019ll talk to you about your situation and ask questions to understand how you are currently managing and what your likely needs may be. We'll do this even if you choose to pay for services yourself. We'll also provide advice, information and an assessment of your needs if you care for someone else \u2013 whether or not they choose to have an assessment themselves. You can contact us by: Phone: 0161 234 5001 Email: mcsreply@manchester.gov.uk Online, through: Sign-Video Our SMS service is currently unavailable - we hope to have it back soon\n",
+  "answer": "If your care needs have increased in Manchester and you are receiving Attendance Allowance, you may be eligible for additional financial support through Manchester City Council's services.\n\n**Key Points:**\n- **Financial Assessment:** You can request a Care Needs Assessment from Manchester City Council to determine the support you need and how much it will cost. Following this, a financial assessment will be conducted to see how much of the cost the council can cover and how much you may need to contribute yourself (Documents 5 and 6).\n- **Crisis Support:** If you are in financial crisis, you might be eligible for a cash grant between \u00a330 and \u00a360, provided you meet certain criteria such as receiving specific benefits like Income Support or Universal Credit (Document 2).\n- **Household Support Fund:** If you receive Council Tax Support and a disability benefit, you might qualify for a one-time payment of \u00a3130 from the Household Support Fund (Documents 1 and 9).\n\n**Next Steps:**\n- **Contact Manchester City Council** for a Care Needs Assessment by phone at 0161 234 5001 or email at mcsreply@manchester.gov.uk (Document 10).\n- **Explore the Household Support Fund** and other benefits you might be eligible for by visiting the Manchester City Council's website or contacting them directly.\n\nFor more detailed information, you can visit the Manchester City Council's website or contact them using the provided phone number or email.",
+  "metrics": {
+    "duration_seconds": 12.249390125274658,
+    "retrieved_docs_count": 10,
+    "query_length": 132,
+    "answer_length": 1442,
+    "retrieval_method": "enhanced",
+    "context_utilization": 0.17857142857142858,
+    "citations_count": 1,
+    "has_citations": true,
+    "query_relevance": 0.9375,
+    "unique_retrieval_methods": 1,
+    "budget_documents_retrieved": 2,
+    "retrieval_methods_used": [
+      "semantic_original"
+    ],
+    "retrieval_method_distribution": {
+      "semantic_original": 10
+    }
+  },
+  "local_authority": "manchester",
+  "query_id": "scn_17",
+  "retrieval_method": "enhanced",
+  "run_id": "3f32028c-47df-4613-8d9d-55f224c0f0a1",
+  "trace": {
+    "run_id": "3f32028c-47df-4613-8d9d-55f224c0f0a1",
+    "project": "social_care_rag",
+    "url": "https://eu.smith.langchain.com/o/me/runs/3f32028c-47df-4613-8d9d-55f224c0f0a1"
+  },
+  "test_metadata": {
+    "local_authority": "manchester",
+    "query_id": "scn_17",
+    "query_category": "financial_scenarios",
+    "prompt_variation": "optimized",
+    "prompt_template": "\nPlease answer the following question about social care services in UK local authorities based only on the information in the provided documents.\n\nQuestion: {query}\n\nContext from relevant documents:\n{context}\n\nInstructions:\n1. Provide a clear, direct answer that would help someone needing this information. If information isn't available, state: \"The available documents don't provide specific information about [aspect].\"\n\n2. Synthesize information from ALL relevant documents to provide the most complete answer rather than analyzing documents individually.\n\n3. Structure your response with:\n   - A concise 1-2 sentence summary first\n   - Relevant details organized in short, clear paragraphs\n   - Bullet points for lists or step-by-step information\n   - Bold text for key information the user should notice\n\n4. For financial information:\n   - Include exact figures, time periods, and what the funding covers\n   - Present financial data clearly: \"The adult social care budget is **\u00a3X million** for [time period]\"\n\n5. Always include practical next steps or resources:\n   - Provide contact information, URLs, or application methods mentioned in the documents\n   - Suggest where the person could find more information\n\n6. When citing sources, use a simple format: \"According to [document name/description]\" or include URLs where available.\n\nAnswer:\n",
+    "processing_time": 12.251032829284668,
+    "timestamp": "2025-08-19T14:06:17.206292",
+    "top_k": 10
+  }
+}

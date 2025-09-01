@@ -1,0 +1,317 @@
+{
+  "query": "I'm moving from Coventry to Southampton. Will I need a new care needs assessment or can my current care package transfer?",
+  "retrieved_documents": [
+    {
+      "content": "Contents Contents Page 1 / 23 You are here: Introduction What has changed since our last MPS? How we work Coventry care market - our strengths Developing the care market - our\u00a0expectations and support offer Coventry\u2019s key commissioning  priorities Provider business opportunities Areas for development Supply Current services for learning disability and autism Current services for mental health support Current services for 65+ support Community-based support services\u00a0(all client groups) Current services for unpaid carers What we have: voluntary, third\u00a0sector and additional support Demand and demographics Coventry City Council Adult Social\u00a0Care - demand data Census 2021 Joint Strategic Needs Assessment POPPI and PANSI data Individual and carer feedback Financial context Technical appendices Introduction We want to ensure that all adults with care and support needs, and carers, in Coventry can live as independently, safe, and well as possible and have real choice and control over the care they receive",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.coventry.gov.uk_adult-social-care-strategies-policies-plans_market-position-statement-2024-2029.txt",
+        "level": "level_2",
+        "source": "https://www.coventry.gov.uk/adult-social-care-strategies-policies-plans/market-position-statement-2024-2029",
+        "source_url": "https://www.coventry.gov.uk/adult-social-care-strategies-policies-plans/market-position-statement-2024-2029",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "3da3f172-778f-4223-a3a5-aa8e38d7d915",
+      "distance": 0.6598414778709412,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.15204755663871766,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "a carers\u2019 direct payment might be a solution. The practitioner \ncompleting the assessment will talk this through with you. \nAn assessment of your needs as a carer will explore your \noverall wellbeing, the impact caring has on your life and will \nprovide you with individual information and advice. It\u2019s an \nopportunity for you to talk to someone in detail about your \ncaring role, what matters most to you and what you might like \nto achieve. \n }Who can have a carers\u2019 assessment? \nAnyone caring for an adult can receive a carers\u2019 assessment \nregardless of how long you have been caring and the \nintensity of your caring role. Caring impacts everyone \ndifferently so it\u2019s important we understand your situation  \nand impact being a carer has on you. \nCarers\u2019 Direct Payments  \nAdult Social Care\nA guide to Carers\u2019 Direct Payments \u2013 Coventry City Council \n }Contact Adult Social Care Direct \nCall 024 7683 3003  \nor email ascdirect@coventry.gov.uk \nor visit www.coventry.gov.uk/health-social-care",
+      "metadata": {
+        "chunk_id": 1,
+        "contains_financial_info": true,
+        "download_url": "",
+        "extraction_method": "PyPDF2",
+        "filename": "carers-direct-payments.pdf",
+        "financial_pages": "[2]",
+        "level": "level_2",
+        "page_count": 2,
+        "pages_with_content": "[1, 2]",
+        "source": "carers-direct-payments.pdf",
+        "source_url": "",
+        "total_chunks": 9,
+        "type": "pdf"
+      },
+      "id": "8af4d6ae-a20e-4884-b3a9-315a702fe3da",
+      "distance": 0.6603956818580627,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.15188129544258117,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 4 - FINANCIAL/BUDGET INFORMATION]\n\uf0a3Assessing your needs\nIf you appear to have ongoing care and support needs, then we will provide a care and \nsupport assessment. To assist us all to determine what support you can receive through the \nCouncil and how much you will have to pay towards your care, we will use the guidance set \nout in the Care Act 2014 explained here \nwww.legislation.gov.uk/ukpga/2014/23/contents/enacted \nIf the care and support is after a stay in hospital, we will make sure support is in place when \nit is needed so you can return home safely. Discharge pathways can be found here \nwww.coventry.gov.uk/nhs-services/guide-short-termdischarge-assess-\nd2a-services \nIf you require independent support to help you to understand information or to express your \nviews, we will make sure this is available for you. We can support you with this by involving a \nsuitable family member or friend or Advocate if needed.",
+      "metadata": {
+        "chunk_id": 10,
+        "contains_financial_info": true,
+        "download_url": "",
+        "extraction_method": "PyPDF2",
+        "filename": "adult-social-care-offer-short-version-.pdf",
+        "financial_pages": "[1, 2, 3, 4]",
+        "level": "level_2",
+        "page_count": 4,
+        "pages_with_content": "[1, 2, 3, 4]",
+        "source": "adult-social-care-offer-short-version-.pdf",
+        "source_url": "",
+        "total_chunks": 14,
+        "type": "pdf"
+      },
+      "id": "38601abc-6b96-4c6e-b617-fc1241d7533d",
+      "distance": 0.6666080951690674,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1500175714492798,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 8 - FINANCIAL/BUDGET INFORMATION]\nIf you need to pay for some of the support we provide for you we will ask you to \ncomplete a financial assessment https://coventry.bettercare.org.uk/#/home.  \nThat way we can work out how much you can pay. If you don\u2019t want to tell us about \nyour money, you will have to pay for all of your care. You can still get information \nand advice about services available from us.\n\uf0a3 Supporting Carers\nWe will offer you a carer\u2019s assessment if you are providing unpaid care. We will \ntalk to you about how you want your assessment to be undertaken. This might be \nalongside the person you are caring for, sometimes called a combined or joint \nassessment or you may wish to have your assessment undertaken separately. \nWe will explore what is important to you, how your caring role impacts you, what \nparts of your caring role you want to maintain, need support with or want to end.  \nWe will explore how regularly you are able to take breaks and the other areas of",
+      "metadata": {
+        "chunk_id": 23,
+        "contains_financial_info": true,
+        "download_url": "",
+        "extraction_method": "PyPDF2",
+        "filename": "adult-social-care-offer-full-version-with-translation-details-.pdf",
+        "financial_pages": "[1, 2, 3, 4, 5, 7, 8, 9, 11]",
+        "level": "level_2",
+        "page_count": 12,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]",
+        "source": "adult-social-care-offer-full-version-with-translation-details-.pdf",
+        "source_url": "",
+        "total_chunks": 36,
+        "type": "pdf"
+      },
+      "id": "4999b7b3-6ef7-40c5-9c78-bc932b10ba7e",
+      "distance": 0.6704484820365906,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.14886545538902282,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 7 - FINANCIAL/BUDGET INFORMATION]\nIf you are admitted to hospital and need support on discharge, this can be arranged by \neither the team of professionals based at the hospital or Adult Social Care.\nIf you need ongoing care, we will look at whether you need further support and move \non to the next stage. This stage of the assessment includes making decisions about \nyour ongoing needs and whether you are eligible for continued support from the \nCouncil. It will also involve having a financial assessment  \nwww.coventry.gov.uk/money-legal-matters/financial-assessment-overview  to \nfind out if you need to pay towards the cost of your care.\n\uf0a3 Assessing your needs \nIf you appear to have ongoing care and support needs, then we will provide a \ncare and support assessment. To assist us all to determine what support you can \nreceive through the Council, we will use the guidance set out in the Care Act 2014 \nwww.legislation.gov.uk/ukpga/2014/23/contents/enacted  (please see further",
+      "metadata": {
+        "chunk_id": 19,
+        "contains_financial_info": true,
+        "download_url": "",
+        "extraction_method": "PyPDF2",
+        "filename": "adult-social-care-offer-full-version-with-translation-details-.pdf",
+        "financial_pages": "[1, 2, 3, 4, 5, 7, 8, 9, 11]",
+        "level": "level_2",
+        "page_count": 12,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]",
+        "source": "adult-social-care-offer-full-version-with-translation-details-.pdf",
+        "source_url": "",
+        "total_chunks": 36,
+        "type": "pdf"
+      },
+      "id": "21a7640f-59ca-4f5f-a186-d025565a373a",
+      "distance": 0.6891500353813171,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.14325498938560485,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Payments can be made by Direct Debit, over the phone by calling 024 7683 4884, \nor at www.coventry.gov.uk  \n\t}Four-weekly invoices  \nIf you pay a charge towards an Adult Social Care arranged care package, we will \nsend you an invoice every four weeks. This invoice will show any amendments to \nthe weekly charge. \n\t}When will the charges start? \nYour charge will start from the day the care service package begins. If the financial \nassessment visit takes place after the care service has started, we will backdate \nthe charge to the start date of the care service. \nIf you do not provide the information needed to complete the financial assessment, \nwe will assume you have enough funds to pay the maximum charge for your care \nand support package. \n4",
+      "metadata": {
+        "chunk_id": 8,
+        "contains_financial_info": true,
+        "download_url": "",
+        "extraction_method": "PyPDF2",
+        "filename": "adult_social_care_charging_for_non_residental_care_services_leaflet.pdf",
+        "financial_pages": "[2, 3, 4, 5, 6]",
+        "level": "level_2",
+        "page_count": 8,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8]",
+        "source": "adult_social_care_charging_for_non_residental_care_services_leaflet.pdf",
+        "source_url": "",
+        "total_chunks": 13,
+        "type": "pdf"
+      },
+      "id": "29b9cc23-2381-4035-8391-c4383f4f9468",
+      "distance": 0.6896542906761169,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1431037127971649,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Further information on carers assessments, support and how to access this are available via the Council website. You can also complete a Carer\u2019s Assessment for yourself on our website. Information is also available via the Carers Trust Heart of England, an organisation commissioned by the Council to deliver a range of support (including training, support, information and advice and planned and emergency breaks) to carers in Coventry, with no charge to the carer. Key objectives The Carers' Action Plan 2024-26 has been developed following analysis of the biennial Survey of Adult Carers in England 2021/22, a local \u2018Let\u2019s Talk\u2019 Coventry Carers' Survey undertaken in 2023 and using national information and data sets",
+      "metadata": {
+        "chunk_id": 4,
+        "filename": "www.coventry.gov.uk_carersactionplan.txt",
+        "level": "level_2",
+        "source": "https://www.coventry.gov.uk/carersactionplan",
+        "source_url": "https://www.coventry.gov.uk/carersactionplan",
+        "total_chunks": 8,
+        "type": "web_page"
+      },
+      "id": "5c379691-b714-4c0d-aedc-007a439e06a4",
+      "distance": 0.6989730596542358,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.14030808210372925,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "receive through the Council, we will use the guidance set out in the Care Act 2014 \nwww.legislation.gov.uk/ukpga/2014/23/contents/enacted  (please see further \ninformation below). The Care Act 2014 also sets out the basis for understanding how \nwe will work out how much you will pay towards your care.\nThe assessment will help you explain your situation and what you want to achieve and \nthink about the choices available to you. \nIf you are in hospital and need support on discharge, we will make sure support is in \nplace, when it is needed, so you can return home safely. \nIf this isn\u2019t possible, we will arrange for you to move to a temporary care setting, so \nyou don\u2019t have to stay longer in hospital than you need to. We will identify which \none of the discharge pathways  www.coventry.gov.uk/nhs-services/guide-short \n-termdischarge-assess-d2a-services  best meet your needs identified at the point \nof discharge from hospital, this will then be followed by a care and support assessment",
+      "metadata": {
+        "chunk_id": 20,
+        "contains_financial_info": true,
+        "download_url": "",
+        "extraction_method": "PyPDF2",
+        "filename": "adult-social-care-offer-full-version-with-translation-details-.pdf",
+        "financial_pages": "[1, 2, 3, 4, 5, 7, 8, 9, 11]",
+        "level": "level_2",
+        "page_count": 12,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]",
+        "source": "adult-social-care-offer-full-version-with-translation-details-.pdf",
+        "source_url": "",
+        "total_chunks": 36,
+        "type": "pdf"
+      },
+      "id": "35c856da-1b81-49b1-8e1d-f8005fab29da",
+      "distance": 0.7004138231277466,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.13987585306167602,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "need regular help or supervision. There are a range of homes across Coventry that \nthe Council either runs, or purchases services from. The Council also purchases \nseveral places outside the city for reasons such as specialist services being \nunavailable locally or customer choice. In Coventry, there is a range of different \ncare homes, each catering to people with varying needs and disabilities, for \nexample, dementia. Some care homes are registered to provide both residential \nand nursing care. \n                    Nursing Homes     \nA nursing home is like a residential home but with a nurse or nurses on-site to \nsupport people with health-specific issues. The NHS may be able to help with the \ncost of these placements with NHS Continuing Healthcare funding. If you, a family \nmember, or someone you care for is thinking about residential or nursing care, \ncontact Adult Social Care Direct. We will discuss whether you would benefit from",
+      "metadata": {
+        "chunk_id": 12,
+        "contains_financial_info": true,
+        "download_url": "",
+        "extraction_method": "PyPDF2",
+        "filename": "adult_social_care_and_support_available_printable_leaflet.pdf",
+        "financial_pages": "[3, 4, 6]",
+        "level": "level_2",
+        "page_count": 8,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8]",
+        "source": "adult_social_care_and_support_available_printable_leaflet.pdf",
+        "source_url": "",
+        "total_chunks": 15,
+        "type": "pdf"
+      },
+      "id": "b9d76c8a-c359-4f06-a0e2-5b9286bd863c",
+      "distance": 0.7004315853118896,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1398705244064331,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". (such as bereavement of a loved one, loss of employment or change of relationship) Supporting working carers by working with employers in Coventry that will look to empower carers to remain in the workforce. Carers' passports and information is shared. Reducing carer hardship and poverty by providing Carers direct payments to carers. Sharing information and signposting to job coaches and financial advice, benefit advice and support on the cost of living. Enhancing support for carers by ensuring all communities in Coventry are enabled to access carers' services and information. Supporting Young Carers if additional support is required regarding their caring responsibilities. Offer Young Carers and Young Adult Carer assessments when appropriate. For further information you can email contactus@carerstrusthofe.org.uk , call on 024 7663 2972 or look at the Carers Trust Heart of England website. View a print version",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.coventry.gov.uk_info_76_carers_support_3822_carers_enhanced_offer.txt",
+        "level": "level_2",
+        "source": "https://www.coventry.gov.uk/info/76/carers_support/3822/carers_enhanced_offer",
+        "source_url": "https://www.coventry.gov.uk/info/76/carers_support/3822/carers_enhanced_offer",
+        "total_chunks": 3,
+        "type": "web_page"
+      },
+      "id": "ec208242-84d3-4adf-a2cb-6268bc0ed40e",
+      "distance": 0.7050783634185791,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.13847649097442627,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    }
+  ],
+  "context": "[Document 1] From https://www (web_page) - URL: https://www.coventry.gov.uk/adult-social-care-strategies-policies-plans/market-position-statement-2024-2029 [Retrieved via: semantic_original]:\nContents Contents Page 1 / 23 You are here: Introduction What has changed since our last MPS? How we work Coventry care market - our strengths Developing the care market - our\u00a0expectations and support offer Coventry\u2019s key commissioning  priorities Provider business opportunities Areas for development Supply Current services for learning disability and autism Current services for mental health support Current services for 65+ support Community-based support services\u00a0(all client groups) Current services for unpaid carers What we have: voluntary, third\u00a0sector and additional support Demand and demographics Coventry City Council Adult Social\u00a0Care - demand data Census 2021 Joint Strategic Needs Assessment POPPI and PANSI data Individual and carer feedback Financial context Technical appendices Introduction We want to ensure that all adults with care and support needs, and carers, in Coventry can live as independently, safe, and well as possible and have real choice and control over the care they receive\n\n[Document 2] From carers direct payments (pdf) - 2 pages [Retrieved via: semantic_original]:\na carers\u2019 direct payment might be a solution. The practitioner \ncompleting the assessment will talk this through with you. \nAn assessment of your needs as a carer will explore your \noverall wellbeing, the impact caring has on your life and will \nprovide you with individual information and advice. It\u2019s an \nopportunity for you to talk to someone in detail about your \ncaring role, what matters most to you and what you might like \nto achieve. \n }Who can have a carers\u2019 assessment? \nAnyone caring for an adult can receive a carers\u2019 assessment \nregardless of how long you have been caring and the \nintensity of your caring role. Caring impacts everyone \ndifferently so it\u2019s important we understand your situation  \nand impact being a carer has on you. \nCarers\u2019 Direct Payments  \nAdult Social Care\nA guide to Carers\u2019 Direct Payments \u2013 Coventry City Council \n }Contact Adult Social Care Direct \nCall 024 7683 3003  \nor email ascdirect@coventry.gov.uk \nor visit www.coventry.gov.uk/health-social-care\n\n[Document 3] From adult social care offer short version  (pdf) - 4 pages [Retrieved via: semantic_original]:\n[Page 4 - FINANCIAL/BUDGET INFORMATION]\n\uf0a3Assessing your needs\nIf you appear to have ongoing care and support needs, then we will provide a care and \nsupport assessment. To assist us all to determine what support you can receive through the \nCouncil and how much you will have to pay towards your care, we will use the guidance set \nout in the Care Act 2014 explained here \nwww.legislation.gov.uk/ukpga/2014/23/contents/enacted \nIf the care and support is after a stay in hospital, we will make sure support is in place when \nit is needed so you can return home safely. Discharge pathways can be found here \nwww.coventry.gov.uk/nhs-services/guide-short-termdischarge-assess-\nd2a-services \nIf you require independent support to help you to understand information or to express your \nviews, we will make sure this is available for you. We can support you with this by involving a \nsuitable family member or friend or Advocate if needed.\n\n[Document 4] From adult social care offer full version with translation details  (pdf) - 12 pages [Retrieved via: semantic_original]:\n[Page 8 - FINANCIAL/BUDGET INFORMATION]\nIf you need to pay for some of the support we provide for you we will ask you to \ncomplete a financial assessment https://coventry.bettercare.org.uk/#/home.  \nThat way we can work out how much you can pay. If you don\u2019t want to tell us about \nyour money, you will have to pay for all of your care. You can still get information \nand advice about services available from us.\n\uf0a3 Supporting Carers\nWe will offer you a carer\u2019s assessment if you are providing unpaid care. We will \ntalk to you about how you want your assessment to be undertaken. This might be \nalongside the person you are caring for, sometimes called a combined or joint \nassessment or you may wish to have your assessment undertaken separately. \nWe will explore what is important to you, how your caring role impacts you, what \nparts of your caring role you want to maintain, need support with or want to end.  \nWe will explore how regularly you are able to take breaks and the other areas of\n\n[Document 5] From adult social care offer full version with translation details  (pdf) - 12 pages [Retrieved via: semantic_original]:\n[Page 7 - FINANCIAL/BUDGET INFORMATION]\nIf you are admitted to hospital and need support on discharge, this can be arranged by \neither the team of professionals based at the hospital or Adult Social Care.\nIf you need ongoing care, we will look at whether you need further support and move \non to the next stage. This stage of the assessment includes making decisions about \nyour ongoing needs and whether you are eligible for continued support from the \nCouncil. It will also involve having a financial assessment  \nwww.coventry.gov.uk/money-legal-matters/financial-assessment-overview  to \nfind out if you need to pay towards the cost of your care.\n\uf0a3 Assessing your needs \nIf you appear to have ongoing care and support needs, then we will provide a \ncare and support assessment. To assist us all to determine what support you can \nreceive through the Council, we will use the guidance set out in the Care Act 2014 \nwww.legislation.gov.uk/ukpga/2014/23/contents/enacted  (please see further\n\n[Document 6] From adult social care charging for non residental care services leaflet (pdf) - 8 pages [Retrieved via: semantic_original]:\nPayments can be made by Direct Debit, over the phone by calling 024 7683 4884, \nor at www.coventry.gov.uk  \n\t}Four-weekly invoices  \nIf you pay a charge towards an Adult Social Care arranged care package, we will \nsend you an invoice every four weeks. This invoice will show any amendments to \nthe weekly charge. \n\t}When will the charges start? \nYour charge will start from the day the care service package begins. If the financial \nassessment visit takes place after the care service has started, we will backdate \nthe charge to the start date of the care service. \nIf you do not provide the information needed to complete the financial assessment, \nwe will assume you have enough funds to pay the maximum charge for your care \nand support package. \n4\n\n[Document 7] From https://www (web_page) - URL: https://www.coventry.gov.uk/carersactionplan [Retrieved via: semantic_original]:\n. Further information on carers assessments, support and how to access this are available via the Council website. You can also complete a Carer\u2019s Assessment for yourself on our website. Information is also available via the Carers Trust Heart of England, an organisation commissioned by the Council to deliver a range of support (including training, support, information and advice and planned and emergency breaks) to carers in Coventry, with no charge to the carer. Key objectives The Carers' Action Plan 2024-26 has been developed following analysis of the biennial Survey of Adult Carers in England 2021/22, a local \u2018Let\u2019s Talk\u2019 Coventry Carers' Survey undertaken in 2023 and using national information and data sets\n\n[Document 8] From adult social care offer full version with translation details  (pdf) - 12 pages [Retrieved via: semantic_original]:\nreceive through the Council, we will use the guidance set out in the Care Act 2014 \nwww.legislation.gov.uk/ukpga/2014/23/contents/enacted  (please see further \ninformation below). The Care Act 2014 also sets out the basis for understanding how \nwe will work out how much you will pay towards your care.\nThe assessment will help you explain your situation and what you want to achieve and \nthink about the choices available to you. \nIf you are in hospital and need support on discharge, we will make sure support is in \nplace, when it is needed, so you can return home safely. \nIf this isn\u2019t possible, we will arrange for you to move to a temporary care setting, so \nyou don\u2019t have to stay longer in hospital than you need to. We will identify which \none of the discharge pathways  www.coventry.gov.uk/nhs-services/guide-short \n-termdischarge-assess-d2a-services  best meet your needs identified at the point \nof discharge from hospital, this will then be followed by a care and support assessment\n\n[Document 9] From adult social care and support available printable leaflet (pdf) - 8 pages [Retrieved via: semantic_original]:\nneed regular help or supervision. There are a range of homes across Coventry that \nthe Council either runs, or purchases services from. The Council also purchases \nseveral places outside the city for reasons such as specialist services being \nunavailable locally or customer choice. In Coventry, there is a range of different \ncare homes, each catering to people with varying needs and disabilities, for \nexample, dementia. Some care homes are registered to provide both residential \nand nursing care. \n                    Nursing Homes     \nA nursing home is like a residential home but with a nurse or nurses on-site to \nsupport people with health-specific issues. The NHS may be able to help with the \ncost of these placements with NHS Continuing Healthcare funding. If you, a family \nmember, or someone you care for is thinking about residential or nursing care, \ncontact Adult Social Care Direct. We will discuss whether you would benefit from\n\n[Document 10] From https://www (web_page) - URL: https://www.coventry.gov.uk/info/76/carers_support/3822/carers_enhanced_offer [Retrieved via: semantic_original]:\n. (such as bereavement of a loved one, loss of employment or change of relationship) Supporting working carers by working with employers in Coventry that will look to empower carers to remain in the workforce. Carers' passports and information is shared. Reducing carer hardship and poverty by providing Carers direct payments to carers. Sharing information and signposting to job coaches and financial advice, benefit advice and support on the cost of living. Enhancing support for carers by ensuring all communities in Coventry are enabled to access carers' services and information. Supporting Young Carers if additional support is required regarding their caring responsibilities. Offer Young Carers and Young Adult Carer assessments when appropriate. For further information you can email contactus@carerstrusthofe.org.uk , call on 024 7663 2972 or look at the Carers Trust Heart of England website. View a print version\n",
+  "answer": "Error generating answer: Single '}' encountered in format string",
+  "metrics": {
+    "duration_seconds": 1.5753581523895264,
+    "retrieved_docs_count": 10,
+    "query_length": 121,
+    "answer_length": 64,
+    "retrieval_method": "enhanced",
+    "context_utilization": 0.0,
+    "citations_count": 0,
+    "has_citations": false,
+    "query_relevance": 0.11764705882352941,
+    "unique_retrieval_methods": 1,
+    "budget_documents_retrieved": 7,
+    "retrieval_methods_used": [
+      "semantic_original"
+    ],
+    "retrieval_method_distribution": {
+      "semantic_original": 10
+    }
+  },
+  "local_authority": "Coventry",
+  "query_id": "scn_24",
+  "retrieval_method": "enhanced",
+  "run_id": "29eafc01-8bed-441b-9eba-dcc1a053f4b0",
+  "trace": {
+    "run_id": "29eafc01-8bed-441b-9eba-dcc1a053f4b0",
+    "project": "social_care_rag",
+    "url": "https://eu.smith.langchain.com/o/me/runs/29eafc01-8bed-441b-9eba-dcc1a053f4b0"
+  },
+  "test_metadata": {
+    "local_authority": "Coventry",
+    "query_id": "scn_24",
+    "query_category": "assessment_scenarios",
+    "prompt_variation": "optimized",
+    "prompt_template": "\nPlease answer the following question about social care services in UK local authorities based only on the information in the provided documents.\n\nQuestion: {query}\n\nContext from relevant documents:\n{context}\n\nInstructions:\n1. Provide a clear, direct answer that would help someone needing this information. If information isn't available, state: \"The available documents don't provide specific information about [aspect].\"\n\n2. Synthesize information from ALL relevant documents to provide the most complete answer rather than analyzing documents individually.\n\n3. Structure your response with:\n   - A concise 1-2 sentence summary first\n   - Relevant details organized in short, clear paragraphs\n   - Bullet points for lists or step-by-step information\n   - Bold text for key information the user should notice\n\n4. For financial information:\n   - Include exact figures, time periods, and what the funding covers\n   - Present financial data clearly: \"The adult social care budget is **\u00a3X million** for [time period]\"\n\n5. Always include practical next steps or resources:\n   - Provide contact information, URLs, or application methods mentioned in the documents\n   - Suggest where the person could find more information\n\n6. When citing sources, use a simple format: \"According to [document name/description]\" or include URLs where available.\n\nAnswer:\n",
+    "processing_time": 1.5814828872680664,
+    "timestamp": "2025-08-17T22:41:20.770937",
+    "top_k": 10
+  }
+}

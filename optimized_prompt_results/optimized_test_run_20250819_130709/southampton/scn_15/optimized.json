@@ -1,0 +1,287 @@
+{
+  "query": "My husband has advanced dementia and I'm his full-time carer in southampton. I'm exhausted and need support. What are my options?",
+  "retrieved_documents": [
+    {
+      "content": "--\n\nHome Someone is experiencing harm, abuse or neglect Our Adult Social Care self-help page directs you to the most relevant information. Find out how adult social care services in Southampton are improving . Staying independent at home Housing Financial support Support for carers Living with a health condition or disability Support after a hospital stay or illness Safety in the home Getting out and about Help in a crisis Getting my voice heard Can\u2019t find what you\u2019re looking for? You can: Visit the Adult Social Care homepage Search our directory for services that might be able to help Get impartial advice about tools and equipment to make daily living easier with EquipMe",
+      "metadata": {
+        "chunk_id": 0,
+        "filename": "www.southampton.gov.uk_self-assessment-tool_.txt",
+        "level": "level_1",
+        "source": "https://www.southampton.gov.uk/self-assessment-tool/",
+        "source_url": "https://www.southampton.gov.uk/self-assessment-tool/",
+        "total_chunks": 1,
+        "type": "web_page"
+      },
+      "id": "488916f7-79e2-4dc9-a63d-3c43447a785e",
+      "distance": 0.7758888006210327,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.11723335981369018,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "In this section Where to get support Adult care eligibility - who can get care and support? Independent living Help to stay at home Home care providers (current) Housing support for older people Southampton Day Service Summary of support available Provision : Home Care Providers Location: Own home Type of provision: Domiciliary (in home) respite Suitable for ages : 18 plus Telephone: 023 8083 2900 Description There are a small number of domiciliary care providers that have learning disabilities expertise that can offer short break services in a personalised way for people with learning disabilities and autism, providing support in people\u2019s own homes and their community. The support is tailored around individual needs, providing bespoke packages, and also covers crisis or emergency support. All home care providers are registered and inspected by the Care Quality Commission. If you are interested in finding out more, then speak to your social worker",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.southampton.gov.uk_adult-social-care_home-living_where-to-get-support_home-care-providers_.txt",
+        "level": "level_3",
+        "source": "https://www.southampton.gov.uk/adult-social-care/home-living/where-to-get-support/home-care-providers/",
+        "source_url": "https://www.southampton.gov.uk/adult-social-care/home-living/where-to-get-support/home-care-providers/",
+        "total_chunks": 3,
+        "type": "web_page"
+      },
+      "id": "0a7dea1f-bf73-491f-a47b-8fa686312a47",
+      "distance": 0.7759283185005188,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.11722150444984436,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "--\n\nWhat information and services are available? You can view our directory to find services in Southampton that can offer support to carers. Advice and guidance Support for parents/carers of children with SEND Carer Aware e-learning Unpaid Carers Support Southampton Carers Together NHS - Social care and support guide Challenging Behaviour Foundation - help for carers and families Carer's Allowance Carers' support lines Dementia UK Flexible working Buzz Network - For Parent/Carers Of Disabled Children Back Your path to help and advice Self-assessment home \u25bc Support for carers \u25bc What information and services are available?",
+      "metadata": {
+        "chunk_id": 0,
+        "filename": "www.southampton.gov.uk_self-assessment-tool_support-for-carers_information-and-services-that-support.txt",
+        "level": "level_3",
+        "source": "https://www.southampton.gov.uk/self-assessment-tool/support-for-carers/information-and-services-that-support-carers/",
+        "source_url": "https://www.southampton.gov.uk/self-assessment-tool/support-for-carers/information-and-services-that-support-carers/",
+        "total_chunks": 1,
+        "type": "web_page"
+      },
+      "id": "8a4be47a-4b81-4113-b334-cf37924d7ba7",
+      "distance": 0.7910432815551758,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.11268701553344726,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "In this section Where to get support Adult care eligibility - who can get care and support? Independent living Help to stay at home (current) Home care providers Housing support for older people Southampton Day Service Getting help at home for yourself We have lots of services available to help and assist you in your own home, for example getting help with your personal care needs. Our aim is to help you live independently in your own home for as long as possible. Please contact us if you would like more information about the home care services we can provide. Some of them may also require an assessment and there may be associated costs. Find out how we decide who is eligible for our home care services, including getting help with your personal care needs",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.southampton.gov.uk_adult-social-care_home-living_where-to-get-support_help-to-stay-at-home_.txt",
+        "level": "level_3",
+        "source": "https://www.southampton.gov.uk/adult-social-care/home-living/where-to-get-support/help-to-stay-at-home/",
+        "source_url": "https://www.southampton.gov.uk/adult-social-care/home-living/where-to-get-support/help-to-stay-at-home/",
+        "total_chunks": 3,
+        "type": "web_page"
+      },
+      "id": "c0969c11-9863-468c-b2fb-fba684d14301",
+      "distance": 0.7983950972557068,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.11048147082328796,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "In this section Where to get support Adult care eligibility - who can get care and support? Independent living (current) Help to stay at home Home care providers Housing support for older people Southampton Day Service Your home and living situation should enable you to have as much independence as you can. This means making sure you have the right support to make this happen. Housing Options Living independently doesn\u2019t mean living on your own or without any support. Each person will need a different amount of support to maximise their independence. For some, this means having support throughout the day and night. Others might only need occasional support for a few hours per week. Some of the different housing options which might be available to you are: Supported living SHOW This means you have your own home and security through a tenancy agreement with the landlord (usually a housing association). There are a variety of different supported living homes",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.southampton.gov.uk_adult-social-care_home-living_where-to-get-support_independent-living_.txt",
+        "level": "level_3",
+        "source": "https://www.southampton.gov.uk/adult-social-care/home-living/where-to-get-support/independent-living/",
+        "source_url": "https://www.southampton.gov.uk/adult-social-care/home-living/where-to-get-support/independent-living/",
+        "total_chunks": 9,
+        "type": "web_page"
+      },
+      "id": "97eaf560-fe3e-4c55-bf49-cfe00bbf5194",
+      "distance": 0.8131986856460571,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.10604039430618287,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "5. Align approach to carers across health and social care organisations and education \n6. Explore whether the identifcation of a community hub/venues will make it easier for carers to access support when needed, including info and support, a place to meet other carers and access to replacement care. Or using existing council/NHS buildings for outreach might be helpful. \nImproving information, advice and guidance \n1. Increase the number of carers who receive information and advice from the NHS, Social Care and education, as well as from specialist carer and young carer services \n2. Develop a clear information pack and introductory sessions to share with carers. \n3. Explore different apps for Carers. Consider buying access to Carers UK \u2018Digital Resource for Carers\u2019. This would give all carers in Southampton free access to training, the Jointly app designed by Carers UK to help store and to share information and manage care and other digital support.",
+      "metadata": {
+        "chunk_id": 17,
+        "contains_financial_info": true,
+        "download_url": "https://www.southampton.gov.uk/media/4dtd33jg/final-adult-carers-strategy-2021-to-2026.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "final-adult-carers-strategy-2021-to-2026.pdf",
+        "financial_pages": "[3, 8, 9]",
+        "level": "level_2",
+        "page_count": 16,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]",
+        "source": "https://www.southampton.gov.uk/adult-social-care/support-carers-away-home/carers/",
+        "source_url": "https://www.southampton.gov.uk/adult-social-care/support-carers-away-home/carers/",
+        "total_chunks": 24,
+        "type": "pdf"
+      },
+      "id": "1c91bbbc-3894-4ace-a525-e59b2eec1998",
+      "distance": 0.8392206430435181,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.09823380708694458,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 7 - FINANCIAL/BUDGET INFORMATION]\nWhat if I need ongoing care and support and who pays for it? \nIf you have ongoing care and support needs which are assessed as being eligible \nfor help from the Council, we will work with you to develop a personal support plan. The social worker will arrange for you to have a fnancial assessment, if you haven\u2019t had one before. \nDepending on your fnancial circumstances, you may need to pay some or all of \nthe cost of your care and support. \nIf you are not eligible for services from the Council, we will give you information \nand advice about how to access care and support services for yourself. You can fnd information and services to manage your own care needs and to stay independent on the Southampton City Council website www.southampton.gov.uk. \nSome people may be eligible for NHS Continuing Healthcare. It is available to",
+      "metadata": {
+        "chunk_id": 11,
+        "contains_financial_info": true,
+        "download_url": "https://www.southampton.gov.uk/media/ikdl0cei/july-22-discharge-to-assess-leaflet-leaving-hospital-final.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "july-22-discharge-to-assess-leaflet-leaving-hospital-final.pdf",
+        "financial_pages": "[2, 7]",
+        "level": "level_1",
+        "page_count": 8,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8]",
+        "source": "https://www.southampton.gov.uk/adult-social-care/discharge-to-assess/",
+        "source_url": "https://www.southampton.gov.uk/adult-social-care/discharge-to-assess/",
+        "total_chunks": 14,
+        "type": "pdf"
+      },
+      "id": "17cff974-48c9-470a-acfe-d7e90be592e2",
+      "distance": 0.8415265083312988,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.09754204750061035,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". Becoming a carer can be bewildering, confusing and frightening, so at the end of this page there are links to local and national organisations that can offer advice and support to carers. Our Carer Aware e-learning course may also be of interest to you. We have a full list of services available for carers in the Southampton area in our directory . You may also want to read our benefits advice for carers . Arrange a break from caring If you need a break from your caring role, our information on caring for adults provides you with information on who to talk to and some potential providers of respite care. You can also search our directory for care agencies that can support respite. Carers\u2019 assessments All carers are entitled to an assessment which identifies how they can be supported. Read the council\u2019s Carers\u2019 Assessments page to find out more",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.southampton.gov.uk_adult-social-care_support-carers-away-home_carers_.txt",
+        "level": "level_2",
+        "source": "https://www.southampton.gov.uk/adult-social-care/support-carers-away-home/carers/",
+        "source_url": "https://www.southampton.gov.uk/adult-social-care/support-carers-away-home/carers/",
+        "total_chunks": 7,
+        "type": "web_page"
+      },
+      "id": "7ec8b147-e187-4084-adeb-b2091cda7f29",
+      "distance": 0.8483702540397644,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.09548892378807068,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "In this section Leaving hospital, short term recovery and assessment services What to expect when you leave hospital Rehabilitation and reablement care visits Short-term home care and support in your own home Short-term support at a care home (current) Who will be working with me? Care Home Recovery and Assessment You are going into a care home setting for recovery and to assess your needs. What can I expect at the Care Home? During this period, we\u2019ll carry out assessments and work with you to agree your next steps. We welcome the support of your family or friends in planning your care. What care and support will I get while I\u2019m in the Care Home? We will provide the extra help you need by supporting you to regain your confidence and strength, relearn skills or find new ways of doing everyday activities. Care Homes where Southampton City Council has beds Southampton City Council has beds in a variety of different care homes across the City and surrounding area",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.southampton.gov.uk_adult-social-care_discharge-to-assess_support-at-care-home_.txt",
+        "level": "level_2",
+        "source": "https://www.southampton.gov.uk/adult-social-care/discharge-to-assess/support-at-care-home/",
+        "source_url": "https://www.southampton.gov.uk/adult-social-care/discharge-to-assess/support-at-care-home/",
+        "total_chunks": 3,
+        "type": "web_page"
+      },
+      "id": "b6f0d420-839c-46ac-ad75-be36e157f41b",
+      "distance": 0.8501135110855103,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.09496594667434693,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". There is also an option to purchase these via the app. EquipMe, which is available to all residents, their families and carers, provides information, advice and support on a range of topics, including health and wellbeing, daily activities, support in the home, and even support for your children. The online tool also provides impartial, detailed reports written by occupational therapists which offer easy-to-understand tips and guidance for health and care support. Councillor Lorna Fielker, Cabinet Member for Adults, Health and Housing, said: \u201cMany people don\u2019t know where to go to for advice and support in Southampton, or how to access the equipment they may need. I\u2019m really pleased we\u2019re now able to give residents greater control over their lives by enabling them to have a choice about the support they can access from organisations and agencies across Southampton",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.southampton.gov.uk_news_article_scc-new-access-info-advice-support_.txt",
+        "level": "level_2",
+        "source": "https://www.southampton.gov.uk/news/article/scc-new-access-info-advice-support/",
+        "source_url": "https://www.southampton.gov.uk/news/article/scc-new-access-info-advice-support/",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "55d4a876-5e74-4e19-b272-c37e2ad7be48",
+      "distance": 0.8577477335929871,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.09267567992210388,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    }
+  ],
+  "context": "[Document 1] From https://www (web_page) - URL: https://www.southampton.gov.uk/self-assessment-tool/ [Retrieved via: semantic_original]:\n--\n\nHome Someone is experiencing harm, abuse or neglect Our Adult Social Care self-help page directs you to the most relevant information. Find out how adult social care services in Southampton are improving . Staying independent at home Housing Financial support Support for carers Living with a health condition or disability Support after a hospital stay or illness Safety in the home Getting out and about Help in a crisis Getting my voice heard Can\u2019t find what you\u2019re looking for? You can: Visit the Adult Social Care homepage Search our directory for services that might be able to help Get impartial advice about tools and equipment to make daily living easier with EquipMe\n\n[Document 2] From https://www (web_page) - URL: https://www.southampton.gov.uk/adult-social-care/home-living/where-to-get-support/home-care-providers/ [Retrieved via: semantic_original]:\nIn this section Where to get support Adult care eligibility - who can get care and support? Independent living Help to stay at home Home care providers (current) Housing support for older people Southampton Day Service Summary of support available Provision : Home Care Providers Location: Own home Type of provision: Domiciliary (in home) respite Suitable for ages : 18 plus Telephone: 023 8083 2900 Description There are a small number of domiciliary care providers that have learning disabilities expertise that can offer short break services in a personalised way for people with learning disabilities and autism, providing support in people\u2019s own homes and their community. The support is tailored around individual needs, providing bespoke packages, and also covers crisis or emergency support. All home care providers are registered and inspected by the Care Quality Commission. If you are interested in finding out more, then speak to your social worker\n\n[Document 3] From https://www (web_page) - URL: https://www.southampton.gov.uk/self-assessment-tool/support-for-carers/information-and-services-that-support-carers/ [Retrieved via: semantic_original]:\n--\n\nWhat information and services are available? You can view our directory to find services in Southampton that can offer support to carers. Advice and guidance Support for parents/carers of children with SEND Carer Aware e-learning Unpaid Carers Support Southampton Carers Together NHS - Social care and support guide Challenging Behaviour Foundation - help for carers and families Carer's Allowance Carers' support lines Dementia UK Flexible working Buzz Network - For Parent/Carers Of Disabled Children Back Your path to help and advice Self-assessment home \u25bc Support for carers \u25bc What information and services are available?\n\n[Document 4] From https://www (web_page) - URL: https://www.southampton.gov.uk/adult-social-care/home-living/where-to-get-support/help-to-stay-at-home/ [Retrieved via: semantic_original]:\nIn this section Where to get support Adult care eligibility - who can get care and support? Independent living Help to stay at home (current) Home care providers Housing support for older people Southampton Day Service Getting help at home for yourself We have lots of services available to help and assist you in your own home, for example getting help with your personal care needs. Our aim is to help you live independently in your own home for as long as possible. Please contact us if you would like more information about the home care services we can provide. Some of them may also require an assessment and there may be associated costs. Find out how we decide who is eligible for our home care services, including getting help with your personal care needs\n\n[Document 5] From https://www (web_page) - URL: https://www.southampton.gov.uk/adult-social-care/home-living/where-to-get-support/independent-living/ [Retrieved via: semantic_original]:\nIn this section Where to get support Adult care eligibility - who can get care and support? Independent living (current) Help to stay at home Home care providers Housing support for older people Southampton Day Service Your home and living situation should enable you to have as much independence as you can. This means making sure you have the right support to make this happen. Housing Options Living independently doesn\u2019t mean living on your own or without any support. Each person will need a different amount of support to maximise their independence. For some, this means having support throughout the day and night. Others might only need occasional support for a few hours per week. Some of the different housing options which might be available to you are: Supported living SHOW This means you have your own home and security through a tenancy agreement with the landlord (usually a housing association). There are a variety of different supported living homes\n\n[Document 6] From https://www (pdf) - URL: https://www.southampton.gov.uk/adult-social-care/support-carers-away-home/carers/ - 16 pages [Retrieved via: semantic_original]:\n5. Align approach to carers across health and social care organisations and education \n6. Explore whether the identifcation of a community hub/venues will make it easier for carers to access support when needed, including info and support, a place to meet other carers and access to replacement care. Or using existing council/NHS buildings for outreach might be helpful. \nImproving information, advice and guidance \n1. Increase the number of carers who receive information and advice from the NHS, Social Care and education, as well as from specialist carer and young carer services \n2. Develop a clear information pack and introductory sessions to share with carers. \n3. Explore different apps for Carers. Consider buying access to Carers UK \u2018Digital Resource for Carers\u2019. This would give all carers in Southampton free access to training, the Jointly app designed by Carers UK to help store and to share information and manage care and other digital support.\n\n[Document 7] From https://www (pdf) - URL: https://www.southampton.gov.uk/adult-social-care/discharge-to-assess/ - 8 pages [Retrieved via: semantic_original]:\n[Page 7 - FINANCIAL/BUDGET INFORMATION]\nWhat if I need ongoing care and support and who pays for it? \nIf you have ongoing care and support needs which are assessed as being eligible \nfor help from the Council, we will work with you to develop a personal support plan. The social worker will arrange for you to have a fnancial assessment, if you haven\u2019t had one before. \nDepending on your fnancial circumstances, you may need to pay some or all of \nthe cost of your care and support. \nIf you are not eligible for services from the Council, we will give you information \nand advice about how to access care and support services for yourself. You can fnd information and services to manage your own care needs and to stay independent on the Southampton City Council website www.southampton.gov.uk. \nSome people may be eligible for NHS Continuing Healthcare. It is available to\n\n[Document 8] From https://www (web_page) - URL: https://www.southampton.gov.uk/adult-social-care/support-carers-away-home/carers/ [Retrieved via: semantic_original]:\n. Becoming a carer can be bewildering, confusing and frightening, so at the end of this page there are links to local and national organisations that can offer advice and support to carers. Our Carer Aware e-learning course may also be of interest to you. We have a full list of services available for carers in the Southampton area in our directory . You may also want to read our benefits advice for carers . Arrange a break from caring If you need a break from your caring role, our information on caring for adults provides you with information on who to talk to and some potential providers of respite care. You can also search our directory for care agencies that can support respite. Carers\u2019 assessments All carers are entitled to an assessment which identifies how they can be supported. Read the council\u2019s Carers\u2019 Assessments page to find out more\n\n[Document 9] From https://www (web_page) - URL: https://www.southampton.gov.uk/adult-social-care/discharge-to-assess/support-at-care-home/ [Retrieved via: semantic_original]:\nIn this section Leaving hospital, short term recovery and assessment services What to expect when you leave hospital Rehabilitation and reablement care visits Short-term home care and support in your own home Short-term support at a care home (current) Who will be working with me? Care Home Recovery and Assessment You are going into a care home setting for recovery and to assess your needs. What can I expect at the Care Home? During this period, we\u2019ll carry out assessments and work with you to agree your next steps. We welcome the support of your family or friends in planning your care. What care and support will I get while I\u2019m in the Care Home? We will provide the extra help you need by supporting you to regain your confidence and strength, relearn skills or find new ways of doing everyday activities. Care Homes where Southampton City Council has beds Southampton City Council has beds in a variety of different care homes across the City and surrounding area\n\n[Document 10] From https://www (web_page) - URL: https://www.southampton.gov.uk/news/article/scc-new-access-info-advice-support/ [Retrieved via: semantic_original]:\n. There is also an option to purchase these via the app. EquipMe, which is available to all residents, their families and carers, provides information, advice and support on a range of topics, including health and wellbeing, daily activities, support in the home, and even support for your children. The online tool also provides impartial, detailed reports written by occupational therapists which offer easy-to-understand tips and guidance for health and care support. Councillor Lorna Fielker, Cabinet Member for Adults, Health and Housing, said: \u201cMany people don\u2019t know where to go to for advice and support in Southampton, or how to access the equipment they may need. I\u2019m really pleased we\u2019re now able to give residents greater control over their lives by enabling them to have a choice about the support they can access from organisations and agencies across Southampton\n",
+  "answer": "As a full-time carer for your husband with advanced dementia in Southampton, you have several support options available to help alleviate your exhaustion.\n\n**Support Options:**\n\n- **Respite Care:** You can arrange for respite care to take a break from your caring role. This can be done through domiciliary care providers who offer short break services tailored to individual needs. For more information, contact Southampton's Adult Social Care at **023 8083 2900**.\n\n- **Carers' Assessment:** You are entitled to a carers' assessment, which will identify how you can be supported in your role. This assessment can help determine the type of support you need and how to access it. More details are available on the council\u2019s Carers\u2019 Assessments page.\n\n- **Support Services Directory:** Explore the directory of services available for carers in Southampton to find local and national organizations offering advice and support. This includes access to respite care providers and other support services.\n\n- **Carers' Support Lines and Advice:** Utilize carers' support lines for advice and guidance. You can also benefit from the Carer Aware e-learning course and other resources listed in the Southampton directory.\n\n- **Financial Support:** Consider applying for Carer's Allowance if eligible, which provides financial support for those caring for someone with substantial needs.\n\n**Practical Next Steps:**\n\n1. **Contact Adult Social Care:** Call **023 8083 2900** to discuss respite care options and arrange a carers' assessment.\n2. **Visit the Southampton City Council Website:** Use the self-assessment tool and explore the directory for more resources: [Southampton Adult Social Care](https://www.southampton.gov.uk/adult-social-care/).\n3. **Explore Carers' Resources:** Access e-learning and support tools through the Carers UK Digital Resource if available.\n\nBy taking these steps, you can find the support you need to manage your caregiving responsibilities and take care of your own well-being.",
+  "metrics": {
+    "duration_seconds": 18.867077112197876,
+    "retrieved_docs_count": 10,
+    "query_length": 129,
+    "answer_length": 2001,
+    "retrieval_method": "enhanced",
+    "context_utilization": 0.22747747747747749,
+    "citations_count": 1,
+    "has_citations": true,
+    "query_relevance": 0.7647058823529411,
+    "unique_retrieval_methods": 1,
+    "budget_documents_retrieved": 2,
+    "retrieval_methods_used": [
+      "semantic_original"
+    ],
+    "retrieval_method_distribution": {
+      "semantic_original": 10
+    }
+  },
+  "local_authority": "southampton",
+  "query_id": "scn_15",
+  "retrieval_method": "enhanced",
+  "run_id": "5db50774-616f-4352-a094-918a00609de9",
+  "trace": {
+    "run_id": "5db50774-616f-4352-a094-918a00609de9",
+    "project": "social_care_rag",
+    "url": "https://eu.smith.langchain.com/o/me/runs/5db50774-616f-4352-a094-918a00609de9"
+  },
+  "test_metadata": {
+    "local_authority": "southampton",
+    "query_id": "scn_15",
+    "query_category": "carer_support_scenarios",
+    "prompt_variation": "optimized",
+    "prompt_template": "\nPlease answer the following question about social care services in UK local authorities based only on the information in the provided documents.\n\nQuestion: {query}\n\nContext from relevant documents:\n{context}\n\nInstructions:\n1. Provide a clear, direct answer that would help someone needing this information. If information isn't available, state: \"The available documents don't provide specific information about [aspect].\"\n\n2. Synthesize information from ALL relevant documents to provide the most complete answer rather than analyzing documents individually.\n\n3. Structure your response with:\n   - A concise 1-2 sentence summary first\n   - Relevant details organized in short, clear paragraphs\n   - Bullet points for lists or step-by-step information\n   - Bold text for key information the user should notice\n\n4. For financial information:\n   - Include exact figures, time periods, and what the funding covers\n   - Present financial data clearly: \"The adult social care budget is **\u00a3X million** for [time period]\"\n\n5. Always include practical next steps or resources:\n   - Provide contact information, URLs, or application methods mentioned in the documents\n   - Suggest where the person could find more information\n\n6. When citing sources, use a simple format: \"According to [document name/description]\" or include URLs where available.\n\nAnswer:\n",
+    "processing_time": 18.872386693954468,
+    "timestamp": "2025-08-19T14:20:27.285791",
+    "top_k": 10
+  }
+}

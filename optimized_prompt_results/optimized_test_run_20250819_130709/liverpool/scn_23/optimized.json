@@ -1,0 +1,317 @@
+{
+  "query": "My wife's needs have changed significantly since her last assessment in liverpool. How do we request a reassessment and how long will it take?",
+  "retrieved_documents": [
+    {
+      "content": ". Ensure that if you need the help of an advocate that this is available to you. We work in partnership with the Liverpool Advocacy Rights Hub. The Advocacy Rights Hub provides independent information and advice and can signpost you to appropriate services and support. Assessment We will: Make sure that you are always involved in any discussion about your care and we will respect your privacy and dignity at times. Always support and promote your independence when planning or providing care. Handle your personal information in line with legislation and with due regard for your confidentiality. Undertake to ensure that your assessment is completed within four weeks of you first contacting us - in exceptional circumstance this may not be possible but we will contact you and tell you the reasons for this. Advise you if assessment is not the right option for you and you will be signposted to appropriate services or given relevant information. Tell you about the assessment process and who is involved in it",
+      "metadata": {
+        "chunk_id": 5,
+        "filename": "www.liverpool.gov.uk_adult-social-care_who-we-support_assessing-care-and-support-needs_adult-social-.txt",
+        "level": "level_3",
+        "source": "https://www.liverpool.gov.uk/adult-social-care/who-we-support/assessing-care-and-support-needs/adult-social-care-service-standards/",
+        "source_url": "https://www.liverpool.gov.uk/adult-social-care/who-we-support/assessing-care-and-support-needs/adult-social-care-service-standards/",
+        "total_chunks": 11,
+        "type": "web_page"
+      },
+      "id": "3c2f4695-0b08-4143-8b1f-399271fb3556",
+      "distance": 0.8984894156455994,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.0804531753063202,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Changes to your circumstances or care needs If you receive support from us and your needs change, there has been a change to your finances or you cannot afford to pay for your care, you must tell us so we can review your care package. Changes may also include if you are going on holiday or in hospital and do not need your home care package for a short period. Change of address or leaving Liverpool If you receive support services from us, you can report a change of address using the general enquiry form . Change in care needs If you receive support services from us, you must tell us if your needs have changed so we can review your care package. You can submit a support enquiry to tell us about changes to your care needs. Change in finances If you pay towards the cost of your care, but your financial circumstances have changed, you must tell us so we can review how much you pay. You can request a reassessment at any time by completing a payment enquiry",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.liverpool.gov.uk_adult-social-care_already-receiving-care-services_changes-to-your-circumstances.txt",
+        "level": "level_2",
+        "source": "https://www.liverpool.gov.uk/adult-social-care/already-receiving-care-services/changes-to-your-circumstances/",
+        "source_url": "https://www.liverpool.gov.uk/adult-social-care/already-receiving-care-services/changes-to-your-circumstances/",
+        "total_chunks": 5,
+        "type": "web_page"
+      },
+      "id": "4d00ceda-cc91-4290-8423-f71aaf7ea422",
+      "distance": 0.9126863479614258,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.07619409561157227,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "a response to this consultation in a reasonable timescale, the Council \nreserves the right to use private Occupational Health contractors to \nundertake the assessme nt needed.   \n2.5 In addition, as part of the consideration of an application Liverpool City \nCouncil has a duty to determine whether works being requested are \nreasonable and practicable. Factors considered in deciding if the works \nare reasonable and practicable  include the size of the property, the \nnumber of occupants, the location and any environmental or physical \nconstraints.   \n2.6 In addition, a property should generally meet the Housing Health and \nSafety Rating System Standard (free from Category 1 hazards) befo re \nadaptation works are undertaken, however Liverpool City Council \nreserves the right to use its discretion to undertake such works as \nrequired to resolve identified hazards to enable the adaptations to \nproceed.",
+      "metadata": {
+        "chunk_id": 7,
+        "contains_financial_info": true,
+        "download_url": "https://www.liverpool.gov.uk/media/k4tnix0w/disabled-facilities-grant-policy-2023.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "disabled-facilities-grant-policy-2023.pdf",
+        "financial_pages": "[3, 4, 5, 6, 7, 8, 9, 10, 11, 17, 18, 19, 20]",
+        "level": "level_2",
+        "page_count": 20,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]",
+        "source": "https://www.liverpool.gov.uk/adult-social-care/already-receiving-care-services/disabled-facilities-grant/",
+        "source_url": "https://www.liverpool.gov.uk/adult-social-care/already-receiving-care-services/disabled-facilities-grant/",
+        "total_chunks": 42,
+        "type": "pdf"
+      },
+      "id": "58b904ee-058b-457c-b110-dc634a9425ff",
+      "distance": 0.9335027933120728,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.06994916200637817,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 16]\nLiverpool City Council \u2013 Guide to direct payments  \nPage 15 of 21 8 Monitoring and reviewing your direct \npayment  \nWe will review your care and support plan after the first six months and at least every \n12 months after that to make sure that the services and  \nsupport you have in place are meeting your eligible needs and that you are achieving \nyour outcomes.  \nThe level of support you receive may increase or decrease following a \nreview/reassessment and you will need to make your PA or care agency aware of \nany changes. However , if at any time you have any concerns about how your ca re \nand support is working you can contact Careline and request a review. The review \ncan look at whether the support you have is still adequate for your needs and \nwhether you need any extra support.  \nIf you think that you are getting either too much or too l ittle money to meet your care \nneeds please let us know as soon as possible.",
+      "metadata": {
+        "chunk_id": 30,
+        "contains_financial_info": true,
+        "download_url": "https://www.liverpool.gov.uk/media/kngfdrad/guide-to-direct-payments.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "guide-to-direct-payments.pdf",
+        "financial_pages": "[2, 3, 6, 8, 9, 11, 12, 13, 14, 15, 18, 19, 20]",
+        "level": "level_2",
+        "page_count": 21,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21]",
+        "source": "https://www.liverpool.gov.uk/adult-social-care/already-receiving-care-services/direct-payments/",
+        "source_url": "https://www.liverpool.gov.uk/adult-social-care/already-receiving-care-services/direct-payments/",
+        "total_chunks": 39,
+        "type": "pdf"
+      },
+      "id": "77ad38fe-e311-492f-a60e-99763d8a7766",
+      "distance": 0.9639517664909363,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.060814470052719116,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 13 - FINANCIAL/BUDGET INFORMATION]\nLiverpool City Council \u2013 Charging for non -residential care services  \nPage 12 of 41 6.2 Review stage  \nRequests will be considered by the Adult Services and Health directorate when:  \n\u2022 A service user has requested a review of a decision made at the Individual \nAssessment Stage.  \n\u2022 A review request is received but a DRE award has already been reviewed \nwithin the previous 12 months.  \n\u2022 A potential award at the Individual Appl ication Stage would exceed \u00a3100.  \n\u2022 The review and appeal stage will consider whether a contribution can be \nreduced, suspended or will remain at the same level.  \nA detailed decision and appeal rights will be made in writing within 28 working days \nof receipt o f all information.  \n6.3 Appeal stage  \nAny appeals against stage two decisions will be considered by a panel consisting of \nrepresentatives from the Adults Services and Health directorate, Finance plus where \npossible an independent voluntary sector advisor.",
+      "metadata": {
+        "chunk_id": 31,
+        "contains_financial_info": true,
+        "download_url": "https://www.liverpool.gov.uk/media/xngn4upt/charging-for-non-residential-care-april2022.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "charging-for-non-residential-care-april2022.pdf",
+        "financial_pages": "[2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 29, 30, 31, 32, 33, 34, 35, 36, 40, 41]",
+        "level": "level_3",
+        "page_count": 41,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41]",
+        "source": "https://www.liverpool.gov.uk/adult-social-care/who-we-support/care-charges/paying-for-care-and-support-at-home/",
+        "source_url": "https://www.liverpool.gov.uk/adult-social-care/who-we-support/care-charges/paying-for-care-and-support-at-home/",
+        "total_chunks": 100,
+        "type": "pdf"
+      },
+      "id": "167b9ae4-eacc-47a4-a9a9-056c6284ba51",
+      "distance": 0.9895180463790894,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.0531445860862732,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 4,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Where a grant is to be means tested, evidence of financial income and \nsavings and signed certificates of future occupation. Liverpool City \nCouncil shall  provide support to applicants to assist them with this \nprocess.   \n2.3 Whilst applications must be determined within 6 months of receipt. Once \nan application for a DFG is approved the Council must ensure that the \nDFG is completed within 12 months.   \n2.4 As part o f the consideration of an application Liverpool City Council has a \nduty to determine whether works being requested are necessary and \nappropriate. To inform this decision, during the application process the \nCouncil has a duty to consult with Liverpool City Council as a Social \nServices Authority. Where the City Council Authority is unable to provide \na response to this consultation in a reasonable timescale, the Council \nreserves the right to use private Occupational Health contractors to \nundertake the assessme nt needed.",
+      "metadata": {
+        "chunk_id": 6,
+        "contains_financial_info": true,
+        "download_url": "https://www.liverpool.gov.uk/media/k4tnix0w/disabled-facilities-grant-policy-2023.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "disabled-facilities-grant-policy-2023.pdf",
+        "financial_pages": "[3, 4, 5, 6, 7, 8, 9, 10, 11, 17, 18, 19, 20]",
+        "level": "level_2",
+        "page_count": 20,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]",
+        "source": "https://www.liverpool.gov.uk/adult-social-care/already-receiving-care-services/disabled-facilities-grant/",
+        "source_url": "https://www.liverpool.gov.uk/adult-social-care/already-receiving-care-services/disabled-facilities-grant/",
+        "total_chunks": 42,
+        "type": "pdf"
+      },
+      "id": "637e8b0e-849d-45bd-afce-3ecaaa6bf787",
+      "distance": 0.9932994842529297,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.0520101547241211,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 5 - FINANCIAL/BUDGET INFORMATION]\nLiverpool City Council \u2013 Disabled Facilities Gra nt Policy \nPage 4 of 20 2.7 Where Liverpool City Council is likely to  refuse an application for a DFG, \nthe Council will contact the applicant to give them the opportunity to \nprovide additional information which may affect such a decision, prior to a \nformal refusal being made.   \n2.8 Where Liverpool City Council has no option bu t to refuse an application \nfor grant, the Council will advise the applicant of the reasons for the \nrefusal.  \n2.9 An applicant will have the right to a review of a decision and can request a \nreview in writing to the Director of Adult Social Care within 28 days of the \ndate of the refusal letter.  \n2.10 Works which have been approved and undertaken must be carried out to \nthe satisfaction of Liverpool City Council. Liverpool City Council will have \nthe overriding decision as to whether the works have been carried out to a",
+      "metadata": {
+        "chunk_id": 8,
+        "contains_financial_info": true,
+        "download_url": "https://www.liverpool.gov.uk/media/k4tnix0w/disabled-facilities-grant-policy-2023.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "disabled-facilities-grant-policy-2023.pdf",
+        "financial_pages": "[3, 4, 5, 6, 7, 8, 9, 10, 11, 17, 18, 19, 20]",
+        "level": "level_2",
+        "page_count": 20,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]",
+        "source": "https://www.liverpool.gov.uk/adult-social-care/already-receiving-care-services/disabled-facilities-grant/",
+        "source_url": "https://www.liverpool.gov.uk/adult-social-care/already-receiving-care-services/disabled-facilities-grant/",
+        "total_chunks": 42,
+        "type": "pdf"
+      },
+      "id": "ec735548-8f6e-4a5f-be66-5b0ff0d64d63",
+      "distance": 1.0051499605178833,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.05,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". There is a range of advice, support and activities in the Liverpool City Region that are open to everyone. There may be something you can access that will mean you do not need a formal assessment or support from adult social care. How to request an assessment If you or someone you know is eligible under the Care Act you can complete an assessment online . This will ask you some questions to find out a bit more about your circumstances. What happens next? Depending on your circumstances, we may decide to carry out a full care needs assessment. This gives us an opportunity to ask what will help you to improve your wellbeing and live how you want to live. We will ask what's important to you and make sure the plan is tailored to help achieve your specified outcomes. If we don't feel a full care needs assessment is appropriate we will discuss other options with you",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.liverpool.gov.uk_adult-social-care_who-we-support_assessing-care-and-support-needs_care-act-elig.txt",
+        "level": "level_3",
+        "source": "https://www.liverpool.gov.uk/adult-social-care/who-we-support/assessing-care-and-support-needs/care-act-eligibility/",
+        "source_url": "https://www.liverpool.gov.uk/adult-social-care/who-we-support/assessing-care-and-support-needs/care-act-eligibility/",
+        "total_chunks": 4,
+        "type": "web_page"
+      },
+      "id": "b1b690c9-661b-49cd-af32-46892e0713b5",
+      "distance": 1.0139142274856567,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.05,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 7 - FINANCIAL/BUDGET INFORMATION]\nLiverpool City Council \u2013 Disabled Facilities Gra nt Policy \nPage 6 of 20 4.5 Adult Social Care will work in partnership with the Access Housing  \nService to assist clients to  access to properties that have already been \nadapted. Adult Social Care aim to create a full time Occupational \nTherapist post to support and improve the allocation of properties through \nthe Access Housing Service.   \n5 Prioritisation Process  \n5.1 During periods of high demand, Liverpool City Council reserves the right \nto use a need  based prioritisation scheme to ensure priority is given to \nthose applicants for DFGs who have the greatest need  \n5.2 In these circumstances written advice will be provided to the client and /or \ntheir carer regarding how their request for assistance with adaptations will \nbe processed, likely timescale and the priority scheme in operation for \ndealing with adaptations.   \n5.3 Level of priority is determined following a need  based assessment. If a",
+      "metadata": {
+        "chunk_id": 14,
+        "contains_financial_info": true,
+        "download_url": "https://www.liverpool.gov.uk/media/k4tnix0w/disabled-facilities-grant-policy-2023.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "disabled-facilities-grant-policy-2023.pdf",
+        "financial_pages": "[3, 4, 5, 6, 7, 8, 9, 10, 11, 17, 18, 19, 20]",
+        "level": "level_2",
+        "page_count": 20,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]",
+        "source": "https://www.liverpool.gov.uk/adult-social-care/already-receiving-care-services/disabled-facilities-grant/",
+        "source_url": "https://www.liverpool.gov.uk/adult-social-care/already-receiving-care-services/disabled-facilities-grant/",
+        "total_chunks": 42,
+        "type": "pdf"
+      },
+      "id": "afdd10fd-50cc-41c3-9701-104a741dd36c",
+      "distance": 1.0249520540237427,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.05,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 3,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "overseeing any works undertaken. Works undertaken in these \ncircumstances must be completed to the satisfaction of Liverpool City \nCouncil prior to the release of a ny grant funding.  \n3.5 Liverpool City Council will charge a 15% fee on all adaptations which is \ncommensurate with most other local authorities, and to use this money to \nbuild capacity within the team, to facilitate a greater volume of client \ncases.   In additi on (subject to available funding) Liverpool City Council \nmay also fund ancillary services, which address the housing, social care, \nand health needs of their clients, for example, Handyperson Service.  \n4 The Role of Adult Social Care   \n4.1 Requests for a DFG aris e as a result of an assessment by Adult Social \nServices. In these instances, following the assessment of the client, Adult \nSocial Services shall advise if adaptations are considered necessary and \nsend to Agency Services a written recommendation of their as sessment",
+      "metadata": {
+        "chunk_id": 11,
+        "contains_financial_info": true,
+        "download_url": "https://www.liverpool.gov.uk/media/k4tnix0w/disabled-facilities-grant-policy-2023.pdf",
+        "extraction_method": "PyPDF2",
+        "filename": "disabled-facilities-grant-policy-2023.pdf",
+        "financial_pages": "[3, 4, 5, 6, 7, 8, 9, 10, 11, 17, 18, 19, 20]",
+        "level": "level_2",
+        "page_count": 20,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]",
+        "source": "https://www.liverpool.gov.uk/adult-social-care/already-receiving-care-services/disabled-facilities-grant/",
+        "source_url": "https://www.liverpool.gov.uk/adult-social-care/already-receiving-care-services/disabled-facilities-grant/",
+        "total_chunks": 42,
+        "type": "pdf"
+      },
+      "id": "786600c4-873f-43fb-84c4-92750cfda338",
+      "distance": 1.027103066444397,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.05,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    }
+  ],
+  "context": "[Document 1] From https://www (web_page) - URL: https://www.liverpool.gov.uk/adult-social-care/who-we-support/assessing-care-and-support-needs/adult-social-care-service-standards/ [Retrieved via: semantic_original]:\n. Ensure that if you need the help of an advocate that this is available to you. We work in partnership with the Liverpool Advocacy Rights Hub. The Advocacy Rights Hub provides independent information and advice and can signpost you to appropriate services and support. Assessment We will: Make sure that you are always involved in any discussion about your care and we will respect your privacy and dignity at times. Always support and promote your independence when planning or providing care. Handle your personal information in line with legislation and with due regard for your confidentiality. Undertake to ensure that your assessment is completed within four weeks of you first contacting us - in exceptional circumstance this may not be possible but we will contact you and tell you the reasons for this. Advise you if assessment is not the right option for you and you will be signposted to appropriate services or given relevant information. Tell you about the assessment process and who is involved in it\n\n[Document 2] From https://www (web_page) - URL: https://www.liverpool.gov.uk/adult-social-care/already-receiving-care-services/changes-to-your-circumstances/ [Retrieved via: semantic_original]:\nChanges to your circumstances or care needs If you receive support from us and your needs change, there has been a change to your finances or you cannot afford to pay for your care, you must tell us so we can review your care package. Changes may also include if you are going on holiday or in hospital and do not need your home care package for a short period. Change of address or leaving Liverpool If you receive support services from us, you can report a change of address using the general enquiry form . Change in care needs If you receive support services from us, you must tell us if your needs have changed so we can review your care package. You can submit a support enquiry to tell us about changes to your care needs. Change in finances If you pay towards the cost of your care, but your financial circumstances have changed, you must tell us so we can review how much you pay. You can request a reassessment at any time by completing a payment enquiry\n\n[Document 3] From https://www (pdf) - URL: https://www.liverpool.gov.uk/adult-social-care/already-receiving-care-services/disabled-facilities-grant/ - 20 pages [Retrieved via: semantic_original]:\na response to this consultation in a reasonable timescale, the Council \nreserves the right to use private Occupational Health contractors to \nundertake the assessme nt needed.   \n2.5 In addition, as part of the consideration of an application Liverpool City \nCouncil has a duty to determine whether works being requested are \nreasonable and practicable. Factors considered in deciding if the works \nare reasonable and practicable  include the size of the property, the \nnumber of occupants, the location and any environmental or physical \nconstraints.   \n2.6 In addition, a property should generally meet the Housing Health and \nSafety Rating System Standard (free from Category 1 hazards) befo re \nadaptation works are undertaken, however Liverpool City Council \nreserves the right to use its discretion to undertake such works as \nrequired to resolve identified hazards to enable the adaptations to \nproceed.\n\n[Document 4] From https://www (pdf) - URL: https://www.liverpool.gov.uk/adult-social-care/already-receiving-care-services/direct-payments/ - 21 pages [Retrieved via: semantic_original]:\n[Page 16]\nLiverpool City Council \u2013 Guide to direct payments  \nPage 15 of 21 8 Monitoring and reviewing your direct \npayment  \nWe will review your care and support plan after the first six months and at least every \n12 months after that to make sure that the services and  \nsupport you have in place are meeting your eligible needs and that you are achieving \nyour outcomes.  \nThe level of support you receive may increase or decrease following a \nreview/reassessment and you will need to make your PA or care agency aware of \nany changes. However , if at any time you have any concerns about how your ca re \nand support is working you can contact Careline and request a review. The review \ncan look at whether the support you have is still adequate for your needs and \nwhether you need any extra support.  \nIf you think that you are getting either too much or too l ittle money to meet your care \nneeds please let us know as soon as possible.\n\n[Document 5] From https://www (pdf) - URL: https://www.liverpool.gov.uk/adult-social-care/who-we-support/care-charges/paying-for-care-and-support-at-home/ - 41 pages [Retrieved via: semantic_original]:\n[Page 13 - FINANCIAL/BUDGET INFORMATION]\nLiverpool City Council \u2013 Charging for non -residential care services  \nPage 12 of 41 6.2 Review stage  \nRequests will be considered by the Adult Services and Health directorate when:  \n\u2022 A service user has requested a review of a decision made at the Individual \nAssessment Stage.  \n\u2022 A review request is received but a DRE award has already been reviewed \nwithin the previous 12 months.  \n\u2022 A potential award at the Individual Appl ication Stage would exceed \u00a3100.  \n\u2022 The review and appeal stage will consider whether a contribution can be \nreduced, suspended or will remain at the same level.  \nA detailed decision and appeal rights will be made in writing within 28 working days \nof receipt o f all information.  \n6.3 Appeal stage  \nAny appeals against stage two decisions will be considered by a panel consisting of \nrepresentatives from the Adults Services and Health directorate, Finance plus where \npossible an independent voluntary sector advisor.\n\n[Document 6] From https://www (pdf) - URL: https://www.liverpool.gov.uk/adult-social-care/already-receiving-care-services/disabled-facilities-grant/ - 20 pages [Retrieved via: semantic_original]:\nWhere a grant is to be means tested, evidence of financial income and \nsavings and signed certificates of future occupation. Liverpool City \nCouncil shall  provide support to applicants to assist them with this \nprocess.   \n2.3 Whilst applications must be determined within 6 months of receipt. Once \nan application for a DFG is approved the Council must ensure that the \nDFG is completed within 12 months.   \n2.4 As part o f the consideration of an application Liverpool City Council has a \nduty to determine whether works being requested are necessary and \nappropriate. To inform this decision, during the application process the \nCouncil has a duty to consult with Liverpool City Council as a Social \nServices Authority. Where the City Council Authority is unable to provide \na response to this consultation in a reasonable timescale, the Council \nreserves the right to use private Occupational Health contractors to \nundertake the assessme nt needed.\n\n[Document 7] From https://www (pdf) - URL: https://www.liverpool.gov.uk/adult-social-care/already-receiving-care-services/disabled-facilities-grant/ - 20 pages [Retrieved via: semantic_original]:\n[Page 5 - FINANCIAL/BUDGET INFORMATION]\nLiverpool City Council \u2013 Disabled Facilities Gra nt Policy \nPage 4 of 20 2.7 Where Liverpool City Council is likely to  refuse an application for a DFG, \nthe Council will contact the applicant to give them the opportunity to \nprovide additional information which may affect such a decision, prior to a \nformal refusal being made.   \n2.8 Where Liverpool City Council has no option bu t to refuse an application \nfor grant, the Council will advise the applicant of the reasons for the \nrefusal.  \n2.9 An applicant will have the right to a review of a decision and can request a \nreview in writing to the Director of Adult Social Care within 28 days of the \ndate of the refusal letter.  \n2.10 Works which have been approved and undertaken must be carried out to \nthe satisfaction of Liverpool City Council. Liverpool City Council will have \nthe overriding decision as to whether the works have been carried out to a\n\n[Document 8] From https://www (web_page) - URL: https://www.liverpool.gov.uk/adult-social-care/who-we-support/assessing-care-and-support-needs/care-act-eligibility/ [Retrieved via: semantic_original]:\n. There is a range of advice, support and activities in the Liverpool City Region that are open to everyone. There may be something you can access that will mean you do not need a formal assessment or support from adult social care. How to request an assessment If you or someone you know is eligible under the Care Act you can complete an assessment online . This will ask you some questions to find out a bit more about your circumstances. What happens next? Depending on your circumstances, we may decide to carry out a full care needs assessment. This gives us an opportunity to ask what will help you to improve your wellbeing and live how you want to live. We will ask what's important to you and make sure the plan is tailored to help achieve your specified outcomes. If we don't feel a full care needs assessment is appropriate we will discuss other options with you\n\n[Document 9] From https://www (pdf) - URL: https://www.liverpool.gov.uk/adult-social-care/already-receiving-care-services/disabled-facilities-grant/ - 20 pages [Retrieved via: semantic_original]:\n[Page 7 - FINANCIAL/BUDGET INFORMATION]\nLiverpool City Council \u2013 Disabled Facilities Gra nt Policy \nPage 6 of 20 4.5 Adult Social Care will work in partnership with the Access Housing  \nService to assist clients to  access to properties that have already been \nadapted. Adult Social Care aim to create a full time Occupational \nTherapist post to support and improve the allocation of properties through \nthe Access Housing Service.   \n5 Prioritisation Process  \n5.1 During periods of high demand, Liverpool City Council reserves the right \nto use a need  based prioritisation scheme to ensure priority is given to \nthose applicants for DFGs who have the greatest need  \n5.2 In these circumstances written advice will be provided to the client and /or \ntheir carer regarding how their request for assistance with adaptations will \nbe processed, likely timescale and the priority scheme in operation for \ndealing with adaptations.   \n5.3 Level of priority is determined following a need  based assessment. If a\n\n[Document 10] From https://www (pdf) - URL: https://www.liverpool.gov.uk/adult-social-care/already-receiving-care-services/disabled-facilities-grant/ - 20 pages [Retrieved via: semantic_original]:\noverseeing any works undertaken. Works undertaken in these \ncircumstances must be completed to the satisfaction of Liverpool City \nCouncil prior to the release of a ny grant funding.  \n3.5 Liverpool City Council will charge a 15% fee on all adaptations which is \ncommensurate with most other local authorities, and to use this money to \nbuild capacity within the team, to facilitate a greater volume of client \ncases.   In additi on (subject to available funding) Liverpool City Council \nmay also fund ancillary services, which address the housing, social care, \nand health needs of their clients, for example, Handyperson Service.  \n4 The Role of Adult Social Care   \n4.1 Requests for a DFG aris e as a result of an assessment by Adult Social \nServices. In these instances, following the assessment of the client, Adult \nSocial Services shall advise if adaptations are considered necessary and \nsend to Agency Services a written recommendation of their as sessment\n",
+  "answer": "To request a reassessment of your wife's care needs in Liverpool, you should inform the local authority about the changes in her circumstances. You can do this by submitting a support enquiry to notify them of the changes.\n\n**Steps to Request a Reassessment:**\n- **Submit a Support Enquiry:** Inform Liverpool City Council of the changes in your wife's care needs. This can be done through their support enquiry system.\n- **Contact Careline:** If you have concerns about the current care and support, you can contact Careline to request a review of her care package.\n\n**Timeframe for Assessment:**\n- According to the Liverpool City Council's service standards, they aim to complete assessments within **four weeks** of first contact. However, in exceptional circumstances, this timeframe may be extended, and they will inform you of the reasons for any delay.\n\n**Additional Support:**\n- If needed, you can seek assistance from the Liverpool Advocacy Rights Hub, which provides independent information and advice.\n\nFor more information or to initiate the process, you can visit the Liverpool City Council's website at [Liverpool City Council Adult Social Care](https://www.liverpool.gov.uk/adult-social-care/already-receiving-care-services/changes-to-your-circumstances/).",
+  "metrics": {
+    "duration_seconds": 12.987377166748047,
+    "retrieved_docs_count": 10,
+    "query_length": 142,
+    "answer_length": 1271,
+    "retrieval_method": "enhanced",
+    "context_utilization": 0.15723270440251572,
+    "citations_count": 2,
+    "has_citations": true,
+    "query_relevance": 0.6666666666666666,
+    "unique_retrieval_methods": 1,
+    "budget_documents_retrieved": 7,
+    "retrieval_methods_used": [
+      "semantic_original"
+    ],
+    "retrieval_method_distribution": {
+      "semantic_original": 10
+    }
+  },
+  "local_authority": "liverpool",
+  "query_id": "scn_23",
+  "retrieval_method": "enhanced",
+  "run_id": "12de14aa-3e71-44e6-9253-7cd112ad62ca",
+  "trace": {
+    "run_id": "12de14aa-3e71-44e6-9253-7cd112ad62ca",
+    "project": "social_care_rag",
+    "url": "https://eu.smith.langchain.com/o/me/runs/12de14aa-3e71-44e6-9253-7cd112ad62ca"
+  },
+  "test_metadata": {
+    "local_authority": "liverpool",
+    "query_id": "scn_23",
+    "query_category": "assessment_scenarios",
+    "prompt_variation": "optimized",
+    "prompt_template": "\nPlease answer the following question about social care services in UK local authorities based only on the information in the provided documents.\n\nQuestion: {query}\n\nContext from relevant documents:\n{context}\n\nInstructions:\n1. Provide a clear, direct answer that would help someone needing this information. If information isn't available, state: \"The available documents don't provide specific information about [aspect].\"\n\n2. Synthesize information from ALL relevant documents to provide the most complete answer rather than analyzing documents individually.\n\n3. Structure your response with:\n   - A concise 1-2 sentence summary first\n   - Relevant details organized in short, clear paragraphs\n   - Bullet points for lists or step-by-step information\n   - Bold text for key information the user should notice\n\n4. For financial information:\n   - Include exact figures, time periods, and what the funding covers\n   - Present financial data clearly: \"The adult social care budget is **\u00a3X million** for [time period]\"\n\n5. Always include practical next steps or resources:\n   - Provide contact information, URLs, or application methods mentioned in the documents\n   - Suggest where the person could find more information\n\n6. When citing sources, use a simple format: \"According to [document name/description]\" or include URLs where available.\n\nAnswer:\n",
+    "processing_time": 12.991451025009155,
+    "timestamp": "2025-08-19T13:58:36.943119",
+    "top_k": 10
+  }
+}

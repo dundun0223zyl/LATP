@@ -1,0 +1,311 @@
+{
+  "query": "My husband has advanced dementia and I'm his full-time carer in Coventry. I'm exhausted and need support. What are my options?",
+  "retrieved_documents": [
+    {
+      "content": ". Events Regular sessions at the Hub Upcoming events in Coventry run by partner organisations Dementia About dementia Types of dementia Symptoms and diagnosis Memory assessment clinic Could you help with dementia research? Show more Services Staying independent Real stories Living independently Housing options Care services in your home Help to live at home Housing advice Daily living Show more Services Carer support Complete a self-assessment or carer's self assessment Support for Coventry carers Carers Trust Heart of England Assistive technology (telecare) Fire safety advice At risk of getting lost Minority Ethnic carers Young Dementia Network LGBTQ+ carers Show more Services Financial and legal support Money and legal matters Council Tax discounts Make a benefits claim Lasting Power of Attorney Benefits and financial support guide Cost of living Age UK's benefits and entitlements guide Show more Services Contact local support Admiral nurses Age UK Coventry and Warwickshire Alzheimer's Society in Coventry",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.coventry.gov.uk_cdph.txt",
+        "level": "level_1",
+        "source": "https://www.coventry.gov.uk/cdph",
+        "source_url": "https://www.coventry.gov.uk/cdph",
+        "total_chunks": 5,
+        "type": "web_page"
+      },
+      "id": "c4d7dec0-afc5-461b-8295-2a5fc34581c3",
+      "distance": 0.5534070134162903,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.18397789597511294,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". My name is Angela, I am a qualified NLP Practitioner and have a Diploma in Counselling. I cared for my wonderful mum for years through dementia, strokes and macular degeneration and then had to take the painful decision of moving her to a care home when it was no longer the right thing to keep her at home, for her or me. I then wanted to find a way to be there for people in the same situation, to support them and give them ways to help manage their feelings and energies, so I trained as an NLP Practitioner. I would like to offer one or two sessions at the Dementia Hub Coventry to give you an opportunity to talk, be listened to without judgement and give you a couple of coping strategies. The charge for room hire for 1 hour is \u00a35.30 which would be payable by you, and is of course supporting the Dementia Hub at the same time. If you are interested, please call me on 07752 437649 and we can arrange a mutually convenient time and I will arrange room availability",
+      "metadata": {
+        "chunk_id": 6,
+        "filename": "www.coventry.gov.uk_coventry-dementia-partnership-hub-1_coventry-dementia-partnership-hub_4.txt",
+        "level": "level_2",
+        "source": "https://www.coventry.gov.uk/coventry-dementia-partnership-hub-1/coventry-dementia-partnership-hub/4",
+        "source_url": "https://www.coventry.gov.uk/coventry-dementia-partnership-hub-1/coventry-dementia-partnership-hub/4",
+        "total_chunks": 11,
+        "type": "web_page"
+      },
+      "id": "d0156647-cad6-49e1-8b2b-953a63eb8d86",
+      "distance": 0.5717744827270508,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1784676551818848,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "by the third sector under the Preventative Support \nGrant.\nDay opportunities: In 2023 our innovative Coventry \nDementia Partnership Hub opened to the public, \nproviding a one stop shop for dementia services \nincluding day services, outreach, information and \nadvice sessions, a Dementia Friendly Caf\u00e9 and \nsocial space. There is also a council-run service for \nolder people with more general eligible needs.\nCommunity-based support services \n(all client groups)\nHome support: Approximately 40% of people in \nreceipt of long-term support in Coventry receive a \nhome support package (March 2024). The Coventry \nhome support market is currently commissioned in \ntwo parts, Short Term Home Support (STHS) and \nLong-Term Home Support (LTHS). \nSTHS provides up to six-weeks care and support \naiming to facilitate individuals regaining skills, \nconfidence and independence which may have \nbeen lost following an acute episode or other \nincident.  The service was recently retendered and",
+      "metadata": {
+        "chunk_id": 103,
+        "contains_financial_info": true,
+        "download_url": "",
+        "extraction_method": "PyPDF2",
+        "filename": "coventry-city-council-market-position-statement-2024-2029.pdf",
+        "financial_pages": "[2, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22]",
+        "level": "level_2",
+        "page_count": 23,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23]",
+        "source": "coventry-city-council-market-position-statement-2024-2029.pdf",
+        "source_url": "",
+        "total_chunks": 150,
+        "type": "pdf"
+      },
+      "id": "0271916a-b386-45d8-b704-510949f80907",
+      "distance": 0.5855380892753601,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.17433857321739196,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 15]\n   \nThe Hub is working hard to make sure people \nfrom diverse communities can also use the Hub. \nThere can be barriers to getting good support \nbecause of language barriers or if services do not \nmeet cultural needs. They help diverse groups to \nrecognise and understand dementia.\nWe work with people and organisations who \nprovide care to make sure everyone is safe and \nfree from abuse and harm.Making sure everyone is safeFind out more from CDPH@coventry.gov.uk \nCall: 024 7697 8080This is for people with dementia and their \nfamilies to get information and support.  \nThe hub also has a caf\u00e9.  You can read about the \nsupport Hilda had from the Hub in the main \nreport: www.coventry.gov.uk/adult-social-\ncare-strategies-policies-plans/coventry-adult-\nsocial-care-annual-report-202324-local-accountCoventry Dementia Partnership Hub\n15",
+      "metadata": {
+        "chunk_id": 12,
+        "contains_financial_info": true,
+        "download_url": "",
+        "extraction_method": "PyPDF2",
+        "filename": "coventry-adult-social-care-annual-report-2023-2024-easy-read-version.pdf",
+        "financial_pages": "[3, 6, 7, 8, 14, 18]",
+        "level": "level_2",
+        "page_count": 21,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21]",
+        "source": "coventry-adult-social-care-annual-report-2023-2024-easy-read-version.pdf",
+        "source_url": "",
+        "total_chunks": 18,
+        "type": "pdf"
+      },
+      "id": "a9afcdde-335e-408f-a6ff-22aec4e7d692",
+      "distance": 0.6013632416725159,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.16959102749824523,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "take control of their own care and support and to taking positive steps to maintaining independence.\nThe work over the last year demonstrates improvement in supporting people with dementia and \nautism through the Dementia Portal and Independent Advocacy\u2019s autism service. We feel the work \nwe have done will place us in a strong position to meet the increased expectations which will be \nintroduced as part of the Care and Support Bill.\n\u201cI don\u2019t know much about social care and \nwhat is available to me.\u201d\n\u201cI would like more advice on the care I am \ngetting at the moment.\u201d\nHealthwatch Coventry recommended that \nensuring information and advice is available and \nis received early should be a key priority for the Council. We have taken this recommendation on \nas a priority for next year. \nWorking with our partners, we have achieved a \nnumber of improvements to the information and \nadvice we offer.\nThe Coventry and Warwickshire Dementia",
+      "metadata": {
+        "chunk_id": 26,
+        "contains_financial_info": true,
+        "download_url": "",
+        "extraction_method": "PyPDF2",
+        "filename": "coventry-local-account-for-adult-social-care-2012-13.pdf",
+        "financial_pages": "[2, 3, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 21, 22, 23, 25, 26, 30, 31, 32, 35, 36, 37, 38]",
+        "level": "level_2",
+        "page_count": 39,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39]",
+        "source": "coventry-local-account-for-adult-social-care-2012-13.pdf",
+        "source_url": "",
+        "total_chunks": 94,
+        "type": "pdf"
+      },
+      "id": "4741fc92-1100-43c6-b981-b5b09b7657a2",
+      "distance": 0.6126314997673035,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.16621055006980895,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Coventry. The Alzheimer\u2019s Society currently \nprovides a range of services, funded by the Council, including Carers\u2019 Education \nprogramme, Dementia Support Workers \nand Dementia Cafes, where people with dementia, their carers and family can come \ntogether in a relaxed setting to learn about \ndementia, meet with others in the \u2018same boat\u2019 and get support and help.\nIt has been good to see the Council actively \nseek out the views of people who use services and those who care for them and act \non comments and suggestions made. This \nmight be through meetings, surveys, face to face conversations or visits to services.\u201d\nCoventry Carers\u2019 Centre comments on its work \nwith the Council providing specialist information \nand advice for carers. \n\u201cTo its great credit, the Council has long recognised the vital contribution made by \nfamily carers to social care in Coventry and \nhas, for many years, made a significant contribution to the Carers\u2019 Centre. This has \nhelped us to ensure carers\u2019 individual needs",
+      "metadata": {
+        "chunk_id": 32,
+        "contains_financial_info": true,
+        "download_url": "",
+        "extraction_method": "PyPDF2",
+        "filename": "coventry-local-account-for-adult-social-care-2012-13.pdf",
+        "financial_pages": "[2, 3, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 21, 22, 23, 25, 26, 30, 31, 32, 35, 36, 37, 38]",
+        "level": "level_2",
+        "page_count": 39,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39]",
+        "source": "coventry-local-account-for-adult-social-care-2012-13.pdf",
+        "source_url": "",
+        "total_chunks": 94,
+        "type": "pdf"
+      },
+      "id": "69590d43-4ee5-40d7-916e-4dd3f94f690a",
+      "distance": 0.6192946434020996,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1642116069793701,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "[Page 9 - FINANCIAL/BUDGET INFORMATION]\nImprove support for people with mental ill health and dementia\nOur objective was to:\nImprove the range of support provided in Coventry for people living with dementia \nand their carers\nOur progress includes:  \n zdevelopment of Dementia Navigators service for Coventry\n zimplementation of an Admiral Nurses service for Coventry and Rugby\n zbooks on Prescription for Dementia launched in libraries\n zraising the standard of environment and care in some dementia care homes \nthrough training, advice and targeted work\nEnsure that we using our resources effectively\nOur objective was to:\nContinue to work with people who use services, their families and carers, \nand partner organisations as we develop and implement plans that will enable us to continue to deliver Adult Social Care services within the resources available.\nOur progress includes:   \nWe have robust mechanisms for allocating resources demonstrated by the",
+      "metadata": {
+        "chunk_id": 18,
+        "contains_financial_info": true,
+        "download_url": "",
+        "extraction_method": "PyPDF2",
+        "filename": "coventry-adult-social-care-annual-report-2015-16.pdf",
+        "financial_pages": "[2, 4, 6, 7, 8, 9, 11, 13, 14, 15, 16, 17]",
+        "level": "level_2",
+        "page_count": 17,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]",
+        "source": "coventry-adult-social-care-annual-report-2015-16.pdf",
+        "source_url": "",
+        "total_chunks": 63,
+        "type": "pdf"
+      },
+      "id": "1753ebcd-873b-4e0f-a53a-3c84573991e7",
+      "distance": 0.6291779279708862,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.16124662160873413,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 2,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Contents Contents Page 1 / 6 You are here: Information and advice Support to live at home Support for your carer to take a break Supported housing options and residential care homes Day opportunities, community activities and employment support CQC registered Council services Information and advice There is a range of organisations in Coventry that provide information, advice and advocacy services. Some of these services provide a wide range of general information and advice, and others are more specialist and can help people with specific needs. The Council works with organisations including, Age UK Coventry, The Carers' Trust - Heart of England, (formerly Coventry Carers' Centre and Crossroads Care - Coventry and Warwickshire), Alzheimer's Society and Grapevine to make sure that people are able to get information and support in a range of settings to help them when they need it most",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.coventry.gov.uk_care-support_types-support_1.txt",
+        "level": "level_2",
+        "source": "https://www.coventry.gov.uk/care-support/types-support/1",
+        "source_url": "https://www.coventry.gov.uk/care-support/types-support/1",
+        "total_chunks": 5,
+        "type": "web_page"
+      },
+      "id": "731bce9f-7e40-4a3d-8491-e28ab37a0752",
+      "distance": 0.6379867196083069,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.15860398411750792,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "CWPT services.  080 8196 6798\nOther Organisations \nAge UK Coventry \nwww.ageuk.org.uk/\ncoventryandwarwickshire/Supporting adults providing \ninformation and advice, support \nand groups.024 7623 1999 \nAlzheimer\u2019s Society  \nCoventry  \nwww.alzheimers.org.uk/\nsupport-services/Coventry%20\nLocal%20Services/Dementia%20\nConnect%20Coventry/regionalSupporting adults with a \ndiagnosis of dementia and \ntheir families with the provision \nof information and advice and \ngroup-based support.  024 7665 2602 \nCarers Trust  \nHeart of England \nwww.carerstrusthofe.org.uk/One-stop shop for unpaid \ncarers of all ages. 024 7663 2972 \nCoventry & Warwickshire \nMIND   \nwww.cwmind.org.uk/Support for people living with a \nmental health condition024 7655 2847 \nMacmillan Cancer Support\nwww.macmillan.org.uk/ Cancer Support Service.  024 7696 6052 \nHealthwatch\nwww.healthwatch.co.uk  Independent organisation \nsupporting people to have their \nsay in health and social care \nservices.024 7625 2011 \nSEND Information, Advice and \nSupport Service",
+      "metadata": {
+        "chunk_id": 33,
+        "contains_financial_info": true,
+        "download_url": "",
+        "extraction_method": "PyPDF2",
+        "filename": "adult-social-care-offer-full-version-with-translation-details-.pdf",
+        "financial_pages": "[1, 2, 3, 4, 5, 7, 8, 9, 11]",
+        "level": "level_2",
+        "page_count": 12,
+        "pages_with_content": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]",
+        "source": "adult-social-care-offer-full-version-with-translation-details-.pdf",
+        "source_url": "",
+        "total_chunks": 36,
+        "type": "pdf"
+      },
+      "id": "cb5fcd63-74d9-453c-9cb8-e4156e70baf2",
+      "distance": 0.6383247971534729,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.15850256085395814,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": true,
+        "document_type": "pdf",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Contents Contents Page 1 / 7 You are here: Coventry Dementia Partnership Hub The Dementia Hub - how it all started Room hire costs Events at the Coventry Dementia Partnership Hub Upcoming events in Coventry run by partner organisations Forget-Me-Not Cafe How to get to the Hub The Coventry Dementia Partnership Hub is an\u00a0initiative to provide more comprehensive support to people living well with dementia and their carers. The hub\u00a0offers a range of different activities, information and advice sessions, traditional day services and outreach along with a Dementia Friendly Caf\u00e9 and social space. Currently, the following organisations form part of the steering group overseeing the hub are: Admiral Nurses, Age Uk, Alzheimer\u2019s Society including Dementia Connect advisors, Carers, Carer\u2019s Trust, Lions Club of Coventry Godiva, Coventry City Council (Adult Social Care), Coventry Police Partnership Team, Dementia Champions, Memory Assessment and Community Dementia Service, Volunteers and West Midlands Fire Service",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.coventry.gov.uk_care-support_coventry-dementia-partnership-hub.txt",
+        "level": "level_2",
+        "source": "https://www.coventry.gov.uk/care-support/coventry-dementia-partnership-hub",
+        "source_url": "https://www.coventry.gov.uk/care-support/coventry-dementia-partnership-hub",
+        "total_chunks": 3,
+        "type": "web_page"
+      },
+      "id": "3d876a67-27f9-4955-9c89-b4fcc35ee26e",
+      "distance": 0.6471551060676575,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.15585346817970275,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    }
+  ],
+  "context": "[Document 1] From https://www (web_page) - URL: https://www.coventry.gov.uk/cdph [Retrieved via: semantic_original]:\n. Events Regular sessions at the Hub Upcoming events in Coventry run by partner organisations Dementia About dementia Types of dementia Symptoms and diagnosis Memory assessment clinic Could you help with dementia research? Show more Services Staying independent Real stories Living independently Housing options Care services in your home Help to live at home Housing advice Daily living Show more Services Carer support Complete a self-assessment or carer's self assessment Support for Coventry carers Carers Trust Heart of England Assistive technology (telecare) Fire safety advice At risk of getting lost Minority Ethnic carers Young Dementia Network LGBTQ+ carers Show more Services Financial and legal support Money and legal matters Council Tax discounts Make a benefits claim Lasting Power of Attorney Benefits and financial support guide Cost of living Age UK's benefits and entitlements guide Show more Services Contact local support Admiral nurses Age UK Coventry and Warwickshire Alzheimer's Society in Coventry\n\n[Document 2] From https://www (web_page) - URL: https://www.coventry.gov.uk/coventry-dementia-partnership-hub-1/coventry-dementia-partnership-hub/4 [Retrieved via: semantic_original]:\n. My name is Angela, I am a qualified NLP Practitioner and have a Diploma in Counselling. I cared for my wonderful mum for years through dementia, strokes and macular degeneration and then had to take the painful decision of moving her to a care home when it was no longer the right thing to keep her at home, for her or me. I then wanted to find a way to be there for people in the same situation, to support them and give them ways to help manage their feelings and energies, so I trained as an NLP Practitioner. I would like to offer one or two sessions at the Dementia Hub Coventry to give you an opportunity to talk, be listened to without judgement and give you a couple of coping strategies. The charge for room hire for 1 hour is \u00a35.30 which would be payable by you, and is of course supporting the Dementia Hub at the same time. If you are interested, please call me on 07752 437649 and we can arrange a mutually convenient time and I will arrange room availability\n\n[Document 3] From coventry city council market position statement 2024 2029 (pdf) - 23 pages [Retrieved via: semantic_original]:\nby the third sector under the Preventative Support \nGrant.\nDay opportunities: In 2023 our innovative Coventry \nDementia Partnership Hub opened to the public, \nproviding a one stop shop for dementia services \nincluding day services, outreach, information and \nadvice sessions, a Dementia Friendly Caf\u00e9 and \nsocial space. There is also a council-run service for \nolder people with more general eligible needs.\nCommunity-based support services \n(all client groups)\nHome support: Approximately 40% of people in \nreceipt of long-term support in Coventry receive a \nhome support package (March 2024). The Coventry \nhome support market is currently commissioned in \ntwo parts, Short Term Home Support (STHS) and \nLong-Term Home Support (LTHS). \nSTHS provides up to six-weeks care and support \naiming to facilitate individuals regaining skills, \nconfidence and independence which may have \nbeen lost following an acute episode or other \nincident.  The service was recently retendered and\n\n[Document 4] From coventry adult social care annual report 2023 2024 easy read version (pdf) - 21 pages [Retrieved via: semantic_original]:\n[Page 15]\n   \nThe Hub is working hard to make sure people \nfrom diverse communities can also use the Hub. \nThere can be barriers to getting good support \nbecause of language barriers or if services do not \nmeet cultural needs. They help diverse groups to \nrecognise and understand dementia.\nWe work with people and organisations who \nprovide care to make sure everyone is safe and \nfree from abuse and harm.Making sure everyone is safeFind out more from CDPH@coventry.gov.uk \nCall: 024 7697 8080This is for people with dementia and their \nfamilies to get information and support.  \nThe hub also has a caf\u00e9.  You can read about the \nsupport Hilda had from the Hub in the main \nreport: www.coventry.gov.uk/adult-social-\ncare-strategies-policies-plans/coventry-adult-\nsocial-care-annual-report-202324-local-accountCoventry Dementia Partnership Hub\n15\n\n[Document 5] From coventry local account for adult social care 2012 13 (pdf) - 39 pages [Retrieved via: semantic_original]:\ntake control of their own care and support and to taking positive steps to maintaining independence.\nThe work over the last year demonstrates improvement in supporting people with dementia and \nautism through the Dementia Portal and Independent Advocacy\u2019s autism service. We feel the work \nwe have done will place us in a strong position to meet the increased expectations which will be \nintroduced as part of the Care and Support Bill.\n\u201cI don\u2019t know much about social care and \nwhat is available to me.\u201d\n\u201cI would like more advice on the care I am \ngetting at the moment.\u201d\nHealthwatch Coventry recommended that \nensuring information and advice is available and \nis received early should be a key priority for the Council. We have taken this recommendation on \nas a priority for next year. \nWorking with our partners, we have achieved a \nnumber of improvements to the information and \nadvice we offer.\nThe Coventry and Warwickshire Dementia\n\n[Document 6] From coventry local account for adult social care 2012 13 (pdf) - 39 pages [Retrieved via: semantic_original]:\nCoventry. The Alzheimer\u2019s Society currently \nprovides a range of services, funded by the Council, including Carers\u2019 Education \nprogramme, Dementia Support Workers \nand Dementia Cafes, where people with dementia, their carers and family can come \ntogether in a relaxed setting to learn about \ndementia, meet with others in the \u2018same boat\u2019 and get support and help.\nIt has been good to see the Council actively \nseek out the views of people who use services and those who care for them and act \non comments and suggestions made. This \nmight be through meetings, surveys, face to face conversations or visits to services.\u201d\nCoventry Carers\u2019 Centre comments on its work \nwith the Council providing specialist information \nand advice for carers. \n\u201cTo its great credit, the Council has long recognised the vital contribution made by \nfamily carers to social care in Coventry and \nhas, for many years, made a significant contribution to the Carers\u2019 Centre. This has \nhelped us to ensure carers\u2019 individual needs\n\n[Document 7] From coventry adult social care annual report 2015 16 (pdf) - 17 pages [Retrieved via: semantic_original]:\n[Page 9 - FINANCIAL/BUDGET INFORMATION]\nImprove support for people with mental ill health and dementia\nOur objective was to:\nImprove the range of support provided in Coventry for people living with dementia \nand their carers\nOur progress includes:  \n zdevelopment of Dementia Navigators service for Coventry\n zimplementation of an Admiral Nurses service for Coventry and Rugby\n zbooks on Prescription for Dementia launched in libraries\n zraising the standard of environment and care in some dementia care homes \nthrough training, advice and targeted work\nEnsure that we using our resources effectively\nOur objective was to:\nContinue to work with people who use services, their families and carers, \nand partner organisations as we develop and implement plans that will enable us to continue to deliver Adult Social Care services within the resources available.\nOur progress includes:   \nWe have robust mechanisms for allocating resources demonstrated by the\n\n[Document 8] From https://www (web_page) - URL: https://www.coventry.gov.uk/care-support/types-support/1 [Retrieved via: semantic_original]:\nContents Contents Page 1 / 6 You are here: Information and advice Support to live at home Support for your carer to take a break Supported housing options and residential care homes Day opportunities, community activities and employment support CQC registered Council services Information and advice There is a range of organisations in Coventry that provide information, advice and advocacy services. Some of these services provide a wide range of general information and advice, and others are more specialist and can help people with specific needs. The Council works with organisations including, Age UK Coventry, The Carers' Trust - Heart of England, (formerly Coventry Carers' Centre and Crossroads Care - Coventry and Warwickshire), Alzheimer's Society and Grapevine to make sure that people are able to get information and support in a range of settings to help them when they need it most\n\n[Document 9] From adult social care offer full version with translation details  (pdf) - 12 pages [Retrieved via: semantic_original]:\nCWPT services.  080 8196 6798\nOther Organisations \nAge UK Coventry \nwww.ageuk.org.uk/\ncoventryandwarwickshire/Supporting adults providing \ninformation and advice, support \nand groups.024 7623 1999 \nAlzheimer\u2019s Society  \nCoventry  \nwww.alzheimers.org.uk/\nsupport-services/Coventry%20\nLocal%20Services/Dementia%20\nConnect%20Coventry/regionalSupporting adults with a \ndiagnosis of dementia and \ntheir families with the provision \nof information and advice and \ngroup-based support.  024 7665 2602 \nCarers Trust  \nHeart of England \nwww.carerstrusthofe.org.uk/One-stop shop for unpaid \ncarers of all ages. 024 7663 2972 \nCoventry & Warwickshire \nMIND   \nwww.cwmind.org.uk/Support for people living with a \nmental health condition024 7655 2847 \nMacmillan Cancer Support\nwww.macmillan.org.uk/ Cancer Support Service.  024 7696 6052 \nHealthwatch\nwww.healthwatch.co.uk  Independent organisation \nsupporting people to have their \nsay in health and social care \nservices.024 7625 2011 \nSEND Information, Advice and \nSupport Service\n\n[Document 10] From https://www (web_page) - URL: https://www.coventry.gov.uk/care-support/coventry-dementia-partnership-hub [Retrieved via: semantic_original]:\nContents Contents Page 1 / 7 You are here: Coventry Dementia Partnership Hub The Dementia Hub - how it all started Room hire costs Events at the Coventry Dementia Partnership Hub Upcoming events in Coventry run by partner organisations Forget-Me-Not Cafe How to get to the Hub The Coventry Dementia Partnership Hub is an\u00a0initiative to provide more comprehensive support to people living well with dementia and their carers. The hub\u00a0offers a range of different activities, information and advice sessions, traditional day services and outreach along with a Dementia Friendly Caf\u00e9 and social space. Currently, the following organisations form part of the steering group overseeing the hub are: Admiral Nurses, Age Uk, Alzheimer\u2019s Society including Dementia Connect advisors, Carers, Carer\u2019s Trust, Lions Club of Coventry Godiva, Coventry City Council (Adult Social Care), Coventry Police Partnership Team, Dementia Champions, Memory Assessment and Community Dementia Service, Volunteers and West Midlands Fire Service\n",
+  "answer": "You have several support options available in Coventry to help you as a full-time carer for your husband with advanced dementia.\n\n**Summary:** Coventry offers a range of services for carers of people with dementia, including support groups, respite care, and advice services. You can access these through the Coventry Dementia Partnership Hub and other local organizations.\n\n**Support Options:**\n\n- **Coventry Dementia Partnership Hub:** This hub provides a one-stop shop for dementia services, including day services, outreach, information and advice sessions, and a Dementia Friendly Caf\u00e9. It's a great place to connect with other carers and access support. You can contact them at **024 7697 8080** or visit their website for more information: [Coventry Dementia Partnership Hub](https://www.coventry.gov.uk/care-support/coventry-dementia-partnership-hub).\n\n- **Carer Support Services:** You can complete a self-assessment or carer's self-assessment to identify your needs and access support. The Carers Trust Heart of England offers a one-stop shop for unpaid carers of all ages. Contact them at **024 7663 2972** or visit their website: [Carers Trust Heart of England](https://www.carerstrusthofe.org.uk/).\n\n- **Admiral Nurses:** These are specialist dementia nurses who provide practical, clinical, and emotional support to families living with dementia. They are part of the services offered at the Dementia Hub.\n\n- **Alzheimer\u2019s Society:** Offers a range of services, including Dementia Caf\u00e9s and support groups where you can meet others in similar situations. Contact them at **024 7665 2602** or visit their website: [Alzheimer\u2019s Society Coventry](https://www.alzheimers.org.uk/support-services/Coventry%20Local%20Services/Dementia%20Connect%20Coventry/regional).\n\n- **Counseling and Support Sessions:** Angela, a qualified NLP Practitioner, offers sessions at the Dementia Hub to help carers manage their feelings and energies. You can arrange a session by calling her at **07752 437649**.\n\n**Practical Next Steps:**\n1. Contact the Coventry Dementia Partnership Hub to learn more about the services and support available.\n2. Reach out to the Carers Trust Heart of England for a carer's assessment and additional support.\n3. Consider attending a Dementia Caf\u00e9 or support group through the Alzheimer\u2019s Society to connect with other carers.\n\nThese resources can provide you with the support and respite you need as a carer.",
+  "metrics": {
+    "duration_seconds": 18.10548973083496,
+    "retrieved_docs_count": 10,
+    "query_length": 126,
+    "answer_length": 2431,
+    "retrieval_method": "enhanced",
+    "context_utilization": 0.2062043795620438,
+    "citations_count": 0,
+    "has_citations": false,
+    "query_relevance": 0.7647058823529411,
+    "unique_retrieval_methods": 1,
+    "budget_documents_retrieved": 6,
+    "retrieval_methods_used": [
+      "semantic_original"
+    ],
+    "retrieval_method_distribution": {
+      "semantic_original": 10
+    }
+  },
+  "local_authority": "Coventry",
+  "query_id": "scn_15",
+  "retrieval_method": "enhanced",
+  "run_id": "f752b5a9-2ad4-4ddc-b279-6aeaa268b306",
+  "trace": {
+    "run_id": "f752b5a9-2ad4-4ddc-b279-6aeaa268b306",
+    "project": "social_care_rag",
+    "url": "https://eu.smith.langchain.com/o/me/runs/f752b5a9-2ad4-4ddc-b279-6aeaa268b306"
+  },
+  "test_metadata": {
+    "local_authority": "Coventry",
+    "query_id": "scn_15",
+    "query_category": "carer_support_scenarios",
+    "prompt_variation": "optimized",
+    "prompt_template": "\nPlease answer the following question about social care services in UK local authorities based only on the information in the provided documents.\n\nQuestion: {query}\n\nContext from relevant documents:\n{context}\n\nInstructions:\n1. Provide a clear, direct answer that would help someone needing this information. If information isn't available, state: \"The available documents don't provide specific information about [aspect].\"\n\n2. Synthesize information from ALL relevant documents to provide the most complete answer rather than analyzing documents individually.\n\n3. Structure your response with:\n   - A concise 1-2 sentence summary first\n   - Relevant details organized in short, clear paragraphs\n   - Bullet points for lists or step-by-step information\n   - Bold text for key information the user should notice\n\n4. For financial information:\n   - Include exact figures, time periods, and what the funding covers\n   - Present financial data clearly: \"The adult social care budget is **\u00a3X million** for [time period]\"\n\n5. Always include practical next steps or resources:\n   - Provide contact information, URLs, or application methods mentioned in the documents\n   - Suggest where the person could find more information\n\n6. When citing sources, use a simple format: \"According to [document name/description]\" or include URLs where available.\n\nAnswer:\n",
+    "processing_time": 18.10898518562317,
+    "timestamp": "2025-08-17T22:41:06.428020",
+    "top_k": 10
+  }
+}

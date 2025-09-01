@@ -1,0 +1,275 @@
+{
+  "query": "What additional resources and support services are available for social care users in Birmingham, including advocacy and complaints services?",
+  "retrieved_documents": [
+    {
+      "content": "Adult Social Care Support free access and self-referral support offers Birmingham Adult Social Care works with people to help them stay independent and in their own home and community for as long as possible. One way we do this is to provide free access to a range of offers so that people with low level adult social care needs and those worried about issues can get support to help tackle these things early on. This page brings together all in one place these information, advice and support. Information and Support for Carers If you are caring for someone due to old age, disability, serious illness or addition there is a range of help for you. More Information on support for carers Birmingham Carers Hub Birmingham Connect to Support Birmingham Connect to Support is a website that provides information and advice on social care for adults across a wide range of areas. It also has a directory of hundreds of community and city wide organisations that can provide support, activities and groups in your area",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.birmingham.gov.uk_info_20018_adult_social_care_2808_adult_social_care_support_free_access_and_se.txt",
+        "level": "level_1",
+        "source": "https://www.birmingham.gov.uk/info/20018/adult_social_care/2808/adult_social_care_support_free_access_and_self-referral_support_offers",
+        "source_url": "https://www.birmingham.gov.uk/info/20018/adult_social_care/2808/adult_social_care_support_free_access_and_self-referral_support_offers",
+        "total_chunks": 6,
+        "type": "web_page"
+      },
+      "id": "f9027662-a5dc-4d10-abcf-73202e6719ac",
+      "distance": 0.3681657314300537,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.23955028057098388,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Adult Social Care Support free access and self-referral support offers Birmingham Adult Social Care works with people to help them stay independent and in their own home and community for as long as possible. One way we do this is to provide free access to a range of offers so that people with low level adult social care needs and those worried about issues can get support to help tackle these things early on. This page brings together all in one place these information, advice and support. Information and Support for Carers If you are caring for someone due to old age, disability, serious illness or addition there is a range of help for you. More Information on support for carers Birmingham Carers Hub Birmingham Connect to Support Birmingham Connect to Support is a website that provides information and advice on social care for adults across a wide range of areas. It also has a directory of hundreds of community and city wide organisations that can provide support, activities and groups in your area",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.birmingham.gov.uk_info_20018_adult_social_care_2808_adult_social_care_support_free_access_and_se.txt",
+        "level": "level_1",
+        "source": "https://www.birmingham.gov.uk/info/20018/adult_social_care/2808/adult_social_care_support_free_access_and_self-referral_support_offers",
+        "source_url": "https://www.birmingham.gov.uk/info/20018/adult_social_care/2808/adult_social_care_support_free_access_and_self-referral_support_offers",
+        "total_chunks": 6,
+        "type": "web_page"
+      },
+      "id": "7b2216b9-ba4d-4a03-ba5c-7439e9ef4218",
+      "distance": 0.3681657314300537,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.23955028057098388,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". During the conversation, they will aim to identify your strengths and needs. They will also provide advice and information on services or local community resources that may help you. Contact Adult Social Care services Other support options Birmingham Connect to Support Community Directory Visit our connect to support website community directory . Here you can access a range of groups, activities and local resources that may help you. Birmingham Carer\u2019s HUB The Birmingham Carer\u2019s HUB can offer a wide range of support and services to carers in Birmingham. The HUB is delivered by Forward Carers on behalf of the council. Support for children The Children's Advice and Support Service (CASS) can offer information to help children (from birth to 17 years old)",
+      "metadata": {
+        "chunk_id": 3,
+        "filename": "www.birmingham.gov.uk_info_20061_help_for_people_with_specific_needs_and_disabilities_139_services_f.txt",
+        "level": "level_2",
+        "source": "https://www.birmingham.gov.uk/info/20061/help_for_people_with_specific_needs_and_disabilities/139/services_for_adults_with_sight_or_hearing_loss",
+        "source_url": "https://www.birmingham.gov.uk/info/20061/help_for_people_with_specific_needs_and_disabilities/139/services_for_adults_with_sight_or_hearing_loss",
+        "total_chunks": 5,
+        "type": "web_page"
+      },
+      "id": "4262039f-45fc-44ce-bdef-c8957164e592",
+      "distance": 0.42706459760665894,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.2218806207180023,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". During the conversation, they will aim to identify your strengths and needs. They will also provide advice and information on services or local community resources that may help you. Contact Adult Social Care services Other support options Birmingham Connect to Support Community Directory Visit our connect to support website community directory . Here you can access a range of groups, activities and local resources that may help you. Birmingham Carer\u2019s HUB The Birmingham Carer\u2019s HUB can offer a wide range of support and services to carers in Birmingham. The HUB is delivered by Forward Carers on behalf of the council. Support for children The Children's Advice and Support Service (CASS) can offer information to help children (from birth to 17 years old)",
+      "metadata": {
+        "chunk_id": 3,
+        "filename": "www.birmingham.gov.uk_info_20061_help_for_people_with_specific_needs_and_disabilities_139_services_f.txt",
+        "level": "level_2",
+        "source": "https://www.birmingham.gov.uk/info/20061/help_for_people_with_specific_needs_and_disabilities/139/services_for_adults_with_sight_or_hearing_loss",
+        "source_url": "https://www.birmingham.gov.uk/info/20061/help_for_people_with_specific_needs_and_disabilities/139/services_for_adults_with_sight_or_hearing_loss",
+        "total_chunks": 5,
+        "type": "web_page"
+      },
+      "id": "214e32ba-b760-484f-8427-03c403b099d9",
+      "distance": 0.42706459760665894,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.2218806207180023,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Adult social care Adult Social Care Support \u2013 free access and self-referral support offers How to contact us about adult social care services and support Blue Badge and travel passes Report abuse or neglect of an adult with care and support needs Help in your own home Help for people with specific needs and disabilities Paying for adult care and support Information for carers Care Directory - care in Birmingham Other adult care services and support Strategies, CQC assessments, feedback and complaints Also in this section How Adult Social Care works Read about our connect to support website, commissioned and run by Birmingham Adult Social Care, providing information and advice to help you to stay independent Information for care providers Healthwatch Birmingham Adult social care Adult social care - Day opportunities page Blue Badge and travel passes category Help for people with specific needs and disabilities category Help in your own home category How to contact adult social care services category",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.birmingham.gov.uk_info_20018_adult_social_care.txt",
+        "level": "level_0",
+        "source": "https://www.birmingham.gov.uk/info/20018/adult_social_care",
+        "source_url": "https://www.birmingham.gov.uk/info/20018/adult_social_care",
+        "total_chunks": 3,
+        "type": "web_page"
+      },
+      "id": "70b37207-c760-478e-b82d-b3cc1741a13d",
+      "distance": 0.45862337946891785,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.21241298615932463,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "Adult social care Adult Social Care Support \u2013 free access and self-referral support offers How to contact us about adult social care services and support Blue Badge and travel passes Report abuse or neglect of an adult with care and support needs Help in your own home Help for people with specific needs and disabilities Paying for adult care and support Information for carers Care Directory - care in Birmingham Other adult care services and support Strategies, CQC assessments, feedback and complaints Also in this section How Adult Social Care works Read about our connect to support website, commissioned and run by Birmingham Adult Social Care, providing information and advice to help you to stay independent Information for care providers Healthwatch Birmingham Adult social care Adult social care - Day opportunities page Blue Badge and travel passes category Help for people with specific needs and disabilities category Help in your own home category How to contact adult social care services category",
+      "metadata": {
+        "chunk_id": 1,
+        "filename": "www.birmingham.gov.uk_info_20018_adult_social_care.txt",
+        "level": "level_0",
+        "source": "https://www.birmingham.gov.uk/info/20018/adult_social_care",
+        "source_url": "https://www.birmingham.gov.uk/info/20018/adult_social_care",
+        "total_chunks": 3,
+        "type": "web_page"
+      },
+      "id": "7bfcfc27-b5b4-4ee3-9fa5-fa18874a2397",
+      "distance": 0.45862337946891785,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.21241298615932463,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". These are open to any adult who needs them, and are aimed to provide the support needed to keep people living their lives without formal social worker engagement. These include: Birmingham Connect to Support with a range of information advice and guidance, including the community asset directory \u2013 full of local and community based support groups, activities and events Community Neighbourhood Support Team to help sign post and navigate you to community help Community Occupational Therapy drop-in sessions Community Social Worker drop-in sessions Support those that care for a friend, family member or relative , including the Carers Hub Support services for those with sight or hearing issues or those with physical frailty FGC \u2013 Family Group conferencing Assistive technology to support you Social work The preventative support can help many people, but alongside this, some people will need more support from us. This may require an assessment, in Birmingham this is called a conversation",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.birmingham.gov.uk_info_20018_adult_social_care_2703_how_adult_social_care_works_2.txt",
+        "level": "level_2",
+        "source": "https://www.birmingham.gov.uk/info/20018/adult_social_care/2703/how_adult_social_care_works/2",
+        "source_url": "https://www.birmingham.gov.uk/info/20018/adult_social_care/2703/how_adult_social_care_works/2",
+        "total_chunks": 8,
+        "type": "web_page"
+      },
+      "id": "571df0cd-8d04-459f-9ce6-e11810034a8b",
+      "distance": 0.4978869557380676,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.2006339132785797,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": ". These are open to any adult who needs them, and are aimed to provide the support needed to keep people living their lives without formal social worker engagement. These include: Birmingham Connect to Support with a range of information advice and guidance, including the community asset directory \u2013 full of local and community based support groups, activities and events Community Neighbourhood Support Team to help sign post and navigate you to community help Community Occupational Therapy drop-in sessions Community Social Worker drop-in sessions Support those that care for a friend, family member or relative , including the Carers Hub Support services for those with sight or hearing issues or those with physical frailty FGC \u2013 Family Group conferencing Assistive technology to support you Social work The preventative support can help many people, but alongside this, some people will need more support from us. This may require an assessment, in Birmingham this is called a conversation",
+      "metadata": {
+        "chunk_id": 2,
+        "filename": "www.birmingham.gov.uk_info_20018_adult_social_care_2703_how_adult_social_care_works_2.txt",
+        "level": "level_2",
+        "source": "https://www.birmingham.gov.uk/info/20018/adult_social_care/2703/how_adult_social_care_works/2",
+        "source_url": "https://www.birmingham.gov.uk/info/20018/adult_social_care/2703/how_adult_social_care_works/2",
+        "total_chunks": 8,
+        "type": "web_page"
+      },
+      "id": "515f7529-17ea-475a-bdb3-c3c5aab9aca3",
+      "distance": 0.4978869557380676,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.2006339132785797,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 0,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "--\n\nConnect to support website Birmingham Connect to Support website is run by Birmingham Adult Social Care. The website is regularly maintained and updated. The aim of the website is to provide you with information and advice to help you to stay independent in your own home and community. The site contains a range of things like: Community directory Support for carers Staying independent advice Conditions and disability advice Getting out and about Money and legal advice Equipment and Technology Enabled Care Interactive equipment house for ideas for each room Education, training and work The community directory lists hundreds of community and city wide organisations that can provide support, activities and groups in your area. Additionally, there is a products and services directory to help people find the products and services they want, whether on a direct payment or self-funding. Page last updated: 1 March 2023 Help in your own home Equipment loan services page",
+      "metadata": {
+        "chunk_id": 0,
+        "filename": "www.birmingham.gov.uk_info_20071_help_in_your_own_home_2675_connect_to_support_website.txt",
+        "level": "level_1",
+        "source": "https://www.birmingham.gov.uk/info/20071/help_in_your_own_home/2675/connect_to_support_website",
+        "source_url": "https://www.birmingham.gov.uk/info/20071/help_in_your_own_home/2675/connect_to_support_website",
+        "total_chunks": 1,
+        "type": "web_page"
+      },
+      "id": "99c8e99a-50cd-4ed3-b0e6-953af04ee9ad",
+      "distance": 0.531878572785202,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1904364281644394,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    },
+    {
+      "content": "--\n\nConnect to support website Birmingham Connect to Support website is run by Birmingham Adult Social Care. The website is regularly maintained and updated. The aim of the website is to provide you with information and advice to help you to stay independent in your own home and community. The site contains a range of things like: Community directory Support for carers Staying independent advice Conditions and disability advice Getting out and about Money and legal advice Equipment and Technology Enabled Care Interactive equipment house for ideas for each room Education, training and work The community directory lists hundreds of community and city wide organisations that can provide support, activities and groups in your area. Additionally, there is a products and services directory to help people find the products and services they want, whether on a direct payment or self-funding. Page last updated: 1 March 2023 Help in your own home Equipment loan services page",
+      "metadata": {
+        "chunk_id": 0,
+        "filename": "www.birmingham.gov.uk_info_20071_help_in_your_own_home_2675_connect_to_support_website.txt",
+        "level": "level_1",
+        "source": "https://www.birmingham.gov.uk/info/20071/help_in_your_own_home/2675/connect_to_support_website",
+        "source_url": "https://www.birmingham.gov.uk/info/20071/help_in_your_own_home/2675/connect_to_support_website",
+        "total_chunks": 1,
+        "type": "web_page"
+      },
+      "id": "ffc3207d-36c2-4eb4-a5d5-0e505bb71eed",
+      "distance": 0.5318787693977356,
+      "retrieval_method": "semantic_original",
+      "combined_score": 0.1904363691806793,
+      "scoring_details": {
+        "query_type": "general",
+        "financial_indicators_found": 1,
+        "has_financial_metadata": false,
+        "document_type": "web_page",
+        "retrieval_method": "semantic_original"
+      }
+    }
+  ],
+  "context": "[Document 1] From https://www (web_page) - URL: https://www.birmingham.gov.uk/info/20018/adult_social_care/2808/adult_social_care_support_free_access_and_self-referral_support_offers [Retrieved via: semantic_original]:\nAdult Social Care Support free access and self-referral support offers Birmingham Adult Social Care works with people to help them stay independent and in their own home and community for as long as possible. One way we do this is to provide free access to a range of offers so that people with low level adult social care needs and those worried about issues can get support to help tackle these things early on. This page brings together all in one place these information, advice and support. Information and Support for Carers If you are caring for someone due to old age, disability, serious illness or addition there is a range of help for you. More Information on support for carers Birmingham Carers Hub Birmingham Connect to Support Birmingham Connect to Support is a website that provides information and advice on social care for adults across a wide range of areas. It also has a directory of hundreds of community and city wide organisations that can provide support, activities and groups in your area\n\n[Document 2] From https://www (web_page) - URL: https://www.birmingham.gov.uk/info/20018/adult_social_care/2808/adult_social_care_support_free_access_and_self-referral_support_offers [Retrieved via: semantic_original]:\nAdult Social Care Support free access and self-referral support offers Birmingham Adult Social Care works with people to help them stay independent and in their own home and community for as long as possible. One way we do this is to provide free access to a range of offers so that people with low level adult social care needs and those worried about issues can get support to help tackle these things early on. This page brings together all in one place these information, advice and support. Information and Support for Carers If you are caring for someone due to old age, disability, serious illness or addition there is a range of help for you. More Information on support for carers Birmingham Carers Hub Birmingham Connect to Support Birmingham Connect to Support is a website that provides information and advice on social care for adults across a wide range of areas. It also has a directory of hundreds of community and city wide organisations that can provide support, activities and groups in your area\n\n[Document 3] From https://www (web_page) - URL: https://www.birmingham.gov.uk/info/20061/help_for_people_with_specific_needs_and_disabilities/139/services_for_adults_with_sight_or_hearing_loss [Retrieved via: semantic_original]:\n. During the conversation, they will aim to identify your strengths and needs. They will also provide advice and information on services or local community resources that may help you. Contact Adult Social Care services Other support options Birmingham Connect to Support Community Directory Visit our connect to support website community directory . Here you can access a range of groups, activities and local resources that may help you. Birmingham Carer\u2019s HUB The Birmingham Carer\u2019s HUB can offer a wide range of support and services to carers in Birmingham. The HUB is delivered by Forward Carers on behalf of the council. Support for children The Children's Advice and Support Service (CASS) can offer information to help children (from birth to 17 years old)\n\n[Document 4] From https://www (web_page) - URL: https://www.birmingham.gov.uk/info/20061/help_for_people_with_specific_needs_and_disabilities/139/services_for_adults_with_sight_or_hearing_loss [Retrieved via: semantic_original]:\n. During the conversation, they will aim to identify your strengths and needs. They will also provide advice and information on services or local community resources that may help you. Contact Adult Social Care services Other support options Birmingham Connect to Support Community Directory Visit our connect to support website community directory . Here you can access a range of groups, activities and local resources that may help you. Birmingham Carer\u2019s HUB The Birmingham Carer\u2019s HUB can offer a wide range of support and services to carers in Birmingham. The HUB is delivered by Forward Carers on behalf of the council. Support for children The Children's Advice and Support Service (CASS) can offer information to help children (from birth to 17 years old)\n\n[Document 5] From https://www (web_page) - URL: https://www.birmingham.gov.uk/info/20018/adult_social_care [Retrieved via: semantic_original]:\nAdult social care Adult Social Care Support \u2013 free access and self-referral support offers How to contact us about adult social care services and support Blue Badge and travel passes Report abuse or neglect of an adult with care and support needs Help in your own home Help for people with specific needs and disabilities Paying for adult care and support Information for carers Care Directory - care in Birmingham Other adult care services and support Strategies, CQC assessments, feedback and complaints Also in this section How Adult Social Care works Read about our connect to support website, commissioned and run by Birmingham Adult Social Care, providing information and advice to help you to stay independent Information for care providers Healthwatch Birmingham Adult social care Adult social care - Day opportunities page Blue Badge and travel passes category Help for people with specific needs and disabilities category Help in your own home category How to contact adult social care services category\n\n[Document 6] From https://www (web_page) - URL: https://www.birmingham.gov.uk/info/20018/adult_social_care [Retrieved via: semantic_original]:\nAdult social care Adult Social Care Support \u2013 free access and self-referral support offers How to contact us about adult social care services and support Blue Badge and travel passes Report abuse or neglect of an adult with care and support needs Help in your own home Help for people with specific needs and disabilities Paying for adult care and support Information for carers Care Directory - care in Birmingham Other adult care services and support Strategies, CQC assessments, feedback and complaints Also in this section How Adult Social Care works Read about our connect to support website, commissioned and run by Birmingham Adult Social Care, providing information and advice to help you to stay independent Information for care providers Healthwatch Birmingham Adult social care Adult social care - Day opportunities page Blue Badge and travel passes category Help for people with specific needs and disabilities category Help in your own home category How to contact adult social care services category\n\n[Document 7] From https://www (web_page) - URL: https://www.birmingham.gov.uk/info/20018/adult_social_care/2703/how_adult_social_care_works/2 [Retrieved via: semantic_original]:\n. These are open to any adult who needs them, and are aimed to provide the support needed to keep people living their lives without formal social worker engagement. These include: Birmingham Connect to Support with a range of information advice and guidance, including the community asset directory \u2013 full of local and community based support groups, activities and events Community Neighbourhood Support Team to help sign post and navigate you to community help Community Occupational Therapy drop-in sessions Community Social Worker drop-in sessions Support those that care for a friend, family member or relative , including the Carers Hub Support services for those with sight or hearing issues or those with physical frailty FGC \u2013 Family Group conferencing Assistive technology to support you Social work The preventative support can help many people, but alongside this, some people will need more support from us. This may require an assessment, in Birmingham this is called a conversation\n\n[Document 8] From https://www (web_page) - URL: https://www.birmingham.gov.uk/info/20018/adult_social_care/2703/how_adult_social_care_works/2 [Retrieved via: semantic_original]:\n. These are open to any adult who needs them, and are aimed to provide the support needed to keep people living their lives without formal social worker engagement. These include: Birmingham Connect to Support with a range of information advice and guidance, including the community asset directory \u2013 full of local and community based support groups, activities and events Community Neighbourhood Support Team to help sign post and navigate you to community help Community Occupational Therapy drop-in sessions Community Social Worker drop-in sessions Support those that care for a friend, family member or relative , including the Carers Hub Support services for those with sight or hearing issues or those with physical frailty FGC \u2013 Family Group conferencing Assistive technology to support you Social work The preventative support can help many people, but alongside this, some people will need more support from us. This may require an assessment, in Birmingham this is called a conversation\n\n[Document 9] From https://www (web_page) - URL: https://www.birmingham.gov.uk/info/20071/help_in_your_own_home/2675/connect_to_support_website [Retrieved via: semantic_original]:\n--\n\nConnect to support website Birmingham Connect to Support website is run by Birmingham Adult Social Care. The website is regularly maintained and updated. The aim of the website is to provide you with information and advice to help you to stay independent in your own home and community. The site contains a range of things like: Community directory Support for carers Staying independent advice Conditions and disability advice Getting out and about Money and legal advice Equipment and Technology Enabled Care Interactive equipment house for ideas for each room Education, training and work The community directory lists hundreds of community and city wide organisations that can provide support, activities and groups in your area. Additionally, there is a products and services directory to help people find the products and services they want, whether on a direct payment or self-funding. Page last updated: 1 March 2023 Help in your own home Equipment loan services page\n\n[Document 10] From https://www (web_page) - URL: https://www.birmingham.gov.uk/info/20071/help_in_your_own_home/2675/connect_to_support_website [Retrieved via: semantic_original]:\n--\n\nConnect to support website Birmingham Connect to Support website is run by Birmingham Adult Social Care. The website is regularly maintained and updated. The aim of the website is to provide you with information and advice to help you to stay independent in your own home and community. The site contains a range of things like: Community directory Support for carers Staying independent advice Conditions and disability advice Getting out and about Money and legal advice Equipment and Technology Enabled Care Interactive equipment house for ideas for each room Education, training and work The community directory lists hundreds of community and city wide organisations that can provide support, activities and groups in your area. Additionally, there is a products and services directory to help people find the products and services they want, whether on a direct payment or self-funding. Page last updated: 1 March 2023 Help in your own home Equipment loan services page\n",
+  "answer": "Birmingham provides a range of additional resources and support services for social care users, including advocacy and complaints services, primarily through the **Birmingham Connect to Support website** and the **Birmingham Carers Hub**.\n\n**Key Resources and Support Services:**\n- **Birmingham Connect to Support Website**: This platform offers comprehensive information and advice to help individuals stay independent. It includes a community directory with hundreds of local organizations providing support, activities, and groups. The website also offers advice on conditions and disabilities, staying independent, and financial and legal matters. [Visit the website](https://www.birmingham.gov.uk/info/20071/help_in_your_own_home/2675/connect_to_support_website) for more details.\n  \n- **Birmingham Carers Hub**: Run by Forward Carers on behalf of the council, this hub offers a wide range of support and services specifically for carers. It provides information and resources to help carers manage their responsibilities effectively.\n\n- **Community Support Services**: These include community occupational therapy and social worker drop-in sessions, assistive technology, and support for those with sight or hearing issues or physical frailty.\n\n- **Feedback and Complaints**: For issues related to adult social care services, Birmingham provides strategies, CQC assessments, and a feedback and complaints mechanism. More information can be found on the Birmingham Adult Social Care page.\n\n**Practical Next Steps:**\n- For more detailed information and to access these resources, visit the [Birmingham Connect to Support website](https://www.birmingham.gov.uk/info/20071/help_in_your_own_home/2675/connect_to_support_website).\n- To explore support options for carers, contact the Birmingham Carers Hub through the information provided on the Birmingham City Council's website.\n\nThese resources are designed to help individuals and carers in Birmingham navigate social care services and maintain independence in their communities.",
+  "metrics": {
+    "duration_seconds": 11.689719915390015,
+    "retrieved_docs_count": 10,
+    "query_length": 141,
+    "answer_length": 2033,
+    "retrieval_method": "enhanced",
+    "context_utilization": 0.3082706766917293,
+    "citations_count": 0,
+    "has_citations": false,
+    "query_relevance": 0.8461538461538461,
+    "unique_retrieval_methods": 1,
+    "budget_documents_retrieved": 0,
+    "retrieval_methods_used": [
+      "semantic_original"
+    ],
+    "retrieval_method_distribution": {
+      "semantic_original": 10
+    }
+  },
+  "local_authority": "Birmingham",
+  "query_id": "std_4",
+  "retrieval_method": "enhanced",
+  "run_id": "bc22d665-e066-45f3-bded-c4a463a2a180",
+  "trace": {
+    "run_id": "bc22d665-e066-45f3-bded-c4a463a2a180",
+    "project": "social_care_rag",
+    "url": "https://eu.smith.langchain.com/o/me/runs/bc22d665-e066-45f3-bded-c4a463a2a180"
+  },
+  "test_metadata": {
+    "local_authority": "Birmingham",
+    "query_id": "std_4",
+    "query_category": "service_standard",
+    "prompt_variation": "optimized",
+    "prompt_template": "\nPlease answer the following question about social care services in UK local authorities based only on the information in the provided documents.\n\nQuestion: {query}\n\nContext from relevant documents:\n{context}\n\nInstructions:\n1. Provide a clear, direct answer that would help someone needing this information. If information isn't available, state: \"The available documents don't provide specific information about [aspect].\"\n\n2. Synthesize information from ALL relevant documents to provide the most complete answer rather than analyzing documents individually.\n\n3. Structure your response with:\n   - A concise 1-2 sentence summary first\n   - Relevant details organized in short, clear paragraphs\n   - Bullet points for lists or step-by-step information\n   - Bold text for key information the user should notice\n\n4. For financial information:\n   - Include exact figures, time periods, and what the funding covers\n   - Present financial data clearly: \"The adult social care budget is **\u00a3X million** for [time period]\"\n\n5. Always include practical next steps or resources:\n   - Provide contact information, URLs, or application methods mentioned in the documents\n   - Suggest where the person could find more information\n\n6. When citing sources, use a simple format: \"According to [document name/description]\" or include URLs where available.\n\nAnswer:\n",
+    "processing_time": 11.692199945449829,
+    "timestamp": "2025-08-17T22:30:03.962277",
+    "top_k": 10
+  }
+}
