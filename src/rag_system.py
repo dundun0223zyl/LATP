@@ -9,15 +9,13 @@ from typing import Dict, List, Any, Optional
 from sentence_transformers import SentenceTransformer
 from langchain_openai import ChatOpenAI
 from langchain_core.prompts import ChatPromptTemplate, SystemMessagePromptTemplate, HumanMessagePromptTemplate
-#from langchain_core.tracers import tracing_enabled, traceable
 from langsmith.run_helpers import traceable, get_current_run_tree
 from langchain.schema.messages import SystemMessage, HumanMessage
 from langchain.callbacks.tracers import LangChainTracer
 
 from tenacity import retry, wait_random_exponential, stop_after_attempt
 
-from tracing import TracingManager
-
+from enhanced_tracing import TracingManager
 # Configure logger
 logger = logging.getLogger("social_care_rag")
 
@@ -48,15 +46,55 @@ class RAGSystem:
         {context}
 
         Instructions:
-        1. Base your answer ONLY on the provided context. If information isn't available, clearly state: "I don't have information about this in the available documents."
-        2. When referencing sources, include both the document title and source URL when available. For PDF or DOC files, specify page numbers when relevant (e.g., "According to [Document Title] on page 3...").
-        3. Format your answer in clear paragraphs for readability.
-        4. Be concise and specific in your response.
-        5. If the question is about budgets, finances or savings, provide exact figures when available in the context and cite the source clearly.
-        6. If the information appears to be presented in a way that would be difficult for the general public to understand, mention this in your answer.
+        1. Provide a clear, direct answer that would help someone needing this information. If information isn't available, state: "The available documents don't provide specific information about [aspect]."
+
+        2. Synthesize information from ALL relevant documents to provide the most complete answer rather than analyzing documents individually.
+
+        3. Structure your response with:
+        - A concise 1-2 sentence summary first
+        - Relevant details organized in short, clear paragraphs
+        - Bullet points for lists or step-by-step information
+        - Bold text for key information the user should notice
+
+        4. For financial information:
+        - Include exact figures, time periods, and what the funding covers
+        - Present financial data clearly: "The adult social care budget is **£X million** for [time period]"
+
+        5. Always include practical next steps or resources:
+        - Provide contact information, URLs, or application methods mentioned in the documents
+        - Suggest where the person could find more information
+
+        6. When citing sources, use a simple format: "According to [document name/description]" or include URLs where available.
 
         Answer:
         """
+        
+        # Enhanced retrieval: Define terminology mappings for budget-related queries
+        self.budget_terms = {
+            'total_budget': [
+                'total budget', 'net revenue expenditure', 'council budget', 
+                'annual budget', 'gross expenditure', 'overall budget',
+                'total expenditure', 'revenue budget', 'council spending',
+                'total spending', 'budget total', 'financial plan'
+            ],
+            'social_care_budget': [
+                'adult social care', 'social care budget', 'care services',
+                'social services', 'community care', 'care allocation',
+                'adult services', 'social care spending', 'care budget',
+                'social care expenditure', 'adult care budget'
+            ],
+            'savings_targets': [
+                'savings', 'efficiency savings', 'cost reduction', 'budget cuts',
+                'savings target', 'financial savings', 'efficiency gains',
+                'cost savings', 'budget reduction', 'expenditure reduction'
+            ]
+        }
+        
+        # Financial indicators for better document scoring
+        self.financial_indicators = [
+            '£', '$', 'million', 'billion', 'budget', 'expenditure', 'revenue',
+            'allocation', 'funding', 'cost', 'spend', 'financial', 'fiscal'
+        ]
         
         if self.openai_api_key:
             try:
@@ -82,9 +120,182 @@ class RAGSystem:
             self.client = None
             logger.warning("No OpenAI API key provided. Only retrieval will be available.")
 
-    @traceable(run_type="chain", name="RAG Query Processing")
-    def process_query(self, query, top_k=10, prompt_variation_name=None, local_authority=None, query_id=None):
-        """Process a query through the RAG system with tracing."""
+    def _analyze_and_expand_query(self, query: str) -> tuple:
+        """Analyze query type and expand with related terms."""
+        query_lower = query.lower()
+        
+        # Detect query type
+        query_type = 'general'
+        for budget_type, terms in self.budget_terms.items():
+            if any(term in query_lower for term in terms):
+                query_type = budget_type
+                break
+        
+        # Generate expanded queries
+        expanded_queries = []
+        
+        if query_type in self.budget_terms:
+            # Create variations using different terminology
+            for term in self.budget_terms[query_type]:
+                # Replace budget-related terms in original query
+                expanded_query = query_lower
+                for budget_word in ['budget', 'expenditure', 'spending', 'allocation']:
+                    if budget_word in expanded_query:
+                        expanded_query = expanded_query.replace(budget_word, term)
+                        break
+                
+                if expanded_query != query_lower:
+                    expanded_queries.append(expanded_query)
+            
+            # Add direct term searches
+            expanded_queries.extend(self.budget_terms[query_type][:5])
+        
+        return query_type, expanded_queries
+
+    def _enhanced_similarity_search(self, query: str, top_k: int = 10, strategy: str = 'hybrid') -> List[Dict]:
+        """
+        Enhanced retrieval using multiple strategies for better budget query handling.
+        """
+        logger.info(f"Starting enhanced retrieval for query: '{query}'")
+        
+        # Step 1: Detect query type and expand terms
+        query_type, expanded_queries = self._analyze_and_expand_query(query)
+        logger.info(f"Detected query type: {query_type}")
+        
+        # Step 2: Collect candidates from multiple search strategies
+        all_candidates = {}  # Use dict to avoid duplicates by ID
+        
+        # Strategy 1: Original semantic search
+        try:
+            query_embedding = self.embedding_model.encode(query).tolist()
+            semantic_docs = self.vector_db.similarity_search(query_embedding, top_k * 2)
+            
+            for doc in semantic_docs:
+                doc_id = doc.get('id', hash(doc.get('content', '')[:100]))
+                if doc_id not in all_candidates:
+                    doc['retrieval_method'] = 'semantic_original'
+                    all_candidates[doc_id] = doc
+        except Exception as e:
+            logger.error(f"Error in original semantic search: {str(e)}")
+        
+        # Strategy 2: Expanded query searches (for budget queries)
+        if query_type in self.budget_terms:
+            for i, exp_query in enumerate(expanded_queries[:3]):  # Limit to top 3 expansions
+                try:
+                    exp_embedding = self.embedding_model.encode(exp_query).tolist()
+                    exp_docs = self.vector_db.similarity_search(exp_embedding, top_k)
+                    
+                    for doc in exp_docs:
+                        doc_id = doc.get('id', hash(doc.get('content', '')[:100]))
+                        if doc_id not in all_candidates:
+                            doc['retrieval_method'] = f'semantic_expanded_{i+1}'
+                            doc['expanded_query'] = exp_query
+                            all_candidates[doc_id] = doc
+                except Exception as e:
+                    logger.error(f"Error in expanded query search for '{exp_query}': {str(e)}")
+        
+        # Strategy 3: Financial query enhancement
+        if 'budget' in query.lower() or query_type in ['total_budget', 'social_care_budget', 'savings_targets']:
+            # Create a financial-focused query
+            financial_query = f"{query} budget expenditure financial allocation spending"
+            try:
+                financial_embedding = self.embedding_model.encode(financial_query).tolist()
+                financial_docs = self.vector_db.similarity_search(financial_embedding, top_k)
+                
+                for doc in financial_docs:
+                    doc_id = doc.get('id', hash(doc.get('content', '')[:100]))
+                    if doc_id not in all_candidates:
+                        doc['retrieval_method'] = 'financial_enhanced'
+                        all_candidates[doc_id] = doc
+            except Exception as e:
+                logger.error(f"Error in financial query search: {str(e)}")
+        
+        # Step 3: Re-rank all candidates using enhanced scoring
+        candidate_list = list(all_candidates.values())
+        scored_docs = self._rerank_documents_enhanced(query, query_type, candidate_list, expanded_queries)
+        
+        # Step 4: Return top-k results
+        final_results = scored_docs[:top_k]
+        logger.info(f"Enhanced retrieval returning {len(final_results)} documents")
+        
+        return final_results
+
+    def _rerank_documents_enhanced(self, original_query: str, query_type: str, 
+                                 documents: List[Dict], expanded_queries: List[str]) -> List[Dict]:
+        """Re-rank documents using multiple scoring factors for better budget query results."""
+        scored_docs = []
+        
+        for doc in documents:
+            score = 0.0
+            content = doc.get('content', '').lower()
+            metadata = doc.get('metadata', {})
+            
+            # Base semantic similarity score (if available)
+            if 'distance' in doc:
+                # Convert distance to similarity (lower distance = higher similarity)
+                semantic_score = max(0, 1 - doc['distance'])
+                score += semantic_score * 0.3  # Reduced weight for semantic score
+            
+            # Query type relevance boost - MAJOR IMPROVEMENT for budget queries
+            if query_type in self.budget_terms:
+                type_terms = self.budget_terms[query_type]
+                term_matches = sum(1 for term in type_terms if term in content)
+                type_score = min(1.0, term_matches / max(1, len(type_terms)))
+                score += type_score * 0.4  # High weight for terminology matching
+            
+            # Financial content boost for budget queries - MAJOR IMPROVEMENT
+            if 'budget' in original_query.lower() or query_type in ['total_budget', 'social_care_budget']:
+                financial_indicators_found = sum(1 for indicator in self.financial_indicators 
+                                                if indicator in content)
+                financial_score = min(1.0, financial_indicators_found / max(1, len(self.financial_indicators)))
+                score += financial_score * 0.25  # High weight for financial content
+                
+                # Extra boost for documents with financial metadata
+                if metadata.get('contains_financial_info', False):
+                    score += 0.15
+                
+                # Boost for financial pages/sections
+                if metadata.get('financial_pages') or metadata.get('financial_sections'):
+                    score += 0.1
+            
+            # Document type preferences for budget queries
+            doc_type = metadata.get('type', '')
+            if 'budget' in original_query.lower():
+                if doc_type == 'pdf':
+                    score += 0.05  # PDFs often contain budget documents
+                elif doc_type == 'docx':
+                    score += 0.03  # DOCX might contain budget reports
+            
+            # Boost documents that were found via expanded queries
+            if doc.get('retrieval_method', '').startswith('semantic_expanded'):
+                score += 0.1  # Reward documents found through terminology expansion
+            
+            # Boost documents found via financial enhancement
+            if doc.get('retrieval_method') == 'financial_enhanced':
+                score += 0.08
+            
+            # Content length consideration (longer documents might have more comprehensive info)
+            content_length_score = min(0.05, len(content) / 10000)  # Cap at 0.05
+            score += content_length_score
+            
+            doc['combined_score'] = score
+            doc['scoring_details'] = {
+                'query_type': query_type,
+                'financial_indicators_found': sum(1 for indicator in self.financial_indicators if indicator in content),
+                'has_financial_metadata': metadata.get('contains_financial_info', False),
+                'document_type': doc_type,
+                'retrieval_method': doc.get('retrieval_method', 'unknown')
+            }
+            scored_docs.append(doc)
+        
+        # Sort by combined score (descending)
+        scored_docs.sort(key=lambda x: x.get('combined_score', 0), reverse=True)
+        
+        return scored_docs
+
+    @traceable(run_type="chain", name="Enhanced RAG Query Processing")
+    def process_query(self, query, top_k=10, prompt_variation_name=None, local_authority=None, query_id=None, use_enhanced_retrieval=True, retrieval_strategy='hybrid'):
+        """Process a query through the RAG system with enhanced retrieval."""
         
         start_time = time.time()
 
@@ -111,8 +322,11 @@ class RAGSystem:
                     "local_authority": local_authority or "Unknown",
                     "query_id": query_id or "Unknown",
                     "top_k": top_k,
+                    "use_enhanced_retrieval": use_enhanced_retrieval,
+                    "retrieval_strategy": retrieval_strategy if use_enhanced_retrieval else "semantic",
                     "timestamp": datetime.now().isoformat()
                 }
+            
                 current_run.metadata.update(metadata)
                 
                 # Add tags to the current run
@@ -120,26 +334,29 @@ class RAGSystem:
                     f"prompt_variation:{prompt_variation_name or 'default'}",
                     f"local_authority:{local_authority or 'Unknown'}",
                     f"query_id:{query_id or 'Unknown'}",
-                    "type:query_processing"
+                    f"retrieval:{'enhanced' if use_enhanced_retrieval else 'standard'}",
+                    "type:enhanced_query_processing"
                 ]
                 current_run.tags.extend(tags)
                 
                 logger.info(f"Added metadata and tags to current run: {run_name}")
-            
-            # 1. Generate embedding for the query
-            query_embedding = self.embedding_model.encode(query).tolist()
 
-            # 2. Retrieve relevant documents
-            retrieved_docs = self.vector_db.similarity_search(
-                query_embedding, 
-                top_k=top_k
-            )
+            # Choose retrieval method
+            if use_enhanced_retrieval:
+                logger.info("Using enhanced retrieval with multi-strategy approach")
+                retrieved_docs = self._enhanced_similarity_search(query, top_k)
+            else:
+                logger.info("Using standard semantic retrieval")
+                # Original retrieval method
+                query_embedding = self.embedding_model.encode(query).tolist()
+                retrieved_docs = self._enhanced_similarity_search(query, top_k, strategy=retrieval_strategy)
             
             logger.info(f"Retrieved {len(retrieved_docs)} documents for query")
 
             # Update run with document count if available
             if current_run:
                 current_run.metadata["documents_retrieved"] = len(retrieved_docs)
+                current_run.metadata["retrieval_method"] = "enhanced" if use_enhanced_retrieval else "standard"
 
             # 3. Format context from retrieved documents
             context = self._format_context(retrieved_docs)
@@ -171,12 +388,25 @@ class RAGSystem:
                 "duration_seconds": duration,
                 "retrieved_docs_count": len(retrieved_docs),
                 "query_length": len(query),
-                "answer_length": len(answer)
+                "answer_length": len(answer),
+                "retrieval_method": "enhanced" if use_enhanced_retrieval else "standard",
+                "retrieval_strategy": retrieval_strategy if use_enhanced_retrieval else "semantic"
             }
 
             # Add RAG-specific metrics
             rag_metrics = self._calculate_rag_metrics(query, answer, context, retrieved_docs)
             metrics.update(rag_metrics)
+
+            # Add enhanced retrieval specific metrics
+            if use_enhanced_retrieval and retrieved_docs:
+                retrieval_methods = [doc.get('retrieval_method', 'unknown') for doc in retrieved_docs]
+                metrics['retrieval_methods_used'] = list(set(retrieval_methods))
+                
+                # Count documents by retrieval method
+                method_counts = {}
+                for method in retrieval_methods:
+                    method_counts[method] = method_counts.get(method, 0) + 1
+                metrics['retrieval_method_distribution'] = method_counts
 
             # Prepare result
             result = {
@@ -186,7 +416,8 @@ class RAGSystem:
                 'answer': answer,
                 'metrics': metrics,
                 'local_authority': local_authority,
-                'query_id': query_id
+                'query_id': query_id,
+                'retrieval_method': "enhanced" if use_enhanced_retrieval else "standard"
             }
 
             # Add run_id if available - Convert UUID to string
@@ -215,7 +446,8 @@ class RAGSystem:
                 'context': "",
                 'answer': f"Error processing your query: {str(e)}",
                 'local_authority': local_authority,
-                'query_id': query_id
+                'query_id': query_id,
+                'retrieval_method': "enhanced" if use_enhanced_retrieval else "standard"
             }
 
     def _format_context(self, retrieved_docs):
@@ -243,6 +475,10 @@ class RAGSystem:
             # Add page count info for PDFs
             if doc_type == 'pdf' and 'page_count' in doc['metadata']:
                 source_info += f" - {doc['metadata']['page_count']} pages"
+
+            # Add enhanced retrieval information if available
+            if 'retrieval_method' in doc:
+                source_info += f" [Retrieved via: {doc['retrieval_method']}]"
 
             doc_context = f"[Document {i+1}] From {source_info}:\n{content}\n"
             context_parts.append(doc_context)
@@ -341,6 +577,18 @@ class RAGSystem:
             if query_terms:
                 query_term_presence = sum(1 for term in query_terms if term in answer.lower())
                 metrics['query_relevance'] = query_term_presence / len(query_terms)
+
+            # 4. Enhanced retrieval specific metrics
+            if retrieved_docs:
+                # Count documents by retrieval method
+                retrieval_methods = [doc.get('retrieval_method', 'unknown') for doc in retrieved_docs]
+                unique_methods = set(retrieval_methods)
+                metrics['unique_retrieval_methods'] = len(unique_methods)
+                
+                # Check if any budget-specific documents were retrieved
+                budget_docs = sum(1 for doc in retrieved_docs 
+                                if doc.get('metadata', {}).get('contains_financial_info', False))
+                metrics['budget_documents_retrieved'] = budget_docs
 
         except Exception as e:
             logger.error(f"Error calculating RAG metrics: {str(e)}")

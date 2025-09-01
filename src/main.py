@@ -21,7 +21,7 @@ from text_chunker import TextChunker
 from embedding_generator import EmbeddingGenerator
 from vector_database import VectorDatabase
 from rag_system import RAGSystem
-from tracing import TracingManager
+from social_care_rag_simplified.src.enhanced_tracing import TracingManager
 
 # Set up logging
 logging.basicConfig(

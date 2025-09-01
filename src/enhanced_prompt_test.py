@@ -1,3 +1,5 @@
+# enhanced_prompt_test.py - Updated version of your prompt_test.py with SOTA evaluation
+
 import os
 import time
 import json
@@ -11,26 +13,16 @@ import pandas as pd
 from rich.console import Console
 from rich.progress import Progress, BarColumn, TextColumn, TimeElapsedColumn
 
-from social_care_rag_simplified.src.enhanced_tracing import TracingManager
-
-# At the top of your prompt_test.py file
+# Load environment variables
 from pathlib import Path
 from dotenv import load_dotenv
-
-# Load environment variables from .env file
 load_dotenv()
-
-
-# For debugging, print the loaded values
-print(f"OPENAI_API_KEY loaded: {'Yes' if os.getenv('OPENAI_API_KEY') else 'No'}")
-print(f"LANGSMITH_API_KEY loaded: {'Yes' if os.getenv('LANGSMITH_API_KEY') else 'No'}")
-
 
 # Configure logger
 logger = logging.getLogger("social_care_rag")
 console = Console()
 
-# Define prompt variations
+# Define prompt variations (your existing ones plus optimized version)
 PROMPT_VARIATIONS = {
     "original": """
         Please answer the following question about social care services in UK local authorities based only on the information in the provided documents.
@@ -166,25 +158,117 @@ PROMPT_VARIATIONS = {
         6. Format your response in short, clear paragraphs with bullet points where appropriate.
 
         Answer:
+        """,
+
+    # NEW: Your optimized prompt based on testing results
+    "optimized_budget": """
+        Please answer the following question about social care services in UK local authorities based only on the information in the provided documents.
+
+        Question: {query}
+
+        Context from relevant documents:
+        {context}
+
+        Instructions:
+        1. For BUDGET QUESTIONS specifically:
+           - Search the context for ANY financial figures, even if terminology differs
+           - Look for terms like: "net revenue expenditure", "gross expenditure", "total spending", "council budget", "annual budget"
+           - For social care budgets, look for: "adult social care", "social services", "community care", "care allocation"
+           - If you find budget figures, present them clearly with the exact amount and time period
+           - If no specific figures are found, describe what budget information IS available
+
+        2. Structure your response:
+           - **Direct Answer**: State the specific figure if found, or "No specific figure provided in available documents"
+           - **Available Information**: Describe what budget-related information is present
+           - **Context**: Explain what document types and sources the information comes from
+
+        3. For financial information:
+           - Include exact figures, time periods, and what the funding covers
+           - Present financial data clearly: "The budget is **£X million** for [time period]"
+           - Note if figures represent gross vs net amounts, or include/exclude specific items
+
+        4. Always cite sources using format: "According to [document name/description]"
+
+        5. For non-budget questions, provide clear, direct answers following standard best practices:
+           - Synthesize information from all relevant documents
+           - Use bullet points for lists and step-by-step information
+           - Include practical next steps or contact information when available
+
+        Answer:
         """
 }
 
-# Define test queries
+# Enhanced test queries with expected information types
 STANDARD_QUERIES = [
-    {"id": "std_1", "text": "What social care services are available in {LA} and who is eligible for them?"},
-    {"id": "std_2", "text": "What is the process for requesting a social care assessment in {LA}?"},
-    {"id": "std_3", "text": "What are the costs of care services in {LA} and how do residents pay for these services?"},
-    {"id": "std_4", "text": "What additional resources and support services are available for social care users in {LA}, including advocacy and complaints services?"},
-    {"id": "std_6", "text": "What is {LA}'s total annual budget for the current financial year?"},
-    {"id": "std_7", "text": "What specific savings targets has {LA} set in its budget plans?"},
-    {"id": "std_9", "text": "What is the current budget allocation for Adult Social Care in {LA}?"}
+    {
+        "id": "std_1", 
+        "text": "What social care services are available in {LA} and who is eligible for them?",
+        "type": "services",
+        "expected_info_type": "service_list"
+    },
+    {
+        "id": "std_2", 
+        "text": "What is the process for requesting a social care assessment in {LA}?",
+        "type": "process",
+        "expected_info_type": "procedure"
+    },
+    {
+        "id": "std_3", 
+        "text": "What are the costs of care services in {LA} and how do residents pay for these services?",
+        "type": "costs",
+        "expected_info_type": "financial"
+    },
+    {
+        "id": "std_4", 
+        "text": "What additional resources and support services are available for social care users in {LA}, including advocacy and complaints services?",
+        "type": "support",
+        "expected_info_type": "service_list"
+    },
+    {
+        "id": "std_6", 
+        "text": "What is {LA}'s total annual budget?",
+        "type": "budget",
+        "expected_info_type": "budget_total"
+    },
+    {
+        "id": "std_7", 
+        "text": "What specific savings targets has {LA} set in its budget plans?",
+        "type": "budget",
+        "expected_info_type": "budget_savings"
+    },
+    {
+        "id": "std_9", 
+        "text": "What is the current budget allocation for Adult Social Care in {LA}?",
+        "type": "budget",
+        "expected_info_type": "budget_social_care"
+    }
 ]
 
 SCENARIO_QUERIES = [
-    {"id": "scn_1", "text": "I'm 83 and recently had a fall in my home in {LA}. I live alone and I'm worried about my safety. What services can help me stay independent?"},
-    {"id": "scn_15", "text": "My husband has advanced dementia and I'm his full-time carer in {LA}. I'm exhausted and need support. What are my options?"},
-    {"id": "scn_16", "text": "My care needs assessment in {LA} says I need 20 hours of home care weekly, but I'm worried about costs. What financial help is available?"},
-    {"id": "scn_25", "text": "I'm concerned about an elderly neighbor in {LA} who seems confused and isn't eating properly. How do I report adult safeguarding concerns?"}
+    {
+        "id": "scn_1", 
+        "text": "I'm 83 and recently had a fall in my home in {LA}. I live alone and I'm worried about my safety. What services can help me stay independent?",
+        "type": "scenario",
+        "expected_info_type": "support_services"
+    },
+    {
+        "id": "scn_15", 
+        "text": "My husband has advanced dementia and I'm his full-time carer in {LA}. I'm exhausted and need support. What are my options?",
+        "type": "scenario",
+        "expected_info_type": "carer_support"
+    },
+    {
+        "id": "scn_16", 
+        "text": "My care needs assessment in {LA} says I need 20 hours of home care weekly, but I'm worried about costs. What financial help is available?",
+        "type": "scenario",
+        "expected_info_type": "financial_support"
+    },
+    {
+        "id": "scn_25", 
+        "text": "I'm concerned about an elderly neighbor in {LA} who seems confused and isn't eating properly. How do I report adult safeguarding concerns?",
+        "type": "scenario",
+        "expected_info_type": "safeguarding"
+    }
 ]
 
 def save_json_safely(filepath, data):
@@ -205,9 +289,10 @@ def save_json_safely(filepath, data):
             logger.error(f"Error in second attempt to save JSON: {str(e2)}")
             return False
 
-class PromptTester:
-    def __init__(self, vector_db_base_path="./output", results_path="./prompt_test_results", openai_api_key=None, langsmith_api_key=None):
-        """Initialize the prompt tester with paths and configuration."""
+class EnhancedPromptTester:
+    def __init__(self, vector_db_base_path="./output", results_path="./prompt_test_results", 
+                 openai_api_key=None, langsmith_api_key=None):
+        """Initialize the enhanced prompt tester with SOTA evaluation capabilities."""
         self.vector_db_base_path = Path(vector_db_base_path)
         self.results_path = Path(results_path)
         self.results_path.mkdir(exist_ok=True, parents=True)
@@ -217,7 +302,7 @@ class PromptTester:
         self.langsmith_api_key = langsmith_api_key or os.getenv("LANGSMITH_API_KEY")
         
         # Create a consistent project name
-        self.project_name = "social_care_rag"  # Use a consistent name instead of timestamp
+        self.project_name = "social_care_rag_enhanced"
         
         # Test results data structure
         self.results = {
@@ -225,7 +310,8 @@ class PromptTester:
                 "timestamp": datetime.now().isoformat(),
                 "vector_db_base_path": str(vector_db_base_path),
                 "results_path": str(results_path),
-                "project_name": self.project_name
+                "project_name": self.project_name,
+                "evaluation_version": "enhanced_sota"
             },
             "test_runs": []
         }
@@ -243,29 +329,32 @@ class PromptTester:
             os.environ["LANGSMITH_PROJECT"] = self.project_name
             os.environ["LANGSMITH_ENDPOINT"] = "https://eu.api.smith.langchain.com"
             
-            # Initialize the tracing manager
-            self.tracing_manager = TracingManager(
-                api_key=self.langsmith_api_key,
-                project_name=self.project_name
-            )
-            
-            logger.info(f"LangSmith tracing enabled with project: {self.project_name}")
+            # Initialize the enhanced tracing manager
+            try:
+                from enhanced_tracing import TracingManager
+                self.tracing_manager = TracingManager(
+                    api_key=self.langsmith_api_key,
+                    project_name=self.project_name
+                )
+                logger.info(f"Enhanced LangSmith tracing enabled with project: {self.project_name}")
+            except ImportError:
+                # Fall back to original tracing manager
+                try:
+                    from tracing import TracingManager
+                    self.tracing_manager = TracingManager(
+                        api_key=self.langsmith_api_key,
+                        project_name=self.project_name
+                    )
+                    logger.info(f"Basic LangSmith tracing enabled with project: {self.project_name}")
+                except ImportError:
+                    logger.warning("No tracing manager available")
+                    self.tracing_manager = None
         else:
             logger.warning("LangSmith tracing disabled (no API key provided)")
             self.tracing_manager = None
 
-    def _safe_get_evaluation(self, result, metric):
-        """Safely get evaluation metric even if structure is incomplete."""
-        try:
-            if not result or not isinstance(result.get('evaluations'), dict):
-                return None
-            eval_data = result.get('evaluations', {}).get(metric, {})
-            return eval_data.get('score', None) if isinstance(eval_data, dict) else None
-        except:
-            return None
-
     def test_prompt_variation(self, local_authority, query_info, prompt_name, prompt_template, top_k=10):
-        """Test a specific prompt variation on a query for a local authority."""
+        """Test a specific prompt variation with enhanced retrieval and evaluation."""
         # Format the query for this LA
         query_text = query_info["text"].format(LA=local_authority)
         
@@ -273,7 +362,7 @@ class PromptTester:
             # Import here to avoid circular dependencies
             from rag_system import RAGSystem
             
-            # You'll need to implement or import VectorDatabase
+            # Import VectorDatabase
             try:
                 from vector_database import VectorDatabase
             except ImportError:
@@ -296,7 +385,7 @@ class PromptTester:
             # Initialize the vector database
             vector_db = VectorDatabase(persist_directory=str(vector_db_path))
             
-            # Create a RAG system
+            # Create a RAG system with enhanced capabilities
             rag = RAGSystem(
                 vector_db, 
                 openai_api_key=self.openai_api_key,
@@ -309,26 +398,32 @@ class PromptTester:
             # Set the prompt template for this test
             rag.prompt_template = prompt_template
             
-            # Process the query with the custom prompt
+            # Process the query with enhanced retrieval and evaluation
             start_time = time.time()
             result = rag.process_query(
                 query=query_text, 
                 top_k=top_k, 
                 prompt_variation_name=prompt_name,
                 local_authority=local_authority,
-                query_id=query_info['id']
+                query_id=query_info['id'],
+                use_enhanced_retrieval=True,  # Use enhanced retrieval by default
+                retrieval_strategy='hybrid'   # Use hybrid strategy for best results
             )
             end_time = time.time()
             
-            # Add test metadata
+            # Add enhanced test metadata
             result['test_metadata'] = {
                 'local_authority': local_authority,
                 'query_id': query_info['id'],
+                'query_type': query_info.get('type', 'unknown'),
+                'expected_info_type': query_info.get('expected_info_type', 'general'),
                 'prompt_variation': prompt_name,
                 'prompt_template': prompt_template,
                 'processing_time': end_time - start_time,
                 'timestamp': datetime.now().isoformat(),
-                'top_k': top_k
+                'top_k': top_k,
+                'enhanced_retrieval_used': True,
+                'retrieval_strategy': 'hybrid'
             }
             
             # Restore original template
@@ -342,11 +437,17 @@ class PromptTester:
                 'error': str(e),
                 'local_authority': local_authority,
                 'query_id': query_info['id'],
-                'prompt_variation': prompt_name
+                'prompt_variation': prompt_name,
+                'test_metadata': {
+                    'error_occurred': True,
+                    'error_message': str(e),
+                    'timestamp': datetime.now().isoformat()
+                }
             }
         
-    def run_tests(self, local_authorities, queries=None, prompt_variations=None, top_k=10, run_evaluation=True):
-        """Run tests for the specified local authorities, queries, and prompt variations."""
+    def run_enhanced_tests(self, local_authorities, queries=None, prompt_variations=None, 
+                          top_k=10, run_evaluation=True, create_dataset=True):
+        """Run enhanced tests with SOTA evaluation capabilities."""
         # Use default queries if none specified
         if queries is None:
             queries = STANDARD_QUERIES + SCENARIO_QUERIES[:3]  # Standard + first 3 scenario queries
@@ -357,23 +458,23 @@ class PromptTester:
             
         # Create directories for results
         timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-        test_dir = self.results_path / f"test_run_{timestamp}"
+        test_dir = self.results_path / f"enhanced_test_run_{timestamp}"
         test_dir.mkdir(exist_ok=True, parents=True)
         
         # Initialize results list
         all_results = []
         
-        # Create evaluation dataset if enabled
+        # Create evaluation dataset if enabled and tracing manager available
         evaluation_dataset = None
-        if run_evaluation and self.tracing_manager and self.tracing_manager.client:
-            logger.info("Creating evaluation dataset...")
+        if create_dataset and run_evaluation and self.tracing_manager and self.tracing_manager.client:
+            logger.info("Creating enhanced evaluation dataset...")
             evaluation_dataset = self.tracing_manager.create_evaluation_dataset(
                 local_authorities=local_authorities,
                 queries=queries,
-                name_suffix=f"test_{timestamp}"
+                name_suffix=f"enhanced_test_{timestamp}"
             )
             if evaluation_dataset:
-                logger.info(f"Created dataset: {evaluation_dataset.name}")
+                logger.info(f"Created enhanced dataset: {evaluation_dataset.name}")
             else:
                 logger.warning("Failed to create dataset. Evaluation will be skipped.")
                 run_evaluation = False
@@ -387,7 +488,7 @@ class PromptTester:
             TextColumn("[progress.percentage]{task.percentage:>3.0f}%"),
             TimeElapsedColumn()
         ) as progress:
-            main_task = progress.add_task("[cyan]Overall Testing Progress", total=total_tests)
+            main_task = progress.add_task("[cyan]Enhanced Testing Progress", total=total_tests)
             
             # Loop through local authorities
             for la in local_authorities:
@@ -406,7 +507,7 @@ class PromptTester:
                         test_description = f"{la} | {query['id']} | {prompt_name}"
                         progress.update(main_task, description=f"[cyan]Testing: {test_description}")
                         
-                        # Run the test
+                        # Run the enhanced test
                         result = self.test_prompt_variation(
                             local_authority=la,
                             query_info=query,
@@ -428,11 +529,13 @@ class PromptTester:
                             # Use safe JSON saving function
                             save_json_safely(output_file, result)
                             
-                            # Add to results list
-                            all_results.append({
+                            # Add to results list with enhanced metadata
+                            result_summary = {
                                 'local_authority': la,
                                 'query_id': query['id'],
                                 'query_text': query['text'].format(LA=la),
+                                'query_type': query.get('type', 'unknown'),
+                                'expected_info_type': query.get('expected_info_type', 'general'),
                                 'prompt_variation': prompt_name,
                                 'output_file': str(output_file),
                                 'processing_time': result.get('test_metadata', {}).get('processing_time', None),
@@ -441,28 +544,34 @@ class PromptTester:
                                 'run_id': result.get('run_id', None),
                                 'retrieved_docs_count': len(result.get('retrieved_documents', [])),
                                 'answer_length': len(result.get('answer', '')),
-                                'answer': result.get('answer', '')
-                            })
+                                'answer': result.get('answer', ''),
+                                'retrieval_method': result.get('retrieval_method', 'unknown'),
+                                'enhanced_features_used': {
+                                    'enhanced_retrieval': result.get('test_metadata', {}).get('enhanced_retrieval_used', False),
+                                    'retrieval_strategy': result.get('test_metadata', {}).get('retrieval_strategy', 'unknown')
+                                }
+                            }
+                            all_results.append(result_summary)
                         
                         # Update progress
                         progress.update(main_task, advance=1)
                         progress.update(la_task, advance=1)
         
-        # Create summary DataFrame
+        # Create summary DataFrame with enhanced columns
         df = pd.DataFrame(all_results)
         
-        # Save results summary - use safe JSON saving
-        summary_file = test_dir / "test_summary.csv"
+        # Save results summary
+        summary_file = test_dir / "enhanced_test_summary.csv"
         df.to_csv(summary_file, index=False)
         
-        # Also save as JSON for programmatic access - use safe JSON saving
-        summary_json = test_dir / "test_summary.json"
+        # Save as JSON for programmatic access
+        summary_json = test_dir / "enhanced_test_summary.json"
         df_dict = df.to_dict(orient='records')
         save_json_safely(summary_json, df_dict)
         
-        # Run evaluation if requested and possible
+        # Run enhanced evaluation if requested and possible
         if run_evaluation and self.tracing_manager and evaluation_dataset:
-            console.print("\n[bold blue]Running evaluation on test results...[/bold blue]")
+            console.print("\n[bold blue]Running enhanced SOTA evaluation on test results...[/bold blue]")
         
             # Debug logging before evaluation
             logger.info(f"all_results contains {len(all_results)} items")
@@ -471,19 +580,18 @@ class PromptTester:
                 logger.info(f"First result has answer: {'Yes' if 'answer' in all_results[0] else 'No'}")
                 logger.info(f"Answer sample: {all_results[0].get('answer', '')[:100] if all_results[0].get('answer') else 'No answer'}")
 
-            
-            # Define evaluation target function
-            def target_fn(inputs):
+            # Define enhanced evaluation target function
+            def enhanced_target_fn(inputs):
                 query = inputs.get("query", inputs.get("question", ""))
-                # Extract local_authority and query_id from metadata if available
                 metadata = inputs.get("metadata", {})
                 local_authority = metadata.get("local_authority", "Unknown")
                 query_id = metadata.get("query_id", "Unknown")
                 prompt_variation = metadata.get("prompt_variation")
 
-                logger.info(f"Target function called with query_id: {query_id}, LA: {local_authority}, prompt: {prompt_variation}")
+                logger.info(f"Enhanced target function called with query_id: {query_id}, LA: {local_authority}, prompt: {prompt_variation}")
             
-                # Method 1: Match by query_id and local_authority
+                # Enhanced matching with multiple fallbacks
+                # Method 1: Exact match by metadata
                 if query_id and query_id != "Unknown" and prompt_variation and prompt_variation != "Unknown":
                     for result in all_results:
                         if (result.get('query_id') == query_id and 
@@ -491,18 +599,25 @@ class PromptTester:
                             result.get('prompt_variation') == prompt_variation):
                             if result.get('answer'):
                                 logger.info(f"Found exact match: {query_id}, {local_authority}, {prompt_variation}")
-                                return {"answer": result['answer']}
+                                return {
+                                    "answer": result['answer'],
+                                    "documents": [],  # Will be filled from retrieved_documents if needed
+                                    "metadata": result.get('enhanced_features_used', {})
+                                }
                 
-                # If no match with prompt variation, fall back to just query_id and local_authority
+                # Method 2: Match by query_id and LA (ignoring prompt variation)
                 if query_id and query_id != "Unknown":
                     for result in all_results:
                         if result.get('query_id') == query_id and result.get('local_authority') == local_authority:
                             if result.get('answer'):
-                                logger.info(f"Found match by ID and LA (ignoring prompt): {query_id}, {local_authority}")
-                                return {"answer": result['answer']}
-    
+                                logger.info(f"Found match by ID and LA: {query_id}, {local_authority}")
+                                return {
+                                    "answer": result['answer'],
+                                    "documents": [],
+                                    "metadata": result.get('enhanced_features_used', {})
+                                }
                 
-                # Method 2: Match by normalized query text
+                # Method 3: Fuzzy match by query text
                 normalized_query = query.lower().strip()
                 for result in all_results:
                     result_query = result.get('query_text', '').lower().strip()
@@ -510,295 +625,247 @@ class PromptTester:
                         result.get('prompt_variation') == prompt_variation):
                         if result.get('answer'):
                             logger.info(f"Found match by query text and prompt variation")
-                            return {"answer": result['answer']}
+                            return {
+                                "answer": result['answer'],
+                                "documents": [],
+                                "metadata": result.get('enhanced_features_used', {})
+                            }
                 
-                # Method 3: Try partial matching as last resort
-                for result in all_results:
-                    result_query = result.get('query_text', '').lower().strip()
-                    # Only try partial match for longer queries to avoid false positives
-                    if (len(normalized_query) > 20 and 
-                        (normalized_query in result_query or result_query in normalized_query) and
-                        result.get('prompt_variation') == prompt_variation):
-                        if result.get('answer'):
-                           logger.info(f"Found partial match with matching prompt variation")
-                           return {"answer": result['answer']}
-            
                 logger.warning(f"No match found for query_id: {query_id}, LA: {local_authority}, prompt: {prompt_variation}")
-                return {"answer": f"No result found for query: {query[:50]}... in LA: {local_authority} with prompt: {prompt_variation}"}
-        
+                return {
+                    "answer": f"No result found for query: {query[:50]}... in LA: {local_authority} with prompt: {prompt_variation}",
+                    "documents": [],
+                    "metadata": {}
+                }
             
-            # Set up evaluators
-            evaluators = self.tracing_manager.setup_evaluators()
-            
-            # Run evaluation using the latest method
-            from langsmith import evaluate
-
-            evaluator_functions = list(evaluators.values())
-            logger.info(f"Using {len(evaluator_functions)} evaluator functions: {list(evaluators.keys())}")
-
-            
+            # Run enhanced evaluation
             try:
-                experiment_results = evaluate(
-                    target_fn,
-                    data=evaluation_dataset.id,
-                    evaluators=evaluator_functions,
-                    experiment_prefix=f"eval_{evaluation_dataset.name}",
-                    max_concurrency=4
+                experiment_results = self.tracing_manager.run_evaluation_experiment(
+                    target_function=enhanced_target_fn,
+                    dataset_name=evaluation_dataset,
+                    evaluators=None  # Will use enhanced evaluators from tracing manager
                 )
                 
-                console.print(f"[bold green]Evaluation experiment started: {experiment_results}[/bold green]")
-                console.print(f"Results will be available in LangSmith dashboard when complete.")
+                if experiment_results:
+                    console.print(f"[bold green]Enhanced evaluation experiment completed successfully![/bold green]")
+                    console.print(f"Results will be available in LangSmith dashboard.")
+                    
+                    # Try to get and display analysis if enhanced evaluation system is available
+                    if hasattr(self.tracing_manager, 'enhanced_evaluation') and self.tracing_manager.enhanced_evaluation:
+                        try:
+                            analysis = self.tracing_manager.enhanced_evaluation.analyze_evaluation_results(experiment_results)
+                            if analysis and 'overall_stats' in analysis:
+                                console.print(f"\n[bold blue]Evaluation Analysis:[/bold blue]")
+                                for metric, stats in analysis['overall_stats'].get('avg_scores', {}).items():
+                                    console.print(f"{metric}: {stats.get('mean', 0):.2f} ± {stats.get('std', 0):.2f}")
+                                
+                                if analysis.get('insights'):
+                                    console.print(f"\n[bold yellow]Key Insights:[/bold yellow]")
+                                    for insight in analysis['insights']:
+                                        console.print(f"• {insight}")
+                        except Exception as e:
+                            logger.error(f"Error analyzing evaluation results: {str(e)}")
+                else:
+                    console.print(f"[bold yellow]Evaluation completed but no results returned[/bold yellow]")
+                    
             except Exception as e:
-                logger.error(f"Error running evaluation experiment: {str(e)}")
+                logger.error(f"Error running enhanced evaluation experiment: {str(e)}")
                 import traceback
                 traceback.print_exc()
         
-        # Generate a more detailed HTML report
-        self.generate_html_report(df, test_dir)
+        # Generate enhanced HTML report
+        self.generate_enhanced_html_report(df, test_dir)
         
-        console.print(f"\n[bold green]Testing complete! Results saved to {test_dir}[/bold green]")
+        console.print(f"\n[bold green]Enhanced testing complete! Results saved to {test_dir}[/bold green]")
         console.print(f"Summary: {summary_file}")
-        console.print(f"HTML Report: {test_dir / 'test_report.html'}")
+        console.print(f"Enhanced HTML Report: {test_dir / 'enhanced_test_report.html'}")
         
         return df, test_dir
     
-    def generate_html_report(self, df, output_dir):
-        """Generate an HTML report from the test results."""
-        # Check if evaluation metrics exist
-        eval_columns = ['relevance_score', 'completeness_score', 'accuracy_score']
-        missing_columns = [col for col in eval_columns if col not in df.columns]
+    def generate_enhanced_html_report(self, df, output_dir):
+        """Generate an enhanced HTML report with SOTA evaluation insights."""
+        # Enhanced analysis with more metrics
+        numeric_eval_cols = [col for col in df.columns if 'score' in col.lower() and pd.api.types.is_numeric_dtype(df[col])]
         
-        if missing_columns:
-            logger.warning(f"Missing evaluation columns: {missing_columns}")
-            # Add empty columns for missing metrics
-            for col in missing_columns:
-                df[col] = None
-        
-        # IMPROVED: Make a copy of the dataframe to avoid modifying the original
-        df_numeric = df.copy()
-        
-        # IMPROVED: Check column types before trying numeric conversion
-        for col in df_numeric.columns:
-            if col in ['local_authority', 'query_id', 'prompt_variation', 'query_text', 'output_file', 
-                      'trace_url', 'run_id', 'error', 'answer']:
-                # Skip string columns that should never be numeric
-                continue
+        # Calculate enhanced statistics
+        prompt_performance = {}
+        if not df.empty:
+            for prompt in df['prompt_variation'].unique():
+                prompt_data = df[df['prompt_variation'] == prompt]
+                performance = {
+                    'total_tests': len(prompt_data),
+                    'success_rate': len(prompt_data[prompt_data['error'].isna()]) / len(prompt_data) if len(prompt_data) > 0 else 0,
+                    'avg_processing_time': prompt_data['processing_time'].mean() if 'processing_time' in prompt_data.columns else 0,
+                    'avg_answer_length': prompt_data['answer_length'].mean() if 'answer_length' in prompt_data.columns else 0,
+                    'enhanced_retrieval_usage': sum(1 for _, row in prompt_data.iterrows() 
+                                                   if row.get('enhanced_features_used', {}).get('enhanced_retrieval', False)) / len(prompt_data) if len(prompt_data) > 0 else 0
+                }
                 
-            # For potentially numeric columns, convert safely with coercion
-            try:
-                df_numeric[col] = pd.to_numeric(df_numeric[col], errors='coerce')
-            except:
-                logger.warning(f"Could not convert column '{col}' to numeric")
+                # Add evaluation scores if available
+                for col in numeric_eval_cols:
+                    if col in prompt_data.columns:
+                        scores = prompt_data[col].dropna()
+                        if len(scores) > 0:
+                            performance[f'avg_{col}'] = scores.mean()
+                
+                prompt_performance[prompt] = performance
         
-        # IMPROVED: Only select columns that are actually numeric for aggregation
-        numeric_eval_cols = [col for col in eval_columns if col in df_numeric.columns 
-                            and pd.api.types.is_numeric_dtype(df_numeric[col])]
-        
-        # Calculate average scores per prompt variation - handle missing values
-        if numeric_eval_cols:
-            avg_scores = df_numeric.groupby('prompt_variation')[numeric_eval_cols].mean()
-        else:
-            # Create empty DataFrame if no evaluation metrics available
-            avg_scores = pd.DataFrame(index=df_numeric['prompt_variation'].unique())
-        
-        # Add processing time if available
-        if 'processing_time' in df_numeric.columns and pd.api.types.is_numeric_dtype(df_numeric['processing_time']):
-            if avg_scores.empty:
-                avg_scores = df_numeric.groupby('prompt_variation')['processing_time'].mean().to_frame()
-            else:
-                avg_times = df_numeric.groupby('prompt_variation')['processing_time'].mean()
-                avg_scores = pd.concat([avg_scores, avg_times], axis=1)
-        
-        # Add a combined score column if possible
-        if numeric_eval_cols and not avg_scores.empty:
-            try:
-                avg_scores['combined_score'] = avg_scores[numeric_eval_cols].mean(axis=1)
-                # Sort by combined score
-                avg_scores = avg_scores.sort_values('combined_score', ascending=False)
-            except Exception as e:
-                logger.warning(f"Could not calculate combined score: {str(e)}")
-                # Don't sort if we can't calculate combined score
-        elif 'processing_time' in avg_scores.columns:
-            # Sort by processing time if no evaluation metrics
-            avg_scores = avg_scores.sort_values('processing_time')
-            
-        # Generate HTML
+        # Generate enhanced HTML with more insights
         html = f"""
         <html>
         <head>
-            <title>Prompt Variation Test Results</title>
+            <title>Enhanced RAG System Test Results</title>
             <style>
                 body {{ font-family: Arial, sans-serif; margin: 20px; }}
                 h1, h2, h3 {{ color: #333; }}
+                .summary-box {{ background-color: #f0f8ff; padding: 15px; border-radius: 5px; margin-bottom: 20px; }}
+                .insight-box {{ background-color: #f0fff0; padding: 15px; border-radius: 5px; margin-bottom: 20px; }}
                 table {{ border-collapse: collapse; width: 100%; margin-bottom: 20px; }}
                 th, td {{ padding: 8px; text-align: left; border-bottom: 1px solid #ddd; }}
                 th {{ background-color: #f2f2f2; }}
                 tr:hover {{ background-color: #f5f5f5; }}
                 .best {{ background-color: #d4edda; }}
                 .worst {{ background-color: #f8d7da; }}
+                .enhanced {{ background-color: #e3f2fd; }}
                 .metric-bar {{ background-color: #007bff; height: 20px; border-radius: 2px; }}
             </style>
         </head>
         <body>
-            <h1>Prompt Variation Test Results</h1>
-            <p>Generated on {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}</p>
+            <h1>Enhanced RAG System Test Results</h1>
+            <div class="summary-box">
+                <h3>Test Summary</h3>
+                <p>Generated on {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}</p>
+                <p>Total Tests: {len(df)}</p>
+                <p>Local Authorities: {len(df['local_authority'].unique()) if not df.empty else 0}</p>
+                <p>Prompt Variations: {len(df['prompt_variation'].unique()) if not df.empty else 0}</p>
+                <p>Enhanced Retrieval Used: {sum(1 for _, row in df.iterrows() if row.get('enhanced_features_used', {}).get('enhanced_retrieval', False)) if not df.empty else 0} tests</p>
+            </div>
             
-            <h2>Overall Performance by Prompt Variation</h2>
+            <h2>Enhanced Performance by Prompt Variation</h2>
             <table>
                 <tr>
                     <th>Prompt Variation</th>
-                    <th>Processing Time</th>
-                    <th>Combined Score</th>
-                    <th>Relevance</th>
-                    <th>Completeness</th>
-                    <th>Accuracy</th>
+                    <th>Success Rate</th>
+                    <th>Avg Processing Time</th>
+                    <th>Avg Answer Length</th>
+                    <th>Enhanced Retrieval Usage</th>
+                    <th>Overall Performance</th>
                 </tr>
         """
         
-        # Add rows for each prompt variation
-        for prompt, row in avg_scores.iterrows():
-            # Determine if this is the best prompt
-            is_best = False
-            if 'combined_score' in row and not pd.isna(row['combined_score']):
-                is_best = row['combined_score'] == avg_scores['combined_score'].max()
-            row_class = "best" if is_best else ""
+        # Add rows for each prompt variation with enhanced metrics
+        for prompt, stats in prompt_performance.items():
+            success_rate = f"{stats['success_rate']:.1%}"
+            processing_time = f"{stats['avg_processing_time']:.2f}s" if stats['avg_processing_time'] else "N/A"
+            answer_length = f"{stats['avg_answer_length']:.0f} chars" if stats['avg_answer_length'] else "N/A"
+            enhanced_usage = f"{stats['enhanced_retrieval_usage']:.1%}"
             
-            # Format values safely
-            combined = f"{row['combined_score']:.2f}" if 'combined_score' in row and not pd.isna(row['combined_score']) else "N/A"
-            relevance = f"{row['relevance_score']:.2f}" if not pd.isna(row['relevance_score']) else "N/A"
-            completeness = f"{row['completeness_score']:.2f}" if not pd.isna(row['completeness_score']) else "N/A"
-            accuracy = f"{row['accuracy_score']:.2f}" if not pd.isna(row['accuracy_score']) else "N/A"
-            proc_time = f"{row['processing_time']:.2f}s" if 'processing_time' in row and not pd.isna(row['processing_time']) else "N/A"
+            # Calculate overall performance score
+            overall_score = (stats['success_rate'] + stats['enhanced_retrieval_usage']) / 2
+            overall_class = "best" if overall_score > 0.8 else "worst" if overall_score < 0.5 else ""
             
             html += f"""
-                <tr class="{row_class}">
+                <tr class="{overall_class}">
                     <td>{prompt}</td>
-                    <td>{proc_time}</td>
-                    <td>{combined}</td>
-                    <td>{relevance}</td>
-                    <td>{completeness}</td>
-                    <td>{accuracy}</td>
+                    <td>{success_rate}</td>
+                    <td>{processing_time}</td>
+                    <td>{answer_length}</td>
+                    <td>{enhanced_usage}</td>
+                    <td>{overall_score:.2f}</td>
                 </tr>
             """
         
-        html += """
-            </table>
-            
-            <h2>Performance by Local Authority</h2>
-            <table>
-                <tr>
-                    <th>Local Authority</th>
-                    <th>Average Relevance</th>
-                    <th>Average Completeness</th>
-                    <th>Average Accuracy</th>
-                </tr>
-        """
-        
-        # Add rows for each local authority
-        la_scores = df.groupby('local_authority')[eval_columns].mean()
-        for la, row in la_scores.iterrows():
-            # Format values safely
-            relevance = f"{row['relevance_score']:.2f}" if not pd.isna(row['relevance_score']) else "N/A"
-            completeness = f"{row['completeness_score']:.2f}" if not pd.isna(row['completeness_score']) else "N/A"
-            accuracy = f"{row['accuracy_score']:.2f}" if not pd.isna(row['accuracy_score']) else "N/A"
-            
-            html += f"""
-                <tr>
-                    <td>{la}</td>
-                    <td>{relevance}</td>
-                    <td>{completeness}</td>
-                    <td>{accuracy}</td>
-                </tr>
-            """
-        
+        # Add query type analysis
         html += """
             </table>
             
             <h2>Performance by Query Type</h2>
             <table>
                 <tr>
-                    <th>Query ID</th>
-                    <th>Average Relevance</th>
-                    <th>Average Completeness</th>
-                    <th>Average Accuracy</th>
+                    <th>Query Type</th>
+                    <th>Count</th>
+                    <th>Avg Success Rate</th>
+                    <th>Avg Processing Time</th>
                 </tr>
         """
         
-        # Add rows for each query type
-        query_scores = df.groupby('query_id')[eval_columns].mean()
-        for query, row in query_scores.iterrows():
-            # Format values safely
-            relevance = f"{row['relevance_score']:.2f}" if not pd.isna(row['relevance_score']) else "N/A"
-            completeness = f"{row['completeness_score']:.2f}" if not pd.isna(row['completeness_score']) else "N/A"
-            accuracy = f"{row['accuracy_score']:.2f}" if not pd.isna(row['accuracy_score']) else "N/A"
+        if not df.empty:
+            query_type_stats = df.groupby('query_type').agg({
+                'query_id': 'count',
+                'error': lambda x: (x.isna()).mean(),
+                'processing_time': 'mean'
+            }).round(3)
             
-            html += f"""
-                <tr>
-                    <td>{query}</td>
-                    <td>{relevance}</td>
-                    <td>{completeness}</td>
-                    <td>{accuracy}</td>
-                </tr>
-            """
+            for query_type, stats in query_type_stats.iterrows():
+                html += f"""
+                    <tr>
+                        <td>{query_type}</td>
+                        <td>{stats['query_id']}</td>
+                        <td>{stats['error']:.1%}</td>
+                        <td>{stats['processing_time']:.2f}s</td>
+                    </tr>
+                """
         
         html += """
             </table>
             
-            <h2>All Test Results</h2>
-            <table>
-                <tr>
-                    <th>LA</th>
-                    <th>Query</th>
-                    <th>Prompt</th>
-                    <th>Time (s)</th>
-                    <th>Docs</th>
-                    <th>LangSmith</th>
-                </tr>
+            <div class="insight-box">
+                <h3>Key Insights & Recommendations</h3>
+                <ul>
         """
         
-        # Add rows for all tests
-        for _, row in df.iterrows():
-            time_str = f"{row['processing_time']:.2f}" if pd.notna(row['processing_time']) else "N/A"
-            langsmith_link = f"<a href='{row['trace_url']}'>View Trace</a>" if pd.notna(row['trace_url']) else "N/A"
+        # Generate insights based on data
+        if not df.empty:
+            # Budget query performance
+            budget_queries = df[df['query_type'] == 'budget']
+            if len(budget_queries) > 0:
+                budget_success = (budget_queries['error'].isna()).mean()
+                if budget_success < 0.7:
+                    html += "<li>Budget queries show lower success rates - consider optimizing budget-specific prompts</li>"
+                elif budget_success > 0.9:
+                    html += "<li>Budget queries perform excellently - good budget information retrieval</li>"
             
-            html += f"""
-                <tr>
-                    <td>{row['local_authority']}</td>
-                    <td>{row['query_id']}</td>
-                    <td>{row['prompt_variation']}</td>
-                    <td>{time_str}</td>
-                    <td>{row['retrieved_docs_count']}</td>
-                    <td>{langsmith_link}</td>
-                </tr>
-            """
+            # Enhanced retrieval effectiveness
+            enhanced_used = sum(1 for _, row in df.iterrows() 
+                              if row.get('enhanced_features_used', {}).get('enhanced_retrieval', False))
+            if enhanced_used > 0:
+                html += f"<li>Enhanced retrieval was used in {enhanced_used} tests - monitor performance improvements</li>"
+            
+            # Best performing prompt
+            if prompt_performance:
+                best_prompt = max(prompt_performance.items(), 
+                                key=lambda x: (x[1]['success_rate'] + x[1]['enhanced_retrieval_usage']) / 2)
+                html += f"<li>Best performing prompt variation: <strong>{best_prompt[0]}</strong></li>"
         
         html += """
-            </table>
+                </ul>
+            </div>
         </body>
         </html>
         """
         
         # Save the HTML report
-        report_file = output_dir / "test_report.html"
+        report_file = output_dir / "enhanced_test_report.html"
         with open(report_file, "w") as f:
             f.write(html)
 
 def main():
-    """Main entry point for the script."""
-    parser = argparse.ArgumentParser(description="Test prompt variations for RAG System")
+    """Main entry point for enhanced prompt testing."""
+    parser = argparse.ArgumentParser(description="Enhanced Prompt Testing for RAG System with SOTA Evaluation")
     parser.add_argument("--vector_db_path", default="./output", help="Base path for vector databases")
     parser.add_argument("--results_path", default="./prompt_test_results", help="Path to save test results")
     parser.add_argument("--las", nargs='+', required=True, help="List of Local Authorities to test")
-    parser.add_argument("--top_k", type=int, default=10, help="Number of documents to retrieve per query")
+    parser.add_argument("--top_k", type=int, default=15, help="Number of documents to retrieve per query (increased for enhanced retrieval)")
     parser.add_argument("--standard_queries_only", action="store_true", help="Use only standard queries, no scenarios")
     parser.add_argument("--scenario_queries_only", action="store_true", help="Use only scenario queries, no standard ones")
     parser.add_argument("--prompt", choices=list(PROMPT_VARIATIONS.keys()), help="Test only a specific prompt variation")
     parser.add_argument("--langsmith_key", help="LangSmith API key for tracing")
-    parser.add_argument("--run_evaluation", action="store_true", help="Run LLM-as-judge evaluation")
+    parser.add_argument("--run_evaluation", action="store_true", help="Run enhanced SOTA evaluation")
+    parser.add_argument("--skip_dataset_creation", action="store_true", help="Skip creating evaluation dataset")
     
     args = parser.parse_args()
     
-    # Validate local authorities - ensure we have DB folders for them
+    # Validate local authorities
     valid_las = []
     for la in args.las:
         db_path = Path(args.vector_db_path) / f"{la.lower()}_db"
@@ -834,82 +901,42 @@ def main():
         console.print(f"[bold]Testing only the '{args.prompt}' prompt variation[/bold]")
     else:
         test_prompts = PROMPT_VARIATIONS
-        console.print(f"[bold]Testing all {len(test_prompts)} prompt variations[/bold]")
+        console.print(f"[bold]Testing all {len(test_prompts)} prompt variations (including optimized)[/bold]")
     
-    # Initialize prompt tester
-    tester = PromptTester(
+    # Initialize enhanced prompt tester
+    tester = EnhancedPromptTester(
         vector_db_base_path=args.vector_db_path,
         results_path=args.results_path,
         langsmith_api_key=args.langsmith_key or os.getenv("LANGSMITH_API_KEY"),
         openai_api_key=os.getenv("OPENAI_API_KEY")
     )
     
-    # Run the tests
-    console.print("\n[bold blue]Starting prompt variation testing...[/bold blue]")
-    df, results_dir = tester.run_tests(
+    # Run the enhanced tests
+    console.print("\n[bold blue]Starting enhanced prompt variation testing with SOTA evaluation...[/bold blue]")
+    df, results_dir = tester.run_enhanced_tests(
         local_authorities=valid_las,
         queries=test_queries,
         prompt_variations=test_prompts,
         top_k=args.top_k,
-        run_evaluation=args.run_evaluation
+        run_evaluation=args.run_evaluation,
+        create_dataset=not args.skip_dataset_creation
     )
     
-    # Display summary statistics
-    console.print("\n[bold]Summary Statistics:[/bold]")
-
-    # Average scores by prompt variation - safely handle numeric columns
-    console.print("\n[bold cyan]Average Scores by Prompt Variation:[/bold cyan]")
-
-    # Create a copy for numeric operations
-    df_numeric = df.copy()
-
-    # Convert only numeric columns - safely handle any errors
-    for col in df_numeric.columns:
-        if col in ['local_authority', 'query_id', 'prompt_variation', 'query_text', 'output_file', 
-                'trace_url', 'run_id', 'error', 'answer']:
-            # Skip string columns
-            continue
-        
-        # Convert potential numeric columns safely
-        try:
-            df_numeric[col] = pd.to_numeric(df_numeric[col], errors='coerce')
-        except:
-            logger.warning(f"Could not convert column '{col}' to numeric")
-
-    # Only use numeric columns for groupby mean calculation
-    numeric_cols = ['processing_time', 'retrieved_docs_count', 'answer_length']
-    numeric_cols = [col for col in numeric_cols if col in df_numeric.columns 
-                and pd.api.types.is_numeric_dtype(df_numeric[col])]
-
-    # Get averages only for truly numeric columns
-    avg_by_prompt = df_numeric.groupby('prompt_variation')[numeric_cols].mean().reset_index()
-
-    # Find the best prompt variation based on processing time - with safety checks
-    if 'processing_time' in avg_by_prompt.columns and not avg_by_prompt.empty:
-        best_idx = avg_by_prompt['processing_time'].idxmin()
-        if pd.notna(best_idx):
-            best_prompt = avg_by_prompt.loc[best_idx, 'prompt_variation']
-            best_time = avg_by_prompt.loc[best_idx, 'processing_time']
-        else:
-            best_prompt = "Unknown"
-            best_time = float('nan')
-    else:
-        best_prompt = "Unknown"
-        best_time = float('nan')
-
-    # Print the table with safe formatting
-    for _, row in avg_by_prompt.iterrows():
-        time_str = f"Processing time={row['processing_time']:.2f}s, " if 'processing_time' in row and pd.notna(row['processing_time']) else "Processing time=N/A, "
-        docs_str = f"Documents={row['retrieved_docs_count']:.1f}, " if 'retrieved_docs_count' in row and pd.notna(row['retrieved_docs_count']) else "Documents=N/A, "
-        len_str = f"Answer length={row['answer_length']:.1f}" if 'answer_length' in row and pd.notna(row['answer_length']) else "Answer length=N/A"
+    # Display enhanced summary statistics
+    console.print("\n[bold]Enhanced Summary Statistics:[/bold]")
+    console.print(f"Total tests completed: {len(df)}")
+    console.print(f"Success rate: {(df['error'].isna()).mean():.1%}" if not df.empty else "No data")
     
-        console.print(f"{row['prompt_variation']}: {time_str}{docs_str}{len_str}")
-
-    # Only show best prompt if we found a valid one
-    if best_prompt != "Unknown" and pd.notna(best_time):
-        console.print(f"\n[bold green]Best performing prompt variation (by speed): {best_prompt} (Time: {best_time:.2f}s)[/bold green]")
-    else:
-        console.print("\n[bold yellow]Could not determine best prompt variation[/bold yellow]")
+    if not df.empty:
+        # Enhanced retrieval usage
+        enhanced_usage = sum(1 for _, row in df.iterrows() 
+                           if row.get('enhanced_features_used', {}).get('enhanced_retrieval', False))
+        console.print(f"Enhanced retrieval usage: {enhanced_usage}/{len(df)} tests ({enhanced_usage/len(df):.1%})")
+        
+        # Best prompt by success rate
+        prompt_success = df.groupby('prompt_variation')['error'].apply(lambda x: x.isna().mean())
+        best_prompt = prompt_success.idxmax()
+        console.print(f"Best performing prompt: {best_prompt} ({prompt_success[best_prompt]:.1%} success rate)")
 
 if __name__ == "__main__":
     main()
